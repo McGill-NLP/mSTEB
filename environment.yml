@@ -1,0 +1,22 @@
+name: gemma3-env
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - numpy=1.26
+  - pandas
+  - matplotlib
+  - requests
+  - tqdm
+  - lxml
+  - plotly
+  - setuptools
+  - ipykernel
+  - ipywidgets
+  - jupyterlab>=3.0.0
+  - ipdb
+  - scikit-learn
+  - transformers
+  - torch
+  - torchvision
+  - torchaudio

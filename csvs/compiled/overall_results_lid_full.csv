@@ -1,0 +1,205 @@
+language_name,language_code,language_family,Accuracy gpt-4o,Accuracy gemini2-Flash,Accuracy Gemma3-27B,region
+Acehnese (Arabic script),ace_Arab,Austronesian,99.5,98.5,97.8,Asia 3
+Acehnese (Latin script),ace_Latn,Austronesian,93.6,99.6,96.9,Asia 3
+Mesopotamian Arabic,acm_Arab,Afro-Asiatic,100.0,100.0,99.8,Asia 1
+Ta’izzi-Adeni Arabic,acq_Arab,Afro-Asiatic,100.0,99.9,99.8,Asia 1
+Tunisian Arabic,aeb_Arab,Afro-Asiatic,100.0,99.9,99.9,Africa
+Afrikaans,afr_Latn,Indo-European,100.0,99.9,99.7,Africa
+South Levantine Arabic,ajp_Arab,Afro-Asiatic,100.0,100.0,99.9,Asia 1
+Akan,aka_Latn,Atlantic-Congo,46.8,53.0,33.4,Africa
+Tosk Albanian,als_Latn,Indo-European,100.0,100.0,100.0,Europe 1
+Amharic,amh_Ethi,Afro-Asiatic,100.0,100.0,99.8,Africa
+North Levantine Arabic,apc_Arab,Afro-Asiatic,100.0,99.9,99.9,Asia 1
+Modern Standard Arabic,arb_Arab,Afro-Asiatic,100.0,100.0,99.8,Asia 1
+Modern Standard Arabic (Romanized),arb_Latn,Afro-Asiatic,100.0,99.8,99.9,Asia 1
+Najdi Arabic,ars_Arab,Afro-Asiatic,100.0,100.0,99.8,Asia 1
+Moroccan Arabic,ary_Arab,Afro-Asiatic,100.0,98.7,98.7,Africa
+Egyptian Arabic,arz_Arab,Afro-Asiatic,100.0,100.0,99.9,Africa
+Assamese,asm_Beng,Indo-European,98.5,100.0,99.8,Asia 2
+Asturian,ast_Latn,Indo-European,97.3,90.6,62.3,Europe 1
+Awadhi,awa_Deva,Indo-European,4.9,32.7,0.3,Asia 2
+Central Aymara,ayr_Latn,Aymaran,99.7,99.7,12.8,Americas/Oceania
+South Azerbaijani,azb_Arab,Turkic,91.4,91.4,92.0,Asia 1
+North Azerbaijani,azj_Latn,Turkic,100.0,99.9,99.4,Asia 1
+Bashkir,bak_Cyrl,Turkic,88.1,98.6,98.7,Europe 2
+Bambara,bam_Latn,Mande,89.0,91.9,87.9,Africa
+Balinese,ban_Latn,Austronesian,86.6,91.4,86.7,Asia 3
+Belarusian,bel_Cyrl,Indo-European,92.8,99.9,100.0,Europe 2
+Bemba,bem_Latn,Atlantic-Congo,93.9,98.7,82.3,Africa
+Bengali,ben_Beng,Indo-European,99.9,100.0,100.0,Asia 2
+Bhojpuri,bho_Deva,Indo-European,84.3,92.8,42.3,Asia 2
+Banjar (Arabic script),bjn_Arab,Austronesian,0.0,0.0,0.0,Asia 3
+Banjar (Latin script),bjn_Latn,Austronesian,54.4,72.9,29.8,Asia 3
+Standard Tibetan,bod_Tibt,Sino-Tibetan,100.0,99.9,99.9,Asia 3
+Bosnian,bos_Latn,Indo-European,100.0,100.0,99.8,Europe 1
+Buginese,bug_Latn,Austronesian,3.7,82.8,79.7,Asia 3
+Bulgarian,bul_Cyrl,Indo-European,100.0,100.0,99.8,Europe 2
+Catalan,cat_Latn,Indo-European,100.0,99.7,99.8,Europe 1
+Cebuano,ceb_Latn,Austronesian,99.9,99.6,99.1,Asia 3
+Czech,ces_Latn,Indo-European,99.8,99.9,100.0,Europe 2
+Chokwe,cjk_Latn,Atlantic-Congo,8.6,4.2,1.0,Africa
+Central Kurdish,ckb_Arab,Indo-European,100.0,99.4,100.0,Asia 1
+Crimean Tatar,crh_Latn,Turkic,76.1,88.7,27.4,Europe 2
+Welsh,cym_Latn,Indo-European,100.0,100.0,100.0,Europe 1
+Danish,dan_Latn,Indo-European,99.7,98.7,99.2,Europe 1
+German,deu_Latn,Indo-European,97.5,100.0,100.0,Europe 1
+Southwestern Dinka,dik_Latn,Nilotic,82.2,98.9,93.7,Africa
+Dyula,dyu_Latn,Mande,0.0,0.5,0.0,Africa
+Dzongkha,dzo_Tibt,Sino-Tibetan,0.2,77.9,6.0,Asia 2
+Greek,ell_Grek,Indo-European,100.0,100.0,100.0,Europe 1
+English,eng_Latn,Indo-European,99.9,99.2,98.1,Europe 1
+Esperanto,epo_Latn,Constructed,100.0,100.0,100.0,Europe 2
+Estonian,est_Latn,Uralic,100.0,100.0,99.9,Europe 1
+Basque,eus_Latn,Basque,99.9,99.9,99.8,Europe 1
+Ewe,ewe_Latn,Atlantic-Congo,100.0,100.0,99.6,Africa
+Faroese,fao_Latn,Indo-European,98.6,97.3,91.2,Europe 1
+Fijian,fij_Latn,Austronesian,100.0,99.8,99.5,Americas/Oceania
+Finnish,fin_Latn,Uralic,100.0,100.0,100.0,Europe 1
+Fon,fon_Latn,Atlantic-Congo,2.6,68.6,11.9,Africa
+French,fra_Latn,Indo-European,95.2,99.9,99.9,Europe 1
+Friulian,fur_Latn,Indo-European,96.9,99.8,91.7,Europe 1
+Nigerian Fulfulde,fuv_Latn,Atlantic-Congo,68.9,75.3,48.6,Africa
+West Central Oromo,gaz_Latn,Afro-Asiatic,99.9,100.0,100.0,Africa
+Scottish Gaelic,gla_Latn,Indo-European,100.0,96.3,98.3,Europe 1
+Irish,gle_Latn,Indo-European,98.8,100.0,99.9,Europe 1
+Galician,glg_Latn,Indo-European,97.4,96.3,93.5,Europe 1
+Guarani,grn_Latn,Tupian,99.6,99.8,4.6,Americas/Oceania
+Gujarati,guj_Gujr,Indo-European,99.6,100.0,99.9,Asia 2
+Haitian Creole,hat_Latn,Indo-European,99.9,99.1,98.8,Americas/Oceania
+Hausa,hau_Latn,Afro-Asiatic,100.0,99.9,100.0,Africa
+Hebrew,heb_Hebr,Afro-Asiatic,97.6,100.0,100.0,Asia 1
+Hindi,hin_Deva,Indo-European,99.1,99.6,98.8,Asia 2
+Chhattisgarhi,hne_Deva,Indo-European,37.3,36.2,13.7,Asia 2
+Croatian,hrv_Latn,Indo-European,72.7,99.4,92.5,Europe 2
+Hungarian,hun_Latn,Uralic,100.0,100.0,100.0,Europe 2
+Armenian,hye_Armn,Indo-European,100.0,100.0,100.0,Asia 1
+Igbo,ibo_Latn,Atlantic-Congo,99.9,100.0,100.0,Africa
+Ilocano,ilo_Latn,Austronesian,99.3,83.1,63.9,Asia 3
+Indonesian,ind_Latn,Austronesian,98.6,98.5,91.1,Asia 3
+Icelandic,isl_Latn,Indo-European,100.0,100.0,100.0,Europe 1
+Italian,ita_Latn,Indo-European,100.0,100.0,100.0,Europe 1
+Javanese,jav_Latn,Austronesian,99.8,100.0,84.0,Asia 3
+Japanese,jpn_Jpan,Japonic,100.0,100.0,99.8,Asia 4
+Kabyle,kab_Latn,Afro-Asiatic,43.7,20.2,53.3,Africa
+Jingpho,kac_Latn,Sino-Tibetan,83.9,64.4,72.6,Asia 3
+Kamba,kam_Latn,Atlantic-Congo,51.7,55.4,8.7,Africa
+Kannada,kan_Knda,Dravidian,98.4,100.0,100.0,Asia 2
+Kashmiri (Arabic script),kas_Arab,Indo-European,93.6,91.7,93.6,Asia 2
+Kashmiri (Devanagari script),kas_Deva,Indo-European,76.0,43.2,44.8,Asia 2
+Georgian,kat_Geor,Kartvelian,99.5,100.0,100.0,Asia 1
+Kazakh,kaz_Cyrl,Turkic,99.8,99.9,99.8,Asia 1
+Kabiyè,kbp_Latn,Atlantic-Congo,1.4,81.6,0.0,Africa
+Kabuverdianu,kea_Latn,Indo-European,71.7,90.5,33.6,Africa
+Halh Mongolian,khk_Cyrl,Mongolic-Khitan,100.0,100.0,100.0,Asia 4
+Khmer,khm_Khmr,Austroasiatic,100.0,100.0,100.0,Asia 3
+Kikuyu,kik_Latn,Atlantic-Congo,99.5,100.0,99.7,Africa
+Kinyarwanda,kin_Latn,Atlantic-Congo,99.6,100.0,99.9,Africa
+Kyrgyz,kir_Cyrl,Turkic,98.9,99.8,99.7,Asia 1
+Kimbundu,kmb_Latn,Atlantic-Congo,12.7,41.9,0.3,Africa
+Northern Kurdish,kmr_Latn,Indo-European,99.7,99.9,99.8,Asia 1
+Central Kanuri (Arabic script),knc_Arab,Nilotic,0.1,2.8,0.0,Africa
+Central Kanuri (Latin script),knc_Latn,Nilotic,0.2,1.8,1.5,Africa
+Kikongo,kon_Latn,Atlantic-Congo,81.4,96.1,14.7,Africa
+Korean,kor_Hang,Koreanic,100.0,100.0,100.0,Asia 4
+Lao,lao_Laoo,Tai-Kadai,100.0,100.0,100.0,Asia 3
+Ligurian,lij_Latn,Indo-European,90.5,97.7,81.9,Europe 1
+Limburgish,lim_Latn,Indo-European,92.6,65.6,31.6,Europe 1
+Lingala,lin_Latn,Atlantic-Congo,100.0,99.9,98.9,Africa
+Lithuanian,lit_Latn,Indo-European,99.7,100.0,100.0,Europe 1
+Lombard,lmo_Latn,Indo-European,88.1,89.9,64.0,Europe 1
+Latgalian,ltg_Latn,Indo-European,99.8,99.7,99.3,Europe 2
+Luxembourgish,ltz_Latn,Indo-European,99.8,99.9,99.8,Europe 1
+Luba-Kasai,lua_Latn,Atlantic-Congo,27.1,94.6,2.8,Africa
+Ganda,lug_Latn,Atlantic-Congo,99.7,99.6,99.0,Africa
+Luo,luo_Latn,Nilotic,98.8,99.2,73.2,Africa
+Mizo,lus_Latn,Sino-Tibetan,99.8,98.9,95.3,Asia 2
+Standard Latvian,lvs_Latn,Indo-European,100.0,100.0,100.0,Europe 1
+Magahi,mag_Deva,Indo-European,0.1,0.0,0.0,Asia 2
+Maithili,mai_Deva,Indo-European,88.1,86.7,83.6,Asia 2
+Malayalam,mal_Mlym,Dravidian,98.9,100.0,100.0,Asia 2
+Marathi,mar_Deva,Indo-European,99.7,99.8,99.8,Asia 2
+Minangkabau (Arabic script),min_Arab,Austronesian,0.7,0.0,0.2,Asia 3
+Minangkabau (Latin script),min_Latn,Austronesian,87.2,86.1,45.9,Asia 3
+Macedonian,mkd_Cyrl,Indo-European,98.3,100.0,99.7,Europe 2
+Maltese,mlt_Latn,Afro-Asiatic,100.0,99.9,100.0,Europe 1
+Meitei (Bengali script),mni_Beng,Sino-Tibetan,93.9,100.0,98.3,Asia 2
+Mossi,mos_Latn,Atlantic-Congo,20.7,83.7,1.0,Africa
+Maori,mri_Latn,Austronesian,100.0,99.9,99.9,Americas/Oceania
+Burmese,mya_Mymr,Sino-Tibetan,99.9,100.0,100.0,Asia 3
+Dutch,nld_Latn,Indo-European,99.9,99.9,99.9,Europe 1
+Norwegian Nynorsk,nno_Latn,Indo-European,97.9,99.5,99.5,Europe 1
+Norwegian Bokmål,nob_Latn,Indo-European,99.8,99.7,99.0,Europe 1
+Nepali,npi_Deva,Indo-European,98.5,100.0,100.0,Asia 2
+Northern Sotho,nso_Latn,Atlantic-Congo,98.7,97.0,99.6,Africa
+Nuer,nus_Latn,Nilotic,40.1,36.3,12.5,Africa
+Nyanja,nya_Latn,Atlantic-Congo,100.0,99.4,98.5,Africa
+Occitan,oci_Latn,Indo-European,99.0,97.6,93.8,Europe 1
+Odia,ory_Orya,Indo-European,99.4,99.3,100.0,Asia 2
+Pangasinan,pag_Latn,Austronesian,51.8,97.9,35.3,Asia 3
+Eastern Panjabi,pan_Guru,Indo-European,99.8,100.0,100.0,Asia 2
+Papiamento,pap_Latn,Indo-European,98.4,97.7,98.0,Americas/Oceania
+Southern Pashto,pbt_Arab,Indo-European,100.0,99.7,94.6,Asia 1
+Western Persian,pes_Arab,Indo-European,99.1,99.9,99.7,Asia 1
+Plateau Malagasy,plt_Latn,Austronesian,100.0,100.0,100.0,Africa
+Polish,pol_Latn,Indo-European,100.0,100.0,100.0,Europe 2
+Portuguese,por_Latn,Indo-European,100.0,99.9,100.0,Europe 1
+Dari,prs_Arab,Indo-European,99.2,99.3,99.7,Asia 1
+Ayacucho Quechua,quy_Latn,Quechuan,100.0,100.0,99.9,Americas/Oceania
+Romanian,ron_Latn,Indo-European,99.9,100.0,100.0,Europe 2
+Rundi,run_Latn,Atlantic-Congo,69.6,72.1,42.9,Africa
+Russian,rus_Cyrl,Indo-European,99.7,99.8,99.7,Europe 2
+Sango,sag_Latn,Atlantic-Congo,84.8,99.2,31.4,Africa
+Sanskrit,san_Deva,Indo-European,99.3,97.3,96.7,Asia 2
+Santali,sat_Olck,Austroasiatic,99.7,99.8,39.3,Asia 2
+Sicilian,scn_Latn,Indo-European,99.2,99.5,93.6,Europe 1
+Shan,shn_Mymr,Tai-Kadai,98.5,100.0,36.4,Asia 3
+Sinhala,sin_Sinh,Indo-European,97.7,100.0,100.0,Asia 2
+Slovak,slk_Latn,Indo-European,100.0,100.0,98.7,Europe 2
+Slovenian,slv_Latn,Indo-European,99.8,100.0,99.2,Europe 1
+Samoan,smo_Latn,Austronesian,100.0,100.0,99.9,Americas/Oceania
+Shona,sna_Latn,Atlantic-Congo,100.0,100.0,99.9,Africa
+Sindhi,snd_Arab,Indo-European,99.9,99.9,100.0,Asia 2
+Somali,som_Latn,Afro-Asiatic,100.0,100.0,100.0,Africa
+Southern Sotho,sot_Latn,Atlantic-Congo,95.7,97.5,85.0,Africa
+Spanish,spa_Latn,Indo-European,96.7,100.0,99.9,Europe 1
+Sardinian,srd_Latn,Indo-European,98.5,98.7,97.8,Europe 1
+Serbian,srp_Cyrl,Indo-European,99.8,99.5,99.7,Europe 2
+Swati,ssw_Latn,Atlantic-Congo,61.2,93.0,45.8,Africa
+Sundanese,sun_Latn,Austronesian,99.0,97.5,97.8,Asia 3
+Swedish,swe_Latn,Indo-European,100.0,100.0,100.0,Europe 1
+Swahili,swh_Latn,Atlantic-Congo,100.0,99.8,100.0,Africa
+Silesian,szl_Latn,Indo-European,92.4,73.1,0.4,Europe 2
+Tamil,tam_Taml,Dravidian,98.6,100.0,99.9,Asia 2
+Tamasheq (Latin script),taq_Latn,Afro-Asiatic,1.5,38.1,1.3,Africa
+Tamasheq (Tifinagh script),taq_Tfng,Afro-Asiatic,0.0,0.1,0.0,Africa
+Tatar,tat_Cyrl,Turkic,99.9,99.7,94.1,Europe 2
+Telugu,tel_Telu,Dravidian,83.7,99.9,100.0,Asia 2
+Tajik,tgk_Cyrl,Indo-European,99.2,100.0,99.9,Asia 1
+Tagalog,tgl_Latn,Austronesian,100.0,99.9,100.0,Asia 3
+Thai,tha_Thai,Tai-Kadai,99.4,100.0,99.9,Asia 3
+Tigrinya,tir_Ethi,Afro-Asiatic,99.8,98.9,100.0,Africa
+Tok Pisin,tpi_Latn,Indo-European,99.2,99.7,99.0,Americas/Oceania
+Tswana,tsn_Latn,Atlantic-Congo,99.3,99.1,98.0,Africa
+Tsonga,tso_Latn,Atlantic-Congo,99.0,99.8,96.5,Africa
+Turkmen,tuk_Latn,Turkic,99.5,99.9,99.9,Asia 1
+Tumbuka,tum_Latn,Atlantic-Congo,4.0,24.8,0.2,Africa
+Turkish,tur_Latn,Turkic,99.4,99.9,99.9,Asia 1
+Twi,twi_Latn,Atlantic-Congo,99.9,99.9,99.5,Africa
+Central Atlas Tamazight,tzm_Tfng,Afro-Asiatic,15.5,99.8,94.1,Africa
+Uyghur,uig_Arab,Turkic,98.3,100.0,100.0,Asia 1
+Ukrainian,ukr_Cyrl,Indo-European,99.9,100.0,99.9,Europe 2
+Umbundu,umb_Latn,Atlantic-Congo,39.5,76.1,5.0,Africa
+Urdu,urd_Arab,Indo-European,97.4,99.8,99.5,Asia 2
+Northern Uzbek,uzn_Latn,Turkic,100.0,99.7,100.0,Asia 1
+Venetian,vec_Latn,Indo-European,97.1,96.0,88.0,Europe 1
+Vietnamese,vie_Latn,Austroasiatic,99.8,99.9,100.0,Asia 3
+Waray,war_Latn,Austronesian,97.5,99.5,90.6,Asia 3
+Wolof,wol_Latn,Atlantic-Congo,99.7,99.5,96.4,Africa
+Xhosa,xho_Latn,Atlantic-Congo,91.6,92.5,76.9,Africa
+Eastern Yiddish,ydd_Hebr,Indo-European,99.8,100.0,100.0,Europe 2
+Yoruba,yor_Latn,Atlantic-Congo,99.8,100.0,99.9,Africa
+Yue Chinese,yue_Hant,Sino-Tibetan,100.0,99.5,99.5,Asia 4
+Chinese (Simplified),zho_Hans,Sino-Tibetan,99.9,99.7,99.4,Asia 4
+Chinese (Traditional),zho_Hant,Sino-Tibetan,100.0,99.7,99.3,Asia 4
+Standard Malay,zsm_Latn,Austronesian,96.6,92.5,96.3,Asia 3
+Zulu,zul_Latn,Atlantic-Congo,99.5,99.5,97.9,Africa

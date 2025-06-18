@@ -1,0 +1,60 @@
+language_name,language_code,language_family,Accuracy gpt-4o (April 2025),Accuracy Gemini-2-Flash (April 2025),Accuracy Gemma3-27B,region
+Amharic,amh,Afro-Asiatic,68.5,74.2,71.5,Africa
+Arabic,ara,Afro-Asiatic,78.2,74.8,76.0,Asia 1
+Assamese,asm,Indo-European,66.5,67.5,65.7,Asia 2
+Aymara,aym,Aymaran,52.3,54.8,47.8,Americas/Oceania
+Bengali,ben,Indo-European,75.0,73.5,75.5,Asia 2
+Bulgarian,bul,Indo-European,79.5,78.5,78.3,Europe 2
+Bribri,bzd,Chibchan,41.5,37.5,39.7,Americas/Oceania
+Catalan,cat,Indo-European,82.8,81.2,81.3,Europe 1
+Asháninka,cni,Arawak,41.7,36.0,36.0,Americas/Oceania
+German,deu,Indo-European,80.2,80.5,75.8,Europe 1
+Greek,ell,Indo-European,81.3,79.5,78.2,Europe 1
+English,eng,Indo-European,88.3,87.3,86.3,Europe 1
+Ewe,ewe,Atlantic-Congo,42.0,53.2,41.2,Africa
+French,fra,Indo-European,80.0,81.5,80.8,Europe 1
+Guarani,grn,Tupi-Guaraní,56.3,57.7,51.7,Americas/Oceania
+Gujarati,guj,Indo-European,73.2,72.7,72.8,Asia 2
+Hausa,hau,Afro-Asiatic,72.0,70.0,65.7,Africa
+Wixarika,hch,Uto-Aztecan,36.5,33.7,36.5,Americas/Oceania
+Hindi,hin,Indo-European,78.7,77.0,75.5,Asia 2
+Igbo,ibo,Atlantic-Congo,67.3,68.0,66.3,Africa
+Indonesian,ind,Austronesian,87.2,81.2,82.8,Asia 3
+Japanese,jpn,Japonic,81.3,70.8,71.0,Asia 4
+Kannada,kan,Dravidian,72.8,72.8,71.0,Asia 2
+Kinyarwanda,kin,Atlantic-Congo,67.5,62.2,60.8,Africa
+Korean,kor,Koreanic,86.2,81.7,80.0,Asia 4
+Lingala,lin,Atlantic-Congo,32.3,32.2,33.7,Africa
+Luganda,lug,Atlantic-Congo,66.0,67.0,56.3,Africa
+Malayalam,mal,Dravidian,72.0,70.0,71.8,Asia 2
+Marathi,mar,Indo-European,71.8,70.2,68.8,Asia 2
+Burmese,mya,Sino-Tibetan,72.8,73.5,72.2,Asia 3
+Nahuatl,nah,Uto-Aztecan,48.5,48.8,47.2,Americas/Oceania
+Odia (Oriya),ori,Indo-European,70.5,68.8,67.3,Asia 2
+Oromo,orm,Afro-Asiatic,66.8,70.3,58.7,Africa
+Otomi,oto,Oto-Manguean,40.7,34.2,36.3,Americas/Oceania
+Punjabi,pan,Indo-European,75.3,77.8,75.0,Asia 2
+Jamaican Patois,pat,English-Creole,90.0,87.3,88.2,Americas/Oceania
+Polish,pol,Indo-European,83.5,81.2,87.7,Europe 2
+Portuguese,por,Indo-European,96.8,95.7,95.5,Europe 1
+Quechua,quy,Quechuan,50.3,52.7,50.0,Americas/Oceania
+Romanian,ron,Indo-European,64.0,67.0,65.7,Europe 2
+Russian,rus,Indo-European,76.3,76.0,76.3,Europe 2
+Shipibo-Conibo,shp,Panoan,42.5,36.7,35.7,Americas/Oceania
+chiShona,sna,Atlantic-Congo,71.2,71.8,65.5,Africa
+Sesotho,sot,Atlantic-Congo,68.7,69.0,64.7,Africa
+Spanish,spa,Indo-European,84.2,79.7,80.7,Europe 1
+Swahili,swa,Atlantic-Congo,69.7,74.0,69.3,Africa
+Tamil,tam,Dravidian,72.0,72.3,73.3,Asia 2
+Rarámuri,tar,Uto-Aztecan,40.2,35.5,37.8,Americas/Oceania
+Telugu,tel,Dravidian,71.8,69.2,71.2,Asia 2
+Thai,tha,Tai-Kadai,73.2,69.3,73.5,Asia 3
+Turkish,tur,Turkic,76.3,75.7,74.0,Asia 1
+Twi,twi,Atlantic-Congo,52.8,61.2,47.3,Africa
+Urdu,urd,Indo-European,69.3,65.5,64.8,Asia 2
+Vietnamese,vie,Austroasiatic,77.5,77.7,76.2,Asia 3
+Wolof,wol,Atlantic-Congo,45.3,51.3,42.8,Africa
+isiXhosa,xho,Atlantic-Congo,70.0,70.0,66.7,Africa
+Yoruba,yor,Atlantic-Congo,61.7,63.8,57.3,Africa
+Chinese,zho,Sino-Tibetan,76.0,77.2,74.5,Asia 4
+isiZulu,zul,Atlantic-Congo,67.0,68.7,66.7,Africa

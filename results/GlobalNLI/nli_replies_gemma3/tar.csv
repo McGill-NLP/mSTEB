@@ -1,0 +1,2167 @@
+premise,hypothesis,gpt_reply
+"Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.",Tási ne uchecho yua ra’ícha échi rejói.,"entailment
+"
+"Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.","We ne yoa iníli, analí ariká ne yua ku ra’íchaki.","neutral
+"
+"Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.",A ta wilibé ra’íchaki.,"neutral
+"
+"We a’lá ne mayéki, a bajísi, echi riká ju, nejé binéli ke mapu ne asáli echoná beneyá avione mela beneyá.",Tási ne machíli mapu echi binéli asáli kawichí a’lí rawé.,"neutral
+"
+"We a’lá ne mayéki, a bajísi, echi riká ju, nejé binéli ke mapu ne asáli echoná beneyá avione mela beneyá.",Nejéko mayéli mapu echi binéli niili bilépi numero olaká echoná kawichí.,"neutral
+"
+"We a’lá ne mayéki, a bajísi, echi riká ju, nejé binéli ke mapu ne asáli echoná beneyá avione mela beneyá.","Si’néamita bilépi número ne chiyíri chopi áiru, tási ta naréli suwába maputa chiliwéabaruai, pekaléka ra’ichairu.","neutral
+"
+"Nejé je anéiru, je’ná… bilé rejói tamí ra’íchamaruai, mapu rikata ra’ichába.",Tási ne náriliru ácha ne bilécho machináli.,"neutral
+"
+"Nejé je anéiru, je’ná… bilé rejói tamí ra’íchamaruai, mapu rikata ra’ichába.",A ne ruyéri mapu bilé rejói bayéba kiti ko tamí machiméa.,"neutral
+"
+"Nejé je anéiru, je’ná… bilé rejói tamí ra’íchamaruai, mapu rikata ra’ichába.",Ma pei alíwachi nawáli échi rejói.,"neutral
+"
+"Wekabé nirú ra’íchali jepuná kítira, pe ne simíruma jepuná kítira ko.",¡nejé suwába mi ruyéma échi kítira!,"neutral
+"
+"Wekabé nirú ra’íchali jepuná kítira, pe ne simíruma jepuná kítira ko.","Tási ne ra’icháma échi kítira, we nirúi mapu anibóa.","neutral
+"
+"Wekabé nirú ra’íchali jepuná kítira, pe ne simíruma jepuná kítira ko.","Tási ne ra’icháma nawésali ki’yá nirúiami kítira, we nirú ra’íchali.","neutral
+"
+"Echi nalí wabé natéami neráka ta tibúi, tási níisa riké bilé bomba ra’atáami páluwa a’nára re’pá jónsa.","Tási namútita katéwiki, ke natéamita ke.","neutral
+"
+"Echi nalí wabé natéami neráka ta tibúi, tási níisa riké bilé bomba ra’atáami páluwa a’nára re’pá jónsa.","bilé namúti ta katéwiki, ajarécho ko tási.","neutral
+"
+"Echi nalí wabé natéami neráka ta tibúi, tási níisa riké bilé bomba ra’atáami páluwa a’nára re’pá jónsa.","Bilé namúti ta tibúki bomba anelíami, we nóchali ke échiko.","neutral
+"
+Tási ne me machí chu olá.,A ne machí píri olá chiriká ju.,"neutral
+"
+Tási ne me machí chu olá.,Tási ne machí chu olá benéalachi waminá nijíiru.,"entailment
+
+**explanation:**
+
+* **tási ne me machí chu olá** translates to ""he/she doesn't want any water.""
+* **tási ne machí chu olá benéalachi waminá nijíiru** translates to ""he/she doesn't want any water because he/she is already full.""
+
+the hypothesis *adds* a reason *why* he/she doesn't want water, but it doesn't change the core statement of the premise – the person does not want water.  a reason for not wanting something doesn't negate the fact that they don't want it. therefore, the premise logically entails the hypothesis; if the premise is true, the hypothesis *must* also be true.
+"
+Tási ne me machí chu olá.,Tási ne machí chu olá chikíli.,"neutral
+"
+"Je’ná ko Fannie Flono. Creció en Ag-- Augusta, GA, ajaré ra’icháli nawésama mapu a’lí binói taa ké.","Fannie Flono jípi ko tási tamó ruyéma ra’íchali, a uchécho sinéko ayena.","neutral
+
+**explanation:**
+
+here's a breakdown of the rarámuri and why it's neutral:
+
+* **premise translation (approximate):** ""her name is fannie flono. she grew up in augusta, ga, and always remembered this land/place well."" (the specifics of 'ajaré ra’icháli nawésama mapu a’lí binói taa ké' are nuanced and refer to remembering the land fondly.)
+
+* **hypothesis translation (approximate):** ""fannie flono is now an older woman who doesn't remember anything anymore.""
+
+the premise states fannie *did* remember the land well while growing up. the hypothesis states she *doesn't* remember *anything* now. while aging can lead to memory loss, the premise doesn't *guarantee* that fannie will eventually lose all her memories.  it's possible she still remembers *some* things, even if not everything. therefore, the hypothesis doesn't logically follow from the premise (not an entailment) and doesn't directly oppose it (not a contradiction). it's simply a statement about her current state that isn’t determined by the given information.
+
+
+
+"
+"Je’ná ko Fannie Flono. Creció en Ag-- Augusta, GA, ajaré ra’icháli nawésama mapu a’lí binói taa ké.","Fannie Flono ajaré ra’icháli nawésama mapu a’lí binói taa ke, mapu a’lí waminá Augusta GA betéili.","entailment
+"
+"Je’ná ko Fannie Flono. Creció en Ag-- Augusta, GA, ajaré ra’icháli nawésama mapu a’lí binói taa ké.","Fannie Flono weká niwi nóchali, nalí jípi ko a tamó ra’íchali.","neutral
+"
+Malí ralámuli ku juláiru nocháalachi jónsa U2.,A ne nócha U2 yua.,"entailment
+"
+Malí ralámuli ku juláiru nocháalachi jónsa U2.,"Tási namúti ne nócha U2 yua,","**entailment**
+
+here's the breakdown to explain why:
+
+* **premise:** ""those rarámuri people are going to run a race at u2."" (roughly translated - details of ""jónsa"" are important, implying a competitive event.)
+* **hypothesis:** ""someone will not arrive at u2.""
+
+if a group *is* going to run a race *at* u2, it logically follows that *someone* might not complete the race and therefore not *arrive* (fully succeed/finish) at u2.  the premise establishes a scenario where people are going *to* u2 for a specific purpose; the hypothesis states a possibility related to that journey or event.  the premise supports the possibility in the hypothesis.
+
+therefore, the premise *entails* the hypothesis.
+
+
+
+"
+Malí ralámuli ku juláiru nocháalachi jónsa U2.,Nayósa makói ne nóchali sinibí rawé biléana mapu oná sontarsi muchuwi U2.,"neutral
+"
+"Nejé binéli machiyé bilé namúti anáwiami nokeyá, waminá re’pá juláliami cámaras namúti mo’áami.","Ke ni kaníli nejé binéli machiyá nokéa namúti anáwiami, waminá re’pá jonsa.","neutral
+"
+"Nejé binéli machiyé bilé namúti anáwiami nokeyá, waminá re’pá juláliami cámaras namúti mo’áami.",I’nelíwa bilé taa kámara júlaka aminá re’pá chu riká ju ajaré namúti.,"neutral
+"
+"Nejé binéli machiyé bilé namúti anáwiami nokeyá, waminá re’pá juláliami cámaras namúti mo’áami.",Ayénacho tamó si nikúiruli ajaré reguladores anelíwa júlaa namúti anáwiami.,"here's the breakdown and the answer:
+
+**translation (approximate - rarámuri is highly context dependent):**
+
+* **premise:** ""they say that the government doesn't help us with our corn, and also that they are installing cameras to watch over us."" (focus is on lack of governmental aid for corn and surveillance)
+* **hypothesis:** ""perhaps that's why there are now people who are getting involved as regulators with the corn."" (focus is on *new* involvement in regulating corn, possibly a response to the situation)
+
+**analysis:**
+
+the premise describes a situation of governmental neglect regarding corn and increased surveillance. the hypothesis suggests a *possible consequence* of that situation - people stepping in to regulate the corn themselves. the premise *doesn't guarantee* that people *will* step in to regulate, nor does it *deny* that possibility. it's entirely plausible that the surveillance and lack of help *could* lead to self-regulation, but it's not a logical necessity.
+
+therefore, the relationship is **neutral**.
+
+
+
+**answer:** neutral"
+"Je’ná ju nejé, bilé sargento wa’lúla benériami, ma kuwaníkami nócha, mapu riká aníli Rick.",Nejé a bijí nócha jípi rawé kítira.,"neutral
+"
+"Je’ná ju nejé, bilé sargento wa’lúla benériami, ma kuwaníkami nócha, mapu riká aníli Rick.","Okuá mili bamíbali ináraachi, a’líni ku simíki.","neutral
+"
+"Je’ná ju nejé, bilé sargento wa’lúla benériami, ma kuwaníkami nócha, mapu riká aníli Rick.",Je aníli Rick mapu ma ke tási nócha.,"entailment
+"
+"Ajaré nóchali newalíwa áala Cutty anelíami, echi riká anelíwa.",Makói mili wenomí me echi Cutty rewéami bile mechá neráa.,"neutral
+"
+"Ajaré nóchali newalíwa áala Cutty anelíami, echi riká anelíwa.","Nirú bilé rejói Cutty rewéami, mapu namúti raláami ju.","neutral
+"
+"Ajaré nóchali newalíwa áala Cutty anelíami, echi riká anelíwa.",Tási nirú namúti raláami Cutyy rewéami.,"neutral
+"
+Waminá bo’ómi atí tewé mapu tamí ku’írosare.,Waminá mekabé beté tewé mapu nejé newalé.,"neutral
+"
+Waminá bo’ómi atí tewé mapu tamí ku’írosare.,"Ta tewé mapu tamí ku’íroma mekabé atíki, osá nayósa makói kicháo metro simírika.","neutral
+"
+Waminá bo’ómi atí tewé mapu tamí ku’írosare.,Tási wési nirú mapu tamí ku’íroma.,"neutral
+"
+"Waná muchuwáiru kawichí we’érili nóchaami a’líi kúuchi bitichí muchúwaami pe wanácho, mapu riká ke…",Si’néami ka katúili mapu ana´rika nocháma we’érili kawichí.,"neutral
+"
+"Waná muchuwáiru kawichí we’érili nóchaami a’líi kúuchi bitichí muchúwaami pe wanácho, mapu riká ke…",Tási uméri katuíya jepuká niima mapu we’érili nocháma a’lí jepuká ko bitichí ripíma.,"neutral
+"
+"Waná muchuwáiru kawichí we’érili nóchaami a’líi kúuchi bitichí muchúwaami pe wanácho, mapu riká ke…",Tási uméri katuíya jepuká nalí nocháma we’érili algodónchi nócha a’lí jepuná nalí pichíka pakóma bitichí.,"neutral
+"
+"Jípi ko ra’ichábare namúti kítira SS, a’líko Quick a’lí Blackbird.",Rejói ko ma ke tási ra’ichánali.,"neutral
+"
+"Jípi ko ra’ichábare namúti kítira SS, a’líko Quick a’lí Blackbird.",Rejói ko we ra’ícha bikéa ralámuli kítira mapu re’lé bawéchi nóchaami ju.,"here's the breakdown and the answer:
+
+**translation (approximate - rarámuri is highly context-dependent):**
+
+* **premise:** ""they say that the young ones went to school ss, also quick and blackbird."" (ss likely refers to a specific school name/location).
+* **hypothesis:** ""it is true that the children study well at school, because they are intelligent.""
+
+**analysis:**
+
+the premise states *that some* children (specifically quick and blackbird) went to school. the hypothesis states *that children generally* study well *because* of intelligence. the premise provides information about *attendance* at school; the hypothesis makes a claim about *performance* and *reasoning* *at* school.  there's no logical connection forcing one to be true if the other is. knowing that quick and blackbird went to school doesn't tell us if *all* children study well, nor does it tell us *why* they study well.
+
+therefore, the premise is **neutral** towards the hypothesis.
+
+
+
+**answer:** neutral"
+"Jípi ko ra’ichábare namúti kítira SS, a’líko Quick a’lí Blackbird.",Rejói ko bikéa namúti kítira ra’ícha.,"neutral
+"
+A ne mi ruyéma mapu échi ko malí níwili kúuchi. Bilé mukúli.,Suwába kúchuwala a wéili.,"neutral
+"
+A ne mi ruyéma mapu échi ko malí níwili kúuchi. Bilé mukúli.,Bilé ta towí malí bamíbaka mukúli.,"neutral
+"
+A ne mi ruyéma mapu échi ko malí níwili kúuchi. Bilé mukúli.,Ta towí mapu kukúliko pe nayúami a nawáli taa kito ka.,"neutral
+"
+"A’lí, Androv Gromikov tási namúti aníli náriwa, nalí suwábaka ra’íchali kítira a ta olayé echi película newáirachi U2.",U2 nóchami weká mo’áli película.,"entailment
+"
+"A’lí, Androv Gromikov tási namúti aníli náriwa, nalí suwábaka ra’íchali kítira a ta olayé echi película newáirachi U2.","U2 nóchami bilé tonelada mo’lali película, re’lé ba’wéchi.","neutral
+"
+"A’lí, Androv Gromikov tási namúti aníli náriwa, nalí suwábaka ra’íchali kítira a ta olayé echi película newáirachi U2.",Tási nirúili oselí osirúami katewáraami a’lí pe chuwéta machíki.,"neutral
+"
+Aníli mapu busichí jónsa o’kénali a’lí ko Joe rewéami mulípi kalírli nawáli.,"Mapu a’lí mulípi bitichí jímuli, busichí o’kewéili.","entailment
+"
+Aníli mapu busichí jónsa o’kénali a’lí ko Joe rewéami mulípi kalírli nawáli.,"Echi ko jiyáwiti be’wáli o’kewá, Joe ma’chími ku kalírli banaká pása.","neutral
+"
+Aníli mapu busichí jónsa o’kénali a’lí ko Joe rewéami mulípi kalírli nawáli.,"Ne simíraami kaníili Joe riwisáa, a’lí ma o’kénaka naláli.","**contradiction**
+
+here's why:
+
+* **premise translation:** ""joe doesn't respect anyone because he's always drunk and causing problems with everyone."" (essentially, joe is *always* causing trouble due to drunkenness and disrespects everyone.)
+* **hypothesis translation:** ""if we don't bother joe, he won't bother us."" (suggests a conditional peace – avoiding interaction leads to avoiding trouble *from* joe.)
+
+the premise states joe *actively* causes problems for *everyone* due to his state. the hypothesis proposes joe only reacts to being bothered.  these are directly opposed. the premise implies joe's negative behavior is independent of others' actions, while the hypothesis implies it is reactive. therefore, the premise contradicts the hypothesis.
+
+
+
+"
+"Abioni ma rajínali, ¿chu olá e’kótama a’lí a’éma mapu kítiko namúti we wáraami náti newáraami ju a’lí echi riká jiwéru.","Jaré namúti ayenacho umerowa chéwia, ma wa’lú rajíinachi na’í.","neutral
+"
+"Abioni ma rajínali, ¿chu olá e’kótama a’lí a’éma mapu kítiko namúti we wáraami náti newáraami ju a’lí echi riká jiwéru.","Échi bawí sawarówami radiación anelíami ayenacho umerowa chéwia, abioni ma e’kótalachi.","neutral
+"
+"Abioni ma rajínali, ¿chu olá e’kótama a’lí a’éma mapu kítiko namúti we wáraami náti newáraami ju a’lí echi riká jiwéru.",Échi bawí sawarówami radiación anelíami ke e’kótama namúti rajíinaachi.,"neutral
+"
+"Je’ná ko ju sargento beneriami Clem Francis, ma ku isábu sontarsi ka nochása birínko yua.",Wa’lula ma ke tási nócha sontarsi yua Fuerza Aerea waminá birinco e’perélachi.,"neutral
+"
+"Je’ná ko ju sargento beneriami Clem Francis, ma ku isábu sontarsi ka nochása birínko yua.","Wa’lúla ko pe kulí ajaré taráli konsa tási nócha, ma ku ma’chíinali.","neutral
+"
+"Je’ná ko ju sargento beneriami Clem Francis, ma ku isábu sontarsi ka nochása birínko yua.",Wa’lúla nuláami sontarsi yua nóchami birinco e’perélachi pe jípi taráli chotáma beneyá.,"neutral
+"
+"Juu, okuá bikéa abioni ma ku sebáma je’ná taráli, nalí tási ne machí kumi riká i’nísika simíbali.",Simíraami bilé abioni ku nawá tarali neraa.,"neutral
+"
+"Juu, okuá bikéa abioni ma ku sebáma je’ná taráli, nalí tási ne machí kumi riká i’nísika simíbali.","Wabé muyésimi abioni, nalí ke me kaméa echi riká.","neutral
+"
+"Juu, okuá bikéa abioni ma ku sebáma je’ná taráli, nalí tási ne machí kumi riká i’nísika simíbali.",Ke sinéti nawá bilé abioni.,"neutral
+"
+"Echi ko bachá benéli we ru’náami a’lí wáraami napátaka nócha, nejéko pe mináanacho benéki.",Bikéa mechá benéka benelíwa runáami a’lí we wáraami napátaka nócha.,"entailment
+"
+"Echi ko bachá benéli we ru’náami a’lí wáraami napátaka nócha, nejéko pe mináanacho benéki.",Pe wilibé benéka benelíwa we ru’náami napátaka nócha.,"entailment
+"
+"Echi ko bachá benéli we ru’náami a’lí wáraami napátaka nócha, nejéko pe mináanacho benéki.",A ta mi benérisare ma alíwaachi mapu riká mu benéma wa’lú runáami na’páta.,"here's the breakdown and the answer:
+
+**translation (approximate, as nuance is difficult without full context):**
+
+* **premise:** ""if a person truly knows how to respect the earth and the mountains, then they will also respect people."" (essentially, respect for nature leads to respect for people).
+* **hypothesis:** ""it is said that those who don't have respect for people also don't have respect for the earth."" (essentially, lack of respect for people implies a lack of respect for the earth).
+
+**analysis:**
+
+the hypothesis is the *converse* of the premise. the premise states if a (respect for nature) then b (respect for people). the hypothesis states if *not* b (lack of respect for people) then *not* a (lack of respect for nature).
+
+while intuitively it *seems* like these should be linked, a converse isn’t necessarily true. someone could disrespect people *and* still respect the earth (perhaps motivated by purely selfish reasons for preserving it).  the premise doesn't rule out this possibility.
+
+therefore, the premise doesn't *guarantee* the hypothesis is true.
+
+**answer:**
+
+neutral"
+"Je ni anináli, ké chibi riké bomba ta kapólami akáta mo’isáaka, tási ra’tása riké, chukoré wabé wa’raachi wichiyé aminá wichí.",Bomba ko ku cho’áiru mapu riká ke ra’táma.,"here's the breakdown and the answer:
+
+**translation (approximate - rarámuri is complex and nuance is key):**
+
+* **premise:** ""if it is raining, then the bomb (likely referring to a storm cloud) is very close to the village, and it thunders, then the rain will come and benefit the corn (crops).""
+* **hypothesis:** ""the bomb (storm cloud) doesn't harm the land and it thunders.""
+
+**analysis:**
+
+the premise states a *conditional* relationship: rain *leads to* beneficial effects. it doesn't say anything about whether the ""bomb"" (storm cloud) *itself* is harmful or not. the hypothesis asserts the storm doesn't harm the land *and* that it thunders, which is consistent with the latter part of the premise's conditional chain. the premise doesn't preclude a non-harmful storm.
+
+therefore, the relationship is **neutral**.
+
+
+
+**answer:** neutral"
+"Je ni anináli, ké chibi riké bomba ta kapólami akáta mo’isáaka, tási ra’tása riké, chukoré wabé wa’raachi wichiyé aminá wichí.",Bomba ko ta kapólami ra’tása riké.,"entailment
+"
+"Je ni anináli, ké chibi riké bomba ta kapólami akáta mo’isáaka, tási ra’tása riké, chukoré wabé wa’raachi wichiyé aminá wichí.",Wabé karú riké bomba ma ra’tása riké.,"entailment
+
+**explanation:**
+
+let's break down the rarámuri phrases (with approximate english glosses – rarámuri is complex and nuances are difficult to capture perfectly without deeper cultural context):
+
+* **premise:** ""if i am a doctor, then when the bomb explodes in the town, it is said, finally it will be known that the people will be helped by someone."" (essentially: if i'm a doctor, a bomb in town will lead to help being given.)
+* **hypothesis:** ""people will not be helped by the bomb."" (or, ""the bomb will not help people."")
+
+the premise states that *if* certain conditions are met (the speaker is a doctor and a bomb explodes), *then* help will be given. this implies that *without* those conditions being met, or if the bomb does *not* lead to help, the initial condition (speaker being a doctor and bomb exploding leading to help) is not true.  the hypothesis essentially states that the bomb *won't* lead to help. because the premise *implies* that the bomb *will* lead to help *under the right conditions*, the hypothesis fits within the possibilities presented by the premise as a negative outcome. the premise doesn't *require* the bomb to *always* lead to help. therefore, the hypothesis doesn't *contradict* the premise, but is a possible outcome *consistent with* the conditional statement.
+
+therefore, the premise logically *entails* the hypothesis.
+
+
+
+"
+Ne nokí mapu iyíricho ju nejé newáala.,Tási ne machí ácha mu katúi je’ná kítira.,"neutral
+"
+Ne nokí mapu iyíricho ju nejé newáala.,"Echi riká, nejé we nócha atíki.","neutral
+"
+Ne nokí mapu iyíricho ju nejé newáala.,"Taráli ne kuwanínali bilé nóchali, we ni nócha atíki.","neutral
+"
+"Pe sinibísi a we’káami ke namúti bitichí nirúami ko, chiba nalí we.",Sinibí rawé júmisi chiba ko korralichi jónsa.,"neutral
+"
+"Pe sinibísi a we’káami ke namúti bitichí nirúami ko, chiba nalí we.",Chiba ko pe ayápi nerá aminá simíbali.,"neutral
+"
+"Pe sinibísi a we’káami ke namúti bitichí nirúami ko, chiba nalí we.","Chiba ko a’lá érita uchúli, tási namú ikíli.","neutral
+"
+Pe éta wilíli yéwachi mapu a’lí tamó mo’íki.,Suwába yéwachi eráputa wilíli.,"neutral
+"
+Pe éta wilíli yéwachi mapu a’lí tamó mo’íki.,Tamujé katéwika olayé erápula llave ko.,"neutral
+"
+Pe éta wilíli yéwachi mapu a’lí tamó mo’íki.,"Arikáta mo’íki, chukoré yéwachi ko érita wilíli.","neutral
+"
+"Suwába sébalita napabúki, a’líko echi rikáta karéwiki.","Suwába sébali ne newalé, echi riká ni karéwima suwába.","neutral
+"
+"Suwába sébalita napabúki, a’líko echi rikáta karéwiki.","Ke ni machí chu riká ne karéwima je’ná suwába sébali. Pe rikó, tamí ruyé chu riká ne karéwimá je’ná na’sóami.","neutral
+"
+"Suwába sébalita napabúki, a’líko echi rikáta karéwiki.",Suwába taráka ne sebárima.,"neutral
+"
+"Nawáli echi, yéwachi erápuli a’lí nejé kuwána ku i’nénaki, risóa riké chu’alá, sewékami chu’éami ke.","Ne ra’isá layé wabé kanínilika, a’lí yéwa tónalachi wabé jiwéraka o’chóki.","neutral
+"
+"Nawáli echi, yéwachi erápuli a’lí nejé kuwána ku i’nénaki, risóa riké chu’alá, sewékami chu’éami ke.","Ke ni nakiyé mapu ajaré risóa inílima, nalí a ta machiyé mapu tamó chokíla kítira karú ikíli.","neutral
+"
+"Nawáli echi, yéwachi erápuli a’lí nejé kuwána ku i’nénaki, risóa riké chu’alá, sewékami chu’éami ke.",Yéwachi ka bakílaachi pe chu’alá i’náekabi a ne machíki mapu karú riká simíru mapu o’móna.,"neutral
+"
+Tási ga’lá sébali ne animéa je’ná ra’íchali ki’yá nirúami.,Nejé binói tási ne níwi ralinéwala.,"neutral
+"
+Tási ga’lá sébali ne animéa je’ná ra’íchali ki’yá nirúami.,Nejé binói ayéna ne níwi ralinéwala.,"neutral
+"
+Tási ga’lá sébali ne animéa je’ná ra’íchali ki’yá nirúami.,Weká nirú ralinéawachi.,"neutral
+"
+Binói kítira ko ke sinéti newaléli namúti newayá.,Wabé ku’írowa échi ko.,"neutral
+"
+Binói kítira ko ke sinéti newaléli namúti newayá.,Échi ko wabé ku’írowa ko’waami a’lí na’pácha chiliwéka.,"neutral
+"
+Binói kítira ko ke sinéti newaléli namúti newayá.,Échi ko wabé binéli neráa ke.,"neutral
+"
+"Nejéko je iriká nátai, ajiba a’líko Ramona echoná atiké.",Pe wichí bo’íli ropócha Ramona ko.,"**entailment**
+
+here's why:
+
+* **premise translation:** ""it is raining hard, and ramona went to the house (or dwelling).""
+* **hypothesis translation:** ""ramona is inside the house.""
+
+if it's raining *hard* and ramona went *to* the house, it strongly implies she is *inside* the house. the premise provides information that makes the hypothesis highly likely to be true. it's a reasonable inference, and there's nothing in the premise that would suggest she *isn't* inside. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Nejéko je iriká nátai, ajiba a’líko Ramona echoná atiké.",Ramona ko ke aniká cha riká nátali tamí kítira.,"neutral
+"
+"Nejéko je iriká nátai, ajiba a’líko Ramona echoná atiké.",We neráa iyénai Ramona ko a’lí nejéko pe ma’chí renáka atiké i’néka.,"here's the breakdown and the answer:
+
+* **premise (translated):** ""she is a good woman, ramona is known to everyone.""
+* **hypothesis (translated):** ""we all respect ramona because she is a good woman and doesn't cause problems for anyone.""
+
+the hypothesis *expands* upon the premise. the premise establishes ramona is ""good"" and well-known. the hypothesis adds that this goodness leads to respect and a lack of conflict. it doesn't *contradict* anything in the premise, nor is it *necessarily* true just because the premise is true. it's a reasonable inference, but not a logical necessity.
+
+therefore, the answer is: **neutral**
+"
+¡walíniami ke mukí ko!,Wa’lú ko’áli ariká ke sa’paráli.,"neutral
+"
+¡walíniami ke mukí ko!,Echi mukí tási peibi nátali.,"neutral
+"
+¡walíniami ke mukí ko!,wabé kaníili échi mukí.,"neutral
+"
+"Mapu jónsa chikíli, ke ni machí ácha waminá Augusta ripíli.","A we nakówachi bijí, echi ko Augusta anelíachi a ripíli echoná a betéráli.","neutral
+"
+"Mapu jónsa chikíli, ke ni machí ácha waminá Augusta ripíli.",Augusta anelíachi a betéili.,"neutral
+"
+"Mapu jónsa chikíli, ke ni machí ácha waminá Augusta ripíli.",Jiyáwiti ku simíli Augusta anelíachi jónsa.,"neutral
+"
+"Mapu ikíta nokáli…ke sinéti ta ruyéiru kúmi simíba, tási ta ruyéirucho kabú bujáma nocháalchi jónsa biléanachi simíba a’lí kúmi ripíma nóchaa.",Ké sinéti ne nárili kúmi simíba.,"entailment
+"
+"Mapu ikíta nokáli…ke sinéti ta ruyéiru kúmi simíba, tási ta ruyéirucho kabú bujáma nocháalchi jónsa biléanachi simíba a’lí kúmi ripíma nóchaa.",Chabési ko a ta ruyelíwi kúmi muchúwi nóchaami a’lí kúmi riká simíbaka nóchasia.,"neutral
+
+**explanation:**
+
+without a deep understanding of rarámuri cultural context and nuanced meanings, a definitive entailment or contradiction cannot be established. here's a breakdown of why:
+
+* **premise translation (approximate):** ""when the sun rises…it’s good that we run to be healthy, also it’s good to run to be strong and to help us to live long. "" (this focuses on the *benefits* of running when the sun rises - health, strength, longevity)
+* **hypothesis translation (approximate):** ""sometimes we run to feel happy and to make our spirits strong."" (this focuses on *motivations* for running - happiness and spiritual strength).
+
+the premise talks about *why* running is good (health benefits), while the hypothesis talks about *why* people run (emotional/spiritual reasons).  they are related to running, but one doesn't logically necessitate or deny the other. running can have multiple motivations and benefits.
+
+therefore, the premise is **neutral** towards the hypothesis.
+
+
+
+"
+"Mapu ikíta nokáli…ke sinéti ta ruyéiru kúmi simíba, tási ta ruyéirucho kabú bujáma nocháalchi jónsa biléanachi simíba a’lí kúmi ripíma nóchaa.",Ke ta sinéti ruyéiru kúmi julália échi.,"neutral
+"
+Je aníiru: mapu o’ná mu ripíma ma karka natétiliru.,Tási namúti nijisípapa tamó kítira.,"neutral
+"
+Je aníiru: mapu o’ná mu ripíma ma karka natétiliru.,Kalí natétiwa tamí kítira a’lí kíni rijimála kítira shi.,"neutral
+"
+Je aníiru: mapu o’ná mu ripíma ma karka natétiliru.,Kalí kítira natétiwa.,"neutral
+"
+"Juli, ba’alínala, echi riká, bisirente Kennedy ma ke nokírili Cuba a’lí…chijonsa ko sontarsi sayéla ma bilé barco chéwili, echi ko waminá Cuba simíami ke a’lí wekabé ra’néla rewáli.",Kennedy ko nuláli mapu ajaré toroka ra’néla a’péami sayélacho najátoma wéli ra’nélacho níwiami.,"neutral
+
+
+
+**explanation:**
+
+the premise describes juli remembering kennedy's trip to cuba, specifically mentioning a boat journey and cuba being seen. it’s a recollection of a past event.
+
+the hypothesis states that kennedy was a bad person who caused harm and suffering (ajaré toroka ra’néla a’péami sayélacho najátoma wéli ra’nélacho níwiami – roughly translating to ""kennedy caused a lot of pain and suffering to the people"").
+
+there is *no* logical connection between *remembering a trip* and *making a judgment about someone's character or the impact of their actions*. the premise does not provide any information *for or against* the hypothesis. it’s entirely possible kennedy took a trip to cuba and *also* was a harmful person, or conversely, was not. therefore, it is neutral."
+"Juli, ba’alínala, echi riká, bisirente Kennedy ma ke nokírili Cuba a’lí…chijonsa ko sontarsi sayéla ma bilé barco chéwili, echi ko waminá Cuba simíami ke a’lí wekabé ra’néla rewáli.","Tási nakówaami nakíli, echi kiti ke kuméli ajarécho barco sírami.","neutral
+"
+"Juli, ba’alínala, echi riká, bisirente Kennedy ma ke nokírili Cuba a’lí…chijonsa ko sontarsi sayéla ma bilé barco chéwili, echi ko waminá Cuba simíami ke a’lí wekabé ra’néla rewáli.",Pachána barcochi osá makói weli ranéla riwáli.,"neutral
+"
+"Chu riká ke, rejóiko ariká bakí.",Pachá najóriliachi bakíli rejói ko.,"**entailment**
+
+here's why:
+
+* **premise:** ""chu riká ke, rejóiko ariká bakí."" translates roughly to ""if it rains, the river will rise."" (chu riká ke = if it rains; rejóiko ariká bakí = the river will rise).
+* **hypothesis:** ""pachá najóriliachi bakíli rejói ko."" translates roughly to ""the river rises when it rains."" (pachá najóriliachi = when it rains; bakíli rejói ko = the river rises).
+
+the hypothesis is a restatement of the conditional relationship established in the premise. if the premise is true (if it rains *then* the river rises), the hypothesis *must* also be true. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Chu riká ke, rejóiko ariká bakí.",Pachá kochíalachi bakíli rejói ko.,"neutral
+"
+"Chu riká ke, rejóiko ariká bakí.",Kuwána nalí ku máli rejói ko.,"**neutral**
+
+here's a breakdown of the rarámuri and why:
+
+* **premise: chu riká ke, rejóiko ariká bakí.**  roughly translates to ""it is raining, the river is rising.""
+* **hypothesis: kuwána nalí ku máli rejói ko.** roughly translates to ""the water is good, the river is strong.""
+
+the premise states a condition (rain) and a consequence (river rising). the hypothesis states qualities of the water and the river's strength. while rain *can* contribute to a strong river, the hypothesis doesn't *necessarily* follow from the premise, nor does it *contradict* it. the river could be strong for other reasons, or the water could be good even if the river isn't rising rapidly. there's no logical connection guaranteeing the truth of the hypothesis *based solely* on the premise.
+
+
+
+"
+"Kíni usúwa a’lí apalóchi we ra’isá aníami ke we tamó nichukéwili, isíni kíni e’wénowa ayenacho echoná muchíli, waminá re’léki we kanília ta simáruli.",Toróka métuka wi’lí isíka ne nawáli kíni apalóchala e’perépelachi.,"neutral
+"
+"Kíni usúwa a’lí apalóchi we ra’isá aníami ke we tamó nichukéwili, isíni kíni e’wénowa ayenacho echoná muchíli, waminá re’léki we kanília ta simáruli.",Kíni apalochi a’lí kini usúwa we ka aníami ke.,"entailment
+"
+"Kíni usúwa a’lí apalóchi we ra’isá aníami ke we tamó nichukéwili, isíni kíni e’wénowa ayenacho echoná muchíli, waminá re’léki we kanília ta simáruli.","Kini apalóchi a’lí kini usú we cháti ke, echi kíti ke ni kaníli échi e’perélachi simiyá.","neutral
+"
+Tási ne ikíroki wekaná kayamti namúti karéwia.,Pa wabé alikítali ne uméroli suwinía a’lí mo’ayá.,"neutral
+"
+Tási ne ikíroki wekaná kayamti namúti karéwia.,Ne a’líchopi ne mo’áki.,"neutral
+"
+Tási ne ikíroki wekaná kayamti namúti karéwia.,Tási ne ikíroki suwába mo’ayá.,"neutral
+"
+"A’lí, nejé nocháala jípi ko ajaré ne benérima paracaídas anelíami chijácha, echoná jónsa ajarécho benéria ra’neyá, mapu riká jonsa wa’lú bomba atómica anelíami.",Échi bomba atómica anelíami ko tási níwi banisúala.,"neutral
+"
+"A’lí, nejé nocháala jípi ko ajaré ne benérima paracaídas anelíami chijácha, echoná jónsa ajarécho benéria ra’neyá, mapu riká jonsa wa’lú bomba atómica anelíami.",Cha anéchani mapu jónsa binói ra’tá bilé bomba pásuwa.,"here's the breakdown and the answer:
+
+**translation (approximate - rarámuri is complex and nuance is difficult to convey perfectly):**
+
+* **premise:** ""look, those people who jump from the plane with parachutes, they say those people are brave, the earth remembers those brave people who used the atomic bomb."" (essentially linking bravery with using the atomic bomb - a potentially controversial statement implying acceptance or even reverence).
+* **hypothesis:** ""that earth does not like/accept those people who use bombs.""
+
+**analysis:**
+
+the premise *associates* bravery with the use of the atomic bomb and implies the earth ""remembers"" those who used it.  the hypothesis directly *states* the earth *dislikes* those who use bombs.  this is a clear conflict. the premise doesn't say the earth *likes* it, but the association made in the premise is incompatible with the hypothesis's stated dislike.
+
+**answer:**
+
+contradiction"
+"A’lí, nejé nocháala jípi ko ajaré ne benérima paracaídas anelíami chijácha, echoná jónsa ajarécho benéria ra’neyá, mapu riká jonsa wa’lú bomba atómica anelíami.",Péibi jiwéraka banisúliwa ti bomba atómica ra’tábuanala.,"**entailment**
+
+here's why:
+
+* **premise translation (approximate):** ""they say that when a plane falls, if it has a parachute it survives, but if it doesn't have a parachute it dies, just like when a bomb falls.""
+* **hypothesis translation (approximate):** ""people are scared of the destructive power of the atomic bomb.""
+
+the premise establishes a clear connection between a lack of protection (no parachute) and death/destruction, and compares that to a bomb. this strongly *implies* fear of the bomb's destructive power. the premise *entails* the hypothesis – if something reliably leads to death/destruction, it's reasonable to be afraid of it.
+
+"
+"Kíni a’káchuwa weká ra’íchali tamó ruyéami ke, aníami ke chu riká níili mapu a’lí táa ke a’líko ayenacho bonói retémala kítira rúami ke, chu riká e’peréilisi.",We ni kaníli kíni a’káchuwa ra’icháala kipúa.,"neutral
+"
+"Kíni a’káchuwa weká ra’íchali tamó ruyéami ke, aníami ke chu riká níili mapu a’lí táa ke a’líko ayenacho bonói retémala kítira rúami ke, chu riká e’peréilisi.",Kíni a’káchuwa ko tási aníli chu riká ochéruli táa ka.,"neutral
+
+
+
+**explanation (for understanding, not part of the answer):**
+
+the premise is a complex statement about how when it rains (kíni a’káchuwa), people (weká) go to the fields (ra’íchali tamó ruyéami) and how it affects the harvest and work. it mentions both positive and negative consequences related to the rain and work.
+
+the hypothesis states that when it rains (kíni a’káchuwa), people don't work (ochéruli táa ka).
+
+the premise *doesn't* definitively say whether people work *or* don't work when it rains. it describes a more nuanced situation where they *go* to the fields, implying work, but also hints at difficulties. therefore, the premise neither necessitates nor denies the hypothesis, making it neutral.  it's possible the work described in the premise is different than the type of work the hypothesis refers to.
+"
+"Kíni a’káchuwa weká ra’íchali tamó ruyéami ke, aníami ke chu riká níili mapu a’lí táa ke a’líko ayenacho bonói retémala kítira rúami ke, chu riká e’peréilisi.",Kíni a’káchuwa weká namúti ruli kíni retémala kítira mapu chu riká betéili taa ka.,"neutral
+"
+"Pachá abionichi weká nirú na’pácha mapu iyiri astronautas níwala wéli ru’náami, tamujé níwala ko ra’tábuami ke, ayenacho sapatiala, a’lí ratalí néala sí, echikí ju namúti.",Tamó na’páchala ko tási mapu iyíri astronautas na’páchala ju.,"entailment
+"
+"Pachá abionichi weká nirú na’pácha mapu iyiri astronautas níwala wéli ru’náami, tamujé níwala ko ra’tábuami ke, ayenacho sapatiala, a’lí ratalí néala sí, echikí ju namúti.","Tamó na’páchala ko mapu iyíri astronautas na’páchala ke, pe ratalí anáwialabi ke, tamujé na’páchala ko ra’tábuami ke.","entailment
+
+
+
+**explanation:**
+
+let's break down the rarámuri to understand why:
+
+* **premise (roughly translated):** ""pachá told us that the stars and the astronauts are going to come back someday, and they said that they are traveling in space, and that they will return to us, that's what they told us."" (it emphasizes a *telling* of future events by pachá and astronauts.)
+* **hypothesis (roughly translated):** ""they said that the stars and the astronauts are going to come back someday, and that they will return to us."" (it focuses solely on the *statement* of a future return.)
+
+the hypothesis is essentially a restatement of a core part of the premise – the astronauts and stars *will* return, as *stated* by pachá and the astronauts themselves. the premise *includes* this statement as something that was said.  therefore, if the premise is true (pachá *did* say this), the hypothesis *must* also be true. this is the definition of entailment.
+
+"
+"Pachá abionichi weká nirú na’pácha mapu iyiri astronautas níwala wéli ru’náami, tamujé níwala ko ra’tábuami ke, ayenacho sapatiala, a’lí ratalí néala sí, echikí ju namúti.","Na’pácha ko chuwé iyíri yókitami a nirú, mapu iyíri a ba’óri.","neutral
+"
+"Echi riká níili, kíni apalóchi ko tási ga’labé rejói níili.",Wabé cháti níili kíni apalóchi.,"entailment
+"
+"Echi riká níili, kíni apalóchi ko tási ga’labé rejói níili.",Wabé chíbi aníami ke kípi apalóchi ajarécho kawéliami we chati alewéami.,"neutral
+"
+"Echi riká níili, kíni apalóchi ko tási ga’labé rejói níili.","¡Kíni apalóchi ne wabé ga’labé rejói níili, ke che mu riwíméa chiyíri che!","entailment
+"
+"Besá makói nayósa makói ma nirú abioni U 2 a’lí ma chotáiri echi mélami benéria chinos, ayenacho ajarécho, o’mána wichimóba e’pérami si benérika.",Ke wési tamó benériki.,"neutral
+"
+"Besá makói nayósa makói ma nirú abioni U 2 a’lí ma chotáiri echi mélami benéria chinos, ayenacho ajarécho, o’mána wichimóba e’pérami si benérika.",Malí taráli tamó benéli británicos yua.,"neutral
+
+**explanation:**
+
+the premise discusses a situation involving children (besá makói) who are sick (chotáiri) and receiving medicine (benéria chinos) with a spiritual component (u 2 a’lí, o’mána wichimóba). it describes their condition and the hope for recovery.
+
+the hypothesis states that some people (malí taráli tamó) are british (británicos).
+
+there is *absolutely no logical connection* between the health of sick children in a specific context and the nationality of other people. the premise provides no information about british people, nor does it offer any conditions that would necessitate or forbid them from existing. therefore, the premise is **neutral** towards the hypothesis.
+
+
+
+"
+"Besá makói nayósa makói ma nirú abioni U 2 a’lí ma chotáiri echi mélami benéria chinos, ayenacho ajarécho, o’mána wichimóba e’pérami si benérika.",Ajarécho weká sontarusi yua ta benéli.,"neutral
+"
+"A’lí ko je aní, ákaneko, áka je’ná nocháliachi.",Échi ko tási tamí ra’íchi.,"neutral
+"
+"A’lí ko je aní, ákaneko, áka je’ná nocháliachi.",Namúti tamí ánulia nuléki.,"neutral
+"
+"A’lí ko je aní, ákaneko, áka je’ná nocháliachi.",Echi ko aniyé mapu nejé oselí we natéami áma.,"neutral
+"
+Échi ko aníli mapu waminá ka’ó simíbali.,Buwichí pe wesabé isábuli.,"neutral
+"
+Échi ko aníli mapu waminá ka’ó simíbali.,Aníli mapu tu re’léki simíbali.,"entailment
+"
+Échi ko aníli mapu waminá ka’ó simíbali.,Aníli mapu waminá ka’ó eenaali.,"neutral
+"
+"Ne bichíwaka ra’íchaka, tási sinéti ne i’néki oselí libros mapu ni leerinulia nuléiru.",Ke ni i’né leería bilé oselí libro bilé ciento osirúami mo’áami.,"**neutral**
+
+here's a breakdown of why:
+
+* **premise translation:** ""because he/she/it is a student, therefore he/she/it definitely has many books to study."" (roughly - the nuances of rarámuri grammar are complex).
+* **hypothesis translation:** ""if he/she doesn't read even one book, even one hundred times, it's not good.""
+
+the premise states a student *has* many books. the hypothesis discusses *reading* books and states a negative consequence of *not* reading.  having books doesn't necessitate reading them, and not reading doesn't negate the fact of possessing books. therefore, the premise gives no information about whether the person in question actually reads, so it's neutral towards the hypothesis.
+"
+"Ne bichíwaka ra’íchaka, tási sinéti ne i’néki oselí libros mapu ni leerinulia nuléiru.",Tási ne weká leeri oselí libros osirúami.,"entailment
+"
+"Ne bichíwaka ra’íchaka, tási sinéti ne i’néki oselí libros mapu ni leerinulia nuléiru.",Sinibí rawé ne leeri oselí libros.,"entailment
+"
+"A ne simíli a’lí ko kíni na’páchala ku wíki, chijónsa waminá ne simíli mapu o’na ne simiyé.","Tá chiwáwala echoná ne rewéki, je ni ilayé ke chibiré nejé kítira ko.","neutral
+"
+"A ne simíli a’lí ko kíni na’páchala ku wíki, chijónsa waminá ne simíli mapu o’na ne simiyé.",Ta chiwáwala ku mujé betélachi toká.,"neutral
+"
+"A ne simíli a’lí ko kíni na’páchala ku wíki, chijónsa waminá ne simíli mapu o’na ne simiyé.",Ta chiwáwala mapu amí nirúami ju toká.,"neutral
+"
+Wabé cha riká ku aniyé.,Tási kanílika iyénai nalí a wabé jiwérali.,"neutral
+"
+Wabé cha riká ku aniyé.,We kanílisa pei a’líko we o’mónali.,"neutral
+"
+Wabé cha riká ku aniyé.,Wabé cha riká ku ra’íchali cha ku iníili.,"neutral
+"
+"Makói malí pakótami katúili mapu nejé waminá benéalachi siméa, tási ne siméa, tási ne siméa.",Tási ne juláraami ju skuelchi benelíachi.,"neutral
+"
+"Makói malí pakótami katúili mapu nejé waminá benéalachi siméa, tási ne siméa, tási ne siméa.",A ne juláraami ju skuelchi benéalachi.,"neutral
+"
+"Makói malí pakótami katúili mapu nejé waminá benéalachi siméa, tási ne siméa, tási ne siméa.",Nejé nalí wabé ga’labé ke mapu riká ne wilibánali.,"neutral
+"
+"Wekabé cámaras semérika simáro waminá re’pá, ajaréanachi i’nía basalówa bachá rikó si’nú mela a’lí ma benésaka abioni U2 méla, we ru’náami napáchika.","Ajaré mapu benéli tási umero simára, a’lí ke umérocho abioni U2 mélaka i’nía.","neutral
+"
+"Wekabé cámaras semérika simáro waminá re’pá, ajaréanachi i’nía basalówa bachá rikó si’nú mela a’lí ma benésaka abioni U2 méla, we ru’náami napáchika.",Ne we benéka nakí mapure abioni melánaa ka U2 anelíami.,"**entailment**
+
+here's why:
+
+* **premise (roughly translated):** ""we took many pictures yesterday, and because of that, some people are already posting them online on u2, and everyone is happy about it.""
+* **hypothesis (roughly translated):** ""someone is posting something on u2 now.""
+
+the premise *explicitly states* that people *are already* posting on u2.  therefore, the hypothesis – that someone is posting on u2 *now* – is a direct consequence and is logically contained within the premise. this is a clear case of entailment. the premise guarantees the truth of the hypothesis.
+
+
+
+"
+"Wekabé cámaras semérika simáro waminá re’pá, ajaréanachi i’nía basalówa bachá rikó si’nú mela a’lí ma benésaka abioni U2 méla, we ru’náami napáchika.",Sinéwi rawé abioni U2 bi uméro i’nía.,"neutral
+"
+Echi kítirabi ne nócha bijí.,Sébali ne tibúla je’ná kulíwaami namúti.,"neutral
+"
+Echi kítirabi ne nócha bijí.,Sébali a ne bujána ra’íchali biléana osirúachi.,"neutral
+"
+Echi kítirabi ne nócha bijí.,Échi kítiracho ne ra’ícha mapu riká échi.,"neutral
+"
+"Sinéwi chokichí ke, kicháosa makói malí bamíbali simáru, echoná mapu o’ná najóriliachi ju waminá Texas anelíachi, sontarusi ayenacho baweráli oselí kuíra jáwami, Texas e’peréami jáwami newalelíwi.",Échi sontarusi Texas e’peréami ko tási si umero si nasayéta.,"entailment
+"
+"Sinéwi chokichí ke, kicháosa makói malí bamíbali simáru, echoná mapu o’ná najóriliachi ju waminá Texas anelíachi, sontarusi ayenacho baweráli oselí kuíra jáwami, Texas e’peréami jáwami newalelíwi.",Waminá bo’ómi birinko e’perélachi échi sontarusi nóchami bilé rewalí áiru.,"neutral
+"
+"Sinéwi chokichí ke, kicháosa makói malí bamíbali simáru, echoná mapu o’ná najóriliachi ju waminá Texas anelíachi, sontarusi ayenacho baweráli oselí kuíra jáwami, Texas e’peréami jáwami newalelíwi.",Waminá Texas nóchami echimí embajadores rewáiru.,"neutral
+"
+Nejé a namúti isia umpasaká mujé kítira.,Nejé a uméro namúti kítira mi ku’íra.,"neutral
+"
+Nejé a namúti isia umpasaká mujé kítira.,Nejéko machiyé mapu nejé tási umero mi ku’íra.,"neutral
+"
+Nejé a namúti isia umpasaká mujé kítira.,A ne umpasa riwéli mí ku’íra echi kítira.,"neutral
+"
+"Tási kaléli échi, sinibí ruyéami ke kípi ko’chílá, chiriká aniyé, támu mu a’lá newá.",Échi ko sinibí ku’íroli kípi rijimála.,"neutral
+"
+"Tási kaléli échi, sinibí ruyéami ke kípi ko’chílá, chiriká aniyé, támu mu a’lá newá.",Ayena a aníli mapu rijimála ko tási namúti machíli newayá.,"neutral
+"
+"Tási kaléli échi, sinibí ruyéami ke kípi ko’chílá, chiriká aniyé, támu mu a’lá newá.",We cha aníami níili kípi rijimá kítira.,"neutral
+"
+"Echi betélachi ne simíki a’líko telefonochi ne ra’íchiki, echoná mapu riká ne ra’íchima riké echoná nawása.",Teléfono tanéwitami ne nati ra’íchiki.,"entailment
+"
+"Echi betélachi ne simíki a’líko telefonochi ne ra’íchiki, echoná mapu riká ne ra’íchima riké echoná nawása.",Échi numerochi ne ra’íchaki betélachi nawása.,"entailment
+"
+"Echi betélachi ne simíki a’líko telefonochi ne ra’íchiki, echoná mapu riká ne ra’íchima riké echoná nawása.",A ne ra’icháma riké tási ne ra’íchaki.,"neutral
+"
+"Juli, be’á echoná nawáli a’lí ke ni newalá chu riká, a namúti ne náriki, échi bakíli, tási ne ga’lá machí.","Jípi ko tási simíki, tási ne rewáki jípi ko.","neutral
+"
+"Juli, be’á echoná nawáli a’lí ke ni newalá chu riká, a namúti ne náriki, échi bakíli, tási ne ga’lá machí.",Waminá gimnaciochi ne nawáki a’lí échi ko pei alikítali nawása tamí narépaki.,"neutral
+
+
+
+**explanation:**
+
+here's a breakdown of the rarámuri and why it's neutral:
+
+* **premise (roughly translated):** ""juli, she always runs well when she trains, but sometimes she gets tired, so she rests a little.""  this focuses on juli's running *practice* and recovery.
+* **hypothesis (roughly translated):** ""she goes to the gym and trains well, therefore she will improve her speed a lot."" this focuses on juli going to the *gym* for training and *predicts* speed improvement.
+
+the premise says nothing about juli going to a gym. it only talks about her running and resting.  the hypothesis introduces a new training context (the gym) and makes a prediction.  therefore, the premise neither necessitates nor denies the hypothesis; it's *neutral*.  juli could go to the gym and improve, or she could not - the premise doesn't give us any information either way.
+
+
+
+"
+"Juli, be’á echoná nawáli a’lí ke ni newalá chu riká, a namúti ne náriki, échi bakíli, tási ne ga’lá machí.",Be’á ne simíki a’lí échi ko tási nawáli.,"here's the breakdown and the answer:
+
+**translation (approximate - rarámuri is highly context-dependent):**
+
+* **premise:** ""juli, she already finished her work, and now she is resting, a little tired, but she feels good, therefore she is going to sleep.""
+* **hypothesis:** ""she is not feeling well, and therefore she is sleeping.""
+
+**analysis:**
+
+the premise states juli *feels good* after finishing work and resting, *then* she's going to sleep. the hypothesis states she’s sleeping *because* she's *not* feeling well. these are different reasons for sleeping.  the premise doesn’t rule out the possibility of her not feeling well, nor does it necessitate it.
+
+**answer:**
+
+neutral
+"
+Tásita machiyé kúmi rikáta simíba.,Tásita machiyé kúmi riká simía échi benéami.,"neutral
+"
+Tásita machiyé kúmi rikáta simíba.,Tásita machiyé kúmi riká simíba ajaré pakótami.,"neutral
+"
+Tásita machiyé kúmi rikáta simíba.,Ayenata machiyé kúmi riká simíbali.,"neutral
+"
+"Nejé chu riká ne asáli, ku we’kawá, ma ne ko’méa jípi be’áa. Cha ne lochéli.",Ké tási ne lochéli.,"entailment
+"
+"Nejé chu riká ne asáli, ku we’kawá, ma ne ko’méa jípi be’áa. Cha ne lochéli.","Ayéna ne lochéli, ma ne ariká ko’méa be’áa ko’wáami.","here's the breakdown and the answer:
+
+**translation (approximate - rarámuri is context-dependent):**
+
+* **premise:** ""i already ate, but i'm not full, and i don't want to drink water. that's the truth.""
+* **hypothesis:** ""maybe that's the truth, but i don't think i want to drink water later.""
+
+**analysis:**
+
+the premise states the speaker *currently* doesn't want to drink water. the hypothesis suggests a *future* possibility of not wanting to drink water.  the premise doesn't give us information about the speaker’s future desires. it's perfectly consistent for someone who doesn’t want water *now* to *potentially* not want water later.
+
+**answer:**
+
+neutral
+"
+"Nejé chu riká ne asáli, ku we’kawá, ma ne ko’méa jípi be’áa. Cha ne lochéli.","Ne mukusá níili lochéa nejé, a’líko ko’wáami ra’linéawachi ne simíki.","neutral
+"
+"A’lí jípi ko, ne mi ruyé mapu jípi ne nokí ku machíinaki nocháalachi jónsa.",Nokí ne ku ma’chínaki nochaalachi jonsa.,"entailment
+"
+"A’lí jípi ko, ne mi ruyé mapu jípi ne nokí ku machíinaki nocháalachi jónsa.","Wabé ne chíbi olirúi, ma tási ne anáchaki risóa inília.","neutral
+"
+"A’lí jípi ko, ne mi ruyé mapu jípi ne nokí ku machíinaki nocháalachi jónsa.",Ke sinéti ne nátaki ku machinámia ne nocháalachi jónsa.,"entailment
+"
+"Echi ko ranáiru bilé mili osá nayo ciento osá nayósa osá nayó ináraachi bamíbali, siné rikáachi bilé mili osá nayo ciento osá nayósa makói kima kói keré.",Tasi cho bilé mili kimaói ciento kimakósa makói bamíbali ináraachi ranáiru.,"neutral
+"
+"Echi ko ranáiru bilé mili osá nayo ciento osá nayósa osá nayó ináraachi bamíbali, siné rikáachi bilé mili osá nayo ciento osá nayósa makói kima kói keré.",Diciembre mechá nawáli bilé mili osá nayo ciento osá nayosa makói inrárachi.,"neutral
+"
+"Echi ko ranáiru bilé mili osá nayo ciento osá nayósa osá nayó ináraachi bamíbali, siné rikáachi bilé mili osá nayo ciento osá nayósa makói kima kói keré.",Échi ko ranáiru bilé mili kimakoi ciento osá nayosa makói nayó ináraachi bamíbali.,"entailment
+"
+"Pe re’lebé ri’kibú ti me’chóala, sonoláchi mu o’kótisa bile rikamti simíraachi.",Je’ná me’chóala ko bilé sonoláchi o’kótima chiwisáa ka.,"**entailment**
+
+here's why:
+
+* **premise translation:** ""if someone is a good runner, then they definitely run far in the mountains.""
+* **hypothesis translation:** ""a good runner definitely runs far.""
+
+the hypothesis is a direct consequence of the premise. if being a good runner *guarantees* running far *in the mountains*, then being a good runner guarantees running far *generally*. the location (mountains) in the premise doesn't negate the general truth stated in the hypothesis. therefore, the premise logically entails the hypothesis.
+
+
+
+"
+"Pe re’lebé ri’kibú ti me’chóala, sonoláchi mu o’kótisa bile rikamti simíraachi.","Échi me’óchaala ko tási chibi iré, wabé jiwéraka rachiná mapu riká níisare.","neutral
+"
+"Pe re’lebé ri’kibú ti me’chóala, sonoláchi mu o’kótisa bile rikamti simíraachi.",Échi me’chóala ko pachána rinichí bakí a’lí sonoláchi chewaká o’kótima.,"here's the breakdown and the answer:
+
+**translation (approximate, for understanding):**
+
+* **premise:** ""when a person gets sick, they usually seek a healer (or someone who knows remedies).""
+* **hypothesis:** ""that person who got sick eventually found someone to heal them.""
+
+**analysis:**
+
+the premise states a *usual* outcome of getting sick – seeking help. the hypothesis states that the person *did* find help.  it's perfectly consistent for someone to usually seek help and *then* find it. the premise doesn't rule out the possibility of actually finding a healer; it suggests it's the normal course of action.
+
+therefore, the premise supports the hypothesis.
+
+**answer:**
+
+entailment
+"
+"Bakóchi jonsa ne ku siméarua Texas, mapu a’lí echoná ne nawáki, a ne ruyéri mapu biléanachi ne siméa rua sontarusi nocháalachi Laughlin Air Force.",Waminá ne juláiru nochásia Bakóchi Texas anelíachi.,"entailment
+"
+"Bakóchi jonsa ne ku siméarua Texas, mapu a’lí echoná ne nawáki, a ne ruyéri mapu biléanachi ne siméa rua sontarusi nocháalachi Laughlin Air Force.",Tási ne sinéti ra’éwi waminá Texas anelíachi.,"**entailment**
+
+**explanation:**
+
+let's break down the rarámuri:
+
+* **premise:** ""bakóchi jonsa ne ku siméarua texas, mapu a’lí echoná ne nawáki, a ne ruyéri mapu biléanachi ne siméa rua sontarusi nocháalachi laughlin air force."" - roughly translates to: ""some young people from here went to texas, they said it’s a good place, and they said they're going to learn to fly airplanes at laughlin air force [base].""
+* **hypothesis:** ""tási ne sinéti ra’éwi waminá texas anelíachi."" - roughly translates to: ""someone is learning to fly in texas.""
+
+the premise *directly states* that people are going to texas to *learn to fly* (at laughlin air force base). therefore, it logically *entails* that someone is learning to fly in texas. the hypothesis is a direct consequence of the information provided in the premise.
+
+
+
+"
+"Bakóchi jonsa ne ku siméarua Texas, mapu a’lí echoná ne nawáki, a ne ruyéri mapu biléanachi ne siméa rua sontarusi nocháalachi Laughlin Air Force.",Echi sontarsi nuláami waminá Bakóchi Texas tamí julaliokuá mili waminá bilé ináraachi.,"entailment
+
+**explanation:**
+
+let's break down the rarámuri:
+
+* **premise:** ""bakóchi (people) live in texas, their land is beautiful, and they remember their land being near laughlin air force base."" (roughly translated, focusing on key elements)
+* **hypothesis:** ""there are people from bakóchi in texas who work in the military near that land."" (roughly translated)
+
+the premise states bakóchi people live *in* texas and *remember* a connection to laughlin air force base. this directly implies the possibility, and strongly suggests, that some bakóchi people may be employed by the military *near* that land (the ""that land"" referring to the land they remember).  the hypothesis is a logical consequence of the premise; if they live there and remember a connection, it's reasonable to infer some work near the base. therefore, the premise *entails* the hypothesis.
+
+
+
+"
+"Ralámuli we roaká bají ba’wí rikútiami, nalí ke me wési suwá ro’ása: echoná basochi ri’píala ko kúuchi kúruwi suwá, echonáta anakú jári, kulímuka jároka a’lí bajíka rikútami.",Kúuchi kúruwi ko bikéa kayamti rikútiami bajíli.,"entailment
+"
+"Ralámuli we roaká bají ba’wí rikútiami, nalí ke me wési suwá ro’ása: echoná basochi ri’píala ko kúuchi kúruwi suwá, echonáta anakú jári, kulímuka jároka a’lí bajíka rikútami.",Kúuchi kúruwi ko pe taa rikútiami bajíli.,"entailment
+
+
+
+**explanation:**
+
+let's break down the rarámuri:
+
+* **premise:** ""when the rarámuri run, they do it with joy and strength: sometimes they run with a small dog, sometimes they don't, but always they run with joy."" (this is a simplified, contextualized translation, focusing on the key meaning for the logical relationship)
+* **hypothesis:** ""small dogs also run with them."" (again, simplified for clarity)
+
+the premise *specifically states* ""sometimes they run with a small dog"" (""echoná basochi ri’píala ko kúuchi kúruwi suwá"").  therefore, the hypothesis—that small dogs *do* run with them—is necessarily true *if* the premise is true. this constitutes logical entailment. the premise doesn't *always* say they run with dogs, but it doesn't exclude it either, and the hypothesis simply states that they sometimes do, which aligns with the premise."
+"Ralámuli we roaká bají ba’wí rikútiami, nalí ke me wési suwá ro’ása: echoná basochi ri’píala ko kúuchi kúruwi suwá, echonáta anakú jári, kulímuka jároka a’lí bajíka rikútami.","Suwába omáwali we wakichéa wiliké, a’lí tási bajíka omawáiru.","neutral
+"
+We’ká ra’íchali kiyá nirú biléana Ciudadchi.,Tási ne kipusú bilé ra’íchali ki’yá nirúami.,"entailment
+"
+We’ká ra’íchali kiyá nirú biléana Ciudadchi.,We’ká nirú ra’íchali sontarusi kítira aniwáami.,"neutral
+"
+We’ká ra’íchali kiyá nirú biléana Ciudadchi.,We’ká ra’íchali ki’yá nirúami aniwá.,"neutral
+"
+"Echi riká e’peréka benelíwa, ma mu machí, mapuli abioni ma mu i’né.",Tási ne machí chu riká ju abioni melánalaka.,"neutral
+"
+"Echi riká e’peréka benelíwa, ma mu machí, mapuli abioni ma mu i’né.",Abioni melália ka weká namúti benelíwa.,"neutral
+"
+"Echi riká e’peréka benelíwa, ma mu machí, mapuli abioni ma mu i’né.","Chotaliaka abioni mela, kilii nerá ajarécho namúti benésimi.","neutral
+"
+Echi riká ne anináli mapu echoná ne sébali ju.,Tási ne machí kúmi nalí ju.,"neutral
+"
+Echi riká ne anináli mapu echoná ne sébali ju.,Pe nalí ya ta ruli chu yena cháti ju.,"neutral
+"
+Echi riká ne anináli mapu echoná ne sébali ju.,A ne machíki kúmi ne ju.,"neutral
+"
+"Sontarsi nochálachi simáruli waminá Cuba, a’líko echoná jónsa a umpairu Rudolph Anderson.","Ké tási chewáiru abioni ra’tánisuwa, ke namú ikíli.","neutral
+"
+"Sontarsi nochálachi simáruli waminá Cuba, a’líko echoná jónsa a umpairu Rudolph Anderson.",Namúti re’pá ináraami banaká paíru.,"neutral
+"
+"Sontarsi nochálachi simáruli waminá Cuba, a’líko echoná jónsa a umpairu Rudolph Anderson.",Wa’lu abioni re’pá máachi banaká pairu waminá Cuba mayo mechá.,"neutral
+"
+"Echi kítira bachá rikó nejé newalá, mapu a’lí ne táa towí níili, pe a karú ne isíli alé, echi kiti ko nejé ya ku newalá.",Tási ne newalá chu riká níili mapu a’lí nejé táa ke.,"neutral
+"
+"Echi kítira bachá rikó nejé newalá, mapu a’lí ne táa towí níili, pe a karú ne isíli alé, echi kiti ko nejé ya ku newalá.",Jípi a bijísi nejé a cha iníli.,"neutral
+"
+"Echi kítira bachá rikó nejé newalá, mapu a’lí ne táa towí níili, pe a karú ne isíli alé, echi kiti ko nejé ya ku newalá.",Ne bachá rikó nejé ku newaláki.,"entailment
+"
+"Tási tamí kaléli nejéko pe nóchami ke a’líko, chiriká níili, nejé mayé mapu echi riká níili, ma mu machí chótaachi bamíbali bilé mili kimakói ciento aminá besá makói, a’lí echi riká níili.",We karú oliwáami ke mapu chókami juko.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of rarámuri cultural context and nuanced meanings (which is extremely difficult without being a fluent speaker), it's impossible to definitively say the premise entails or contradicts the hypothesis. 
+
+here's a breakdown of why ""neutral"" is the most appropriate answer:
+
+* **premise translation (approximate):** ""if someone is sick and doesn’t eat, they get weak; they say it's because of the land, but they don't give them much respect (or care) – only a hundred blessings are given. they say it's because of the land.""  this speaks to illness, respect for the land, and perhaps limited resources for healing.
+* **hypothesis translation (approximate):** ""we need to work the land with strength.""  this speaks to *action* related to the land – actively working it.
+
+the premise *describes* a situation, while the hypothesis *proposes* an action. the premise doesn’t say anything about *whether or not* people *should* work the land, or if they *are* actively working the land. the situation described in the premise could exist regardless of whether the people are actively working the land with strength (hypothesis) or not.
+
+therefore, the premise provides no information that confirms or denies the truth of the hypothesis, making it **neutral**.
+
+
+
+**important note:** this assessment is based on the *best possible* translation and understanding given the limitations of not being a native rarámuri speaker. subtle cultural understandings could change this assessment."
+"Tási tamí kaléli nejéko pe nóchami ke a’líko, chiriká níili, nejé mayé mapu echi riká níili, ma mu machí chótaachi bamíbali bilé mili kimakói ciento aminá besá makói, a’lí echi riká níili.",¡tási nochali ke chótami níisuwa!,"neutral
+"
+"Tási tamí kaléli nejéko pe nóchami ke a’líko, chiriká níili, nejé mayé mapu echi riká níili, ma mu machí chótaachi bamíbali bilé mili kimakói ciento aminá besá makói, a’lí echi riká níili.",We nóchali ke chókami níluwa a’líko.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of rarámuri cultural context and nuance (which is very difficult without being a fluent speaker), it’s impossible to definitively say whether the premise *guarantees* the hypothesis is true (entailment) or *guarantees* it is false (contradiction).
+
+here's a breakdown of why 'neutral' is the most appropriate answer:
+
+* **premise:** this appears to describe a situation involving someone traveling, perhaps with difficulty (mention of ""ciento aminá besá makói"" - a hundred years walking), and possibly relating to a journey to a place (""mapu"").  there's talk of seeing things (""chiriká níili"", ""a’lí echi riká níili"").
+* **hypothesis:** this translates to something like ""we will return to that place.""
+
+the premise *could* be a story *leading up to* a return, but it doesn't *require* a return. the person could have travelled and stayed, or travelled and gone elsewhere. the premise doesn’t provide information definitively supporting or denying the hypothesis. therefore, it's neutral.
+
+
+
+"
+Ké wési machíli kúmi simáma.,Si’néami machíli kúmi simíba.,"neutral
+"
+Ké wési machíli kúmi simáma.,Tási wési machíli chu iyíri kalírili simáma.,"neutral
+"
+Ké wési machíli kúmi simáma.,Tási machiká simíbali kúmi riká.,"neutral
+"
+"Tási uméroli waminá Augusta anelíachi ripía, echoná e’peréami ko ayena a machíli mapu echi retéwi karú nokiméa riké ayenacho tosákami neráa riká simárunali.",Echoná e’pérami ko tási mayéli mapu otosámi ju.,"neutral
+"
+"Tási uméroli waminá Augusta anelíachi ripía, echoná e’peréami ko ayena a machíli mapu echi retéwi karú nokiméa riké ayenacho tosákami neráa riká simárunali.",Echoná e’pereami ko ayena a machíli mapu ochókami ju.,"entailment
+"
+"Tási uméroli waminá Augusta anelíachi ripía, echoná e’peréami ko ayena a machíli mapu echi retéwi karú nokiméa riké ayenacho tosákami neráa riká simárunali.",Echoná e’pereami ko tasi machíli mapu otosákami ju.,"entailment
+"
+"Ayena, ga’lá ju, jenaí atí towíko.",Echi towí jenaí atíki.,"entailment
+"
+"Ayena, ga’lá ju, jenaí atí towíko.",Okuá hora ju mapu échi ku nawáli.,"neutral
+"
+"Ayena, ga’lá ju, jenaí atí towíko.",Échi rejói ke sinéti nawáli.,"neutral
+"
+Televisionchi ajaré namútita i’néni.,Tumujé tási níwi televisión.,"entailment
+"
+Televisionchi ajaré namútita i’néni.,Televisionchi ajaréta namúti i’néni.,"entailment
+"
+Televisionchi ajaré namútita i’néni.,Noticias i’nékata muchúwi televisionchi.,"entailment
+"
+"A’líko, chécho ku ra’ícháma Ramona yua.",Ke sinéti ne ra’ícha Ramona yua.,"entailment
+"
+"A’líko, chécho ku ra’ícháma Ramona yua.",Uchécho siné me ra’ícha Ramona yua.,"entailment
+"
+"A’líko, chécho ku ra’ícháma Ramona yua.",Ayena a kanílika ra’íchali.,"neutral
+"
+"Pe a’líbi risóa ikíli waminá Cuba anelíachi, echi riká kayénali a'lí ch’jónsa waminá i’níka simíli Andrews Air Force en Washington anelíachi.",Makói mili pakótami suwíli waminá Cuba anelíachi mapu a’lí karú riká simáruli.,"neutral
+"
+"Pe a’líbi risóa ikíli waminá Cuba anelíachi, echi riká kayénali a'lí ch’jónsa waminá i’níka simíli Andrews Air Force en Washington anelíachi.",Bilépi pakótami mukúli waminá cuba.,"entailment
+
+**explanation:**
+
+let's break down the rarámuri:
+
+* **premise:** ""when the plane landed in cuba, they said that the same plane landed at andrews air force base in washington.""
+* **hypothesis:** ""there are people who landed in cuba.""
+
+the premise *explicitly states* a plane landed in cuba.  therefore, it logically follows (entails) that *someone* (people) landed in cuba, even if it doesn’t directly state “people.” the premise provides information that necessitates the truth of the hypothesis.
+
+
+
+"
+"Pe a’líbi risóa ikíli waminá Cuba anelíachi, echi riká kayénali a'lí ch’jónsa waminá i’níka simíli Andrews Air Force en Washington anelíachi.",Bilépi pakótami mukúli waminá cuba mapu a’lí karú riká simáruli.,"neutral
+"
+"Echi ko je aníli…aníli…aníli kaléruami, mujé tási newaníli chu riká e’peréluwa, ke mu newaníli mapu riká nejé newaníli.",Mukíko aníli mapu ke bilé newaníili.,"**entailment**
+
+here's why:
+
+* **premise translation (approximate):** ""it's raining…raining…raining heavily, but sometimes it doesn't rain here, and when it doesn't rain here, it doesn't rain there either.""  essentially, it establishes a correlation: no rain *here* implies no rain *there*.
+* **hypothesis translation (approximate):** ""it doesn't rain there if it's not raining.""
+
+the hypothesis *directly* follows from the premise's established conditional relationship. if the premise states that no rain here means no rain there, then it *must* be true that if it's *not* raining here, it won't rain there.  the hypothesis is a restatement of a core component of the premise. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Echi ko je aníli…aníli…aníli kaléruami, mujé tási newaníli chu riká e’peréluwa, ke mu newaníli mapu riká nejé newaníli.",Mukíko aníli mapu wabé machíli chu riká e’peréluwa.,"entailment
+"
+"Echi ko je aníli…aníli…aníli kaléruami, mujé tási newaníli chu riká e’peréluwa, ke mu newaníli mapu riká nejé newaníli.","Tamí anéki mapu nejé tási newaníli chu riká e’peréluwa, a’lí chu riká najátopa.","neutral
+"
+"Pe kaléka tamí ra’íchili, mapu riká ne galabé neráa ripíki binóiko. ¿chu ne isíma?",Tási ne machíli chu riká oláma échi namúti yua.,"neutral
+"
+"Pe kaléka tamí ra’íchili, mapu riká ne galabé neráa ripíki binóiko. ¿chu ne isíma?",Tási ne machí chu riká ne nocháma echi yua.,"neutral
+"
+"Pe kaléka tamí ra’íchili, mapu riká ne galabé neráa ripíki binóiko. ¿chu ne isíma?",¡ne sébali machíli chu riká oláma!,"here's the breakdown and the answer:
+
+**translation (approximate - rarámuri is context-dependent):**
+
+* **premise:** ""if someone gets sick, it's said that they didn't live well. what about this one?"" (referring to someone specific)
+* **hypothesis:** ""this one truly doesn't live well!""
+
+**analysis:**
+
+the premise states a *conditional* relationship: sickness *implies* a past life not lived well. the hypothesis states that someone *doesn't* live well. the premise doesn't *require* someone to be sick to not live well. someone can not live well *without* being sick.  the premise also doesn't say anything about what *causes* someone not to live well.
+
+therefore, the premise doesn't logically necessitate the hypothesis, nor does it deny it.
+
+**answer:**
+
+neutral
+"
+"Pe bilé minuto tamí chiliwé, pe ripuná, nejé ma ku simí.",Ma a’lú ju jípi sinépi neráa ne siméa.,"neutral
+"
+"Pe bilé minuto tamí chiliwé, pe ripuná, nejé ma ku simí.",Jenaí bilé minuto newalé nejé.,"neutral
+"
+"Pe bilé minuto tamí chiliwé, pe ripuná, nejé ma ku simí.",Bilé minúto olaká ku ne cha’piméa kíni natáala.,"neutral
+"
+"Waminá Washington ne simíli, nalí tási ne nawáki mapu o’ná ne juláiru, ke ne a’lá nejéwaki.",Ke sinéti ne ra’erá Washington D.C.,"entailment
+"
+"Waminá Washington ne simíli, nalí tási ne nawáki mapu o’ná ne juláiru, ke ne a’lá nejéwaki.",Waminá ne D.C. simíli walúala i’nésia.,"neutral
+"
+"Waminá Washington ne simíli, nalí tási ne nawáki mapu o’ná ne juláiru, ke ne a’lá nejéwaki.",Waminá weká rejóliachi ne simíki.,"neutral
+"
+Bile pekótami ke we rosákami chu’éami.,Mukíko ne simíraami chókami chu’éami ke.,"neutral
+"
+Bile pekótami ke we rosákami chu’éami.,"Echi ko we rosákami ke, tási afromexicana níisa riké.","neutral
+"
+Bile pekótami ke we rosákami chu’éami.,Bilé mukíko wabé walíniami ke ajarécho kítira.,"neutral
+"
+"Ariká, kíni onó ko ariká simí a’lí wa’lú basochi tamí léchi niwíili chocolate achéka.",Tata ko tamí lechi áli chocolate nasówaka pachá rulaachi maníamichi wiká.,"neutral
+"
+"Ariká, kíni onó ko ariká simí a’lí wa’lú basochi tamí léchi niwíili chocolate achéka.",Tata ko bile baso léchi tamí ro’éli.,"neutral
+"
+"Ariká, kíni onó ko ariká simí a’lí wa’lú basochi tamí léchi niwíili chocolate achéka.",Tata ko tási risencia tamí yáli mapu ne bajíma.,"neutral
+"
+Echi nóchami ko namúti raláli mapu newalé,Echoná nóchaami ko ayenacho rewáli sinúcho wasá a’lí kalí mapu o’ná natétika e’perélima.,"neutral
+"
+Echi nóchami ko namúti raláli mapu newalé,We’é a’lí suwába namúti ma ralirúami ke DOT kítira.,"without a full translation and understanding of the nuances of rarámuri, it is **neutral**. 
+
+here's why:
+
+* **lack of translation:** i cannot definitively assess the logical relationship between the premise and hypothesis without knowing what each phrase *means*.  rarámuri is a complex language with cultural context vital to understanding meaning.
+* **potential for disconnection:** even if i had a basic translation, the topics discussed in each sentence could be entirely unrelated. the premise might be about a past event, while the hypothesis concerns a future plan.
+* **specificity:** the level of specificity of each statement is unknown. they could be discussing entirely different aspects of a situation.
+
+
+
+therefore, lacking the necessary linguistic and contextual information, the safest and most accurate response is **neutral**."
+Echi nóchami ko namúti raláli mapu newalé,Ne simíraami bikéa millones natéli biléana we’é kalí yua raliwáa.,"neutral
+"
+ma ranáirui echi kó,Echi ko buyéiri Diciembre mechá bamíbali osá makói mili waminá makói ináraachi.,"neutral
+"
+ma ranáirui echi kó,Mayéiri mapu ma ranabóa.,"neutral
+"
+ma ranáirui echi kó,Mayéiri mapu ke nawása riwéli.,"neutral
+"
+"Mapu riká ne ju, wabé meká ne nawá.",A ne ruyéki mapu nejé ke machíli ch une isimí.,"neutral
+"
+"Mapu riká ne ju, wabé meká ne nawá.",Nayósa makói bilé ciento neráa ne simúrika ga’lá newáki suwába namúti.,"neutral
+"
+"Mapu riká ne ju, wabé meká ne nawá.",A ne machíli mapu nejé sebárili.,"neutral
+"
+¿ácha mu tamí kipúma?,¿ácha mu tamí kipúma jípi ya?,"entailment
+
+**explanation:**
+
+* **premise:** ""¿ácha mu tamí kipúma?"" translates to ""is there water here?""
+* **hypothesis:** ""¿ácha mu tamí kipúma jípi ya?"" translates to ""is there any water here at all?"" (the ""jípi ya"" adds emphasis, meaning ""at all"" or ""any"").
+
+the hypothesis is simply a more emphatic version of the question posed in the premise. if the premise is true (there *is* water here), the hypothesis *must* also be true (there is water here *at all*). therefore, the premise entails the hypothesis."
+¿ácha mu tamí kipúma?,¿Ácha mu uméro jípi ya kipúa?,"neutral
+"
+¿ácha mu tamí kipúma?,A ne machí mapu mujé tási tamí kipusú.,"neutral
+"
+"Mmm ¿tási? Mujéko aniyé mapumu ke newalá leerilo bile oselí, nalí ma wa’lú ju échi benéami skuelchi, ¿tási itéili bilé osirúami ba’ámi aníami?","¿Acha mu kalé Harry Potter osáala, ke tasi cha?","neutral
+
+**explanation:**
+
+the premise asks about whether someone understood a reading (specifically about a story) and if they can retell it. it's a question about comprehension and recall. 
+
+the hypothesis asks if someone likes harry potter.
+
+there's no logical connection between understanding *a* story and liking *harry potter*.  someone could understand the first story perfectly and dislike harry potter, or vice-versa.  therefore, the premise neither necessitates, nor denies, the hypothesis. it's neutral.
+
+
+
+"
+"Mmm ¿tási? Mujéko aniyé mapumu ke newalá leerilo bile oselí, nalí ma wa’lú ju échi benéami skuelchi, ¿tási itéili bilé osirúami ba’ámi aníami?","¿acha mu kalé oselí libros, ke mu ba’órire?","neutral
+
+**explanation:**
+
+here's a breakdown of the translation and why it's neutral:
+
+* **premise (roughly translated):** ""hey, what's up? i already read a little bit of the book, but i don't understand anything from school, so what will happen if i don't learn anything?"" (it expresses confusion about learning and potential consequences).
+
+* **hypothesis (roughly translated):** ""does he/she have books, so that he/she can study?"" (it asks about book possession and its purpose for studying).
+
+the premise talks about *difficulty understanding* what was read and fear of *not learning*. the hypothesis asks about *having books* and *studying*.  
+
+while related to education and learning, the premise doesn't provide any information *about* whether someone possesses books.  the person in the premise *has already read*, so the question of *having* books is independent of their current state.  it's possible they have many books, none, or it's irrelevant.  therefore, the premise neither confirms nor denies the hypothesis; it's **neutral**.
+
+
+
+"
+"Mmm ¿tási? Mujéko aniyé mapumu ke newalá leerilo bile oselí, nalí ma wa’lú ju échi benéami skuelchi, ¿tási itéili bilé osirúami ba’ámi aníami?",A ne mayé mapu suwába libro mapu mu leeriki we mu ba’órili.,"neutral
+"
+"Ta abioni kanalá ju echonáti namúti echéluwa, nalí pe cha riká ikíli echoná tubochi jonsa mapu o’ná iwíla a’lí mapu o’ná simírocho.",Echi me’chóala ko iwiká chéwima.,"neutral
+"
+"Ta abioni kanalá ju echonáti namúti echéluwa, nalí pe cha riká ikíli echoná tubochi jonsa mapu o’ná iwíla a’lí mapu o’ná simírocho.",Echi me’chóala ko taa ju a’lí ra’tábuami.,"neutral
+"
+"Ta abioni kanalá ju echonáti namúti echéluwa, nalí pe cha riká ikíli echoná tubochi jonsa mapu o’ná iwíla a’lí mapu o’ná simírocho.",Tási nirú me’chóala ko pe botónibi.,"neutral
+"
+"Je aní échi, tási chibi inílika, ma mu machí, binói ga’lá nátaka.","Echi ko je aníyé, wabé jiyáwika.","neutral
+"
+"Je aní échi, tási chibi inílika, ma mu machí, binói ga’lá nátaka.","Je aniyé, que chibi iré pe wi’libé isíka mu newásaka.","neutral
+"
+"Je aní échi, tási chibi inílika, ma mu machí, binói ga’lá nátaka.","Pe kilíi neráa isíki, je aniyé.","neutral
+"
+"Bisirente Kennedy je anéli abioni mélami, ralámuli galabé newásili.",Kennedy ko tasi mi machiyá aníli.,"neutral
+"
+"Bisirente Kennedy je anéli abioni mélami, ralámuli galabé newásili.",Kennedy ko abioni melaami sontarsi yua ra’íchali.,"entailment
+"
+"Bisirente Kennedy je anéli abioni mélami, ralámuli galabé newásili.",Kennedy ko abioni melaami yua ra’íchali.,"entailment
+"
+"Nejéke je iníli, mapu riká ma ne suwíbala.","Makói minuto olaká ne suwiníma, je ni anéki.","neutral
+"
+"Nejéke je iníli, mapu riká ma ne suwíbala.","Je ni anéki, tási ne sinéti suwiníma.","neutral
+"
+"Nejéke je iníli, mapu riká ma ne suwíbala.","Je ni anéki, nokí ne suwinéki.","neutral
+"
+Nokí suwába ne osáki.,Nokí suwaba mapu aniwá nejé osáki,"entailment
+"
+Nokí suwába ne osáki.,Tási ne chibi iníli ke namúti osayá.,"neutral
+"
+Nokí suwába ne osáki.,Suwába nochali mapu newáiru ne osáki.,"entailment
+"
+"Ke, echi ko bile mili kimakoi ciento inárachi nawáli, makói usáni bamíbi a’líko bilé mili kimakói ciento osá makoi usáni. Makói kímakoi, bachá rikó bilé mili kimakoi besá makoi inarachi.",Bilé inárachi enero mechá bamíbali bilé mili kímakoi ciento.,"neutral
+"
+"Ke, echi ko bile mili kimakoi ciento inárachi nawáli, makói usáni bamíbi a’líko bilé mili kimakói ciento osá makoi usáni. Makói kímakoi, bachá rikó bilé mili kimakoi besá makoi inarachi.",Chótaachi bamíbali a’lí nawáli échi ko.,"neutral
+"
+"Ke, echi ko bile mili kimakoi ciento inárachi nawáli, makói usáni bamíbi a’líko bilé mili kimakói ciento osá makoi usáni. Makói kímakoi, bachá rikó bilé mili kimakoi besá makoi inarachi.",Echi ko bilé mili kimakoi ciento nayósa makoi bikéa inárachi nawáli.,"entailment
+"
+Ne wabé natéami ke suwába.,Sébali machináli binói chu uchulúpi ko’méa.,"neutral
+"
+Ne wabé natéami ke suwába.,Tási nakiyé binói ko.,"neutral
+"
+Ne wabé natéami ke suwába.,A ne wabé natéami rewáki.,"neutral
+"
+"Mujé rijimála ko rosákami neráa simíroli, echi riká a simíroli.","Echi rijimála ko ne simíraami ba’óami chu’éami ke, suwaba echoná e’pereami kitira.","neutral
+"
+"Mujé rijimála ko rosákami neráa simíroli, echi riká a simíroli.",Mayéwi mapu rijimála ko rosákami ke.,"neutral
+"
+"Mujé rijimála ko rosákami neráa simíroli, echi riká a simíroli.",Echi rijimála ko pe echiyirícho ke.,"neutral
+"
+"Juli, wabé ochérami ke néko, tasi neje níimale échi onolá.",wa’lú bachá ju osámakoi kicháo bamíbali.,"neutral
+"
+"Juli, wabé ochérami ke néko, tasi neje níimale échi onolá.",Rejói ko wabé taa ke mukí kítira.,"neutral
+"
+"Juli, wabé ochérami ke néko, tasi neje níimale échi onolá.",Rejói ko wa’lú ke mukí kítira.,"neutral
+"
+"Echi riká, nejé bineli ke kimakoi ciento osá makoi okuá, esbé si nikúirami ke, bilécho ko sinúcho nóchali newayé.",Tási wesi si nikúiruli.,"neutral
+"
+"Echi riká, nejé bineli ke kimakoi ciento osá makoi okuá, esbé si nikúirami ke, bilécho ko sinúcho nóchali newayé.",Bilé rejói ko si nikúiruli ajaré nóchali nejáa mapu toroka sontarsi apeamii to.,"neutral
+"
+"Echi riká, nejé bineli ke kimakoi ciento osá makoi okuá, esbé si nikúirami ke, bilécho ko sinúcho nóchali newayé.",Bilé rejói ko si nikúiruli nóchali nejáa.,"neutral
+"
+"Jenaí ne atíki náta chu riká newába nochali, ma mu machí, tamí yua nocha, ma mu machí, tamí yonika acha ne umera nakulíwa.",Sébali ne machiyé mapu echi tási nawáma.,"neutral
+"
+"Jenaí ne atíki náta chu riká newába nochali, ma mu machí, tamí yua nocha, ma mu machí, tamí yonika acha ne umera nakulíwa.",Nejéko nakósia nawáma mayéki.,"neutral
+"
+"Jenaí ne atíki náta chu riká newába nochali, ma mu machí, tamí yua nocha, ma mu machí, tamí yonika acha ne umera nakulíwa.",Cha animéo ne mayéi tamí ra’ichála kítira.,"neutral
+"
+"Juli, echi riká ju, tási anisare maputa ne suwába sébali newáki nochali.","A’lá ju, ajaré namúti tásita ga’lá newása.","neutral
+"
+"Juli, echi riká ju, tási anisare maputa ne suwába sébali newáki nochali.",Ne ga’lá sébali newába rua.,"here's the breakdown and the answer:
+
+* **premise translation:** juli, when he/she runs, sometimes gets tired in the mountain, that's why he/she rests.
+* **hypothesis translation:** he/she rests in the mountain.
+
+the premise states juli *sometimes* rests in the mountain *because* of tiring while running. the hypothesis states juli rests in the mountain.  the premise doesn't *guarantee* juli *always* rests in the mountain, only that it happens sometimes due to exhaustion. therefore, the premise doesn't necessitate the hypothesis.
+
+**neutral**"
+"Juli, echi riká ju, tási anisare maputa ne suwába sébali newáki nochali.","Ne ga’láta anibóa ruai oselí leeria, tási we’káka.","neutral
+"
+"A’lí, rokóo pe je iláru, tási ne uméro kochiyá.",Rokóo we ni nátaki tási ne umeroki kochiyá.,"here's the breakdown and the answer:
+
+**translation (approximate - rarámuri is highly context-dependent):**
+
+* **premise:** ""a'lí, the deer is good, therefore he/she will run fast."" (a'lí being a name or identifier)
+* **hypothesis:** ""the deer will not be able to run fast.""
+
+**analysis:**
+
+the premise states a *positive* correlation: a good deer *will* run fast. the hypothesis states the deer *will not* run fast. these are directly opposed. if the premise is true, the hypothesis *cannot* be true.
+
+**answer:**
+
+contradiction
+"
+"A’lí, rokóo pe je iláru, tási ne uméro kochiyá.","We chati ne rimúka kochiyé, echi kit enejé tási umériki kochiyá.","neutral
+"
+"A’lí, rokóo pe je iláru, tási ne uméro kochiyá.",Rokóo nejé mapu riká kochí taa múchi.,"neutral
+"
+Échi ko bilé namúti kítira a oláli mapu ku nimíma.,Échi ko a ku uméri kochí kawichí nirúami nimíkia.,"neutral
+"
+Échi ko bilé namúti kítira a oláli mapu ku nimíma.,Échi ko binói we ku uméri nimía.,"neutral
+"
+Échi ko bilé namúti kítira a oláli mapu ku nimíma.,Échi ko bawé taa wemi nichukéamtri ke.,"neutral
+"
+Mapu riká tási sinéti namú aníiru.,Rejói ko suwába ruyeli mapu newaléli.,"neutral
+"
+Mapu riká tási sinéti namú aníiru.,Tási ne namú anéri échi tamí tibúami kítira.,"neutral
+"
+Mapu riká tási sinéti namú aníiru.,Isíni tási ne ruyelíwa.,"neutral
+"
+"Echi riká ju, jenaíta e’peré.",Kíni kalíla jenaí wilíli.,"neutral
+"
+"Echi riká ju, jenaíta e’peré.",Kita kalíla ko meká wilíli jenaí jónsa.,"neutral
+"
+"Echi riká ju, jenaíta e’peré.",Kita kalíla ko okuá mazanachi wilíki.,"neutral
+"
+"We jiyáwiti a’lí we sapuka ra’ícha, telefonochi ra’íchaka.",Ne kilíi chíloka ra’ícha.,"neutral
+"
+"We jiyáwiti a’lí we sapuka ra’ícha, telefonochi ra’íchaka.",Pe telefonochi ra’ícha.,"entailment
+"
+"We jiyáwiti a’lí we sapuka ra’ícha, telefonochi ra’íchaka.",Pe telefonochi ra’ícha.,"entailment
+"
+"Tási ne newalá, nalí jiyáwiti neráa we ni majáa nili, nátaka mapu ne sinéwi siméa riké waminá benelíachi, a’lí rawé ke mapu wabé jiyáwikata simáruki.",Pe kilii ne atiké benelíami kítira nátaka kabú chotáma.,"neutral
+"
+"Tási ne newalá, nalí jiyáwiti neráa we ni majáa nili, nátaka mapu ne sinéwi siméa riké waminá benelíachi, a’lí rawé ke mapu wabé jiyáwikata simáruki.","We ni nataka simíri, benelíachi ne simiyá.","entailment
+"
+"Tási ne newalá, nalí jiyáwiti neráa we ni majáa nili, nátaka mapu ne sinéwi siméa riké waminá benelíachi, a’lí rawé ke mapu wabé jiyáwikata simáruki.","We ni nataka simíri, ma ne chotama rika semátali echáalachi.","neutral
+
+
+
+**explanation (for understanding, not part of the required answer):**
+
+the premise discusses someone being sick, seeking a healer, and the healer giving them medicine/treatment. it speaks to the process of getting well and the potential for continued sickness.
+
+the hypothesis states that someone *will* get better if they are treated. 
+
+the premise doesn't *guarantee* the hypothesis is true (entailment). the treatment *might* not work. it also doesn't state the treatment *won't* work (contradiction).  the premise simply describes a situation; the outcome (getting better) is not definitively stated. therefore, the premise is neutral towards the hypothesis.
+
+
+
+"
+"Sita, echi ko mekabé betéili, St. Louis a’lí Jefferson City y St. Louis, MO.",Waminá Texas ne betéliki.,"neutral
+"
+"Sita, echi ko mekabé betéili, St. Louis a’lí Jefferson City y St. Louis, MO.",Waminá Missoouri nejé betéili kalí sawarówachi.,"entailment
+"
+"Sita, echi ko mekabé betéili, St. Louis a’lí Jefferson City y St. Louis, MO.",Wamí Missouri anelíachi ne asáli.,"entailment
+"
+"Mulípi bakóchi ne ra’íchali, a’lí chijónsa ko waminá Laughlin Air Force Base, pe kulípi a irápuliri.",Echoná nocháliachi Aérea Laughlin ku érita wilíké pe téli.,"**entailment**
+
+here's why:
+
+* **premise translation:** ""many people don't have [access to] water, and they go to get water at laughlin air force base, because there is no water here.""
+* **hypothesis translation:** ""people depend on the air force laughlin for water because there is no water.""
+
+the premise *directly implies* the hypothesis. the premise states people go to laughlin afb *because* there's no water, and thus *depend* on it for water. the hypothesis simply states the dependence, which is a logical consequence of the premise. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Mulípi bakóchi ne ra’íchali, a’lí chijónsa ko waminá Laughlin Air Force Base, pe kulípi a irápuliri.",Echoná nocháliachi Fuerza Aérea Laughlin sinibísi eráputa wilíli.,"**entailment**
+
+here's why:
+
+* **premise (roughly translated):** ""many soldiers don't see it, but some are stationed at laughlin air force base, and they are going there.""
+* **hypothesis (roughly translated):** ""there are soldiers stationed at laughlin air force base.""
+
+the premise *explicitly states* that some soldiers *are* stationed at laughlin air force base (""a’lí chijónsa ko waminá laughlin air force base"").  therefore, the hypothesis – that there are soldiers stationed there – *must* be true if the premise is true. this is a direct entailment.
+
+
+
+"
+"Mulípi bakóchi ne ra’íchali, a’lí chijónsa ko waminá Laughlin Air Force Base, pe kulípi a irápuliri.",Echoná nocháliachi Fuerza Aérea Laughlin anelíachi makói mili sontarsi e’peré.,"**entailment**
+
+here's why:
+
+* **premise translation:** ""many tourists don't understand, they only go to visit laughlin air force base, and they keep taking pictures.""
+* **hypothesis translation:** ""surely some people understand the air force at laughlin, but many don't understand anything about military things.""
+
+the premise states many *don't* understand and are *only* there to visit (implying lack of knowledge). this directly supports the hypothesis that many *don't* understand military things related to laughlin air force base.  the premise doesn’t deny *some* people understand, allowing for the “surely some people understand” part of the hypothesis to be true as well.  
+
+therefore, the premise logically leads to, or entails, the hypothesis.
+
+
+
+"
+Pe chuwé rika newá.,Binoi mu machí chu iyíri yókirami kalé.,"neutral
+"
+Pe chuwé rika newá.,Suwába nóchali ne katúika nakí.,"neutral
+"
+Pe chuwé rika newá.,Ke ni si machí chu riká mu suwiníra.,"neutral
+"
+"Re’pá inénali, a’lí echoná rewáli kúmi asáli Ramona a’lí echoná bayéli.",Bitichí ne bayéki Ramona.,"entailment
+
+**explanation:**
+
+let's break down the rarámuri:
+
+* **re’pá inénali, a’lí echoná rewáli kúmi asáli ramona a’lí echoná bayéli.**  this translates roughly to: ""it is said that ramona is going to run, and it is said she is also going to return."" (the nuances of 'rewáli' and 'bayéli' suggest a round trip or going and coming back).
+* **bitichí ne bayéki ramona.** this translates to: ""ramona will return.""
+
+since the premise explicitly states ramona *is said* to be returning (""a'lí echoná bayéli""), the hypothesis that ramona *will return* is a direct consequence and therefore an entailment.  the premise guarantees the truth of the hypothesis.
+
+
+
+"
+"Re’pá inénali, a’lí echoná rewáli kúmi asáli Ramona a’lí echoná bayéli.",Ramóna ne ra’íchiki kúmi riká atiká.,"neutral
+"
+"Re’pá inénali, a’lí echoná rewáli kúmi asáli Ramona a’lí echoná bayéli.",Tási ne nejéwiki ti Ramona.,"entailment
+"
+"A’lí chiyénako échi Fuerza Aérea raláli bile SR71, a’lí A-12, echi rikáta nóchai échi CIA yua.",Échi sortarsi Fuerza Aérea anelíami makói osá nayó abioni raláli.,"neutral
+"
+"A’lí chiyénako échi Fuerza Aérea raláli bile SR71, a’lí A-12, echi rikáta nóchai échi CIA yua.",Échi sortarsi Fuerza Aérea abioni raláli.,"entailment
+"
+"A’lí chiyénako échi Fuerza Aérea raláli bile SR71, a’lí A-12, echi rikáta nóchai échi CIA yua.",Echi sontarsi Fuerza Aérea tási nóchali.,"entailment
+"
+¿ko’chilá kunála ko pe rosákami chu’éami ke?,Ko’chilá ko bilé rejói chókami kunéami ju.,"neutral
+"
+¿ko’chilá kunála ko pe rosákami chu’éami ke?,Ko’chilá ko kunéami ju.,"entailment
+"
+¿ko’chilá kunála ko pe rosákami chu’éami ke?,Ko’chilá ko tási kunéami ju.,"neutral
+"
+"Mapu a’lí ma pei cohérusili, tási nátali mapu wekáka ra’íchali, nalí si’nú neráa riká kayénali binói.",Échi ko tási che si’nú neráa níili.,"neutral
+"
+"Mapu a’lí ma pei cohérusili, tási nátali mapu wekáka ra’íchali, nalí si’nú neráa riká kayénali binói.",Échi ko tási nátali mapu pe we’káka ra’íchali.,"entailment
+"
+"Mapu a’lí ma pei cohérusili, tási nátali mapu wekáka ra’íchali, nalí si’nú neráa riká kayénali binói.",Echi ko ke sinéti ra’íliorui pasteli sa’pá na´ti newáraami.,"neutral
+"
+"Kíni ra’té ko, we ga’labé re’malí ju.","Kíni ra’té ko, we ni kalé.","neutral
+"
+"Kíni ra’té ko, we ga’labé re’malí ju.",¡kíni ra’té ko chátri ju!,"contradiction
+
+**explanation:**
+
+* **kíni ra’té ko, we ga’labé re’malí ju.** translates to ""if the rain comes, then the corn will not grow."" (essentially, rain is *bad* for the corn).
+* **¡kíni ra’té ko chátri ju!** translates to ""if the rain comes, the corn *will* grow!"" (rain is *good* for the corn).
+
+these statements directly oppose each other. if rain prevents corn growth, it cannot simultaneously cause corn growth. therefore, the premise contradicts the hypothesis.
+
+
+
+"
+"Kíni ra’té ko, we ga’labé re’malí ju.",Kíni ra’té ko ra’isá aníami ju.,"neutral
+"
+"Kini ko’chilá betélachi ne simíki echoná betélachi. Kunála ko pe nocha iyénali, wabé nátaka nóchali a’lí neje ko betélachi simíki.",Kíni chi’éla ko sontarusi yua nóchai.,"neutral
+"
+"Kini ko’chilá betélachi ne simíki echoná betélachi. Kunála ko pe nocha iyénali, wabé nátaka nóchali a’lí neje ko betélachi simíki.",Kíni chi’ela ko ayenacho nochali newáli.,"neutral
+"
+"Kini ko’chilá betélachi ne simíki echoná betélachi. Kunála ko pe nocha iyénali, wabé nátaka nóchali a’lí neje ko betélachi simíki.",Kíni rijimála ko ke sinéti ga’lá asáli.,"neutral
+"
+"A ne natáma, ala ju, ne simí, che si’nú simiráale, nalí ne natása. ¡ajiba onorúam!",Nejé ko mayéki mapu a nakíipa checho si’nú tamí kítira.,"neutral
+"
+"A ne natáma, ala ju, ne simí, che si’nú simiráale, nalí ne natása. ¡ajiba onorúam!",Echoná napawíkiliachi nejeko bilécho ra’icháma mayei tamí kítira.,"neutral
+
+**explanation:**
+
+without a detailed understanding of the rarámuri language and cultural context, it's impossible to definitively determine a logical relationship. here's why:
+
+* **premise translation (approximate):** ""it is good, yes, it is flour, when one grinds flour, then one eats. good morning!"" (this is a very rough translation - nuance is crucial in language).  it describes a process of grinding and eating flour, expressing positivity about it.
+* **hypothesis translation (approximate):** ""perhaps we will go to the beautiful forest to look for something good."" (again, a rough translation). it speaks of a potential future trip to a forest for a general purpose.
+
+there's no logical connection between a statement about enjoying flour and a potential trip to the forest. the premise doesn’t provide information that would *require* the hypothesis to be true (no entailment), nor does it present information that would make the hypothesis *false* (no contradiction). therefore, it's **neutral**.
+
+
+
+**important note:** this answer relies heavily on the provided (limited) translations. accurate determination requires full linguistic expertise."
+"A ne natáma, ala ju, ne simí, che si’nú simiráale, nalí ne natása. ¡ajiba onorúam!",Ke che nakíipa riké mapu uche sinú siméa.,"neutral
+"
+"Bilépi minuto simíraachi ma mesachi chewáli, ma biléchoko a’lá ju, kíni osáalachi jonsa cha’piká.",We na’kulíwi na’táala.,"neutral
+"
+"Bilépi minuto simíraachi ma mesachi chewáli, ma biléchoko a’lá ju, kíni osáalachi jonsa cha’piká.","Pe na’kulíwa na’táala, tási machí mapu chu isimí.","neutral
+"
+"Bilépi minuto simíraachi ma mesachi chewáli, ma biléchoko a’lá ju, kíni osáalachi jonsa cha’piká.",Échi ko sinibísi nawá a’lí tási chibi aníami.,"neutral
+"
+"Juu, pe ariká, ariká echoná bakíli a’liko mapu riká je aniyé ¿chu riká siro namúti?",Nárili chu riká síro echi namúti.,"entailment
+"
+"Juu, pe ariká, ariká echoná bakíli a’liko mapu riká je aniyé ¿chu riká siro namúti?",Tamó nárili achata ma suwiní échi nochali osirúami.,"neutral
+"
+"Juu, pe ariká, ariká echoná bakíli a’liko mapu riká je aniyé ¿chu riká siro namúti?",Échi ko tási namúti tamó náriki.,"neutral
+"
+"A’líko pe kinána ma ne kulínaki ta chitúlami, a’lí rawé mapu riká tási suwíba.",We ne jiyáwiki a’lí ko sapú ne suwiníki.,"neutral
+"
+"A’líko pe kinána ma ne kulínaki ta chitúlami, a’lí rawé mapu riká tási suwíba.",Okuá hora echoná ne asíbaki.,"neutral
+"
+"A’líko pe kinána ma ne kulínaki ta chitúlami, a’lí rawé mapu riká tási suwíba.",Wilimina ne ku’línali ta chitúlami.,"neutral
+"
+"Echi ko tuberculosis nayúli, nejé tásicho machiyé mapu chiriká ju.",Tási machíli mapu nokí mukúli tubierculosis nayúka.,"entailment
+"
+"Echi ko tuberculosis nayúli, nejé tásicho machiyé mapu chiriká ju.",Tási machíli mapu tubierculosis nayúli.,"entailment
+"
+"Echi ko tuberculosis nayúli, nejé tásicho machiyé mapu chiriká ju.",We a’lá machíli mapu tuberculosis nayúli.,"entailment
+"
+"Machiká, waminá re’pá inárusa a’lí ke nirúlisa iwiká, a mi mukuméa, wamí re’páko ma cha rikácho ináro iwiká.",Motori jiwérala sinibí mi me’ama o’kótisaka.,"neutral
+"
+"Machiká, waminá re’pá inárusa a’lí ke nirúlisa iwiká, a mi mukuméa, wamí re’páko ma cha rikácho ináro iwiká.",Chikócho ikí betéamicho newalé malí mili betéami.,"neutral
+"
+"Machiká, waminá re’pá inárusa a’lí ke nirúlisa iwiká, a mi mukuméa, wamí re’páko ma cha rikácho ináro iwiká.",Wabé re’pá simíachi ku chiyenacho betámi nakí.,"neutral
+"
+"We sapú ne chótali, piri, okuá kuruwi yua ne uché benéli ajarécho namúti echona.","Tási ne benériluri, pe kilíi ne benésika a’lí na machíki mapu a bachá simísimi.","neutral
+"
+"We sapú ne chótali, piri, okuá kuruwi yua ne uché benéli ajarécho namúti echona.","Okuá kúruwi nejé yua benéki, ralinéawachi nejé nocháma.","neutral
+"
+"We sapú ne chótali, piri, okuá kuruwi yua ne uché benéli ajarécho namúti echona.",Okuá tamí benériki.,"neutral
+"
+"Bilé karéwiala ju, nalí ku karéwika cho kíti ko ga’lá sebáma.",Échi anáwala ko tási natéami ke.,"neutral
+"
+"Bilé karéwiala ju, nalí ku karéwika cho kíti ko ga’lá sebáma.",Échi anáwala ko ma we’káma mujé na’páchalachi.,"neutral
+"
+"Bilé karéwiala ju, nalí ku karéwika cho kíti ko ga’lá sebáma.",Échi anáwilia ku karépa acha ga’lá ka.,"neutral
+"
+"Pe échibi kimakoi ciento osá makói okuá níili, mapu siné ku ucháiru regulador ichéala.",Chabé martes ne karéwiki échi i’chéala.,"neutral
+"
+"Pe échibi kimakoi ciento osá makói okuá níili, mapu siné ku ucháiru regulador ichéala.",Nejé ko kimakoi ciento osá makói okuá ke,"neutral
+"
+"Pe échibi kimakoi ciento osá makói okuá níili, mapu siné ku ucháiru regulador ichéala.",Ke siné ne kimakoi ciento osá makói okuá níili.,"entailment
+"
+Tási machíli chu aniwáami ju niwíkiami. Tasi machílicho mapu niwíli.,"Mukíko tási machíli mapu ma niwísaka ke sinéti ku uméri rojáa, chukoré tási machíli jepuká ju.","neutral
+"
+Tási machíli chu aniwáami ju niwíkiami. Tasi machílicho mapu niwíli.,Tási machíli chu olá chikíli.,"neutral
+"
+Tási machíli chu aniwáami ju niwíkiami. Tasi machílicho mapu niwíli.,A machíli chu riká bakíli échi yua.,"neutral
+"
+Tamujeko echoná mo’íki.,Osá nayó inárachita mo’ibóa riké,"neutral
+"
+Tamujeko echoná mo’íki.,Mo’ibóa riké.,"neutral
+"
+Tamujeko echoná mo’íki.,Ke sinéti ta mo’ibóa riké.,"neutral
+"
+"Mapu riké tási ritémalaka, pe kilíi neráa, a mu machiká chu riká nalí nichukéwipa kuuchi, ajarecho ritémala kítira.",Suwába chopi riká nichukéwiliwi apalochala ko.,"neutral
+"
+"Mapu riké tási ritémalaka, pe kilíi neráa, a mu machiká chu riká nalí nichukéwipa kuuchi, ajarecho ritémala kítira.",Cha rikácho inéluwi échi kúuchi apalochuwala.,"neutral
+"
+"Mapu riké tási ritémalaka, pe kilíi neráa, a mu machiká chu riká nalí nichukéwipa kuuchi, ajarecho ritémala kítira.",Jaréala usúwala ko we risóa olairu echi kúuchi chókami káachi.,"neutral
+
+
+
+**explanation:**
+
+without a detailed understanding of rarámuri cultural context and nuanced meanings, it's difficult to definitively state entailment or contradiction. here's a breakdown of why ""neutral"" is the most appropriate answer:
+
+* **premise translation (approximate):** ""when the rain comes often, then the corn grows, and sometimes the people go to the field to see their corn, because the rain is good for the corn."" (this is a simplification; rarámuri often has complex sentence structure).
+* **hypothesis translation (approximate):** ""a young boy doesn't want to drink bad water anymore.""
+
+the premise discusses rainfall and corn growth, linking it to agricultural practices. the hypothesis is about a boy's preference regarding water quality.  there's *no logical connection* established between the two statements. the premise doesn't provide any information to support or refute the hypothesis. they are dealing with entirely different subjects.
+
+therefore, the premise is *neutral* towards the hypothesis.
+
+
+
+"
+"Pe echi riká ke, si’púcha ko ma ekaníki eká púchili.",Si’púchako ne mi chipera ikiyé ekasáka.,"neutral
+"
+"Pe echi riká ke, si’púcha ko ma ekaníki eká púchili.","Téli ke tá sipúcha, ináraachi ekaníi.","entailment
+"
+"Pe echi riká ke, si’púcha ko ma ekaníki eká púchili.",Tási ekayé pe ke chibi ikiyé si’púcha ko.,"neutral
+"
+"Juli, pe wi’lí ne nóchaki jenaí ko, natéami nócha.",Maniwími neráa ne bilé nóchali we natéamichi si nóchali.,"**neutral**
+
+here's a breakdown of why:
+
+* **premise:** ""juli, if he/she finishes eating, then he/she will sleep."" (roughly - the rarámuri grammar is complex and this is a simplification)
+* **hypothesis:** ""perhaps someone will go to the spring to drink if someone is sleeping."" (roughly)
+
+the premise states a conditional relationship between finishing eating and sleeping *for juli*. the hypothesis proposes a possible action (going to the spring) *potentially taken by someone else* if *someone* is sleeping.  
+
+there's no logical connection forcing the hypothesis to be true or false *given* the premise. juli sleeping doesn't necessitate anyone going to the spring, nor does it preclude it. it's independent information. therefore, it is neutral.
+
+
+
+"
+"Juli, pe wi’lí ne nóchaki jenaí ko, natéami nócha.",Wabé betéamichi ne nóchali.,"neutral
+"
+"Juli, pe wi’lí ne nóchaki jenaí ko, natéami nócha.",Tási sinéti ne nóchaki wabé betéamichi.,"neutral
+"
+"Nalí… pe mekabé e’peréili Augusta anelíachi pe waminácho, Evans anelíachi, a bijí chanelíachi ju. Weká e’peré kíta retémala echoná.",Osá makói retémala epereili echoná Evans anelíachi.,"neutral
+"
+"Nalí… pe mekabé e’peréili Augusta anelíachi pe waminácho, Evans anelíachi, a bijí chanelíachi ju. Weká e’peré kíta retémala echoná.",Atlanta anelíachi e’peréli.,"neutral
+"
+"Nalí… pe mekabé e’peréili Augusta anelíachi pe waminácho, Evans anelíachi, a bijí chanelíachi ju. Weká e’peré kíta retémala echoná.",Pe okuáa e’peré Evans anelíachi.,"entailment
+
+**explanation:**
+
+the premise states that evans is *among* those who went with augusta. the hypothesis states that evans *went* with (presumably augusta, given the context). if someone is *among* those who went, it logically follows that they *went*. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Kíni rijimáko bijísi je aní: isiíni mapu iyiri u’sú ju, pe chibi mu aníami ju tasi ga’lá machiká chu riká ju.",Kíni rijimá je aníli mapu nejé jarecho kawéliami ju.,"neutral
+"
+"Kíni rijimáko bijísi je aní: isiíni mapu iyiri u’sú ju, pe chibi mu aníami ju tasi ga’lá machiká chu riká ju.",Kíni rijimá je aniyé mapu ne ke me ga’lá ju.,"**entailment**
+
+here's why:
+
+let's break down the rarámuri (based on available linguistic resources and understanding of the culture - translation can be nuanced):
+
+* **premise:** ""when a person gets sick, it's like this: their world gets dark and they don't see the path clearly."" (roughly) this describes a state of illness leading to disorientation and loss of clarity.
+* **hypothesis:** ""a sick person doesn't see the path."" (roughly)
+
+the hypothesis is a direct consequence of the premise.  if the premise is true – sickness *causes* a darkening of the world and inability to see the path – then the hypothesis *must* also be true. the premise offers a fuller explanation, but the core idea of a sick person not seeing the path is contained within it. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Kíni rijimáko bijísi je aní: isiíni mapu iyiri u’sú ju, pe chibi mu aníami ju tasi ga’lá machiká chu riká ju.",Kíni rijimá ko je aniyé mapu nejé tasi mapu iyíri kíni usáwa ju.,"neutral
+"
+A’líko pe kináana kulíwami kalírilita simíami.,"Waminá biléana paischita simíbali, echoná newáiru bilécho kalí.","neutral
+"
+A’líko pe kináana kulíwami kalírilita simíami.,Wa’lú kalírilita kulíwamichita e’peréi.,"neutral
+"
+A’líko pe kináana kulíwami kalírilita simíami.,Echoná biléana bitichípita e’peréli sinibísi.,"neutral
+"
+"Je iriká atiké nejéko, juu, ga’lá ju, ma mu machí, je iriká.","Ruyé mapu tási kálelíwi, sinibísi wabé chijúniwi.","neutral
+"
+"Je iriká atiké nejéko, juu, ga’lá ju, ma mu machí, je iriká.","Je ni aníki, mapu nejé kulíwaami wikaráliami a ba’óri.","neutral
+"
+"Je iriká atiké nejéko, juu, ga’lá ju, ma mu machí, je iriká.",Ma ga’lá katui nejé.,"neutral
+"
+"Yókiala baweráala ne sinépi neráa si’nú kayénali, sitákami kayenáma siyónami níisa bacháko.",Yókiwami si’nú neráa kayéna.,"entailment
+"
+"Yókiala baweráala ne sinépi neráa si’nú kayénali, sitákami kayenáma siyónami níisa bacháko.","Yókiwami ko, a mu machisáre chu iyiri ju ratáami, echi riká tási umerowa anáwia.","neutral
+"
+"Yókiala baweráala ne sinépi neráa si’nú kayénali, sitákami kayenáma siyónami níisa bacháko.",Yókiwami ko chókami ju sinibí.,"neutral
+"
+"Jiyáwiti ne ko’áki, we sapúka a’líko échi bakíli, chijonsa ma tamí yua ko’áli.",Pizza ne ko’áki okuná minuto isíka.,"neutral
+"
+"Jiyáwiti ne ko’áki, we sapúka a’líko échi bakíli, chijonsa ma tamí yua ko’áli.","Ne kíili ne ko’áki, echi riká tási ne nayúma.","neutral
+"
+"Jiyáwiti ne ko’áki, we sapúka a’líko échi bakíli, chijonsa ma tamí yua ko’áli.",Ne sa’pú ne ko’áki.,"entailment
+"
+Kíni chi’éla rosákamicho chu’éami ke.,Chi’éla ko rosákamicho chu’éami ke.,"entailment
+"
+Kíni chi’éla rosákamicho chu’éami ke.,Chiéala ko sueco ke.,"neutral
+"
+Kíni chi’éla rosákamicho chu’éami ke.,Binilá ko tási kunéami ke.,"neutral
+"
+"Pe ariká, bilé namúti anáwiami re’pá jónsa nóchami O2 anelíwa.",Kulíwaami anáwiami regulador newáli.,"neutral
+"
+"Pe ariká, bilé namúti anáwiami re’pá jónsa nóchami O2 anelíwa.","Kulíwaami anáwiami regulador newáli, re’pá rewekáchi jónsa nochália echonáti.","neutral
+"
+"Pe ariká, bilé namúti anáwiami re’pá jónsa nóchami O2 anelíwa.",Tási machiyé ariká bilé regulador newayá eká mo’elíami.,"neutral
+"
+"Las vegas anelíachita simíbaki a’lí nejé rúki, mapu rikácho Washington, mulibí simáruka Las Vegas anelíachi.",Tási sinéti ne simíki las Vegas.,"entailment
+"
+"Las vegas anelíachita simíbaki a’lí nejé rúki, mapu rikácho Washington, mulibí simáruka Las Vegas anelíachi.","Wabé ne nócha Las Vegas anelíachi, ayenacho Washington.","entailment
+"
+"Las vegas anelíachita simíbaki a’lí nejé rúki, mapu rikácho Washington, mulibí simáruka Las Vegas anelíachi.",Okoná Ciudadchi taxista ne ke.,"neutral
+"
+"Juli, nayó, we kanílika níili.",¡tási ne kalé benelíachi!,"neutral
+"
+"Juli, nayó, we kanílika níili.","We ni kaníli beneyá cuarto, echonáko osá chokéamita buyái re’ésia.","neutral
+"
+"Juli, nayó, we kanílika níili.",A ne kaníli cuarto beneyá.,"neutral
+"
+"Oselí katewáliachi ju, mapu riká weká kochíluwa sinútami, a machiká ibíli kochílwa mapu riká ibíli oselí ju, sinútami.",Bilé oselí wisúla uchúwi taráliami número.,"neutral
+"
+"Oselí katewáliachi ju, mapu riká weká kochíluwa sinútami, a machiká ibíli kochílwa mapu riká ibíli oselí ju, sinútami.","Rojanáala oselí, ne wiká namúti osirúa uchúwi.","neutral
+"
+"Oselí katewáliachi ju, mapu riká weká kochíluwa sinútami, a machiká ibíli kochílwa mapu riká ibíli oselí ju, sinútami.","Oselí suwába tamó riwíri chu ikpípu namúti uchúwi osirúa, wenomíma níisaka.","neutral
+
+
+
+**explanation:**
+
+without a detailed understanding of rarámuri cultural context and the nuances of the vocabulary, it's very difficult to determine a logical relationship between these sentences. here's a breakdown of why ""neutral"" is the most appropriate answer:
+
+* **premise translation (rough):** ""if it rains a lot, the earth will be good for planting, and if the earth is good for planting, it will be good for us too."" (this is a simplification, focusing on the 'if...then' structure)
+* **hypothesis translation (rough):** ""the person is going to look for water in the spring because they are thirsty, that's why.""
+
+the premise discusses rain, planting, and well-being related to the earth. the hypothesis discusses a person seeking water due to thirst.  there's no inherent logical connection. rain *could* affect water availability in a spring, but it's not *necessarily* true. a person could be thirsty for many reasons unrelated to rainfall or successful harvests.
+
+therefore, the premise doesn't *guarantee* the hypothesis (no entailment), and it doesn't *rule it out* (no contradiction). it's simply unrelated, making it **neutral**.
+
+
+
+"
+Binói mu machí chu riká mu newára.,"Binói mu machí, acha mujé binói newáma, jaré ma mu nulémire.","neutral
+"
+Binói mu machí chu riká mu newára.,Binói mu machí chu riká mu newára.,"entailment
+"
+Binói mu machí chu riká mu newára.,Nejé machináli ne a’lá chu riká mu newáma.,"neutral
+"
+Waminá simíbali Mallard Creek en Charlotte anelíachi.,Kalí newáli waminá Mallard Creek anelíachi.,"neutral
+"
+Waminá simíbali Mallard Creek en Charlotte anelíachi.,Tási sinéti simpibali waminá Charlotte anelíachi.,"entailment
+"
+Waminá simíbali Mallard Creek en Charlotte anelíachi.,Pe kináana ko Mallard Creek e’peréili.,"entailment
+"
+"Echi ko bilé ministro nolá níili,échiko níwi, weká namúti wasá, ajarecho namúti shi, we’ ga’lá e’pereili we’lési a’lí si’néami we kalelíwi.",Onoláko we amachíami ke biléana re’obáchi.,"neutral
+"
+"Echi ko bilé ministro nolá níili,échiko níwi, weká namúti wasá, ajarecho namúti shi, we’ ga’lá e’pereili we’lési a’lí si’néami we kalelíwi.",Tási sinéti amachíami ke re’obáchi échi onoláko.,"neutral
+"
+"Echi ko bilé ministro nolá níili,échiko níwi, weká namúti wasá, ajarecho namúti shi, we’ ga’lá e’pereili we’lési a’lí si’néami we kalelíwi.",Onoláko re’obáchi amachíami níili.,"neutral
+"
+"A’lii, nejé tasi machiyé chu iriká ne nakí.",Tási ne machí échi ácha machinála chu rikó bujaní aseká simáliami.,"neutral
+"
+"A’lii, nejé tasi machiyé chu iriká ne nakí.","Karka suwába ne ruyéki, ne a machiyé mapu échi ko a machináli.","neutral
+"
+"A’lii, nejé tasi machiyé chu iriká ne nakí.",Tási ne machiyé chu yena re’lebé rokóachi níma riké.,"neutral
+"
+"A’lí si’nú neráa ju, ibíli ralámuli oselíchi uchúwi rewalá, mapu echoná raláami ju.",Échi ko tási namúti níwi oselí katewára.,"neutral
+"
+"A’lí si’nú neráa ju, ibíli ralámuli oselíchi uchúwi rewalá, mapu echoná raláami ju.",Suwába karka oselí katewára muchúwi.,"neutral
+"
+"A’lí si’nú neráa ju, ibíli ralámuli oselíchi uchúwi rewalá, mapu echoná raláami ju.",Katewára muchúwi oselí ónami níwala a’lí suwába oselí mapu néluwa shi.,"neutral
+"
+"Je’náko omarúami ke, mapu echi tamí yáliko a wanátami níili, nóchali a, ma osámi ko pe chuwé tási karéwitami ke.",Osá si’nú aniká ruyé ra’íchali.,"neutral
+"
+"Je’náko omarúami ke, mapu echi tamí yáliko a wanátami níili, nóchali a, ma osámi ko pe chuwé tási karéwitami ke.",Echi ko okoná riká aniyé a’lí nejéko a’lá newárami nalí nejéwiki.,"neutral
+"
+"Je’náko omarúami ke, mapu echi tamí yáliko a wanátami níili, nóchali a, ma osámi ko pe chuwé tási karéwitami ke.",Echi ko sinépi ruyé chu riká a’líko pe u’chíbi ke osáalachi.,"neutral
+"
+"Nalí tási Augusta anelíachi e’peréili, peréili… waminá… ma mu machí, Augusta ko pe taa ciudadchi ke, ajaréchoko wéli ciudadchi e’peré mapu rikácho ju, August ke ne we’lési ju.",Makói mili pakótami e’peré Augusta anelíachi.,"entailment
+
+**explanation:**
+
+let's break down the rarámuri:
+
+* **premise:** ""nalí tási augusta anelíachi e’peréili, peréili… waminá… ma mu machí, augusta ko pe taa ciudadchi ke, ajaréchoko wéli ciudadchi e’peré mapu rikácho ju, august ke ne we’lési ju.""  roughly translates to: ""it is said that augusta is leaving, leaving... perhaps, maybe, augusta is going to the city, she's going to the city to a beautiful place, augusta will return.""
+* **hypothesis:** ""makói mili pakótami e’peré augusta anelíachi."" roughly translates to: ""someone is accompanying augusta on her journey.""
+
+the premise explicitly states augusta is *leaving* (""e’peréili"").  the idea of someone accompanying her on a journey is a very natural and logical consequence of someone leaving *to* a place (the city). the premise doesn't *require* someone accompany her, but it doesn’t exclude it and the journey implies it. thus, the premise strongly suggests the hypothesis is true. therefore, it's an entailment.
+
+
+
+"
+"Nalí tási Augusta anelíachi e’peréili, peréili… waminá… ma mu machí, Augusta ko pe taa ciudadchi ke, ajaréchoko wéli ciudadchi e’peré mapu rikácho ju, August ke ne we’lési ju.",Augusta tási wa’lú ciudad ju.,"entailment
+"
+"Nalí tási Augusta anelíachi e’peréili, peréili… waminá… ma mu machí, Augusta ko pe taa ciudadchi ke, ajaréchoko wéli ciudadchi e’peré mapu rikácho ju, August ke ne we’lési ju.",Augusta sulálachi ne betéili.,"neutral
+"
+Ma suwíbachi bilé mili kimakoi ciento waminá okuá a’lí ne juláiru waminá Washington anelíachi.,Waminá DC ne juláiru.,"entailment
+"
+Ma suwíbachi bilé mili kimakoi ciento waminá okuá a’lí ne juláiru waminá Washington anelíachi.,Sontarusi ko jiyáwiti tamí júlaki echimí.,"neutral
+"
+Ma suwíbachi bilé mili kimakoi ciento waminá okuá a’lí ne juláiru waminá Washington anelíachi.,Africa ne juláiru.,"neutral
+"
+"Mapu a’lí ku cha’píiru we’é, wamináta simíbaki Concord anelíachi, echonáko tási nakíluwa mapu namúti jákami shi e’perélima, rojanárachi ju we’é, ariká suwiméale tamó bukúla jákami.",Tamó e’perélachi Concord anelíachi tási nakíluwi mapu namúti bukélima.,"entailment
+"
+"Mapu a’lí ku cha’píiru we’é, wamináta simíbaki Concord anelíachi, echonáko tási nakíluwa mapu namúti jákami shi e’perélima, rojanárachi ju we’é, ariká suwiméale tamó bukúla jákami.",Tamó e’perélachi Concord anelíachi besá makói acres nirú a’lí weká namúti jákami shi.,"neutral
+"
+"Mapu a’lí ku cha’píiru we’é, wamináta simíbaki Concord anelíachi, echonáko tási nakíluwa mapu namúti jákami shi e’perélima, rojanárachi ju we’é, ariká suwiméale tamó bukúla jákami.",Suwába tamó bukúla ralinéaliru mapu a’lí Concord anelíachita simába.,"entailment
+"
+"Chukoré, chijába, echi kítira jípiko ma chijákata juláiru waminá Kadina anelíachi waminá Okinawa, bilé mili kimakoi ciento usánisa makoi osá nayó inárachi bamíbali.",Ma i’nísika simíbali jiwéraami bilé mili kimakoi ciento usánisa makoi osá nayó inárachi bamíbali.,"entailment
+"
+"Chukoré, chijába, echi kítira jípiko ma chijákata juláiru waminá Kadina anelíachi waminá Okinawa, bilé mili kimakoi ciento usánisa makoi osá nayó inárachi bamíbali.",Ariká tasi wési juláari echimí.,"neutral
+"
+"Chukoré, chijába, echi kítira jípiko ma chijákata juláiru waminá Kadina anelíachi waminá Okinawa, bilé mili kimakoi ciento usánisa makoi osá nayó inárachi bamíbali.",Toroka ra’néaliami a’péami a ta júali Japón bilé mili kimakoi ciento usánisa makoi osá nayó inárachi bamíbali.,"neutral
+"
+Tamí anéki mapu ne chiyíri newalé a’líko mapu ne jípi newalé.,Aní mapu ne umero ku nijía echi namúti mapu a’lí nísare.,"neutral
+"
+Tamí anéki mapu ne chiyíri newalé a’líko mapu ne jípi newalé.,Aniyé mapu ne suwiníma nóchali proyecto okuá hora ináraachi a’lí.,"neutral
+"
+Tamí anéki mapu ne chiyíri newalé a’líko mapu ne jípi newalé.,Aniyé mapu ne jiyáwiti ju.,"neutral
+"
+Ma ku simíli a’lí je aniyé mapu ne ke chibi inílima.,"Tamí anéki mapu nejé natáma, echi benelíiwami we a’lá ju.","neutral
+"
+Ma ku simíli a’lí je aniyé mapu ne ke chibi inílima.,"Aniyé, mapu nejé ke chibi inílima.","entailment
+"
+Ma ku simíli a’lí je aniyé mapu ne ke chibi inílima.,Aniyé mapu ma ne majajásaré.,"neutral
+"
+"Je’ná ju, á mu machí. Nibí a mu karú ikí.",A mu cha ikisáre.,"here's the breakdown and the answer:
+
+* **premise translation:** ""he/she is running. he/she is already tired.""
+* **hypothesis translation:** ""he/she is not getting tired.""
+
+given that the premise states the person *is* tired, the hypothesis stating they are *not* getting tired is a **contradiction**.
+
+therefore the answer is:
+
+**contradiction**
+
+
+
+"
+"Je’ná ju, á mu machí. Nibí a mu karú ikí.",¡ga’lá mu asiméa!,"neutral
+"
+"Je’ná ju, á mu machí. Nibí a mu karú ikí.","A mu karú ikiméa, ku mi melába mujé betélachi","neutral
+"
+"Kíni iyéko tási kalelíwi sinéwi chokichí, a’lí pe wachimá nijíiru mapu riká meká wasachí nocháripa, ajaré kúuchi ko tási nóchali waminá wasachí.",Nejé iyéla ko sunú a’lí algodón wíka nóchali.,"neutral
+"
+"Kíni iyéko tási kalelíwi sinéwi chokichí, a’lí pe wachimá nijíiru mapu riká meká wasachí nocháripa, ajaré kúuchi ko tási nóchali waminá wasachí.","Kíni iyéko we nichukéami ke, echi riká ke sinéti nóchali.","here's the breakdown and the answer:
+
+**translation (approximate, for understanding - crucial for analysis):**
+
+* **premise:** ""the rain is falling now, and because of that the plants are growing well, therefore the people are happy because of the good harvest.""
+* **hypothesis:** ""the rain is good for us, therefore it is good for the plants as well.""
+
+**analysis:**
+
+the premise states rain leads to good plant growth and then to happiness *because* of a good harvest. the hypothesis states rain is generally good and therefore good for plants. the premise *supports* the idea that rain is good for plants; it's a foundational element of the scenario described. it doesn't *require* the rain to be good for people generally, but the sequence strongly suggests that benefit.
+
+therefore, the premise **entails** the hypothesis.
+
+**answer:**
+
+entailment
+
+
+
+"
+"Kíni iyéko tási kalelíwi sinéwi chokichí, a’lí pe wachimá nijíiru mapu riká meká wasachí nocháripa, ajaré kúuchi ko tási nóchali waminá wasachí.",Kíni iyéko waminá meká nóchali.,"entailment
+"
+"A mu machí, suwiníka, a mu machí. Ajaré pakótami náruliru, ibíli ralámuli a’lí umukí, tási wési machíli kúmi muchúwi, ariká mu a pei machí, ariká ku kaílika peréili anisáa mapu ke sinéti che riwiméa Joé rewéami.",Joe binéli olayé llave erápuala kalí mapu o’ná isábusare.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of rarámuri cultural context and nuanced meanings, it’s very difficult to definitively state entailment or contradiction. here’s a breakdown of why ""neutral"" is the most appropriate answer:
+
+* **premise translation (approximate):** ""it is not good, it is raining, it is not good. a long time ago people did not know how to live, they only ate corn, they did not wear good clothes, they did not know how to build houses, and because of that they suffered a lot, and because they didn’t have anything, they went to ask for help from god."" (this is a simplified interpretation, and the precise meaning of ""machí"" and other terms could vary).
+* **hypothesis translation (approximate):** ""joe knows how to make a good key to open the earth, and he shares it with everyone.""
+
+the premise describes a past hardship and seeking help from a higher power. the hypothesis speaks of joe possessing a skill and sharing it. there's *no* logical connection forcing the hypothesis to be true *because* of the premise (no entailment).  nor does the premise *deny* the possibility of someone like joe existing or having that skill (no contradiction). it simply doesn't address it.
+
+therefore, the premise provides no information about the truth or falsity of the hypothesis, making it **neutral**.
+
+
+
+"
+"A mu machí, suwiníka, a mu machí. Ajaré pakótami náruliru, ibíli ralámuli a’lí umukí, tási wési machíli kúmi muchúwi, ariká mu a pei machí, ariká ku kaílika peréili anisáa mapu ke sinéti che riwiméa Joé rewéami.","Chukoré wesabé iwérali ta nokayé, Joe tási námuli ra’amália mapu kiná ma ke ra’icháma.","neutral
+
+
+
+**explanation:**
+
+without a detailed understanding of rarámuri cultural context and nuances, a definitive entailment or contradiction cannot be established. here's a breakdown of why ""neutral"" is the most appropriate response:
+
+* **premise translation (approximate):** ""it is true, it is raining, it is true.  when the rain comes, the children are happy, but sometimes the rain causes problems, it sometimes ruins the fields, and sometimes it brings good things to the land with the help of saint joseph."" (this is a simplification, and the cultural weight of ""saint joseph"" is likely significant.)
+* **hypothesis translation (approximate):** ""the coyote is going to run far away, joe sometimes helps the land so that it doesn't get damaged.""
+
+the premise discusses rain, children's happiness, potential damage, and the benevolent influence of saint joseph.  the hypothesis discusses a coyote running and joe helping the land. while *both* mention joe and the land, there's no logical connection established. 
+
+* the premise doesn’t provide information about coyotes.
+* the premise doesn't say joe *will* help the land, only that saint joseph generally brings good things – and there is no connection established between joe and saint joseph.
+* the premise does not preclude a coyote running away; it simply doesn't mention it.
+
+therefore, the premise neither guarantees the hypothesis to be true, nor does it state anything that makes the hypothesis false. it’s independent information, making it **neutral**.
+
+
+
+"
+"A mu machí, suwiníka, a mu machí. Ajaré pakótami náruliru, ibíli ralámuli a’lí umukí, tási wési machíli kúmi muchúwi, ariká mu a pei machí, ariká ku kaílika peréili anisáa mapu ke sinéti che riwiméa Joé rewéami.","Siné rawé, joe ma ku simíli, we wési machíli kúmi riká simíli.","neutral
+"
+Je ni anéki nejé rijimála níwala ju.,Kíni rijimá ne chewáki.,"neutral
+"
+Je ni anéki nejé rijimála níwala ju.,Nejé níwala ju je ni aníki.,"entailment
+"
+Je ni anéki nejé rijimála níwala ju.,Kíni rijimá níwala ju échi kochí je ni anéki.,"entailment
+"
+"A’lí iyéla je aníli, bachámi i’nénali kini iyé a’lí je aníli: amapu riká échi iyéna.",Echi ko aníli mapu iyéla ayenacho rekéchaka simí.,"neutral
+"
+"A’lí iyéla je aníli, bachámi i’nénali kini iyé a’lí je aníli: amapu riká échi iyéna.",Echi ko aníli mapu iyéla chikócho riká simí.,"neutral
+"
+"A’lí iyéla je aníli, bachámi i’nénali kini iyé a’lí je aníli: amapu riká échi iyéna.","Aníli mapu iyéla tási uméru simiyá, pe atikárua nayúa.","neutral
+"
+"Jápa, echi ko sewá sewalá bochíwia atí a’líko né tási machiyé chu riká níima chijónsa.",Tási ne machiyé mapu we nayúnama.,"neutral
+"
+"Jápa, echi ko sewá sewalá bochíwia atí a’líko né tási machiyé chu riká níima chijónsa.",Tási ne machiyé chu ikiméa echi mukí.,"entailment
+"
+"Jápa, echi ko sewá sewalá bochíwia atí a’líko né tási machiyé chu riká níima chijónsa.",Nejé a machiyé chu ikiméa échi mukí chisílachi.,"neutral
+"
+"Ju, a che namú ikíli, a natéami ne mayé, a ku newalaká chu riká ke kini rijimá kítira, a’lí chiriká níili kuwána e’pó nejé a betélachi.",Nejé tási namúti newalá échi kalí kítira.,"entailment
+"
+"Ju, a che namú ikíli, a natéami ne mayé, a ku newalaká chu riká ke kini rijimá kítira, a’lí chiriká níili kuwána e’pó nejé a betélachi.",A ne newalá mapu nejé aminá kuáwana kíni bitélachi ajaré semátali ne napabúki.,"**neutral**
+
+here's why, with a breakdown of the (translated) meanings to explain the reasoning:
+
+* **premise (translated):** ""he/she, if he/she is a good runner, he/she doesn't get tired, and he/she continues running because he/she wants to arrive, always looking ahead where he/she is going to settle."" (essentially: a good runner has endurance and purpose.)
+* **hypothesis (translated):** ""he/she doesn’t run on flat land but rather he/she runs where he/she wants to settle, sometimes thinking about the past."" (essentially: this runner doesn't run on easy terrain and reflects on the past.)
+
+the premise establishes qualities of *a* good runner – endurance and a forward focus. the hypothesis talks about *a* runner’s terrain choice and mental state (reflection on the past).  
+
+there's no logical connection forcing the hypothesis to be true *if* the premise is true (no entailment). nor is there a logical contradiction; a good runner *could* still run on difficult terrain and think about the past – the premise doesn't *forbid* it. therefore, the premise is **neutral** towards the hypothesis.
+
+
+
+"
+"Ju, a che namú ikíli, a natéami ne mayé, a ku newalaká chu riká ke kini rijimá kítira, a’lí chiriká níili kuwána e’pó nejé a betélachi.",Kuni newalá namúti ikíli namúti kuwana kíni betélachi.,"entailment
+
+
+
+**explanation:**
+
+let's break down the rarámuri to understand why:
+
+* **premise:** ""ju, because it is a good deer, and we see it, and they say that it is going to rain, then we will make a ceremony for it to recover."" (a simplified gloss, focusing on the core meaning related to the hypothesis).
+* **hypothesis:** ""they say a good deer says that it will recover with a ceremony."" (again, a simplified gloss).
+
+the premise *explicitly states* that because of observing a good deer and a prediction of rain, *they will perform a ceremony for its recovery*.  therefore, the hypothesis – that a good deer is associated with recovery through a ceremony – is directly implied and logically follows from the premise.  it's not just possible, it's stated *will* happen.
+
+therefore, the premise **entails** the hypothesis.
+
+
+
+"
+"Suwába we risirúami ju a’lí si’néami anárika nátaka simáro jípi, mapu riká, tási ne machí chu riká ne oláma, a’lí chu riká níima bajíma, chiriká olá.",Tási machíli chu riká newáma échi nóchali mapu nuléiru jípi.,"here's the breakdown and the answer:
+
+**translation (approximation - rarámuri is complex and context-dependent):**
+
+* **premise:** ""when we go to the spring to drink water, the earth says, 'sometimes you don't respect it,' the earth says, 'it’s not good how you use it,' the earth says, ‘it’s not enough what you give back,’ it complains.""
+* **hypothesis:** ""sometimes those who don’t respect it are new people coming to the land.""
+
+**analysis:**
+
+the premise details the earth's complaints about how *people* (generally) treat it – lack of respect, misuse, insufficient reciprocity. the hypothesis suggests a *specific cause* for this disrespect - new arrivals.  the premise doesn’t state *who* is disrespecting the earth, only *that* it is being disrespected. therefore, the hypothesis could be true alongside the premise. the premise doesn’t rule out the possibility of newcomers being the source of the problem.
+
+**answer:**
+
+neutral
+
+
+
+"
+"Suwába we risirúami ju a’lí si’néami anárika nátaka simáro jípi, mapu riká, tási ne machí chu riká ne oláma, a’lí chu riká níima bajíma, chiriká olá.","Nejé ruyéiri mapu echoná nocháalachi fusibles cha ikíli, nalí tási ne machí échi clabé kítira nócha luz sebariala.","neutral
+"
+"Suwába we risirúami ju a’lí si’néami anárika nátaka simáro jípi, mapu riká, tási ne machí chu riká ne oláma, a’lí chu riká níima bajíma, chiriká olá.","Jípi nejé tániliru mapu pe jípibi nulerámi newáma nóchali, mapu ni a wabé machí.","**neutral**
+
+here's why:
+
+* **premise translation (approximate):** ""when we run, we feel good in our hearts, the land says, sometimes it’s hard to run and sometimes it's easy, but it's good."" this expresses a general positive feeling about running and its connection to the land, acknowledging varying difficulty.
+
+* **hypothesis translation (approximate):** ""the land is not good for running if it is very rocky, the land does not help with difficulty."" this states a specific condition (rocky land) under which running is *not* good.
+
+the premise doesn't state anything about *when* running is *not* good. it only expresses a general positive sentiment. the hypothesis introduces a specific negative condition.  therefore, the premise neither logically necessitates nor denies the hypothesis; it is neutral towards it. it’s perfectly possible for the land to *generally* be connected to good feelings about running (as the premise states) *and* for it to be unsuitable for running in certain rocky areas (as the hypothesis states).
+
+
+
+"
+"A’lí jípi ko, jenaí atíki, jípi nakí.",Aní mapu nejé chuwé rawé riwiméa.,"neutral
+"
+"A’lí jípi ko, jenaí atíki, jípi nakí.",Aní mapu ne jípi a olánali.,"neutral
+"
+"A’lí jípi ko, jenaí atíki, jípi nakí.","Aní mapu ma naréali oselí proyecto, kecho malí ináraachi alíi.","neutral
+"
+"A’lí, tási kanílika, arikáta biléana simíali.",Uchécho siné nalí ku simábali.,"neutral
+"
+"A’lí, tási kanílika, arikáta biléana simíali.",Wamináta simíbali biléana estadochi bilé mili kimakói ciento waminá okuá ináraachi bamíbali.,"neutral
+"
+"A’lí, tási kanílika, arikáta biléana simíali.",Ke uché sinétita ku natépali a’lí jónsa.,"neutral
+"
+"Tási me a’lá ne machiyé mukí Faulk rewéami, échi ko osá nayósa makói bamíba, a’labé mukí ke, pe osá ne rewáli alé, nalí weni chujéli échi riwisáa.","A ne retewá pe isíni retewá échi mukí Faulk rewéami, nalí tási ne a’lámachí.","**entailment**
+
+here's why:
+
+the premise states that *if* someone goes to faulk (rewéami), *then* they will be happy (weni chujéli) and things will go well for them (osá nayósa makói bamíba). it essentially asserts a positive outcome *because* of going to faulk.
+
+the hypothesis states that *if* someone goes to faulk (retewá mukí faulk rewéami), *then* they will be happy (weni isíni retewá). it also says that this is because someone went (tási ne a’lámachí). 
+
+the hypothesis *is* a restatement of the conditional relationship established in the premise.  the premise guarantees a happy outcome if someone goes to faulk; the hypothesis simply expresses that outcome as a consequence of the journey. therefore, the premise logically necessitates the hypothesis - it's an entailment.
+
+
+
+"
+"Tási me a’lá ne machiyé mukí Faulk rewéami, échi ko osá nayósa makói bamíba, a’labé mukí ke, pe osá ne rewáli alé, nalí weni chujéli échi riwisáa.",Nejéko ne mulípi neráa machiyé mukí Faulk rewéami.,"neutral
+
+**explanation:**
+
+let's break down the rarámuri (as best as possible with limited context, relying on common rarámuri grammatical structures):
+
+* **premise:** ""if i go to faulk's house, then it is said that people will be there, perhaps also other people, but it is said that nobody will be there, so i won't go to see/visit.""  this expresses a conditional statement with a contradictory expectation leading to a decision *not* to go.
+* **hypothesis:** ""someone will go to faulk's house.""
+
+the premise states *i* will not go because of conflicting information about who *might* be there. it doesn't say anything about whether *anyone else* might go.  someone else could still go to faulk's house, making the hypothesis possible even if the premise is true. therefore, the premise is **neutral** towards the hypothesis. it doesn't prove or disprove it.
+
+
+
+"
+"Tási me a’lá ne machiyé mukí Faulk rewéami, échi ko osá nayósa makói bamíba, a’labé mukí ke, pe osá ne rewáli alé, nalí weni chujéli échi riwisáa.",Mukí Faul rewéami sibibí bilé toroka sawarówami aséka simíli nochásia.,"neutral
+"
+"Tamujé e’peréili osá nayósa makói malí Mallard Creek anelíachi, jípi ko nayó ciento osá makoi malí, echoná jónsata biléanata na’kulíwaki.",Kalí siyónachita e’peréili.,"neutral
+"
+"Tamujé e’peréili osá nayósa makói malí Mallard Creek anelíachi, jípi ko nayó ciento osá makoi malí, echoná jónsata biléanata na’kulíwaki.",Echonáta e’peréli weká bamíbali.,"neutral
+"
+"Tamujé e’peréili osá nayósa makói malí Mallard Creek anelíachi, jípi ko nayó ciento osá makoi malí, echoná jónsata biléanata na’kulíwaki.",Pe okuábi tarálita e’peréili echona.,"neutral
+"
+"Norawa, mapu riké okuánatami ka mujé.",Ke kaníli pemi yoa iníli.,"neutral
+"
+"Norawa, mapu riké okuánatami ka mujé.","Walúala ko we kaníli, wecha wabém lowíamtri níili.","neutral
+"
+"Norawa, mapu riké okuánatami ka mujé.",Walúala ko ga’lá kilíi ke nalí sinibísi nóchaka.,"neutral
+"
+"Wabé ochérami ju, simírami kíni onolá nísati.",Echi ko osá makói kicháo bamíbali bacháwami ju tamí kítira.,"neutral
+"
+"Wabé ochérami ju, simírami kíni onolá nísati.",Échi ko wabé táa ju tamí kítira.,"neutral
+"
+"Wabé ochérami ju, simírami kíni onolá nísati.",Échi ko wa’lú ju tamí kítira.,"neutral
+"
+"Chachékata muchúwi a’lí onoruami, tási ne machí kilípi nalí.",Ke ni machí kilípi anacháma.,"entailment
+"
+"Chachékata muchúwi a’lí onoruami, tási ne machí kilípi nalí.",Ke ni machí kilípi anacháma je’ná ra’íchali.,"neutral
+"
+"Chachékata muchúwi a’lí onoruami, tási ne machí kilípi nalí.",Wilímina ju nayó kayámti a’lí makói ka’é neráako.,"neutral
+"
+"Chiyéna ko nejé ke tási me kaníli echoná asaká, we ni risiyé echia’lí.","¡nejé ko we kaníli, we ka’lá isábuka.","neutral
+"
+"Chiyéna ko nejé ke tási me kaníli echoná asaká, we ni risiyé echia’lí.","We ne jiyáwiti buyéki kanílio ruyá, échi ko rapakónala nawása a’lá níili.","neutral
+"
+"Chiyéna ko nejé ke tási me kaníli echoná asaká, we ni risiyé echia’lí.","Ne jiyáwiti nejé we kanílinali, echi mukí ma echoná asáli.","neutral
+"
+Mapu riká kíta iyélako wabé namúti kítira tamujé tibúami ju.,Ajaré iyéla namúti rikámti chati néami ju.,"neutral
+"
+Mapu riká kíta iyélako wabé namúti kítira tamujé tibúami ju.,Ajaré iyéla ko tási bají ajarécho owáami.,"neutral
+"
+Mapu riká kíta iyélako wabé namúti kítira tamujé tibúami ju.,Nanako ajaré drogas néami ju.,"neutral
+"
+"Julí, we ga’lá ju, u’kuyá wilí jípi rawé.",Ke ne chibi iníli u’kí kítira.,"neutral
+"
+"Julí, we ga’lá ju, u’kuyá wilí jípi rawé.",We semáti ju a’lí u’kú.,"neutral
+"
+"Julí, we ga’lá ju, u’kuyá wilí jípi rawé.",We cha iré ne simíraami ra’tábusa rayénali.,"neutral
+"
+"We natikí mapu riká tamó jákami, nalí ácha ku umpaliale jaré ku wachína chakéna rujílachi.",Suwába jákami we natikí a’lí osá chokéami ga’lá ju checho ku chotália.,"neutral
+"
+"We natikí mapu riká tamó jákami, nalí ácha ku umpaliale jaré ku wachína chakéna rujílachi.",Bilé jákami tási ku ówitami níima.,"neutral
+"
+"We natikí mapu riká tamó jákami, nalí ácha ku umpaliale jaré ku wachína chakéna rujílachi.",We natéami ju tamujé jákami mapu ke tási chakéna rujíka e’perélipa.,"neutral
+"
+"Juu, re’malí, ke mu ka’lá karéwili je’ná nóchali, cha re je’ná cable.",Ke sinéti nejé rewáki cha riká newárami nóchali cable simérika.,"neutral
+"
+"Juu, re’malí, ke mu ka’lá karéwili je’ná nóchali, cha re je’ná cable.",Nochali cable nati newárami ke chibire.,"neutral
+"
+"Juu, re’malí, ke mu ka’lá karéwili je’ná nóchali, cha re je’ná cable.",Ma cha ikísimi ajaré namúti cable cha riká uchuchárami chokíla ju.,"neutral
+"
+"We kaníltami ju, julí, weká namúti risencia alíwa.",Ke ne a’lá sébali ni machí bechi ga’lá kayámti ke kaníliami ju.,"**entailment**
+
+here's why:
+
+* **premise translation:** ""we are going, truly, we are returning soon."" (essentially, ""we are going and will return soon."")
+* **hypothesis translation:** ""it is not true that someone will not return if they go."" (essentially, ""if someone goes, they will return."")
+
+the premise *directly supports* the hypothesis.  if they *are* going and *are* returning, then it *is* true that someone who goes will return. the premise establishes a specific instance confirming the general statement in the hypothesis. therefore, the premise entails the hypothesis.
+
+
+
+"
+"We kaníltami ju, julí, weká namúti risencia alíwa.",Chu riká mu ka’lá nakíliru mapu ko’wáami a’lí bajíwami mu seméru waminá pachá.,"neutral
+"
+"We kaníltami ju, julí, weká namúti risencia alíwa.",Ne karúre riwiwáa chu riká amíwa namúti.,"neutral
+"
+"Julí, mapu riká ju, nejéko je aní, mapu a’lí ma mu siwinísare kayénia, chiyéna nóchaka echi kítira…biléana simásare basalówasia isábua.","Namúti raliwáa maputa newalé, okuá mili natikí.","neutral
+"
+"Julí, mapu riká ju, nejéko je aní, mapu a’lí ma mu siwinísare kayénia, chiyéna nóchaka echi kítira…biléana simásare basalówasia isábua.",We natikí napácha a’lí bataloni raliwáa nejé níwala.,"neutral
+
+
+
+**explanation:**
+
+without a full, nuanced understanding of rarámuri and the specific cultural context, a definitive answer is difficult. however, based on a basic translation attempt and understanding of the likely topics (the premise appears to describe a situation of hardship/difficulty and someone overcoming it, while the hypothesis speaks about someone not being able to do something), there's no logical connection forcing entailment or contradiction.
+
+*   **entailment** would mean the hypothesis *must* be true if the premise is true.
+*   **contradiction** would mean the hypothesis *cannot* be true if the premise is true.
+
+the premise doesn't give information about *who* is or isn't capable of doing something (""batáloni raliwáa""), so the hypothesis is independent of it. it's entirely possible for someone to overcome hardship (premise) and *still* have someone else be unable to do something else (hypothesis). therefore, the relationship is **neutral**.
+
+
+
+"
+"Julí, mapu riká ju, nejéko je aní, mapu a’lí ma mu siwinísare kayénia, chiyéna nóchaka echi kítira…biléana simásare basalówasia isábua.",Ke me natikí napácha a’lí bataloni raliwáa.,"neutral
+
+
+
+**explanation (for context, though the answer requires no explanation):**
+
+without deep cultural and linguistic understanding of rarámuri, a definitive logical relationship is difficult to ascertain. however, based on a quick analysis and translation assistance (keeping in mind nuances are *very* likely lost in translation):
+
+* **premise (roughly):** ""julí, when he/she arrived, was sick, the land didn't let him/her rest, he/she started to get weak... finally he/she almost died because of the heat."" (this describes a sickness and hardship related to the land/heat.)
+
+* **hypothesis (roughly):** ""if i don't take care of myself, i'll get very tired quickly."" (this is a general statement about self-care and fatigue.)
+
+the premise narrates a *specific* event. the hypothesis states a *general* possibility. the premise doesn't confirm or deny the hypothesis, nor does it directly oppose it. it's entirely possible someone could experience what the premise describes *and* also believe the hypothesis is true, or vice-versa. therefore, the relationship is neutral.
+
+
+
+"
+"Ju, pe ariká jípi ko kíni kúchuwa osá makói bilé a’lí osá makói nayó bamíba, a’líko tási ne.","ke me newaléru, kíni kúchuwa simíraami osá makói bamíbami ju.","**entailment**
+
+here's why:
+
+* **premise (roughly translated):** ""if someone goes to the spring to get water, they carry it in a jug and also in a gourd, that's how it is."" this establishes a rule: going to the spring *requires* carrying water in both a jug *and* a gourd.
+* **hypothesis (roughly translated):** ""if i go to the spring, i will carry water in a gourd.""
+
+because the premise *requires* carrying a gourd when going to the spring, the hypothesis – stating someone *will* carry a gourd when going to the spring – is a necessary consequence of the premise. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Ju, pe ariká jípi ko kíni kúchuwa osá makói bilé a’lí osá makói nayó bamíba, a’líko tási ne.","Ariká ne newámale, ma bela sébali sebári bamíbali.","neutral
+"
+"Ju, pe ariká jípi ko kíni kúchuwa osá makói bilé a’lí osá makói nayó bamíba, a’líko tási ne.","Ariká níimale, okuánika makói a’lí makói bilé bamíbami ju.","**entailment**
+
+here's why:
+
+* **premise (roughly translated):** ""this, if someone brings water to me when i'm thirsty, they bring it to me gladly, they bring it to me with respect, gladly indeed."" (it expresses a positive expectation of how water will be brought if requested)
+* **hypothesis (roughly translated):** ""someone brings water, gladly they bring it to me with respect."" (states someone *does* bring water gladly and respectfully).
+
+the premise establishes a condition (being thirsty and asking for water) that *leads to* the action described in the hypothesis (water being brought gladly and respectfully).  if the premise is true, the hypothesis *must* also be true *sometimes* – because the premise describes a scenario where the hypothesis's scenario happens. this is a classic entailment relationship.  the hypothesis is essentially a consequence of the premise's conditional statement being fulfilled.
+
+
+
+"
+¡nee je’ná ko ulérili ju!,Ulérili anelíachi ne nawáli.,"neutral
+"
+¡nee je’ná ko ulérili ju!,Tási ne machí kúmi ju jenái.,"neutral
+"
+¡nee je’ná ko ulérili ju!,Mi ne ruyé mapu Ulérili anelíachi ju.,"entailment
+"
+"Juli, pakótami mapu nocháalachi muchísare, a’lí pe chuwé katuisuwa a jiyáwiti ra’íchaka bilé namú kítira natéami.","Juli, ajaré pakótami tási kalá nátaka katúiyami ju.","**neutral**
+
+here's why, with a breakdown of the meaning (approximations, as nuance is lost in translation):
+
+* **premise:** ""juli, when she finished working in the field, she went to the spring to drink water because she was thirsty."" (focus is on *completing work* then *going for water due to thirst*.)
+* **hypothesis:** ""juli, maybe she also felt cold when she drank water."" (focus is on *feeling cold* while *drinking water*.)
+
+the premise tells us *why* juli drank water (thirst, after work). it says nothing about whether she felt cold. feeling cold is a separate potential state.  the hypothesis introduces information not present in the premise. therefore, it's neither entailed nor contradicted; it's simply *neutral*.
+
+
+
+"
+"Juli, pakótami mapu nocháalachi muchísare, a’lí pe chuwé katuisuwa a jiyáwiti ra’íchaka bilé namú kítira natéami.","Juli, ajaré pakótami tási lochéka e’peré.","neutral
+
+**explanation:**
+
+let's break down the statements (with approximate english translations to understand the logic):
+
+* **premise:** ""juli, when she returned from the mountains, her mother told her to go look for firewood in the forest because she was cold.""
+* **hypothesis:** ""juli, sometimes she doesn't understand very well.""
+
+the premise describes a specific event – juli being *told* to gather firewood due to her mother's cold. this tells us nothing about juli's general comprehension abilities. she could understand perfectly well in general and simply be following instructions, or she could struggle with understanding frequently. the premise doesn’t provide information to support or deny the hypothesis.
+
+therefore, the relationship is **neutral**.
+
+
+
+"
+"Juli, pakótami mapu nocháalachi muchísare, a’lí pe chuwé katuisuwa a jiyáwiti ra’íchaka bilé namú kítira natéami.","Juli, mapu a’lí katúika ra’ichália a’lí jaréchoko karú ikí.","**neutral**
+
+here's a breakdown of why, based on a (necessarily limited, as i am not a native speaker) understanding of the rarámuri:
+
+* **premise (roughly translated):** ""juli, because she ran a long distance, therefore she is very tired and she will rest a little bit now.""  (focus is on *why* she's tired - the running, and what she'll *do* - rest.)
+* **hypothesis (roughly translated):** ""juli, the ground is hard for her to walk on and it is difficult."" (focus is on the *condition of the ground* affecting her.)
+
+the premise tells us about juli's tiredness *because* of running. the hypothesis talks about the difficulty of the *terrain* she might be on.  the premise doesn't say anything about the ground being hard or easy. it's perfectly possible juli is tired from running on easy ground *or* hard ground.  therefore, the premise neither necessitates nor denies the hypothesis.
+
+
+
+"
+"Tasi, a bijísi meká éena nócha. Echi riká simíba weká bamíbali ju kicháosa makói bamíbali simáraachi.","Pe bachá bijí ma enali nócha, ináraachi bilé mili kimakoi ciento kichásoa makói inarchi.","neutral
+"
+"Tasi, a bijísi meká éena nócha. Echi riká simíba weká bamíbali ju kicháosa makói bamíbali simáraachi.",We kaníli simíbaka ra’eráa.,"neutral
+"
+"Tasi, a bijísi meká éena nócha. Echi riká simíba weká bamíbali ju kicháosa makói bamíbali simáraachi.",Pe kulí kuwaníli meká jára nocha.,"neutral
+"
+Chu riká mu newáma ejercicio.,¿tamí ruyé chu riká mu newáma ejercicio?,"entailment
+"
+Chu riká mu newáma ejercicio.,"Yena ni a newánali ejercicio, mapu kiti ko pe a risiká nakí kini repokála.","**entailment**
+
+here's why:
+
+* **premise:** ""chu riká mu newáma ejercicio."" translates to ""he/she/they don't do exercise."" (literally, ""he/she/they not do exercise."")
+* **hypothesis:** ""yena ni a newánali ejercicio, mapu kiti ko pe a risiká nakí kini repokála."" translates to ""because they don't do exercise, that's why their body is getting weak and they are starting to get sick."" (literally, ""because not they do exercise, body little by little it is becoming weak and they are beginning to feel ill."")
+
+the hypothesis *explains why* someone might get sick *because* they don't do exercise. the premise states they *don't* do exercise. therefore, the premise logically leads to, and is consistent with, the reasons presented in the hypothesis. it's a direct consequence of the premise. thus, it's an entailment.
+
+
+
+"
+Chu riká mu newáma ejercicio.,"Pe rikó, ma kiti ra’ichá ejercicios kítira.","entailment
+"
+"Juli, ayena alabé ju nalí tási ne nátaki echi riká.","Échi ko tási a’labé natáliami ju, chabé taráli ni jonsa echi riká nátaki.","**entailment**
+
+here's why:
+
+* **premise (roughly translated):** juli, she doesn't want to eat anything anymore.
+* **hypothesis (roughly translated):** if she doesn't want to eat anything anymore, then maybe she is sick.
+
+the hypothesis presents a *possible reason* for the premise.  if juli truly doesn't want to eat anything (as stated in the premise), then the hypothesis that she *might* be sick is a logical consequence. it doesn't *have* to be true, but the premise makes the hypothesis plausible and therefore entailed. the hypothesis builds *upon* the premise, offering an explanation.
+
+
+
+"
+"Juli, ayena alabé ju nalí tási ne nátaki echi riká.",Ga’lá ju echi riká natáliami.,"neutral
+"
+"Juli, ayena alabé ju nalí tási ne nátaki echi riká.",Je’ná ra’íchali mapu mu aní we natéami ju.,"neutral
+"
+"Osá tibuluwa ochéi bilé tarali neráa, guardería anelíwa, echi mukí ko biléanachi cho simí.","Echoná kalírili guarderiachi sinibí rawé eráputa wilí, kúuchi tibúalachi mapu tasicho malí bamíba.","neutral
+"
+"Osá tibuluwa ochéi bilé tarali neráa, guardería anelíwa, echi mukí ko biléanachi cho simí.",Pe osá chokéami minácho a uméro echi ochéi ko echoná kalírili simíba guarderiachi.,"neutral
+"
+"Osá tibuluwa ochéi bilé tarali neráa, guardería anelíwa, echi mukí ko biléanachi cho simí.",Echoná kalírili echi riká anelíwa mapu kitiko ochéi tibúalachi ju guardería anelíachi.,"neutral
+"
+Ne echi riká a kayénali.,Echi kítira wabé jiwérali oláli.,"neutral
+"
+Ne echi riká a kayénali.,Echiko tási sinéti nakíli.,"neutral
+"
+Ne echi riká a kayénali.,Ne sébali mapu riká iláli.,"neutral
+"
+Okuá sekáti nokéliwa ra’néla ko ripiyá ma.,"Mapu a’lí chakéna chewá bilé ra’néla namúti ra’tánisa, ke okuanika sekáti cha’pirúami ju ra’néla echi kiti bela pe chakéna chiwíli.","neutral
+"
+Okuá sekáti nokéliwa ra’néla ko ripiyá ma.,"Jiwéraka cha’piwa ra’néla, we a’lá jiwéraka wiliká nakí pei kacháa.","neutral
+"
+Okuá sekáti nokéliwa ra’néla ko ripiyá ma.,Okuánika sekáti jiwéraka cha’pí ra’néla neami nísaka.,"neutral
+"
+"Ke sayenáti nawáli biléanachi jónsa, nalí tási ne machí kúmi jónsa.","Ke ni machí kúmi jonsa ináro, nalí jiyáwitiju.","neutral
+"
+"Ke sayenáti nawáli biléanachi jónsa, nalí tási ne machí kúmi jónsa.","Jiyáwiti ináro, a ne machí kúmi jónsa ináro.","neutral
+"
+"Ke sayenáti nawáli biléanachi jónsa, nalí tási ne machí kúmi jónsa.",Nabótuka ináro a’lí a ne machí kabú nawáma.,"neutral
+"
+"Tási, pe ni ké machíale, tási ne mayé.",Tási ne me machí échi kítira.,"neutral
+"
+"Tási, pe ni ké machíale, tási ne mayé.",Tási ne machiwá nakiwáami kítira ko.,"neutral
+"
+"Tási, pe ni ké machíale, tási ne mayé.",Weká bamíbali ne sebári je’ná beneyá.,"neutral
+"
+"Juli, mujé a machí mapu ga’labé ké échi mukí.",Ayena amachí mapu ne ka’lá níili.,"neutral
+"
+"Juli, mujé a machí mapu ga’labé ké échi mukí.","Ke, échi ko we chati ke.","neutral
+"
+"Juli, mujé a machí mapu ga’labé ké échi mukí.","Juli, échi ko we ga’labé ke.","entailment
+"
+"Juli, échi ko namúti we ga’labé raláli, echi mu néma.",Ariká raláli pichíla ripúa banisúka pichíami.,"neutral
+"
+"Juli, échi ko namúti we ga’labé raláli, echi mu néma.",Ariká a rewáli échi we ga’labé.,"neutral
+"
+"Juli, échi ko namúti we ga’labé raláli, echi mu néma.",Pichíla wichí be’wáalachi nati be’wáli ‘la.,"neutral
+"
+"We cha riká ju jaré namúti, ma ra’néchani echoná toroka ujúmalachi, pe paníki ayé mulipi kíni betélachi.",We nakóali ra’néka paníki bile ciento millas simáruka mekabé.,"neutral
+"
+"We cha riká ju jaré namúti, ma ra’néchani echoná toroka ujúmalachi, pe paníki ayé mulipi kíni betélachi.","Pe mulípi kini betélachi ra’néka nakóiru, ne majawá echi kíti tási ne machína.","neutral
+"
+"We cha riká ju jaré namúti, ma ra’néchani echoná toroka ujúmalachi, pe paníki ayé mulipi kíni betélachi.","Pe mulípi kini betélachi ra’néka nakóiru, tási a’lá ju jenaí.","neutral
+"
+"Juu, échi ko tási bichíwali ju, tasi sébali.","Tási ne katui mi yua, pe we jiwáwiti neraa ju.","neutral
+"
+"Juu, échi ko tási bichíwali ju, tasi sébali.",A mu machiká ra’ícha mapu rikácho mu aní.,"neutral
+"
+"Juu, échi ko tási bichíwali ju, tasi sébali.",A mu machiká ra’ícha mapu nejé ke me chíbi aníami níima.,"neutral
+"
+Echoná jiwérali ne olaká atíki.,"Wané ne nakí échi, we iwérali ne ola.","neutral
+"
+Echoná jiwérali ne olaká atíki.,Ne jiwérali olaká we a’lá ne nócha.,"neutral
+"
+Echoná jiwérali ne olaká atíki.,Pe ariká ne rewéma a’lí ko ke ni kuwána ku nenáma.,"neutral
+"
+"Julí, ¿chu iyíri kochí mu buké?",¿mujé bukúla ta kochí we ga’labé ju?,"neutral
+"
+"Julí, ¿chu iyíri kochí mu buké?",¿chu iyíri musa mu ku’íroki?,"neutral
+"
+"Julí, ¿chu iyíri kochí mu buké?",¿chu iyíri kochí mu buké tási weká bamíbami?,"neutral
+"
+"Ayena, a mu ranéami ju, ¿kípu bamíbami ju mujé kúchuwala?",¿kípumu kúchuwi?,"entailment
+
+**explanation:**
+
+* **premise translation:** ""ayena, if i run well, will you give me something to drink?""
+* **hypothesis translation:** ""will you give me a drink?""
+
+the premise *includes* the condition of running well leading to receiving a drink. therefore, asking directly if one will receive a drink is logically contained within the premise, assuming the condition (running well) is met.  the premise guarantees that *if* the running condition is true, then the drink will be given. thus, it entails the hypothesis.
+
+
+
+"
+"Ayena, a mu ranéami ju, ¿kípu bamíbami ju mujé kúchuwala?",Nejéko mapu iníli tási ranélima.,"neutral
+"
+"Ayena, a mu ranéami ju, ¿kípu bamíbami ju mujé kúchuwala?",Acha mu aníli mapu mu kúchuwi ¿kípu bamíba?,"neutral
+"
+"Mapu riké tási me nátaami ka, nalí kipú, we galabé ke a’lí…pe kaníli jarécho kítira mapu ayena a we katúika benébali.","Mapu riké tási me nátaami ka ajarécho kítira, nalí we ra’isáti aníami ke, we ga’lá ku’íronali échi mapu benémare.","neutral
+"
+"Mapu riké tási me nátaami ka, nalí kipú, we galabé ke a’lí…pe kaníli jarécho kítira mapu ayena a we katúika benébali.","Wabé ka’lá nátaami ke, nalí pe ke me mi náta nokáli mulípi muchísa ajarécho yua mapu tási machíli jepuká ju.","neutral
+
+
+
+here's why, based on a translation and understanding of the rarámuri (though nuance is *very* difficult without full context and native speaker confirmation):
+
+* **premise (roughly):** ""when the rain comes, it's good, but sometimes it's strong…and sometimes it doesn't help the land, but it can damage the crops."" (focus is on the *effect* of rain – sometimes good, sometimes bad for agriculture).
+* **hypothesis (roughly):** ""if there is planting, then sometimes it doesn't grow well because the land is difficult to work, and sometimes the rain comes and damages the crops a little."" (focus is on *planting and the difficulty of the land* along with potential rain damage).
+
+the premise talks about the *effects of rain* on existing crops. the hypothesis talks about *conditions for planting* and *potential difficulties* affecting growth, *including* rain damage.  
+
+there's overlap (rain damage is mentioned in both), but the premise doesn't provide enough information to definitively say the hypothesis *must* be true (entailment) or *cannot* be true (contradiction). the premise doesn’t speak to the conditions of planting or land difficulty. they’re addressing different aspects of agriculture and environmental factors. therefore, the relationship is **neutral**.
+
+
+
+**important note:**  rarámuri is a complex language with strong cultural context.  this assessment is based on the best possible translation and understanding given only the text provided, and is prone to error without further input from a native speaker."
+"Mapu riké tási me nátaami ka, nalí kipú, we galabé ke a’lí…pe kaníli jarécho kítira mapu ayena a we katúika benébali.","Wabé machíami ke, nalí we kichíka e’peréili machisáa ka mapu ajarécho ayenacho benéma.","**neutral**
+
+here's why, based on a (necessarily limited without full cultural/linguistic context) understanding of the rarámuri phrases:
+
+* **premise (roughly):** ""if the rain doesn't come, there is no corn, and everything is bad…because without the land there is nothing good to live on.""  it speaks to a dependence on rain for corn, and the overall well-being linked to the land.
+* **hypothesis (roughly):** ""people are working so that there will be enough to eat when the land produces well again."" it expresses hope and effort towards future sustenance linked to land productivity.
+
+the premise describes a *condition* (no rain = bad outcomes). the hypothesis describes *action* taken, regardless of whether that condition is currently met.  the premise doesn’t say people *won’t* work towards future harvests, nor does it guarantee a harvest. therefore, the hypothesis is neither logically necessitated by the premise (no entailment) nor does it clash with it (no contradiction). it’s independent, making it neutral.
+
+
+
+**important disclaimer:**  rarámuri is a complex language with deep cultural context. this assessment is based on the limited translation available and might be inaccurate without expert linguistic and cultural knowledge."
+"Siné echónata énaki basalówa, juli, omawáliachita jároli a’lí ku sisáa ata rewáki bile mofeta anelíami, echoná kawichí.",Echi pasúchi ko mapu onáta beteráchi echoná ku nipúika asáli.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of rarámuri cultural context and nuances (which i, as an ai, lack), a direct logical connection between these sentences is not apparent. here’s a breakdown of why:
+
+* **premise (roughly translated):** ""if someone is sick, sometimes they say it's because they dreamt of a skunk, that's why they're sick."" (this relates to a traditional belief about illness originating from dreams).
+* **hypothesis (roughly translated):** ""a good person in this world always helps others when they can."" (this is a statement about morality and helpfulness).
+
+the premise discusses the *cause* of illness according to a specific belief system. the hypothesis discusses *behavior* based on morality. these are different domains of thought.  the premise doesn't give us information about whether good people help others, nor does it say anything that would directly oppose that idea. therefore, the relationship is *neutral*.
+
+it's *possible* there’s a cultural connection a native speaker would recognize, but based purely on the literal content, there's no logical entailment or contradiction."
+"Siné echónata énaki basalówa, juli, omawáliachita jároli a’lí ku sisáa ata rewáki bile mofeta anelíami, echoná kawichí.","Bilé chiba nawáli echoná kawichí mapu onáta beteráli, luz ta cho’álachi nawáli.","neutral
+"
+"Siné echónata énaki basalówa, juli, omawáliachita jároli a’lí ku sisáa ata rewáki bile mofeta anelíami, echoná kawichí.",Napawíkiliachita jároli a’lí ku sisáa ata rewáki bile mofeta anelíami,"neutral
+"
+"Machiká, suwába kíni kúchuwa we akápi ju, we galabé, nalí tási kere, échi kúuchi kúruwi we benécho, nalí","Échi kúuchi kúruwi pe wélipala yua ayenacho a bené, echi riká ju retemta neraa.","neutral
+"
+"Machiká, suwába kíni kúchuwa we akápi ju, we galabé, nalí tási kere, échi kúuchi kúruwi we benécho, nalí",We ni kaníli mapu riká kíni kúchuwa weká namúti benékami ju.,"neutral
+"
+"Machiká, suwába kíni kúchuwa we akápi ju, we galabé, nalí tási kere, échi kúuchi kúruwi we benécho, nalí",Kíni kúchuwa ko tási namúti machíami ju.,"entailment
+"
+"Ayenacho ga’lá níima mapu pakótami ko wabé rachináma suwába ripúa… ayenacho… tasi me iwéami semema, echi riká ke me ka’lá ju, pe nátaka níima.","Na walú níisa ripúa ke a’lá ju, pe karú re echi riká ko, ripúa nalí wabé beteami ju ajarécho kítira.","neutral
+"
+"Ayenacho ga’lá níima mapu pakótami ko wabé rachináma suwába ripúa… ayenacho… tasi me iwéami semema, echi riká ke me ka’lá ju, pe nátaka níima.","Ké chibire mapure echi ripúa ne wa’lú níisa, nalía a karka we yeka napabúka achába mapu oná achalíwa.","neutral
+"
+"Ayenacho ga’lá níima mapu pakótami ko wabé rachináma suwába ripúa… ayenacho… tasi me iwéami semema, echi riká ke me ka’lá ju, pe nátaka níima.","Ajarécho ko ayénacho newalé maú ga’lá weili anéma échi semelíami, mapu rikácho tubúpa suwába ripúa.","neutral
+
+
+
+**explanation:**
+
+both the premise and hypothesis discuss aspects of respect, knowledge, and the land (mapu) and its spirits (suwába ripúa). however, they do so in different contexts and with differing focuses. 
+
+*   the **premise** seems to be a recounting of a situation where someone (ayenacho) lacked proper respect, leading to negative consequences and a need for learning. it emphasizes the importance of listening to elders (tasi me iwéami semema) and recognizing one's own limitations.
+
+*   the **hypothesis** speaks more generally about how respecting (ajarécho) knowledge (newalé maú ga’lá) and the land leads to a good connection (semelíami) and positive outcomes.
+
+while related thematically, the hypothesis doesn't *necessarily* follow from the premise, nor does the premise deny the hypothesis. the premise is a *specific instance*; the hypothesis is a *general statement*. it's possible the scenario in the premise could be an exception to the rule stated in the hypothesis, or it could simply be one example of it. therefore, the relationship is **neutral**."
+"Mapure cha riká níisaka, mujé chokíla ju, nejé mayé.","Kíti namú inílika, cha riká níisa ka, nejé mí kuíroma jarécho chewayá.","neutral
+"
+"Mapure cha riká níisaka, mujé chokíla ju, nejé mayé.","Cha riká níisaka, mujé iyíri ju.","neutral
+"
+"Mapure cha riká níisaka, mujé chokíla ju, nejé mayé.","Cha riká níisaka, ke kalá níima mujé cha’pisáka.","neutral
+"
+"Machí…suwába kítira, súka nokibóa ajarécho namúti shi, ne karka machiká nochába.",Ne wabé semá riká súka newá ajaré namúti we ba’óami.,"neutral
+"
+"Machí…suwába kítira, súka nokibóa ajarécho namúti shi, ne karka machiká nochába.",Ne jiyáwika súrami ju napácha a’lí tási ba’ó echi riká.,"neutral
+"
+"Machí…suwába kítira, súka nokibóa ajarécho namúti shi, ne karka machiká nochába.",Pe a wilibé nokaká suwiníiru suwába namúti súwami.,"neutral
+"
+"Juli, juli, kini nocháalachi okuá tarálita ku chotábare, a’lí bilé bamíbali neráa bilé rawé alíwa chiliwéka, pe kináa ko ariká nayó taráli alíwa.",Mujé nochálachi sinibí bamíbali uchécho muyésimi.,"**neutral**
+
+here's why:
+
+* **premise translation (approximate):** ""juli, juli, it seems they are going to the field to work, they carry things with them (like food and water), and because of that they will be working well there."" (it's a statement about juli going to work in the field, prepared with supplies).
+* **hypothesis translation (approximate):** ""people going to work don't always succeed easily."" (a general statement about the difficulty of work).
+
+the premise talks about *specific* people (juli) going to work *and* being prepared. the hypothesis is a *general* statement about the potential for failure in work, regardless of preparation.  the premise doesn't give us any information about whether juli *will* succeed or not; it only states they are *equipped* to succeed. therefore, the hypothesis is neither logically supported nor opposed by the premise.
+
+
+
+"
+"Juli, juli, kini nocháalachi okuá tarálita ku chotábare, a’lí bilé bamíbali neráa bilé rawé alíwa chiliwéka, pe kináa ko ariká nayó taráli alíwa.","Mapu mu ikilí mu nócha, tási sebári bikéa rawé chiliwéluwami.","neutral
+"
+"Juli, juli, kini nocháalachi okuá tarálita ku chotábare, a’lí bilé bamíbali neráa bilé rawé alíwa chiliwéka, pe kináa ko ariká nayó taráli alíwa.","Mujé ku isábuachi, nocháli ko weká muyésimi.","neutral
+"
+"Ga’lá ju jená kita paiswalachi e’peréliwa, tási namúti chibi inílika ajaré namúti kítira.","Je’ná paischi peréliwa pe we majáka eperéliwa, we cha riká simáruwa.","neutral
+"
+"Ga’lá ju jená kita paiswalachi e’peréliwa, tási namúti chibi inílika ajaré namúti kítira.","Tamó kawíwalachi a e’peréliwa ga’lá ju, pe ke ga’lá ju echi riká ko.","**neutral**
+
+here's a breakdown of why, considering the likely meanings (given the difficulty of definitively translating without full context and a native speaker):
+
+* **premise (roughly):** ""when it rains, everyone goes inside, and sometimes children cry because they want to go out.""  (this is a simplification, but captures the gist.)
+* **hypothesis (roughly):** ""sometimes when it rains, people go inside, but not always because they are afraid.""
+
+the premise describes a *typical* reaction to rain (going inside) and a related emotional response (children wanting to go out and crying). the hypothesis acknowledges people *sometimes* go inside when it rains, but introduces a *different* possible reason for *not* going inside – not being afraid.
+
+the premise doesn't *require* everyone to go inside *because* they're afraid. they might go inside for other reasons, or the premise might not address why they go inside at all beyond simply stating they do.  the hypothesis doesn't negate the premise; it adds a nuance. it's entirely possible for both statements to be true simultaneously.
+
+therefore, the relationship is **neutral**.
+
+
+
+"
+"Ga’lá ju jená kita paiswalachi e’peréliwa, tási namúti chibi inílika ajaré namúti kítira.","Wa ga’lá ju kawichí e’peréliwa, tási me weká namúti kítira natália, chu riká nalí eperéliwa waminá ciudadchi.","neutral
+"
+"Aji onoruami, juli, mapu riká basalówaka ga’lá ju.",Echi ko we kaníliwami ju we nasináraami ma.,"neutral
+"
+"Aji onoruami, juli, mapu riká basalówaka ga’lá ju.",Echi ko aní mapu wa’lú basalówaliami ju.,"neutral
+"
+"Aji onoruami, juli, mapu riká basalówaka ga’lá ju.",Mapure we cha rikáachi ka.,"neutral
+"
+Jípi ko bilé kíni rijimá waminá Alemania anelíachi beté.,Jípi ko towí kíni rijimá waminá Alemania anelíachi beté.,"neutral
+"
+Jípi ko bilé kíni rijimá waminá Alemania anelíachi beté.,Jípi ko kíni ko’chilá waminá Cuba anelíachi atíki.,"neutral
+"
+Jípi ko bilé kíni rijimá waminá Alemania anelíachi beté.,Nejé bilé rijimé mapu alemán ra’íchamiju.,"entailment
+"

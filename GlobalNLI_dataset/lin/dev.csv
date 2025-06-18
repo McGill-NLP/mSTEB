@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Mpe alobi, mama, nazali na ndako.",Abengi mama na ye na ntango bus ya kelasi ekitisi ye.,neutral
+"Mpe alobi, mama, nazali na ndako.",Alobi eloko te.,contradiction
+"Mpe alobi, mama, nazali na ndako.",Ayebisi mama na ye ete azongaki.,entailment
+ oh ezalaki Snake River oh  Snake River na ba nioka ebele na kati,"Ata nkombo na yango, Ebale ya Nioka ezali na nioka te; bapesaki yango na kotalaka lolenge ya S.",contradiction
+ oh ezalaki Snake River oh  Snake River na ba nioka ebele na kati,Snake River ezali na ba koba ya nioka ebele.,neutral
+ oh ezalaki Snake River oh  Snake River na ba nioka ebele na kati,Ebale ya Snake etondi na ba nioka.,entailment
+ba complexes moléculaires oyo d'ordre supérieur eza kose former mpo sélection naturelle eza capable  yako agir likolo ya ba propriétés collectives yaba agrégats  moléculaires yaboye tango ba propriétés collectives ematisaka capacité ya adaptation.,Ba dispositif nyoso ya molecule ezali mpe lokola biteni mingi.,contradiction
+ba complexes moléculaires oyo d'ordre supérieur eza kose former mpo sélection naturelle eza capable  yako agir likolo ya ba propriétés collectives yaba agrégats  moléculaires yaboye tango ba propriétés collectives ematisaka capacité ya adaptation.,Ba dispositif ya molecule ya biteni mingi koleka ekoki kobima na ezalela ya ndenge mosusu.,entailment
+ba complexes moléculaires oyo d'ordre supérieur eza kose former mpo sélection naturelle eza capable  yako agir likolo ya ba propriétés collectives yaba agrégats  moléculaires yaboye tango ba propriétés collectives ematisaka capacité ya adaptation.,"Ba masine ya molecule basalelaka yango mpo na kobimisa ngenge, mpo na komibatela.",neutral
+Abengaki Lord julian,alingaki atuna Lord Julian eloko moko,entailment
+Abengaki Lord julian,Alingaki a senga lord Julian a longola muasi na ye,neutral
+Abengaki Lord julian,Lord Julian bayebaki esika azali te.,contradiction
+"nasima yako tala napembeni yaba collections yango, amataki ngomba tina ndako ya commissaire, wapi boko zwa emoneli yamalamu na côte ya pembeni mpe bisika misusu ya complexe ya arsenal ya mayi.",Bokoki komona ba masuwa na nsonge ya ngomba,neutral
+"nasima yako tala napembeni yaba collections yango, amataki ngomba tina ndako ya commissaire, wapi boko zwa emoneli yamalamu na côte ya pembeni mpe bisika misusu ya complexe ya arsenal ya mayi.",Bokoki komona libongo na nsonge ya ngomba.,entailment
+"nasima yako tala napembeni yaba collections yango, amataki ngomba tina ndako ya commissaire, wapi boko zwa emoneli yamalamu na côte ya pembeni mpe bisika misusu ya complexe ya arsenal ya mayi.",Bamonaka mopanzi ya libongo te na nsonge ya ngomba.,contradiction
+ba systèmes ya ressources humaines ekomaki consolidés mpe ba structures ya sika yaba corporatives ekomaki définies nalombangu pona ko assurer soutien ya libela mpona clientèle ya monene.,"nasima yako sangisa ressources humaines, salle moko ebongisamaki ponna ba structure yaba entreprise yasika",neutral
+ba systèmes ya ressources humaines ekomaki consolidés mpe ba structures ya sika yaba corporatives ekomaki définies nalombangu pona ko assurer soutien ya libela mpona clientèle ya monene.,ba structure corporative ekelamaki,entailment
+ba systèmes ya ressources humaines ekomaki consolidés mpe ba structures ya sika yaba corporatives ekomaki définies nalombangu pona ko assurer soutien ya libela mpona clientèle ya monene.,ba systems yaba reources humains ememamaki koleka ndenge ezalaki liboso,contradiction
+"movement islamiste, ebotami na 1940, mpe ewuti na makambo ya miko oyo,  influencé naba concepts marxistes-léninistes ya organisation révolutionnaire.",ba concepts marxistes-léninistes etiamaki nakati ya mouvement islamiste.,entailment
+"movement islamiste, ebotami na 1940, mpe ewuti na makambo ya miko oyo,  influencé naba concepts marxistes-léninistes ya organisation révolutionnaire.",mouvement ya bato ya islam ebandaki Na ekeke ya motoba,contradiction
+"movement islamiste, ebotami na 1940, mpe ewuti na makambo ya miko oyo,  influencé naba concepts marxistes-léninistes ya organisation révolutionnaire.",mouvement islamiste ezalaki fondé nabandeli lokola  organisation ya mobilisation sociale.,neutral
+likabo Na Bino eza na motuya Makasi PONA feti Na biso ya nkutu mwambe na mitano ya eleko,likabo nionso tozo zua eza na motuya lokola likabo Na Bino te,neutral
+likabo Na Bino eza na motuya Makasi PONA feti Na biso ya nkutu mwambe na mitano ya eleko,tozo komitungisama te PONA likabo Na bino,contradiction
+likabo Na Bino eza na motuya Makasi PONA feti Na biso ya nkutu mwambe na mitano ya eleko,tozalaka yango uta ba mbula koleka nkutu mwambe,entailment
+Liboke ya kozinga buku ya mikanda ezali kobenda baboti oyo bazali kobanga.,ba boti Oyo ba tiaka souci mingi bazali bato Oyo marketing ya ba journaux ya mposa elukaka,entailment
+Liboke ya kozinga buku ya mikanda ezali kobenda baboti oyo bazali kobanga.,ba journaux ya mposo ezokanisa ko tia na page ya liboso biloko Oyo eko benda bilenge Na ba koko,contradiction
+Liboke ya kozinga buku ya mikanda ezali kobenda baboti oyo bazali kobanga.,"ba boti bazali na makoki yako salela mbongo pona kosomba mituka ya sika, Oyo asali le ba komi ba cible malamu PONA publicité ya magazine ",neutral
+esaleli ya lolenge mosusu esengeli te esalama na esika ya esalaleli ya lolenge mosusu,eza malamu te kosalela esaleli ya lolenge mosusupona kondimbola esaleli ya lolenge mosusu,entailment
+esaleli ya lolenge mosusu esengeli te esalama na esika ya esalaleli ya lolenge mosusu,epesami nzela yako tia solution mosusu na esika ya solution ya rechange,contradiction
+esaleli ya lolenge mosusu esengeli te esalama na esika ya esalaleli ya lolenge mosusu,"boto ebele bayebi te kosalela mots ""alternatif"" na ""variante""",neutral

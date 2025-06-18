@@ -1,0 +1,601 @@
+premise,hypothesis,label
+"Vâng, tôi thậm chí không nghĩ về điều đó, nhưng tôi đã rất thất vọng, và, tôi lại nói chuyện với anh ta lần nữa.",Tôi đã không nói chuyện với anh ta nữa.,2
+"Vâng, tôi thậm chí không nghĩ về điều đó, nhưng tôi đã rất thất vọng, và, tôi lại nói chuyện với anh ta lần nữa.",Tôi buồn tới mức tôi lại bắt đầu nói chuyện lại với anh ta.,0
+"Vâng, tôi thậm chí không nghĩ về điều đó, nhưng tôi đã rất thất vọng, và, tôi lại nói chuyện với anh ta lần nữa.",Chúng tôi có buổi nói chuyện tuyệt vời.,1
+"Họ nói với tôi rằng, ừ, rằng tôi sẽ được gọi bởi một chàng trai vào cuối cùng để gặp nhau.",Tôi chưa bao giờ nói gì về việc gặp ai cả.,2
+"Họ nói với tôi rằng, ừ, rằng tôi sẽ được gọi bởi một chàng trai vào cuối cùng để gặp nhau.",Tôi được báo rằng sẽ có một người được gọi vào để tôi gặp.,0
+"Họ nói với tôi rằng, ừ, rằng tôi sẽ được gọi bởi một chàng trai vào cuối cùng để gặp nhau.",Anh chàng xuất hiện muộn một chút.,1
+Có rất nhiều điều bạn có thể nói mà tôi sẽ chỉ bỏ qua điều đó thôi.,Tôi muốn nói với bạn tất cả mọi thứ tôi biết về điều đó!,2
+Có rất nhiều điều bạn có thể nói mà tôi sẽ chỉ bỏ qua điều đó thôi.,"Tôi sẽ không nói về điều đó, mặc dù có rất nhiều thứ phảinói.",0
+Có rất nhiều điều bạn có thể nói mà tôi sẽ chỉ bỏ qua điều đó thôi.,Tôi sẽ không nói về lịch sử của thành phố vì có quá nhiều điều để nói.,1
+Vì vậy tôi không chắc tại sao nữa.,Tôi chắc chắn là lý do tại sao.,2
+Vì vậy tôi không chắc tại sao nữa.,Tôi không biết vì sao anh ấy lại chuyển trường.,1
+Vì vậy tôi không chắc tại sao nữa.,Tôi không biết vì sao nó xảy ra.,0
+"Tôi là người duy nhất mà uh, từng điều hành các bộ điều chỉnh cho ờ, cho phần thử nghiệm trong các buồng áp lực cỡ nhỏ.",Tôi không thích là người duy nhất điều khiển các máy điều chỉnh dùng trong các bài kiểm tra.,1
+"Tôi là người duy nhất mà uh, từng điều hành các bộ điều chỉnh cho ờ, cho phần thử nghiệm trong các buồng áp lực cỡ nhỏ.",Các thử nghiệm đã được thực hiện trong các phòng thu nhỏ trên cao.,0
+"Tôi là người duy nhất mà uh, từng điều hành các bộ điều chỉnh cho ờ, cho phần thử nghiệm trong các buồng áp lực cỡ nhỏ.",Có một vài người trong chúng tôi điều hành các máy điều chỉnh để kiểm tra.,2
+"Tôi vâng, Thượng Sỹ, đã nghỉ hưu, như Rick đã nói.",Tôi vẫn đang làm việc cho đến ngày nay.,2
+"Tôi vâng, Thượng Sỹ, đã nghỉ hưu, như Rick đã nói.",Tôi đã về hưu vào năm 2002.,1
+"Tôi vâng, Thượng Sỹ, đã nghỉ hưu, như Rick đã nói.",Rick nói với bạn tôi đã nghỉ hưu.,0
+"Có một số dự đoán về dòng tiền trên bàn làm việc của tôi và, ừm, nó dành cho một khách hàng tên Cutty.",Khách hàng có tên Cutty kiếm được $ 10000 một tháng.,1
+"Có một số dự đoán về dòng tiền trên bàn làm việc của tôi và, ừm, nó dành cho một khách hàng tên Cutty.",Có một khách hàng tên là Cutty.,0
+"Có một số dự đoán về dòng tiền trên bàn làm việc của tôi và, ừm, nó dành cho một khách hàng tên Cutty.",Chúng tôi không có bất kỳ khách hàng nào là Cutty.,2
+Cô gái có thể giúp tôi khắp cả thị trấn.,Cô gái tôi cần sự giúp đỡ sống một cách xa vời.,0
+Cô gái có thể giúp tôi khắp cả thị trấn.,Cô gái ai sẽ là người giúp đỡ tôi là 5 dặm.,1
+Cô gái có thể giúp tôi khắp cả thị trấn.,Không ai có thể giúp tôi.,2
+"Nhưng chúng tôi lúc đó chia thành hai nhóm kiểu như ai là kẻ làm lụng kiếm tiền và ai là kẻ ngồi nhà ăn bám, việc này cứ kiểu như--",Tất cả đều đồng ý rằng tất cả họ đều làm việc trong các lĩnh vực.,2
+"Nhưng chúng tôi lúc đó chia thành hai nhóm kiểu như ai là kẻ làm lụng kiếm tiền và ai là kẻ ngồi nhà ăn bám, việc này cứ kiểu như--",Họ không thể đồng ý về ai làm ruộng và ai làm trong nhà.,0
+"Nhưng chúng tôi lúc đó chia thành hai nhóm kiểu như ai là kẻ làm lụng kiếm tiền và ai là kẻ ngồi nhà ăn bám, việc này cứ kiểu như--",Họ không thể đồng ý ai sẽ làm việc trong cánh đồng bông và ai nên lau sàn nhà.,1
+Ý tôi là họ chỉ có 5 đứa con nhưng một đứa đã mất rồi.,Tất cả con cái của họ đều sống sót.,2
+Ý tôi là họ chỉ có 5 đứa con nhưng một đứa đã mất rồi.,Một đứa trẻ đã chết trong số năm đứa trẻ.,0
+Ý tôi là họ chỉ có 5 đứa con nhưng một đứa đã mất rồi.,Đứa trẻ đã chết được sinh ra ốm yếu.,1
+"Cô ấy nói chỉ có mình cô ấy là rơi nước mắt và cô ấy nói là, sau đó cô ấy nói rằng Joe xuất hiện trên hiên nhà.","Khi cô nói với anh ấy đi lên hiên nhà, đôi mắt cô đã ngấn lệ.",0
+"Cô ấy nói chỉ có mình cô ấy là rơi nước mắt và cô ấy nói là, sau đó cô ấy nói rằng Joe xuất hiện trên hiên nhà.",Cô nhanh chóng lau đi những giọt nước mắt sau khi đẩy Joe ra khỏi hiên nhà.,2
+"Cô ấy nói chỉ có mình cô ấy là rơi nước mắt và cô ấy nói là, sau đó cô ấy nói rằng Joe xuất hiện trên hiên nhà.",Cô rất vui khi thấy Joe đến nỗi cô bắt đầu khóc.,1
+"Ngay cả khi chiếc máy bay đang cháy, thì tại sao, ừ sao nó lại bị cháy và có thể tan chảy xuyên qua một thành phần bằng chì để bức xạ bị rò rỉ.",Bức xạ có thể có trong một đám cháy.,1
+"Ngay cả khi chiếc máy bay đang cháy, thì tại sao, ừ sao nó lại bị cháy và có thể tan chảy xuyên qua một thành phần bằng chì để bức xạ bị rò rỉ.",Bức xạ sẽ rò rỉ ra từ một thành phần chì sau khi máy bay bị đốt cháy.,0
+"Ngay cả khi chiếc máy bay đang cháy, thì tại sao, ừ sao nó lại bị cháy và có thể tan chảy xuyên qua một thành phần bằng chì để bức xạ bị rò rỉ.",Bức xạ sẽ không bị rò rỉ trong một đám cháy.,2
+"Đây là Trung sĩ trưởng Clem Francis, đã nghỉ hưu từ Không quân Hoa Kỳ.",Người đứng đầu đã nghỉ hưu từ Không quân Hoa Kỳ.,0
+"Đây là Trung sĩ trưởng Clem Francis, đã nghỉ hưu từ Không quân Hoa Kỳ.",Bếp trưởng vừa mới nghỉ hưu cách đây vài tuần.,1
+"Đây là Trung sĩ trưởng Clem Francis, đã nghỉ hưu từ Không quân Hoa Kỳ.",Không quân Mỹ chỉ mới bắt đầu công việc của mình trong tuần này.,2
+"Vâng, có lúc có hai hoặc ba máy bay đến trong một tuần và tôi không biết họ đang bay đi đâu.",Có hơn một phi cơ đến mỗi tuần.,0
+"Vâng, có lúc có hai hoặc ba máy bay đến trong một tuần và tôi không biết họ đang bay đi đâu.",Lưu lượng máy bay tăng lên rất rắc rối.,1
+"Vâng, có lúc có hai hoặc ba máy bay đến trong một tuần và tôi không biết họ đang bay đi đâu.",Không bao giờ có máy bay nào bay đến.,2
+Họ đã luyện tập trong bộ com lê đầy áp lực và mất một thời gian nếu bạn mặc bộ quần áo đầy áp lực.,Phải mất đến ba tháng để hoàn thành khóa đào tạo về việc sử dụng bộ com lê áp lực đầy đủ.,1
+Họ đã luyện tập trong bộ com lê đầy áp lực và mất một thời gian nếu bạn mặc bộ quần áo đầy áp lực.,Đào tạo để sử dụng một bộ đồ áp lực tốn nhiều thời gian.,0
+Họ đã luyện tập trong bộ com lê đầy áp lực và mất một thời gian nếu bạn mặc bộ quần áo đầy áp lực.,Chúng tôi có thể giúp bạn luyện tập để mặc bộ com lê áp lực vào cuối ngày.,2
+"Tôi muốn nói rằng không có nguy cơ nào xảy ra với quả bom vì nó sẽ không nổ tung, bất kể nó khó đến thế nào.",Quả bom đã bị ngừng kích hoạt bởi phi công.,1
+"Tôi muốn nói rằng không có nguy cơ nào xảy ra với quả bom vì nó sẽ không nổ tung, bất kể nó khó đến thế nào.",Quả bom không có cơ hội nổ tung.,0
+"Tôi muốn nói rằng không có nguy cơ nào xảy ra với quả bom vì nó sẽ không nổ tung, bất kể nó khó đến thế nào.",Có một nguy cơ lớn là bom sẽ nổ.,2
+Nó trông đúng như điều tôi đang cố gắng thực hiện.,Tôi không chắc điều này trông như thế nào đối với bạn.,2
+Nó trông đúng như điều tôi đang cố gắng thực hiện.,Rõ ràng là tôi đang cố gắng làm điều này.,0
+Nó trông đúng như điều tôi đang cố gắng thực hiện.,Tôi đang cố hoàn thành dự án của mình vào tuần tới.,1
+"Nhưng dù sao đi nữa, những con vật sẽ bị mất toàn bộ thời gian, đặc biệt là những con dê.",Những con dê trốn thoát khỏi chuồng mỗi ngày.,1
+"Nhưng dù sao đi nữa, những con vật sẽ bị mất toàn bộ thời gian, đặc biệt là những con dê.",Những con dê thường xuyên trốn thoát.,0
+"Nhưng dù sao đi nữa, những con vật sẽ bị mất toàn bộ thời gian, đặc biệt là những con dê.",Những con dê được giữ an toàn.,2
+Cánh cửa bị khoá khi chúng tôi bước vào.,Tất cả các cửa đều mở.,2
+Cánh cửa bị khoá khi chúng tôi bước vào.,Chúng tôi có chìa khóa.,1
+Cánh cửa bị khoá khi chúng tôi bước vào.,Chúng tôi đã đi vào mặc dù cửa đã bị khóa.,0
+Nên tôi đã phải lấy cái tổng thể và cố gắng hình dung ra như thế đó.,Tôi tự tin rằng con số tổng là tất cả những gì tôi cần để giải quyết việc này.,1
+Nên tôi đã phải lấy cái tổng thể và cố gắng hình dung ra như thế đó.,Tôi không biết phải làm gì với chỉ tổng số xin vui lòng cho tôi biết thêm chi tiết để tìm ra mớ hỗn độn này.,2
+Nên tôi đã phải lấy cái tổng thể và cố gắng hình dung ra như thế đó.,Tôi sẽ tính toán nó dựa trên tổng số.,0
+và đó là phần lớn là do các bà mẹ đang dùng ma túy,Các bà mẹ là người nghiện ma tuý.,1
+và đó là phần lớn là do các bà mẹ đang dùng ma túy,Các bà mẹ không có các kê đơn hoặc sử dụng thuốc nào.,2
+và đó là phần lớn là do các bà mẹ đang dùng ma túy,Các bà mẹ dùng thuốc phiện.,0
+vâng thật tuyệt khi trời đang mưa,Tôi không nhớ cơn mưa.,1
+vâng thật tuyệt khi trời đang mưa,Trời đẹp và mưa.,0
+vâng thật tuyệt khi trời đang mưa,Nó thật khủng khiếp với việc ánh nắng không bao giờ kết thúc.,2
+oh cuộc sống con người đáng giá và liệu rằng có thể hồi sinh ai đó được không.,Tất cả mọi người đều xứng đáng được làm lại cuộc đời và có cơ hội thứ hai.,1
+oh cuộc sống con người đáng giá và liệu rằng có thể hồi sinh ai đó được không.,Không có con người nào xứng đáng được phục hồi.,2
+oh cuộc sống con người đáng giá và liệu rằng có thể hồi sinh ai đó được không.,"Bất kể phục hồi chức năng gì, cuộc sống vẫn quý báu.",0
+ôi trời bạn có một vấn đề dây dợ lạ lùng ở đó,Tôi chưa bao giờ nhìn thấy những vấn đề về đường dây như thế này trước đó.,1
+ôi trời bạn có một vấn đề dây dợ lạ lùng ở đó,Hệ thống dây điện không phải là vấn đề.,2
+ôi trời bạn có một vấn đề dây dợ lạ lùng ở đó,Đã có sự cố do hệ thống dây điện kỳ quặc này.,0
+"nghe có vẻ rất vui, vâng, nó thật là tuyệt vời với tôi về những thứ họ sẽ cho phép",Tôi chẳng ngạc nhiên chút nào khi thấy họ dễ giãi.,2
+"nghe có vẻ rất vui, vâng, nó thật là tuyệt vời với tôi về những thứ họ sẽ cho phép",Tôi ngạc nhiên rằng họ cho phép bạn ăn uống ở đó.,1
+"nghe có vẻ rất vui, vâng, nó thật là tuyệt vời với tôi về những thứ họ sẽ cho phép",Tôi ngạc nhiên về những gì họ có thể tránh xa.,0
+"À dù sao đi nữa, bọn trẻ nhà tôi đã 21 và 24 tuổi rồi, nên tôi không phải làm",Tôi không cần vì con tôi trên hai mươi tuổi.,0
+"À dù sao đi nữa, bọn trẻ nhà tôi đã 21 và 24 tuổi rồi, nên tôi không phải làm",Tôi có thể phải làm thế kể bởi vì họ gần bằng tuổi.,1
+"À dù sao đi nữa, bọn trẻ nhà tôi đã 21 và 24 tuổi rồi, nên tôi không phải làm",Tôi phải làm vậy vì cả hai đã mười và mười một tuổi.,2
+những người có thể làm việc bất cứ lúc nào hoặc quyết định của họ có thể bị che khuất nếu họ phải đưa ra quyết định,"Vâng, những người không thể thực hiện các cuộc gọi phán xét tốt nhất.",0
+những người có thể làm việc bất cứ lúc nào hoặc quyết định của họ có thể bị che khuất nếu họ phải đưa ra quyết định,"Yeah, mọi người có thể sẽ không đói bụng.",1
+những người có thể làm việc bất cứ lúc nào hoặc quyết định của họ có thể bị che khuất nếu họ phải đưa ra quyết định,"Vâng, những người mà năng lực quyết định của họ không bao giờ bị suy giảm.",2
+"không họ vẫn đang đi du lịch, họ đã đi du lịch từ cuối những năm 60",Họ đã đi du lịch từ trước năm 1970.,0
+"không họ vẫn đang đi du lịch, họ đã đi du lịch từ cuối những năm 60",Họ thích đi lưu diễn.,1
+"không họ vẫn đang đi du lịch, họ đã đi du lịch từ cuối những năm 60",Gần đây họ đã kết thúc chuyến lưu diễn của họ.,2
+bạn sẽ tập thể dục nhịp điệu như thế nào,Bạn có thể giải thích cách bạn thực hiện thể dục nhịp điệu không?,0
+bạn sẽ tập thể dục nhịp điệu như thế nào,Tôi quan tâm đến thể dục nhịp điệu vì tôi cần một số hoạt động trợ giúp tim mạch.,1
+bạn sẽ tập thể dục nhịp điệu như thế nào,Hãy ngừng nói về thể dục nhịp điệu.,2
+đó là một điều tốt tôi đã không nghĩ về điều đó,Đó là một ý tưởng ngu ngốc mà tôi đã bỏ qua tuần trước.,2
+đó là một điều tốt tôi đã không nghĩ về điều đó,Đó là một điểm hay.,0
+đó là một điều tốt tôi đã không nghĩ về điều đó,Nghịch lý bạn đề cập đến là một điểm tốt.,1
+chăm sóc ban ngày hai ngày một tuần họ gọi nó là chăm sóc ban ngày cho công dân cấp cao nhưng cô ấy đi đến trung tâm công dân cấp cao,Dịch vụ chăm sóc trẻ mở cửa hàng ngày chỉ cho trẻ dưới 5 tuổi.,2
+chăm sóc ban ngày hai ngày một tuần họ gọi nó là chăm sóc ban ngày cho công dân cấp cao nhưng cô ấy đi đến trung tâm công dân cấp cao,Họ làm cho họ đi nhiều hơn hai lần một tuần nếu các công dân cao niên được vào nó.,1
+chăm sóc ban ngày hai ngày một tuần họ gọi nó là chăm sóc ban ngày cho công dân cấp cao nhưng cô ấy đi đến trung tâm công dân cấp cao,"Họ nhắc đến nó như dịch vụ chăm sóc người cao tuổi, nhưng nó được gọi là trung tâm cao tuổi.",0
+ồ đó là mục tiêu của họ,Đó là những gì họ đã phấn đấu.,0
+ồ đó là mục tiêu của họ,Đó không phải là điều họ muốn.,2
+ồ đó là mục tiêu của họ,Họ đạt được mục đích.,1
+kiểm soát súng đồng nghĩa với việc dùng 2 tay,Một nửa số súng không nổ do việc sử dụng một tay.,1
+kiểm soát súng đồng nghĩa với việc dùng 2 tay,Cách tốt nhất để kiểm soát súng là sử dụng cả hai chân.,2
+kiểm soát súng đồng nghĩa với việc dùng 2 tay,Sử dụng cả hai tay nếu bạn muốn tập cách kiểm soát súng.,0
+và uh nhưng nó đột nhiên xuất hiện từ đâu đó tôi không biết nó đến từ đâu nhưng,Tôi không biết nó đến từ đâu nhưng nó rất nhanh.,0
+và uh nhưng nó đột nhiên xuất hiện từ đâu đó tôi không biết nó đến từ đâu nhưng,Nó đến nhanh chóng nhưng tôi biết nó có thể đến từ đâu.,1
+và uh nhưng nó đột nhiên xuất hiện từ đâu đó tôi không biết nó đến từ đâu nhưng,Nó đến giống như mật đường và tôi biết chính xác điều gì sẽ đến.,2
+"không trên thực tế, tôi thậm chí không quen thuộc với nó, tôi không nghĩ thế",Tôi không biết nhiều về nó.,0
+"không trên thực tế, tôi thậm chí không quen thuộc với nó, tôi không nghĩ thế",Tôi không biết gì về các vấn đề yêu thương.,1
+"không trên thực tế, tôi thậm chí không quen thuộc với nó, tôi không nghĩ thế",Tôi đã nghiên cứu điều ấy trong nhiều năm.,2
+"vâng, cô ấy rất tuyệt, bạn biết cô ấy",Tôi nghĩ cô ấy biết rằng cô ấy thật tuyệt vời.,1
+"vâng, cô ấy rất tuyệt, bạn biết cô ấy","Không, cô ấy thật khủng khiếp.",2
+"vâng, cô ấy rất tuyệt, bạn biết cô ấy","Vâng, cô ấy rất tốt.",0
+"vâng, anh ấy gợi ý là chỉ cần một cái chổi lau nhà giống cách bạn sẽ sử dụng",Ông đề nghị mua một chân không.,2
+"vâng, anh ấy gợi ý là chỉ cần một cái chổi lau nhà giống cách bạn sẽ sử dụng",Ông đề nghị tìm một cây lau.,0
+"vâng, anh ấy gợi ý là chỉ cần một cái chổi lau nhà giống cách bạn sẽ sử dụng",Anh ấy muốn rửa dọn chỗ dính máu bằng cây lau nhà.,1
+Bên ngoài khu này thật không ổn khi chúng tôi vừa trải qua một vụ đấu súng loạn xạ chỉ cách nhà mình khoảng ba dãy nhà,Vụ nổ súng đã xảy ra cách nơi tôi sống ít nhất 100 dặm.,2
+Bên ngoài khu này thật không ổn khi chúng tôi vừa trải qua một vụ đấu súng loạn xạ chỉ cách nhà mình khoảng ba dãy nhà,Vụ nổ súng gần nhà tôi và khiến tôi sợ phải ra ngoài.,1
+Bên ngoài khu này thật không ổn khi chúng tôi vừa trải qua một vụ đấu súng loạn xạ chỉ cách nhà mình khoảng ba dãy nhà,"Có một vụ nổ súng gần nhà tôi, nó thực sự không tốt trong khu vực này.",0
+ừ hừm đúng vậy nó thực là nó không thực sự ừm phù hợp,"Tôi không đồng ý với bạn, nó rất nhất quán.",2
+ừ hừm đúng vậy nó thực là nó không thực sự ừm phù hợp,Tôi nghĩ rằng bạn có thể chính xác về tính nhất quán của nó.,1
+ừ hừm đúng vậy nó thực là nó không thực sự ừm phù hợp,Bạn đúng khi nói rằng nó không kiên định.,0
+Tôi đang cố gắng để trụ lại,Tôi đang cố gắng bám trụ.,0
+Tôi đang cố gắng để trụ lại,Tôi thực sự đang làm hết sức mình.,1
+Tôi đang cố gắng để trụ lại,Tôi sẽ bỏ đi và không bao giờ nhìn lại.,2
+Chúng tôi bước vào tương lai công nghệ.,Chúng ta đang xây những thứ tiền thân cần thiết cho một tương lại công nghệ.,0
+Chúng tôi bước vào tương lai công nghệ.,"Chúng tôi xây dựng các bóng bán dẫn, do đó tương lai của chúng tôi sẽ được chạy bởi Al.",1
+Chúng tôi bước vào tương lai công nghệ.,Chúng tôi muốn ngăn ngừa công nghệ không thành công,2
+"Ví dụ, ở mức tối đa, tất cả các gen chuyển sang màu tím.","Ở mức tối đa, chỉ một nửa số gen có thể chuyển sang màu tía.",2
+"Ví dụ, ở mức tối đa, tất cả các gen chuyển sang màu tím.",Có thể cho các gen đổi màu.,0
+"Ví dụ, ở mức tối đa, tất cả các gen chuyển sang màu tím.",Đôi khi các gen cũng có thể chuyển sang màu xanh.,1
+Daniel Yamins là một nhà toán học trẻ xuất sắc.,Ông Yamins rất giỏi toán.,0
+Daniel Yamins là một nhà toán học trẻ xuất sắc.,Mục đích của thầy Yamin là hình học đại số.,1
+Daniel Yamins là một nhà toán học trẻ xuất sắc.,"Ông Yamins là một nghệ sĩ vĩ đại, nhưng lại là một nhà toán kém cỏi.",2
+"Và nếu vậy, họ có thường ở gần ranh giới đó không?",Tôi biết họ không bao giờ đi tới gần danh giới.,2
+"Và nếu vậy, họ có thường ở gần ranh giới đó không?","Tôi muốn biết, họ có thường xuyên ở Anh không?",1
+"Và nếu vậy, họ có thường ở gần ranh giới đó không?",Người nói muốn làm rõ về tần suất mà họ đến gần biên giới.,0
+"Và có, tôi nghĩ, một manh mối phân tử rằng sinh quyển liên tục tự tạo ra coconstructing trong chế độ sống sót cho một bộ truyền bá dòng họ.",Bầu khí quyển đã thay đổi rất nhiều.,0
+"Và có, tôi nghĩ, một manh mối phân tử rằng sinh quyển liên tục tự tạo ra coconstructing trong chế độ sống sót cho một bộ truyền bá dòng họ.",Không gian sinh học thay đổi theo nhiệt độ.,1
+"Và có, tôi nghĩ, một manh mối phân tử rằng sinh quyển liên tục tự tạo ra coconstructing trong chế độ sống sót cho một bộ truyền bá dòng họ.",Sinh quyển không bao giờ thay đổi.,2
+"Với bước nhảy vọt đó, một tinh thể thông thường không thể mã hóa nhiều thông tin.",Tinh thể thông thường là một phương tiện lưu trữ thông tin mật độ rất cao.,2
+"Với bước nhảy vọt đó, một tinh thể thông thường không thể mã hóa nhiều thông tin.",Các tinh thể thông thường không hữu ích cho việc mã hóa thông tin.,0
+"Với bước nhảy vọt đó, một tinh thể thông thường không thể mã hóa nhiều thông tin.",Có các loại tinh thể khác rất hữu ích để mã hóa thông tin địa lý bằng cách sử dụng chùm tia laser.,1
+"Do đó, người lớn không cần phải dạy trẻ mẫu giáo giả vờ, vì họ thỉnh thoảng làm vậy khi giúp chúng giải các câu đố hoặc các nhiệm vụ tương tự khác.",Trẻ mẫu giáo thường chơi trò chơi câu đố giỏi hơn các trò chơi nhập vai.,2
+"Do đó, người lớn không cần phải dạy trẻ mẫu giáo giả vờ, vì họ thỉnh thoảng làm vậy khi giúp chúng giải các câu đố hoặc các nhiệm vụ tương tự khác.",Trẻ mẫu giáo không cần nhiều sự giúp đỡ để học cách giả vờ.,0
+"Do đó, người lớn không cần phải dạy trẻ mẫu giáo giả vờ, vì họ thỉnh thoảng làm vậy khi giúp chúng giải các câu đố hoặc các nhiệm vụ tương tự khác.",Các học sinh mẫu giáo thiếu kĩ năng mô hình không gian để tự giỏi xếp hình.,1
+[Quốc gia này] được hình thành trong tự do và cùng với sự tuyên bố rằng tất cả mọi người đều được sinh ra bình đẳng.,Những ghi chép về đề nghị này đã được ghi lại ở một vài tài liệu ngoài.,1
+[Quốc gia này] được hình thành trong tự do và cùng với sự tuyên bố rằng tất cả mọi người đều được sinh ra bình đẳng.,Một số người tin rằng tất cả mọi người đều bình đẳng.,0
+[Quốc gia này] được hình thành trong tự do và cùng với sự tuyên bố rằng tất cả mọi người đều được sinh ra bình đẳng.,Quốc gia được thành lập trên niềm tin rằng một số người tự bẩm sinh tốt hơn những người khác.,2
+Tôi có nên khen anh ấy nữa không?,Tôi khá chắc chắn tôi cần phải đánh bại anh ta vì những thất bại của anh ấy.,2
+Tôi có nên khen anh ấy nữa không?,Tôi tự hỏi liệu anh ấy có cần sự đánh giá cao hơn từ tôi không.,0
+Tôi có nên khen anh ấy nữa không?,Tôi có nên ca ngợi anh ấy nhiều hơn cho màn trình diễn piano của anh ấy không?,1
+Các lý thuyết mạng spin có thể được xây dựng theo các chiều kích hướng.,Những mặt khác có thể được dùng để dựng các lý thuyết hệ thống xoay.,0
+Các lý thuyết mạng spin có thể được xây dựng theo các chiều kích hướng.,Các mạng xoay rất hữu ích cho công nghệ dự trữ dữ liệu.,1
+Các lý thuyết mạng spin có thể được xây dựng theo các chiều kích hướng.,Mạng spin không thể tưởng tượng được ở các kích thước khác nhau.,2
+"(một cách điên cuồng) Không, không, tôi không muốn bạn chết!",Tôi không muốn bạn chết!,0
+"(một cách điên cuồng) Không, không, tôi không muốn bạn chết!",Tôi không quan tâm nếu bạn chết!,2
+"(một cách điên cuồng) Không, không, tôi không muốn bạn chết!",Tôi sẽ rất thất vọng nếu bạn chết!,1
+"Ông bị treo cổ công khai vào ngày 19 tháng 3 năm 1875, tại San Jose, California.",California đã thực hiện hành quyết công khai vào cuối năm 1875.,0
+"Ông bị treo cổ công khai vào ngày 19 tháng 3 năm 1875, tại San Jose, California.",Ông đã được tha bổng cho tất cả các sai lầm và tiếp con đường của mình.,2
+"Ông bị treo cổ công khai vào ngày 19 tháng 3 năm 1875, tại San Jose, California.",Anh ta bị treo cổ vì đã xúi giục và trộm cắp ngựa.,1
+"Ở trạng thái hỗn loạn, nước biển xanh biếc lấp lánh đang lan ra.",Biển xanh đậm và mịn như thủy tinh.,2
+"Ở trạng thái hỗn loạn, nước biển xanh biếc lấp lánh đang lan ra.",Biển đầy những con cá nhỏ lao vào thuyền.,1
+"Ở trạng thái hỗn loạn, nước biển xanh biếc lấp lánh đang lan ra.",Biển đang xanh lá và xuất hiện bong bóng.,0
+Một trật tự pháp lý hoàn toàn mới đã được khao khát triển khai rõ ràng từ những bất ổn của những năm 1860.,"Vào thập niên 1870, tất cả các lệnh hợp pháp đã sụp đổ và đất nước bước vào thời kỳ bất ổn toàn diện.",2
+Một trật tự pháp lý hoàn toàn mới đã được khao khát triển khai rõ ràng từ những bất ổn của những năm 1860.,Thập niên 1860 là một thời điểm hỗn độn.,0
+Một trật tự pháp lý hoàn toàn mới đã được khao khát triển khai rõ ràng từ những bất ổn của những năm 1860.,Pháp lệnh mới muốn mở rộng quyền lao động.,1
+"Không thể bỏ qua những ý tưởng khôn ngoan, Bất kỳ hình thức tư duy cao hơn nào, ông chỉ ra, lần đầu tiên xuất hiện trong giao tiếp xã hội, giữa đứa trẻ và đại diện của văn hóa khi họ tham gia vào một hoạt động chung.",Trẻ em không có khả năng chia sẻ các hình thức suy nghĩ cao hơn.,2
+"Không thể bỏ qua những ý tưởng khôn ngoan, Bất kỳ hình thức tư duy cao hơn nào, ông chỉ ra, lần đầu tiên xuất hiện trong giao tiếp xã hội, giữa đứa trẻ và đại diện của văn hóa khi họ tham gia vào một hoạt động chung.",Câu cá là một hoạt động phổ biến được chia sẻ giữa nhiều nền văn hóa khác nhau.,1
+"Không thể bỏ qua những ý tưởng khôn ngoan, Bất kỳ hình thức tư duy cao hơn nào, ông chỉ ra, lần đầu tiên xuất hiện trong giao tiếp xã hội, giữa đứa trẻ và đại diện của văn hóa khi họ tham gia vào một hoạt động chung.",Chia sẻ các hoạt động chung là thường có ích cho việc chia sẻ các cách suy nghĩ cao hơn.,0
+"Một số khu dân cư có rezadores hoặc rezadoras, các nhà lãnh đạo tinh thần đã hướng dẫn cộng đồng trong lời cầu nguyện cho đám tang, lễ kỷ niệm ngày thánh và mỗi khi không có mặt các linh mục.",Không có khu dân cư nào có người lãnh đạo tinh thần mà không phải là linh mục.,2
+"Một số khu dân cư có rezadores hoặc rezadoras, các nhà lãnh đạo tinh thần đã hướng dẫn cộng đồng trong lời cầu nguyện cho đám tang, lễ kỷ niệm ngày thánh và mỗi khi không có mặt các linh mục.",Một số vùng lân cận có những nhà lãnh đạo tinh thần không phải là linh mục.,0
+"Một số khu dân cư có rezadores hoặc rezadoras, các nhà lãnh đạo tinh thần đã hướng dẫn cộng đồng trong lời cầu nguyện cho đám tang, lễ kỷ niệm ngày thánh và mỗi khi không có mặt các linh mục.",Một số vị lãnh đạo tôn giáo có tóc đen.,1
+"Trong vở kịch xã hội cũng vậy, cơ hội để hành động và phối hợp các vai trò khác nhau có thể giúp trẻ nắm bắt những điểm tương đồng và khác biệt giữa con người về ham muốn, niềm tin và cảm xúc.",Trẻ em có thể học để biêt con người giống và khác nhau ra sao.,0
+"Trong vở kịch xã hội cũng vậy, cơ hội để hành động và phối hợp các vai trò khác nhau có thể giúp trẻ nắm bắt những điểm tương đồng và khác biệt giữa con người về ham muốn, niềm tin và cảm xúc.",Trẻ nhỏ có thể nhận thấy sự khác biệt giữa các chủng tộc.,1
+"Trong vở kịch xã hội cũng vậy, cơ hội để hành động và phối hợp các vai trò khác nhau có thể giúp trẻ nắm bắt những điểm tương đồng và khác biệt giữa con người về ham muốn, niềm tin và cảm xúc.",Trẻ em không thể học được gì.,2
+"Sự nhân từ cao cả nhất của trật tự hiến pháp Đức sau chiến tranh, chính là nạn nhân lớn nhất của Đế Quốc Xã.",Chế độ Nazi cho phép điều đó.,2
+"Sự nhân từ cao cả nhất của trật tự hiến pháp Đức sau chiến tranh, chính là nạn nhân lớn nhất của Đế Quốc Xã.",Chế độ Đức quốc xã đã giết tất cả mọi người liên quan.,1
+"Sự nhân từ cao cả nhất của trật tự hiến pháp Đức sau chiến tranh, chính là nạn nhân lớn nhất của Đế Quốc Xã.",Chế độ Đức quốc xã đã ngăn chặn nó.,0
+Sonja đứa trẻ bắt đầu bắt chước cơn giận dữ của con gái mình.,Không ai đã cáu giận cả.,2
+Sonja đứa trẻ bắt đầu bắt chước cơn giận dữ của con gái mình.,Sonja là một đứa trẻ.,0
+Sonja đứa trẻ bắt đầu bắt chước cơn giận dữ của con gái mình.,Sonja đã bực mình.,1
+"6 Trong năm mươi lăm năm dẫn đến cuộc nội chiến, Tòa án sử dụng sức mạnh này một cách tiết kiệm.",Tòa Án đôi khi dùng quyền lực trong nhiều thập kỉ trước cuộc Nội Chiến.,0
+"6 Trong năm mươi lăm năm dẫn đến cuộc nội chiến, Tòa án sử dụng sức mạnh này một cách tiết kiệm.",Tòa án đã sử dụng quyền lực này 4 lần trong năm mươi lăm năm dẫn đến cuộc nội chiến.,1
+"6 Trong năm mươi lăm năm dẫn đến cuộc nội chiến, Tòa án sử dụng sức mạnh này một cách tiết kiệm.",Tòa án đã sử dụng quyền lực này 5 triệu lần trong năm mươi lăm năm dẫn đến Nội chiến.,2
+"Tôi đảm bảo với ngài, thưa ngài, rằng tôi đã được thông báo đầy đủ về tất cả.",Tôi nói với bạn rằng tôi đã được cung cấp kiến ​​thức về mọi thứ.,0
+"Tôi đảm bảo với ngài, thưa ngài, rằng tôi đã được thông báo đầy đủ về tất cả.",Đó là cái chết của thám tử mà tôi đã được thông báo.,1
+"Tôi đảm bảo với ngài, thưa ngài, rằng tôi đã được thông báo đầy đủ về tất cả.",Có nhiều chi tiết đang bí mật giấu kín với tôi.,2
+Những âm thanh làm rối loạn Captain Blood từ những suy nghĩ bất mãn của anh.,Captain Blood đã có thể nghĩ ra những suy nghĩ bất mãn của mình mà không bị gián đoạn.,2
+Những âm thanh làm rối loạn Captain Blood từ những suy nghĩ bất mãn của anh.,Suy nghĩ của Thuyền Trưởng Blood bị phá vỡ bởi một số tiếng động.,0
+Những âm thanh làm rối loạn Captain Blood từ những suy nghĩ bất mãn của anh.,Tiếng thét của con cún con làm rung chuyển đội trưởng khỏi sự rưng rưng của anh.,1
+"Nhưng tao không thể quên rằng khi tao phải sống không khác gì một nô lệ trong gia đình chú của mày ở Barbados, mày đã lợi dụng theo theo một cách mà trong đó còn một chút lòng tốt.",Bạn đối xử tử tế với tôi khi tôi là nô lệ ở Barbados.,0
+"Nhưng tao không thể quên rằng khi tao phải sống không khác gì một nô lệ trong gia đình chú của mày ở Barbados, mày đã lợi dụng theo theo một cách mà trong đó còn một chút lòng tốt.","Bạn vô cùng tàn nhẫn với tôi, và đối xử với tôi tệ hơn cả bụi bẩn.",2
+"Nhưng tao không thể quên rằng khi tao phải sống không khác gì một nô lệ trong gia đình chú của mày ở Barbados, mày đã lợi dụng theo theo một cách mà trong đó còn một chút lòng tốt.",Chú của bạn đánh tôi cứng hàng ngày khi anh ấy sở hữu tôi.,1
+"Ở đó, không xa hơn ba dặm, là đất - một bức tường không bằng phẳng của màu xanh lá cây sống động đã lấp đầy chân trời phía tây.",Một cảnh quan tươi tốt trong tầm mắt.,0
+"Ở đó, không xa hơn ba dặm, là đất - một bức tường không bằng phẳng của màu xanh lá cây sống động đã lấp đầy chân trời phía tây.",Hòn đảo mà họ đang hướng đến không có người ở.,1
+"Ở đó, không xa hơn ba dặm, là đất - một bức tường không bằng phẳng của màu xanh lá cây sống động đã lấp đầy chân trời phía tây.","Họ không thể nhìn thấy đất liền trong hàng dặm, chỉ có đại dương bất tận.",2
+"Tôi là sứ giả của Ngài Majesty đối với những bộ phận man rợ này, và người gần gũi của Chúa Sunderland.","Hoàng thượng có các phái viên, và tôi là một trong số họ.",0
+"Tôi là sứ giả của Ngài Majesty đối với những bộ phận man rợ này, và người gần gũi của Chúa Sunderland.",Bề trên gửi tôi tới đây khoảng một tuần trước.,1
+"Tôi là sứ giả của Ngài Majesty đối với những bộ phận man rợ này, và người gần gũi của Chúa Sunderland.",Tôi không nhận lệnh từ Hoàng thượng.,2
+"Anh nợ em điều đó--hoặc chí ít là anh nghĩ vậy, anh ấy nói.",Anh ấy chưa bao giờ nghĩ rằng anh nợ bạn bất cứ điều gì.,2
+"Anh nợ em điều đó--hoặc chí ít là anh nghĩ vậy, anh ấy nói.",Ông ta nợ bạn vì sự giúp đỡ bạn đã cho anh ta như một kẻ ăn xin không có tiền.,1
+"Anh nợ em điều đó--hoặc chí ít là anh nghĩ vậy, anh ấy nói.",Anh ấy nghĩ anh ấy nợ bạn điều gì đó.,0
+Đáng lẽ ra Tôi nên biết rõ hơn là đến gần Jamaica vào ban đêm.,Tôi đi gần Jamaica sau khi mặt trời lặn.,0
+Đáng lẽ ra Tôi nên biết rõ hơn là đến gần Jamaica vào ban đêm.,Tôi đi đến Jamaica bằng một chiếc thuyền lớn.,1
+Đáng lẽ ra Tôi nên biết rõ hơn là đến gần Jamaica vào ban đêm.,Vợ tôi và tôi đến Jamaica vào ban ngày.,2
+Blood đã suy nghĩ về điều này và những việc khác khi anh ấy nằm dài trên ghế sofa.,Máu ngủ một giấc mơ vô tư trên chiếc giường ban ngày.,2
+Blood đã suy nghĩ về điều này và những việc khác khi anh ấy nằm dài trên ghế sofa.,Máu đang ruminating trong khi nằm xuống.,0
+Blood đã suy nghĩ về điều này và những việc khác khi anh ấy nằm dài trên ghế sofa.,Blood đang suy nghĩ rất nhiều về lần cuối cùng anh nhìn thấy mẹ.,1
+"Chắc chắn rồi, thế thì, tôi sẽ nói với anh.","Được rồi, tôi sẽ nói với bạn về nó.",0
+"Chắc chắn rồi, thế thì, tôi sẽ nói với anh.",Tôi sẽ không nói một lời nào với bạn.,2
+"Chắc chắn rồi, thế thì, tôi sẽ nói với anh.",Chỉ vì bạn hứa sẽ không lặp lại điều này mà tôi đang nói với bạn.,1
+Ah! Và cách đó có thể là gì?,Ai đó đang hỏi đường nào để đi.,0
+Ah! Và cách đó có thể là gì?,Người hỏi đơn độc và không có ai xung quanh để trao đổi.,2
+Ah! Và cách đó có thể là gì?,Người hỏi đang vội vàng và cần biết ngay con đường để đi.,1
+Tôi không ban sự tín nhiệm của Vua một cách dễ dàng.,Cho hoa hồng của Vua đi ngược lại đạo đức của tôi.,1
+Tôi không ban sự tín nhiệm của Vua một cách dễ dàng.,Tôi đã suy nghĩ rất nhiều về hoa hồng của nhà vua.,0
+Tôi không ban sự tín nhiệm của Vua một cách dễ dàng.,Tôi kí tờ giấy chứng minh để cấp lệnh của Vua không cần nghĩ lại.,2
+Anh nhận ra rằng anh có thể phải nhanh chóng lui đi.,Anh nhận ra rằng anh có cả ngày để rút lui.,2
+Anh nhận ra rằng anh có thể phải nhanh chóng lui đi.,Anh nhận ra mình phải di chuyển nhanh.,0
+Anh nhận ra rằng anh có thể phải nhanh chóng lui đi.,"Nếu anh ta đã ở cùng một chỗ, anh ta sẽ bị phát hiện",1
+"Tuy nhiên, những gì anh đã làm và đã làm những gì trong ba năm qua, cô ấy nói, nhưng cô ấy đã nói  một cách  buồn bã bây giờ, mà không có bất kỳ sự khinh bỉ nào trước đó của cô.",Cô không thích rằng anh đã giết nhiều người đàn ông trong ba năm qua.,1
+"Tuy nhiên, những gì anh đã làm và đã làm những gì trong ba năm qua, cô ấy nói, nhưng cô ấy đã nói  một cách  buồn bã bây giờ, mà không có bất kỳ sự khinh bỉ nào trước đó của cô.",Cô ấy nói một cách đầy hạnh phúc  về các chuyến đi và cá tính của anh ấy.,2
+"Tuy nhiên, những gì anh đã làm và đã làm những gì trong ba năm qua, cô ấy nói, nhưng cô ấy đã nói  một cách  buồn bã bây giờ, mà không có bất kỳ sự khinh bỉ nào trước đó của cô.",Cô ấy nói với tông màu buồn.,0
+Tôi cho rằng nó còn tụt sau sự tốt bụng của cô.,Tôi cho rằng đây là thứ mà bạn làm.,0
+Tôi cho rằng nó còn tụt sau sự tốt bụng của cô.,Tôi đã đọc về loại hình của bạn và văn hóa của họ.,1
+Tôi cho rằng nó còn tụt sau sự tốt bụng của cô.,Tôi cho rằng điều này không phổ biến đối với các bạn.,2
+Cái nhíu mày cau mặt của cô ấy.,Một nụ cười lớn lan ra trên mặt cô.,2
+Cái nhíu mày cau mặt của cô ấy.,Cô cảm thấy một cảm giác đau đớn trong bụng.,1
+Cái nhíu mày cau mặt của cô ấy.,Có một sự cau có trên mặt cô ta.,0
+"Cô đã quan sát anh với đôi mắt sáng ngời, nhưng khi nhìn thấy vẻ mặt chán nản của anh ấy, và cái cau mày sâu thẳm của anh, nét mặt của cô ấy đã thay đổi.",Biểu hiện của cô thay đổi sau khi cô nhìn thấy khuôn mặt anh.,0
+"Cô đã quan sát anh với đôi mắt sáng ngời, nhưng khi nhìn thấy vẻ mặt chán nản của anh ấy, và cái cau mày sâu thẳm của anh, nét mặt của cô ấy đã thay đổi.",Khuôn mặt cô sáng lên khi cô thấy anh ấy cau mày.,2
+"Cô đã quan sát anh với đôi mắt sáng ngời, nhưng khi nhìn thấy vẻ mặt chán nản của anh ấy, và cái cau mày sâu thẳm của anh, nét mặt của cô ấy đã thay đổi.",Cô không biết liệu anh có giận cô không.,1
+"Đi dạo nhàn nhã, anh ta bước chân vào bức tường được dựng lên, và đi qua những cánh cổng lớn vào sân.","Vì những cánh cổng lớn bị khóa, anh ta nhảy qua hàng rào, vào sân.",2
+"Đi dạo nhàn nhã, anh ta bước chân vào bức tường được dựng lên, và đi qua những cánh cổng lớn vào sân.",Những chiếc cổng lớn là lối duy nhất dẫn vào sân.,1
+"Đi dạo nhàn nhã, anh ta bước chân vào bức tường được dựng lên, và đi qua những cánh cổng lớn vào sân.",Có những cánh cổng lớn dẫn vào sân.,0
+"Bạn sẽ trói nó vào giá treo cổ, không còn nghi ngờ, ông nói khinh thường.",Anh nghĩ ai đó sẽ đi đến giá treo cổ.,0
+"Bạn sẽ trói nó vào giá treo cổ, không còn nghi ngờ, ông nói khinh thường.",Anh ta là một cảnh sát trưởng đã bắt được một tên trộm.,1
+"Bạn sẽ trói nó vào giá treo cổ, không còn nghi ngờ, ông nói khinh thường.",Anh ấy thì thầm về một cách trốn khỏi đất nước để tránh bị giam cầm.,2
+Làm sao tôi có thể thành thật mà bắt giữ họ? Đó là một sự mặc cả.,Tôi không thể mang bản thân mình ra cản trở họ.,0
+Làm sao tôi có thể thành thật mà bắt giữ họ? Đó là một sự mặc cả.,Tôi sẽ giữ bọn chúng ngay khi tôi thấy chúng.,2
+Làm sao tôi có thể thành thật mà bắt giữ họ? Đó là một sự mặc cả.,"Tôi sẽ không tha thứ cho bản thân mình, nếu tôi đã bắt giữ họ.",1
+Tôi đã săn lùng anh ta suốt cả năm qua.,Tôi đã theo anh ấy rất sát gần cả một năm mà không biết anh ấy.,1
+Tôi đã săn lùng anh ta suốt cả năm qua.,Tôi chỉ mới theo dõi anh ta gần một tuần.,2
+Tôi đã săn lùng anh ta suốt cả năm qua.,"Trong suốt năm qua, tôi đã theo dõi anh ta.",0
+Bảo tàng làm không tốt việc xây dựng danh mục hoặc ghi nhãn,Viện bảo tàng không muốn nhãn hiệu.,1
+Bảo tàng làm không tốt việc xây dựng danh mục hoặc ghi nhãn,Bảo tàng không hứng thú với tài liệu quảng cáo.,0
+Bảo tàng làm không tốt việc xây dựng danh mục hoặc ghi nhãn,Điểm mạnh của bảo tàng là danh mục.,2
+Những thị trường ngoài trời này cũng là những nơi thú vị nhất để mua sắm ở Bắc Kinh.,Bắc Kinh có rất nhiều chợ trời trong đó có các cửa hàng rất thú vị.,0
+Những thị trường ngoài trời này cũng là những nơi thú vị nhất để mua sắm ở Bắc Kinh.,Các chợ ngoài trời ở Bắc Kinh là thú vị nhất trên thế giới.,1
+Những thị trường ngoài trời này cũng là những nơi thú vị nhất để mua sắm ở Bắc Kinh.,Luật nghiêm ngặt ở Bắc Kinh cấm chợ trời trong phạm vi thành phố.,2
+"Vịnh lớn nhất trên bờ biển phía tây bắc trở thành một bến cảng tốt, nhưng điều này có thể làm ô nhiễm cả nguồn nước và bải biển.",Nước và bãi biển luôn sạch sẽ.,2
+"Vịnh lớn nhất trên bờ biển phía tây bắc trở thành một bến cảng tốt, nhưng điều này có thể làm ô nhiễm cả nguồn nước và bải biển.",Nước và bãi biển có thể bị bẩn.,0
+"Vịnh lớn nhất trên bờ biển phía tây bắc trở thành một bến cảng tốt, nhưng điều này có thể làm ô nhiễm cả nguồn nước và bải biển.",Nước bị bẩn vì ô nhiễm.,1
+Những tòa nhà chọc trời này là ngân hàng và đường phố mà họ đứng được đặt biệt danh là Milla de Oro hoặc Golden Mile.,Không có một toà nhà aco tầng nào ở Golden Mile là ngân hàng.,2
+Những tòa nhà chọc trời này là ngân hàng và đường phố mà họ đứng được đặt biệt danh là Milla de Oro hoặc Golden Mile.,Các tòa nhà chọc trời ở Golden Mile là ngân hàng.,0
+Những tòa nhà chọc trời này là ngân hàng và đường phố mà họ đứng được đặt biệt danh là Milla de Oro hoặc Golden Mile.,"Các toà nhà cao tầng ở Golden Mile luôn khác biệt về loại hình kinh doanh, bao gồm cả ngân hàng.",1
+"Theo cách tự nhiên vừa đủ, thì, sự liên quan đến Chiến Tranh Thế Giới thứ 2 bắt đầu với kế hoạch đào tạo của không quân Liên bang Anh, sử dụng bầu trời an toàn hơn của Canada để chuẩn bị các phi công chiến đấu.",Canada có bầu trời an toàn hơn.,0
+"Theo cách tự nhiên vừa đủ, thì, sự liên quan đến Chiến Tranh Thế Giới thứ 2 bắt đầu với kế hoạch đào tạo của không quân Liên bang Anh, sử dụng bầu trời an toàn hơn của Canada để chuẩn bị các phi công chiến đấu.",Bầu trời Canada không có tên lửa.,1
+"Theo cách tự nhiên vừa đủ, thì, sự liên quan đến Chiến Tranh Thế Giới thứ 2 bắt đầu với kế hoạch đào tạo của không quân Liên bang Anh, sử dụng bầu trời an toàn hơn của Canada để chuẩn bị các phi công chiến đấu.",Bầu trời của Canada nguy hiểm hơn.,2
+"Và họ tiếp tục bao dung và hữu ích, dù họ biết bờ biển yêu quý của họ không chỉ của riêng họ nữa.",Họ cay đắng và oán giận với mọi người bây giờ rằng họ phải chia sẻ bờ biển.,2
+"Và họ tiếp tục bao dung và hữu ích, dù họ biết bờ biển yêu quý của họ không chỉ của riêng họ nữa.",Bây giờ họ phải chia sẻ bờ biển với những người khác.,0
+"Và họ tiếp tục bao dung và hữu ích, dù họ biết bờ biển yêu quý của họ không chỉ của riêng họ nữa.",Họ từng có năm trăm dặm mặt tiền ven biển.,1
+"Kublai Khan dựng lên thủ đô của riêng mình vào năm 1279 trên bờ hồ Bắc Hải, Bắc Kinh, nơi một số kho báu hoàng gia của ông vẫn được trưng bày ngày hôm nay.",Kublai Khan xây dựng một thủ đô ở Đài Loan.,2
+"Kublai Khan dựng lên thủ đô của riêng mình vào năm 1279 trên bờ hồ Bắc Hải, Bắc Kinh, nơi một số kho báu hoàng gia của ông vẫn được trưng bày ngày hôm nay.",Kublai Khan có kho báu ở Bắc Kinh.,0
+"Kublai Khan dựng lên thủ đô của riêng mình vào năm 1279 trên bờ hồ Bắc Hải, Bắc Kinh, nơi một số kho báu hoàng gia của ông vẫn được trưng bày ngày hôm nay.",Kublai Khan là một người rất được tôn trọng.,1
+"Đồng hóa dễ dàng hơn với cộng đồng người Anglo chỉ các trường Tin Lành mới chấp nhận con cái Người Đông Âu người Do Thái đã tốt nghiệp với Westmount giàu có hoặc di cư, một lần nữa, đến Toronto.",Người Do Thái ở Đông Âu đồng hóa tốt với tất cả mọi người.,2
+"Đồng hóa dễ dàng hơn với cộng đồng người Anglo chỉ các trường Tin Lành mới chấp nhận con cái Người Đông Âu người Do Thái đã tốt nghiệp với Westmount giàu có hoặc di cư, một lần nữa, đến Toronto.",Người Do thái không được chào đón bởi phần còn lại của cộng đồng.,1
+"Đồng hóa dễ dàng hơn với cộng đồng người Anglo chỉ các trường Tin Lành mới chấp nhận con cái Người Đông Âu người Do Thái đã tốt nghiệp với Westmount giàu có hoặc di cư, một lần nữa, đến Toronto.",Người Do Thái đồng hóa dễ dàng hơn với cộng đồng Anglo.,0
+"Nếu có thể, hãy tự làm quen với kịch bản trước.",Đừng vào cốt truyện trước; nó sẽ làm hỏng cuộc vui sau này.,2
+"Nếu có thể, hãy tự làm quen với kịch bản trước.","Cố gắng hiểu cốt truyện trước, nếu bạn có thể.",0
+"Nếu có thể, hãy tự làm quen với kịch bản trước.",Bạn sẽ thấy lớp học dễ dàng hơn nếu bạn hiểu cốt truyện của cuốn sách.,1
+"Ông được chôn dưới khoảng cách, 27 m (88 ft) dưới mặt đất, được làm bằng đá cẩm thạch và bao gồm 1.200 mét vuông (13.000 sq ft).",Ông được chôn dưới lòng đất hơn 20m.,0
+"Ông được chôn dưới khoảng cách, 27 m (88 ft) dưới mặt đất, được làm bằng đá cẩm thạch và bao gồm 1.200 mét vuông (13.000 sq ft).",Ông là một nhân vật quan trọng của công chúng.,1
+"Ông được chôn dưới khoảng cách, 27 m (88 ft) dưới mặt đất, được làm bằng đá cẩm thạch và bao gồm 1.200 mét vuông (13.000 sq ft).",Khoang chôn cất của ông ấy được làm từ gỗ.,2
+Hãy nhớ giấu tất cả đồ dùng cầm tay khỏi đámn khỉ.,Hãy giấu tài sản của bạn khỏi những con khỉ.,0
+Hãy nhớ giấu tất cả đồ dùng cầm tay khỏi đámn khỉ.,"Những con khỉ rất quan tâm đến nhiều thứ, bao gồm cả những đồ vật của bạn.",1
+Hãy nhớ giấu tất cả đồ dùng cầm tay khỏi đámn khỉ.,Bạn không cần phải che giấu tài sản của bạn từ những con khỉ.,2
+"Khoảng 1,400 năm trước khi Cung điện Estei dựng lên, Milreu cũng là biệt thự nông thôn của một người kiệt xuất.",Milreu cách 10 dặm từ bất cứ đâu.,1
+"Khoảng 1,400 năm trước khi Cung điện Estei dựng lên, Milreu cũng là biệt thự nông thôn của một người kiệt xuất.",Milreu đi chơi ở vùng quê.,0
+"Khoảng 1,400 năm trước khi Cung điện Estei dựng lên, Milreu cũng là biệt thự nông thôn của một người kiệt xuất.",Milreu đã ở ngay trung tâm thành phố.,2
+Nhiệt độ của nước biển dao động từ  18e tới 24e (64-75e F).,"Nhiệt độ biển luôn thay đổi, nhưng chúng không dưới nhiệt độ đóng băng.",0
+Nhiệt độ của nước biển dao động từ  18e tới 24e (64-75e F).,Nhiệt độ biển luôn ở một điểm cố định quanh năm.,2
+Nhiệt độ của nước biển dao động từ  18e tới 24e (64-75e F).,"Xem nhiệt độ cao hơn trong ngày, khi trời ấm hơn.",1
+Vườn quốc gia Kinabalu chỉ là một trong sáu khu vực được bảo vệ trong tiểu bang.,Công viên quốc gia Kinabalu có mười con voi và sáu con tê giác.,1
+Vườn quốc gia Kinabalu chỉ là một trong sáu khu vực được bảo vệ trong tiểu bang.,"Tiểu bang có các khu vực được bảo vệ, bao gồm công viên quốc gia Kinabalu.",0
+Vườn quốc gia Kinabalu chỉ là một trong sáu khu vực được bảo vệ trong tiểu bang.,Có tổng cộng ba khu vực được bảo vệ trong tiểu bang.,2
+Bạn sẽ thấy các video về câu chuyện của Anne và về Amsterdam cùng các bức ảnh và hiện vật thời đó.,Bạn sẽ không thấy ảnh.,2
+Bạn sẽ thấy các video về câu chuyện của Anne và về Amsterdam cùng các bức ảnh và hiện vật thời đó.,Bạn sẽ thấy các bức ảnh.,0
+Bạn sẽ thấy các video về câu chuyện của Anne và về Amsterdam cùng các bức ảnh và hiện vật thời đó.,Bạn sẽ nhìn thấy một số bức ảnh đầu tiên.,1
+"Treasure Beach là khu nghỉ mát duy nhất để nói chuyện, chỉ với một số ít các khách sạn trải dài trên ba vịnh cát.",Không có nhiều lựa chọn khách sạn cho những người ghé thăm Treasure Beach.,0
+"Treasure Beach là khu nghỉ mát duy nhất để nói chuyện, chỉ với một số ít các khách sạn trải dài trên ba vịnh cát.",Có một khách sạn bốn sao dành cho khách du lịch ghé thăm Treasure Beach.,1
+"Treasure Beach là khu nghỉ mát duy nhất để nói chuyện, chỉ với một số ít các khách sạn trải dài trên ba vịnh cát.",Treasure Beach là một trong nhiều khu nghỉ dưỡng trong khu vực.,2
+"Mùa hè mang lại thời tiết ấm áp (nhưng không nóng) và nhiệt độ biển ấm áp, rất lý tưởng cho lặn sâu, lặn với ống thở và các môn thể thao dưới nước khác.",Trời luôn nóng 100 độ hoặc nóng hơn vào mùa hè.,2
+"Mùa hè mang lại thời tiết ấm áp (nhưng không nóng) và nhiệt độ biển ấm áp, rất lý tưởng cho lặn sâu, lặn với ống thở và các môn thể thao dưới nước khác.",Nó thường thường là 75 vào mùa hè.,1
+"Mùa hè mang lại thời tiết ấm áp (nhưng không nóng) và nhiệt độ biển ấm áp, rất lý tưởng cho lặn sâu, lặn với ống thở và các môn thể thao dưới nước khác.",Nhiệt độ trở nên ấm vào mùa hè.,0
+"Trong số các ao này có một cái ao chứa các đồng xu lẻ do du khách quăng vào với hy vọng đầu rùa sẽ nổi lên, điều chắc chắn sẽ có được điềm lành.",Mọi người không bao giờ ném tiền vào bởi vì đó là may mắn.,2
+"Trong số các ao này có một cái ao chứa các đồng xu lẻ do du khách quăng vào với hy vọng đầu rùa sẽ nổi lên, điều chắc chắn sẽ có được điềm lành.",Mọi người ném các đồng xu mặc dù có biển chỉ dẫn không được làm như thế.,1
+"Trong số các ao này có một cái ao chứa các đồng xu lẻ do du khách quăng vào với hy vọng đầu rùa sẽ nổi lên, điều chắc chắn sẽ có được điềm lành.",Người ta ném những đồng xu xuống nước.,0
+"Thị trấn cảng Nafplio là địa điểm hoàn hảo để tham quan khu vực, hoặc có lẽ là nơi nên đến ăn trưa trong chuyến du lịch của bạn.",Nafplio có một tầm nhìn tốt.,1
+"Thị trấn cảng Nafplio là địa điểm hoàn hảo để tham quan khu vực, hoặc có lẽ là nơi nên đến ăn trưa trong chuyến du lịch của bạn.",Nafplio là một cơ sở tồi tệ.,2
+"Thị trấn cảng Nafplio là địa điểm hoàn hảo để tham quan khu vực, hoặc có lẽ là nơi nên đến ăn trưa trong chuyến du lịch của bạn.",Nafplio là một cơ sở hoàn hảo.,0
+"Trong Prinsengracht, Otto Frank và gia đình trốn trong căn gác của cơ sở kinh doanh của họ trong hơn hai năm trước khi bị phát hiện.",Otto Frank bị bắt vào ngày thứ hai.,2
+"Trong Prinsengracht, Otto Frank và gia đình trốn trong căn gác của cơ sở kinh doanh của họ trong hơn hai năm trước khi bị phát hiện.",Otto Frank đã trốn hơn 25 tháng.,0
+"Trong Prinsengracht, Otto Frank và gia đình trốn trong căn gác của cơ sở kinh doanh của họ trong hơn hai năm trước khi bị phát hiện.",Otto Frank trốn cho đến khi Đức quốc xã tìm thấy anh ta.,1
+Nhiều chính quyền tiểu bang và địa phương có các yêu cầu kiểm toán bổ sung.,Chính quyền địa phương có thể tạo nên các quy tắc của riêng họ.,1
+Nhiều chính quyền tiểu bang và địa phương có các yêu cầu kiểm toán bổ sung.,Chính quyền địa phương không có bất cứ yêu cầu nào.,2
+Nhiều chính quyền tiểu bang và địa phương có các yêu cầu kiểm toán bổ sung.,Có thêm các vấn đề về yêu cầu kiểm toán từ chính quyền địa phương.,0
+Nhóm bảo mật thông tin thực hiện từ 8 đến 12 phiên mỗi tháng.,Nhóm bảo mật họp trung bình 9 phiên một tháng.,1
+Nhóm bảo mật thông tin thực hiện từ 8 đến 12 phiên mỗi tháng.,Nhóm bảo mật tiến hành một phiên họp mỗi ngày trong tháng.,2
+Nhóm bảo mật thông tin thực hiện từ 8 đến 12 phiên mỗi tháng.,Nhóm an ninh tiến hành nhiều khoá  trong một năm.,0
+"Tuy nhiên, kỹ thuật sơ bộ đã hoàn thành sớm hơn.",Kỹ thuật đã có một giai đoạn sơ bộ.,0
+"Tuy nhiên, kỹ thuật sơ bộ đã hoàn thành sớm hơn.",Kỹ thuật chỉ xảy ra trong giai đoạn cuối cùng.,2
+"Tuy nhiên, kỹ thuật sơ bộ đã hoàn thành sớm hơn.","Không có giai đoạn sơ bộ, kỹ thuật có thể sẽ thất bại ở các giai đoạn sau.",1
+"Do đó, các nhà lập pháp và nhà quản lý của chính phủ đang áp dụng các cách suy nghĩ mới, xem xét các cách khác nhau để đạt được mục tiêu và sử dụng thông tin mới để hướng dẫn các quyết định.",Đại diện từ phía Chính phủ đang thay đổi cách tiếp cận của họ.,0
+"Do đó, các nhà lập pháp và nhà quản lý của chính phủ đang áp dụng các cách suy nghĩ mới, xem xét các cách khác nhau để đạt được mục tiêu và sử dụng thông tin mới để hướng dẫn các quyết định.",Các đại diện chính phủ đang cố gắng tăng sức mạnh của mình bằng cách suy nghĩ khác đi.,1
+"Do đó, các nhà lập pháp và nhà quản lý của chính phủ đang áp dụng các cách suy nghĩ mới, xem xét các cách khác nhau để đạt được mục tiêu và sử dụng thông tin mới để hướng dẫn các quyết định.",Đại diện chính phủ từ chối thay đổi cách sống của họ.,2
+Tài liệu về vụ việc có thể cần được dịch cho những khách hàng đọc một ngôn ngữ không phải Tiếng anh.,Các tệp hồ sơ chỉ được phép bằng tiếng Anh.,2
+Tài liệu về vụ việc có thể cần được dịch cho những khách hàng đọc một ngôn ngữ không phải Tiếng anh.,Các tệp hồ sơ có thể được đặt bằng tiếng Trung hoặc tiếng Nga.,1
+Tài liệu về vụ việc có thể cần được dịch cho những khách hàng đọc một ngôn ngữ không phải Tiếng anh.,Các tệp hồ sơ có thể được đặt bằng các ngôn ngữ khác.,0
+Các nỗ lực khác hiện đang được tiến hành hoặc lên kế hoạch bao gồm,Phần lớn những nỗ lực của chúng tôi đã bắt đầu được vận hành.,1
+Các nỗ lực khác hiện đang được tiến hành hoặc lên kế hoạch bao gồm,Chúng tôi không có kế hoạch nào khác cho tương lai.,2
+Các nỗ lực khác hiện đang được tiến hành hoặc lên kế hoạch bao gồm,Chúng tôi đã lên kế hoạch một số thứ.,0
+"Bao gồm các yếu tố như khung thời gian ngắn, việc xóa các tệp máy tính gốc và thiếu quyền truy cập vào các tài liệu cần thiết.",Họ đã xóa các tệp máy tính khỏi IBM.,1
+"Bao gồm các yếu tố như khung thời gian ngắn, việc xóa các tệp máy tính gốc và thiếu quyền truy cập vào các tài liệu cần thiết.",Họ đã xóa các tệp máy tính gốc.,0
+"Bao gồm các yếu tố như khung thời gian ngắn, việc xóa các tệp máy tính gốc và thiếu quyền truy cập vào các tài liệu cần thiết.",Tôi giữ tất cả các tài liệu gốc.,2
+"Sau đó, vẫn là người đại diện đã thực hiện chuyến thăm đầu tiên, đến gặp lại nhà cung cấp mới để trả lời các câu hỏi và thảo luận bất kỳ vấn đề nào được nêu trong mẫu khiếu nại.",Người đại diện đã ghé thăm trong một giờ.,1
+"Sau đó, vẫn là người đại diện đã thực hiện chuyến thăm đầu tiên, đến gặp lại nhà cung cấp mới để trả lời các câu hỏi và thảo luận bất kỳ vấn đề nào được nêu trong mẫu khiếu nại.",Có một cuộc viếng thăm của một đại diện.,0
+"Sau đó, vẫn là người đại diện đã thực hiện chuyến thăm đầu tiên, đến gặp lại nhà cung cấp mới để trả lời các câu hỏi và thảo luận bất kỳ vấn đề nào được nêu trong mẫu khiếu nại.",Chúng tôi không bao giờ có khách tới thăm.,2
+"Việc tiết kiệm không chỉ ảnh hưởng đến cổ phiếu của cải, nhưng sự giàu có lần lượt ảnh hưởng đến sự lựa chọn để tiết kiệm.",Một người tiết kiệm được hay không bị ảnh hưởng bởi sự giàu có của họ.,0
+"Việc tiết kiệm không chỉ ảnh hưởng đến cổ phiếu của cải, nhưng sự giàu có lần lượt ảnh hưởng đến sự lựa chọn để tiết kiệm.",Giàu có và tiết kiệm thường không có liên quan trong bất kỳ hoàn cảnh nào.,2
+"Việc tiết kiệm không chỉ ảnh hưởng đến cổ phiếu của cải, nhưng sự giàu có lần lượt ảnh hưởng đến sự lựa chọn để tiết kiệm.",Những người giàu có thường sẽ tiết kiệm phần lớn thu nhập của họ.,1
+"Ví dụ, một tổ chức mà chúng tôi nghiên cứu đã trải qua hai vụ sáp nhập yêu cầu công ty nhanh chóng tích hợp các doanh nghiệp mới và tái cơ cấu để đáp ứng nhu cầu kinh doanh ngày càng tăng.","Mặc dù có hai vụ sáp nhập, không cần công ty phải thực hiện tái cơ cấu hệ thống phân cấp công ty của họ.",2
+"Ví dụ, một tổ chức mà chúng tôi nghiên cứu đã trải qua hai vụ sáp nhập yêu cầu công ty nhanh chóng tích hợp các doanh nghiệp mới và tái cơ cấu để đáp ứng nhu cầu kinh doanh ngày càng tăng.",Việc sáp nhập hai công ty thành một tổ chức và tái cơ cấu dẫn đến một môi trường làm việc hỗn loạn.,1
+"Ví dụ, một tổ chức mà chúng tôi nghiên cứu đã trải qua hai vụ sáp nhập yêu cầu công ty nhanh chóng tích hợp các doanh nghiệp mới và tái cơ cấu để đáp ứng nhu cầu kinh doanh ngày càng tăng.",Chúng tôi kiểm tra một công ty đã trải qua hai lần sát nhập và phải nhanh chóng cơ cấu lại để đạt được yêu cầu kinh doanh của họ.,0
+"bản thiết kế, chúng tôi lo ngại rằng việc thanh toán sẽ được duyệt trước khi xác minh rằng chuyến đi đã thực sự diễn ra.",Chúng tôi biết việc thanh toán sẽ mất nhiều thời gian.,2
+"bản thiết kế, chúng tôi lo ngại rằng việc thanh toán sẽ được duyệt trước khi xác minh rằng chuyến đi đã thực sự diễn ra.",Chúng tôi nghĩ rằng việc thanh toán có thể đã được tiến hành trước khi xác minh.,0
+"bản thiết kế, chúng tôi lo ngại rằng việc thanh toán sẽ được duyệt trước khi xác minh rằng chuyến đi đã thực sự diễn ra.",Chúng tôi đã nghĩ rằng việc thanh toán có thể diễn ra quá sớm và chúng tôi sẽ bị lừa.,1
+"Công nghệ được tích hợp chặt chẽ với các quy trình kinh doanh trong các tổ chức này bởi vì công nghệ được xem như là một yếu tố kích hoạt cho doanh nghiệp, không chỉ là một công cụ.",Phần mềm lập lịch trình nâng cao là một trong những công nghệ chủ chốt mà doanh nghiệp tập trung vào.,1
+"Công nghệ được tích hợp chặt chẽ với các quy trình kinh doanh trong các tổ chức này bởi vì công nghệ được xem như là một yếu tố kích hoạt cho doanh nghiệp, không chỉ là một công cụ.",Công nghệ chỉ là một công cụ chứ không phải là một người kinh doanh.,2
+"Công nghệ được tích hợp chặt chẽ với các quy trình kinh doanh trong các tổ chức này bởi vì công nghệ được xem như là một yếu tố kích hoạt cho doanh nghiệp, không chỉ là một công cụ.",Các doanh nghiệp này chú trọng vào công nghệ.,0
+Hai khái niệm xuất hiện thường xuyên trong các tài liệu có thể hữu ích trong việc thông báo cho nghiên cứu trong tương lai.,Văn học có thể thay đổi cách chúng tôi kiểm tra mẫu.,1
+Hai khái niệm xuất hiện thường xuyên trong các tài liệu có thể hữu ích trong việc thông báo cho nghiên cứu trong tương lai.,Văn học có thể thay đổi nghiên cứu trong tương lai.,0
+Hai khái niệm xuất hiện thường xuyên trong các tài liệu có thể hữu ích trong việc thông báo cho nghiên cứu trong tương lai.,Không có gì khác để làm ngoài việc thay đổi nghiên cứu.,2
+Các dòng có các ô hình hộp hiển thị mức độ phúc lợi của tất cả các nhân viên bưu chính kết hợp lại và các dòng có các ô hình kim cương cho thấy các tổn thất kỹ thuật (nếu âm) khi chuyển dịch công việc sang cho một bên khác.,Các tài liệu tính toán ra rằng mức độ phúc lợi của người gửi thư là 10%.,1
+Các dòng có các ô hình hộp hiển thị mức độ phúc lợi của tất cả các nhân viên bưu chính kết hợp lại và các dòng có các ô hình kim cương cho thấy các tổn thất kỹ thuật (nếu âm) khi chuyển dịch công việc sang cho một bên khác.,Các dòng không hiển thị bất kỳ điều gì khác ngoài tuyến đường.,2
+Các dòng có các ô hình hộp hiển thị mức độ phúc lợi của tất cả các nhân viên bưu chính kết hợp lại và các dòng có các ô hình kim cương cho thấy các tổn thất kỹ thuật (nếu âm) khi chuyển dịch công việc sang cho một bên khác.,Những dòng hiển thị có bao nhiêu phúc lợi trong tất cả các bưu phẩm.,0
+"Dựa trên sự đánh giá rủi ro này, Centrelink đã phát triển một loạt các chiến lược phòng ngừa cụ thể nhằm giáo dục người hưởng lợi và người sử dụng lao động về các yêu cầu báo cáo thu nhập.",Centrelink đã không biết cách giải quyết vấn đề.,2
+"Dựa trên sự đánh giá rủi ro này, Centrelink đã phát triển một loạt các chiến lược phòng ngừa cụ thể nhằm giáo dục người hưởng lợi và người sử dụng lao động về các yêu cầu báo cáo thu nhập.",Centrelink đã có rất nhiều chiến lược để dạy mọi người cách báo cáo thu nhập vì chính phủ đã mất rất nhiều tiền trong những sai sót.,1
+"Dựa trên sự đánh giá rủi ro này, Centrelink đã phát triển một loạt các chiến lược phòng ngừa cụ thể nhằm giáo dục người hưởng lợi và người sử dụng lao động về các yêu cầu báo cáo thu nhập.",Centrelink có rất nhiều chiến lược để dạy mọi người cách báo cáo thu nhập.,0
+Điều này cho phép những bản minh họa thiết kế có thể tạo nên các bản mẫu mang tính đại diện cho quy trình sản xuất trong giai đoạn minh họa thử nghiệm trước khi các công ty tiến hành các đầu tư tốn kém hơn vào việc sản xuất thiết bị và công cụ.,"Sau đó, họ có thể cho thấy cách mà mẫu thiết kế đó làm việc.",0
+Điều này cho phép những bản minh họa thiết kế có thể tạo nên các bản mẫu mang tính đại diện cho quy trình sản xuất trong giai đoạn minh họa thử nghiệm trước khi các công ty tiến hành các đầu tư tốn kém hơn vào việc sản xuất thiết bị và công cụ.,Họ có thể chỉ ra cho công ty thấy rằng việc xây dựng các nhà máy mới là không khôn ngoan,1
+Điều này cho phép những bản minh họa thiết kế có thể tạo nên các bản mẫu mang tính đại diện cho quy trình sản xuất trong giai đoạn minh họa thử nghiệm trước khi các công ty tiến hành các đầu tư tốn kém hơn vào việc sản xuất thiết bị và công cụ.,Họ không có ý tưởng làm thế nào để mô tả ảnh hưởng của đầu tư.,2
+Những nỗ lực hợp tác của South Carolina đã tạo thêm thành công khác vào năm sau.,Không một ai ở Nam Carolina làm việc cùng nhau.,2
+Những nỗ lực hợp tác của South Carolina đã tạo thêm thành công khác vào năm sau.,SC làm việc cùng nhau.,0
+Những nỗ lực hợp tác của South Carolina đã tạo thêm thành công khác vào năm sau.,Các đảng dân chủ và cộng hòa ở Nam Carolina đang làm việc cùng nhau.,1
+"Theo một quan chức của Hội đồng quản trị, phần 605 (b) của Hội đồng quản trị không được cung cấp riêng cho Tư vấn trưởng của SBA (Small Business Administration - SBA).",Hội đồng quản trị đã không cung cấp các chứng chỉ SBA và họ để lại cho văn phòng của giám định viên.,1
+"Theo một quan chức của Hội đồng quản trị, phần 605 (b) của Hội đồng quản trị không được cung cấp riêng cho Tư vấn trưởng của SBA (Small Business Administration - SBA).",Hội đồng không trao các chứng nhận SBA (Quản lý Doanh nghiệp Nhỏ).,0
+"Theo một quan chức của Hội đồng quản trị, phần 605 (b) của Hội đồng quản trị không được cung cấp riêng cho Tư vấn trưởng của SBA (Small Business Administration - SBA).",Ban điều hành phát chứng chỉ SBA hàng ngày cho những ai cần đến.,2
+"Khi một trận đấu xảy ra cho khách sạn và một số chi phí khác, sự xác minh của chuyến đi thực tế sẽ được thực hiện.",Hầu hết các chuỗi khách sạn quốc gia đều chấp nhận thanh toán bằng thẻ tín dụng.,1
+"Khi một trận đấu xảy ra cho khách sạn và một số chi phí khác, sự xác minh của chuyến đi thực tế sẽ được thực hiện.",Chuyến đi sẽ được xác minh bằng chi phí khách sạn.,0
+"Khi một trận đấu xảy ra cho khách sạn và một số chi phí khác, sự xác minh của chuyến đi thực tế sẽ được thực hiện.",Không có cách nào để xác minh xem một chuyến đi có thực sự xảy ra hay không.,2
+"Ví dụ, một vốn nhà nước mà chúng tôi đến thăm là nơi có hơn 600 công ty phần mềm.",Các thành phố thủ đô là nơi tốt nhất cho các công ty phần mềm.,1
+"Ví dụ, một vốn nhà nước mà chúng tôi đến thăm là nơi có hơn 600 công ty phần mềm.",Một thủ đô có rất nhiều công ty phần mềm.,0
+"Ví dụ, một vốn nhà nước mà chúng tôi đến thăm là nơi có hơn 600 công ty phần mềm.",Các công ty phần mềm tránh thủ đô vì lý do pháp lý.,2
+"Trong  đo lường hiệu quả, sự hoàn hảo là không thể đạt được.",Bạn có thể hoàn hảo nếu bạn cố gắng hết sức.,2
+"Trong  đo lường hiệu quả, sự hoàn hảo là không thể đạt được.",Bạn không bao giờ hoàn hảo được.,0
+"Trong  đo lường hiệu quả, sự hoàn hảo là không thể đạt được.",Bạn không thể hoàn hảo vì chúng ta luôn có những thiếu sót.,1
+"Người bạn nhà thuê phòng cho Hazmi và Mihdhar trong năm 2000 là một công dân rõ ràng tuân thủ luật pháp với những mối liên hệ thân thiện, lâu dài giữa cảnh sát địa phương và nhân viên FBI.",Hazmi và Mihdhar mua một căn nhà và không liên lạc với ai cả.,2
+"Người bạn nhà thuê phòng cho Hazmi và Mihdhar trong năm 2000 là một công dân rõ ràng tuân thủ luật pháp với những mối liên hệ thân thiện, lâu dài giữa cảnh sát địa phương và nhân viên FBI.","Hazmi và Mihdhar thuê một phòng cho cả năm, với giá 500 đô la một ngày.",1
+"Người bạn nhà thuê phòng cho Hazmi và Mihdhar trong năm 2000 là một công dân rõ ràng tuân thủ luật pháp với những mối liên hệ thân thiện, lâu dài giữa cảnh sát địa phương và nhân viên FBI.",Hazmi và Mihdhar đã thuê một căn phòng.,0
+"Đối với chuyến đi của họ đến Bosnia, xem báo cáo tình báo, thẩm vấn của thành viên Saudi al Qaeda, ngày 3 tháng 10 năm 2001.",Một thành viên al Qaeda đã tới Bosnia 18 lần vào năm 2001.,1
+"Đối với chuyến đi của họ đến Bosnia, xem báo cáo tình báo, thẩm vấn của thành viên Saudi al Qaeda, ngày 3 tháng 10 năm 2001.",Một thành viên al Qaelda đi tới Bosnia.,0
+"Đối với chuyến đi của họ đến Bosnia, xem báo cáo tình báo, thẩm vấn của thành viên Saudi al Qaeda, ngày 3 tháng 10 năm 2001.",Không có bằng chứng về một thành viên al Quaeda tới Bosnia.,2
+Jane hỏi đại lý New York được giao cho tìm kiếm của Mihdhar để ký một mẫu xác nhận FISA cho biết nhân viên hiểu được cách anh ta phải xử lý thông tin FISA.,Jane yêu cầu công nhận của FISA được ký bởi một thẩm phán liên bang.,1
+Jane hỏi đại lý New York được giao cho tìm kiếm của Mihdhar để ký một mẫu xác nhận FISA cho biết nhân viên hiểu được cách anh ta phải xử lý thông tin FISA.,Jane yêu cầu một FISA,0
+Jane hỏi đại lý New York được giao cho tìm kiếm của Mihdhar để ký một mẫu xác nhận FISA cho biết nhân viên hiểu được cách anh ta phải xử lý thông tin FISA.,Jane cho biết không cần có xác nhận FISA.,2
+Không có gì nổi bật về bất kỳ ai trong số họ với sự tôn trọng dành cho lớp bảo mật duy nhất có liên quan đến việc kiểm tra điểm kiểm tra thực tế.,Bằng chứng báo động đã được phát hiện trong quá trình kiểm tra qua màn hình.,2
+Không có gì nổi bật về bất kỳ ai trong số họ với sự tôn trọng dành cho lớp bảo mật duy nhất có liên quan đến việc kiểm tra điểm kiểm tra thực tế.,Kiểm tra điểm kiểm soát hoàn toàn dựa vào trực giác của đại lý hải quan thực hiện sàng lọc.,1
+Không có gì nổi bật về bất kỳ ai trong số họ với sự tôn trọng dành cho lớp bảo mật duy nhất có liên quan đến việc kiểm tra điểm kiểm tra thực tế.,Việc sàng lọc điểm kiểm tra không thể phát hiện bất kỳ bằng chứng nào chống lại họ.,0
+"Khallad đã cung cấp một phiên bản thứ hai, cụ thể là cả ba đã cùng nhau đến Karachi.",Khallad nói anh không biết gì về ba người họ.,2
+"Khallad đã cung cấp một phiên bản thứ hai, cụ thể là cả ba đã cùng nhau đến Karachi.",Khallad nói ba người có thể đi cùng nhau.,0
+"Khallad đã cung cấp một phiên bản thứ hai, cụ thể là cả ba đã cùng nhau đến Karachi.",Khallad nói rằng có 50% khả năng ba người đó đã đến Karachi cùng nhau vào Tháng mười.,1
+"Báo cáo tình báo, thẩm vấn Binalshibh, ngày 1 tháng 10 năm 2002.",Binalshibh bị thẩm vấn bởi lực lượng FBI.,1
+"Báo cáo tình báo, thẩm vấn Binalshibh, ngày 1 tháng 10 năm 2002.",Binalshibh bị chất vấn năm 2002.,0
+"Báo cáo tình báo, thẩm vấn Binalshibh, ngày 1 tháng 10 năm 2002.","Binalshibh không bao giờ được nói chuyện, và anh ta biến mất.",2
+Mihdhar đã nhận được thị thực mới 2 ngày vào Mỹ sau cuộc họp giữa CIA-FBI tại New York.,Mihdhar đã có thị thực Hoa Kỳ để nhập cảnh vào quốc gia này.,0
+Mihdhar đã nhận được thị thực mới 2 ngày vào Mỹ sau cuộc họp giữa CIA-FBI tại New York.,"Mihdhar chưa bao giờ có được thị thực, nên anh ấy không bao giờ đến thăm chúng tôi.",2
+Mihdhar đã nhận được thị thực mới 2 ngày vào Mỹ sau cuộc họp giữa CIA-FBI tại New York.,Mihdhar được cấp Visa vì anh ấy không phải đối tượng gây nguy hiểm.,1
+"Sau hai năm điều tra, FBI đã không thể tìm thấy đồng nghiệp hoặc xác định danh tính thực sự của anh ấy.",FBI thậm chí không bao giờ có thể tìm thấy người đàn ông sau khi ông rời Florida vào năm 2001.,1
+"Sau hai năm điều tra, FBI đã không thể tìm thấy đồng nghiệp hoặc xác định danh tính thực sự của anh ấy.",FBI không thể biết anh ta là ai.,0
+"Sau hai năm điều tra, FBI đã không thể tìm thấy đồng nghiệp hoặc xác định danh tính thực sự của anh ấy.",FBI đã tìm ra anh ta là ai và ném anh ta vào tù,2
+"Trong trường hợp của Mỹ 11, thông tin liên lạc bình thường cuối cùng từ máy bay lúc 8:13 sáng.",Có liên lạc đến từ American 11.,0
+"Trong trường hợp của Mỹ 11, thông tin liên lạc bình thường cuối cùng từ máy bay lúc 8:13 sáng.",Có thông tin liên lạc từ Mỹ 11 mỗi 5 minuts.,1
+"Trong trường hợp của Mỹ 11, thông tin liên lạc bình thường cuối cùng từ máy bay lúc 8:13 sáng.",Không có bất cứ thông tin liên lạc gì từ American 11.,2
+"Việc khám phá nó đòi hỏi phải có sự hợp tác nhanh và bền bỉ từ chính phủ Đức, chỉ riêng việc này thôi cũng đã khá khó khăn.","Nếu hoàn thành, việc điều tra có thể đã tiết lộ vị trí của ba kẻ đào tẩu.",1
+"Việc khám phá nó đòi hỏi phải có sự hợp tác nhanh và bền bỉ từ chính phủ Đức, chỉ riêng việc này thôi cũng đã khá khó khăn.",Chính phủ Đức có thể đã gặp khó khăn khi thực hiện một cuộc điều tra nhanh chóng và kỹ lưỡng.,0
+"Việc khám phá nó đòi hỏi phải có sự hợp tác nhanh và bền bỉ từ chính phủ Đức, chỉ riêng việc này thôi cũng đã khá khó khăn.",Cuộc điều tra sẽ khá đơn giản và dễ dàng để chính phủ thực hiện.,2
+"Những khả năng này là không đủ, nhưng ít được thực hiện để mở rộng hoặc cải cách chúng.",Họ không có nhiều thay đổi đối với chương trình giám sát của họ.,1
+"Những khả năng này là không đủ, nhưng ít được thực hiện để mở rộng hoặc cải cách chúng.",Họ không làm gì nhiều để thay đổi mọi thứ.,0
+"Những khả năng này là không đủ, nhưng ít được thực hiện để mở rộng hoặc cải cách chúng.",Họ đã cố gắng hơn để thực hiện đại tu mọi thứ.,2
+"Tuy nhiên, email của nhà phân tích phản ánh rằng cô đang bối rối một loạt các rào cản và rào cản pháp lý đối với việc chia sẻ thông tin và các quy tắc điều chỉnh việc sử dụng thông tin của các nhân viên tội phạm thu thập thông qua các kênh tình báo.",Nhà phân tích trình bày bài phân tích rất rõ ràng.,2
+"Tuy nhiên, email của nhà phân tích phản ánh rằng cô đang bối rối một loạt các rào cản và rào cản pháp lý đối với việc chia sẻ thông tin và các quy tắc điều chỉnh việc sử dụng thông tin của các nhân viên tội phạm thu thập thông qua các kênh tình báo.",Nhà phân tích đã không rõ ràng về nhiều thứ.,0
+"Tuy nhiên, email của nhà phân tích phản ánh rằng cô đang bối rối một loạt các rào cản và rào cản pháp lý đối với việc chia sẻ thông tin và các quy tắc điều chỉnh việc sử dụng thông tin của các nhân viên tội phạm thu thập thông qua các kênh tình báo.",Báo cáo của viên phân tích quá lộn xộn và không ai có thể đọc được nó.,1
+"Vài nhân viên được phân công hỗ trợ thoát hiểm ở hành lang; số khác điều phối thoát hiểm ở plaza, phòng chờ, và nhà ga PATH.",Các nhân viên có nhiệm vụ riêng của họ.,0
+"Vài nhân viên được phân công hỗ trợ thoát hiểm ở hành lang; số khác điều phối thoát hiểm ở plaza, phòng chờ, và nhà ga PATH.",Các nhân viên chỉ chạy ngẫu nhiên nơi họ cần.,2
+"Vài nhân viên được phân công hỗ trợ thoát hiểm ở hành lang; số khác điều phối thoát hiểm ở plaza, phòng chờ, và nhà ga PATH.",Cán bộ được phân công dựa trên thâm niên của họ.,1
+"Vào ngày 9 tháng 9, những tin tức đầy kịch tính đến từ Afghanistan.",Chúng tôi nhận được tin từ Afghanistan.,0
+"Vào ngày 9 tháng 9, những tin tức đầy kịch tính đến từ Afghanistan.",Chúng tôi không nghe tin tức gì từ Afghanistan cho đến tận tháng Mười.,2
+"Vào ngày 9 tháng 9, những tin tức đầy kịch tính đến từ Afghanistan.",Chúng tôi được thông báo về cuộc tấn công sắp xảy ra vào ngày 9 Tháng 9.,1
+"Không có khả năng giao tiếp là một yếu tố quan trọng tại Trung tâm Thương mại Thế giới, Lầu năm góc, và Hạt Somerset, Pennsylvania, các địa điểm tai nạn, nơi nhiều cơ quan và nhiều khu vực pháp lý đã trả lời.",Truyền thông hoạt động rất tốt vào ngày 9/11.,2
+"Không có khả năng giao tiếp là một yếu tố quan trọng tại Trung tâm Thương mại Thế giới, Lầu năm góc, và Hạt Somerset, Pennsylvania, các địa điểm tai nạn, nơi nhiều cơ quan và nhiều khu vực pháp lý đã trả lời.",Mọi người gặp khó khăn khi giao tiếp tại Trung tâm Thương mại Thế giới bởi vì điện đã hết và các đường dây điện thoại bị hỏng.,1
+"Không có khả năng giao tiếp là một yếu tố quan trọng tại Trung tâm Thương mại Thế giới, Lầu năm góc, và Hạt Somerset, Pennsylvania, các địa điểm tai nạn, nơi nhiều cơ quan và nhiều khu vực pháp lý đã trả lời.",Mọi người gặp khó khăn khi giao tiếp tại Trung tâm Thương mại Thế giới.,0
+"Tìm kiếm cơ sở dữ liệu sẵn có có thể khai quật giấy phép lái xe, đăng ký xe và danh sách điện thoại.",Các nhà điều tra cũng yêu cầu quyền truy cập vào cơ sở dữ liệu chuyên nghiệp.,1
+"Tìm kiếm cơ sở dữ liệu sẵn có có thể khai quật giấy phép lái xe, đăng ký xe và danh sách điện thoại.",Một số loại thông tin đã có sẵn từ cơ sở dữ liệu hiện có.,0
+"Tìm kiếm cơ sở dữ liệu sẵn có có thể khai quật giấy phép lái xe, đăng ký xe và danh sách điện thoại.",Không có cách nào để tìm bất kỳ thông tin nào về các đối tượng sử dụng các nguồn hiện có.,2
+"Nhận thấy sự đáng nghi ngờ từ toàn bộ giao dịch, người quản lý giữ khoảng cách với Hazmi và Mindhar, nhưng không lâu trước khi họ đã nhận được sự trợ giúp cần thiết.",Quản trị viên ngay lập tức liên hệ với chính quyền và từ chối hỗ trợ trong trường hợp này.,2
+"Nhận thấy sự đáng nghi ngờ từ toàn bộ giao dịch, người quản lý giữ khoảng cách với Hazmi và Mindhar, nhưng không lâu trước khi họ đã nhận được sự trợ giúp cần thiết.",Các quản trị viên cung cấp hỗ trợ mặc dù sự hiểu lầm.,0
+"Nhận thấy sự đáng nghi ngờ từ toàn bộ giao dịch, người quản lý giữ khoảng cách với Hazmi và Mindhar, nhưng không lâu trước khi họ đã nhận được sự trợ giúp cần thiết.",Sự hỗ trợ bao gồm tiền mặt và trợ giúp xử lý các thủ tục đi lại.,1
+"Năm 2003, những chỉ định này đã bị cắt giảm; tất cả các vấn đề về khủng bố quốc tế hiện nay nhận được cùng chỉ định, 315.",Tất cả các vấn đề về khủng bố đều được cho là quan trọng hàng đầu.,1
+"Năm 2003, những chỉ định này đã bị cắt giảm; tất cả các vấn đề về khủng bố quốc tế hiện nay nhận được cùng chỉ định, 315.",Tất cả các vấn đề khủng bố đều có cùng nhãn hiệu.,0
+"Năm 2003, những chỉ định này đã bị cắt giảm; tất cả các vấn đề về khủng bố quốc tế hiện nay nhận được cùng chỉ định, 315.",Mỗi vấn đề khủng bố đều được điều tra và xếp hạng một cách độc lập.,2
+"Viên chức này, người đã quan sát sự sụp đổ của Tháp Nam, báo cáo sự việc cho các đơn vị ESU ở Tháp Bắc trong hướng dẫn sơ tán của mình.",Không ai còn ở lại trong Tháp Bắc sau khi Tháp Nam sụp đổ.,2
+"Viên chức này, người đã quan sát sự sụp đổ của Tháp Nam, báo cáo sự việc cho các đơn vị ESU ở Tháp Bắc trong hướng dẫn sơ tán của mình.",Tháp phía Nam sụp đổ 30 phút trước khi nhân viên nói chuyện với các đơn vị ESU ở Tháp phía Bắc.,1
+"Viên chức này, người đã quan sát sự sụp đổ của Tháp Nam, báo cáo sự việc cho các đơn vị ESU ở Tháp Bắc trong hướng dẫn sơ tán của mình.",Viên chức chứng kiến ​​sự sụp đổ của Tháp Nam.,0
+Indianapolis thực sự là một trong những nơi tốt nhất cho các diễn viên những người làm việc cho nhiều người,Các nam diễn viên yêu Indianapolis bởi tất cả các cơ quan tuyển vai đều ở đó.,1
+Indianapolis thực sự là một trong những nơi tốt nhất cho các diễn viên những người làm việc cho nhiều người,"Nếu bạn là một diễn viên, bạn nên cân nhắc chuyển đến Indianapolis.",0
+Indianapolis thực sự là một trong những nơi tốt nhất cho các diễn viên những người làm việc cho nhiều người,"Thật là khó tìm việc ở Indianapolis nếu bạn ở trong lĩnh vực điện ảnh và kịch nói, bởi vì đó là thành phố công nghệ.",2
+"Chúng tôi cung cấp trợ giúp qua điện thoại 24 giờ mỗi ngày, 7 ngày mỗi tuần thông qua Trung tâm tài nguyên thông tin phòng chống & amp; Đường dây Trợ giúp dành cho Phụ huynh.",Mọi người chỉ có thể liên hệ với chúng tôi qua thư hoặc sử dụng email.,2
+"Chúng tôi cung cấp trợ giúp qua điện thoại 24 giờ mỗi ngày, 7 ngày mỗi tuần thông qua Trung tâm tài nguyên thông tin phòng chống & amp; Đường dây Trợ giúp dành cho Phụ huynh.","Chúng tôi có thể truy cập bằng điện thoại, vào bất kỳ thời điểm nào trong ngày.",0
+"Chúng tôi cung cấp trợ giúp qua điện thoại 24 giờ mỗi ngày, 7 ngày mỗi tuần thông qua Trung tâm tài nguyên thông tin phòng chống & amp; Đường dây Trợ giúp dành cho Phụ huynh.",Chúng tôi nhận được hơn một trăm cuộc gọi mỗi Thứ hai và Thứ sáu.,1
+Những hộp này sẽ giữ nguyên trạng bao bọc của chúng sau khi tất cả các món quà khác được mở.,Những hộp này chứa bom nguy hiểm.,1
+Những hộp này sẽ giữ nguyên trạng bao bọc của chúng sau khi tất cả các món quà khác được mở.,Những hộp này sẽ được mở trước khi những món quà khác.,2
+Những hộp này sẽ giữ nguyên trạng bao bọc của chúng sau khi tất cả các món quà khác được mở.,Những chiếc hộp này sẽ vẫn đóng một lúc.,0
+"Nếu chúng ta giữ giá thấp, chúng ta cần đến bạn, khán giả của chúng tôi, yêu cầu một sự đóng góp nhỏ để giúp chúng tôi đạt được nhiệm vụ này.","Để giữ giá vé của chúng tôi dưới $10, chúng tôi sẽ cần tất cả khán giả ủng hộ $25.",1
+"Nếu chúng ta giữ giá thấp, chúng ta cần đến bạn, khán giả của chúng tôi, yêu cầu một sự đóng góp nhỏ để giúp chúng tôi đạt được nhiệm vụ này.","Nếu muốn,chúng tôi có thể giữ giá thấp, không cần có tiền của bạn, nhưng ông chủ của chúng tôi thích xa xỉ.",2
+"Nếu chúng ta giữ giá thấp, chúng ta cần đến bạn, khán giả của chúng tôi, yêu cầu một sự đóng góp nhỏ để giúp chúng tôi đạt được nhiệm vụ này.",Đóng góp của bạn giúp chúng tôi giữ giá thấp.,0
+"00 đã giúp chúng tôi có thể cung cấp hướng dẫn, khuyến khích và vui chơi cho gần 400 trẻ em vùng Indianapolis.","Cảm ơn các nhà quyên góp hảo tâm, chúng ta có thể mời Beyonce tới diễn một buổi hòa nhạc cho trẻ mồ côi ở Indianapolis. j",1
+"00 đã giúp chúng tôi có thể cung cấp hướng dẫn, khuyến khích và vui chơi cho gần 400 trẻ em vùng Indianapolis.","Chúng tôi đã hy vọng sẽ tổ chức tiệc Giáng sinh cho trẻ em, nhưng chúng tôi chưa bao giờ có thể làm bất cứ điều gì cho họ.",2
+"00 đã giúp chúng tôi có thể cung cấp hướng dẫn, khuyến khích và vui chơi cho gần 400 trẻ em vùng Indianapolis.",Chúng tôi có thể giúp đỡ nhiều trẻ em ở Indianapolis.,0
+"Ban đầu, các cá nhân có thể tham gia bằng cách tặng một món quà không giới hạn hàng năm từ $ 1,000 trở lên cho Chancellor's Circle, hoặc $ 500 hoặc hơn cho Chancellors Associates.",Các cá nhân có thể tham gia sau khi đóng góp một khoản nhỏ là $ 50.,2
+"Ban đầu, các cá nhân có thể tham gia bằng cách tặng một món quà không giới hạn hàng năm từ $ 1,000 trở lên cho Chancellor's Circle, hoặc $ 500 hoặc hơn cho Chancellors Associates.",Cá nhân vẫn có thể tham gia nếu họ quyên góp đủ nhiều.,0
+"Ban đầu, các cá nhân có thể tham gia bằng cách tặng một món quà không giới hạn hàng năm từ $ 1,000 trở lên cho Chancellor's Circle, hoặc $ 500 hoặc hơn cho Chancellors Associates.",Hầu hết các cá nhân muốn quyên tặng cho Chancellors Associates hơn.,1
+Món quà của bạn vào lúc này có thể cho giảm thêm thuế cuối năm cho bạn.,"Nếu bạn làm một món quà ít nhất là $ 1,000, chắc chắn bạn sẽ có thể nhận được các khoản trợ cấp thuế.",1
+Món quà của bạn vào lúc này có thể cho giảm thêm thuế cuối năm cho bạn.,"Không may rằng, các cố vấn về thuế của chúng tôi khuyên bạn không nên tặng bất cứ món quà gì.",2
+Món quà của bạn vào lúc này có thể cho giảm thêm thuế cuối năm cho bạn.,Anh có thể được giảm thuế cho các khoản quyên góp.,0
+"Như bạn đã biết, tư cách thành viên của nhóm này bao gồm bạn bè và các cựu sinh viên đóng góp hàng năm từ $1.000 trở lên cho trường luật.",Một số thành viên của nhóm này đã quyên tặng hơn $100k cho trường.,1
+"Như bạn đã biết, tư cách thành viên của nhóm này bao gồm bạn bè và các cựu sinh viên đóng góp hàng năm từ $1.000 trở lên cho trường luật.",Chúng tôi có những người trong nhóm này đã đóng góp hơn 1.000 đô la cho trường luật.,0
+"Như bạn đã biết, tư cách thành viên của nhóm này bao gồm bạn bè và các cựu sinh viên đóng góp hàng năm từ $1.000 trở lên cho trường luật.","Chúng tôi dự định yêu cầu nhóm này đóng góp tiền vào trường, nhưng chưa từng có trước đây.",2
+"Là một đứa trẻ lớn lên trong thập kỷ 50, một trong những kỷ niệm hạnh phúc nhất của tôi là được tham gia các vở kịch của Nhà hát Civic.","Tôi ghét đi xem các buổi biểu diễn của nhà hát như một đứa trẻ, vì vậy đó là lý do tại sao tôi trở thành một nhà khoa học.",2
+"Là một đứa trẻ lớn lên trong thập kỷ 50, một trong những kỷ niệm hạnh phúc nhất của tôi là được tham gia các vở kịch của Nhà hát Civic.",Tôi thích đi tới nhà hát khi tôi còn là đứa trẻ.,0
+"Là một đứa trẻ lớn lên trong thập kỷ 50, một trong những kỷ niệm hạnh phúc nhất của tôi là được tham gia các vở kịch của Nhà hát Civic.",Bản nhạc kịch yêu thích của tôi là Người đẹp và Quái vật.,1
+Nếu mỗi người nhận được lá thư này chỉ cần tặng $18.,"Tất cả những người nhận được lá thư này: không tặng tiền của bạn, đó là một scam.",2
+Nếu mỗi người nhận được lá thư này chỉ cần tặng $18.,"Nếu bạn quyên góp $18, chúng tôi sẽ tặng bạn một món quà.",1
+Nếu mỗi người nhận được lá thư này chỉ cần tặng $18.,Chúng tôi hy vọng rằng tất cả những người nhận được thư sẽ đóng góp 18$.,0
+"Chỉ cần tách phần dưới cùng, kiểm tra tùy chọn áp dụng, thực hiện bất kỳ thay đổi nào đối với địa chỉ của bạn nếu cần và gửi nó trong phong bì đính kèm.",Vui lòng không thay đổi địa chỉ của bạn.,2
+"Chỉ cần tách phần dưới cùng, kiểm tra tùy chọn áp dụng, thực hiện bất kỳ thay đổi nào đối với địa chỉ của bạn nếu cần và gửi nó trong phong bì đính kèm.","Có một phong bì màu trắng kèm theo, với địa chỉ của bạn trên đó.",1
+"Chỉ cần tách phần dưới cùng, kiểm tra tùy chọn áp dụng, thực hiện bất kỳ thay đổi nào đối với địa chỉ của bạn nếu cần và gửi nó trong phong bì đính kèm.","Bạn được tự do thay đổi địa chỉ của mình, nếu bạn thấy phù hợp.",0
+Trường điều dưỡng cần những món quà hào phóng của bạn để tiếp tục và duy trì giáo dục xuất sắc.,"Xin vui lòng quyên góp $100 triệu cho Trường học Y tá, hoặc bạn sẽ đánh mất tượng đài kỷ niệm của mình.",1
+Trường điều dưỡng cần những món quà hào phóng của bạn để tiếp tục và duy trì giáo dục xuất sắc.,"Trường điều dưỡng đáp ứng tất cả các mục tiêu tài chính của nó, vì vậy nó không cần thêm tiền.",2
+Trường điều dưỡng cần những món quà hào phóng của bạn để tiếp tục và duy trì giáo dục xuất sắc.,Chúng tôi hy vọng bạn sẽ tặng cho Trường Điều dưỡng.,0
+80% người tham gia sẽ báo cáo các kỹ năng giải quyết mâu thuẫn gia tăng.,Hơn một nửa số người tham gia sẽ báo cáo các kỹ năng giải quyết xung đột gia tăng.,0
+80% người tham gia sẽ báo cáo các kỹ năng giải quyết mâu thuẫn gia tăng.,Chỉ một phần tư số người tham gia sẽ cho thấy các kỹ năng giải quyết xung đột gia tăng.,2
+80% người tham gia sẽ báo cáo các kỹ năng giải quyết mâu thuẫn gia tăng.,Có hơn 100 người tham gia với tư cách cá nhân.,1
+Vui lòng không nói về danh sách nhà tài trợ đã mất của chúng tôi.,Sẽ rất đáng tiếc nếu bạn ngừng quyên góp.,0
+Vui lòng không nói về danh sách nhà tài trợ đã mất của chúng tôi.,"Danh sách nhà tài trợ không còn tiếp tục của chúng tôi được xuất bản để thế giới nhìn, vì vậy hãy tin tôi đi, bạn không muốn bị xấu hổ như thế đâu!",1
+Vui lòng không nói về danh sách nhà tài trợ đã mất của chúng tôi.,"Chúng tôi có quá nhiều nhà tài trợ, vì vậy hãy ngừng tặng.",2
+Quyền truy cập vào Our Grounds sẽ được mở cho bất kì ai có máy tính và modem.,Mọi người không cần bất cứ thứ gì để tiếp cận căn cứ.,2
+Quyền truy cập vào Our Grounds sẽ được mở cho bất kì ai có máy tính và modem.,Mọi người cần cả máy tính và modem để vào căn cứ.,0
+Quyền truy cập vào Our Grounds sẽ được mở cho bất kì ai có máy tính và modem.,"Mọi người cần phải mang theo máy tính và modem của họ với họ trong khi bước vào căn cứ, để có quyền truy cập.",1
+Bán vé và đăng ký không thể tài trợ cho cả mùa của chúng tôi,"Miễn là chúng tôi có bán vé, toàn bộ mùa giải của chúng tôi sẽ được tài trợ.",2
+Bán vé và đăng ký không thể tài trợ cho cả mùa của chúng tôi,Bộ phim của chúng tôi cần nhiều hơn để cấp vốn cho nó sau đó chỉ bán vé và phí theo dõi.,0
+Bán vé và đăng ký không thể tài trợ cho cả mùa của chúng tôi,Doanh thu và đăng ký của TIcket chỉ bao gồm 70% chi phí tài chính mùa này.,1
+HÀNG MỚI VỀ MỌI MÓN QUÀ ĐỀU TẠO NÊN MỘT SỰ KHÁC BIỆT!,Mỗi món quà được ghi lại và công bố trên tạp chí hàng tháng của chúng tôi.,1
+HÀNG MỚI VỀ MỌI MÓN QUÀ ĐỀU TẠO NÊN MỘT SỰ KHÁC BIỆT!,Của cho là của nợ.,0
+HÀNG MỚI VỀ MỌI MÓN QUÀ ĐỀU TẠO NÊN MỘT SỰ KHÁC BIỆT!,Chỉ những món quà trị giá trên $100 mới tạo nên sự khác biệt.,2
+"Chúng tôi có một chặng đường dài để đi trước khi chúng tôi đạt được mục tiêu của chúng tôi là $ 365,000 từ bạn bè và người đăng ký như chính bạn.",Mục tiêu tiền góp của chúng tôi đã vượt quá 300.000$.,0
+"Chúng tôi có một chặng đường dài để đi trước khi chúng tôi đạt được mục tiêu của chúng tôi là $ 365,000 từ bạn bè và người đăng ký như chính bạn.",Chúng tôi thực sự hy vọng sẽ tăng gấp ba lần mục tiêu tiền tệ của mình.,1
+"Chúng tôi có một chặng đường dài để đi trước khi chúng tôi đạt được mục tiêu của chúng tôi là $ 365,000 từ bạn bè và người đăng ký như chính bạn.",Chúng tôi không có định mức nào liên quan đến tiền.,2
+Phòng khám Thực hành Dân sự của chúng tôi đã hoạt động được vài năm và gần đây chúng tôi đã bổ sung một Phòng khám Quốc phòng Hình sự.,Phòng khám thực hành dân sự của chúng tôi đã hoạt động được 8 năm.,1
+Phòng khám Thực hành Dân sự của chúng tôi đã hoạt động được vài năm và gần đây chúng tôi đã bổ sung một Phòng khám Quốc phòng Hình sự.,Phòng khám Bệnh Dân sự của chúng tôi sẽ kỷ niệm tròn một năm đầu tiên hoạt động vào tháng tới.,2
+Phòng khám Thực hành Dân sự của chúng tôi đã hoạt động được vài năm và gần đây chúng tôi đã bổ sung một Phòng khám Quốc phòng Hình sự.,Phòng khám Tư nhân đó đã hoạt động được hơn một năm.,0
+Thu nhập từ vé không bắt đầu bao gồm chi phí của các chương trình này.,Dường như chi phí của các chương trình này sẽ không được bao trả bởi thu nhập từ vé.,0
+Thu nhập từ vé không bắt đầu bao gồm chi phí của các chương trình này.,Chi phí của các chương trình này là rất cao.,1
+Thu nhập từ vé không bắt đầu bao gồm chi phí của các chương trình này.,Thu nhập vé chắc chắn sẽ trang trả chi phí của các chương trình này.,2
+Omnia vincit amor (trừ khi bạn làm việc cho các Weekly Standard): Brit Hume (Fox News Sunday) suy đoán về lý do tại sao Lewinsky có thể không Cô vẫn còn có một lòng vô vọng vào tổng thống.,Brit Hume là phóng viên chính tại Fox.,1
+Omnia vincit amor (trừ khi bạn làm việc cho các Weekly Standard): Brit Hume (Fox News Sunday) suy đoán về lý do tại sao Lewinsky có thể không Cô vẫn còn có một lòng vô vọng vào tổng thống.,Brit Hume làm việc cho CNN.,2
+Omnia vincit amor (trừ khi bạn làm việc cho các Weekly Standard): Brit Hume (Fox News Sunday) suy đoán về lý do tại sao Lewinsky có thể không Cô vẫn còn có một lòng vô vọng vào tổng thống.,Brit Hume làm việc cho Fox.,0
+Phần lớn đã được thực hiện bằng cách thuê Michael Apted để mang lại một liên lạc của con người hơn cho bộ truyện.,"Michael Apted đã hủy hoại bộ phim bằng cách nhấn mạnh rằng họ lấy ra những yếu tố ấm áp, con người.",2
+Phần lớn đã được thực hiện bằng cách thuê Michael Apted để mang lại một liên lạc của con người hơn cho bộ truyện.,Michael Apted được thuê để thêm chất cá nhân vào bộ truyện.,0
+Phần lớn đã được thực hiện bằng cách thuê Michael Apted để mang lại một liên lạc của con người hơn cho bộ truyện.,"Bộ phim được cho là thiếu sống động và nhàm chán, vì vậy cần thuê Michael Apted để thêm những rung cảm ấm áp, riêng tư nhằm tăng tỷ lệ xem.",1
+để xem một cô gái trong một parka lông trắng và giầy ủng,Cô bé được mặc đồ để đi trượt tuyết.,1
+để xem một cô gái trong một parka lông trắng và giầy ủng,Một cô gái mặc quần áo trắng.,0
+để xem một cô gái trong một parka lông trắng và giầy ủng,Cô gái mặc đồ đỏ.,2
+Điều mà bộ phim thờ ơ không nhắc đến là Kaufman đã thường xuyên nói về việc ông ta muốn tự mình chết như thế nào.,Bộ phim không đề cập đến việc Kaufman thảo luận về cái chết của chính mình.,0
+Điều mà bộ phim thờ ơ không nhắc đến là Kaufman đã thường xuyên nói về việc ông ta muốn tự mình chết như thế nào.,The movie had an in depth interview with Kaufman about his death.,2
+Điều mà bộ phim thờ ơ không nhắc đến là Kaufman đã thường xuyên nói về việc ông ta muốn tự mình chết như thế nào.,Bộ phim là một bom tấn mặc dù đã bỏ qua một số chi tiết quan trọng về Kaufman.,1
+Rockefeller đã bị cuốn vào sự khốn khổ này khi Avenging Angel Tarbell bắt đầu xé xác của anh ta trong McClure.,Rockefeller đã tài trợ hoạt động nghiên cứu ung thư.,1
+Rockefeller đã bị cuốn vào sự khốn khổ này khi Avenging Angel Tarbell bắt đầu xé xác của anh ta trong McClure.,Rockefeller đã quyên tặng.,0
+Rockefeller đã bị cuốn vào sự khốn khổ này khi Avenging Angel Tarbell bắt đầu xé xác của anh ta trong McClure.,Rockefeller đã rất keo kiệt.,2
+"Gần đây, trong một vụ giao dịch ở New York, Klayman thấy mình thiên về phía cáo buộc xu hướng dân tộc.",Klayman đã đưa ra những cáo buộc về thiên vị dân tộc ở California.,2
+"Gần đây, trong một vụ giao dịch ở New York, Klayman thấy mình thiên về phía cáo buộc xu hướng dân tộc.",Klayman không cho rằng sẽ bị buộc tội thành kiến chủng tộc.,1
+"Gần đây, trong một vụ giao dịch ở New York, Klayman thấy mình thiên về phía cáo buộc xu hướng dân tộc.",Có những cáo buộc về xu hướng dân tộc chống lại Klayman.,0
+"Một người khó có thể mong đợi một số người đại diện của công ty rít lên, la ó, và hét lên một cách nhảm nhí tại một thư ký lao động ở Mỹ.",Đại diện công ty mặc com lê.,1
+"Một người khó có thể mong đợi một số người đại diện của công ty rít lên, la ó, và hét lên một cách nhảm nhí tại một thư ký lao động ở Mỹ.",Người ta mong đợi các đại diện của công ty sẽ phản đối.,2
+"Một người khó có thể mong đợi một số người đại diện của công ty rít lên, la ó, và hét lên một cách nhảm nhí tại một thư ký lao động ở Mỹ.",Người ta sẽ không mong đợi các đại diện của công ty lên tiếng.,0
+Chỉ vì nuôi dưỡng có ảnh hưởng đáng kể hơn đến hiệu suất thể thao không có nghĩa là bản chất quan trọng.,Vận động viên được sinh ra với tất cả các tiềm năng hiệu suất của họ hoàn toàn nhận ra.,2
+Chỉ vì nuôi dưỡng có ảnh hưởng đáng kể hơn đến hiệu suất thể thao không có nghĩa là bản chất quan trọng.,Khả năng thể thao bị ảnh hưởng  bởi đào tạo nhiều hơn là di truyền học.,0
+Chỉ vì nuôi dưỡng có ảnh hưởng đáng kể hơn đến hiệu suất thể thao không có nghĩa là bản chất quan trọng.,Hầu hết các vận động viên nghiêm túc tập luyện ít nhất tám giờ mỗi tuần.,1
+"Khi về nhà, tôi biết được Hoa Kỳ cắt đứt nguồn cung cấp theo hai cách.",Tôi quan tâm đến chính trị.,1
+"Khi về nhà, tôi biết được Hoa Kỳ cắt đứt nguồn cung cấp theo hai cách.",Tôi đã tìm hiểu về Hoa Kỳ,0
+"Khi về nhà, tôi biết được Hoa Kỳ cắt đứt nguồn cung cấp theo hai cách.",Tôi học được rằng Hoa Kỳ cắt đứt nguồn cung theo hai cách trước khi về nhà.,2
+Nhà xuất bản đại học lâu đời nhất và lớn nhất thế giới - Oxford - vừa thông báo rằng họ đang hủy bỏ danh sách thơ của mình.,Danh sách nhà thơ ở Oxford không được tiếp tục nữa.,0
+Nhà xuất bản đại học lâu đời nhất và lớn nhất thế giới - Oxford - vừa thông báo rằng họ đang hủy bỏ danh sách thơ của mình.,Trường đại học uy tín này không thể đủ kinh phí hoạt hoạt động cho các nhà thơ trong danh sách này.,1
+Nhà xuất bản đại học lâu đời nhất và lớn nhất thế giới - Oxford - vừa thông báo rằng họ đang hủy bỏ danh sách thơ của mình.,Các trường đại học được dành riêng để bảo tồn danh sách thơ và thề sẽ không bao giờ hủy bỏ nó.,2
+Nhưng có một giải an ủi cho sự nhân đạo.,Giải khuyến khích là hai máy xay miễn phí cho mỗi người.,1
+Nhưng có một giải an ủi cho sự nhân đạo.,Không có cách nào khác cho con người trong tình huống này.,2
+Nhưng có một giải an ủi cho sự nhân đạo.,Không phải tất cả đều là tin xấu với loài người.,0
+Thể thao không phải là sự kiện duy nhất để đặt cược tại các trang web này.,Các khu vực này cũng chấp nhận đánh cược vào các cuộc đấu chính trị và bầu cử.,1
+Thể thao không phải là sự kiện duy nhất để đặt cược tại các trang web này.,Những trang web này chỉ nhận đặt cược các sự kiện thể thao.,2
+Thể thao không phải là sự kiện duy nhất để đặt cược tại các trang web này.,Các trang web này thực hiện một số hoạt động.,0
+"Vào ngày 25 tháng 8, sau khi hội nghị Dân chủ đã mở tại thành phố Atlantic, N.J., Johnson, sau đó 56 tuổi, bị đe dọa trong ba cuộc hội thoại được ghi lại để rút khỏi cuộc đua tổng thống.",Johnson cảm thấy thiếu sự ủng hộ.,1
+"Vào ngày 25 tháng 8, sau khi hội nghị Dân chủ đã mở tại thành phố Atlantic, N.J., Johnson, sau đó 56 tuổi, bị đe dọa trong ba cuộc hội thoại được ghi lại để rút khỏi cuộc đua tổng thống.",Chưa bao giờ Johnson nghĩ đến việc rút lui.,2
+"Vào ngày 25 tháng 8, sau khi hội nghị Dân chủ đã mở tại thành phố Atlantic, N.J., Johnson, sau đó 56 tuổi, bị đe dọa trong ba cuộc hội thoại được ghi lại để rút khỏi cuộc đua tổng thống.",Johnson đe dọa rút lui.,0
+Lamar Alexander đã bỏ giá thầu tổng thống của mình.,Ít nhất thì một người đã ngừng cố gắng trở thành tổng thống.,0
+Lamar Alexander đã bỏ giá thầu tổng thống của mình.,Lamar Alexander khước từ việc từ bỏ chiến dịch tranh cử tổng thống của mình.,2
+Lamar Alexander đã bỏ giá thầu tổng thống của mình.,Ông Alexander bị buộc phải từ bỏ sau khi những hình ảnh xấu hổ của ông được xuất bản.,1
+"Trên đầu trang của hồ sơ dân sự tự do đáng thương này là sự lạm dụng của FBI trong điều tra văn phòng du lịch gốc của Nhà Trắng, và những gì đã được biết đến như là Filegate.",Nhà Trắng có điệp viên FBI về các ứng cử viên chính trị.,1
+"Trên đầu trang của hồ sơ dân sự tự do đáng thương này là sự lạm dụng của FBI trong điều tra văn phòng du lịch gốc của Nhà Trắng, và những gì đã được biết đến như là Filegate.",Nhà Trắng lạm dụng FBI.,0
+"Trên đầu trang của hồ sơ dân sự tự do đáng thương này là sự lạm dụng của FBI trong điều tra văn phòng du lịch gốc của Nhà Trắng, và những gì đã được biết đến như là Filegate.",Nhà Trắng sử dụng FBI đúng cách.,2
+"Tung đã thề sẽ giải tán các nhà đầu cơ bất động sản, nhưng nhiều người nghĩ rằng vỏ cây của anh sẽ tồi tệ hơn vết cắn của anh ta.",Tung không quan tâm đến các nhà đầu cơ bất động sản.,2
+"Tung đã thề sẽ giải tán các nhà đầu cơ bất động sản, nhưng nhiều người nghĩ rằng vỏ cây của anh sẽ tồi tệ hơn vết cắn của anh ta.",Tung nghĩ rằng các nhà đầu cơ bất động sản đang hành động phi đạo đức.,1
+"Tung đã thề sẽ giải tán các nhà đầu cơ bất động sản, nhưng nhiều người nghĩ rằng vỏ cây của anh sẽ tồi tệ hơn vết cắn của anh ta.",Tung muốn gây ảnh hưởng đến các nhà đầu cơ bất động sản.,0
+"Các khiếu nại bao gồm vấn đề về hành lý, ứng xử thô lỗ của tiếp viên hành không, máy bay huỷ chuyến không báo trước, và các vấn đề về thanh toán.",10 người đã bị mất hành lý.,1
+"Các khiếu nại bao gồm vấn đề về hành lý, ứng xử thô lỗ của tiếp viên hành không, máy bay huỷ chuyến không báo trước, và các vấn đề về thanh toán.",Mọi người phàn nàn về hành lý.,0
+"Các khiếu nại bao gồm vấn đề về hành lý, ứng xử thô lỗ của tiếp viên hành không, máy bay huỷ chuyến không báo trước, và các vấn đề về thanh toán.",Không có lấy một khiếu nại nào.,2
+"Lawrence Singleton, một kẻ hiếp dâm khét tiếng đã tấn công cánh tay của nạn nhân và sau đó chỉ phải chịu tù giam 8 năm, đã bị bắt vì đâm chết một người phụ nữ khác ở Florida.","Sau khi anh ta tấn công cẳng tay nạn nhân, anh ta đã cố giấu chúng trong thùng rác.",1
+"Lawrence Singleton, một kẻ hiếp dâm khét tiếng đã tấn công cánh tay của nạn nhân và sau đó chỉ phải chịu tù giam 8 năm, đã bị bắt vì đâm chết một người phụ nữ khác ở Florida.",Tất cả mọi người đều nhận thấy rằng thời gian ở tù đã cải tạo hoàn toàn con người anh ta.,2
+"Lawrence Singleton, một kẻ hiếp dâm khét tiếng đã tấn công cánh tay của nạn nhân và sau đó chỉ phải chịu tù giam 8 năm, đã bị bắt vì đâm chết một người phụ nữ khác ở Florida.",Ông Singleton là một kẻ hiếp dâm bị kết tội ở Florida.,0
+Charles Lane của New Republic nói rằng Tin tức về Vụ bắt cóc chỉ đơn thuần kéo dài kỷ lục báo chí không trung thực của Gabriel Garcaa Marquez.,Charles Lane là một phóng viên.,0
+Charles Lane của New Republic nói rằng Tin tức về Vụ bắt cóc chỉ đơn thuần kéo dài kỷ lục báo chí không trung thực của Gabriel Garcaa Marquez.,Charles Lane bán xe hơi.,2
+Charles Lane của New Republic nói rằng Tin tức về Vụ bắt cóc chỉ đơn thuần kéo dài kỷ lục báo chí không trung thực của Gabriel Garcaa Marquez.,Charles Lane đã đoạt một giải Pulitzer.,1
+Tòa án không phải là rạp xiếc chính trị duy nhất ở Washington sáng nay.,Tòa án không phải là nơi chính trị duy nhất ở washington.,0
+Tòa án không phải là rạp xiếc chính trị duy nhất ở Washington sáng nay.,Ngày chính trị có thể bắt đầu vào buổi sáng.,1
+Tòa án không phải là rạp xiếc chính trị duy nhất ở Washington sáng nay.,Có một rạp xiếc ở tòa án cùng cùng chú hề.,2
+"Người ta có thể tưởng tượng tới cảnh một người lái xe ủi đất đang lê lưỡi ủi trên đường cho một sự phát triển mới được ca ngợi bởi nhà phát triển    Này, Loyd…",Bạn có thể tưởng tượng một người lái xe ủi đất bắt đầu vận hành một xe ủi đất.,1
+"Người ta có thể tưởng tượng tới cảnh một người lái xe ủi đất đang lê lưỡi ủi trên đường cho một sự phát triển mới được ca ngợi bởi nhà phát triển    Này, Loyd…",Bạn có thể tưởng tượng một nhà điều hành xe ủi đất.,0
+"Người ta có thể tưởng tượng tới cảnh một người lái xe ủi đất đang lê lưỡi ủi trên đường cho một sự phát triển mới được ca ngợi bởi nhà phát triển    Này, Loyd…",Không thể tưởng tượng bạn là một công nhân lái máy ủi.,2
+"Tôi báo cáo điều này trong một lá thư gửi cho Tiến sĩ     nó dường như khiến anh ta thích thú, và anh ấy đã gửi cho tôi một loại bánh trái cây nhỏ vào Giáng sinh.",Tôi chắc chắn rằng bác sĩ đã nhận được lá thư tôi đã gửi cho anh ấy.,0
+"Tôi báo cáo điều này trong một lá thư gửi cho Tiến sĩ     nó dường như khiến anh ta thích thú, và anh ấy đã gửi cho tôi một loại bánh trái cây nhỏ vào Giáng sinh.",Tôi không ăn bánh mà bác sĩ đã gửi cho tôi Giáng sinh đó.,1
+"Tôi báo cáo điều này trong một lá thư gửi cho Tiến sĩ     nó dường như khiến anh ta thích thú, và anh ấy đã gửi cho tôi một loại bánh trái cây nhỏ vào Giáng sinh.",Bác sĩ đã gửi cho tôi một chai rượu vang vào dịp Giáng sinh đó.,2
+"Nhóm trước đây đã được biết đến với tên gọi đáng nhớ là Beaneaters, một cách tò mò khác, cũng có thể được xem là một biệt danh của người Ấn Độ.",Nhóm đã thay đổi tên của họ vì nó không phổ biến.,1
+"Nhóm trước đây đã được biết đến với tên gọi đáng nhớ là Beaneaters, một cách tò mò khác, cũng có thể được xem là một biệt danh của người Ấn Độ.",Đội này có một cái tên trước khi cái tên này có thể được cho là nickname Ấn Độ.,0
+"Nhóm trước đây đã được biết đến với tên gọi đáng nhớ là Beaneaters, một cách tò mò khác, cũng có thể được xem là một biệt danh của người Ấn Độ.",Đội chỉ có một cái tên.,2
+Tôi không thể tìm thấy định nghĩa nào như vậy trong từ điển.,Tôi tìm thấy định nghĩa trong từ điển.,2
+Tôi không thể tìm thấy định nghĩa nào như vậy trong từ điển.,Tôi tra từ điển và không tìm thấy một định nghĩa.,0
+Tôi không thể tìm thấy định nghĩa nào như vậy trong từ điển.,Từ điển mà tôi sử dụng là từ điển điển hình.,1
+Sao người ta có thể làm việc đó?,Sao nhiều người lại có thể không làm gì cả?,2
+Sao người ta có thể làm việc đó?,Làm sao một người có thể làm điều tồi tệ đến thế?,1
+Sao người ta có thể làm việc đó?,Sao một người có thể làm điều đó?,0
+"Hơn thế nữa, nó chỉ bao gồm những thuật ngữ được biết đến trong thế kỷ hai mươi, theo phần Lời nói đầu, nhưng bỏ qua tiếng lóng quân sự của những năm đầu của thế kỷ 20.","Theo lời mở đầu, nó chứa đựng các thuật ngữ đã phát triển trong thế kỷ hai mươi nhưng lại loại bỏ tiếng lóng xuất hiện sớm hơn.",0
+"Hơn thế nữa, nó chỉ bao gồm những thuật ngữ được biết đến trong thế kỷ hai mươi, theo phần Lời nói đầu, nhưng bỏ qua tiếng lóng quân sự của những năm đầu của thế kỷ 20.",Nó có tất cả các tiếng lóng chứa trong nó từ đầu của thời gian.,2
+"Hơn thế nữa, nó chỉ bao gồm những thuật ngữ được biết đến trong thế kỷ hai mươi, theo phần Lời nói đầu, nhưng bỏ qua tiếng lóng quân sự của những năm đầu của thế kỷ 20.",Có rất nhiều tiếng lóng từ trước thế kỷ 20.,1
+"Nếu ai có ấn bản năm 1984, anh ta có thể sẽ phẫn nộ vì phải mua cuốn đó chứ không phải là một bản nhỏ hơn (và ít tốn kém hơn).",Phiên bản 1984 là tốt nhất.,1
+"Nếu ai có ấn bản năm 1984, anh ta có thể sẽ phẫn nộ vì phải mua cuốn đó chứ không phải là một bản nhỏ hơn (và ít tốn kém hơn).",Cuốn sách không phải để bán.,2
+"Nếu ai có ấn bản năm 1984, anh ta có thể sẽ phẫn nộ vì phải mua cuốn đó chứ không phải là một bản nhỏ hơn (và ít tốn kém hơn).",Phụ phí rẻ hơn sách.,0
+Bernstein giải thích trong phần giới thiệu,Bernstein không giải thích điều đó cụ thể.,1
+Bernstein giải thích trong phần giới thiệu,Bernstein chỉ giải thích điều đó trong phần kết luận.,2
+Bernstein giải thích trong phần giới thiệu,Phần giới thiệu chứa một lời giải thích.,0
+"Không nên can thiệp vào những chủ đề này, thậm chí dù sau hai năm thỏa hiệp, chỉ đơn thuần là rất khó để một người nước ngoài có thể nhận thức rõ việc này rất buồn cười.",Kể cả những người bản địa đôi khi cũng gặp rắc rối với sự hài hước.,1
+"Không nên can thiệp vào những chủ đề này, thậm chí dù sau hai năm thỏa hiệp, chỉ đơn thuần là rất khó để một người nước ngoài có thể nhận thức rõ việc này rất buồn cười.",Hài hước thường là một trong những điều dễ nhất để người ngoài hành tinh hiểu được.,2
+"Không nên can thiệp vào những chủ đề này, thậm chí dù sau hai năm thỏa hiệp, chỉ đơn thuần là rất khó để một người nước ngoài có thể nhận thức rõ việc này rất buồn cười.",Những người nước ngoài rất khó để hiểu những chủ đề này.,0
+"Cuối cùng, người ta cũng phải cảnh giác với phần dôi ra mang theo một ý nghĩa hoàn toàn khác.",Biên tập viên thường được thuê để bắt các loại lỗi này.,1
+"Cuối cùng, người ta cũng phải cảnh giác với phần dôi ra mang theo một ý nghĩa hoàn toàn khác.",Kéo dài là một cách tuyệt vời để đảm bảo rằng ý nghĩa của một câu được làm rõ.,2
+"Cuối cùng, người ta cũng phải cảnh giác với phần dôi ra mang theo một ý nghĩa hoàn toàn khác.",Ý nghĩa có thể thay đổi khi cố gắng làm cho một tuyên bố trở nên dài hơn.,0
+Làm cho đầu của bạn với nhiệt phát triển chóng mặt.,Áp dụng nhiệt cho đầu của một người là một cách tốt để cải thiện sự tập trung và tập trung của họ.,2
+Làm cho đầu của bạn với nhiệt phát triển chóng mặt.,Quá nóng có thể gây chóng mặt trong một số trường hợp.,0
+Làm cho đầu của bạn với nhiệt phát triển chóng mặt.,Hôm nay nó cao hơn năm độ so với mức trung bình theo mùa.,1
+Không nghề nào khác có truyền thống về sự tự ti.,Nhiều chuyên gia khác đánh giá cao về bản thân họ.,1
+Không nghề nào khác có truyền thống về sự tự ti.,Nhiều ngành nghề có truyền thống tự ti.,2
+Không nghề nào khác có truyền thống về sự tự ti.,Không công việc nào khác có lịch sử mạnh mẽ về chỉ trích chính nó.,0
+"Và với những ghi chú đầy niềm kiêu hãnh, những kẻ giẻ rách vốn đã kiếm được những cái tên đáng xấu hổ trong tầm hiểu biết địa phương lại sử dụng những biệt hiệu đó trong thư tín cá nhân, tán gẫu và các hồ sơ không chính thức.",Các giấy tờ không có danh tiếng nào cả.,2
+"Và với những ghi chú đầy niềm kiêu hãnh, những kẻ giẻ rách vốn đã kiếm được những cái tên đáng xấu hổ trong tầm hiểu biết địa phương lại sử dụng những biệt hiệu đó trong thư tín cá nhân, tán gẫu và các hồ sơ không chính thức.",Những loại giấy đó không được nhiều người biết đến.,0
+"Và với những ghi chú đầy niềm kiêu hãnh, những kẻ giẻ rách vốn đã kiếm được những cái tên đáng xấu hổ trong tầm hiểu biết địa phương lại sử dụng những biệt hiệu đó trong thư tín cá nhân, tán gẫu và các hồ sơ không chính thức.",Những giấy tờ đó có rất nhiều tin đồn từ các bà nội trợ.,1
+Nếu lite/light chỉ đơn giản là mô tả một đặc tính của bia (ví dụ:,Bia có loại ít béo hoặc loại nhẹ.,0
+Nếu lite/light chỉ đơn giản là mô tả một đặc tính của bia (ví dụ:,Tính từ nhẹ và sáng chỉ được sử dụng để miêu tả rượu và whiskey.,2
+Nếu lite/light chỉ đơn giản là mô tả một đặc tính của bia (ví dụ:,Bia nhẹ không có hàm lượng cồn cao.,1
+Danh từ bị lạm dụng và nghèo nàn thậm chí còn được sử dụng khi không cần đến nó cũng như khi không cần bất kỳ sự thay thế nào khác.,Mọi người đấu tranh để tìm một danh từ thay thế.,1
+Danh từ bị lạm dụng và nghèo nàn thậm chí còn được sử dụng khi không cần đến nó cũng như khi không cần bất kỳ sự thay thế nào khác.,Danh từ được sử dụng quá nhiều.,0
+Danh từ bị lạm dụng và nghèo nàn thậm chí còn được sử dụng khi không cần đến nó cũng như khi không cần bất kỳ sự thay thế nào khác.,Danh từ nên được sử dụng nhiều hơn.,2
+"Trên hết, chúng ta có một sự thật không mấy hoan hỉ là văn phong hùng biện đôi khi thật sự đáng nhớ, làm vấn đề trầm trọng hơn.",Mọi người thường có vẻ nhớ chữ viết xấu hơn.,2
+"Trên hết, chúng ta có một sự thật không mấy hoan hỉ là văn phong hùng biện đôi khi thật sự đáng nhớ, làm vấn đề trầm trọng hơn.",Bài viết hay thường dễ nhớ hơn nhiều so với bài viết dở.,0
+"Trên hết, chúng ta có một sự thật không mấy hoan hỉ là văn phong hùng biện đôi khi thật sự đáng nhớ, làm vấn đề trầm trọng hơn.",Văn bản được viết tốt quá đắt để sản xuất với số lượng lớn.,1
+"Đối mặt với thái độ này và hơi có chút kinh ngạc, người Anh thừa nhận sự tôn trọng của họ bằng cách tận dụng từ đó.",Người Anh không có sự tôn trọng.,2
+"Đối mặt với thái độ này và hơi có chút kinh ngạc, người Anh thừa nhận sự tôn trọng của họ bằng cách tận dụng từ đó.",Người Anh đã tiếp quản nền kinh tế thế giới.,1
+"Đối mặt với thái độ này và hơi có chút kinh ngạc, người Anh thừa nhận sự tôn trọng của họ bằng cách tận dụng từ đó.",Người Anh đã trao đổi rất nhiều trên toàn thế giới.,0
+"Thỉnh thoảng, đó cũng là điều vụng trộm nhất.",Nó có thể rất khó phát hiện ở lần.,0
+"Thỉnh thoảng, đó cũng là điều vụng trộm nhất.",Nó tạo ra rất ít tiếng ồn nhờ vào động cơ được cách nhiệt cẩn thận.,1
+"Thỉnh thoảng, đó cũng là điều vụng trộm nhất.",Nó luôn luôn rất dễ dàng để phát hiện từ bất kỳ khoảng cách nào.,2
+"Vì nó xảy ra, tất nhiên, có nhiều tiếng địa phương đặc biệt của tiếng Anh ở Anh hơn ở Bắc Mỹ, và bất cứ ai đã dành bất cứ lúc nào lắng nghe họ biết rằng một số người không hiểu lẫn nhau.","Anh có nhiều phương ngữ tiếng Anh đặc biệt, đánh số nhiều hơn ở Bắc Mỹ.",0
+"Vì nó xảy ra, tất nhiên, có nhiều tiếng địa phương đặc biệt của tiếng Anh ở Anh hơn ở Bắc Mỹ, và bất cứ ai đã dành bất cứ lúc nào lắng nghe họ biết rằng một số người không hiểu lẫn nhau.","Giong điệu Bắc Mỹ và Anh hoàn toàn giống nhau, và mọi người không thể phân biệt được sự khác biệt giữa chúng.",2
+"Vì nó xảy ra, tất nhiên, có nhiều tiếng địa phương đặc biệt của tiếng Anh ở Anh hơn ở Bắc Mỹ, và bất cứ ai đã dành bất cứ lúc nào lắng nghe họ biết rằng một số người không hiểu lẫn nhau.",Những người từ Bắc Mỹ khó có thể hiểu được một nửa các phương ngữ nói tiếng Anh.,1
+"'Một người cung cấp tin tức ở Tennessee sử dụng thời tiết cho chó' thời tiết nóng, không đau, 'có thể xuất phát từ những ngày chó biểu hiện đề cập đến thời tiết tháng 8 khô ráo.","Theo người cung cấp thông tin, chó có thể dự báo thời tiết khi những cơn gió theo mùa ập đến.",2
+"'Một người cung cấp tin tức ở Tennessee sử dụng thời tiết cho chó' thời tiết nóng, không đau, 'có thể xuất phát từ những ngày chó biểu hiện đề cập đến thời tiết tháng 8 khô ráo.",Tháng 6 và tháng 7 cũng rất nóng ở Tennessee.,1
+"'Một người cung cấp tin tức ở Tennessee sử dụng thời tiết cho chó' thời tiết nóng, không đau, 'có thể xuất phát từ những ngày chó biểu hiện đề cập đến thời tiết tháng 8 khô ráo.",Thời tiết nóng và không mưa trong hầu hết các ngày tháng Tám.,0

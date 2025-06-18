@@ -1,0 +1,1846 @@
+premise,hypothesis,gpt_reply
+"Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.",Tee noñatajeriji.,"entailment
+"
+"Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.",Ikisanaka iroosati noñaatanatantajari.,"neutral
+"
+"Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.",Nokenketsajeitake.,"neutral
+"
+"Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.",Tee niobeiteaji kaari aparonitatsiri atiri aranki kitaiteriki.,"neutral
+
+
+
+**explanation:**
+
+without a full translation and understanding of the asháninka context, it's impossible to determine a logical relationship (entailment or contradiction). the premise describes a situation involving something (possibly a flight - ""fuerza aérea"" suggests air force) and numbers (""992""). the hypothesis talks about something (""kaari"") related to a person (""atiri"") and potentially a condition (""kitaiteriki""). 
+
+there's no overlap in subject matter or discernible logical connection based *solely* on the text provided. therefore, the premise is neutral towards the hypothesis. it neither confirms nor denies it."
+"Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.",Nojitakanti iritake apaniro ñaakarontsitakarori antaberentsiki AFFC Air Force Career oshintsine tampea.,"neutral
+
+
+
+"
+"Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.","Maaroni ipajeitakenaro iroori ñaakarontsi, tekatsi ojitasanotanakea ikantayeetakenari, maaroni irointi tseyantsi.","neutral
+
+
+
+"
+Ikantetakena oka... aparo kajemenane noñaabakanteari.,Tekatsi ikantetena niyoteri.,"neutral
+"
+Ikantetakena oka... aparo kajemenane noñaabakanteari.,Ikantetakena ikajemakantena aparo atiri iyotenane.,"neutral
+"
+Ikantetakena oka... aparo kajemenane noñaabakanteari.,Iyotenane ikonijatake ishabiniji.,"neutral
+"
+"Osheki ikantetakoterori oka, omatea nomitajero oka.",¡Nokoi nokenketsatimotempiro maaroni kantakotirori ora!,"neutral
+"
+"Osheki ikantetakoterori oka, omatea nomitajero oka.","Eiro noñaanatakotajirotsi oka, omabetakea timatsi osheki amanakoteri.","neutral
+"
+"Osheki ikantetakoterori oka, omatea nomitajero oka.",Eiro noñaanatakotajirotsi okantakota ora kenketsatakorentsi ashi nampitsi tempa timatsi osheki ankanter.,"neutral
+"
+"Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.",Tee opokimotanajee akempoyaayetanajero.,"neutral
+"
+"Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.",Akoajeiti ababisakotajero paitarika timatsiri kaarikea otsipa.,"neutral
+"
+"Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.",Akoajeiti ababisakotajero bomba nija tempakea opomerentsitasanota antakotantearori.,"neutral
+"
+Tee okonijamotenaji kameetsa tempakea.,Irootake nokenkeshireantakarori timatsineri.,"neutral
+"
+Tee okonijamotenaji kameetsa tempakea.,Tee niyoteji paita ipantajarori obametantsipankopee.,"neutral
+"
+Tee okonijamotenaji kameetsa tempakea.,Tee niyoteji paita otimantakari oka.,"neutral
+"
+"Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.",Fannie Flono otimatie napiitakotajero aisati eiro omata akenketsatakotero apaitapeerika kenketsatakorentsi meeka.,"neutral
+
+
+
+"
+"Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.","Fannie Flono jerokatake aka ari oñaanatakotero okantakota oyenketsatakore ashi orijanitantapaari otimotantanakari Augustaki,AG.","neutral
+
+
+
+**explanation:**
+
+both the premise and hypothesis discuss fannie flono and augusta, ga, and relate to origins/history (""orijanikitantapaari"" / ""orijanitantapaari""). however, the wording is different enough, and involves different actions/descriptions (""okimotake"" vs. ""jerokatake"", different modifiers around ""oñaanatakotero"" and ""oyenketsatakore"") that we *cannot* definitively say the premise necessitates the hypothesis (entailment) or that it *disproves* the hypothesis (contradiction).  
+
+they appear to be talking about related but potentially different aspects of fannie flono's connection to augusta, ga.  therefore, the relationship is neutral.
+
+
+
+"
+"Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.",Fannie Flono omatiro oñaanatakotero meeka omabetakea timatsi antayeteri.,"neutral
+"
+Aisati obetsikake koni soraaropanko ashi U2.,Nokantakero ora U2.,"neutral
+"
+Aisati obetsikake koni soraaropanko ashi U2.,Tee nojibaterini anta U2 omateaji.,"neutral
+"
+Aisati obetsikake koni soraaropanko ashi U2.,Nantabeetake soraaropankoki ashi U2 maaroni kitaiteriki okarate otsitsa osarentsi.,"neutral
+"
+Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.,Tee onimoshirenaji apaniro nantero ora manankobentirori ashi ñaantamentsotsipee.,"neutral
+"
+Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.,Ora ñaantamentotsipee antajeitaka anta shiakamentotsiki jenoki orijanikiki.,"entailment
+"
+Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.,Otimake aparopeeniki aroriki ajibajeitakero amanakobentiroripee ashi ñaantamentotsi.,"neutral
+"
+"Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.",Irosatitatsi nantabeeti oka kitaiteriki.,"neutral
+"
+"Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.",Noshitoanaji 2002.,"neutral
+"
+"Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.",Rick ikantimpi shitobanajana.,"entailment
+"
+"Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.",Yora ayompariteari ipajita Cutty ikaanata $ 10000 kashiriki.,"neutral
+"
+"Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.",Timatsi ayompariteari pajitachari Cutty.,"entailment
+"
+"Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.",Tee itimajeite ayompariteari pajitachari Cutty.,"neutral
+"
+Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.,Ora tsinane nokoiri amitakotena osaiki arejiki.,"neutral
+"
+Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.,Ora jananeki amitakotenaneri otimi 5 millas oparikotiti.,"neutral
+"
+Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.,Tekatsi amterone amitakotenane.,"neutral
+"
+"Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…",Maaroni yakabakaajeitaka yantabejeite maaroni anta obantsiki.,"neutral
+"
+"Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…",Tee imateroji yakabakaajeitea okantakota irako irashi antabetinkari iroitake saikatsiri pankotsiki.,"neutral
+"
+"Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…",Tee imateroji yakabakaajeitea jaanikarika antabetatsineri obantsiki ashi empeji aisati janikarika amashiteroneri piisopee.,"neutral
+
+
+
+**explanation:**
+
+without a detailed understanding of asháninka semantics and cultural context, it's impossible to definitively say if the premise entails or contradicts the hypothesis. both statements appear to be complex assertions about actions, states, and possibly relationships. 
+
+here's why ""neutral"" is the most appropriate answer:
+
+* **lack of direct overlap:** there's no immediately obvious logical connection or shared elements that would force the hypothesis to be true *if* the premise is true (entailment), or false *if* the premise is true (contradiction).
+* **complexity:** the sentences are long and nuanced. a superficial reading isn't enough to determine a logical relationship.  the meaning of seemingly similar words could be different in context.
+* **cultural context:**  asháninka language and thought may operate with different assumptions or categories than western logic, making a purely logical assessment unreliable.
+
+
+
+therefore, given only the provided text, the relationship is best described as neutral. we simply don't have enough information to make a stronger claim."
+"Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.",Irori tee ikoanaje iñaanantanaje.,"neutral
+"
+"Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.",Iñaantakotiro maba kiajamentotsi pashinitatsiri.,"neutral
+"
+"Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.",Iñaanatakotiro maba konijayetatsiri.,"neutral
+"
+"Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.",Maaroni itomipee itimajeitanake.,"neutral
+"
+"Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.",Aparoni jananeki ikamake koni irosarentsite.,"neutral
+"
+"Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.",Yora jananeki kamaintsiri yamashibeta itimantakari.,"neutral
+"
+"Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.",Ora U2 ajeitake osheki shiakabentantsi.,"entailment
+"
+"Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.",Ora U2 ajeitake aparo tonerara ashi shiakabentantsi asaabiki nija.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of asháninka grammar and semantics, a definitive judgment is difficult. however, based on a surface-level analysis and the available context:
+
+*   the premise speaks about keariotake and androv gromikov, seemingly related to a location (u2) and some activity involving ""kamantatsi"" and ""ashi shiakabentantsi"".
+*   the hypothesis speaks about ""ora u2"" and its relationship to ""ashi shiakabentantsi"" and ""asaabiki nija"".
+
+there is a shared phrase (""ashi shiakabentantsi"") but the overall contexts and subjects are different. the premise doesn't give us enough information to definitively say the hypothesis *must* be true (entailment) or *must* be false (contradiction). it's possible the hypothesis is true *given* the premise, but it's equally possible it isn't. therefore, it's best categorized as *neutral*.
+
+**important note:** a more accurate assessment would require a fluent asháninka speaker or a detailed linguistic analysis of both sentences. this response is based on the limited information provided."
+"Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.","Tee otimimojeiteji antantearori timaarantatsiri, otimatiye ayotashitajearo.","neutral
+"
+"Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.","Ikantantakariri pataite porcheki, otimi ijakipee irokiki.","neutral
+"
+"Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.",Iroori opirijatantajaro intsipaite ojaki impoiji yojokantakari Joe nikoji porcheki.,"neutral
+"
+"Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.",Ikimoshiretake iñaakeri Joe iraanaka.,"neutral
+"
+"Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?",Ora opeanteari katsirinkarijenka aitake otimiri ariorika otime tayetantsi.,"neutral
+"
+"Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?",Ora opeateari katsirinkajenkari oshitoayeti karayetirori koasanotachari impoiji ariorika otaya aparo arakomentotsi.,"neutral
+
+**explanation:**
+
+without a deep understanding of asháninka cultural context and the nuances of the language (which i, as an ai, lack), it’s impossible to definitively determine a logical relationship between these statements. they appear to be complex questions/statements about actions, reasons, and consequences. 
+
+the premise asks *why* something happens given a certain situation (""iro ora kenamentotsi taanaka...""). the hypothesis describes a situation and its associated impacts (""ora opeateari katsirinkajenkari..."").
+
+there's no inherent logical connection revealed *just* from the sentences themselves that would lead to entailment or contradiction. they *could* be related, but we lack the knowledge to confirm. therefore, 'neutral' is the only safe answer.
+
+
+
+"
+"Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?",Ora opeanteari katsirinkajenkari tee oshitaojenkate ariroika otime aparo tantsi.,"neutral
+"
+"Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.",Yora pinkatsari shitobanaintsiri Fuerza Aérea irashi Estados Unidos.,"neutral
+"
+"Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.",Yora pinkatsari irobakera ishitobanake oka tsonkitai.,"neutral
+"
+"Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.",Yora pinkatsari Fuerza Aérea irashi Estados Unidos irobakera intaro obametantsi oka tsonkitai.,"neutral
+"
+"Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.",Aparo arakomentotsi aretea aparoniki tsonkitai.,"neutral
+"
+"Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.",Oshekianake arakomentotsipee arayeti irointi pomerentsitantsi.,"neutral
+
+
+
+**explanation:**
+
+without a detailed understanding of asháninka semantics and cultural context, it's impossible to determine a logical relationship between these statements. they appear to discuss different concepts (the premise seems to relate to someone's ability/skill or a situation involving something being done well, while the hypothesis seems to discuss someone's character/behavior). there's no obvious logical connection that would lead to entailment or contradiction. therefore, the relationship is best described as neutral.
+
+**important note:** accurate determination requires fluency in asháninka and knowledge of the cultural nuances embedded in the language. this assessment is based solely on the surface-level structure of the sentences."
+"Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.",Tee aretajeaji katsini aparopenin arakomentotsi.,"neutral
+"
+Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.,Osamanitake maba kashiri omonkaratanteari ñaantamentotsi ikitsatantearori ora traje ashi shintsitatsiri.,"neutral
+"
+Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.,Ora ñaantamentotsi antantearori ora traje ashi shintsitatsiri okoitea kitaiteri.,"neutral
+"
+Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.,Ari omatakea añantearo ora traje ashi shintsitatsiri omonkaratea otsonkanteari kitaiteri.,"neutral
+
+
+
+"
+Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.,Ora kepiarijenkari itsibakajiro yora antakotirori arakomentotsi.,"neutral
+"
+Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.,Ora kepiarijenkari tee otimeji otonkanteari.,"entailment
+"
+Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.,Otimabetaka aparo kobenkatatsiri otonkantearime kepiarijenkari.,"neutral
+"
+Jaoka okanteari okemeteari okarati nantemeri.,Te niyotasanote jaoka okantimotimpi oka.,"neutral
+"
+Jaoka okanteari okemeteari okarati nantemeri.,"Mataka, nomatanentakero nantero.","neutral
+"
+Jaoka okanteari okemeteari okarati nantemeri.,Nantanatiro notsonkantearori nantabeere otsipaniki tsonkitai.,"neutral
+"
+"Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.",Yora kaabirapee ishiajeitanaka itantoki maaroni kitateripeeki.,"neutral
+"
+"Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.",Yora kaabirapee ishiajeitanaka kapichajitatsiri.,"neutral
+"
+"Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.",Yora kaabirapee isaikajeitanake aisati yabisakojeitake.,"neutral
+"
+"Akeiajeitake, ora ashitakorontsi ashijeitaka.",Maaroni ashitakorontsi ashitareajeitaka.,"neutral
+"
+"Akeiajeitake, ora ashitakorontsi ashijeitaka.",Atimajeitiro ora ashitareamentotsipee.,"neutral
+"
+"Akeiajeitake, ora ashitakorontsi ashijeitaka.",Akiajeitake ayobetaka ashijeitaka ashitakorontsipee.,"neutral
+"
+Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.,Nokantajeiti ora timajeitatsiri iroojeitake nokoajeitiri nobetsikanteariori oka.,"neutral
+"
+Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.,"Tee otimimotenaji kenkeshireantsi paita anteri ikarati timajeitatsiri. Pipeakotakayenaro, pipena kenkeshireantsi nobetsikantajearori oka entuerto.","neutral
+"
+Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.,Ari nomonkaratakero noijatanakeri timajeitatsiripee.,"neutral
+"
+"Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.",Nokimoshiretake aisati ojaakena kimoshiretantsi noposapaakero ootikaakotari ashitakorontsi.,"neutral
+"
+"Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.","Nokoabetaka eiro iyoyetaname nantakeri, iro niyojeitake narojeitake antakerori pomerentsitantsi.","neutral
+
+
+
+**explanation:**
+
+without a deep understanding of asháninka cultural context and the specific meanings of these terms, it's impossible to definitively say the premise entails or contradicts the hypothesis. they *seem* to be discussing different topics – the premise appears to relate to a past event involving a person and a journey (based on possible root meanings of words like ""ashi-"" relating to foot/travel and ""nokenkeshireanaka"" potentially relating to carrying something), while the hypothesis seems to be about a current state or a general truth concerning someone's feelings or condition (""eiro"" possibly meaning 'heart/feeling', ""nantakeri"" potentially relating to being/existing). 
+
+there's no logical connection readily apparent that would lead to entailment or contradiction. therefore, the relationship is best described as *neutral*.
+
+**disclaimer:** my assessment is based on limited linguistic knowledge of asháninka and relying on potential root meanings and structural analysis. a fluent speaker or expert in asháninka language and culture would be needed for a truly accurate determination."
+"Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.",Apatiro namenakero iboro ikiantapaakariashitakorontsiki nojitake imaninteetakeri.,"without a translation and understanding of the asháninka language, determining entailment, contradiction, or neutrality is impossible. i need the meanings of the sentences to assess the logical relationship between them.
+
+therefore, my response is: **neutral** 
+
+(because i lack the necessary linguistic information to make a judgment.)
+
+
+
+"
+"Opoña, tee aneroji kenketsatakorentsi konijaperori.",Tee otimimotenaji aparo nobaararo nashiteari.,"neutral
+"
+"Opoña, tee aneroji kenketsatakorentsi konijaperori.",Timatsi nobaararo konijaperori.,"neutral
+"
+"Opoña, tee aneroji kenketsatakorentsi konijaperori.",Timatsi osheki obararontsipee.,"neutral
+"
+Iriori tee katsini otimimoteri yanteri irioriki.,Iriori yai osheki amitakotantsi.,"neutral
+"
+Iriori tee katsini otimimoteri yanteri irioriki.,Iriori yai amitakotantsi yobanteari aisati iitsare.,"neutral
+"
+Iriori tee katsini otimimoteri yanteri irioriki.,Iriori ini apanirotinkari.,"neutral
+"
+"Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.",Ramona osaikake kipatsiki okirotaka okemetari irijanitatsiri.,"neutral
+"
+"Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.",Ramona okantimatakena nomareretira.,"neutral
+"
+"Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.",Ramona oibotanaka nosaikaiti napankaiti nobante.,"neutral
+"
+¡Aisati keariotatsiri irointi intsipate!,"Obaka osheki obanarontsi, tee otenateji.","neutral
+"
+¡Aisati keariotatsiri irointi intsipate!,Iroori tee abisheni osheki.,"neutral
+"
+¡Aisati keariotatsiri irointi intsipate!,Iroori okimoshiretasanotake.,"neutral
+"
+Tee niyoteji osaikanakerika Augustaki impoijirika oka.,Iriori irosati itimi Augustaki otimanakari impoijini antabakantsipee.,"neutral
+"
+Tee niyoteji osaikanakerika Augustaki impoijirika oka.,Iriori irosatitatsi itimi Augustaki.,"neutral
+"
+Tee niyoteji osaikanakerika Augustaki impoijirika oka.,Ishitoanaji nikoji Augustaki intsipaite.,"neutral
+"
+"Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.",Tekatsi katsini nosampiteri jaoka ijajeiteri.,"neutral
+"
+"Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.",Ikantani iyotakaajeite jaoka isaikajeitiri aisati jaoka ijajeiteri.,"neutral
+"
+"Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.",Teakatsi katsini ikantajeite jaoka ijajeiteri.,"neutral
+
+
+
+"
+Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.,Eiro pipinabentajeitanantsi narorijei.,"neutral
+"
+Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.,Ipinabentajeitanaro ora pankotsi nashi jero irashi noreentipee.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of asháninka cultural context and the specific meanings of all the words, it's impossible to determine a logical relationship between these two sentences. they appear to discuss different topics.
+
+*   the premise seems to relate to someone being unable to see/find something (""apainajeitakero aparo nampitsi pisaikajeitanteari"").
+*   the hypothesis appears to be about someone not being able to do something (""ipinabentajeitanaro ora pankotsi nashi jero irashi noreentipee"").
+
+there's no inherent logical connection – one doesn't *necessarily* follow from or oppose the other. therefore, it's **neutral**.
+
+"
+Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.,Ipinabentajeitiro ora pankotsi.,"neutral
+"
+"Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.",Kennedy ikantajeitakeri asorarotepee yamenayete misiles.,"entailment
+
+
+
+**explanation:**
+
+let's break down the asháninka (with approximate glosses to aid understanding):
+
+* **premise:** ""kennedy, because of problems, trouble, a situation, went to talk to cuba, hmm..., about the things that cuba had, hmm..., they say that cuba has missiles that can reach us, that's why he went to cuba."" (this is a simplified approximation, asháninka is highly contextual)
+* **hypothesis:** ""kennedy went to discuss missiles.""
+
+the premise *explicitly states* that kennedy went to cuba *because* cuba had missiles and those missiles were a threat. therefore, the hypothesis – that kennedy went to discuss missiles – is a direct consequence and is logically contained within the premise. this constitutes entailment."
+"Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.",Tee okatiyajeiteji kenamentotsi teempakea teeokoajeiteji antabakantsi.,"neutral
+"
+"Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.",Iñaajeitapake 20 misiles kenamentotsiki.,"neutral
+"
+"Paitarika timatsineri, yora shirampari ikie.",Yora shirampari ikiapaake pinkatsaritsipankoki.,"neutral
+"
+"Paitarika timatsineri, yora shirampari ikie.",Yora shirampari ikiapaake tantorentsiki.,"neutral
+"
+"Paitarika timatsineri, yora shirampari ikie.",Yoran shirampari ishianaka otsapinampiki omontsantari.,"neutral
+"
+"Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.",Yaanakena osheki kitaiteripeeirosati ibankoki chainepee.,"neutral
+
+
+
+"
+"Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.",Nochainepee iriintini tsipabakaachari kameetsari.,"neutral
+
+
+
+"
+"Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.",Nochainepee ikantani iriorijei ishemashireanta tee onimotena nareateari ibankoki.,"neutral
+
+
+
+"
+Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.,Ari nomatakero notsonkero noiminkiyero ishaabiniji.,"neutral
+"
+Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.,Nominkiakero maaroni kitateriki.,"neutral
+"
+Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.,Nosaikanake tekatsi noitaiterite noiminkiantearori maaroni.,"neutral
+"
+"Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.",Ora kipiarijenkari atomica tee añeroji gatillo.,"contradiction
+"
+"Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.",Yora kijakotirori ikijiro ora kepiarijenkari arorika yojokero iriori.,"neutral
+"
+"Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.",Apatiro ikoayeeti kapichaji shintsitantsi ajokantearori gatillo ashi kipiarijenkari atomi.,"neutral
+"
+"Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.",Okantani okemisantiro kenketsatakorentsipee ashi nosaro.,"neutral
+"
+"Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.",Nosaro okantani tee oñaanatakotero irijanikitantapaakari.,"entailment
+
+
+
+**explanation:**
+
+let's break down the asháninka (as best as possible with limited context, relying on common asháninka linguistic patterns and available resources):
+
+* **premise:** roughly translates to ""when the jaguar finishes hunting and brings back the prey, they say that the asháninka people become strong and skillful."" (this is an approximation, as nuanced meanings are difficult without a full grammar). the key is the conditional relationship: *if* the jaguar brings back prey, *then* the asháninka become strong and skillful.
+* **hypothesis:** roughly translates to ""the jaguar makes people strong."" 
+
+the premise states that the jaguar *causing* the bringing of prey *results in* the asháninka becoming strong. therefore, the jaguar is inherently linked to making people strong, even if it’s indirect. the hypothesis directly states this link.  because the premise provides a scenario *where* the jaguar leads to strength, the hypothesis about the jaguar making people strong is a logical consequence. therefore, the premise *entails* the hypothesis.
+
+
+
+"
+"Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.",Nosaro okenketsatakaana osheki paitarika ashi osahninka irijanikitantapaakari.,"neutral
+"
+"Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.",Aitsarepee tee okonijatimoteeji okempetantearori irashi austronautas.,"**entailment**
+
+here's why:
+
+the premise states ""otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari **ora astronautas**, irompa ashi obetsikaka…"".  this translates roughly to ""otimini, when *aitsarepee* happens, they talk about things, including **astronauts**..."" the hypothesis states ""*aitsarepee* involves astronauts"".  the premise *explicitly* includes astronauts when *aitsarepee* happens, therefore the premise logically necessitates the hypothesis. it doesn't just allow for it, it states it as part of what happens *when* *aitsarepee* happens.
+
+
+
+"
+"Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.","Aitsarepee irosatitatsi irashi astronautas, irompa ashi masabirentsi, iro ashi obetsikajeitaka.","neutral
+"
+"Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.",Ari imatakea yaye kitsarentsipee paitarika potsorentsipee ikoiri.,"neutral
+
+
+
+**explanation:**
+
+without a detailed translation and understanding of asháninka semantics, it's impossible to determine a logical relationship (entailment or contradiction). the premise appears to be a complex statement, potentially about a sighting or experience. the hypothesis seems to be a statement about a certain type of person.
+
+given the lack of shared vocabulary and context, there's no way to logically connect the two. they *could* be related, but we don't have enough information to say they *must* be, or that one negates the other. therefore, the relationship is **neutral**.
+
+to get a definitive answer, we'd need:
+
+1.  **accurate translations** of both sentences.
+2.  **context** of the situation in which these statements are made.
+3.  **knowledge** of how asháninka speakers reason and what cultural assumptions might be relevant.
+
+
+
+"
+"Nojatake, nosaro tee ojateji kameetsariki shirampari.",Nochaine irirnti aparo kaariperori.,"neutral
+"
+"Nojatake, nosaro tee ojateji kameetsariki shirampari.",Nochaine iriperorini manintantatsiri aisati kaa kameetsari.,"neutral
+"
+"Nojatake, nosaro tee ojateji kameetsariki shirampari.",¡Nochaine irintini atiri kameetsashireari piñeeri aparo koajikani!,"without knowing the meanings of the asháninka phrases, it is impossible to determine the relationship between the premise and hypothesis. therefore, the answer is **neutral**.
+
+
+
+"
+"Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.",Tee otimimojeiteni abetsikajeitanteari.,"neutral
+
+
+
+"
+"Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.",Añantajeita okarati 5 tsonkitai akaratiri britanicos.,"neutral
+
+
+
+**explanation:**
+
+here's a breakdown of why it's neutral, based on understanding the (translated) premise:
+
+* **premise (roughly translated):** ""about 30 or 40 people from u2 came, they said they were going to help with the health [problems], the chinese and british came, and they brought medicine.""
+* **hypothesis (roughly translated):** ""five british people are helping with health.""
+
+the premise states that *some* british people came as part of a larger group. it does *not* specify the number of british people, nor does it explicitly state they are helping with health, just that they ""came"".  the hypothesis claims a specific number (five) are helping. the premise doesn't give us enough information to confirm or deny the hypothesis. it's entirely possible that five british people *are* helping, but the premise doesn't tell us that. therefore, the relationship is neutral.
+
+
+
+"
+"Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.",Añantajeita akaratiri itsipa osheki soraropee.,"neutral
+"
+"Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.",Iroori tee oñaanatenaji.,"neutral
+"
+"Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.",Ikantana pamene paitarika.,"neutral
+"
+"Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.",Iroori okantana amenayete kamantakoyeteroneri ashi kirekitsaki.,"neutral
+"
+Ikanti ikenanake ijati kirinkaki.,Ikanti nokatiyayetanaka aparopeeniki abotsi.,"neutral
+"
+Ikanti ikenanake ijati kirinkaki.,Ikanti ikenake ijati katonko.,"neutral
+"
+Ikanti ikenanake ijati kirinkaki.,Ikanti ijajeiti anta kirinkaki.,"neutral
+"
+"Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.",Tee noñaanateji aparoni kiribiro timatsiri 100 obana.,"neutral
+"
+"Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.",Tee noñaanateji osheki kiribiropee.,"neutral
+"
+"Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.",Noñaanatiro kiribiropee maaroni kitaiteriki.,"neutral
+"
+Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.,Nojokanakero motirentsi aisati nokenkeshireanaka kaari oni nashi pomerentsiri.,"neutral
+"
+Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.,Naanajiro motirentsi anta itantoreki.,"neutral
+"
+Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.,Naanajiro motirentsi anta jaoka ashitaroriki.,"neutral
+"
+Okampiamotajana nokantayeta keariperori.,Ora ikantayetari irosati ikanta monkarataka okantapinitaka.,"neutral
+"
+Okampiamotajana nokantayeta keariperori.,Abishisanake kimoshirentsi irosati obashirentsiki.,"neutral
+"
+Okampiamotajana nokantayeta keariperori.,Ora ikantayetari okampiatnaka osheki.,"neutral
+"
+"Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.",Tee yobayeetenaji anojatanteari obametantsipankoki.,"neutral
+"
+"Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.",Yobayeetakena nojatanteari anta obametantsipankoki.,"entailment
+"
+"Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.",Narobetaka yojokimetenteri koasanotachari.,"neutral
+
+
+
+**explanation:**
+
+without a translation and deep understanding of asháninka cultural context and the nuances of the words used, it's impossible to determine a logical relationship (entailment or contradiction). the premise describes a situation involving someone (presumably) not being able to accomplish something after 15 attempts, and expresses a sense of frustration (""eiro nojatitsi"" repeated). the hypothesis speaks about someone having the ability to do something (""yojokimetenteri"") in relation to a location (""koasanotachari""). 
+
+these statements simply *don't relate* to each other in a way that allows us to say one logically follows from the other or opposes the other. therefore, they are neutral.
+
+**important note:** accurate linguistic analysis requires expert knowledge of asháninka. this answer is based solely on the surface-level appearance of the text and the need to select one of the three provided options."
+"Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.",Maaroni atiripee tee imateroji ñaantamentotsipee eiro katsini yareetaro yare U2.,"neutral
+
+
+
+"
+"Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.",Otimatiye yabishero osheki iñaantakayari tekerata yarakote U2.,"neutral
+"
+"Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.",Apatiro ishineyeeteri yarakote U2 jibatatsiriki kitaiteri.,"neutral
+
+
+
+"
+Narosati jibatakanteroneri irosatitatsiri.,Notikantearo irobakerari yantayetantearori.,"neutral
+"
+Narosati jibatakanteroneri irosatitatsiri.,Notikantearo irosatitatsi konijatatsiri otsipasatoki revistas.,"neutral
+"
+Narosati jibatakanteroneri irosatitatsiri.,Noñaanatiro irosatitatsiri konijatatsiri irioririjei.,"neutral
+"
+"Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.",Yora sorarotatsiri eiro imatirotsi ipempa embajadora ashi TX.,"**entailment**
+
+here's why:
+
+* **premise translation (roughly):** ""because of the rain, 75 people got sick, and they went by plane from texas to the ambassador in texas, they said, they are ambassadors from texas.""
+* **hypothesis translation (roughly):** ""people went by plane and are ambassadors from tx.""
+
+the premise *explicitly states* people went by plane *from* texas *to* the ambassador in texas *and* are identified as ambassadors from texas. the hypothesis simply states people went by plane and are ambassadors from tx, which is a direct consequence of the information provided in the premise. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.",Yora sorarotatsiri ipajireakoyetakeri Embajadores ashi Texas Congreso ashi Estados Unidos.,"neutral
+"
+"Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.",Yora sorarotatsiri ikajemayeetakeri Embajadores ashi TX.,"entailment
+"
+Aririkame otimeme yantearori ari imatakero yantero.,Naro ari nomatakero nantero paitarika.,"neutral
+"
+Aririkame otimeme yantearori ari imatakero yantero.,Piyobetaka tekatsi timatsine ora nantemeri.,"neutral
+"
+Aririkame otimeme yantearori ari imatakero yantero.,Nokenkeshireakota ari nomatakero nantayete paitarika nobabisakotanteariri.,"neutral
+"
+"Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.",Iroori okantani okimoshiretakairo ireento.,"neutral
+"
+"Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.",Onijantasanotanakero ireento tee oyoteni antero kameetsari.,"neutral
+"
+"Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.",Iroori kantantinkaroni otsipataroni ireento.,"neutral
+"
+Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.,Aakero impokirotsate okoakotantini okajemanteari.,"neutral
+"
+Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.,Nokajemakero ora ñakarontsi ariorika naretakea obankoki.,"neutral
+"
+Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.,"Ikanteeti akajemero, iro tee nanteroji.","neutral
+"
+"Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.","Meeka tee nojaiteji, arikea tee noñeeroji.","neutral
+"
+"Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.","Nonijantaka gimnasioki ,meeka ari iriori ipokake ishaabiniji ibetsatakena.","neutral
+
+
+
+**explanation:**
+
+without a detailed translation and understanding of the nuances of asháninka, it's impossible to definitively state entailment or contradiction. the premise discusses a situation involving *kameetsa* (likely a person), actions (*areetakaro oka okitaiteamani*), and consequences related to health (*kemeri*, *sampitantsi*, *iriori*, *noyotake*). the hypothesis speaks about someone (*nonijantaka*) doing physical exercise (*gimnasioki*) and a resulting state of being strong or healthy (*ishaabiniji ibetsatakena*). 
+
+there's no clear logical connection established between the two statements. the premise doesn't provide information about exercise, nor does the hypothesis mention the specific context of the premise. therefore, the relationship is *neutral*.
+
+**important note:** this assessment relies heavily on the inability to fully translate the asháninka text. a proper linguistic analysis could change this classification."
+"Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.",Nonijantaka oka okitaitemani aisati iriori ipokake.,"neutral
+"
+Tee ayojeiteni jaoka ijajeitiri.,Tee ayojeiteni jaoka ikibantiri apatorentsitakoriki.,"neutral
+"
+Tee ayojeiteni jaoka ijajeitiri.,Tee ayojeiteni jaoka ikibanteri yora atiri.,"neutral
+"
+Tee ayojeiteni jaoka ijajeitiri.,ayojeitini jaoka yareejeiteari.,"neutral
+"
+"Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.",Tee añeeroji itasheasanotanteari.,"neutral
+"
+"Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.","Otimini itashe, irosati nokantantanaka noyarota irobanaro.","neutral
+"
+"Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.","Nokameme notashe, irosati nojatantaka cafeteriaki.","neutral
+"
+"Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.",Iroobetanchame nojokanajero.,"neutral
+"
+"Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.",Okatsitimotanakena tee nomatajeroji namabetajero.,"neutral
+"
+"Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.",Tee abishimotena katsini noitoki nojokantajearori.,"neutral
+"
+"Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.",Notimake tekeratani 1900.,"neutral
+"
+"Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.",Notimake chakopiiteriki 1880.,"neutral
+"
+"Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.",Iriori tee itimeji irosati 1984.,"neutral
+"
+Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.,Oka tornillo ari amashitakero bijon karentsi janikarika.,"neutral
+"
+Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.,"Ora tornillo tee okobenkateji, ari pitsinakero pikoayetiri.","neutral
+"
+Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.,Ora tornillo okianake ñaamentotsiki ari amshiatkero bijonkarentsipee.,"neutral
+"
+"Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.","Itiyankayetakena Del Rio, Texas nantabeetanteari.","entailment
+
+
+
+**explanation:**
+
+let's break down the asháninka (based on available linguistic resources, recognizing nuances can be difficult without a native speaker present for confirmation):
+
+* **premise:** ""naakero kantakantantsi nojatanteari del rio, tx, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki laughlin air force.""  roughly translates to: ""because of the recent situation near del rio, tx, people are moving there, including families, and some are going to live near laughlin air force base.""  (the specifics of ""situation"" and ""moving"" are contextually determined).
+* **hypothesis:** ""itiyankayetakena del rio, texas nantabeetanteari."" roughly translates to: ""people are living in del rio, texas.""
+
+the premise *explicitly states* that people are moving *to* del rio, tx, and some are *living* near laughlin air force base (which is in del rio).  therefore, the premise logically *requires* the hypothesis to be true.  the existence of people moving to and living in del rio is a direct consequence of the described situation.
+
+thus, the relationship is **entailment**."
+"Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.",Tee katsiniji nojate Texas,"entailment
+"
+"Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.","Yora soraroyetatsiri itiyankayetakena Del Rio,TX en 2001.","neutral
+"
+"Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.",Yora jananekipee irajeitakero 3 boteeya ashi champan.,"neutral
+"
+"Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.",Yora jananekipee irajeitakero kapichaji champan.,"neutral
+"
+"Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.",Maaroni kimoshirentsi opirijajeitake tee irajeiteji chachojatatsiri.,"neutral
+"
+Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.,Tee nokemeroji aparopeeni kenketsatakorentsi,"neutral
+"
+Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.,Timatsi osheki kenketsatakorentsi oikantakota soraroyetatsiripee.,"neutral
+"
+Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.,Timatsi osheki kenketsatakorentsi okenketsatakojeitiri.,"contradiction
+"
+"Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.",Tee niyoteji okantakota añaantero arakomentotsi.,"neutral
+"
+"Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.",Añaantearo arakomentotsipee obametempi osheki konijatatsiri.,"neutral
+"
+"Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.",Ante ñaantamentotsi arakomentotsiki obametimpiro piyotakotero oshintsinetari.,"neutral
+"
+Noki nokante irootake oniyakire areeteari monkaratachari.,Tee nokematsatero ora areeteari.,"neutral
+"
+Noki nokante irootake oniyakire areeteari monkaratachari.,Nokenkeshirea ora areeteari akantajeiti kobenkaitake okari.,"neutral
+"
+Noki nokante irootake oniyakire areeteari monkaratachari.,Niyotajiro ora areteari.,"neutral
+"
+"Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.",Maaroni arakomentotsipee otimajeitake tekatsi manateroneri.,"neutral
+"
+"Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.",Aparopeni yobariyayetake Cubaki.,"entailment
+"
+"Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.",Antyaroite arakomentotsi yobariyayeetake Cubaki obiroiteri.,"neutral
+"
+"Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.",Keariosanori tee nokenkeshireajero norijanikitantapaakari.,"neutral
+"
+"Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.",Irosatitatsi nokanta nokemiro kaariperori oka meeka kitaiteriki.,"neutral
+
+
+
+"
+"Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.",Jibatatsiri aparoni nokenkeshireakotiri.,"neutral
+"
+"Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.",Opomerentsita akisaate anta okatonkotanaketa.,"neutral
+"
+"Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.",¡Tee opomerentsiteaji akisaate!,"neutral
+
+**explanation:**
+
+without a full understanding of the asháninka language and cultural context, it's impossible to determine a logical relationship between the premise and hypothesis with certainty. here's why:
+
+* **the premise** is a complex statement seemingly describing historical events (around 1930) involving people (likely the asháninka themselves) and their experiences (""tee"" - people). it mentions various actions or states.
+* **the hypothesis** translates to something like ""people are suffering!"".  
+
+the premise *could* describe events *leading* to suffering, *resulting* from suffering, or be entirely unrelated to suffering. it doesn't explicitly state or deny that people *are currently* suffering. therefore, the premise is neutral towards the hypothesis.
+
+to determine entailment or contradiction, we'd need a precise translation and deeper knowledge of the cultural context."
+"Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.",Opomerentsita akisate ara peeraniteni.,"neutral
+
+**explanation:**
+
+without a translation and understanding of the semantic content of both the premise and hypothesis, it is impossible to determine the logical relationship between them. the premise appears to be a detailed historical statement (mentioning a year, 1930), while the hypothesis seems to be a general statement about something (""opomerentsita akisate ara peeraniteni""). there is no obvious connection, so it's safest to assume neutrality. to assess entailment or contradiction, we'd need to know what each statement *means*.
+"
+Tekatsi iyotatsine jaoka ijajeitiri.,Maaroni iyojeitini kameetsasanori jaoka ijajeitri.,"neutral
+"
+Tekatsi iyotatsine jaoka ijajeitiri.,Tekatsi iyojjeitatsine jaoka okantari pankotsi ijajeitiri.,"neutral
+"
+Tekatsi iyotatsine jaoka ijajeitiri.,Ora yareeteari irointi maninakaro.,"neutral
+"
+Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.,Yora atiri tee añeeroni iyenkeshireamento kaari ini kitamarori.,"neutral
+"
+Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.,Yora atiri iyotini irinti afroamericanos.,"neutral
+"
+Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.,Yora atiri iyotini kaari ini kitamarori.,"entailment
+
+
+
+**explanation:**
+
+let's break down the core meaning (as much as possible without a full asháninka dictionary):
+
+* **premise:**  describes a situation where *something* (the initial part is descriptive) leads to a restriction/taboo (tabú) impacting *people* (kitamarori).  crucially, it states this happens *because* of ""yora atiri iyojeitake iñaantakaro"" - relating to a specific activity or state involving ""yora atiri"".
+* **hypothesis:** states that *people* (kitamarori) are impacted by ""yora atiri iyotini kaari ini"" - a condition or state related to ""yora atiri"".
+
+the premise *directly states* a relationship between ""yora atiri"" and an effect on people. the hypothesis *also* states a relationship between ""yora atiri"" and an effect on people.  the premise provides a *specific reason* for the impact, but the hypothesis just asserts the impact exists.  therefore, if the premise is true, the hypothesis *must* be true. this is an entailment.
+
+
+
+"
+"Jee, kameetsa, yora jananeki jerikatake aka.",Yora jananeki jerikatake.,"entailment
+"
+"Jee, kameetsa, yora jananeki jerikatake aka.",Ora nashiyetachari irobakera okonijatake 2 minutos.,"neutral
+"
+"Jee, kameetsa, yora jananeki jerikatake aka.",Ora nashiyetchari (bajirontsi) tee ipokeji aka.,"here's the breakdown and the answer:
+
+* **premise:** *jee, kameetsa, yora jananeki jerikatake aka.* (roughly: ""truly, the monkey doesn't know the owner of the forest."")
+* **hypothesis:** *ora nashiyetchari (bajirontsi) tee ipokeji aka.* (roughly: ""the non-indian (outsider) also doesn't know it."")
+
+without deep cultural context, it's difficult to be absolutely certain. however, based on common patterns of thought and the structure of the sentences, the premise is **neutral** towards the hypothesis.
+
+**reasoning:**
+
+the premise states the monkey doesn't know something. the hypothesis states a different entity (a non-indian) *also* doesn't know something.  there's no inherent logical connection forcing one to be true if the other is true, or vice-versa. it's entirely possible for the monkey to not know, *and* for the non-indian to also not know. it’s also possible for the monkey to not know while the non-indian *does* know, or vice versa.
+
+therefore, the premise doesn't logically guarantee the hypothesis, nor does it logically rule it out.
+
+
+
+**answer:** neutral"
+Timatsi amenajeitiri aka teleki.,Tee otimimojeiteni television.,"neutral
+"
+Timatsi amenajeitiri aka teleki.,Amenajeitironi television.,"neutral
+"
+Timatsi amenajeitiri aka teleki.,Añaajeitironi kamantantsipee televisionki.,"neutral
+"
+"Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.",Tee katsini noñaanateroni Ramona.,"entailment
+"
+"Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.",Napiitajiro noñaanatajiro Ramona.,"entailment
+"
+"Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.",Kameetsari oka kenketsatabakantsi.,"neutral
+"
+"Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.",10 000 atiri ikamajeitake oka pomerentsitantsiki Cubana.,"neutral
+
+
+
+**explanation:**
+
+here's a breakdown of why:
+
+* **premise translation (approximate):** ""the airplane brought people from cuba, eh, kaiser, eh, going to visit, they said, someone named andrews air force in washington."" (this is a rough translation as asháninka is highly context-dependent). it speaks of *a* plane bringing people *from* cuba to washington.
+* **hypothesis translation (approximate):** ""10,000 people came from cuba.""
+
+the premise mentions a plane *from* cuba, which *could* be related to the 10,000 people in the hypothesis. however, it doesn't give any information about the *number* of people, or *if* they are the same people.  the premise doesn’t specify how many people came, whether they *all* came together, or if the plane even relates to the 10,000 mentioned in the hypothesis. therefore, it's **neutral**.
+
+* **entailment** would require the premise *guarantee* the truth of the hypothesis.
+* **contradiction** would require the premise *guarantee* the *falsehood* of the hypothesis.
+
+neither of those is true in this case.
+
+
+
+"
+"Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.",Apaniro atiri ikamake opomerentsitantanakari Cuba.,"contradiction
+
+**explanation:**
+
+the premise states the person (apatiro) *left* cuba *to* go to andrews air force base in washington. the hypothesis states the person *is* in cuba. these statements cannot both be true simultaneously. therefore, the premise contradicts the hypothesis.
+
+
+
+"
+"Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.",Apaniro atiri ikamake posakotantsiki pomerentsiriki Cubana.,"neutral
+"
+"Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.",Iroori okanti tee otimimotenaji oyenkeshireamento.,"neutral
+"
+"Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.",Iroori okanti oyotiro okantakota añaamentotsi.,"neutral
+"
+"Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.",Okantana tee otimimotena kenekeshireantsi jaoka okanta otimi kipatsi konijari aijateri.,"neutral
+"
+Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?,Tee niyoteji ikanteetini otimatiye antantearo ora maakina.,"neutral
+"
+Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?,Tee niyoteji paitarika ikantetantari nantanteari.,"neutral
+"
+Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?,¡Piyotasanotiro paita antanteari!,"neutral
+"
+"Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.",Betsikakena nojatanteari meeka.,"neutral
+"
+"Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.",Nokoi aparo minuto aka.,"neutral
+"
+"Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.",Noloi aparo minuto nokoyanteari noyenkeshirementopee.,"neutral
+"
+Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.,Tee katsini nosaikaniteji Washingtonki D. C.,"neutral
+"
+Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.,Nojatake D. C. nameniri supervisor.,"neutral
+"
+Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.,Nojatake onampitakotantariki nampitsi.,"neutral
+"
+Irinti aparo atiri kisaari imeshina.,Iroori otimi aparo omeshina keariosanori kisaasanori.,"neutral
+"
+Irinti aparo atiri kisaari imeshina.,Iroori otimi ora omeshina konijasanori okemetanteariri afroamericana.,"neutral
+
+**explanation:**
+
+without knowing the specific meanings of all the asháninka words, it's impossible to determine a logical relationship. the premise speaks of ""irinti aparo atiri kisaari imeshina"" (something about a person/people and something being done), while the hypothesis speaks of ""iroori otimi ora omeshina konijasanori okemetanteariri afroamericana"" (something about a different person/people and potentially their identity as afro-american).  there's no overlap in the described subjects or actions that would allow for entailment or contradiction. they are likely discussing different situations or individuals. therefore, the premise is *neutral* towards the hypothesis.
+
+
+
+"
+Irinti aparo atiri kisaari imeshina.,Iroori okonijatasanoti otsipasatopee otsipabintsare kisaaropee.,"neutral
+"
+"Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.",Apa ipakena kapichaji ireeche chocolate katsikamentotsiki.,"neutral
+"
+"Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.",Apa ikitakena aparoniki vaso ireeche.,"neutral
+"
+"Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.",Apa ikanti tee ikoakayenaji nirero taraako.,"neutral
+"
+Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.,Ora Departamento de Transporte ari oñakero ashiyetansti onashiyetachari alquilar onampiki.,"neutral
+"
+Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.,Ora ashiyetantsi aisati equipo yamanantajeitakeri DOT.,"neutral
+"
+Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.,DOT ipinatakari maba irinka dólares yamanatero ashiyetantsi.,"neutral
+"
+Iriori itimakerika.,Yoyajeitake itime chakopiiteriki 2010.,"neutral
+"
+Iriori itimakerika.,Ikantayeti otimatiye itimeme.,"neutral
+"
+Iriori itimakerika.,Ikantayeti eirome itimeme.,"neutral
+"
+"Naro nokempetari, arejisati nareetaka.",Nokantabetakari tee iyoteroji paitarika yantiri.,"neutral
+"
+"Naro nokempetari, arejisati nareetaka.",Nokantabetakari iyobeta yabisaji yantayetiri okarati 40%.,"neutral
+"
+"Naro nokempetari, arejisati nareetaka.",Nokantabetakari niyotake nomatantakarori.,"neutral
+"
+"Aritake, ¿ari pimatakero pikemena?",¿Ari pimatakero pikemena meeka?,"entailment
+"
+"Aritake, ¿ari pimatakero pikemena?",¿Ari pimatakero pikeme okarati nokantakeri?,"neutral
+"
+"Aritake, ¿ari pimatakero pikemena?",Niyotake eiro pimatirotsi pikemena.,"neutral
+"
+"Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?",¿Pikoiro ora kiribiro irashi Harry Potter o tee?,"neutral
+"
+"Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?",¿Pikoajeitiro o pikisaneetiro otsipapee kiribiro?,"neutral
+"
+"Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?",Niyotake pikoajeitiro maaroni kiribiropee piñanajeitakeri.,"neutral
+"
+"Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.",Ora tornillo areetaro oshintsitakoti.,"neutral
+"
+"Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.",Ora tornillo oni orijaniki aisati obetsikakotataka.,"neutral
+"
+"Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.","Tekatsi tornillos, apatiro botones.","neutral
+"
+"Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.",Iroori okantana otimatiye nojataje intsipaite.,"neutral
+"
+"Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.",Okantana tee abisheji ariorika yabishe ooorea antantearori.,"neutral
+"
+"Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.",Okantana initsikiojiteemi.,"neutral
+"
+"Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.",Kennedy tee iyojeitabakeri.,"neutral
+"
+"Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.",Kennedy iñaanatiri antakotinkari irashi Fuerza Aérea.,"neutral
+"
+"Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.",Kennedy iñaanatiri antakotinkari.,"entailment
+"
+"Nokemetanakari, irotaintsi notsonkero.",Nokantiri itsonkero 10 minutos.,"neutral
+"
+"Nokemetanakari, irotaintsi notsonkero.",Nokantajetiri eiro katsini itsonkiro.,"neutral
+"
+"Nokemetanakari, irotaintsi notsonkero.",Nokantajeitimpi irobetaincha notsonkerome.,"neutral
+"
+Nosankenatakero maaroni.,Nokinatnakaro nosankenatiro nota ashi konijatatsiri.,"neutral
+"
+Nosankenatakero maaroni.,Eiro pashereanantsi pisankenati tekatsi.,"neutral
+"
+Nosankenatakero maaroni.,Nosankenatakero aparopeeni antabeerentsi ikantakeri.,"neutral
+"
+"Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.",Otimake 1 inkaniiteri1900.,"entailment
+"
+"Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.",Iroori otimake intantanakarori ora siglo,"neutral
+"
+"Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.",Iroori tee otimeji irosati 1943.,"neutral
+"
+Opoña okoasanota.,Ikoasanotakero iyotero jaoka okarate yobanteari.,"neutral
+"
+Opoña okoasanota.,Tee ikoasanoteroji okanatakotiri.,"neutral
+"
+Opoña okoasanota.,Noñaakeri okoasanota.,"neutral
+"
+"Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.",Irento otimi omeshina kameetsasanori maaroniki oshanikajeitariki.,"neutral
+
+
+
+"
+"Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.",Maaroniki ikanteyeti ora ireento okitamaortini.,"neutral
+"
+"Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.",ora ireento Sher irointini lúgubre.,"neutral
+"
+"Kameetsa, oshekiteme antyashipate okemetanteariri iriri.",Okarati 27 osarentsi antyaroti iroriki.,"neutral
+"
+"Kameetsa, oshekiteme antyashipate okemetanteariri iriri.",Iriori oshekisano yebankariti anta irooriki.,"neutral
+"
+"Kameetsa, oshekiteme antyashipate okemetanteariri iriri.",Iriori irinti atyarisanori irooriki.,"neutral
+"
+"Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.",Tekatsi pantatsine ashi amitakotantsi.,"neutral
+"
+"Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.",Aparo shirampari yamitakotanti fisiologico irashi sorarotatsiri.,"neutral
+"
+"Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.",Aparo shirampari ipantake amitakotantsi fisiologico.,"entailment
+"
+"Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.",Piyotake iriori eiro ipokime akarateri.,"neutral
+"
+"Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.",Nokenkeshireabetaka ipokantakari yantabakaempa.,"neutral
+
+
+
+"
+"Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.",Nokenkeshireabetaka ikamantakotename oka tono.,"neutral
+"
+"Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.",Kameetsatake ariorika antake aparopeeni amashirentsi.,"neutral
+"
+"Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.",Tee niyoteni oshineterorika anterio amashirentsi.,"neutral
+"
+"Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.",Tee niyoteni oshineteeroni añaanatakotero otikatikaatea eiro okameetsatitsi.,"neutral
+"
+"Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.",Opomerentsitimotakena nomaanteari tsiteniriki.,"neutral
+"
+"Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.",Oijatana nomishitakotari kobenkari tikaanarini kaari nomaanta.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of asháninka cultural context and specific meanings of the words, it's impossible to determine a logical relationship (entailment or contradiction) between the premise and hypothesis. they appear to be distinct statements. 
+
+*   the premise seems to be about a person (""aisati"") and something they are doing/experiencing related to a container (""nokenkeshirea"") and perhaps a journey (""tsiteniriki"").
+*   the hypothesis speaks about a different action or state involving different entities (""oijatana"", ""kobenkari"", ""tikaanarini"").
+
+because there's no obvious overlap in meaning or logical connection, the relationship is **neutral**. to assess entailment or contradiction, we'd need a translation and cultural understanding."
+"Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.",Tsiteniriki nomai noshiyari jobentsi.,"neutral
+"
+Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.,Iroori ari omatakea otikakobentea otsitiki kobenkari.,"neutral
+"
+Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.,Iroori ari omatea otikakobentea kameetsa.,"neutral
+"
+Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.,"Iroorini aayetirorti timayetatsiri,.","without knowing the meanings of the asháninka words, it is impossible to determine the relationship between the premise and hypothesis. therefore, the answer is:
+
+**neutral**
+"
+"Um, tekatsini kanteronerini--",Iriori ikantakero maaroni okarati akoiri ayoteri,"without knowing the meanings of the asháninka phrases, it is impossible to determine the relationship between the premise and hypothesis. therefore, the answer is:
+
+**neutral**
+"
+"Um, tekatsini kanteronerini--",Tee ikantajeitenaro okarati oka protocolo de seguridad.,"neutral
+"
+"Um, tekatsini kanteronerini--",Ariorika tee ikantenaroji.,"neutral
+"
+Aritake asabikajeitiri oka zonaki.,Ora abankoni osaikini aka.,"neutral
+"
+Aritake asabikajeitiri oka zonaki.,Ora abankoni osaikini areji okaki nampisti.,"neutral
+"
+Aritake asabikajeitiri oka zonaki.,Ora abankoni osaiki apite manzana.,"neutral
+"
+"Oñaanati itsipaite, oñaanantati impokirotsaki.",Oñaanatati initsikiojitsa okarati oñaanatiri.,"neutral
+"
+"Oñaanati itsipaite, oñaanantati impokirotsaki.",Oñaanatati ara iPhoneki.,"neutral
+"
+"Oñaanati itsipaite, oñaanantati impokirotsaki.",Oñaanatati ara movilki.,"neutral
+"
+"Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.",Nomakoshireake irotaintsi akempejite intantanajearori obametantsipanko.,"neutral
+
+
+
+"
+"Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.",Nokenkeshireakotakero nojate obametantsipankoki,"neutral
+
+
+
+"
+"Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.",Nokenkeshireakotakero intanteari irashi irijaniki jardin,"neutral
+"
+"Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.",Notimini Texas.,"neutral
+"
+"Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.",Notimini aparoniki pankotsi kiteriiriki Missouri.,"neutral
+"
+"Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.",Noaiki Missouri.,"entailment
+"
+"Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.",Ora Base Jenokisato Laughlin ashibetanaja kapichaji kitateri.,"neutral
+"
+"Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.",Ora base Fuerza Aérea Laughlin okantani ashitarea.,"entailment
+"
+"Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.",Ora Base Shintsiri Jenokisato Leughlin inampitaro 10 000 soraropee.,"neutral
+"
+Omonkaratna okarati panteri.,Eiro nokoaperotirotsi karati potsorentsi payeri.,"neutral
+"
+Omonkaratna okarati panteri.,Noki naporoebatea aproniki trato.,"neutral
+"
+Omonkaratna okarati panteri.,Eiro nonimoshireana jaoka okantea pitsokero.,"neutral
+"
+"Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.",Nokajemakero Ramona nobankoki.,"entailment
+"
+"Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.",Nokajemakero Ramona iyotanteari jaoka osabikakeri.,"contradiction
+"
+"Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.",Nopeakotanajiro Ramona.,"entailment
+"
+"Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.",Ora Shintsiri Jenokisato amanantake 18 arakomentotsipee.,"neutral
+"
+"Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.",Ora shintsiri jenokisato amantajeitake arakomentotsi.,"entailment
+"
+"Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.",Ora Shintsiri Jenokisato tee otimeni antatearori.,"neutral
+"
+¿Ojime ora irento otimini imeshina konijari?,Irento aake ojime shirampari kisaari.,"neutral
+"
+¿Ojime ora irento otimini imeshina konijari?,Irento aake ojime.,"entailment
+"
+¿Ojime ora irento otimini imeshina konijari?,Irento timashitinkaro.,"neutral
+"
+"Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.",Iroori tee okampiatajea okantayeta.,"neutral
+"
+"Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.",Iroori tekatsi katsini oyotajiro amashitakero.,"entailment
+"
+"Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.",Iroori tekatsi okante okantakotiri ora pastel batsatsiki.,"neutral
+"
+"Niritsori, irinti antayriite chaval.",Niritsori nakameetsatiri.,"neutral
+"
+"Niritsori, irinti antayriite chaval.",¡Niritsori irinti kaariperori!,"here's the breakdown and the answer:
+
+* **premise:** *niritsori, irinti antayriite chaval.*  (niritsori, he/she is going to eat fish tomorrow.)
+* **hypothesis:** *¡niritsori irinti kaariperori!* (niritsori is already eating fish!)
+
+the premise states niritsori *will* eat fish tomorrow. the hypothesis states niritsori *is currently* eating fish. these are different times. eating tomorrow doesn't prevent eating *now*.
+
+therefore, the answer is: **neutral**
+
+
+
+"
+"Niritsori, irinti antayriite chaval.",Niritsori irinti neshinonkatantatsiri.,"neutral
+"
+Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.,Ani isaiki ejercitoki.,"neutral
+"
+Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.,Ani ikarajeitiri antaberentsiki.,"neutral
+"
+Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.,Norenti tee ibetsikiteaji.,"neutral
+"
+"Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!",Nokenkeshirea ijateme itsipa ampinajenaneri.,"neutral
+"
+"Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!",Nokenkeshirea ijokeme itsipa ampinaenaneri apatorentsiki.,"neutral
+"
+"Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!",Eiro ishinetajiritsi itsipa ijataje.,"neutral
+"
+"Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.",Ikampiatiro osheki kenkeshireantsi.,"neutral
+"
+"Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.",Pikampiatajero kenkeshireantsi tee piyoteji paita yantiri.,"neutral
+
+
+
+"
+"Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.",Iriori irinti ikantasanota aisati imajereti.,"neutral
+
+
+
+"
+"Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.",Isampiti jaoka okantari konijatatsiri.,"neutral
+"
+"Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.",Isampiti atsonkajeitakerorika paperiyetatsiri.,"neutral
+"
+"Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.",Iriori iñaananteke konijasanori.,"neutral
+"
+"Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.",Noshintsitanake aisati notsonkanakero intsipaite.,"neutral
+"
+"Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.",Nosaikaiti ara ikarati apite oorea.,"neutral
+"
+"Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.",Noshonkiro rueda osamani kitaiteri.,"neutral
+"
+Otimantaro atojerintsi naro tee katsini niyotakotero oka.,Tee niyoteni irobetainchame obamayerome atojerentsi.,"neutral
+"
+Otimantaro atojerintsi naro tee katsini niyotakotero oka.,Tee niyoteni otimantaro atojerentsi.,"entailment
+"
+Otimantaro atojerintsi naro tee katsini niyotakotero oka.,Piyobetani omantsitasanotakero atojerentsi.,"neutral
+"
+"Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.",Ora oshintsitane oinijantamentotsi obamanti maaroni kitaitri.,"neutral
+"
+"Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.",Pikoati aparo contrapresion antyarotatsiri 500 pies.,"neutral
+
+
+
+**explanation:**
+
+without knowing the specific meanings of the asháninka words, it's impossible to determine a logical relationship between the premise and hypothesis. they appear to discuss different topics. the premise seems to be about a ""piyoti"" and something related to ""pain"" or ""sickness"" (""pimatirotsi"") and perhaps a treatment (""teerika""). the hypothesis refers to ""pikoati"" and a depth of ""500 pies"" (feet) potentially related to ""pressure."" there's no obvious connection allowing us to assess entailment or contradiction. therefore, it must be **neutral**."
+"Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.",Pikoati aparo contrapresion ashi ojenokitinta.,"neutral
+
+
+
+**explanation:**
+
+without knowing the specific meanings of the asháninka words, it's impossible to determine a logical relationship between the premise and hypothesis. they appear to be discussing different topics. the premise seems to be about a person (piyoti) and something related to work or activity (""eiro pimatirotsi""), while the hypothesis concerns something about ""aparo contrapresion"" and ""ojenokitinta.""  there's no discernible overlap or logical connection based on the given text alone. therefore, the relationship is neutral."
+"Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.","Tekatsi katsini nayeji ñantakamentotsi, arikea nojatati noñaayetanaro okarati nabaansatakari.","neutral
+"
+"Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.",Apite jananeki iñaantakayetakenari yantabeetanteari oka obararontsipankoki.,"neutral
+"
+"Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.",Apite niritsoripee iñantakayetakenari.,"neutral
+"
+Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.,Ora regulador tee okanteni.,"neutral
+"
+Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.,Ora regulador okampiatea oshintsine maaroni pitsareki.,"neutral
+"
+Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.,Otimatiye ojoekatearo ora regulador.,"entailment
+"
+"Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.",Yobayetakenero kentamentotsi mariteshiki.,"entailment
+"
+"Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.",Narotake 922,"neutral
+"
+"Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.",Tee katsini nojate 922.,"neutral
+"
+"Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--",Iroori tee okematsateroji itikaakero jananeki okanteani omabetakea tee katsini oyoteriji.,"neutral
+
+
+
+**explanation:**
+
+without a full understanding of the asháninka language and cultural context, it's difficult to definitively assess the logical relationship. however, based on a surface-level reading and recognizing the complexity of natural language, the premise and hypothesis *appear* to discuss different situations or aspects related to a central topic (possibly relating to people or events – “tee” seems to relate to people). 
+
+the premise speaks about someone who has completed something and then a consequence. the hypothesis discusses something *about* someone who has completed something, but a different consequence or characteristic. there's no direct logical connection forcing the hypothesis to be true *if* the premise is true, nor does the hypothesis negate the premise.
+
+therefore, the most appropriate response is **neutral**. a deeper analysis with a native speaker and linguistic expertise would be necessary for a more certain determination."
+"Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--",Tee nokematsateroji okarati abisaintsiri.,"neutral
+"
+"Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--",Piyobetaka okarati ominkiakeri.,"neutral
+"
+Narojei nokiajeitanaje anta.,Akiajeitanaje anta 8 p.m.,"neutral
+"
+Narojei nokiajeitanaje anta.,Akiajeite.,"neutral
+"
+Narojei nokiajeitanaje anta.,Eiro katsini akiajeiti.,"neutral
+"
+"Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.",Iroori aabakeri maaroni omonkarajeitakari.,"neutral
+"
+"Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.",Aabakeri itsipapee opashinitakeyetiri.,"neutral
+"
+"Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.",Aabakeri itsipasatipoee osari onashitakari teempa ini kisaari.,"neutral
+"
+"Ikantanake guay, iro itsare aranake tampeaki kapichaji--",Ora itsare ondeaba ara tampeaki.,"neutral
+"
+"Ikantanake guay, iro itsare aranake tampeaki kapichaji--",Ora itsare oni orijaniki aisati aranake kapichaji.,"neutral
+"
+"Ikantanake guay, iro itsare aranake tampeaki kapichaji--",Tee añeroji tampea arikea ora itsare tee oshebateaji.,"neutral
+"
+"Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.",Nojatini natayeti antaberentsiyetatsiri koasanotachari apite kitaiteri.,"neutral
+
+
+
+**explanation:**
+
+without a full understanding of the asháninka language and cultural context, a definitive judgment is impossible. however, based on the surface structure and recognizing potential semantic overlap (both phrases include ""antaberentsiyetatsiri koasanotachari""), it's unlikely the premise *guarantees* the truth of the hypothesis (entailment) or definitively *denies* it (contradiction). it's most likely that the premise provides information that *could* be consistent with the hypothesis, but doesn't necessitate it. therefore, 'neutral' is the most appropriate response.
+
+to determine entailment or contradiction, we'd need:
+
+*   **translation:** accurate translations of both statements.
+*   **context:** understanding of the situational context in which these statements would be made.
+*   **semantic analysis:** a deep analysis of the meaning of the words and grammatical structures used.
+
+
+
+"
+"Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.",Nosaikaiti antabeerentsiyetatsiriki koasanotachari.,"neutral
+"
+"Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.",Tee katsini nosaikaiteji antabeerentsiyetatsiriki koasanotachari.,"neutral
+"
+"Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.",Itimajeitini pitetsa ishaninkapee timajeitatsiri Evans.,"entailment
+"
+"Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.",Itimajeitini anta Atlantaki.,"neutral
+"
+"Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.","Itimajeitini Evans, irinti ini irijaniki.","neutral
+"
+"Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.",Notsiro okanti naro manintantatsiri.,"neutral
+"
+"Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.",Notsiro okanti tee nokanteani nokameetsate.,"neutral
+"
+"Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.",Notsiro okanti tee okonijamoteroji nishane.,"neutral
+"
+"Hum, impoiji nobaanaja irobakerariki pankotsi.",Nobanaja aparo pankotsiki abetsikajeitakeri nampitsiki.,"neutral
+"
+"Hum, impoiji nobaanaja irobakerariki pankotsi.",Aabajeitanaja aparoni irobakerari pankotsi.,"neutral
+"
+"Hum, impoiji nobaanaja irobakerariki pankotsi.",Asaikajeitapaaji pankotsiki maaroni añaamentoki.,"neutral
+"
+"Nosaikaiti kemeeri, OK, kameetsa.",Nokanti nokisanentiro aisati nojokasanotironi,"neutral
+"
+"Nosaikaiti kemeeri, OK, kameetsa.",Nokanti nonebetaroni irobakerari pampoysntsi.,"neutral
+"
+"Nosaikaiti kemeeri, OK, kameetsa.",Nokantake timatsi aprobacion.,"neutral
+"
+"Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.",Ora pintura okampiatiro iroyata obotsore.,"neutral
+"
+"Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.",Ora pintura okampiata ayotanteari jaoka okanta okatsirinkati eiro okoanta amonkaratero.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of asháninka cultural context and nuanced meanings, it's impossible to definitively say the premise entails or contradicts the hypothesis. both statements relate to painting/art (""pintura okambiatero"" and ""ora pintura okampiata"") and seem to describe qualities or effects of it. however, the specific descriptions are different enough that one doesn't logically follow from the other (entailment) nor are they directly opposed (contradiction). they could very well describe different *types* of painting or different aspects of the same process. therefore, they are neutral regarding each other.
+
+it's crucial to acknowledge the limitations of assessing logical relationships without native-level linguistic and cultural expertise."
+"Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.",ora pintura okantani oni kisaari.,"neutral
+"
+"Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.",Nobakaro ora pizza tee osamanite apite minutos.,"neutral
+"
+"Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.",Nobaka initsikioji eiro nomantsiatanta.,"neutral
+"
+"Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.",Nobakaro ora obanarontsi.,"neutral
+"
+Ojime ashi irento irointi imeshina konijari.,Ojimetsori ini ibotsore konijari.,"neutral
+"
+Ojime ashi irento irointi imeshina konijari.,Ojimetsori ini Sueco.,"neutral
+"
+Ojime ashi irento irointi imeshina konijari.,irento tee aabakaya,"neutral
+"
+"Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.",Iriorijei iventsikajeitakero irobakerari regulador.,"neutral
+"
+"Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.",Ivetsikake aparo regulador oneini tampeajenkaki.,"neutral
+"
+"Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.",Oijatironi tee oyote jaoka ikanteari ivetsikanteari aparo regulador ashi oxigeno.,"neutral
+"
+"Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.",Tee katsini nojate Las Vegas.,"neutral
+"
+"Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.",Nantabeetake Las Vegas aisati Washingtonki.,"entailment
+"
+"Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.",Natabeetake okemetari taxista apiteketiro nampitsi.,"neutral
+"
+"Jee, 4.° noñaatsatasanotaka.",¡Nokisaneentiro maaroni obametantsipanko!,"neutral
+"
+"Jee, 4.° noñaatsatasanotaka.",Nokoakero otsi grado tempa otimi apite nomaoreantari.,"neutral
+"
+"Jee, 4.° noñaatsatasanotaka.",Nokoironi otsi grado.,"neutral
+"
+"Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.",Ora obana irointi sankenataokrentsi ashi ñakarontsi.,"neutral
+
+
+
+**explanation:**
+
+without knowing the full semantic range of these asháninka terms, and lacking context, it's impossible to determine a logical relationship. the premise discusses a certain person (okempetaro) and their actions related to plants/medicines (piyotachari, shimperentsi, nashiyetachari) and something being done *to* them. the hypothesis speaks of something happening to *someone else* (ora) concerning a different action (sankenataokrentsi, ñakarontsi). 
+
+there's no overlap in the subjects or actions described, and no information presented allowing us to infer a relationship of entailment or contradiction. therefore, the premise is neutral towards the hypothesis."
+"Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.",Ora tabulaciones timatsi osheki osankenatakotiri.,"neutral
+
+
+
+**explanation:**
+
+without a full understanding of the asháninka language and the specific cultural context, it's impossible to definitively determine the relationship between these statements. here's why:
+
+*   **the premise** appears to be talking about a person (""okempetaro"") and their actions related to something (""piyotachari shimperentsi nashiyetachari,"" potentially a task or possession) and a further description of something happening with ""aparopeni shiperentsi."" it involves someone not being able to do something (""imonkarayetantarori irooriki"").
+*   **the hypothesis** uses different vocabulary (""ora tabulaciones timatsi osheki osankenatakotiri"") and could refer to a completely unrelated topic. it might relate to tables, a process, or a state of being, but without knowing the meanings of the words, we can't connect it to the premise.
+
+because there is no obvious logical connection or conflict between the statements, the relationship is **neutral**. it is entirely possible that both statements could be true simultaneously, or that one is true and the other is false, without any contradiction.
+
+
+
+"
+"Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.",Ora shimperentsi onijantiro saldo actual maaroni ora cuentas.,"neutral
+
+
+
+"
+Tee nokossanotero jaoka pikanterori pantero.,Tee nokoasanotero aririka pantero abisati teerika itsipasatiki.,"neutral
+"
+Tee nokossanotero jaoka pikanterori pantero.,Tee nokoasanotero jaoak okantari poijateri.,"neutral
+"
+Tee nokossanotero jaoka pikanterori pantero.,Nokoi niyotasanote jaoka pikanterori oka.,"entailment
+"
+Yobaajeitanaja Mallard Creek Charlotte.,Ibetsikajeitake aparo pankotsi Mallard Creek.,"neutral
+"
+Yobaajeitanaja Mallard Creek Charlotte.,Tee katsini yobaajeitea Charlotte.,"neutral
+"
+Yobaajeitanaja Mallard Creek Charlotte.,Impoiji itimajeitaji Mallard Creek.,"neutral
+"
+"Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.",Iriri ini pashitoori luterano.,"neutral
+"
+"Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.",Iriri ini convicto tee ijateni iglesiaki.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of asháninka cultural context and the specific meanings of all words, it's impossible to definitively say if the premise relates to the hypothesis. here's a breakdown of why ""neutral"" is the most appropriate answer:
+
+* **premise translation (rough):** ""because of the meeting, the person who took the medicine (minister), it seems, doesn't want to go out, and because of that, they are saddened and don't want to participate in anything."" (this is a very approximate translation, as nuances are lost).
+* **hypothesis translation (rough):** ""this person is a convict and goes to church.""
+
+there's *no logical connection* established between these two statements.  the premise describes a state of withdrawal and sadness following a meeting and medicine, while the hypothesis discusses a person’s legal status and religious practice. one doesn't *necessarily* imply or deny the other. 
+
+therefore, the premise is **neutral** toward the hypothesis.
+
+
+
+"
+"Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.",Iriri ini pashitoorini.,"neutral
+"
+"Jampakea, tee noyoteni jaoka okantari ikoayetiri.",Tee niyoteni ikoirika kamantatantsi okantakota horario ashi viaje.,"neutral
+"
+"Jampakea, tee noyoteni jaoka okantari ikoayetiri.",Nopakeri maaroni okantayeta tempa niyotake ikoironi.,"neutral
+"
+"Jampakea, tee noyoteni jaoka okantari ikoayetiri.",Tee yamabentea jaoka okarati otsantsati otsonpoinare otimi.,"neutral
+"
+"Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.",Iriori tee otimimoteri kempoyayetacharipee.,"neutral
+"
+"Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.",Ikempoyeiro maaroni kempoyayetacharipee.,"neutral
+"
+"Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.",Ikempoyeijeitiro ora kempoyayetachari abitantsi aisati kearioperotatsiri.,"neutral
+"
+"Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.",Iroori opake apite tsonkaichari.,"neutral
+"
+"Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.",Iroori opakena apite kantashitachari obametantsi irointi nakeri tsonkainchari.,"neutral
+
+**explanation:**
+
+without a detailed understanding of asháninka grammar and semantics, a definitive judgment is impossible. however, based on a cursory look, the premise speaks about origins, ancestors, and a certain type of person (""maaroni orijaniktapaatsiri""). the hypothesis speaks about something being ""good"" and about ""people"" (""iroori"") and their actions related to needing something (""tsonkainchari""). 
+
+there’s no clear logical connection established that would allow us to say the premise *must* be true if the hypothesis is true (entailment), or that the premise *cannot* be true if the hypothesis is true (contradiction).  they appear to discuss different, though perhaps related, concepts. therefore, the relationship is best described as neutral.
+
+
+
+"
+"Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.",Iroori apatiro opakena tsonkaincharin timatsi kapichaji otsapare.,"neutral
+
+
+
+**explanation:**
+
+without a detailed understanding of asháninka grammar and semantics (which is beyond the scope of this task without a reliable dictionary and grammatical resources), it's impossible to definitively say whether the premise entails or contradicts the hypothesis. both sentences appear to discuss events and states, but their specific contents are unclear. 
+
+here's why ""neutral"" is the most appropriate response:
+
+*   **entailment** would require the premise to *guarantee* the truth of the hypothesis. we have no basis to assume that.
+*   **contradiction** would require the premise to *guarantee* the falsity of the hypothesis.  again, impossible to determine without understanding the meaning.
+*   **neutral** simply means there's no logical relationship that can be discerned based on the provided information. the two statements could be about completely different things, or one could be true while the other is false, without any inherent conflict or connection.
+
+therefore, lacking the necessary linguistic knowledge, the safest and most accurate assessment is ""neutral""."
+"Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.",Augusta itimi 10000 atiri.,"neutral
+"
+"Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.",Augusta kaari oni antyaroite nampitsi.,"entailment
+
+
+
+**explanation:**
+
+let's break down the asháninka (with a rough, helpful gloss – precise translation requires deep linguistic knowledge):
+
+* **premise:** ""because augusta is ill (keariosanotake tee otimeni), she... is weak, doesn't eat, augusta is being treated with medicine by the shaman (onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki), and because of this, augusta is improving.""  essentially, augusta is sick, receiving treatment, *and getting better*.
+* **hypothesis:** ""augusta is becoming strong (kaari oni antyaroite nampitsi).""  this means augusta is getting better/stronger.
+
+the premise *explicitly states* augusta is improving (""antyaroteji"").  therefore, the hypothesis – that she is becoming strong – is a logical consequence of the premise.  the premise provides support for the hypothesis and, in fact, strongly suggests it *must* be true if the premise is true. this is entailment.
+
+
+
+"
+"Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.",Isaikini oniyakitinta Augusta.,"neutral
+"
+"Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC",Ikanteetakena nikoji ora DC.,"entailment
+"
+"Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC",Yora ejercto itiyankakena DC intsipaite.,"neutral
+"
+"Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC",Ikanteetajan nojate Africaki.,"neutral
+"
+"Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.",Abanko Concordki tee ikoakantayeteri pirantsipee.,"neutral
+"
+"Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.",Abanko Concordki otimi 30000 acres jeri osheki birantsipee.,"neutral
+
+
+
+"
+"Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.",Apimantajeitakeri maaroni abirapee abajeitantanajari Concordki.,"neutral
+"
+"Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.",Abaajeitana maaroni akarajeitiri 1968.,"entailment
+"
+"Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.",Tekatsi katsini atsonkajeiteriji aajeitanajeri.,"neutral
+"
+"Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.",Atiyankajeitakeri asorarotepee Japonki junio 1968.,"neutral
+
+
+
+**explanation:**
+
+here's a breakdown of why:
+
+* **premise translation (approximate):** ""paitapeerika [person's name] learned to write, and then went to live with kadina, traveling to okinawa, and they arrived in 1968.""
+* **hypothesis translation (approximate):** ""someone from atiyankajeitakeri traveled to japan in june 1968.""
+
+the premise describes a person's journey *from* paitapeerika *to* okinawa, with a date of arrival in 1968. the hypothesis discusses a trip *to* japan in june 1968, involving someone from a different place (atiyankajeitakeri). 
+
+there's no information in the premise that either confirms or denies the hypothesis. they could be completely separate events.  it's possible the person from the premise *also* went to japan, but we don't know. therefore, the relationship is **neutral**.
+
+
+
+"
+Ikantana ikoajeiti tampatikari ikoajeotiri meeka.,Ikanti ari omatakea ipajeitero ariorika otantanakea.,"neutral
+"
+Ikantana ikoajeiti tampatikari ikoajeotiri meeka.,Iknatake yoye ikarate 2 p.m atsonkantearori maaroni antabeerentsi.,"neutral
+"
+Ikantana ikoajeiti tampatikari ikoajeotiri meeka.,Ikantake irointi intsipaiteni.,"neutral
+"
+Jajeitanaji ikantanakena eiro nokenkeshireatsi.,Ikantake pijibatanake pobameetsatero obametantsipanko.,"neutral
+"
+Jajeitanaji ikantanakena eiro nokenkeshireatsi.,Ikanti eiro pikenkeshireashita.,"entailment
+"
+Jajeitanaji ikantanakena eiro nokenkeshireatsi.,Ikanti monkaratapaaka oorea akianteari tsaroantsiki.,"neutral
+"
+"Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.",Kobenkatakotakempi.,"neutral
+"
+"Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.",¡Kameetsatakempi!,"neutral
+
+**explanation:**
+
+without knowing the specific meanings of the asháninka words, it's impossible to determine a logical relationship between the premise and the hypothesis. 
+
+*   **""irotake, oka piyotake""** likely states something about a person/thing and a characteristic.
+*   **""pamene timatsi pomerentsitimotimpiri""** likely adds further information, potentially a reason or result.
+*   **""¡kameetsatakempi!""** is an exclamation - it could be a command, an expression of surprise, or something else entirely. 
+
+because we lack the semantic content, we cannot say if the premise *guarantees* the hypothesis (entailment), *prevents* the hypothesis from being true (contradiction), or is simply *unrelated* (neutral).
+"
+"Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.",Kobenkatakotakempi yayeetempi.,"neutral
+"
+"Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.",Ina otimatiye okoyero ampeji aisati shinki.,"neutral
+
+
+
+"
+"Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.",Ina irointini tsinane de oro tee antabeeteni katsini.,"neutral
+"
+"Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.",Ina otimatiye antabeete nikoji.,"neutral
+"
+"Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.",Joe irintini apinti timironiri llave ashi apatotantsi imaorentari.,"neutral
+"
+"Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.",Apanirotantsiki akemajeitake tee amateroji aayete ikoiri Joe yojokajeitanake asabikajeiti kameetsa.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of asháninka cultural context and the specific meanings of all the terms, it's impossible to determine a logical relationship (entailment or contradiction). the premise discusses someone (joe) receiving something and potentially being impacted by it, while the hypothesis discusses something about joe's future state or actions. they *could* be related, but aren't necessarily so. they appear to be discussing different aspects or timeframes related to joe. 
+
+therefore, the relationship is best described as **neutral**."
+"Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.","Aparo kitaiteri,Joe ijaiti tekatsi iyotatsine jaoka ijatirini.","neutral
+"
+Nokantakeri irointi ashi notsiro.,Pimonkaratenero notsiro.,"neutral
+"
+Nokantakeri irointi ashi notsiro.,Nokanti irointi nashi.,"entailment
+"
+Nokantakeri irointi ashi notsiro.,Nokantajeitakeri yora otsiti irointi ashitariri notsiro.,"neutral
+"
+"Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.",Iroori okanti ora iniro aisati okemeta aniiti otsobitakotariki.,"neutral
+
+
+
+"
+"Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.",Iroori okanti ora iniro timatsi okempeta ariroika aniite,"neutral
+"
+"Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.",Okanti ora iniro katiyaporokitaka tee omateaji aniite.,"neutral
+"
+"piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.",Tee niyoteni ari ojatake omantsiasanote.,"neutral
+"
+"piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.",Tee niyoteni paita abishomoteroneri iroori.,"contradiction
+"
+"piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.",Piyotini okarate abisatsineri ariorika antakero iroori oka.,"neutral
+"
+Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.,Tee otimimotajena kenkeshireantsi onta pankotsi.,"neutral
+"
+Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.,Nokenkeshirea naabajiro marakarita paatioki akakeroka.,"entailment
+"
+Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.,Nokenkeshireajiro okarati abisaintsiri anta paatioki akakeroka.,"neutral
+"
+"Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.",Tee niyoteroji jaoka ankanterori antabeerentsi oka ipayeetakenari meeka.,"neutral
+
+
+
+**explanation (for context, though the answer requires no explanation):**
+
+without a full understanding of asháninka grammar and semantics, it's impossible to definitively say whether the premise logically *guarantees* the hypothesis (entailment) or *proves it false* (contradiction). the premise describes a situation involving a jaguar (pantero) and various actions/states. the hypothesis speaks about someone being afraid of an animal. there's no direct logical connection established by the provided text to conclude either entailment or contradiction. thus, it's most likely *neutral*.
+
+it's crucial to remember that determining entailment/contradiction requires a deep understanding of the language's meaning and logical structure, something i lack. i am providing the answer based on the apparent lack of a direct logical link between the two statements as they are presented."
+"Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.","Ikantajeitakena pampinajearo ora caja de fusibles ashi saikakomentotsi, iro tee niyoteji ora cableado electrico.","neutral
+
+**explanation:**
+
+the premise discusses a panther (pantero) and describes its actions and characteristics in a detailed, narrative way within a specific context likely related to hunting or encounters in the forest. 
+
+the hypothesis speaks about electrical systems - a fuse box (caja de fusibles) and wiring (cableado electrico) - and how to fix them. 
+
+there is absolutely no logical connection between the two statements. the premise doesn't provide any information that would support or deny the hypothesis, nor does it offer any opposing information. therefore, it is **neutral**.
+
+
+
+"
+"Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.",Meeka ikoakoyetakenaro irointi nate antabeerentsitatsiri okameetsatimotake.,"neutral
+
+
+
+**explanation:**
+
+without a detailed understanding of asháninka grammar and vocabulary, a definitive judgment is extremely difficult. however, based on a cursory look, the premise describes a situation involving a jaguar (pantero) and potentially a hunt or encounter with an animal (""meeka""). it details aspects of observation and possibly the animal's behavior.
+
+the hypothesis, meanwhile, seems to be a statement *about* ""meeka"" – describing its characteristics or state.
+
+there's no logical connection established *within* the given sentences that allows us to conclude the premise necessitates the hypothesis (entailment), or that it asserts something opposite to the hypothesis (contradiction). the premise simply doesn't provide enough information to comment on the truth of the hypothesis. therefore, it's *neutral*.
+
+**important note:** a truly accurate determination would require a fluent speaker of asháninka to analyze the nuances of the language and the contextual meaning of the sentences. this answer is the best possible assessment given the constraints of the prompt."
+"Meekakea, jerokatake, pikoiro meeka.",Okanti ari omatakero ayero jaokarikepee.,"neutral
+"
+"Meekakea, jerokatake, pikoiro meeka.",Okanti okoiro aitearo intsipaiteni meeka.,"neutral
+"
+"Meekakea, jerokatake, pikoiro meeka.",Okanti okoi ayero ora antabeerentsi otsonkanakearika tekerata yaretea 5 p.m.,"neutral
+
+**explanation:**
+
+without knowing the specific meanings of the asháninka words, it's impossible to determine a logical relationship between the premise and the hypothesis. they appear to be completely unrelated statements. the premise speaks about something (""meekakea,"" ""jerokatake,"" ""pikoiro meeka""), while the hypothesis describes a specific event at 5 p.m. involving ""okanti,"" ""okoi,"" and other terms. there's no inherent connection or conflict suggested by the phrasing alone. therefore, the relationship is *neutral*.
+
+
+
+"
+Amashitanajaapiajeitanaja abaajeitaja.,Abajeitaja otsipaniki kitaiteri.,"neutral
+"
+Amashitanajaapiajeitanaja abaajeitaja.,Abajeitaja otsipaniki nampitsi 1992.,"neutral
+"
+Amashitanajaapiajeitanaja abaajeitaja.,Tee katsini ashebayeteaji impoijini oka.,"neutral
+"
+"Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.","Noñaakero ora tsinane Fulk kapichaji, iro tee niyotasanotero kameetsa.","entailment
+"
+"Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.",Notsipabintsatari okempejitari ora tsinane Faulk.,"neutral
+"
+"Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.",Ora tsinane Fulk antakotironi Honda kiteriri maaroni kitaiteriki ajatanteari.,"neutral
+
+
+
+**explanation:**
+
+without a full understanding of asháninka and the specific cultural context, a definitive determination is difficult. however, based on the available text and likely translation patterns, here's a breakdown:
+
+* **premise:** describes faulk as being nervous/anxious (ora nerviosa oka) after receiving 80 doses of medicine (otimini osarentsite 80 osarentsi) from a doctor (iroori otimini). it focuses on the *effect* of the medicine.
+* **hypothesis:** states that fulk is going to honda (a place) and will be feeling better (ajatanteari) after traveling there. it focuses on a *future action and potential positive outcome*.
+
+the premise doesn't give us any information *about* fulk’s plans to go to honda, nor does it comment on whether that trip will improve their condition.  it's entirely possible fulk *will* go to honda and feel better, or they *won't*. the premise doesn't provide evidence for or against the hypothesis, hence 'neutral'.
+
+it's important to note: a deeper linguistic and cultural analysis by a native speaker could reveal nuances that might change this assessment. but based solely on the provided text, 'neutral' is the most accurate response."
+"Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.",Atimajeitake anta pankotsiki kenashiri.,"neutral
+"
+"Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.",Atimajeitini anta oshekisanori osarentsi.,"neutral
+"
+"Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.",Apatiro atimajeitini anta apite tsonkitai.,"neutral
+"
+"Colega, kemebeitaka otimimoteri yatiritantari, pabachori.",Akisanentajeibetaka.,"neutral
+"
+"Colega, kemebeitaka otimimoteri yatiritantari, pabachori.",Nobinkatsarite isaikaiti ikimoshiresanoti o itsabiasanotati.,"neutral
+"
+"Colega, kemebeitaka otimimoteri yatiritantari, pabachori.",Nobinkatsariteimetsotini aisati joijantanti.,"neutral
+"
+Ikametsataperotake antyari irintanteari.,Irinti ini 27 oosarentsi nantyarite narori.,"neutral
+"
+Ikametsataperotake antyari irintanteari.,Irinti ini osheki yebankariti naroriki.,"neutral
+"
+Ikametsataperotake antyari irintanteari.,Irinti ini antyarishekitirori narori.,"neutral
+"
+"Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.",Tee niyote jaoka okarate kitaiteri osamanite.,"entailment
+"
+"Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.",Tee niyote jaoka okarate kitaiteri osamanite ora kenketsatakorentsi.,"entailment
+"
+"Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.",Niyoti omonkarata 4 pies(10cm) otsantsati.,"neutral
+"
+Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.,¡Nosaikini nokimoshirebeitani aisati nomaokoreake!,"neutral
+"
+Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.,Nokoashireasanotanake nokoi nokimoshiretanteari tempa ari areetakeame aparoni kitaiteri.,"neutral
+
+
+
+**reasoning:**
+
+without a deep understanding of asháninka grammar and semantics (which is beyond my current capabilities), it's impossible to definitively state entailment or contradiction. the premise and hypothesis *appear* to be discussing different aspects or situations, using different vocabulary (even if some roots are shared, the combination and grammatical structure matter). 
+
+here's why i lean towards ""neutral"":
+
+* **different focus:** the premise seems to be about someone *not* being able to do something well (""nokemeaji nokimoshirete... nokemaitiro""). the hypothesis seems to focus on something happening *within* a specific context (""nokoashireasanotanake..."").
+* **lack of direct opposition:** there's no obvious logical opposition between the statements. the fact that someone isn't good at something doesn't automatically mean something else *will* or *won't* happen in a different setting.
+* **complexity of natural language:** natural languages are full of nuance.  a seemingly similar root word (""nokimoshirete""/""nokimoshiretanteari"") could have different shades of meaning in these contexts.
+
+therefore, without detailed linguistic knowledge, the safest answer is ""neutral"" – the premise doesn't provide enough information to either confirm or deny the hypothesis.
+
+
+
+"
+Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.,Nokoashireasnotanake nokoi nokimoshiretanteari tempa iroori osaikaiti ara.,neutral
+osheki oka okantakota ora inapee iroojeitake drogodependiente,Ora inapee irojeitake drogadictas.,"entailment
+"
+osheki oka okantakota ora inapee iroojeitake drogodependiente,Ora inapee tee anteroji okantakotiri aabintarontsipee.,"neutral
+"
+osheki oka okantakota ora inapee iroojeitake drogodependiente,Ora inapee irajeitiro drogas,"entailment
+"
+"Jee, keariotake okameetsati, opariayaiti inkani.",Tee nokoasanotero ora inkani.,"neutral
+"
+"Jee, keariotake okameetsati, opariayaiti inkani.",Kameetsa oni aisati inkanijenkatii.,"neutral
+"
+"Jee, keariotake okameetsati, opariayaiti inkani.",Shiramparisanotake ishiyari itsibota oorea kaari makoreatsi.,"neutral
+"
+"Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.",Maaroni añamentotsi okameetsati amitakotajero jero apitetatsiri okoakayeri.,"neutral
+"
+"Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.",Tekatsi atiri koeroneri amitakotantsi.,"neutral
+"
+"Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.","Yapanirotanteari ashi amitakotantsi, ashi añaamento okameetsatasanoti.","neutral
+"
+"oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado",Tekatsi katsini ñeeroneri peerani oka nashiyetachari pomerentsiri ashi cableado.,"neutral
+"
+"oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado",Ora cableado kaari oni pomerentsitantsi.,"entailment
+"
+"oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado",Timatsi pomerentsitantsi opoñantari oka kaari añaayetiri cableado.,"neutral
+"
+"opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri",Tee imapokasanoyetenaji okarati abisaintsi ora indulgentes.,"neutral
+"
+"opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri",Imapokayeta yoiminkakayeteri irobanaro jero imireteri anta.,"neutral
+"
+"opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri",Imapokayeta okarati yareeyetakari yaakeri.,"neutral
+"
+"jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.",Opinata $ 2000 pamanantanteari maaroni pikoayetiri.,"neutral
+
+
+
+"
+"jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.",Opinata osheki pikitsatearika abisati.,"neutral
+
+
+
+"
+"jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.",Opinata kapichaji akitsatearika.,"neutral
+"
+"oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika",Tee okoasanoteaji tempa notomipee timatsi abisanke pitetsa osarentsi.,"neutral
+
+
+
+**explanation:**
+
+without a detailed translation and understanding of asháninka semantics, it's impossible to definitively say if the premise entails or contradicts the hypothesis. the sentences appear to be about different things (the premise mentions ""iro maaroni"" and ""otimi tsapite,"" while the hypothesis mentions ""tee okoasanoteaji"" and ""timatsi abisanke"").  
+
+therefore, the relationship is most likely **neutral**. they could be discussing unrelated events or concepts. to determine entailment or contradiction, we'd need to know the meaning of each phrase and how they relate to each other."
+"oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika","Ari nomatakero nantero, jampakea aretakari irosarentsite.","neutral
+
+
+
+"
+"oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika",Otimatiye nantero tempa apiteketi otimi tsa jero tsaaparo irosarentsite.,"neutral
+
+
+
+"
+¡Pijate! Kameetsa oka oni fresno.,Notimake Fresnoki.,"neutral
+"
+¡Pijate! Kameetsa oka oni fresno.,Tee nokantasanote jaoka otimi oka.,"neutral
+"
+¡Pijate! Kameetsa oka oni fresno.,Noakantimpi irotake oka Fresno.,"neutral
+"
+"Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.","Jee, atiri amashitea teerika iyote yaayetero ora inkantayetiri.","neutral
+
+
+
+"
+"Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.","Jee, atiri amashitea terikamachata ayeri itashe.","neutral
+
+
+
+"
+"Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.","Jee, atiri okarati tikakotiri ashi ikantayetiri eirokea katsini ashereantari.","neutral
+
+
+
+"
+"Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.",Okantani omoyekaita intanakaro peerani 1970.,"neutral
+"
+"Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.",Onimotiri yante aniyetantsi.,"neutral
+"
+"Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.",Otsonkanakaro oshonka irobakera.,"entailment
+"
+jaoka pikanteari pante aerobicos,¿Ari pimatakea pikamantenaro pantanteari aerobic?,"contradiction
+"
+jaoka pikanteari pante aerobicos,Nokoasanotakero ora aerobic tempa nokoakero natanteari ashi nantabeerentsi cardiovascular.,"neutral
+"
+jaoka pikanteari pante aerobicos,"Pipeakotenaro, aitapaji piñaanatake okantakota antaberentsi aerobicos.","neutral
+"
+"Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.",Oka irointi aparo kenkeshireantsi kaariperori nojokakero otsipaniki tsonkitai.,"neutral
+"
+"Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.",Oka irointi aparo kameetsari añanatakoteri.,"neutral
+"
+"Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.",Ora paradoja akamantakotakeri okameetsati añaanatakoteri.,"neutral
+"
+"kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi",Ora kempoyamentotsi ashitareaka maaroni kitaiterikiirashi jananeki orijanikiri irosarentsite koni apatirosanotatsiri.,"neutral
+
+
+
+"
+"kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi",Ijapinijeitake apite tsonkitaiteriki iriorika yora atiri manatatsiri irosarentsite irosati jenokinta.,"neutral
+"
+"kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi","Irootake ikanteetiri aparo kempoyamentotsi irashi antyashiparipee, iro ibajiro niyakitakore irashi atiri antyaritapaatsiripee.","neutral
+
+
+
+"
+timatsi amsuajeitiri aka teleki,Irootake oka ishintsimentakeri.,"neutral
+"
+timatsi amsuajeitiri aka teleki,Oka katsini tee ikoajeiteroni.,"neutral
+"
+timatsi amsuajeitiri aka teleki,Areejeitakaro areeteari.,"neutral
+"
+okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi,OniyankitInta maaroni opeayeta oitsoki pistola irojeitake oshitobantari ora aparoniki akotsi.,"neutral
+"
+okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi,Ora okameetsatanteari okontororateamanamentotsi antearo apiteketi iitintsi.,"neutral
+"
+okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi,Pantantearo apiteketi akotsi pikoirika piñaante pikontororateri manamentotsi.,"neutral
+"
+aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro,"Tee niyote jaoak opoañari irokea, intsupaite.","entailment
+"
+aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro,Impoke intsipaite iro niyotakeri jaoka ipoñenpari.,"neutral
+"
+aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro,Impoke ikemetemparo melaza niyoti jaoka okarate opoke.,"neutral
+"
+"tee, anteroji aisati tee niyoteroji, te noshiretearoji",Tee niyotasanotero osheki okantakota oka.,"neutral
+"
+"tee, anteroji aisati tee niyoteroji, te noshiretearoji",Naro kaari iyotinkari okantakota nintantentsi.,"neutral
+"
+"tee, anteroji aisati tee niyoteroji, te noshiretearoji",Noshitooriabetaka oka oshekiki osarentsi.,"neutral
+"
+Piyotirika iroorika kameetsaroni.,Okenmisantiro nokempetarini ikoasanoyeetiri.,"neutral
+"
+Piyotirika iroorika kameetsaroni.,"Tee, iroori irointini kaari kameetsatatsi.","neutral
+"
+Piyotirika iroorika kameetsaroni.,"Jee, iroori rointikea okameemtsatasanoti.","neutral
+"
+"Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.",Ikantake yamanante aparo aspiradora.,"neutral
+"
+"Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.",Ikantake añaanteari aparo ora fregona.,"contradiction
+"
+"Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.",Ikoabentaka ishetajerome iriraja aparo setamentotsi.,"neutral
+"
+"Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.",Ora manamanatantsi otimake otsantsati okarati 100 millas anta nosaikinta.,"neutral
+"
+"Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.",Ora manamanatantsi kempejinenta nobankoki notsaroi noshitoye.,"neutral
+
+
+
+"
+"Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.","Otimaiti aparo manamanatantsi kempeji nobankoki, tee okameetsateji aka.","neutral
+
+
+
+"
+"oh, kaari oni keariori, oh, consistente","Tee nokoasanoteroji pikantir abirori , pikantapinitiro.","neutral
+"
+"oh, kaari oni keariori, oh, consistente",Keariotake otimii okantakota ora consistencia.,"entailment
+"
+"oh, kaari oni keariori, oh, consistente",Timatsi pikekeshireari okantakota okakiji kaari oni consistente.,"neutral
+"
+namabetiro nokempoyantearori anta.,Noñaantaro nokisoiri iriorii.,"neutral
+"
+namabetiro nokempoyantearori anta.,Keariosanotake nantatiro kameetsasano imateri.,"neutral
+"
+namabetiro nokempoyantearori anta.,Nojatasanotaje eiro katsini namananaje notapiiki.,"neutral
+"
+"jee, ¿paita itsipasati irijani timimotimpiri?",¿Yora pirijani irin ti kameetsari jananeki?,"neutral
+"
+"jee, ¿paita itsipasati irijani timimotimpiri?",¿Paita itsipasati miishi paayetabajiri?,"neutral
+"
+"jee, ¿paita itsipasati irijani timimotimpiri?",¿Paita itsipasati otsiti ebonkiri timimotimpiri?,"neutral
+"
+"Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?",¿Jaoka ikaratiri pitomipee timatsiri?,"neutral
+"
+"Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?",Nokenkeshireakotimpi nojitake eiro itimitsi pitomi.,"neutral
+"
+"Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?","Pikantake timatsi pitomipee, ¿paita irosarentsite timatsiri?","neutral
+"
+"keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate","Amashitakea teerika iyotasanoteji, irokantaincha irirojeitake kameetsatasanotatsiri ikoasanojeitakeri shitooriajeitatsiri.","neutral
+"
+"keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate","Irintini iyotinakripee, ikantashijeitanaka ikemetanakari kaariperori ikempejitapaakari itsipappe kaari ini iyotasanoti.","neutral
+"
+"keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate","Iriojeitanake marereasanotanaintsiri, iñaajeitakero paiatapeerika ikoasanoti ishitooriate.","neutral
+
+
+
+"
+"Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta",Yora zorrillo yoyake apiyajeitaje campamentoki.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of asháninka cultural context and the specific meanings of all the words, it's impossible to determine a logical relationship between these statements. 
+
+*   the premise talks about someone (""aparoni"") being able to do something and the consequences of that ability related to a certain place (""konijariki""). it's a complex statement about capability and its effects.
+*   the hypothesis is about a ""yora zorrillo"" (likely a skunk) arriving at a camp (""campamentoki"").
+
+there's *no* logical connection apparent between a person's ability to do something and a skunk's arrival at a camp. the premise does not provide any information that would either confirm or deny the hypothesis. therefore, it's **neutral**.
+
+it's vital to note that a true determination would require a native asháninka speaker's interpretation, as nuances of meaning and cultural context are critical for accurate analysis. however, based solely on the surface level of the text, 'neutral' is the most appropriate answer."
+"Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta",Añaajeitapairi aparo kaabira campamentoki impoiniji itsibakantanakari tsiborontsipee.,"neutral
+"
+"Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta",Apiajeitajaro anta antabeerentsiki akemajeitapairi mofeta.,"neutral
+"
+"piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro",Piyotaji itsipaki jananekipee antayritaintsirimaaroni noshaninkajeitajeari.,"neutral
+
+
+
+"
+"piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro",Nokimoshiretake osheki iyojeitanake notomipee.,"neutral
+"
+"piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro",Yora nojananekitepee irinti kaariperoirpee.,"neutral
+"
+"aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee",Ora tikayetakotirori oshekiantari kajarashi okakijitake pomerentsiri otenayeti kajarashipee irosatiriki.,"neutral
+
+**reasoning:**
+
+without a full understanding of asháninka grammar and lexicon, it's impossible to definitively state entailment or contradiction. both the premise and hypothesis are complex sentences. while they share the word ""kajarashi"" and ""ora,"" the rest of the vocabulary and grammatical structure appear different enough that we cannot conclude a logical relationship (entailment or contradiction) based solely on the given strings. it's highly likely they discuss different aspects or contexts, making them neutral to each other. 
+
+essentially, lacking a translation, we must assume the statements are independent.
+
+
+
+"
+"aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee",Yora atiri eiro ikenkeshireatsi okarati oshekiake kajarashi okarati oka yojakayetiri okantakotiri.,"neutral
+
+
+
+"
+"aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee",Yora atir ikoajeiti abakoyetajeri oshekiantari kemeri otenanka kajajrashi osheki okimotatananke.,"neutral
+
+
+
+it's impossible to determine the relationship (entailment, contradiction, or neutrality) without understanding the meaning of the asháninka sentences. the sentences are complex and lack readily available translation. therefore, based solely on the string of words, we must assume a neutral relationship."
+"aritake, otimakerika amshitantsi irointi pamashire nokantiri","Eiro pikekeshireatsi, arika otimake amashirentsi namitakotempi kantakantantsi.","neutral
+"
+"aritake, otimakerika amshitantsi irointi pamashire nokantiri",Aritakerika otimake ashirentsi irointi pikantakantiri pashi.,"neutral
+"
+"aritake, otimakerika amshitantsi irointi pamashire nokantiri","Aritake pantakero mashitantsi, otimatiye pashitearoirashi iriori.","neutral
+"
+Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.,Ora antsitantsi antantearori itimatiye amenaperotero.,"neutral
+"
+Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.,Ora antsitantsI yantayetakero intsipaite ari añaakero te okanteji.,"neutral
+"
+Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.,Yajeitakero osheki kitaiteri itsonkantearori ora antsitantsipee.,"neutral
+"
+"jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai",Pitaiterite ari oshekiate papropeniki osarentsi.,"neutral
+"
+"jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai",Pitaiterite eiro pimatirotsi pitsokero maba kitaiteri.,"neutral
+"
+"jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai",Pitaiterite pimaoreantari oshekianake antabeerentsi nampitsiki.,"neutral
+"
+"oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri",Asaikanteari nampitsiki kemetaka tsaroantsiki constante okemetaro oka.,"neutral
+"
+"oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri",Ora kameetsatatsiri asaike nampitsiki irointi eiro akenkeshireatsi ora konijatatsiri kemetarorim oka.,"neutral
+"
+"oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri",Iroperotatsiri anta asaikanteari obanentsiki eiro ikenkeshireatsi oka timatsiri nampitsiki.,"neutral
+"
+"oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi",Okemetaro oka akimoshirebentiro o osheki ashemashirea.,"neutral
+"
+"oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi",Aitake okanta opoimati okemetaro antyaro kibantantsi.,"neutral
+"
+"oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi",Kemetaka aparo abishomoteri kobenkatatsiri.,"neutral
+"
+meeka otimimotana notsiro Alemaniaki,Meeka itimimotana norenti saikatsiri Alemaniaki.,"neutral
+"
+meeka otimimotana notsiro Alemaniaki,Timatsi notsiro osaiki meeka anta Cubakii.,"neutral
+"
+meeka otimimotana notsiro Alemaniaki,Timatsi notsiro naañatiori alemán.,"entailment
+"

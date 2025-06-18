@@ -1,0 +1,1395 @@
+premise,hypothesis,gpt_reply
+"Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.",Manam paywanqa kaqllamantaqa rimarqanichu.,"contradiction
+"
+"Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.",Paqway piñasqam karqani chayraykum kaqllamanta paywan rimarqani.,"let's break down the quechua sentences and assess the relationship:
+
+*   **premise:** allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.
+    *   ""allinmi"" - it's good / fine.
+    *   ""manam chaypiqa hamutachkarqanichu"" - i wasn't thinking about that (there).
+    *   ""ichaqa manam allinchu tarikurqani"" - but i didn't feel well.
+    *   ""chaymi kaqllamanta paywan rimarqani."" - that's why i spoke to him again.
+    *   **combined meaning:** it's fine, i wasn't thinking about that, but i didn't feel well, that's why i spoke to him again.
+
+*   **hypothesis:** paqway piñasqam karqani chayraykum kaqllamanta paywan rimarqani.
+    *   ""paqway piñasqam karqani"" - i was angry.
+    *   ""chayraykum kaqllamanta paywan rimarqani."" - that's why i spoke to him again.
+    *   **combined meaning:** i was angry, that's why i spoke to him again.
+
+**analysis:**
+
+the premise states that the speaker wasn't thinking about ""that"" and didn't feel well, leading them to speak to the person again. the hypothesis states the speaker was angry and that is why they spoke to them again.
+
+the premise *doesn't exclude* the possibility of the speaker being angry. feeling unwell could be a *result* of anger. therefore, the premise does not *necessitate* the hypothesis, nor does it *rule it out.* the premise and hypothesis simply provide different potential reasons for the action.
+
+**answer:**
+
+neutral
+"
+"Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.",Allintam rimarurqaniku.,"entailment
+"
+"Chaymanta hamutarqani ancha waqaychasqa kapuwasqanta, chaynaraqmi kachkan, chaynaraqmi kachkan, ñuqallam karqani 922 Ex-O nisqan chay AFFC Fuerza Area nisqanpi.",Manam yacharqanichu ñuqa mana sapallay chay pampapi chay punchaw kasqayta.,"neutral
+"
+"Chaymanta hamutarqani ancha waqaychasqa kapuwasqanta, chaynaraqmi kachkan, chaynaraqmi kachkan, ñuqallam karqani 922 Ex-O nisqan chay AFFC Fuerza Area nisqanpi.",Ñuqaqa musyarqani sapallay kay pampapi chay AFFC Air Force Career yupayuq kasqayta.,"entailment
+"
+"Chaymanta hamutarqani ancha waqaychasqa kapuwasqanta, chaynaraqmi kachkan, chaynaraqmi kachkan, ñuqallam karqani 922 Ex-O nisqan chay AFFC Fuerza Area nisqanpi.","Llapallaykumanmi hina kaq yupallata quwarqaku, manam imapas qukunchu chay promesakuna quwananku kasqanpas, llapa yanqa rimaymi kasqa.","neutral
+"
+"Niwarqa, chay… huk runas qayamuwanan kasqa tinkunaykupaq.",Manam qaykaqpipas pi riqsinaypaq willawarqachu.,"neutral
+"
+"Niwarqa, chay… huk runas qayamuwanan kasqa tinkunaykupaq.",Ñuqatam niwarqa huk runatas qayanman riqsiwananpaq.,"entailment
+"
+"Niwarqa, chay… huk runas qayamuwanan kasqa tinkunaykupaq.",Chay runaqa ancha chisyaykuytañam rikurirqamurqa.,"neutral
+"
+"Ancha achkam chaymanta willakunay, aswanqa pawarqusaqña chayta.",¡Chaymanta llapachantam willayta munayki!,"entailment
+"
+"Ancha achkam chaymanta willakunay, aswanqa pawarqusaqña chayta.","Manam chaymanta rimasaqchu, ancha achka chaymanta rimay kaptinpas.","neutral
+"
+"Ancha achkam chaymanta willakunay, aswanqa pawarqusaqña chayta.","Manam llaqtapa ñawpa imayna qispisqanmanta rimasaqchu, paqway achka willakuy kasqanrayku.","let's analyze the quechua sentences:
+
+*   **premise:** ancha achkam chaymanta willakunay, aswanqa pawarqusaqña chayta.  translation: ""i have a lot to tell about that, so i'm going to leave already."" or ""i have so much to tell about that, i'd better leave instead.""
+
+*   **hypothesis:** manam llaqtapa ñawpa imayna qispisqanmanta rimasaqchu, paqway achka willakuy kasqanrayku. translation: ""i won't talk about how the town was saved in the past, because there are so many stories.""
+
+the premise states the speaker has a lot to tell and is therefore leaving (implying they won't be able to tell it all, or that it's overwhelming). the hypothesis states the speaker won't talk about the town's salvation because there are many stories. while the general idea of ""many stories"" is present in both, they are about different subjects (""that"" vs. the town's salvation) and the reasons for not telling them are different (leaving vs. too many stories). they're connected only in a very general way. thus, one doesn't necessarily follow from the other.
+
+therefore, the relationship is **neutral**.
+"
+"Chay paqway waqaychasqatam salvayta munarqaniku, manam imayna bomba hidrógena nisqan wichichinaykupaq karqachu yaqapas 30manta, chay C124 nisqanta.",Manam imapas hukuwarqakuchu mana imapas churay.,"neutral
+"
+"Chay paqway waqaychasqatam salvayta munarqaniku, manam imayna bomba hidrógena nisqan wichichinaykupaq karqachu yaqapas 30manta, chay C124 nisqanta.",Chay cosatam aswanta salvayta munarqaniku imapas wakinmanta.,"entailment
+"
+"Chay paqway waqaychasqatam salvayta munarqaniku, manam imayna bomba hidrógena nisqan wichichinaykupaq karqachu yaqapas 30manta, chay C124 nisqanta.",Chay bomba-H nisqantam salvayta munarqaniku ancha sasa rurachiy kasqanrayku.,"entailment
+"
+Chaynaqa manam allinta yachanichu imaynanpi chayna kasqanta.,Chiqaptam yachachkani imaynanpi chayna kasqanta.,"contradiction
+"
+Chaynaqa manam allinta yachanichu imaynanpi chayna kasqanta.,Imaynanpich pay yachaywasikunata aparqachirqa.,"neutral
+"
+Chaynaqa manam allinta yachanichu imaynanpi chayna kasqanta.,Imaynanpich chay apakurqa.,"neutral
+"
+"Kaymi Fannie Flono. Ag--Augusta, GA, nisqanpim wiñarqa, taksaraq kasqan willakuykunamanta rimanqa.","Fannie Flono huk punchawñam willakunqa, chayman hinam kunan willakuyninkunata para kunanqa willawasunchu.","neutral
+"
+"Kaymi Fannie Flono. Ag--Augusta, GA, nisqanpim wiñarqa, taksaraq kasqan willakuykunamanta rimanqa.","Fannie Flono kaypim tarikun, Augusta, GA nisqanpi wiñasqanmantam imapas willakuykunata willawasun.","entailment
+"
+"Kaymi Fannie Flono. Ag--Augusta, GA, nisqanpim wiñarqa, taksaraq kasqan willakuykunamanta rimanqa.",Fannie Flono kayqaya kunan willaruwanchik ancha achka ruwayninkuna kaptinpas.,"entailment
+"
+Chaynallataq pichqa U2 nisqan destacamentuta wischurqusqa.,Rimarqanim U2 nisqanwan.,"neutral
+"
+Chaynallataq pichqa U2 nisqan destacamentuta wischurqusqa.,Mana punim U2 nisqanwanqa atipanakurqanichu.,"neutral
+"
+Chaynallataq pichqa U2 nisqan destacamentuta wischurqusqa.,Destacamentokunawanmi U2 nisqanpaq sapa punchaw tawa chunka wata llamkarqani.,"neutral
+"
+Ñuqallam qaykaqpipas llamkachiq karqani taqyachiqkunata chay cámaras de altitud en miniatura nisqanpi prueba ruwanapaq.,Manam ñuqata gustawarqachu sapallay chay prueba ruwanapaq takyachiqkuna llamkachiy.,"neutral
+"
+Ñuqallam qaykaqpipas llamkachiq karqani taqyachiqkunata chay cámaras de altitud en miniatura nisqanpi prueba ruwanapaq.,Chay pruebakunam ruwakurqa chay cámaras de altitud en miniatura nisqanpi.,"entailment
+"
+Ñuqallam qaykaqpipas llamkachiq karqani taqyachiqkunata chay cámaras de altitud en miniatura nisqanpi prueba ruwanapaq.,Hukniykum umallirqaniku chay pruebapaq takyachiqkunata.,"neutral
+"
+"Ñuqam kani, kay, umalliq yachachiq sargento, samakuqña, Rick nisqanpi hina.",Llamkachkaniraqmi chay punchawpaq.,"neutral
+"
+"Ñuqam kani, kay, umalliq yachachiq sargento, samakuqña, Rick nisqanpi hina.",2002 watatam lluqsikurqani.,"neutral
+"
+"Ñuqam kani, kay, umalliq yachachiq sargento, samakuqña, Rick nisqanpi hina.",Rickmi nisurqanki ña llamkaymanta lluqsikusqayta.,"neutral
+"
+"Flujo de caja nisqan imayna kanan yachay kachkanmi chaynallataq, uh, yaw, chay pipas maypas Cuttypaq, kaymi sutin rantiy munaqpa.",Cutty nisqan rantiy munaqmi 10000 dolarta sapa killa chaskin.,"neutral
+"
+"Flujo de caja nisqan imayna kanan yachay kachkanmi chaynallataq, uh, yaw, chay pipas maypas Cuttypaq, kaymi sutin rantiy munaqpa.",Cutty sutiyuq rantiy munaqmi kachkan.,"entailment
+"
+"Flujo de caja nisqan imayna kanan yachay kachkanmi chaynallataq, uh, yaw, chay pipas maypas Cuttypaq, kaymi sutin rantiy munaqpa.",Manam kapuwanchikchu Cutty sutiyuq rantiy munaqninchikqa.,"neutral
+"
+Yanapawaqniy atiq sispasmi hatun llaqtapa waklawninpiraq tiyan.,Chay sipaspa yanapakuynin munasqaymi karupiraq tiyan.,"entailment
+"
+Yanapawaqniy atiq sispasmi hatun llaqtapa waklawninpiraq tiyan.,Yanapawaqniy warmi warman 5 millas nisqan karupiraq tiyan.,"neutral
+"
+Yanapawaqniy atiq sispasmi hatun llaqtapa waklawninpiraq tiyan.,Manam pipas kanchu yanapawaqniy.,"contradiction
+"
+"Ichaqa paykunaqa rakinanakusqam kachkarqaku chay pikunam pampapi makikuna chaynallataq pikunam wasipi warmakuna, kayna hinam karqa…",Llapallankum acuerdopi karqaku chay pampapi llamkanankupaq.,"neutral
+"
+"Ichaqa paykunaqa rakinanakusqam kachkarqaku chay pikunam pampapi makikuna chaynallataq pikunam wasipi warmakuna, kayna hinam karqa…",Manam acuerdoman yaykuyta atirqakuchu chay pim pampapi maki kananpaq chaynallataq pim wasipi kananpaq.,"entailment
+"
+"Ichaqa paykunaqa rakinanakusqam kachkarqaku chay pikunam pampapi makikuna chaynallataq pikunam wasipi warmakuna, kayna hinam karqa…",Manam acuerdopi kayta atirqakuchu chay pim algodón chakrapi llamkanqa chaynallataq pim wasipa pampanta aywinqa.,"entailment
+"
+"Kunanmi chay Tercera SS, U2 Quick chaynallataq Blackbird nisqankunamanta rimariwasun.",Paymi manaña rimayta munanchu.,"neutral
+"
+"Kunanmi chay Tercera SS, U2 Quick chaynallataq Blackbird nisqankunamanta rimariwasun.",Paymi kimsa hukniraq submarinokunamanta rimaqiwasun.,"neutral
+"
+"Kunanmi chay Tercera SS, U2 Quick chaynallataq Blackbird nisqankunamanta rimariwasun.",Paymi kimsa imakunamantapas riman.,"entailment
+"
+"Ñuqam niyta munani paykunapa nalla kasqanta, kayna hina, pichqa wawakuna. Hunkinmi wañulurqa.",Llapallan wawankunam kawsarirurqaku.,"contradiction
+"
+"Ñuqam niyta munani paykunapa nalla kasqanta, kayna hina, pichqa wawakuna. Hunkinmi wañulurqa.",Pichqa kaqmanta hunkin wawam wañururqa.,"entailment
+"
+"Ñuqam niyta munani paykunapa nalla kasqanta, kayna hina, pichqa wawakuna. Hunkinmi wañulurqa.",Chay wañukuq warmam unquyniyuq paqarisqa.,"neutral
+"
+"Chaynallataq, chayna punim, Androv Gromikov mana ima tapuytapas kutichirqachu, ichaqa llamapallan yachaykunam chay U2pa pelicula ruwasqanmanta kapuwarqaku.",Chay U2 nisqanmi achka peliculakunata hapirqaku.,"neutral
+"
+"Chaynallataq, chayna punim, Androv Gromikov mana ima tapuytapas kutichirqachu, ichaqa llamapallan yachaykunam chay U2pa pelicula ruwasqanmanta kapuwarqaku.",Chay U2 nisqanmi huk waranqa peliculakunata yaku ukumanta huqarirqaku.,"neutral
+"
+"Chaynallataq, chayna punim, Androv Gromikov mana ima tapuytapas kutichirqachu, ichaqa llamapallan yachaykunam chay U2pa pelicula ruwasqanmanta kapuwarqaku.","Manam archivo nisqa llamkay kapuwarqakuchu, chayraykum tantiyarqaniku.","neutral
+"
+"Ñawimantas wiqi sutusqa nirqam, chaymantañataq nirqa chay Joes risqa wasipa qipankama.","Wasipa qipanman qispinanpaq niptinmi, ñawinkunapi wiqi kachkasqa.","entailment
+"
+"Ñawimantas wiqi sutusqa nirqam, chaymantañataq nirqa chay Joes risqa wasipa qipankama.",Payqa utqaymanmi wiqinta pichakururqa Joeta wasi qipamanta wischurquspan.,"neutral
+"
+"Ñawimantas wiqi sutusqa nirqam, chaymantañataq nirqa chay Joes risqa wasipa qipankama.",Paqway kusikuywan Joeta rikuspanmi waqayta qallaykurqa.,"neutral
+"
+"Chay aeronave ratachkaptinpas, ¿imaynanpitaq kañakunman chaynallataq chullunman chay plomowan radiación mana yaykunanpaq componenteyuq kachkaspa?",Radiación nisqantaqa paqway nina rataypipas harkayqa atikunmanmi.,"entailment
+"
+"Chay aeronave ratachkaptinpas, ¿imaynanpitaq kañakunman chaynallataq chullunman chay plomowan radiación mana yaykunanpaq componenteyuq kachkaspa?",Chay radiación nisqanmi chay hatun componentemanta suturunman avion kañakurquptin.,"neutral
+"
+"Chay aeronave ratachkaptinpas, ¿imaynanpitaq kañakunman chaynallataq chullunman chay plomowan radiación mana yaykunanpaq componenteyuq kachkaspa?",Chay radiación nisqanqa manam sutunmanchu hatun ninawan kañaypiqa.,"entailment
+"
+"Kaymi kamachiq yachachiq sargento Clem Francis, paymi Estados Unidospa fuerzas aéreas nisqanmanta lluqsirqa.",Chay kamachikuqmi Estados Unidospa Fuerza Áerea nisqanmanta lluqsirqa.,"entailment
+"
+"Kaymi kamachiq yachachiq sargento Clem Francis, paymi Estados Unidospa fuerzas aéreas nisqanmanta lluqsirqa.",Chay kamachikuqmi chayllaraq iskay semana ima lluqsikurqa.,"neutral
+"
+"Kaymi kamachiq yachachiq sargento Clem Francis, paymi Estados Unidospa fuerzas aéreas nisqanmanta lluqsirqa.",Estados Unidospa Fuerza Aereanpa kamachikuqninmi kay semanata qallaykun llamkayninta.,"neutral
+"
+"Chaynam riki, chayarqamun punim yaqapas iskay utaq kimsa aeronavekuna huk semanapi chayamunankama hinallataq mana yacharqanichu mayman pawasqanta.",Manam huk avionllachu chayamun sapa semana.,"entailment
+"
+"Chaynam riki, chayarqamun punim yaqapas iskay utaq kimsa aeronavekuna huk semanapi chayamunankama hinallataq mana yacharqanichu mayman pawasqanta.",Avionkunapa pawaynin miraymi ancha sasachakuyña.,"neutral
+"
+"Chaynam riki, chayarqamun punim yaqapas iskay utaq kimsa aeronavekuna huk semanapi chayamunankama hinallataq mana yacharqanichu mayman pawasqanta.",Mana punim chayamunchu chulla avionpas.,"contradiction
+"
+Paykunaqa ñam presurizado nisqan pachawan yachachisqaña karqaku chaynallataq unaytam sasata presurizado pachata ustukurqani.,Kimsa killapim tukunku presión nisqa pachawan hinakuy yachayta.,"neutral
+"
+Paykunaqa ñam presurizado nisqan pachawan yachachisqaña karqaku chaynallataq unaytam sasata presurizado pachata ustukurqani.,Presión nisqa pachawan hinakuy yachayqa unarinmi.,"neutral
+"
+Paykunaqa ñam presurizado nisqan pachawan yachachisqaña karqaku chaynallataq unaytam sasata presurizado pachata ustukurqani.,Yachachiykikuman karqa presión pachawan punchaw tukuqta hinakuy yachanaykipaq.,"neutral
+"
+"Niytaqa munani manam imapas manchakuy kanchu chay bombawan yaykuyqa, manam tuqyanmanchu, mayna kallpawan allpaman wichiykuspanpas.",Bombataqa amacharqusqa pilotom.,"neutral
+"
+"Niytaqa munani manam imapas manchakuy kanchu chay bombawan yaykuyqa, manam tuqyanmanchu, mayna kallpawan allpaman wichiykuspanpas.",Bombaqa manam imaynatapas tuqyanmanchu.,"entailment
+"
+"Niytaqa munani manam imapas manchakuy kanchu chay bombawan yaykuyqa, manam tuqyanmanchu, mayna kallpawan allpaman wichiykuspanpas.",Ancha manchakuymi karqa bomba tuqyarqunanmanta.,"let's analyze the quechua sentences:
+
+*   **premise: niytaqa munani manam imapas manchakuy kanchu chay bombawan yaykuyqa, manam tuqyanmanchu, mayna kallpawan allpaman wichiykuspanpas.**  this translates to: ""i want to say there is nothing to fear about entering with that bomb, it won't explode, even if it falls to the ground with great force.""  key phrase: ""manam imapas manchakuy kanchu"" (there is nothing to fear) and ""manam tuqyanmanchu"" (it won't explode).
+
+*   **hypothesis: ancha manchakuymi karqa bomba tuqyarqunanmanta.** this translates to: ""i was very afraid that the bomb would explode.""
+
+the premise explicitly states there's nothing to fear and the bomb won't explode. the hypothesis states the person *was* very afraid the bomb *would* explode. these statements are directly opposed.
+
+therefore, the premise contradicts the hypothesis.
+
+**contradiction**
+"
+Ichaya rikukun ñuqapa ruway atipasqay hinapas.,Manam sumaqtachu yachani chay rikupakusqaykita.,"neutral
+"
+Ichaya rikukun ñuqapa ruway atipasqay hinapas.,"Chaynamiki, chaytaqa ruwaykuchkanim.","entailment
+"
+Ichaya rikukun ñuqapa ruway atipasqay hinapas.,Tukuypaqmi kachkani llamkayniyta hamuq semanata.,"neutral
+"
+"Chayna hinam, uywakunaqa chinkarqunmanmi tukuy pacha, aswantaqa cabrakuna.",Cabrakunaqa kanchanmanta sapa punchawmi ayqikuqku.,"neutral
+"
+"Chayna hinam, uywakunaqa chinkarqunmanmi tukuy pacha, aswantaqa cabrakuna.",Cabrakunaqa sapa kutim ayqirqurqaku.,"neutral
+"
+"Chayna hinam, uywakunaqa chinkarqunmanmi tukuy pacha, aswantaqa cabrakuna.",Cabrakunaqa ancha qarkasqam karqaku chaynallataq waqayuchasqa.,"neutral
+"
+Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa.,Llapallan punkukunam kichasqa kachkarqa.,"contradiction
+"
+Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa.,Ñuqaykuwanmi llaveqa karqa.,"neutral
+"
+Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa.,Punku wichqasqa kachkaptinpas yaykurqanikum.,"entailment
+"
+Chaynapim llapanta quqarinan karqa chaynallataq mallispa hinaspa allichacharunanrayku.,Llapan kasqantaqa sumaqtam yachachkani chaywanqa kayta allintam allicharusaq.,"neutral
+"
+Chaynapim llapanta quqarinan karqa chaynallataq mallispa hinaspa allichacharunanrayku.,"Manam ancha imayna kay llapanwan ima rurayta, ama hina kaspayki aswanta imayna kasqanta yachaykachimuway kayta tukurunaypaq.","neutral
+"
+Chaynapim llapanta quqarinan karqa chaynallataq mallispa hinaspa allichacharunanrayku.,Llapanta qawarispachiki qurqusaq.,"neutral
+"
+"Payqa hamurqa, punkuta kicharqa hinataqmi yuyani qipa qawasqayta chaynallataq uyay imayna qawakusqanta hinataq mana allinkasqanta qawarqani.",Ancha kusikuywanmi quntasqanman kachkarqani chaymi punkupa patanta takarqamurqa.,"neutral
+"
+"Payqa hamurqa, punkuta kicharqa hinataqmi yuyani qipa qawasqayta chaynallataq uyay imayna qawakusqanta hinataq mana allinkasqanta qawarqani.","Mana allinta hinam qawachiwarqa, ichaqa sasachakuymanmi yaykuchisqaykutam yacharqaniku.","neutral
+"
+"Payqa hamurqa, punkuta kicharqa hinataqmi yuyani qipa qawasqayta chaynallataq uyay imayna qawakusqanta hinataq mana allinkasqanta qawarqani.",Uyallanpiqa qawaykuspay mana allin kasqanta yacharqani.,"entailment
+"
+Hinaptinqa manam kawsay kapuwarqachu.,Manam huk wasi rantikunayqa kanchu.,"neutral
+"
+Hinaptinqa manam kawsay kapuwarqachu.,Hun ranti wasillaymi kan.,"neutral
+"
+Hinaptinqa manam kawsay kapuwarqachu.,Achka ranti wasim kachkan.,"neutral
+"
+Chayqa manam payqa kikinmantaqa ruraqchu.,Payqa achka yanapatam chaskin.,"neutral
+"
+Chayqa manam payqa kikinmantaqa ruraqchu.,"Payqa mikuywan, pachawanmi yanapata chaskin.","neutral
+"
+Chayqa manam payqa kikinmantaqa ruraqchu.,Payqa sapallanmi.,"neutral
+"
+"Chaynaqa ñuqaqa hamutarqani, Diosllay, Ramona chaypitaq kachkasqa.",Ramanoqa pampapi quñukuruspa qalay mana allin kachkarqa.,"neutral
+"
+"Chaynaqa ñuqaqa hamutarqani, Diosllay, Ramona chaypitaq kachkasqa.",Ramanoqa upallalla quchachawachkasqa.,"neutral
+"
+"Chaynaqa ñuqaqa hamutarqani, Diosllay, Ramona chaypitaq kachkasqa.",Ramonaqa kurkunpa kachkarqa ñuqa simiy kicharisqa kachkaptiy.,"neutral
+"
+¡Chiqaqtaqa allinllakasqa!,"Mikurqa achka mikuyta, ichaqa mana yasaynin yapakurqachu.","neutral
+"
+¡Chiqaqtaqa allinllakasqa!,Payqa mana anchatachu yasarqa.,"neutral
+"
+¡Chiqaqtaqa allinllakasqa!,Payqa ancha kusisqa kachkarqa.,"entailment
+"
+Chaymanta Augustapichu qiparqa imaynayá.,Payqa Augustapi awqunakuy chiqninikaymantapas hina yacharqa.,"neutral
+"
+Chaymanta Augustapichu qiparqa imaynayá.,Payqa hina Augustapi Yacharqa.,"entailment
+"
+Chaymanta Augustapichu qiparqa imaynayá.,Kamaslla Augustapa huklawninman ripukurqa.,"neutral
+"
+"Llapanchan rurasqayku…imaytapas mayman risqanta niwarqakuchu, base nisqamanta huklawman lluqsispa unay kamunankupaqpas.",Manam imaytapas mayman risqanta tapurqanichu.,"contradiction
+"
+"Llapanchan rurasqayku…imaytapas mayman risqanta niwarqakuchu, base nisqamanta huklawman lluqsispa unay kamunankupaqpas.",Maypi kasqankutaqa mayman risqankuta yachanaykuta saqiwaqkum.,"neutral
+"
+"Llapanchan rurasqayku…imaytapas mayman risqanta niwarqakuchu, base nisqamanta huklawman lluqsispa unay kamunankupaqpas.",Manam haykappipas mayman risqanta niwaqkuchu.,"contradiction
+"
+Nirqaniku: kaypi qipanaykipaqmi payllachkaniku.,Manam ñuqanchikpaqa imatapas payllanqachu.,"contradiction
+"
+Nirqaniku: kaypi qipanaykipaqmi payllachkaniku.,Wasipaqmi ñuqapaqwan wawqiypaqa payllachkanku.,"neutral
+"
+Nirqaniku: kaypi qipanaykipaqmi payllachkaniku.,Wasiraykum payllachkanku.,"neutral
+"
+"Kusa, paqarinninpaq, chaynapunim, Kennedy presidentem, mm, Cubata bloquearurqa…ñuqanchikpa buquenchikmi huk Ruso barco Cubapa qawanman riqta qarkarurqa hinaspam misiles nisqakunata tarirurqaku",Kennedy nisqam tropa nisqanchikta misiles maskananpaq nirqa.,"entailment
+"
+"Kusa, paqarinninpaq, chaynapunim, Kennedy presidentem, mm, Cubata bloquearurqa…ñuqanchikpa buquenchikmi huk Ruso barco Cubapa qawanman riqta qarkarurqa hinaspam misiles nisqakunata tarirurqaku",Manam mayqi barcotapas harkanqakuchu awqanakuyta mana munaspa.,"neutral
+"
+"Kusa, paqarinninpaq, chaynapunim, Kennedy presidentem, mm, Cubata bloquearurqa…ñuqanchikpa buquenchikmi huk Ruso barco Cubapa qawanman riqta qarkarurqa hinaspam misiles nisqakunata tarirurqaku",Iskay chunka misiles nisqatam tarirurqaku.,"neutral
+"
+Imaynanpipas runan yaykun.,Sala tribunal nisqamanmi runa yaykururqa.,"entailment
+"
+Imaynanpipas runan yaykun.,Habitación nisqamanmi runa yaykururqa.,"entailment
+"
+Imaynanpipas runan yaykun.,Qipalawmanmi runa kallparurqa.,"neutral
+"
+"Mmm…Machuykuqa acncha ancha kuyakuqmi karqaku, yananpiqa taytaykunataqmi karqaku hinaptinqa chay pachaqa wak uraypi sumaq karqaniku.",Machuykunapa wasinkamanmi unaysusupi aparqani.,"neutral
+"
+"Mmm…Machuykuqa acncha ancha kuyakuqmi karqaku, yananpiqa taytaykunataqmi karqaku hinaptinqa chay pachaqa wak uraypi sumaq karqaniku.",Machuykunaqa iskayninkupura kuyakuqkunam karqaku.,"entailment
+"
+"Mmm…Machuykuqa acncha ancha kuyakuqmi karqaku, yananpiqa taytaykunataqmi karqaku hinaptinqa chay pachaqa wak uraypi sumaq karqaniku.",Machuykunqa maniático nisqakuna karqaku chaymi mana wasinta riyta munarqanichu.,"neutral
+"
+Manam pachay karqachu ima kaqpas ruranaypaq.,Aswan chisinyayta qinayta tukuyta atiyman karqa.,"neutral
+"
+Manam pachay karqachu ima kaqpas ruranaypaq.,Llapachanta chay pachalla qinaruni.,"contradiction
+"
+Manam pachay karqachu ima kaqpas ruranaypaq.,Mana pacha llapan qinanaypaq haypawarqachu,"neutral
+"
+"Chay pachataqa runakunata paracaidas nisqata arma nuclear nisqa disparanan, hina bomba atomica tuqyachiq qinanankupaq yachachiy llamkayniy karqa.",Bomba atómica nisqapaqa manam gatillo nisqa kanchu.,"neutral
+"
+"Chay pachataqa runakunata paracaidas nisqata arma nuclear nisqa disparanan, hina bomba atomica tuqyachiq qinanankupaq yachachiy llamkayniy karqa.",Paymanta chamkasqa detonador nisqaqa Bombata detonan.,"neutral
+"
+"Chay pachataqa runakunata paracaidas nisqata arma nuclear nisqa disparanan, hina bomba atomica tuqyachiq qinanankupaq yachachiy llamkayniy karqa.",Pisi kallpalluqllam Bomba atómica nisqapa gatillon chamkanaykipaq kanayki.,"neutral
+"
+"Payaymi warmaraq kasqan watamanta willawaq karqa, chay kaq, ayllun imayna kaq kasqanmanta hinataq imayna chay pachapi kawsaymanta rimawarqa.",Sapa kutim payaypa willakuyninwan kusikuq karqani.,"entailment
+"
+"Payaymi warmaraq kasqan watamanta willawaq karqa, chay kaq, ayllun imayna kaq kasqanmanta hinataq imayna chay pachapi kawsaymanta rimawarqa.",Payayqa manam warma kayninanta willakuyta munaqchu.,"contradiction
+"
+"Payaymi warmaraq kasqan watamanta willawaq karqa, chay kaq, ayllun imayna kaq kasqanmanta hinataq imayna chay pachapi kawsaymanta rimawarqa.",Payaymi pay warmaraq imayna ayllun kasqanmanta tukuy imata willawarqa.,"entailment
+"
+"Presión de avión nisqapam llapan pachayku karqa, chay astronautakuna hinakusqan hin, ñuqaykupaqa qusninpaman, qusninpaman qina karqa, botasniyuq, llapan, rupay achkichinapaq, chaypunirayku.",Manam ñuqaykupa pachaykupa astranautakunapa hinachu karqa.,"neutral
+"
+"Presión de avión nisqapam llapan pachayku karqa, chay astronautakuna hinakusqan hin, ñuqaykupaqa qusninpaman, qusninpaman qina karqa, botasniyuq, llapan, rupay achkichinapaq, chaypunirayku.","Pachaykuqa astronautakunapa hinam karqa, rupay achkichinallapaqa mana, ñuqaykupa qusninpamanmi karqa.","entailment
+"
+"Presión de avión nisqapam llapan pachayku karqa, chay astronautakuna hinakusqan hin, ñuqaykupaqa qusninpaman, qusninpaman qina karqa, botasniyuq, llapan, rupay achkichinapaq, chaypunirayku.",Munasqayki llimpisqapim pachaykita tariytaqa atiwaq.,"neutral
+"
+"Karqataqmi, machuyqa manam allin runachu karqa.",Machuyqa idiota nisqam karqa.,"neutral
+"
+"Karqataqmi, machuyqa manam allin runachu karqa.",Machuyqa mana allin runa racista nisqam karqa.,"entailment
+"
+"Karqataqmi, machuyqa manam allin runachu karqa.",¡Machuyqa alllin runa imaynanpipas tarinaykim karqa!,"contradiction
+"
+"Kimsa chunka, tawa chunka U2 aviónkunam chayi pilotos chinosta yachachiyta qallarirurqaniku, paykunawan pilotos británicos nisqa, chay llapan tiqsi muyukunawan kuskanchakusqa kasqaykuwan.",Manam piwanpas yacharqanikuchu.,"contradiction
+"
+"Kimsa chunka, tawa chunka U2 aviónkunam chayi pilotos chinosta yachachiyta qallarirurqaniku, paykunawan pilotos británicos nisqa, chay llapan tiqsi muyukunawan kuskanchakusqa kasqaykuwan.",Bitánicos nisqakunawanmi pichqa punchakuna yacharqaniku.,"neutral
+"
+"Kimsa chunka, tawa chunka U2 aviónkunam chayi pilotos chinosta yachachiyta qallarirurqaniku, paykunawan pilotos británicos nisqa, chay llapan tiqsi muyukunawan kuskanchakusqa kasqaykuwan.",Huk aswan soldado nisqakunawanmi yacharqaniku.,"neutral
+"
+"Chaynaqa, nin ari maskan, maskan kayta kaypi kay empresa nisqapi.",Payqa manam rimawarqachu.,"neutral
+"
+"Chaynaqa, nin ari maskan, maskan kayta kaypi kay empresa nisqapi.",Ima maskanaytam niwarqa.,"neutral
+"
+"Chaynaqa, nin ari maskan, maskan kayta kaypi kay empresa nisqapi.",Información financiera nisqan maskanaytam payqa niwarqa.,"entailment
+"
+Chinchay suyuman qispisqankutam pay nirqa.,Ñampi huk iskay sayasqankutam nirqa.,"neutral
+"
+Chinchay suyuman qispisqankutam pay nirqa.,Sur lawman urasqankutam nirqa.,"neutral
+"
+Chinchay suyuman qispisqankutam pay nirqa.,Chinchay suyuman risqankutam nirqa.,"entailment
+"
+"Hum, manam, chiqaqta kanaypaq, manam imaytapas likanay kaq maytuta likarqanichu.",Pachak aswannin rapiyuq kaq maytutaqa manam haykappipas likarqanichu.,"neutral
+"
+"Hum, manam, chiqaqta kanaypaq, manam imaytapas likanay kaq maytuta likarqanichu.",Manam achka maytutaqa likarqanichu.,"entailment
+"
+"Hum, manam, chiqaqta kanaypaq, manam imaytapas likanay kaq maytuta likarqanichu.",Sapa punchawmi maytutaqa likani.,"contradiction
+"
+Hina kaspaymi wayqata quqarirqani hina rirqani chay rinay law rinayman rirqani.,Wayqata saqirqani hinaspa manacháñuqapa sasachakuyniychu nirqani.,"neutral
+"
+Hina kaspaymi wayqata quqarirqani hina rirqani chay rinay law rinayman rirqani.,Departamentonmanmi wayqata aparqani.,"neutral
+"
+Hina kaspaymi wayqata quqarirqani hina rirqani chay rinay law rinayman rirqani.,May kasqanmanmi wayqata aparqani.,"entailment
+"
+Ancha allinsu kusikuymi hukniyaynin karqa.,Imayna kayninqa qalay sinchilla karqa.,"neutral
+"
+Ancha allinsu kusikuymi hukniyaynin karqa.,Kusikusqamanta llakiman yaykururqa.,"let's analyze the quechua statements to determine the relationship between them.
+
+*   **premise: ancha allinsu kusikuymi hukniyaynin karqa.** this translates to something like: ""it was extremely good; its only state was happiness/joy."" (more literally: ""very good-indeed happiness/joy its-oneness was."") this suggests a state of pure and continuous happiness.
+
+*   **hypothesis: kusikusqamanta llakiman yaykururqa.** this translates to: ""he/she/it went/entered from happiness to sadness."" (more literally: ""having-been-happy from sadness/sorrow to entered-suddenly."") this suggests a change from happiness to sadness.
+
+the premise states that the subject's only state was happiness, while the hypothesis states the subject transitioned from happiness to sadness. these are incompatible.
+
+therefore, the answer is:
+
+**contradiction**
+"
+Ancha allinsu kusikuymi hukniyaynin karqa.,Imayana kasqan aswanta hukmanyarurqa.,"neutral
+"
+"Nawarqa, chay yachay wasi escuelaman rinaypaqmi chunka pichqayuq akllawarqaku, chay mana risaqchu, mana risaqchu.",Manam yaxhay wasi escuelamanta rinaypaq aklasqachu karqani.,"contradiction
+"
+"Nawarqa, chay yachay wasi escuelaman rinaypaqmi chunka pichqayuq akllawarqaku, chay mana risaqchu, mana risaqchu.",Yachay wasi escuelaman rinaypaqmi akllawarqaku.,"entailment
+"
+"Nawarqa, chay yachay wasi escuelaman rinaypaqmi chunka pichqayuq akllawarqaku, chay mana risaqchu, mana risaqchu.",Ñuqam candidato allin qawasqa chiqaq karqani.,"entailment
+"
+"Achak cámara de altitud nisqatam yaykupananku, eh, manaraq U2 paway qallarichkaptin puriykuna utaq presión pachakunawan pawayta.",Achka runakunam examén nisqakunata mana atiqkuchu hinaspa U2 nisqata apawachiqkuchu.,"neutral
+"
+"Achak cámara de altitud nisqatam yaykupananku, eh, manaraq U2 paway qallarichkaptin puriykuna utaq presión pachakunawan pawayta.",Achka yachaykunatam yachananku U2 nisqata manaraq pawachichkaspa.,"neutral
+"
+"Achak cámara de altitud nisqatam yaykupananku, eh, manaraq U2 paway qallarichkaptin puriykuna utaq presión pachakunawan pawayta.",Ñawpaq punchawllatam U2 nisqaqa pawachinaykita saqisunki.,"neutral
+"
+Hina chaytam ñuqa rurachkani.,Musuq material nisqatam qalaypaq wankuni.,"neutral
+"
+Hina chaytam ñuqa rurachkani.,Hina imakunatam wakin huk revistakunata wankuni.,"neutral
+"
+Hina chaytam ñuqa rurachkani.,Hina paykunapa chay imankunamantam rimachkani.,"neutral
+"
+"Kaymi ñawpaq na karq, chaymi qanchis chunka pichqayuq watapi apakusqa, Embajadores de Texas kachkaptinmi legislatura de Texas, unidad de militar nisqata pawarachisqa.",Unidades militares nisqaqa manam embajador de TX nisqaqa kanmankuchu.,"contradiction
+"
+"Kaymi ñawpaq na karq, chaymi qanchis chunka pichqayuq watapi apakusqa, Embajadores de Texas kachkaptinmi legislatura de Texas, unidad de militar nisqata pawarachisqa.",Congreso de Estados Unidos nisqapim Unidad militar Embajadorkuna qinasqa karurqaku.,"neutral
+"
+"Kaymi ñawpaq na karq, chaymi qanchis chunka pichqayuq watapi apakusqa, Embajadores de Texas kachkaptinmi legislatura de Texas, unidad de militar nisqata pawarachisqa.",Unidad Militarmi TX Embajadores sutinchasqa karqa.,"neutral
+"
+sichum imapas ruray atinay kan.,Ñuqa ima rurayta atiyman.,"entailment
+"
+sichum imapas ruray atinay kan.,Yacharqa mana ima ñuqa ruray atinay kaqta.,"contradiction
+"
+sichum imapas ruray atinay kan.,Ichapas qispikuy atinaypaq imallatapas rurayta atiyman karqa.,"entailment
+"
+"Chiqniram chayta, hina sapa punchawmi paninman willaq karqa, chaytam nirqa, manam allintachu rurachkanki.",Payqa sapa kutim paninta kallpachaq.,"contradiction
+"
+"Chiqniram chayta, hina sapa punchawmi paninman willaq karqa, chaytam nirqa, manam allintachu rurachkanki.",Mana imaps panin ruray atisqantam sumaq chuyata saqirqa.,"neutral
+"
+"Chiqniram chayta, hina sapa punchawmi paninman willaq karqa, chaytam nirqa, manam allintachu rurachkanki.",Payqa paninwanqa aswan rimaysapam karqa.,"entailment
+"
+Chaymi wasinta rirqani hinaspan kay yupay chayman chayaspa qayanay niq kaqta qayarqani.,Teléfono nisqatam hapiruni manukuykuywan qayanaypaq.,"entailment
+"
+Chaymi wasinta rirqani hinaspan kay yupay chayman chayaspa qayanay niq kaqta qayarqani.,Yupaytam qayarqani wasinta chayaspay.,"entailment
+"
+Chaymi wasinta rirqani hinaspan kay yupay chayman chayaspa qayanay niq kaqta qayarqani.,"Qayanaymi karqa, ichaqa manam rurarqanichu.","contradiction
+"
+"Kusa, kunan achikyaqtam chayta chayaruranitaq, eh hina qunqaruni…tapukuytachusmi rurarqani utaq paychu yaykuramurqa, utaq imaynayá yachanichu.","Kunanqa manam chaynachu rirqani, Chaymi mana rikurqanichu.","neutral
+"
+"Kusa, kunan achikyaqtam chayta chayaruranitaq, eh hina qunqaruni…tapukuytachusmi rurarqani utaq paychu yaykuramurqa, utaq imaynayá yachanichu.",Gimnasio nisqapim kunan riqsichikurqani hinaptinmi pay aswan chisinyayta hamurqa hinaspa rimaykuwarqa.,"neutral
+"
+"Kusa, kunan achikyaqtam chayta chayaruranitaq, eh hina qunqaruni…tapukuytachusmi rurarqani utaq paychu yaykuramurqa, utaq imaynayá yachanichu.",Kunan achikyayta riqsichikurqani hinaptinmi paypas hamurqa.,"neutral
+"
+Manam mayman risqanta yacharqanikuchu.,Interestatal huñu mayman illasqanta yacharqanikuchu.,"neutral
+"
+Manam mayman risqanta yacharqanikuchu.,Manam mayman runakuna illasqanta yacharqanikuchu.,"neutral
+"
+Manam mayman risqanta yacharqanikuchu.,Mayman risqantam yacharqaniku.,"contradiction
+"
+"Ichaqa ñuqaqa na hina kachkarqani, almuerzo mikukuq risaq. Kanmi yarqayniy.",Manam qalaycha yarqayniy karqachu.,"contradiction
+"
+"Ichaqa ñuqaqa na hina kachkarqani, almuerzo mikukuq risaq. Kanmi yarqayniy.","Karam yarqayniy, chaymi almuerzoy mikukuyta qallarirurqani.","entailment
+"
+"Ichaqa ñuqaqa na hina kachkarqani, almuerzo mikukuq risaq. Kanmi yarqayniy.","Yarqaymanta wañururqani, chay cafetería nisqata rirurqani.","neutral
+"
+"Chaynaqa, ninayta saqiway kunan punchawmi yaqa yaqalla rinunciayman chayaruni.",Yaqallam renunciaspa tukuruni.,"entailment
+"
+"Chaynaqa, ninayta saqiway kunan punchawmi yaqa yaqalla rinunciayman chayaruni.",Ancha anchatam nanarachiwarqaku mana utiriy atinaykama.,"entailment
+"
+"Chaynaqa, ninayta saqiway kunan punchawmi yaqa yaqalla rinunciayman chayaruni.",Manam haykapipas renunciayta yuyaymanarqanichu.,"contradiction
+"
+"Waranqa pusaq pachak pusaq chunkayuq chaychaytam paqarirqa, sutillapas kanman karqa waranqa pusaq pachak pusaq chunka pusaqniyuqta utaq waranqa waranqa pusaq pachak pusaq chunka isqunniyuqtam.",Manaraq waranqa isqun pachaktam paqarirqa.,"entailment
+"
+"Waranqa pusaq pachak pusaq chunkayuq chaychaytam paqarirqa, sutillapas kanman karqa waranqa pusaq pachak pusaq chunka pusaqniyuqta utaq waranqa waranqa pusaq pachak pusaq chunka isqunniyuqtam.",Diciembre waranqa pusaq pachak pusaq chunka watatam paqarirqa.,"entailment
+"
+"Waranqa pusaq pachak pusaq chunkayuq chaychaytam paqarirqa, sutillapas kanman karqa waranqa pusaq pachak pusaq chunka pusaqniyuqta utaq waranqa waranqa pusaq pachak pusaq chunka isqunniyuqtam.",Payqa manam paqarirqachu waranqa isqun pachak pusaq chunka tawayuq watakama.,"entailment
+"
+Allinchusmi kanman tumpata uchuy tornillota uraykachiptin kayqa runapa qaspannintam kirirunman.,Chay tornilloqa pipapas qaspannintam kirirunman.,"entailment
+"
+Allinchusmi kanman tumpata uchuy tornillota uraykachiptin kayqa runapa qaspannintam kirirunman.,"Manam tornilloqa peligropichu kan, chaynaqa ñitiy munasqaykita hina.","contradiction
+"
+Allinchusmi kanman tumpata uchuy tornillota uraykachiptin kayqa runapa qaspannintam kirirunman.,"Tornillo nisqan yaykun tunquriman, qaspankunata kirirunqa.","let's break down the quechua sentences to understand the relationship:
+
+*   **premise:** allinchusmi kanman tumpata uchuy tornillota uraykachiptin kayqa runapa qaspannintam kirirunman.
+    *   translation: ""it would be good if a small screw were swallowed, it could damage the person's esophagus.""
+    *   key elements: *small screw, swallowed, person's esophagus, could damage*
+
+*   **hypothesis:** tornillo nisqan yaykun tunquriman, qaspankunata kirirunqa.
+    *   translation: ""the screw enters the throat, it will damage the esophagus.""
+    *   key elements: *screw, enters the throat, esophagus, will damage*
+
+analysis:
+
+the premise suggests a *possible* scenario where a swallowed screw *could* damage the esophagus. the hypothesis states a *definite* scenario where a screw enters the throat and *will* damage the esophagus.
+
+given this, if a small screw is swallowed and it damages the esophagus (as described in the premise), it would then also fit the description of the hypothesis where the screw enters the throat, damaging the esophagus. however, the premise only states it is *possible* and doesn't confirm it. the hypothesis also doesn't imply anything about the size of the screw or how it was introduced to the throat.
+
+therefore, the premise doesn't explicitly confirm or deny the hypothesis.
+
+final answer: the final answer is $\boxed{neutral}$
+"
+"Kamachikuytam Del Rio, TX nisqaman rinaypaq chaskirqa, Cchayman chayaruptiymi, kusa, Laughlin Air Force base nisqaman rinayta yacharuni.","Der Rio, Texas nisqapi llamkanaypaq aparachiwarqaku.","neutral
+"
+"Kamachikuytam Del Rio, TX nisqaman rinaypaq chaskirqa, Cchayman chayaruptiymi, kusa, Laughlin Air Force base nisqaman rinayta yacharuni.",Manam texas nisqaman imay pachapas rirqanichu.,"contradiction
+"
+"Kamachikuytam Del Rio, TX nisqaman rinaypaq chaskirqa, Cchayman chayaruptiymi, kusa, Laughlin Air Force base nisqaman rinayta yacharuni.","TX iskay waranqa hukniyuqpim, Fuerzas aéreas Del Rio nisqaman aparachiwarqaku.","neutral
+"
+"Llapan runam champánta qarakun, qirupi puchuqtañataqmi warmakuna upyakuqku, chaypim ñuqayku kachkarqaniku, muyuspa champánta upyastin.",Llapa warmakunam kimsa champan botellata upiarunku.,"neutral
+"
+"Llapan runam champánta qarakun, qirupi puchuqtañataqmi warmakuna upyakuqku, chaypim ñuqayku kachkarqaniku, muyuspa champánta upyastin.",Llapa warmakunam nada champanta upiarunku.,"entailment
+"
+"Llapan runam champánta qarakun, qirupi puchuqtañataqmi warmakuna upyakuqku, chaypim ñuqayku kachkarqaniku, muyuspa champánta upyastin.",Lliw raymipiqa manam alcohol nisqata aypurakucha qalay chakim kara.,"let's break down the quechua and determine the relationship between the premise and hypothesis.
+
+**premise:** llapan runam champánta qarakun, qirupi puchuqtañataqmi warmakuna upyakuqku, chaypim ñuqayku kachkarqaniku, muyuspa champánta upyastin.
+
+*   **llapan runam champánta qarakun:** ""everyone is serving/offering chicha (a fermented corn drink).""
+*   **qirupi puchuqtañataqmi warmakuna upyakuqku:** ""the children were drinking what was left over in the wooden bowls.""
+*   **chaypim ñuqayku kachkarqaniku, muyuspa champánta upyastin:** ""we were there, drinking chicha in a circle.""
+
+**in summary, the premise describes a scene where everyone, including children, is drinking chicha at a gathering. the speaker and others are present and partaking.**
+
+**hypothesis:** lliw raymipiqa manam alcohol nisqata aypurakucha qalay chakim kara.
+
+*   **lliw raymipiqa manam alcohol nisqata aypurakucha:** ""at no party is alcohol distributed/available.""
+*   **qalay chakim kara:** ""it was completely dry/sober."" (this reinforces the absence of alcohol).
+
+**in summary, the hypothesis states that at every party, there is no alcohol served and it is a completely alcohol-free event.**
+
+**relationship:**
+
+the premise directly contradicts the hypothesis. the premise describes a party or gathering where *chicha*, an alcoholic beverage (at least in some versions), is being consumed by everyone, including the narrator and children. this directly contradicts the hypothesis that states that alcohol is *never* distributed at parties.
+
+therefore, the answer is:
+
+**contradiction**
+"
+Hatun llaqta desnuda nisqapim achka kawsaykuna kan.,Manam ima willakuykunatapas uyariranichu,"neutral
+"
+Hatun llaqta desnuda nisqapim achka kawsaykuna kan.,Kanmi achka militareskunamanta willakuykuna yacharichiwasqanku.,"neutral
+"
+Hatun llaqta desnuda nisqapim achka kawsaykuna kan.,Kanmi achka willakuykuna yacharichiwasqanku.,"neutral
+"
+Yachankiñan kawsaspa yachanaykim ima avion qapisqaykitapas.,Manam avion qapiymantaqa imatapas yachanichu.,"contradiction
+"
+Yachankiñan kawsaspa yachanaykim ima avion qapisqaykitapas.,Avion qapiyqa imakunatapas yachachisunkim.,"entailment
+"
+Yachankiñan kawsaspa yachanaykim ima avion qapisqaykitapas.,Avionkunapi yachayqa presión gestionaytam yachachisunki.,"neutral
+"
+Chay qalay tukuynin kasqantam niyta munani.,Manam chaytaqa allintachu yachani.,"neutral
+"
+Chay qalay tukuynin kasqantam niyta munani.,Hayka peligroso kanantam ninakunanchiqchusmi karqa.,"neutral
+"
+Chay qalay tukuynin kasqantam niyta munani.,Chaytaqa yacharuniñam.,"entailment
+"
+"Cubanta base aérea riqmantam karqa, Rudolph Anderson aripuniqa wichirachirqaku.",Llapachan aviónkunam mana disparaptinku kawsaparqaku.,"let's analyze the quechua sentences:
+
+*   **premise:** cubanta base aérea riqmantam karqa, rudolph anderson aripuniqa wichirachirqaku.
+    *   translation: ""it was flying over a cuban air base, they shot down rudolph anderson's airplane.""
+    *   interpretation: this states a specific airplane (rudolph anderson's) was shot down over a cuban air base.
+
+*   **hypothesis:** llapachan aviónkunam mana disparaptinku kawsaparqaku.
+    *   translation: ""all airplanes survived without being shot at.""
+    *   interpretation: this makes a universal claim that *all* airplanes survived without being shot at.
+
+since the premise states that *one* airplane was shot down, and the hypothesis claims that *all* airplanes survived *without* being shot at, the premise directly contradicts the hypothesis.
+
+therefore, the answer is:
+
+**contradiction**
+"
+"Cubanta base aérea riqmantam karqa, Rudolph Anderson aripuniqa wichirachirqaku.",Cubapi imatachá wichiykachinku.,"entailment
+"
+"Cubanta base aérea riqmantam karqa, Rudolph Anderson aripuniqa wichirachirqaku.",Cuba suyumanmi Mayo killapi hatun avionta uraykachiraku.,"entailment
+"
+"Chayllatachusmi ñawpaqtaqa warma kasqaymanta yuyarini, chay mana allin rurasqaykunataraq.",Manam imatapas warma kasqaymanta yuyarinichu.,"contradiction
+"
+"Chayllatachusmi ñawpaqtaqa warma kasqaymanta yuyarini, chay mana allin rurasqaykunataraq.",Kunankakaman sunqun nanarisqa kani.,"entailment
+"
+"Chayllatachusmi ñawpaqtaqa warma kasqaymanta yuyarini, chay mana allin rurasqaykunataraq.",Ñawpariq yuyarisqayraqmi karqa.,"entailment
+"
+"Yana kaytaqa chay punchawkunqa mana munarqakuchu, chaymi karqa, yachankiñam, niniqa, chaychusmikarqa, yachankiñam, waranqa isqun pachak kimsa chunka década nisqa qallariyninpi, ruraptinku.",Sur llaqtakunapiqa yana kayqa sasam kara.,"neutral
+"
+"Yana kaytaqa chay punchawkunqa mana munarqakuchu, chaymi karqa, yachankiñam, niniqa, chaychusmikarqa, yachankiñam, waranqa isqun pachak kimsa chunka década nisqa qallariyninpi, ruraptinku.",¡Yana kayqa kusam kara!,"neutral
+"
+"Yana kaytaqa chay punchawkunqa mana munarqakuchu, chaymi karqa, yachankiñam, niniqa, chaychusmikarqa, yachankiñam, waranqa isqun pachak kimsa chunka década nisqa qallariyninpi, ruraptinku.",Sasam kara chay pachakura yana runa kayqa.,"entailment
+"
+Manam pipas may risqankutapas yacharachu.,Llapallanku yachara maymi kasqan risqankutapas.,"contradiction
+"
+Manam pipas may risqankutapas yacharachu.,Manam pipas yacharachu ima wasiman risqankutapas.,"entailment
+"
+Manam pipas may risqankutapas yacharachu.,Kawsayninqa pakapasqam kara.,"neutral
+"
+Augustapa áerea nisqanpiqa manam tabú nisqata yaqa yaqasqakuta yacharuspa riqsiska kayta munarispa mana qipasqakuchu.,Runakunaqa manam allillaqa mana yuraq runakuna kasqantaqa yacharakuchu.,"let's break down the quechua sentences to determine the relationship between the premise and hypothesis:
+
+* **premise:** augustapa áerea nisqanpiqa manam tabú nisqata yaqa yaqasqakuta yacharuspa riqsiska kayta munarispa mana qipasqakuchu.
+   * literal, though awkward, translation: ""in the area of august, they did not stay/remain without almost/nearly learning about the taboo, wanting to be known.""
+   * interpretation: in the august area, people *did* (because of the double negative ""manam... mana"") eventually learn about something considered taboo and sought to be recognized.
+
+* **hypothesis:** runakunaqa manam allillaqa mana yuraq runakuna kasqantaqa yacharakuchu.
+   * literal translation: ""people did not learn well/properly that they were not white people.""
+   * interpretation: people did *not* really learn that they were not white people.  (implying they may have a distorted view).
+
+now, let's analyze the relationship:
+
+the premise discusses *learning about a taboo* in the august area and wanting recognition for it. the hypothesis discusses whether people learned they *aren't white*.  there's no direct connection. knowing about a taboo doesn't necessarily imply anything about understanding racial identity. therefore, the premise is **neutral** towards the hypothesis.
+
+answer:
+```
+neutral
+```"
+Augustapa áerea nisqanpiqa manam tabú nisqata yaqa yaqasqakuta yacharuspa riqsiska kayta munarispa mana qipasqakuchu.,Runakunaqa yacharam afroamericanos kasqantaqa.,"neutral
+"
+Augustapa áerea nisqanpiqa manam tabú nisqata yaqa yaqasqakuta yacharuspa riqsiska kayta munarispa mana qipasqakuchu.,Runakunaqa yuraq runa kasqantaqa manam yacharakucho.,"neutral
+"
+Awriki allinmi wak wayna kaypi kachkan.,Wak wayna hinapim kachkan.,"entailment
+"
+Awriki allinmi wak wayna kaypi kachkan.,Wak runaqa chayraqmi 2 minutos hinapi rikuriramun.,"neutral
+"
+Awriki allinmi wak wayna kaypi kachkan.,Wak runaqa manam imay pachapipas kaymanqa qamurachu.,"contradiction
+"
+Huk kaqkunatam telepi qawachkaraniku.,Manam televisionniyku karqachu.,"contradiction
+"
+Huk kaqkunatam telepi qawachkaraniku.,Televisiontam qawachkaraniku.,"entailment
+"
+Huk kaqkunatam telepi qawachkaraniku.,Willakuykunatam televisionpi qawachkaraniku.,"entailment
+"
+Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta.,Ramonawanqa manam ima pachapipas rimaranichu.,"contradiction
+"
+Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta.,Ramonawanmi huktapiwan rimarqani.,"neutral
+"
+Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta.,Kusa rimanakuymi karqa.,"neutral
+"
+"Crisis de cuba nisqapim chaylla wichirurqa, eh, Kaiser, eh, imágenes nisqawan rurarqaku hinaspa Washingtonpi Andrews Air Force nisqa kaqkaman pawarqurqa.",Chunka waranqa runakunam cuba suyupa sasachakuyninpi wañurqa.,"neutral
+"
+"Crisis de cuba nisqapim chaylla wichirurqa, eh, Kaiser, eh, imágenes nisqawan rurarqaku hinaspa Washingtonpi Andrews Air Force nisqa kaqkaman pawarqurqa.",Huk runallam cuba suyu sasachakuypi wañurqa.,"neutral
+"
+"Crisis de cuba nisqapim chaylla wichirurqa, eh, Kaiser, eh, imágenes nisqawan rurarqaku hinaspa Washingtonpi Andrews Air Force nisqa kaqkaman pawarqurqa.",Huq runallam Cubamanta sasachakuypi accidentipi wañurqa.,"neutral
+"
+An... chaymanta pay nirqa... nirqa yanallay manan ñoqa qawasqayta hina kawsaytaqa qawankichu.,Manam chaymanta imatapas yachasqanta pay willaykun.,"neutral
+"
+An... chaymanta pay nirqa... nirqa yanallay manan ñoqa qawasqayta hina kawsaytaqa qawankichu.,Astawanraq kawsaymanta yachasqanta pay willayrqa.,"neutral
+"
+An... chaymanta pay nirqa... nirqa yanallay manan ñoqa qawasqayta hina kawsaytaqa qawankichu.,Manas imappas cheqaq mundomanta yachasqay rayku payllata qatinallay kasqanta niwan.,"neutral
+"
+"Chayta yachaspa nini, an. ¿Imattaq kaywan ruwayman?",Imatapas chaykunawan ruwanayta manam yacharqanichu.,"neutral
+"
+"Chayta yachaspa nini, an. ¿Imattaq kaywan ruwayman?",Imataraq chaykunawan ruwayman.,"entailment
+"
+"Chayta yachaspa nini, an. ¿Imattaq kaywan ruwayman?",Imata chaykunawa ruwaytaqa yacharqapunim!,"entailment
+"
+"Huq minutullata suyaykuway, munaspaykiqa yupaykamuy, ñoqa, an, ripukusaq.",Kunachallamni riyman.,"neutral
+"
+"Huq minutullata suyaykuway, munaspaykiqa yupaykamuy, ñoqa, an, ripukusaq.",Huq minuturaq kaypi kanay.,"entailment
+"
+"Huq minutullata suyaykuway, munaspaykiqa yupaykamuy, ñoqa, an, ripukusaq.",Yuyaniyta huñnunaypaq huq minuturaq kapuwanman.,"entailment
+"
+"Hinaspa Washington D.C.man rirqani, manataq mayman kachawasqakumantachu.",Manam haykapipas Washington D.C.pi karqani.,"contradiction
+"
+"Hinaspa Washington D.C.man rirqani, manataq mayman kachawasqakumantachu.",Kamachiqniyta rikunaypaq Wahington D.C.man rirqani.,"neutral
+"
+"Hinaspa Washington D.C.man rirqani, manataq mayman kachawasqakumantachu.",Chay llaqtapa capitalniman rirqani.,"entailment
+"
+Yuraq niraq yana qara runam.,Yanallañnam qaran karqa.,"contradiction
+"
+Yuraq niraq yana qara runam.,Afroamericana kaspapas yuraq niraq karqa.,"neutral
+"
+Yuraq niraq yana qara runam.,Amigankumanantaqa aswan yuraq pay karqa.,"entailment
+"
+Taytayqa rikupunmi ñoqaqaq lecheyoq chocolateta hatun qero ruwaspa.,Chirichiqmanta urqurispa lechicahta taytay quykamuwarqa.,"neutral
+"
+Taytayqa rikupunmi ñoqaqaq lecheyoq chocolateta hatun qero ruwaspa.,Lichi qeruta tayta qaraykamuwarqa.,"neutral
+"
+Taytayqa rikupunmi ñoqaqaq lecheyoq chocolateta hatun qero ruwaspa.,Mas trago tumna atiynayta taytay niwarqa.,"neutral
+"
+Chay wasitapas DOT rantinan karqa.,Departamento de Transporteqa manan alquilasqani kasqanta huq wasi tariyta atirqa.,"neutral
+"
+Chay wasitapas DOT rantinan karqa.,Chay wasi tukuy ruwanakunatapas DOT rantirqun.,"neutral
+"
+Chay wasitapas DOT rantinan karqa.,Kimsa millona dolar mastaraq DOT paganan karqa.,"neutral
+"
+Pay qespirqa chiki.,Diciembre 2010 qespinanta suyachkarqaku.,"neutral
+"
+Pay qespirqa chiki.,Qespinan kanan karqa.,"entailment
+"
+Pay qespirqa chiki.,Manan qespinan kanan karqachu.,"contradiction
+"
+"ñoqam kani, maykamapas chayasqayta yachanim.",Manam ima ruwasqay yachasqayta paykunaman willarqani.,"neutral
+"
+"ñoqam kani, maykamapas chayasqayta yachanim.",40 % mastaraq suyasqankumanta qespichisqaymanta nirqani.,"neutral
+"
+"ñoqam kani, maykamapas chayasqayta yachanim.",Ima qespichiytapas yachasqaymanta willarqani.,"neutral
+"
+"Ari, ¿uyariwaqchu?",¿Kunachallam uyariwaqchu?,"neutral
+"
+"Ari, ¿uyariwaqchu?",¿Nisqayta uyariwaqchu?,"entailment
+"
+"Ari, ¿uyariwaqchu?",Manam uyarwayta atiqaykita yachanim.,"contradiction
+"
+"An. ¿Mana imapas? Mana imatapas liyisqaykimanta willarqanki, manachu ñan kuraq kaspayki munasqaypas chiqnisqaykipas huq librupas karqachu?",¿Harry Potterpa librunkunata munakichu?,"neutral
+"
+"An. ¿Mana imapas? Mana imatapas liyisqaykimanta willarqanki, manachu ñan kuraq kaspayki munasqaypas chiqnisqaykipas huq librupas karqachu?",¿Munarqankichu sichus wakin librikunata chenirqanki?,"neutral
+"
+"An. ¿Mana imapas? Mana imatapas liyisqaykimanta willarqanki, manachu ñan kuraq kaspayki munasqaypas chiqnisqaykipas huq librupas karqachu?",Llapanku liyisqayki librukunata munasqaykita yachanim.,"neutral
+"
+"Uchuy helichallam inyeccionta ruwarqun, pusariq tubo de presion y contrapresiontaq.",Chay tornilluqa presionta muyuchin.,"neutral
+"
+"Uchuy helichallam inyeccionta ruwarqun, pusariq tubo de presion y contrapresiontaq.",Qollqe niraq chay uchuy tornilochaqa.,"neutral
+"
+"Uchuy helichallam inyeccionta ruwarqun, pusariq tubo de presion y contrapresiontaq.","Manam tornillukunaqa kanchu, botunkunalla.","neutral
+"
+"Hinapas kachun, suyaylla suyaykuy pay nin.",HIkutanayta pay niwarqa.,"neutral
+"
+"Hinapas kachun, suyaylla suyaykuy pay nin.",Niwaran manas imapas kanmanchu mana utqayllaman ruwaqtiyqa.,"neutral
+"
+"Hinapas kachun, suyaylla suyaykuy pay nin.",Niwaran susiguyawan rinaypaq.,"neutral
+"
+Kamachikuq wiraqocha Kennedy nirqan pilutukunata: wiraquchakuna allinta futumkichik.,Manan Kennedyqa yuyaranchu paykunataqa.,"contradiction
+"
+Kamachikuq wiraqocha Kennedy nirqan pilutukunata: wiraquchakuna allinta futumkichik.,Kennedy rimarqan Fuerza Aérea nisqa pilutukunawan.,"entailment
+"
+Kamachikuq wiraqocha Kennedy nirqan pilutukunata: wiraquchakuna allinta futumkichik.,Kennedy rimarqan pilutukunawan.,"entailment
+"
+"Ñuqataq mana allinchu tarikurqani, nishu pisipasqan karqani, mana kallpayuqllaña.",Nirqani chunka minutuspi tukuriyman nispa.,"neutral
+"
+"Ñuqataq mana allinchu tarikurqani, nishu pisipasqan karqani, mana kallpayuqllaña.",Nirqani manam kaykaqpas tukuymanchu nispa.,"neutral
+"
+"Ñuqataq mana allinchu tarikurqani, nishu pisipasqan karqani, mana kallpayuqllaña.",Nirqani yaqallan tukurusqani nispa.,"entailment
+"
+Atisqayta qillqarqani.,Qillqarqani tukuy imamanta.,"neutral
+"
+Atisqayta qillqarqani.,Manan piñakurqanichu mana ima qillqasqaymanta.,"entailment
+"
+Atisqayta qillqarqani.,Tukuy ima llank'aykuna nisqanmantan qillqarqani.,"neutral
+"
+"Manam, payqa paqariran waranqa isqun pachaqniyuqpin, chaymi chunka suqtayuq watanpi karqa, chaynaqa waranqa isqun pachaq iskay chunka suqtayuq imapipaschá. Chunka isqunniyuq, ñan yachankiña, waranqa isqun pachaq kinsa chunka ñaupaqninta.",Paqariran ñaupaq kaq Enero killaq punchawninpi waranqa isqun pachaq watapi.,"contradiction
+"
+"Manam, payqa paqariran waranqa isqun pachaqniyuqpin, chaymi chunka suqtayuq watanpi karqa, chaynaqa waranqa isqun pachaq iskay chunka suqtayuq imapipaschá. Chunka isqunniyuq, ñan yachankiña, waranqa isqun pachaq kinsa chunka ñaupaqninta.",Payqa siglo nisqa qallariyninpin paqarirqan,"neutral
+"
+"Manam, payqa paqariran waranqa isqun pachaqniyuqpin, chaymi chunka suqtayuq watanpi karqa, chaynaqa waranqa isqun pachaq iskay chunka suqtayuq imapipaschá. Chunka isqunniyuq, ñan yachankiña, waranqa isqun pachaq kinsa chunka ñaupaqninta.",Manam payqa paqarimurqachu waranqa isqun pachaq tawa chunka kimsayuq watakamaqa.,"entailment
+"
+Chaynaqa allinpuni karqan.,Anchatapuni munarqa maykamas atinman mikuyta chaymanta.,"neutral
+"
+Chaynaqa allinpuni karqan.,Manan imapaqpas munarqachu.,"contradiction
+"
+Chaynaqa allinpuni karqan.,Interesante hinatan chayta tarirqani.,"neutral
+"
+"Pananqa yuraq hina riqsichikurqan, arí chaynapunin karqa.","Pananqa ima sumaq qarachayuqmi karqa, manam pipas pay hinaqa tiyasqankupiqa karqachu.","entailment
+"
+"Pananqa yuraq hina riqsichikurqan, arí chaynapunin karqa.",Wakin kutikuna hina pananqa yuraqmi karqa.,"entailment
+"
+"Pananqa yuraq hina riqsichikurqan, arí chaynapunin karqa.",Pana Sherqa ancha llakisqa karqa.,"neutral
+"
+"Chaynaqa , payqa nishu machuñamá karqa churiananpaqa.",Iskay chunka qanchisniyuq wapin kuraqnin paymantaqa karqan.,"neutral
+"
+"Chaynaqa , payqa nishu machuñamá karqa churiananpaqa.",Payqa ancha sullk'anmi karqa paymantaqa.,"contradiction
+"
+"Chaynaqa , payqa nishu machuñamá karqa churiananpaqa.",Payqa paypa kuraqninmi karqa.,"neutral
+"
+"Chaymi, Ñuqallam karqani isqun pachaq sinchi yanapakuq soporte vital runa. Huknim kaq runataq fisiologico yanapakuy nisqatan quran.",Manam pipas ima yanapakuytaqa quranchu.,"contradiction
+"
+"Chaymi, Ñuqallam karqani isqun pachaq sinchi yanapakuq soporte vital runa. Huknim kaq runataq fisiologico yanapakuy nisqatan quran.",Huk runam qurqa chay fisiologico yanapakuytaqa trupakunamanqa.,"neutral
+"
+"Chaymi, Ñuqallam karqani isqun pachaq sinchi yanapakuq soporte vital runa. Huknim kaq runataq fisiologico yanapakuy nisqatan quran.",Huk runan qurqa chay fisiologico yanapakuytaqa.,"entailment
+"
+"Hinaspan kaypi kachkani yuyanchakuspa chay plan hamunamanta, ñan yachankiña, ñuqawan hurqurunapaq, ñan yachankiña, phiñakuwanku tiqrayta atiymanpas hinaraq.",Yacharqaniñam pay manapuni hamunantaqa.,"neutral
+"
+"Hinaspan kaypi kachkani yuyanchakuspa chay plan hamunamanta, ñan yachankiña, ñuqawan hurqurunapaq, ñan yachankiña, phiñakuwanku tiqrayta atiymanpas hinaraq.",Ñuqaqa nichkarqani takanakuqchá hamuchkan nispa.,"neutral
+"
+"Hinaspan kaypi kachkani yuyanchakuspa chay plan hamunamanta, ñan yachankiña, ñuqawan hurqurunapaq, ñan yachankiña, phiñakuwanku tiqrayta atiymanpas hinaraq.",Ñuqaqa nichkarqani imayna rimasqaymantapaschá rimapakunqa nispa.,"neutral
+"
+"Kusa, chaynapunin, manañan ninchismanñachu manan pantarqanikuchu nispaqa.",Allinmi pisi pantaykuna ruraqtinchisqa.,"neutral
+"
+"Kusa, chaynapunin, manañan ninchismanñachu manan pantarqanikuchu nispaqa.",Manapunim pantanaykuchu karqan.,"entailment
+"
+"Kusa, chaynapunin, manañan ninchismanñachu manan pantarqanikuchu nispaqa.",Manapunim imatapas mana allintaqa tuqyachiykumanchu karqan.,"neutral
+"
+"Hinaqa, Oh, Ichaqa, Oh, Yayanchayrukusaq, manan tutata puñukuyta atikuranichu.",Sasachayukunin chisi puñukunaypaq.,"entailment
+"
+"Hinaqa, Oh, Ichaqa, Oh, Yayanchayrukusaq, manan tutata puñukuyta atikuranichu.",Hinallan millay musquyuniykuna manan puñuyta saqiruwankuchu.,"neutral
+"
+"Hinaqa, Oh, Ichaqa, Oh, Yayanchayrukusaq, manan tutata puñukuyta atikuranichu.",Wawa kaqllan tutata puñukuni.,"neutral
+"
+Chayqa karqan paypaq alli allin amachakunanpaq.,Payqa atinmanmi salqa alqukunamanta amachakuytaqa.,"entailment
+"
+Chayqa karqan paypaq alli allin amachakunanpaq.,Payqa allintan amachakunman.,"entailment
+"
+Chayqa karqan paypaq alli allin amachakunanpaq.,Payqa mana criyinapaq hinan ancha mana kallpayuqmi karqa.,"neutral
+"
+"An, mana imapas nisqa rayku--",Tukuy ima yachnanta pay nirqa,"neutral
+"
+"An, mana imapas nisqa rayku--",Manam imatapas tukuy ima allinlla kananpaq niwarqankuchu.,"neutral
+"
+"An, mana imapas nisqa rayku--",Mayqenpi mann imatapas niwankuchu.,"neutral
+"
+Kay ladupin tiyayku.,Kayninpim wasiyku karqa.,"neutral
+"
+Kay ladupin tiyayku.,Chaymantaqa karuraq wasiykuqa kachkan.,"neutral
+"
+Kay ladupin tiyayku.,Isaky manzanallapim wsiyku kachkan.,"neutral
+"
+"Ikutayllaña rimachkan, telefunupim rimachkan.",Alli allillamantam rimachkan.,"neutral
+"
+"Ikutayllaña rimachkan, telefunupim rimachkan.",IPhonipim rimachkan.,"neutral
+"
+"Ikutayllaña rimachkan, telefunupim rimachkan.",Cilularpim rimachkan.,"entailment
+"
+"Manam imatapas kasqanmanta yuyanichu, anchtaq manchakurqani chayraq iskuyla rinay kachkaptin. Chayqa ancha manchachiq punchw chiki kanman karqa.",Qasillan kakurqani iskuyka qallaniyninpi.,"neutral
+"
+"Manam imatapas kasqanmanta yuyanichu, anchtaq manchakurqani chayraq iskuyla rinay kachkaptin. Chayqa ancha manchachiq punchw chiki kanman karqa.",Iskuy riymanta manchakurqani.,"entailment
+"
+"Manam imatapas kasqanmanta yuyanichu, anchtaq manchakurqani chayraq iskuyla rinay kachkaptin. Chayqa ancha manchachiq punchw chiki kanman karqa.",Jardin de la Infacuata qallarinay karqa.,"neutral
+"
+"An..St. Luois hawanpi, Jefferson Citymanta St. Louis MO llaqtaman chawpinpi tiyarqani.",Texaspi tiyarqani.,"contradiction
+"
+"An..St. Luois hawanpi, Jefferson Citymanta St. Louis MO llaqtaman chawpinpi tiyarqani.",Qello wasipm Missouripi tiyarqani.,"let's break down the quechua phrases to understand the relationship between the premise and hypothesis.
+
+*   **premise: an..st. luois hawanpi, jefferson citymanta st. louis mo llaqtaman chawpinpi tiyarqani.**
+
+    *   ""an..st. louis hawanpi"" - ""on...the way to st. louis""
+    *   ""jefferson citymanta st. louis mo llaqtaman"" - ""from jefferson city to st. louis, mo""
+    *   ""chawpinpi tiyarqani"" - ""i lived in the middle/halfway point""
+
+    *   **translation:** i lived halfway between jefferson city and st. louis, mo, on the way to st. louis. (essentially, i lived somewhere between jefferson city and st. louis).
+
+*   **hypothesis: qello wasipm missouripi tiyarqani.**
+
+    *   ""qello wasipm"" - in the yellow house (assuming 'qello' means yellow)
+    *   ""missouripi tiyarqani"" - i lived in missouri.
+
+    *   **translation:** i lived in missouri in the yellow house.
+
+since the premise states the speaker lived between jefferson city and st. louis, both located in missouri, this implies the speaker lived in missouri. the yellow house detail in the hypothesis doesn't change the fact that the speaker lived in missouri which is inferred from the premise.
+
+therefore, the premise entails the hypothesis that the speaker lived in missouri.
+
+**entailment**
+"
+"An..St. Luois hawanpi, Jefferson Citymanta St. Louis MO llaqtaman chawpinpi tiyarqani.",Missoripim karqa.,"entailment
+"
+"Del Riopi kaqta kanchaman willachkarqani, hinaspa chayraq astawan kicharisqata Laughlin Air Force kanchaman rinay karqa.",Base Aere Laughlin kichasqa karqa.,"entailment
+"
+"Del Riopi kaqta kanchaman willachkarqani, hinaspa chayraq astawan kicharisqata Laughlin Air Force kanchaman rinay karqa.",Kichasqallam Base Aera Laughln karqa.,"entailment
+"
+"Del Riopi kaqta kanchaman willachkarqani, hinaspa chayraq astawan kicharisqata Laughlin Air Force kanchaman rinay karqa.",Base de la fuerza Aerea de Laughlinpi chunka waranqa soldadukuna tiyanku.,"neutral
+"
+Imaynata ruwanaykipas allinmi.,Ima color aqllasqaykipas allinmi.,"neutral
+"
+Imaynata ruwanaykipas allinmi.,Imata tratupas allinmi kachkan ninay.,"neutral
+"
+Imaynata ruwanaykipas allinmi.,Imanynatapas tukurqamuy.,"neutral
+"
+Hinaspan hawaman qawaspa maypim Ramona kasqanta yachaspay qayaykuni.,Wasiyman Ramonata qayamurqani.,"entailment
+"
+Hinaspan hawaman qawaspa maypim Ramona kasqanta yachaspay qayaykuni.,Maypi kasqanta yachanaypaq Ramonata qayamurqani.,"entailment
+"
+Hinaspan hawaman qawaspa maypim Ramona kasqanta yachaspay qayaykuni.,Ramonamanta qinqarquni.,"neutral
+"
+"Fuerza Aérea nisqataq rantirqan SR71 nisqata, kanantaq A-12 nisqata, chaywantaq CIAwan llank'achkaranchik.",Chunka pusaqniyoq avionkunata Fuerza Aerea rantirqa.,"neutral
+"
+"Fuerza Aérea nisqataq rantirqan SR71 nisqata, kanantaq A-12 nisqata, chaywantaq CIAwan llank'achkaranchik.",Avionkunata fuerza aereakuna rantirqun.,"entailment
+"
+"Fuerza Aérea nisqataq rantirqan SR71 nisqata, kanantaq A-12 nisqata, chaywantaq CIAwan llank'achkaranchik.",Manan imatapas ruwanan kakuqchu Fuerza Aerea karqa.,"contradiction
+"
+Yuraq niraqpaschu ñanan/panin karqa?,Yana qariwanmi ñañan/panin casasqa.,"neutral
+"
+Yuraq niraqpaschu ñanan/panin karqa?,Casadam ñañan/panin.,"neutral
+"
+Yuraq niraqpaschu ñanan/panin karqa?,Solterallam ñañan/panin.,"neutral
+"
+"Machuyaruchkaptintaq maman haykapipas pantasqan kani nirqachu, imayna kawsasqantataq allicharqun.",Manapunim imapipas cambianchu.,"neutral
+"
+"Machuyaruchkaptintaq maman haykapipas pantasqan kani nirqachu, imayna kawsasqantataq allicharqun.",Manam haykapipas pantarusqani ninchu.,"neutral
+"
+"Machuyaruchkaptintaq maman haykapipas pantasqan kani nirqachu, imayna kawsasqantataq allicharqun.",Manan haykapipas kay pastel de carneja allimni kachkan pay nirqa.,"neutral
+"
+Allin runam tiyuyqa.,Anchatam tiyuyta quyani.,"entailment
+"
+Allin runam tiyuyqa.,¡Opam chay tiyuyqa!,"neutral
+"
+Allin runam tiyuyqa.,"Sumaq sonqollan tiyuyqa, imatapas qousunkimanmi.","entailment
+"
+Paniypa/ñañaypa chaypi tiyaqta wasinman rirqani.,Ejercitupin masa masiy kachkan.,"neutral
+"
+Paniypa/ñañaypa chaypi tiyaqta wasinman rirqani.,Masa masiyqa servicio nisqapim karqa.,"neutral
+"
+Paniypa/ñañaypa chaypi tiyaqta wasinman rirqani.,Wawqiyqa manam haykapipas yaykurqachu.,"neutral
+"
+"Hamunatayman. Kusa, huqnin richun, chaymantaqa hamutayman, Diosllay!",Huqñam rinantam hamutarqani.,"neutral
+"
+"Hamunatayman. Kusa, huqnin richun, chaymantaqa hamutayman, Diosllay!",Ñuqa huñupi kasqayta huk hapirukunanta hamutarqani.,"neutral
+"
+"Hamunatayman. Kusa, huqnin richun, chaymantaqa hamutayman, Diosllay!",Manam pitapas rinanta saqinanchu karqa.,"neutral
+"
+"Huq minutopi escritorio nisqataña takachkan, qatiqninpi allinmi, nichkaykim.",Huqta huqtam hamutan.,"neutral
+"
+"Huq minutopi escritorio nisqataña takachkan, qatiqninpi allinmi, nichkaykim.",Mana ima rurasqatanta yachaspan hukta riman.,"neutral
+"
+"Huq minutopi escritorio nisqataña takachkan, qatiqninpi allinmi, nichkaykim.","Payqa hawkallataq, ruwananta kuwakuqlla.","neutral
+"
+"Kusa, imaynanpipas, chayman yaykurqun hinaspa na hina kachkarqa, imaynataq tukuy imapas kachan?",Imayna tukuy imapas kasqanmanta tapurqa.,"entailment
+"
+"Kusa, imaynanpipas, chayman yaykurqun hinaspa na hina kachkarqa, imaynataq tukuy imapas kachan?",Documental nisqata tukuchkasqaykumanta tapurqa.,"neutral
+"
+"Kusa, imaynanpipas, chayman yaykurqun hinaspa na hina kachkarqa, imaynataq tukuy imapas kachan?",Payqa manapuni rimapayawarqakuchu.,"neutral
+"
+"Chaymantaqa llantayta muyuchichkarqani, imaynayá, chay punchawqa tukuy punchaw hina karqa.",Apurarqani hinaspa apurawta tukururqani.,"neutral
+"
+"Chaymantaqa llantayta muyuchichkarqani, imaynayá, chay punchawqa tukuy punchaw hina karqa.",Chaypim iskay oras tiyarqani.,"neutral
+"
+"Chaymantaqa llantayta muyuchichkarqani, imaynayá, chay punchawqa tukuy punchaw hina karqa.",Llantaytam unay pacha muyuchirqani.,"entailment
+"
+Pay tuberculosis nisqawan kasqa ñuqataq manam imatapas chaymantaqa yacharqanichu.,Manam tuberculosis nisqawan yaqalla wañusqanta yacharqachu.,"entailment
+"
+Pay tuberculosis nisqawan kasqa ñuqataq manam imatapas chaymantaqa yacharqanichu.,Manam tuberculosis nisqawan kasqanta yacharqachu.,"entailment
+"
+Pay tuberculosis nisqawan kasqa ñuqataq manam imatapas chaymantaqa yacharqanichu.,Tuberculosis nisqawan unqusqanta yacharqa.,"contradiction
+"
+"Yachanki, manam atiwaqchu, mana contrapresión de respitacion nisqa kaspaqa manam kawsawaqchuqayá chay chay hawakunapi.",Mostradorpa presión nisqan llapan pacham wañuchisunki.,"neutral
+"
+"Yachanki, manam atiwaqchu, mana contrapresión de respitacion nisqa kaspaqa manam kawsawaqchuqayá chay chay hawakunapi.",5 000 pies pichqa waranqapa aswantaraq contrapresión nisqatañam qinakunayki.,"neutral
+"
+"Yachanki, manam atiwaqchu, mana contrapresión de respitacion nisqa kaspaqa manam kawsawaqchuqayá chay chay hawakunapi.",Chay altitud nisqanpiqa contrapresión nisqatam qinakunayki.,"entailment
+"
+"Kamasllam qallarirqani, eh, hina kaypi iskay maqtakuna kaqpiwan yachapakuspa.","Manam haykapipas yachachiyta chaskirqanichu, puririsqaypiñam yacharqani.","neutral
+"
+"Kamasllam qallarirqani, eh, hina kaypi iskay maqtakuna kaqpiwan yachapakuspa.",Iskay maqtakunam chay tiendapi llamkanaypaq yachachiwarqa.,"entailment
+"
+"Kamasllam qallarirqani, eh, hina kaypi iskay maqtakuna kaqpiwan yachapakuspa.",Iskay runam yachachiwarqa.,"entailment
+"
+"Chikan kaptinqa, regulador nisqapim ajusteta ruranayki.",Reguladorqa mana chaniyuqmi kasqa.,"neutral
+"
+"Chikan kaptinqa, regulador nisqapim ajusteta ruranayki.",Regulador chiki llapan pachaykipa presionta tiqrarunman.,"neutral
+"
+"Chikan kaptinqa, regulador nisqapim ajusteta ruranayki.",Regulador nisqawancha pukllayman.,"neutral
+"
+"Oh, payllam isqun iskay iskayraq regulador nisqapi inyecciónta qinaq karqa.",Martes punchawtam inyector nisqata hinarqani.,"neutral
+"
+"Oh, payllam isqun iskay iskayraq regulador nisqapi inyecciónta qinaq karqa.",Ñuqa 922 karqani,"neutral
+"
+"Oh, payllam isqun iskay iskayraq regulador nisqapi inyecciónta qinaq karqa.",Manam huq 922 karqanichu.,"neutral
+"
+"Manataqmi ceremonia nupcial nisqataqa yacharqachu, nitaq kasarakusqantapas yacharqachu, chaynam.",Payqa manam yacharqachu maqtawan harkarusqanta ñawpaqmanta mana riqsispapas.,"neutral
+"
+"Manataqmi ceremonia nupcial nisqataqa yacharqachu, nitaq kasarakusqantapas yacharqachu, chaynam.",Manam yacharqachu ima kasqanta.,"entailment
+"
+"Manataqmi ceremonia nupcial nisqataqa yacharqachu, nitaq kasarakusqantapas yacharqachu, chaynam.",Imaman yaykusqanta yacharqam.,"contradiction
+"
+Chayman yaykunayku.,Chayman 8 p. m. orasta yakunayku.,"neutral
+"
+Chayman yaykunayku.,Yaykunayku.,"entailment
+"
+Chayman yaykunayku.,Manam haykappipas yaykuykumanchu.,"contradiction
+"
+"Pi kasqanta pakayta munaq hinam karqa, hukkunapiqa, narayku, yachankiñam, imayna wakin willkankunata rimapayasqanwan.",Payqa llapantapas hina chaynatam rimapayaq.,"neutral
+"
+"Pi kasqanta pakayta munaq hinam karqa, hukkunapiqa, narayku, yachankiñam, imayna wakin willkankunata rimapayasqanwan.",Wakin willkankunata hukmanta rimapayaq.,"entailment
+"
+"Pi kasqanta pakayta munaq hinam karqa, hukkunapiqa, narayku, yachankiñam, imayna wakin willkankunata rimapayasqanwan.",Wakin willkanta hukmanta rimapayaq yana kasqanku rayku.,"let's break down the quechua and analyze the relationship between the premise and the hypothesis.
+
+premise: pi kasqanta pakayta munaq hinam karqa, hukkunapiqa, narayku, yachankiñam, imayna wakin willkankunata rimapayasqanwan.
+
+*   ""pi kasqanta pakayta munaq hinam karqa"" - he/she seemed to want to hide who he/she was.
+*   ""hukkunapiqa"" - in some others
+*   ""narayku"" - because
+*   ""yachankiñam"" - you already know
+*   ""imayna wakin willkankunata rimapayasqanwan"" - by the way he/she spoke to some of his/her grandchildren.
+
+so, a full (approximate) translation of the premise is: ""he/she seemed to want to hide who he/she was, in some others, because, you already know, by the way he/she spoke to some of his/her grandchildren."" the premise strongly suggests that *the way he/she spoke to some grandchildren* reveals *something he/she wanted to hide.*
+
+hypothesis: wakin willkanta hukmanta rimapayaq yana kasqanku rayku.
+
+*   ""wakin willkanta"" - to some of his/her grandchildren
+*   ""hukmanta rimapayaq"" - he/she spoke differently
+*   ""yana kasqanku rayku"" - because they were black/dark.
+
+so, the hypothesis states: ""he/she spoke differently to some of his/her grandchildren because they were black/dark.""
+
+analysis:
+
+the premise indicates that *the way* he/she spoke to some grandchildren was the key element of the person hiding something. the hypothesis specifies *why* he/she spoke to them differently - *because of their skin color.* the hypothesis offers a potential *explanation* for the behavior mentioned in the premise. the premise does not exclude race being the reason for the different treatment.
+
+therefore, the premise **entails** the hypothesis.
+"
+"Aswan sumaqmi karqa, hinaspa waliqa wayrawanmi tumpachata pawarurqa--",Wayrapi wali pasakacharqa.,"entailment
+"
+"Aswan sumaqmi karqa, hinaspa waliqa wayrawanmi tumpachata pawarurqa--",Waliqa uchuyllam karqa hinaspam tumpata pawarqa.,"entailment
+"
+"Aswan sumaqmi karqa, hinaspa waliqa wayrawanmi tumpachata pawarurqa--",Manam wayra karqachu chaymi wali qawkalla karqa.,"contradiction
+"
+"Oh, unaymi karqani, kay, actividades especiales nisqapi.",Operaciones especiales nisqapim sapa iskay punchaw kaarqani.,"neutral
+"
+"Oh, unaymi karqani, kay, actividades especiales nisqapi.",Actividades especiales nisqapim karqani.,"entailment
+"
+"Oh, unaymi karqani, kay, actividades especiales nisqapi.",Manam haykapipas actividades especiales nisqapi karqanichu.,"contradiction
+"
+Kaynataq… kunankaman kaq Evans sutiyuq Augusta nisqapa llaqtachankunapi yacharqaku Chaypim achka aylluykuna yachachkankuraq.,Evans nisqapim iskay chunka ayllunkuna yacharqa.,"neutral
+"
+Kaynataq… kunankaman kaq Evans sutiyuq Augusta nisqapa llaqtachankunapi yacharqaku Chaypim achka aylluykuna yachachkankuraq.,Atlantapi yacharqaku.,"neutral
+"
+Kaynataq… kunankaman kaq Evans sutiyuq Augusta nisqapa llaqtachankunapi yacharqaku Chaypim achka aylluykuna yachachkankuraq.,"Evans nisqapim yacharqaku, kayqa uchuyllam.","entailment
+"
+"Paniymi hina nipayawachkan, nin: mayqenpi payacha hina kanki, pantaspam mana allintachu runakunata rimapayanki.",Paniymi racista kanki niwarqa.,"entailment
+"
+"Paniymi hina nipayawachkan, nin: mayqenpi payacha hina kanki, pantaspam mana allintachu runakunata rimapayanki.",Paniymi mana sapa kuti wayllukuq kankichu niwarqa.,"neutral
+"
+"Paniymi hina nipayawachkan, nin: mayqenpi payacha hina kanki, pantaspam mana allintachu runakunata rimapayanki.",Paniymi ni imapipas paya hina kasqayta niwarqa.,"entailment
+"
+"Hum, chaymantaqa huk musuq wasiman ripurqaniku.",Huk hatun llaqtapi wasi rurasqaykumanmi ripurqaniku.,"neutral
+"
+"Hum, chaymantaqa huk musuq wasiman ripurqaniku.",Huk musuq residencia nisqamanmi ripurqanku.,"entailment
+"
+"Hum, chaymantaqa huk musuq wasiman ripurqaniku.",Hina wasillapim kawsay tukunankaman qiparqaniku.,"contradiction
+"
+"Ñuqam kachkarqani nahina, Arí, allinmi, chayqa allinmi, yachankiñam, chayna.",Chiqniisqayta chaynallataq mana payta munasqayta nirqani.,"neutral
+"
+"Ñuqam kachkarqani nahina, Arí, allinmi, chayqa allinmi, yachankiñam, chayna.",Musuq canciónpa versión nisqatam munani nirqani.,"neutral
+"
+"Ñuqam kachkarqani nahina, Arí, allinmi, chayqa allinmi, yachankiñam, chayna.",Ñam niniña allin kasqanta.,"entailment
+"
+"Pintura mancha nisqan sapa pachaq grados nisqan tiqranman, puka kasqanmantra anqas rikurirunmanpas.",Pintura nisqaqa colorninman hina cambiakun.,"entailment
+"
+"Pintura mancha nisqan sapa pachaq grados nisqan tiqranman, puka kasqanmantra anqas rikurirunmanpas.",Pintura nisqaqa imayna quni kasqan tiqran mana mediykuspa yachanaykipaq.,"neutral
+"
+"Pintura mancha nisqan sapa pachaq grados nisqan tiqranman, puka kasqanmantra anqas rikurirunmanpas.",Pinturaqa yanapunim.,"neutral
+"
+"Apurawmanmi mikuruni, apuraw atisqaywan, chaymantaqa pay yaykuramuspa tukurqun.",Pizza nisqataqa iskay minutopa asninpiraq tukuruni.,"neutral
+"
+"Apurawmanmi mikuruni, apuraw atisqaywan, chaymantaqa pay yaykuramuspa tukurqun.",Alillamanta mikuruni mana unqurunaypaq.,"neutral
+"
+"Apurawmanmi mikuruni, apuraw atisqaywan, chaymantaqa pay yaykuramuspa tukurqun.",Mikuytam tanqakuykuni.,"neutral
+"
+Paniypa qarinpas yuraq aychayuqmi karqa.,Masa masinqa yuraq colormi karqa.,"neutral
+"
+Paniypa qarinpas yuraq aychayuqmi karqa.,Sueco nisqan cuñadon karqa.,"neutral
+"
+Paniypa qarinpas yuraq aychayuqmi karqa.,Paninqa manam casadachu kachkarqa,"neutral
+"
+"Chaynapipas, kay invención alto regulador O2 nisqa qespichirqaku.",Paykuna huk musuq regulador nisqata paqarirqachirqaku.,"entailment
+"
+"Chaynapipas, kay invención alto regulador O2 nisqa qespichirqaku.",Huk hanaq pachapi funcionaq reguladorta paqarirachirqaku.,"entailment
+"
+"Chaynapipas, kay invención alto regulador O2 nisqa qespichirqaku.",Hina mana imayna regulador de oxígeno ruwayta atispa karqaku.,"neutral
+"
+"Chaymi Vegas, NV, nisqaman ripukurqaniku, hinaspa willarqani, Washington hinallatataq, Las Vegas chawpin huq wasi kaqpi.",Manam kaykapipas vegasman rirqanichu.,"contradiction
+"
+"Chaymi Vegas, NV, nisqaman ripukurqaniku, hinaspa willarqani, Washington hinallatataq, Las Vegas chawpin huq wasi kaqpi.",Las Vegaspi achakata llamkarqani Washingtonpi hina.,"neutral
+"
+"Chaymi Vegas, NV, nisqaman ripukurqaniku, hinaspa willarqani, Washington hinallatataq, Las Vegas chawpin huq wasi kaqpi.",Iskaynin llaqtapim taxista hina llamkarqani.,"neutral
+"
+"Arí, Tawa ñiqin kusikuy karqa.",¡Llapan colegiotam chiqnirqani!,"neutral
+"
+"Arí, Tawa ñiqin kusikuy karqa.",Tawa ñiqi grado nisqatam munarqani iskaykaman samayniyku kaptin.,"neutral
+"
+"Arí, Tawa ñiqin kusikuy karqa.",Tawa ñiqiqa munasqay karqa.,"entailment
+"
+"Huk archivo achka tukuy niraq pestañayuq hinam, yachankiñam. Sapan pestañapan kikin hoja de calculoyuq.",Pagina nisqa huq numero nisqan listakunalla.,"neutral
+"
+"Huk archivo achka tukuy niraq pestañayuq hinam, yachankiñam. Sapan pestañapan kikin hoja de calculoyuq.",Tabullación nisqakunapa achkasun datos nisqanyuqmi.,"entailment
+"
+"Huk archivo achka tukuy niraq pestañayuq hinam, yachankiñam. Sapan pestañapan kikin hoja de calculoyuq.",Pestaña nisqakunaqa hayka kunan saldokuna llapan cuentamanta kasqantam qawarichin.,"neutral
+"
+Imayna rurasqaykipas manam ima hukuwanchu.,Manam ima hukuwanchu kikiyki ruwawaq utaq minkaspa ruwanayki.,"neutral
+"
+Imayna rurasqaykipas manam ima hukuwanchu.,Manam ima hukuwanchu ima metodoyki kasqan.,"entailment
+"
+Imayna rurasqaykipas manam ima hukuwanchu.,Imaynata kayta ruranaykita Yachaytam munani.,"neutral
+"
+Mallard Creek nisqamanmi Charlotteman ripukurqaku.,Mallard Creek nisqapim huk wasita ruwarurqaku.,"neutral
+"
+Mallard Creek nisqamanmi Charlotteman ripukurqaku.,Charlotte nisqamanqa manam kaykapipas ripurqakuchu.,"contradiction
+"
+Mallard Creek nisqamanmi Charlotteman ripukurqaku.,Chaymantaqa Mallard Creek nisqapim yacharqaku.,"entailment
+"
+"Maypi pay huk na karqa, payqa huk ministropa churin karqa, hinaptin paypa karqa, paykunapa chakranku karqa, hukkunapas, hinaspam allinmi karqaku.",Taytanmi pastor luterano karqa.,"neutral
+"
+"Maypi pay huk na karqa, payqa huk ministropa churin karqa, hinaptin paypa karqa, paykunapa chakranku karqa, hukkunapas, hinaspam allinmi karqaku.",Taytanmi convicto nisqa karqa mana haykapipas iglesiaman riqcchu.,"neutral
+"
+"Maypi pay huk na karqa, payqa huk ministropa churin karqa, hinaptin paypa karqa, paykunapa chakranku karqa, hukkunapas, hinaspam allinmi karqaku.",Taytanmi pastor karqa.,"neutral
+"
+"Arí, Ñuqaqa manam hayka detalle munasqanta yacharqanichu.",Manam yacharqanichu pay illay orasmanta información munasqanta.,"entailment
+"
+"Arí, Ñuqaqa manam hayka detalle munasqanta yacharqanichu.",Llapachan detalle nisqatam quykurqani munasqantam yachaspay.,"contradiction
+"
+"Arí, Ñuqaqa manam hayka detalle munasqanta yacharqanichu.",Manam ancha allintachu yacharqani imayna profundidad nisqan kapunanta.,"entailment
+"
+"Rí um, hukmanmi, sapa cliente nisqapi hinam, llapan documento nisqakuna kachkan.",Paykunapaqa manam ni ima archivo nisqayouqchu kanku.,"contradiction
+"
+"Rí um, hukmanmi, sapa cliente nisqapi hinam, llapan documento nisqakuna kachkan.",Llapachan archivo nisqatam waqaychanku.,"entailment
+"
+"Rí um, hukmanmi, sapa cliente nisqapi hinam, llapan documento nisqakuna kachkan.",Médicopas legalpas archivo nisqakunatam kuska waqaychanku.,"neutral
+"
+"Kayqa aswan allichasqa hinam, pay quwasqanqa hina detallado hinataq sasam karqa, iskay ñiqitaq mana sasachuqa karqa.",Payqa iskay versión nisqata quwarqa.,"entailment
+"
+"Kayqa aswan allichasqa hinam, pay quwasqanqa hina detallado hinataq sasam karqa, iskay ñiqitaq mana sasachuqa karqa.",Payqa iskay rurana instruccción nisqata quwarqa hinaspa chay detallasqa kaqta munaraní.,"neutral
+"
+"Kayqa aswan allichasqa hinam, pay quwasqanqa hina detallado hinataq sasam karqa, iskay ñiqitaq mana sasachuqa karqa.",Payqa huk versión nisqata quwarqa hinaptinmi as lineallam qiparqa.,"neutral
+"
+"Manam Augustapichu yacharqaku, ...napi, yachankiñam, chay pachapiqa Augustaqa huk uchuy llaqtachaman karqa, chay wakin runa kayna hatun llaqtapi yachaqpaqpas.",Augustaqa chunka waranqa runayuqmi karqa.,"neutral
+"
+"Manam Augustapichu yacharqaku, ...napi, yachankiñam, chay pachapiqa Augustaqa huk uchuy llaqtachaman karqa, chay wakin runa kayna hatun llaqtapi yachaqpaqpas.",Augustaqa manam hatun llaqtachu.,"entailment
+"
+"Manam Augustapichu yacharqaku, ...napi, yachankiñam, chay pachapiqa Augustaqa huk uchuy llaqtachaman karqa, chay wakin runa kayna hatun llaqtapi yachaqpaqpas.",Augustapa sunqunpim yacharqaku.,"neutral
+"
+"Waranqa iskun pachak suqta chunka iskayniyuq wata tukuchkaqtam huk Washington, DC rinaypaq kamachikuyta chaskirqani",DC rinaytam niwarqaku.,"entailment
+"
+"Waranqa iskun pachak suqta chunka iskayniyuq wata tukuchkaqtam huk Washington, DC rinaypaq kamachikuyta chaskirqani",Ejército nisqam DC nisqaman kamaslla kamaykachiwan.,"neutral
+"
+"Waranqa iskun pachak suqta chunka iskayniyuq wata tukuchkaqtam huk Washington, DC rinaypaq kamachikuyta chaskirqani",Áfricaman rinayta niwarqaku.,"neutral
+"
+"Chakranta DOT hapikuruptinmi, Concord nisqapi uchuy llaqtachaman ripukurqani, chaypim zonapi rakinasqa kaptin mana uywakunata saqinchu, chayraykum uywakunapa qulluynin.",Concord nisqapi wasiykum mana uywakunata saqinmanchu.,"entailment
+"
+"Chakranta DOT hapikuruptinmi, Concord nisqapi uchuy llaqtachaman ripukurqani, chaypim zonapi rakinasqa kaptin mana uywakunata saqinchu, chayraykum uywakunapa qulluynin.",Corcord nisqapi wasiykum kimsa chunka waranqa acres nisqan kan hinataq achkallaña uywa.,"neutral
+"
+"Chakranta DOT hapikuruptinmi, Concord nisqapi uchuy llaqtachaman ripukurqani, chaypim zonapi rakinasqa kaptin mana uywakunata saqinchu, chayraykum uywakunapa qulluynin.",Concord nisqaman ripuspaykum llapachan uywaykuta rantikururqaniku.,"neutral
+"
+"Imayna kaptinpas, ripukurqanikuchu, chayaraykum Kadina, Okinawa nisqaman churaykuqasmanta willaymanmi, chaymi 1968 watapi karqa.",Waranqa isqun pachak suqta chunka pusaqniyuq watatam uraycharqaniku llapa fuerza kaqkunata.,"neutral
+"
+"Imayna kaptinpas, ripukurqanikuchu, chayaraykum Kadina, Okinawa nisqaman churaykuqasmanta willaymanmi, chaymi 1968 watapi karqa.",Manam pitapas uraychispa tiyachistinchu tukurqaniku.,"neutral
+"
+"Imayna kaptinpas, ripukurqanikuchu, chayaraykum Kadina, Okinawa nisqaman churaykuqasmanta willaymanmi, chaymi 1968 watapi karqa.",Waranqa isqun pachak suqta chunka pusaqniyuq junio killatam Japonman tropa nisqaykunata illachirqaniku.,"entailment
+"
+Chaypuni kunanpaq munasqantam niwarqa.,haykapipas na kaptin qunaytam niwarqa.,"neutral
+"
+Chaypuni kunanpaq munasqantam niwarqa.,2 p.m iskay pachallakama hatun llamkay tukunay kaqtam niwarqa.,"neutral
+"
+Chaypuni kunanpaq munasqantam niwarqa.,Apuraw kasqantam niwarqa.,"neutral
+"
+Ripukusqañam hinaspam amaña llakikunaypaq niwarqa.,Allinlla yachay wasi kanantam niwarqa.,"neutral
+"
+Ripukusqañam hinaspam amaña llakikunaypaq niwarqa.,Ama llakikunaytam niwarqa.,"entailment
+"
+Ripukusqañam hinaspam amaña llakikunaypaq niwarqa.,Manchakuyman yaykuna pacha kaqtam nirqa.,"neutral
+"
+"Kaykunam, yachankiñam, qaway, sasachakuykikuna kachkan.",Peligro nisqapim kachkanki.,"neutral
+"
+"Kaykunam, yachankiñam, qaway, sasachakuykikuna kachkan.",¡Allinllapim kanki!,"neutral
+"
+"Kaykunam, yachankiñam, qaway, sasachakuykikuna kachkan.",Suyuykiman kutirachisunaykimanta peligro nisqapi kachkanki.,"neutral
+"
+"Mamayqa ñawpaqtaqa mana munasqan hinapi tukurqa, ah, chaynam chakrapa llamkaq kamachisqa karqa wakin warmakunañataqmi mana chakrapi llamkaqkuchu.",Mamaymi algodónwan sarata quqarinan karqa.,"neutral
+"
+"Mamayqa ñawpaqtaqa mana munasqan hinapi tukurqa, ah, chaynam chakrapa llamkaq kamachisqa karqa wakin warmakunañataqmi mana chakrapi llamkaqkuchu.",Mamaymi huk quri pasña karqa chaymi mana llamkaqchu.,"neutral
+"
+"Mamayqa ñawpaqtaqa mana munasqan hinapi tukurqa, ah, chaynam chakrapa llamkaq kamachisqa karqa wakin warmakunañataqmi mana chakrapi llamkaqkuchu.",Mamayqa hawapim llamkanan karqa.,"let's break down the quechua and determine the relationship between the premise and hypothesis:
+
+*   **premise:** mamayqa ñawpaqtaqa mana munasqan hinapi tukurqa, ah, chaynam chakrapa llamkaq kamachisqa karqa wakin warmakunañataqmi mana chakrapi llamkaqkuchu.
+
+    *   translation: ""my mother ended up in a situation she didn't initially want; well, she was forced to work in the field, while some other children didn't work in the field.""
+
+*   **hypothesis:** mamayqa hawapim llamkanan karqa.
+
+    *   translation: ""my mother had to work outside.""
+
+now let's analyze:
+
+the premise states the mother was forced to work ""in the field"" (chakrapa llamkaq).  the hypothesis states the mother ""had to work outside"" (hawapim llamkanan karqa).  working in the field is a specific type of working outside. since working *in a field* implies working *outside*, the premise supports the hypothesis.
+
+therefore, the answer is:
+
+**entailment**
+"
+"Yachankiñam, tukuyninpi, yachanki. Yachankiñam imatam runakunata tapurqaku, huktawan hukunata, hinaqa mana maypi kasqanta yacharqakuchu, yananpiqa yachankichu, allillanpiqa allinchanakururqaku mana Joe rikunankuta nisqa.",Joe nisqallapan samana kaq wasipa llaven karqa.,"neutral
+"
+"Yachankiñam, tukuyninpi, yachanki. Yachankiñam imatam runakunata tapurqaku, huktawan hukunata, hinaqa mana maypi kasqanta yacharqakuchu, yananpiqa yachankichu, allillanpiqa allinchanakururqaku mana Joe rikunankuta nisqa.","Haykakakamantaq ruraspapas, manam Joe hawkallata saqiwanankuta atirqanikuchu.","neutral
+"
+"Yachankiñam, tukuyninpi, yachanki. Yachankiñam imatam runakunata tapurqaku, huktawan hukunata, hinaqa mana maypi kasqanta yacharqakuchu, yananpiqa yachankichu, allillanpiqa allinchanakururqaku mana Joe rikunankuta nisqa.","Huk Punchaw, Joe pasakurqa hinaptin mana pipas mayman rirqan yachayta atirqachu.","neutral
+"
+Paniymi niykurqani.,Paniyta tumpaykurqani.,"neutral
+"
+Paniymi niykurqani.,Ñuqapa niykurqani.,"neutral
+"
+Paniymi niykurqani.,Paniypam chay allqunqa niykurqani.,"entailment
+"
+"Chaymantaqa maman nirqa, mamanmi ñawpaqman kurkurqa hinaspa qawaspa nirqa. Pay hina riy nirqa.",Payqa maman chakinpa puntachallanwan purisqanta niq.,"neutral
+"
+"Chaymantaqa maman nirqa, mamanmi ñawpaqman kurkurqa hinaspa qawaspa nirqa. Pay hina riy nirqa.",Payqa nirqa maman hina chayna puriynin kasqata niq,"entailment
+"
+"Chaymantaqa maman nirqa, mamanmi ñawpaqman kurkurqa hinaspa qawaspa nirqa. Pay hina riy nirqa.",Maman hawkayasqa kasqanta hinaspa mana puriy atisqanta nirqa.,"contradiction
+"
+"Yachanki, payqa petalos nisqata wakpi quntachirqa hinaqa ñuqa mana ima consevuecia nisqa kasqanta yacharqanichu.",Manam unqurunanta yacharqanichu.,"neutral
+"
+"Yachanki, payqa petalos nisqata wakpi quntachirqa hinaqa ñuqa mana ima consevuecia nisqa kasqanta yacharqanichu.",Manam payta ima pasarqunanta yacharqanichu.,"entailment
+"
+"Yachanki, payqa petalos nisqata wakpi quntachirqa hinaqa ñuqa mana ima consevuecia nisqa kasqanta yacharqanichu.",Ycharqanim pay chayta ruraptin ima pasarunanta.,"neutral
+"
+"Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa.",Manam chay wasimanta yuyakuyniy kanchu.,"neutral
+"
+"Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa.",hipa pampapi margarita nisqa quqarisqaytam yuyaruni.,"neutral
+"
+"Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa.",Yuyaruniqa hipa pampapi huk ima apakusqantam.,"entailment
+"
+"Chaymi chay llapan sasachakuy, ichapas, imakunapas sasachakuypi tarikunankupaq karqam, karqa hinam, mana yachasqaykita hinam quchkanki, chayqa kay ruray niq hinam.",Manam imayna kunan kamachiwasqan rurayta atirqanichu.,"neutral
+"
+"Chaymi chay llapan sasachakuy, ichapas, imakunapas sasachakuypi tarikunankupaq karqam, karqa hinam, mana yachasqaykita hinam quchkanki, chayqa kay ruray niq hinam.","Oficinapi caja de fusibles nisqata hukta qinanaypaqmi niwarqa, ichaqa manam cableado eéctricomanta yachanichu.","neutral
+"
+"Chaymi chay llapan sasachakuy, ichapas, imakunapas sasachakuypi tarikunankupaq karqam, karqa hinam, mana yachasqaykita hinam quchkanki, chayqa kay ruray niq hinam.",Kunanmi mañaruwarqaku entranasqallaypaq imatapas ruranayta.,"neutral
+"
+"Kayqayá kunanqa, kaypi kachkan, kunanchu munanki.",Haykappipasi chaskiyta atinman nirqam.,"neutral
+"
+"Kayqayá kunanqa, kaypi kachkan, kunanchu munanki.",Kunansi chaskiyta munanman nirqam.,"neutral
+"
+"Kayqayá kunanqa, kaypi kachkan, kunanchu munanki.",5.00 pm pichqa pacha chisinyaytas hatun llamkay tukusqata chaskiyta munan nirqam.,"neutral
+"
+Hinaqa llaki kaptin ripukurqaniku.,Hun pachapim ripukurqaniku.,"neutral
+"
+Hinaqa llaki kaptin ripukurqaniku.,Huk suyumanmi waranqa isqun oachakn isqun chunka iskayniyuqta ripukurqaniku.,"neutral
+"
+Hinaqa llaki kaptin ripukurqaniku.,Chaymantaqa manam kuyururqanikuchu.,"neutral
+"
+"Manam Faulk mamata riqsirqanichu, payqa pusaq chunka watanpim karqa, allin runam karqa, huk iskaykamanmi rikurqani, chaymi mancharisqa kachkarqani.","Faulk warmitaqa unaychuqaya rikurqani, ichaqa manam anchachu riqsini.","neutral
+"
+"Manam Faulk mamata riqsirqanichu, payqa pusaq chunka watanpim karqa, allin runam karqa, huk iskaykamanmi rikurqani, chaymi mancharisqa kachkarqani.",Faulk warmipa masinmi ñuqa karqani.,"neutral
+"
+"Manam Faulk mamata riqsirqanichu, payqa pusaq chunka watanpim karqa, allin runam karqa, huk iskaykamanmi rikurqani, chaymi mancharisqa kachkarqani.",La señora Faulk sapa punchaw qillu honda nisqata apaq llamkayninman rinanpaq.,"neutral
+"
+"Mallard Creek nisqapa 85 nisqapi yacharqaniku, kunanqa tawa pachak pusaq chunka pichqayuq chaypiqa hampurqaniku tawa pachak pusaq chunka pichqa kaptinmi.",Chaypim yacharqaniku huk quyllur wasipi.,"neutral
+"
+"Mallard Creek nisqapa 85 nisqapi yacharqaniku, kunanqa tawa pachak pusaq chunka pichqayuq chaypiqa hampurqaniku tawa pachak pusaq chunka pichqa kaptinmi.",Chaypim unay wata yacharqaniku.,"entailment
+"
+"Mallard Creek nisqapa 85 nisqapi yacharqaniku, kunanqa tawa pachak pusaq chunka pichqayuq chaypiqa hampurqaniku tawa pachak pusaq chunka pichqa kaptinmi.",Chaypiqa iskay punchawkunallam yacharqaniku.,"neutral
+"
+"Llamkaq masiy, iskay kawsayniyuq runa hinata karqa, tío.",Manam allinchu kachkarqa.,"neutral
+"
+"Llamkaq masiy, iskay kawsayniyuq runa hinata karqa, tío.",Umalliqniy chiqaqta kusisqaqachu karqa utaq uma muyuchu.,"neutral
+"
+"Llamkaq masiy, iskay kawsayniyuq runa hinata karqa, tío.",Umalliqniyqa sumaq hinataq kaq punim karqa.,"neutral
+"
+Ancha watayuqñam tayta hina kananpaq.,Payqa iskay chunka qanchisniyuq watawanmi apawan.,"neutral
+"
+Ancha watayuqñam tayta hina kananpaq.,Payqa ñuqamanta aswan maqtaraqmi.,"contradiction
+"
+Ancha watayuqñam tayta hina kananpaq.,Mayqa ñuqa ñawpaqniymi.,"neutral
+"
+"Llapachanmi conectasqa kachkan hinaqa Dios, hayka pachayá kanqa.",Hayka pacha kanantam mana yachanichu.,"neutral
+"
+"Llapachanmi conectasqa kachkan hinaqa Dios, hayka pachayá kanqa.",Hayka pachayá kawsaypa uku karinqa.,"neutral
+"
+"Llapachanmi conectasqa kachkan hinaqa Dios, hayka pachayá kanqa.",Tawa chaki (10 cm) largon midesqantaqa yachanim.,"neutral
+"
+Kunanqa manam ancha kusisqachu karqani pisipaywan kaspay.,"¡Ñuqa ancha kusikusqa, sumaqmi kachkarqani!","contradiction
+"
+Kunanqa manam ancha kusisqachu karqani pisipaywan kaspay.,Ancha munaywanmi kachkarqa kusikuywan kananpaq hina imaynanpi payqa huk punchaw manaraq punchawpi chayamunan kasqa.,"neutral
+"
+Kunanqa manam ancha kusisqachu karqani pisipaywan kaspay.,Kusikuymantam ancha kachkarqa pay chaypi kaptin.,"neutral
+"
+Aswan chayqa mamakuna drogodependientes nisqa kaptinmi kan,Drogadicta nisqakunam mamakunaqa.,"entailment
+"
+Aswan chayqa mamakuna drogodependientes nisqa kaptinmi kan,Mamakunaqa mana prescripcion nisqata nitaq medicamentokunata upyankuchu.,"let's analyze the quechua statements to determine the relationship between the premise and the hypothesis.
+
+*   **premise:** aswan chayqa mamakuna drogodependientes nisqa kaptinmi kan
+    *   translation: mostly, it is because mothers are drug-dependent. / more often than not, it exists because mothers are drug-dependent.
+
+*   **hypothesis:** mamakunaqa mana prescripcion nisqata nitaq medicamentokunata upyankuchu.
+    *   translation: mothers do not drink (take) prescriptions or medicines.
+
+the premise states that *mostly*, the reason something happens is because mothers are drug-dependent. the hypothesis states that mothers do not take prescriptions or medicines.
+
+a mother who is drug-dependent *could* also be taking other kinds of prescription or over the counter medications. the premise does not necessarily exclude the possibility of taking prescription drugs or other medicines. it only explains that the core issue is their drug dependence. therefore, drug dependency does not necessarily mean they are not taking medications.
+
+based on this analysis, it is safe to conclude that the premise is **neutral** to the hypothesis.
+"
+Aswan chayqa mamakuna drogodependientes nisqa kaptinmi kan,Droga nisqatam mama upyaq,"neutral
+"
+"Arí, allinpunim, para chayamuchkarqa.",Manam ima hukuwanchu para.,"contradiction
+"
+"Arí, allinpunim, para chayamuchkarqa.",Munaycham hinataq para param.,"entailment
+"
+"Arí, allinpunim, para chayamuchkarqa.",Millaypay millapaymi intipa akchi qitunayninwan.,"neutral
+"
+"Ow, huk kawsaypa chanin hinaqa pi rehabilitayta atichwanchu manachu.",Llapachan kawsaymi rehabilitasqa kanan chaymi pitapas rehabilitayqa atichwan utaq manapas.,"neutral
+"
+"Ow, huk kawsaypa chanin hinaqa pi rehabilitayta atichwanchu manachu.",Manay mayqin runapas rehabilitasqa kanmanchu.,"contradiction
+"
+"Ow, huk kawsaypa chanin hinaqa pi rehabilitayta atichwanchu manachu.",Rehabilitación nisqallamantaqa kawsayqa allinpunim.,"neutral
+"
+"Ow, maqta kaypi huk niraq sasachakuy cableadopi kapusuchkanki",Manam imaypipas kayna cableado kaq sasakuy rikurichiqtaqa rikurqanichu.,"neutral
+"
+"Ow, maqta kaypi huk niraq sasachakuy cableadopi kapusuchkanki",Cableado nisqaqachuqa sasachakuyqa.,"neutral
+"
+"Ow, maqta kaypi huk niraq sasachakuy cableadopi kapusuchkanki",Huk sasachakuymi kay cableado nisqawan kachkan.,"entailment
+"
+"Ancha allinmi uyarikun, arí, hayka ruray atinankum pantay manachiwan",Indulgentekuna kayninkuwanmi qalay pantaymanani.,"neutral
+"
+"Ancha allinmi uyarikun, arí, hayka ruray atinankum pantay manachiwan","Chaypi mikuywan, yakuwan saqirususqaykim paytaymanachiwan.","neutral
+"
+"Ancha allinmi uyarikun, arí, hayka ruray atinankum pantay manachiwan",Anchatam imayna tariy atisqankuwan pantaykachiwarqa.,"neutral
+"
+"arí, chay kaqmanmi nillachkani, chay allichakuyta tukurunaykipaqmi, llapan llamkay chay apakusqanwan…podrías ir a un Club Med vacaciones nisqapi llapan chaniyuqwan.",$ 2000 iskay waranqa chanim llapan munasqaykipa.,"neutral
+"
+"arí, chay kaqmanmi nillachkani, chay allichakuyta tukurunaykipaqmi, llapan llamkay chay apakusqanwan…podrías ir a un Club Med vacaciones nisqapi llapan chaniyuqwan.",Achka chaniyuqwanmi kikikiqa pachakuwaq.,"neutral
+"
+"arí, chay kaqmanmi nillachkani, chay allichakuyta tukurunaykipaqmi, llapan llamkay chay apakusqanwan…podrías ir a un Club Med vacaciones nisqapi llapan chaniyuqwan.",Pisi chaniyuqllam pachakuyqa.,"neutral
+"
+"Ow, Ichaqa iskay chunka hukniyuq hinataq inskay chunka tawayuq watayuqkunañam warmayqa, chaynama manam nanaychu",Manam chayqa allinñachu iskay chunka watanmanta aswanniyuqkunañam.,"neutral
+"
+"Ow, Ichaqa iskay chunka hukniyuq hinataq inskay chunka tawayuq watayuqkunañam warmayqa, chaynama manam nanaychu","Ruranaymi, watanmanmi chayay chkankuña.","neutral
+"
+"Ow, Ichaqa iskay chunka hukniyuq hinataq inskay chunka tawayuq watayuqkunañam warmayqa, chaynama manam nanaychu","Ruranaymi iskayninkum chunka, chunka hukniyuq watayuq.","neutral
+"
+"Waw, kusa Fresno nisqachu kay.",Fresno nisqapim paqarirqani.,"neutral
+"
+"Waw, kusa Fresno nisqachu kay.",Manam kay may kasqanta yachanichu.,"neutral
+"
+"Waw, kusa Fresno nisqachu kay.",Nisayki Fresnom Kay.,"neutral
+"
+"Ari, imay pachapas runakuna imaynanpipas llamkayninpi tarikuq utaq ima rurananta ruranan kachkaptin mana atiqkunapaq.","Arí, ichapas runakuna mana imaynanpipas allinta ruranmankuchu.","neutral
+"
+"Ari, imay pachapas runakuna imaynanpipas llamkayninpi tarikuq utaq ima rurananta ruranan kachkaptin mana atiqkunapaq.","Ari, ichapas runakuna mana yarqayniyuq kaqkuna.","neutral
+"
+"Ari, imay pachapas runakuna imaynanpipas llamkayninpi tarikuq utaq ima rurananta ruranan kachkaptin mana atiqkunapaq.","Arí, runakunapa ima rurayninkupas mana imaypipas sasachakuypi tarikunchu.","neutral
+"
+"Manam, muyuyllapiraqmi kachkan. Suqta wata tukuymantam muyuyllapiraq kachkarqa.",Manaraq waranqa isqun pachak qanchis chunkatam muyuypi kachkarqa.,"entailment
+"
+"Manam, muyuyllapiraqmi kachkan. Suqta wata tukuymantam muyuyllapiraq kachkarqa.",Purikachayta munanku.,"neutral
+"
+"Manam, muyuyllapiraqmi kachkan. Suqta wata tukuymantam muyuyllapiraq kachkarqa.",Chayraq purikachayta tukurunku.,"neutral
+"
+imaynatataq aeróbicos nisqata rurawaq,¿Yachaykachiwankimanchu imaynatataq aerobic nisqata rurawaq?,"entailment
+"
+imaynatataq aeróbicos nisqata rurawaq,Aeróbic nisqatam anchata munachkani chay cardiovascular ruraymanta kachkani.,"entailment
+"
+imaynatataq aeróbicos nisqata rurawaq,Ama hina kaspaypi amaña ejercicios aeróbicosmanta rimaychu.,"neutral
+"
+"Kusa, chayqa allinmi mana allillanqa hamutasqanichu chaymanta.",Chaymi huk mana allin yachay hayna punchawkuna wischusqay.,"neutral
+"
+"Kusa, chayqa allinmi mana allillanqa hamutasqanichu chaymanta.",Kaymi allin kaq.,"neutral
+"
+"Kusa, chayqa allinmi mana allillanqa hamutasqanichu chaymanta.",Chay paradoja nisqayki allin kaqmi.,"neutral
+"
+"Uywana iskay punchawl punchawkunapi, Tercera edad uywana nispam sutinchanku, ichaqa payqa centro de la tercera de edadmanmi rin",Pichqa watayuq warmakunallapaqmi uywana wasi sapa punchaw kicharayachkan.,"neutral
+"
+"Uywana iskay punchawl punchawkunapi, Tercera edad uywana nispam sutinchanku, ichaqa payqa centro de la tercera de edadmanmi rin",Iskay punchawmanta aswannintaraqmi punchawkuna tercera edad allinniqraq kaq rinanta saqinku.,"neutral
+"
+"Uywana iskay punchawl punchawkunapi, Tercera edad uywana nispam sutinchanku, ichaqa payqa centro de la tercera de edadmanmi rin","Machukuna uywanapaq hinatam payta nin, ichaqa centro para personas mayores nisqam sutin.","neutral
+"
+Chaychu munasqan meta nisqa karqa oh,Chayraykum aswanta kallpachakusqaku.,"neutral
+"
+Chaychu munasqan meta nisqa karqa oh,Chaychuqaya ñawmanta munasqanku karqa.,"neutral
+"
+Chaychu munasqan meta nisqa karqa oh,Munasqanta hayparunkuchu.,"neutral
+"
+arma nisqa harkayqa iskay makiwan ruraymi,Tiro de pistola nisqawan chawpi pantayqa huk makillawan rurasqam kan.,"contradiction
+"
+arma nisqa harkayqa iskay makiwan ruraymi,Armakunataqa allintaqa controlanmanku iskay chakiwan rurasqam.,"neutral
+"
+arma nisqa harkayqa iskay makiwan ruraymi,Iskaynin makikiwan hapiy allinta armata controlanaykipaq.,"entailment
+"
+Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa,"Manam yachanichu maymanta hamusqanta, ichaqa apurawmi.","neutral
+"
+Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa,"Apurawtam hamun, ichaqa maymanta hamusqanta yachanim.","neutral
+"
+Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa,Melaza nisqa hinam hamun hinaqa yachanim haykappi hamunanta.,"neutral
+"
+"Manam, allillanqa manam riqsinichu, manachá.",Manam anchachu chaymanta yachani.,"neutral
+"
+"Manam, allillanqa manam riqsinichu, manachá.",Waykukuykunamantaqa upa mana yachaqmi kani.,"neutral
+"
+"Manam, allillanqa manam riqsinichu, manachá.",Watantinmi kaymanta yachachkarqani.,"neutral
+"
+"Arí, yachankiñam pay kusa kasqanta.",Yachanchusmi allinsu kasqanta.,"neutral
+"
+"Arí, yachankiñam pay kusa kasqanta.","Manam, payqa millapam karqa.","contradiction
+"
+"Arí, yachankiñam pay kusa kasqanta.","Ari, payqa ancha allinmi karqa.","entailment
+"
+"Arí, payqa huk Fregona nisqa chay usanallaykita hina rantinallaykitam yachachirqa.",Huk aspiradora rantiytam yachachirqa.,"neutral
+"
+"Arí, payqa huk Fregona nisqa chay usanallaykita hina rantinallaykitam yachachirqa.",Huk fregona tariytam yachachirqa.,"entailment
+"
+"Arí, payqa huk Fregona nisqa chay usanallaykita hina rantinallaykitam yachachirqa.",Huk Trapeador nisqawanmi yawar pichayta munarqa.,"neutral
+"
+"Kaypim imakunapas mana allin kachkan, autopistapim huk tiroteo apakurqun, wasiykumanta kimsa manzana nisqapi.",Yachasqaymanta pachak waranqa karunpim tiroteo apakurqa.,"contradiction
+"
+"Kaypim imakunapas mana allin kachkan, autopistapim huk tiroteo apakurqun, wasiykumanta kimsa manzana nisqapi.",Wasiypa anchunpim tiroteo apakurqa chaymi lluqsiyta manchakuni.,"entailment
+"
+"Kaypim imakunapas mana allin kachkan, autopistapim huk tiroteo apakurqun, wasiykumanta kimsa manzana nisqapi.","Wasiypa anchumpim huk tiroteo karun, chiqaqtaqa manam kaypiqa allinchu.","entailment
+"
+"Oh, Chayqa chiqaqtaqa manam chiqaqchu, oh allinsuchu","Manam qanwanqa allin rimanakuypichu kani, sapa kutim.","neutral
+"
+"Oh, Chayqa chiqaqtaqa manam chiqaqchu, oh allinsuchu",Sutillapas allin qikutaynikiwanqa allinchusmi kanki.,"neutral
+"
+"Oh, Chayqa chiqaqtaqa manam chiqaqchu, oh allinsuchu",Allinmi mana allin kaq niqwan kanki.,"neutral
+"
+Chaypiim hina suqitayta munachkani.,Chaymanmi qikutapayayta munachkani.,"neutral
+"
+Chaypiim hina suqitayta munachkani.,Chiqaqpataqa atisqaymanta aswan allintam rurachkani.,"neutral
+"
+Chaypiim hina suqitayta munachkani.,Saqinanta saqispaqa manam imaypipas qipata qawasaqchu.,"neutral
+"
+"Arí, ¿Imayna uywataq kapusuchkanki?",¿Uywaykiqa allin warman?,"neutral
+"
+"Arí, ¿Imayna uywataq kapusuchkanki?",¿Imayna misitataq hapiramunki?,"neutral
+"
+"Arí, ¿Imayna uywataq kapusuchkanki?",¿Imayna malta allquta kapusuchkanki?,"neutral
+"
+"Kusa, Warmaykuna kan niwarqanki, ¿hayka watayuqkunataq?",¿Hayka warmaykitaq kan?,"entailment
+"
+"Kusa, Warmaykuna kan niwarqanki, ¿hayka watayuqkunataq?",Uyay mananiqa mana warmayuq kay atinaykita.,"neutral
+"
+"Kusa, Warmaykuna kan niwarqanki, ¿hayka watayuqkunataq?","Waymaykunam kan nirqanki, ¿Haykataq watankuna?","entailment
+"
+"manapaschá aswan tiqsi muyumanta yachay sapakunachu karqaku, ichaqa yaw, ancha allinmi karqakutaq, kaymi …yachapakuq munaq runakunata munaparqaku","Ichapas mana yachay spa kayta atirqakuchu, ichaqa wayllukuqmi karqaku chaymi yachapakuqkunata munarqaku.","entailment
+"
+"manapaschá aswan tiqsi muyumanta yachay sapakunachu karqaku, ichaqa yaw, ancha allinmi karqakutaq, kaymi …yachapakuq munaq runakunata munaparqaku","Yachaysapakunam karqa, ichaqa mana riqsisqanpa anchunpi kaspaqa mana yachaq tukuqmi karqaku.","entailment
+"
+"manapaschá aswan tiqsi muyumanta yachay sapakunachu karqaku, ichaqa yaw, ancha allinmi karqakutaq, kaymi …yachapakuq munaq runakunata munaparqaku","Yachaysapakunam karqaku, ichaqa pipas yachaypi kallpachakuqtam chiqnirqaku.","contradiction
+"
+"Huk kutitam chayman rirqaniku, eh, chaypi, evento nisqamanta kutimuraniku hinaspa hatuschakuypa waqtankunapi luzkunata achkichiraniku hinaptinmi huk mofeta kasqa.",Hatuschakuyman kutimunaykutam añas suyawachkarqaku.,"neutral
+"
+"Huk kutitam chayman rirqaniku, eh, chaypi, evento nisqamanta kutimuraniku hinaspa hatuschakuypa waqtankunapi luzkunata achkichiraniku hinaptinmi huk mofeta kasqa.",Huk cabratam hatuspi luzkunata wañuchachispa tarirurqaniku.,"neutral
+"
+"Huk kutitam chayman rirqaniku, eh, chaypi, evento nisqamanta kutimuraniku hinaspa hatuschakuypa waqtankunapi luzkunata achkichiraniku hinaptinmi huk mofeta kasqa.",Huk evento nisqamanta kutimuspaykum huk mofeta nisqata tarirurqaniku.,"entailment
+"
+"Yachanki, llapan warmaykunam kusakuna, ancha allinkuna, manachusmá, hatun warmakunamantapas yachanmi, ichaqa",Huk hatun warmakunamantam yacharqa ichaqa llapanqa paqariyniyqa eclipsam.,"neutral
+"
+"Yachanki, llapan warmaykunam kusakuna, ancha allinkuna, manachusmá, hatun warmakunamantapas yachanmi, ichaqa",Ancha allinmi kusikuni warmaykunapa allin yachayninkunawan.,"entailment
+"
+"Yachanki, llapan warmaykunam kusakuna, ancha allinkuna, manachusmá, hatun warmakunamantapas yachanmi, ichaqa",Chiqaqtaqa warmaykunaqa mana yachaqkunam.,"contradiction
+"
+"Chaynataqmy runakuna aswan qupa quñunantapas saqirunman mmm…, mmm, volumenniy limitayqa sutillpas aswan peso limitana kaqpichusmi kachkan",Achka qupakuna limitayqa aswan qupapa llasayninpim kachkan.,"neutral
+"
+"Chaynataqmy runakuna aswan qupa quñunantapas saqirunman mmm…, mmm, volumenniy limitayqa sutillpas aswan peso limitana kaqpichusmi kachkan",Llapa runakunaqa manam anchachu qukunamanta llakikunman kayta kunan allinta mayman wikatiptinchiqa.,"neutral
+"
+"Chaynataqmy runakuna aswan qupa quñunantapas saqirunman mmm…, mmm, volumenniy limitayqa sutillpas aswan peso limitana kaqpichusmi kachkan",Llapa runakunaqa kunanqa qawarinanmi hayka qupa kasqantawan llasaynin rikurichisqanqa.,"neutral
+"
+"Chayqa kunan pantanki, qampa quchaykim, niyman","Ama llakikuychu, huk pantay kaptinqa, quchachaytam yanapasaq.","neutral
+"
+"Chayqa kunan pantanki, qampa quchaykim, niyman",Huk pantay kaptinqa qampa quchaykim.,"neutral
+"
+"Chayqa kunan pantanki, qampa quchaykim, niyman","Huk pantayta rurarquspa, kikikim chayta munaychakunayki.","neutral
+"
+Yachanki… llapanmanta costuras rurayqa chaynallataq chay ruraykunaqa huk profesional nisqapa tukunanta qunki.,Costuraskunataqa yachaywanmi ruranki.,"entailment
+"
+Yachanki… llapanmanta costuras rurayqa chaynallataq chay ruraykunaqa huk profesional nisqapa tukunanta qunki.,Apurawmanmi costurakunaqa rurakurqa chaymi saqisqa qawakun.,"neutral
+"
+Yachanki… llapanmanta costuras rurayqa chaynallataq chay ruraykunaqa huk profesional nisqapa tukunanta qunki.,Unaysum costuran tukunanpaqa karqa.,"neutral
+"
+"Arí, ari, llamkayniypiqa iskay punchawkunatam qallarinaykipaq qusunki chaymantaqa sapa watan watanmi huk punchaw, huk punchawta tawa kanankama qusunki",Pachaykiqa watan watanmi yapakuchkan.,"entailment
+"
+"Arí, ari, llamkayniypiqa iskay punchawkunatam qallarinaykipaq qusunki chaymantaqa sapa watan watanmi huk punchaw, huk punchawta tawa kanankama qusunki",Pachaykiqa manam haykappipas kimsa punchawmanta aswanninqa kanqachu.,"neutral
+"
+"Arí, ari, llamkayniypiqa iskay punchawkunatam qallarinaykipaq qusunki chaymantaqa sapa watan watanmi huk punchaw, huk punchawta tawa kanankama qusunki",Samanayki punchawkunaqa hatun llaqtapim llamkaypim yapakun.,"neutral
+"
+"Chaymi allin hatun llaqtapi yachay, manam kaykunamanta llakikunaykichu",Hatun llaqtapi yachaymi chaynakunaman sapa kuti manchakuywan yachanaykita ruran.,"contradiction
+"
+"Chaymi allin hatun llaqtapi yachay, manam kaykunamanta llakikunaykichu",Suyupi kayqa mana chaykunaman hina llakikunaykitam rurasunki.,"neutral
+"
+"Chaymi allin hatun llaqtapi yachay, manam kaykunamanta llakikunaykichu",Sumaq kaqa chakrapiqa manam chay imaynata hatun llaqtapi ruranaykikunamantaqa hina llakikunaykitachu ruran.,"neutral
+"
+"Oh, oh Dios, kusa, chayqa kusikuy hina uyarikun","Chayqa asikuy utaq kusikuy, llakikuy hina qawakun.","neutral
+"
+"Oh, oh Dios, kusa, chayqa kusikuy hina uyarikun",Chayqa huk hatun aventura nisqa nina uyarikun.,"neutral
+"
+"Oh, oh Dios, kusa, chayqa kusikuy hina uyarikun",Manchapa yachay hina qawakun.,"neutral
+"
+kunanqa Alemaniapi huk paniy kan,Kunanqa Alemaniapi huk wawqiy yachaq kan.,"neutral
+"
+kunanqa Alemaniapi huk paniy kan,Kanmi huk paniy kunan Cubapi kachkan.,"neutral
+"
+kunanqa Alemaniapi huk paniy kan,Kanmi huk paniy Alemán simita rimaq.,"entailment
+"

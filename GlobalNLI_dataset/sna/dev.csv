@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Ndobva ati, mhai, ndauya kumba",Akadaidza mai vake paakangodzaka mubhazi rechikoro,1
+"Ndobva ati, mhai, ndauya kumba",Haana chaakataura.,2
+"Ndobva ati, mhai, ndauya kumba",Akaudza mai vake kuti anga asvika kumba.,0
+Hoo rwanga rwuri rwizi rweSnake  oh rwizi rweSnake rune nyoka dzakawanda,"Zvisinei nezita rarwo, rwizi Snake harutomborina kana nyoka, rwakapiwa zita nekuda kwechimirwo charwo chekuzvonyongoka senyoka",2
+Hoo rwanga rwuri rwizi rweSnake  oh rwizi rweSnake rune nyoka dzakawanda,Snake  rune kamba dzakawanda.,1
+Hoo rwanga rwuri rwizi rweSnake  oh rwizi rweSnake rune nyoka dzakawanda,Rwizi rweSnake rwakazara nenyoka.,0
+Zvigadzirwa zve mamolecular zvemhando yepamusoro zvinosimuka  pekusarudzwa pamasikirwo azvo zvogona kushanda nehuwandu hwezvivakwa zvawo panenge musanganiswa wezvivakwa zvema molecular zvawedzera utano.,Zvigadzirwa zvemamolecular zvakango woma,2
+Zvigadzirwa zve mamolecular zvemhando yepamusoro zvinosimuka  pekusarudzwa pamasikirwo azvo zvogona kushanda nehuwandu hwezvivakwa zvawo panenge musanganiswa wezvivakwa zvema molecular zvawedzera utano.,Midziyo yemamolecular emhando yepamusoro anogona kusimuka nemamwe mamiriro.,0
+Zvigadzirwa zve mamolecular zvemhando yepamusoro zvinosimuka  pekusarudzwa pamasikirwo azvo zvogona kushanda nehuwandu hwezvivakwa zvawo panenge musanganiswa wezvivakwa zvema molecular zvawedzera utano.,Zvigadzirwa zvema Molecular zvinoshandiswa kubudisa muchetura wekuzvidzivirira,1
+Murume akatendeuka aine chikumbiro kuna Lord Julian .,Murume aida kukumbira Lord Julian chimwe chinhu .,0
+Murume akatendeuka aine chikumbiro kuna Lord Julian .,Murume aida kukumbira Lord Juliankuti aregerere mudzimai wake ..,1
+Murume akatendeuka aine chikumbiro kuna Lord Julian .,Lord Julian vaive vasisipo panzvimbo .,2
+"Kana watarisa zviwunganidzwa zvose izvi, kwira mugomo kusvika kumba kwa Komishina, kwauchanyatsoona zvakatenderedza  mhenderekedzo yegungwa",Unoona zvikepe uri pamusoro pegomo.,1
+"Kana watarisa zviwunganidzwa zvose izvi, kwira mugomo kusvika kumba kwa Komishina, kwauchanyatsoona zvakatenderedza  mhenderekedzo yegungwa",Unoona mhenderekedzo dzegunwa uri pamusoro pegomo.,0
+"Kana watarisa zviwunganidzwa zvose izvi, kwira mugomo kusvika kumba kwa Komishina, kwauchanyatsoona zvakatenderedza  mhenderekedzo yegungwa",Haugoni kuona mhenderekedzo yegungwa uri pamusoro pegomo.,2
+Zviwanikwa zvevanhu zvakasimbiswa uye nemapazi matsva akakasika kuwana rubatsiro rwekusimudzira huwandu hwevatengi,Pakusimbisa mapazi ezviwanikwa zvevanhu gwara rekuvakwa kwemamwe mapazi emabhizimisi rakamuka,1
+Zviwanikwa zvevanhu zvakasimbiswa uye nemapazi matsva akakasika kuwana rubatsiro rwekusimudzira huwandu hwevatengi,Mapazi emabhizimisi akavakwa,0
+Zviwanikwa zvevanhu zvakasimbiswa uye nemapazi matsva akakasika kuwana rubatsiro rwekusimudzira huwandu hwevatengi,Mapazi ezviwanikwa zvevanhu akawedzerwa kudarikidza mamiriro ekare,2
+"Islamist Movement yakatangwa muna 1940, chizvarwa chepfungwa chechizvino-zvino cheMarxis- Lenninist chekuumba kuba mukutsvaka rusununguko.",Pfungwa dzechiMarxist-Lennist dzakashandishwa mu Islamist movement,0
+"Islamist Movement yakatangwa muna 1940, chizvarwa chepfungwa chechizvino-zvino cheMarxis- Lenninist chekuumba kuba mukutsvaka rusununguko.",Boka re Islamic Movement rakatangwa papera makore mazana matanhatu.,2
+"Islamist Movement yakatangwa muna 1940, chizvarwa chepfungwa chechizvino-zvino cheMarxis- Lenninist chekuumba kuba mukutsvaka rusununguko.",Boka re Islamic Movement rakatangwa se boka raibatanidza vanhu.,1
+Chipo chenyu chakakosha pakupemberera mwaka wedu wemakore makumi masere nemashanu.,Chero chipo chatinowana hachina kukosha sechenyu.,1
+Chipo chenyu chakakosha pakupemberera mwaka wedu wemakore makumi masere nemashanu.,Hatina basa nechipo chenyu zvachose.,2
+Chipo chenyu chakakosha pakupemberera mwaka wedu wemakore makumi masere nemashanu.,Tanga tichiita izvi kwemakore anodarika makumi masere.,0
+Mapepanhau anobudisa nyaya pavhiki regarega anobudisa nyaya dzakahwanda dzevana kuvabereki vavo vanenge vasina kugadzikana. ,Vabereki vasina kugadzikana ndevamwe vanotarisirwa kutengeserwa nevemapepanhau anobuda kamwe pavhiki,0
+Mapepanhau anobudisa nyaya pavhiki regarega anobudisa nyaya dzakahwanda dzevana kuvabereki vavo vanenge vasina kugadzikana. ,Vemapepanhau anobuda kamwe pavhiki vanogadzira nyaya dzavo dzakakosha vakanangana nekuita zvinoda vana kana vanhu vachembera. ,2
+Mapepanhau anobudisa nyaya pavhiki regarega anobudisa nyaya dzakahwanda dzevana kuvabereki vavo vanenge vasina kugadzikana. ,"Vabereki vakateya kunyanyoshandisa mari kutenga mota itsva, zvichiita kuti kudzishambadza kubhadhare mumamagazini.",1
+Shoko rinoreva imwe nzira harifaniri kushandiswa panzvimbo yerinoreva  rimwe rinogona kuva panzvimbo iyoyo. ,Hazvina kunaka kushandisa shoko rekuti imwe nzira kureva rinoreva  chimwe chinogona kuva panzvimbo iyoyo.,0
+Shoko rinoreva imwe nzira harifaniri kushandiswa panzvimbo yerinoreva  rimwe rinogona kuva panzvimbo iyoyo. ,Zvinotenderwa kuchinjanisa shoko rekuti imwe nzira nerekuti chimwe chinogona kumira panzvimbo iyi.,2
+Shoko rinoreva imwe nzira harifaniri kushandiswa panzvimbo yerinoreva  rimwe rinogona kuva panzvimbo iyoyo. ,Vanhu vazhinji havagoni kunyatsoshandisa shoko rekuti imwe nzira nerinoreva chimwe chacho.,1

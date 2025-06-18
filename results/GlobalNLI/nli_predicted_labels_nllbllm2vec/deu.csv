@@ -1,0 +1,601 @@
+premise,hypothesis,gpt_label
+"Nun, daran dachte ich nicht einmal, aber ich war so frustriert, dass ich am Ende doch mit ihm redete.",Ich habe nicht wieder mit ihm gesprochen.,2
+"Nun, daran dachte ich nicht einmal, aber ich war so frustriert, dass ich am Ende doch mit ihm redete.","Ich war so mitgenommen, dass ich einfach wieder anfing mit ihm zu reden.",2
+"Nun, daran dachte ich nicht einmal, aber ich war so frustriert, dass ich am Ende doch mit ihm redete.",Wir hatten ein tolles Gespräch.,2
+"Sie sagten mir, dass ich am Ende von einem Kerl angerufen werden würde, um mich zu treffen.","Mir wurde nie gesagt, dass ich jemanden treffen würde.",2
+"Sie sagten mir, dass ich am Ende von einem Kerl angerufen werden würde, um mich zu treffen.","Mir wurde gesagt, dass ein Typ Bescheid bekommen würde, sich mit mir zu treffen.",0
+"Sie sagten mir, dass ich am Ende von einem Kerl angerufen werden würde, um mich zu treffen.",Der Typ kam etwas spät.,1
+"Es gibt so viel was ich darüber erzählen könnte, ich überspringe das einfach.","Ich möchte dir alles erzählen, was ich darüber weiß!",1
+"Es gibt so viel was ich darüber erzählen könnte, ich überspringe das einfach.","Ich werde nicht darüber reden, obwohl es viel zu decken gibt.",0
+"Es gibt so viel was ich darüber erzählen könnte, ich überspringe das einfach.","Ich werde nicht über die Geschichte der Stadt sprechen, weil es zu viel zu sagen gibt.",1
+Ich bin mir also nicht wirklich sicher warum.,Ich bin mir bezüglich des Grundes sicher.,2
+Ich bin mir also nicht wirklich sicher warum.,"Ich weiß nicht, warum er die Schule gewechselt hat.",1
+Ich bin mir also nicht wirklich sicher warum.,"Ich weiß nicht, warum das passiert ist.",1
+Ich war der Einzige der jemals die Regler für den Test in den Miniaturhöhenkammern laufen ließ.,"Ich fand es nicht gut die Einzige zu sein, die die Regler für die Tests bedient.",1
+Ich war der Einzige der jemals die Regler für den Test in den Miniaturhöhenkammern laufen ließ.,Versuche wurden in den Miniatur-Höhenkammern durchgeführt.,0
+Ich war der Einzige der jemals die Regler für den Test in den Miniaturhöhenkammern laufen ließ.,Ein paar von uns haben die Testregler bedient.,2
+"Ich bin äh, Chief Master Sergeant, im Ruhestand, wie Rick sagte.","Ich arbeite noch immer, bis heute.",2
+"Ich bin äh, Chief Master Sergeant, im Ruhestand, wie Rick sagte.",Ich bin 2002 in den Ruhestand gegangen.,1
+"Ich bin äh, Chief Master Sergeant, im Ruhestand, wie Rick sagte.","Rick sagte dir, dass ich im Ruhestand war.",0
+"Es gibt einige Cash-Flow-Projektionen auf meinem Schreibtisch und, ähm, es ist für so und so Cutty, das ist der Name des Kunden.",Der Kunde namens Cutty verdient 10.000 $ pro Monat.,1
+"Es gibt einige Cash-Flow-Projektionen auf meinem Schreibtisch und, ähm, es ist für so und so Cutty, das ist der Name des Kunden.",Es gibt einen Klient mit dem Name Cutty.,0
+"Es gibt einige Cash-Flow-Projektionen auf meinem Schreibtisch und, ähm, es ist für so und so Cutty, das ist der Name des Kunden.",Wir haben keine Kunden namens Cutty.,2
+"Das Mädchen, das mir helfen kann, ist auf der anderen Seite der Stadt.","Das Mädchen, von dem ich Hilfe brauche, lebt in einiger Entfernung.",2
+"Das Mädchen, das mir helfen kann, ist auf der anderen Seite der Stadt.","Das Mädchen, das mir helfen wird, ist 5 Meilen entfernt.",1
+"Das Mädchen, das mir helfen kann, ist auf der anderen Seite der Stadt.","Es gibt niemanden, der mir helfen kann.",0
+"Aber sie waren gespalten darüber, wer die Feldhände waren und wer die Hauskinder waren, es war irgendwie ...","Alle waren sich einig, dass sie alle auf den Feldern arbeiten würden.",2
+"Aber sie waren gespalten darüber, wer die Feldhände waren und wer die Hauskinder waren, es war irgendwie ...","Sie konnten sich nicht darüber einigen, wer nach draußen und wer ins Haus gehörte.",0
+"Aber sie waren gespalten darüber, wer die Feldhände waren und wer die Hauskinder waren, es war irgendwie ...","Sie konnten sich nicht einigen, wer im Baumwollfeld arbeiten sollte und wer die Böden wischen sollte.",1
+"Ich meine sie hatten nur ungefähr 5 Kinder, eines starb.",Alle ihrer Kinder überlebten.,2
+"Ich meine sie hatten nur ungefähr 5 Kinder, eines starb.",Eins von den fünf Kindern starb.,0
+"Ich meine sie hatten nur ungefähr 5 Kinder, eines starb.","Das Kind, das gestorben ist, wurde krank geboren.",1
+"Sie sagte, dass nur Tränen aus ihren Augen kamen und sie sagte, dann sagte sie, Joe kam auf die Veranda.","Als sie ihm sagte, er solle auf die Veranda kommen, hatte sie Tränen in den Augen.",0
+"Sie sagte, dass nur Tränen aus ihren Augen kamen und sie sagte, dann sagte sie, Joe kam auf die Veranda.",Sie wischte schnell die Tränen weg nachdem sie Joe von der Veranda warf.,1
+"Sie sagte, dass nur Tränen aus ihren Augen kamen und sie sagte, dann sagte sie, Joe kam auf die Veranda.","Sie war so froh, Joe zu sehen, dass sie anfing zu weinen.",1
+"Selbst wenn das Flugzeug brannte, warum würde es, es brennen, uh, und es würde durch eine Bleikomponente schmelzen, so dass die Strahlung austreten würde.",Die Strahlung kann auch im Brandfall eingedämmt werden.,1
+"Selbst wenn das Flugzeug brannte, warum würde es, es brennen, uh, und es würde durch eine Bleikomponente schmelzen, so dass die Strahlung austreten würde.","Die Strahlung würde, nachdem das Flugzeug verbrannt ist, aus einer Bleikomponente austreten.",0
+"Selbst wenn das Flugzeug brannte, warum würde es, es brennen, uh, und es würde durch eine Bleikomponente schmelzen, so dass die Strahlung austreten würde.",Die Strahlung würde während eines Feuers nicht austreten.,2
+"Dies ist Chief Master Sergeant Clem Francis, im Ruhestand von der US Air Force.",Der Chief ist aus der US Air Force in den Ruhestand getreten.,0
+"Dies ist Chief Master Sergeant Clem Francis, im Ruhestand von der US Air Force.",Der Leiter hat sich erst vor ein paar Wochen zurückgezogen.,1
+"Dies ist Chief Master Sergeant Clem Francis, im Ruhestand von der US Air Force.",Der US Air Force Chief hat gerade in dieser Woche seine Karriere begonnen.,2
+"Nun es kam soweit, dass zwei oder drei Flugzeuge pro Woche ankamen und ich nicht wusste, wohin sie flogen.",Jede Woche kommt mehr als ein Flugzeug an.,2
+"Nun es kam soweit, dass zwei oder drei Flugzeuge pro Woche ankamen und ich nicht wusste, wohin sie flogen.",Der angestiegene Flugverkehr ist problematisch,1
+"Nun es kam soweit, dass zwei oder drei Flugzeuge pro Woche ankamen und ich nicht wusste, wohin sie flogen.",Es kommen nie Flugzeuge an.,2
+"Sie hatten ihr Training bereits in den vollen Druckanzügen absolviert und ich brauchte eine Weile, den vollen Druckanzug anzuziehen.","Es dauert bis zu drei Monate, um eine Schulung über die Verwendung eines Volldruckanzuges zu absolvieren.",1
+"Sie hatten ihr Training bereits in den vollen Druckanzügen absolviert und ich brauchte eine Weile, den vollen Druckanzug anzuziehen.",Das Training der Nutzung eines Volldruckanzug braucht Zeit.,0
+"Sie hatten ihr Training bereits in den vollen Druckanzügen absolviert und ich brauchte eine Weile, den vollen Druckanzug anzuziehen.","Wir könnten dir vor Tagesende beibringen, einen kompletten Druckanzug zu benutzen.",1
+"Ich möchte sagen, dass es keine Gefahr gab mit der Bombe in die Luft zu gehen, weil sie nicht explodieren würde, egal wie hart sie auf dem Boden aufschlug.",Die Bombe wurde vom Piloten deaktiviert.,1
+"Ich möchte sagen, dass es keine Gefahr gab mit der Bombe in die Luft zu gehen, weil sie nicht explodieren würde, egal wie hart sie auf dem Boden aufschlug.",Die Bombe hatte keine Möglichkeit zu explodieren.,0
+"Ich möchte sagen, dass es keine Gefahr gab mit der Bombe in die Luft zu gehen, weil sie nicht explodieren würde, egal wie hart sie auf dem Boden aufschlug.","Es bestand eine große Gefahr, dass die Bombe explodierte.",2
+"Und wie wäre es, es sieht genau so aus, wie das, was ich versuche zu tun.","Ich bin mir nicht sicher, wie das für dich aussieht.",2
+"Und wie wäre es, es sieht genau so aus, wie das, was ich versuche zu tun.",Ich versuche das offensichtlich zu tun.,0
+"Und wie wäre es, es sieht genau so aus, wie das, was ich versuche zu tun.","Ich werde versuchen, mein Projekt nächste Woche zu beenden.",1
+"Aber trotzdem laufen die Tiere ständig davon, besonders die Ziegen.",Die Ziegen sind jeden Tag aus der Scheune ausgebrochen.,1
+"Aber trotzdem laufen die Tiere ständig davon, besonders die Ziegen.",Die Ziegen entkamen oft.,0
+"Aber trotzdem laufen die Tiere ständig davon, besonders die Ziegen.",Die Ziegen wurden sicher un geschützt gehalten.,2
+"Die Türen waren geschlossen, als er hineinging.",Alle Türen waren offen.,2
+"Die Türen waren geschlossen, als er hineinging.",Wir hatten Schlüssel dabei.,1
+"Die Türen waren geschlossen, als er hineinging.","Wir verschafften uns Eintritt, obwohl die Türen geschlossen waren.",1
+"Also, ich musste einfach die Summen nehmen und es versuchen es so zu machen.","Ich bin zuversichtlich, dass die Summe alles ist, was ich brauche, um das herauszufinden.",1
+"Also, ich musste einfach die Summen nehmen und es versuchen es so zu machen.","Ich habe keine Ahnung, was ich nur mit den Summen machen kann, bitte gib mir mehr Details, um dieses Chaos zu verstehen.",2
+"Also, ich musste einfach die Summen nehmen und es versuchen es so zu machen.",Ich werde es auf den Gesamtbeträgen basierend berechnen.,0
+"Und vieles davon liegt daran, dass die Mütter Medikamente nehmen.",Die Mütter sind Drogenabhängige.,1
+"Und vieles davon liegt daran, dass die Mütter Medikamente nehmen.",Die Mütter haben keine Arzneiverordnungen oder Medikamente.,2
+"Und vieles davon liegt daran, dass die Mütter Medikamente nehmen.",Die Mütter nehmen Drogen.,0
+Es ist sehr schön das es geregnet hat.,Der Regen macht mir nichts aus,2
+Es ist sehr schön das es geregnet hat.,Es ist schön und regnerisch.,0
+Es ist sehr schön das es geregnet hat.,Der unendliche Sonnenschein ist so schrecklich.,2
+"Oh, was menschliches Leben wert ist und ob du jemanden rehabilitieren kannst oder nicht",Jedes Leben ist es wert eine Reha zu machen und eine zweite Chance zu bekommen.,1
+"Oh, was menschliches Leben wert ist und ob du jemanden rehabilitieren kannst oder nicht","Keine Mensch verdient es, rehabilitiert zu werden.",2
+"Oh, was menschliches Leben wert ist und ob du jemanden rehabilitieren kannst oder nicht",Unabhängig von der Rehabilitation ist das Leben es wert.,2
+"Oh Junge, du hast dort ein merkwürdiges Verkabelungsproblem",Ich hatte nie ein Verkabelungproblem wie dieses.,1
+"Oh Junge, du hast dort ein merkwürdiges Verkabelungsproblem",Die Verkabelung ist nicht das Problem.,2
+"Oh Junge, du hast dort ein merkwürdiges Verkabelungsproblem",Die eigenartige Schaltung verursacht ein Problem.,1
+"hört sich nach jeder Menge Spaß an, ja es ist unglaublich wie viele Sachen die erlauben","Ich bin überhaupt nicht überrascht, dass sie nachsichtig waren.",2
+"hört sich nach jeder Menge Spaß an, ja es ist unglaublich wie viele Sachen die erlauben","Es wundert mich, dass sie dir erlauben hat, Essen und Trinken dadrin zu nehmen.",1
+"hört sich nach jeder Menge Spaß an, ja es ist unglaublich wie viele Sachen die erlauben","Ich bin überrascht, womit sie davonkommen könnten.",1
+"oh sowieso trotzdem ähm, meine Kinder sind jetzt einundzwanzig und vierundzwanzig, also muss ich nicht","Ich brauche das nicht, weil meine Kinder über zwanzig sind.",0
+"oh sowieso trotzdem ähm, meine Kinder sind jetzt einundzwanzig und vierundzwanzig, also muss ich nicht","Ich muss wahrscheinlich, da sie ihr Alter so nah aneinander ist.",1
+"oh sowieso trotzdem ähm, meine Kinder sind jetzt einundzwanzig und vierundzwanzig, also muss ich nicht","Ich muss, da sie beide zehn und elf Jahre alt sind.",0
+"Ja Leute, die, die jederzeit arbeiten könnten oder deren Entscheidungen getrübt werden könnten, wenn sie eine Entscheidung treffen müssten","Naja, Leute die nicht das beste sind um Ermessensentscheidungen zu machen.",2
+"Ja Leute, die, die jederzeit arbeiten könnten oder deren Entscheidungen getrübt werden könnten, wenn sie eine Entscheidung treffen müssten","Ja, Leute, die vielleicht keinen Hunger haben.",2
+"Ja Leute, die, die jederzeit arbeiten könnten oder deren Entscheidungen getrübt werden könnten, wenn sie eine Entscheidung treffen müssten","Ja, Leute deren Entscheidungsfähigkeiten niemals beeinträchtigt sind.",2
+"Nein, sie sind, sie sind immer noch auf Tour; sie sind seit Ende der sechziger Jahre auf Tour.",Sie gehen schon seit den späten 1980ern auf Tournee.,2
+"Nein, sie sind, sie sind immer noch auf Tour; sie sind seit Ende der sechziger Jahre auf Tour.",Sie lieben es zu reisen.,1
+"Nein, sie sind, sie sind immer noch auf Tour; sie sind seit Ende der sechziger Jahre auf Tour.",Sie haben kürzlich ihre Tour beendet.,2
+Wie würdest du Aerobic machen?,"Kannst du erklären, wie du Aerobic machen würdest?",1
+Wie würdest du Aerobic machen?,Ich interessiere mich für Aerobic weil ich kardiovaskulare Aktivitäten brauche.,1
+Wie würdest du Aerobic machen?,"Bitte hör auf, über Aerobic zu reden.",0
+"Nun, das ist ein guter, an den ich nicht gedacht hatte","Das ist eine dumme Idee, die ich letzte Woche verworfen habe.",2
+"Nun, das ist ein guter, an den ich nicht gedacht hatte",Das ist ein guter Einwand.,1
+"Nun, das ist ein guter, an den ich nicht gedacht hatte",Das von Ihnen erwähnte Paradoxon ist ein guter Punkt.,1
+"Tagesbetreuung zwei Tage die Woche  sie nenne es Senioren Tagesbetreuung, aber sie geht in das Seniorenzentrum",Die Tagesbetreuung ist nur für Kinder unter fünf Jahren täglich geöffnet.,2
+"Tagesbetreuung zwei Tage die Woche  sie nenne es Senioren Tagesbetreuung, aber sie geht in das Seniorenzentrum","Wenn die Senioren dazu bereit sind, lassen sie sie mehr als zwei mal die Woche gehen.",1
+"Tagesbetreuung zwei Tage die Woche  sie nenne es Senioren Tagesbetreuung, aber sie geht in das Seniorenzentrum","Sie nennen es eine Senioren Tagespflege, aber es heißt Senioren Zentrum.",0
+"Das war ihr Ziel, oh.",Das ist was angesterben haben.,1
+"Das war ihr Ziel, oh.","Das war nie das, was sie wollten.",2
+"Das war ihr Ziel, oh.",Sie erreichten ihr Ziel.,1
+Waffenkontrolle bedeutet zwei Hände zu benutzen.,Die Hälfte aller Waffenfehlzündungen resultiert aus der Verwendung mit einer Hand.,1
+Waffenkontrolle bedeutet zwei Hände zu benutzen.,"Der beste weiter Vorgehen für Waffenkontrolle, ist mit beider Füße zu nutzen.",2
+Waffenkontrolle bedeutet zwei Hände zu benutzen.,"Benutze beide Hände, wenn du Waffenkontrolle üben willst.",0
+"und ah, es erschien plötzlich, ich weiß nicht von wo es kommt, aber","Ich weiß nicht wo es herkommt, aber es ist schnell.",0
+"und ah, es erschien plötzlich, ich weiß nicht von wo es kommt, aber","Es kommt schnell vorbei, aber ich weiß, wo es herkommen könnte.",1
+"und ah, es erschien plötzlich, ich weiß nicht von wo es kommt, aber","Es kommt wie Melasse und ich weiß genau, wann es kommen wird.",2
+"Nein, eigentlich bin ich nicht einmal damit vertraut, denke ich",Ich weiß nicht viel darüber.,1
+"Nein, eigentlich bin ich nicht einmal damit vertraut, denke ich",Ich bin ignorant in Sachen Liebe.,1
+"Nein, eigentlich bin ich nicht einmal damit vertraut, denke ich",Ich studiere es seit Jahren.,1
+Ja sie war großartig du weißt schon sie.,"Ich denke sie wusste, dass sie fantastisch war.",1
+Ja sie war großartig du weißt schon sie.,Nein sie war furchtbar.,2
+Ja sie war großartig du weißt schon sie.,Sie war sehr gut.,0
+"Er hat gerade einen Waschlappen, wir du ihn nutzt, vorgeschlagen",Er schlug vor ein neuer Sauger zu kaufen.,2
+"Er hat gerade einen Waschlappen, wir du ihn nutzt, vorgeschlagen","Er schlug vor, einen Mopp zu finden.",2
+"Er hat gerade einen Waschlappen, wir du ihn nutzt, vorgeschlagen",Er wollte das Blut mit einem Wischmopp säubern.,2
+"Es ist wirklich schlimm hier draußen, wir hatten eben erst eine Schießerei auf dem Freeway, circa drei Blocks von unserem Haus entfernt",Die Dreharbeiten waren mindestens 100 Meilen von meinem Wohnort entfernt.,2
+"Es ist wirklich schlimm hier draußen, wir hatten eben erst eine Schießerei auf dem Freeway, circa drei Blocks von unserem Haus entfernt","Das Schießen war in der Nähe meines Hauses und es macht mir Angst, nach draußen zu gehen.",1
+"Es ist wirklich schlimm hier draußen, wir hatten eben erst eine Schießerei auf dem Freeway, circa drei Blocks von unserem Haus entfernt","Es gab ein Schießerei in der Nähe meines Hauses, es ist wirklich nicht gut in dieser Gegend.",0
+mhm das stimmt es ist es ist nicht wirklich äh konsistent,"Ich stimme dir nicht zu, es ist sehr beständig.",2
+mhm das stimmt es ist es ist nicht wirklich äh konsistent,Ich glaube du hast Recht über diese Konsistenz.,1
+mhm das stimmt es ist es ist nicht wirklich äh konsistent,"Wir haben Recht damit, dass es nicht einheitlich ist.",0
+ich versuche durchzuhalten,Ich versuche kurz zu warten.,2
+ich versuche durchzuhalten,Ich gebe wirklich mein Bestes.,1
+ich versuche durchzuhalten,Ich werde loslassen und niemals zurückblicken.,2
+Wir versperren unseren Eintritt in die technologische Zukunft.,Wir bauen die Wegbereiter für eine Zukunft mit Technologie.,0
+Wir versperren unseren Eintritt in die technologische Zukunft.,"Wir bauen Transistoren, daher wird unsere Zukunft von AI bestimmt.",1
+Wir versperren unseren Eintritt in die technologische Zukunft.,"Wir wollen verhindern, dass Technologie erfolgreich ist.",1
+"Zum Beispiel, im Maximum, werden alle Gene violett.",Maximal kann nur die Hälfte der Gene lila werden.,2
+"Zum Beispiel, im Maximum, werden alle Gene violett.","Es ist möglich, dass die Gene die Farbe wechseln.",1
+"Zum Beispiel, im Maximum, werden alle Gene violett.",Manchmal können Gene auch blau werden.,1
+Daniel Yamins ist ein brillanter junger Mathematiker.,Herr Zamins ist gut in Mathe.,0
+Daniel Yamins ist ein brillanter junger Mathematiker.,Herr Yamins konzentriert sich auf die algebraische Geometrie.,1
+Daniel Yamins ist ein brillanter junger Mathematiker.,"Herr Yamins's ist ein großartiger Künstler, aber ein furchtbarer Mathematiker.",1
+"Und wenn ja, sind sie oft in der Nähe dieser Grenze?","Ich weiß, sie reisen niemals in der Nähe der Grenzlinie.",2
+"Und wenn ja, sind sie oft in der Nähe dieser Grenze?","Ich möchte wissen, sind sie oft in England?",2
+"Und wenn ja, sind sie oft in der Nähe dieser Grenze?","Der Sprecher wollte wissen, wie oft sie sich der Abgrenzung genähert haben.",1
+"Und ich glaube, es gibt einen molekularen Hinweis darauf, dass die Biosphäre sich im überlebenden Regime für eine sich ausbreitende Reihe von Linien fortwährend selbst mitentwickelt.",Die Biosphäre verändert sich stark.,2
+"Und ich glaube, es gibt einen molekularen Hinweis darauf, dass die Biosphäre sich im überlebenden Regime für eine sich ausbreitende Reihe von Linien fortwährend selbst mitentwickelt.",Veränderungen in der Biosphäre gemäß der Temperatur.,1
+"Und ich glaube, es gibt einen molekularen Hinweis darauf, dass die Biosphäre sich im überlebenden Regime für eine sich ausbreitende Reihe von Linien fortwährend selbst mitentwickelt.",Die Biosphäre verändert sich nie.,2
+"Mit diesen Sprung, kann ein regulärer Kristall nicht viele Informationen decodieren.",Gleichmäßige Kristalle sind ein sehr kompaktes Medium zur Aufbewahrung von Informationen.,2
+"Mit diesen Sprung, kann ein regulärer Kristall nicht viele Informationen decodieren.",Normale Kristalle sind nicht sehr nützlich für die Kodierung von Informationen.,0
+"Mit diesen Sprung, kann ein regulärer Kristall nicht viele Informationen decodieren.","Es gibt andere Kristallarten, die nützlich sind um geographische Informationen mittels Laser Strahlen zu entziffern.",1
+"Daher sollten Erwachsene die Vorschüler nicth belehren in dem sie etwas vormachen, wie sie manchmal beim zusammensetzen eines Puzzles oder ähnlicher Aufgaben machen.",Vorschulkinder sind natürlich besser im Lösen von Rätseln als beim Spiele spielen.,1
+"Daher sollten Erwachsene die Vorschüler nicth belehren in dem sie etwas vormachen, wie sie manchmal beim zusammensetzen eines Puzzles oder ähnlicher Aufgaben machen.",Vorschüler brauchen nicht so viel Hilfe um zu lernen wie man vortäuscht.,1
+"Daher sollten Erwachsene die Vorschüler nicth belehren in dem sie etwas vormachen, wie sie manchmal beim zusammensetzen eines Puzzles oder ähnlicher Aufgaben machen.","Vorschulkindern fehlt die nötige Fähigkeit für räumliches Denken, um selber Puzzles zu lösen.",1
+[Diese Nation wurde] in Freiheit erschaffen und Prämisse gewidmed dass alle Menschen gleich erschaffen sind.,Notizen zu diesem Vorschlag wurden in mehreren zusätzlichen Dokumenten festgehalten.,1
+[Diese Nation wurde] in Freiheit erschaffen und Prämisse gewidmed dass alle Menschen gleich erschaffen sind.,"Manche Leute glaubten, dass alle Menschen gleich sind.",1
+[Diese Nation wurde] in Freiheit erschaffen und Prämisse gewidmed dass alle Menschen gleich erschaffen sind.,"Diese Nation wurde auf der Überzeugung gegründet, dass manche Menschen von Natur aus besser sind als andere.",2
+Sollte ich ihn mehr preisen?,"Ich bin mir ziemlich sicher, dass ich ihn wegen seiner Fehler schlagen muss.",1
+Sollte ich ihn mehr preisen?,"Ich frage mich, ob er mehr Wertschätzung von mir braucht.",0
+Sollte ich ihn mehr preisen?,Sollte ich ihn für seine Darbietung am Klavier mehr loben?,1
+Spin-Netzwerk-Theorien können in verschiedenen Dimensionen konstruiert werden.,Andere Dimensionen können benutzt werden um Spin-Netzwerk Theorien zu erstellen.,0
+Spin-Netzwerk-Theorien können in verschiedenen Dimensionen konstruiert werden.,Spinnetzwerke sind sehr nützlich für Datenspeichertechnologien.,1
+Spin-Netzwerk-Theorien können in verschiedenen Dimensionen konstruiert werden.,Spin-Netzwerke sind in anderen Dimensionen unvorstellbar.,2
+"(verzweifelt) Nein, nein, ich will nicht dass du stirbst!","Ich will nicht, dass du stirbst!",0
+"(verzweifelt) Nein, nein, ich will nicht dass du stirbst!",Es ist mir egal ob du stirbst!,2
+"(verzweifelt) Nein, nein, ich will nicht dass du stirbst!","Ich wäre sehr traurig, wenn du sterben würdest!",1
+"Er wurde am 19ten März in San Jose, Kalifornien öffentlich gehängt.",Kalifornien führte noch bis 1875 öffentliche Hinrichtungen durch.,2
+"Er wurde am 19ten März in San Jose, Kalifornien öffentlich gehängt.",Er wurde vom Fehlverhalten freigesprochen und auf den Weg gebracht.,1
+"Er wurde am 19ten März in San Jose, Kalifornien öffentlich gehängt.",Er wurde für Volksverhetzung und Pferdediebstahl gehangen.,1
+Im chaotischen Regime scheint das funkelnde grüne Meer.,Das Meer war tiefblau und glatt wie Glas.,2
+Im chaotischen Regime scheint das funkelnde grüne Meer.,"Das Meer war mit kleinen Fischen gefüllt, die gegen das Boot platschten.",1
+Im chaotischen Regime scheint das funkelnde grüne Meer.,Das Meer war grün und schien zu blubbern.,1
+"Eine völlig neue Rechtsordnung war im Aufmarsch, um sich vom Aufruhr der 1860er Jahre loszureißen.",Im Jahre 1870 waren alle gesetzlichen Ordnungen zusammengebrochen und das Land war in absoluter Anarchie.,2
+"Eine völlig neue Rechtsordnung war im Aufmarsch, um sich vom Aufruhr der 1860er Jahre loszureißen.",Die 1860er Jahre waren eine turbulente Zeit.,1
+"Eine völlig neue Rechtsordnung war im Aufmarsch, um sich vom Aufruhr der 1860er Jahre loszureißen.",Die neue Rechtsordnung wollte die Arbeitnehmerrechte erweitern.,1
+"Jede höhere Form des Denkens, so betonte er, erscheint zuerst in der sozialen Kommunikation, zwischen dem Kind und den Vertretern seiner Kultur, wenn sie eine gemeinsame Aktivität ausüben.","Kinder sind nicht in der Lage, höhere Denkformen zu teilen.",2
+"Jede höhere Form des Denkens, so betonte er, erscheint zuerst in der sozialen Kommunikation, zwischen dem Kind und den Vertretern seiner Kultur, wenn sie eine gemeinsame Aktivität ausüben.","Angeln ist ein beliebtes Hobby, dass in vielen Kulturen geteilt wird.",1
+"Jede höhere Form des Denkens, so betonte er, erscheint zuerst in der sozialen Kommunikation, zwischen dem Kind und den Vertretern seiner Kultur, wenn sie eine gemeinsame Aktivität ausüben.","Das Teilen gemeinsamer Aktivitäten ist manchmal hilfreich, um höhere Denkformen zu teilen.",1
+"In einigen Stadtvierteln gab es Rezadores oder Rezadoras, geistliche Führer, die die Gemeinde im Gebet um Beerdigungen, Feierlichkeiten zum Heiligen Tag und wann immer der Priester nicht erreichbar war, anführten.",Keine der Nachbarschaften hatte geistige Führer die nicht Priester waren.,2
+"In einigen Stadtvierteln gab es Rezadores oder Rezadoras, geistliche Führer, die die Gemeinde im Gebet um Beerdigungen, Feierlichkeiten zum Heiligen Tag und wann immer der Priester nicht erreichbar war, anführten.","Einige Nachbarschaften hatten spirituelle Führer, die keine Priester waren.",0
+"In einigen Stadtvierteln gab es Rezadores oder Rezadoras, geistliche Führer, die die Gemeinde im Gebet um Beerdigungen, Feierlichkeiten zum Heiligen Tag und wann immer der Priester nicht erreichbar war, anführten.",Einige der spirituellen Führer hatten schwarze Haare.,1
+"Auch im soziodramatischen Spiel helfen die Möglichkeiten, verschiedene Rollen zu spielen und zu koordinieren, Kindern wahrscheinlich Ähnlichkeiten und Unterschiede zwischen Menschen in Wünschen, Überzeugungen und Gefühlen zu verstehen.","Kinder können lernen, wie Menschen ähnlich und anders sind.",0
+"Auch im soziodramatischen Spiel helfen die Möglichkeiten, verschiedene Rollen zu spielen und zu koordinieren, Kindern wahrscheinlich Ähnlichkeiten und Unterschiede zwischen Menschen in Wünschen, Überzeugungen und Gefühlen zu verstehen.","Kinder können sehen, wie unterschiedlich die Rassen sind.",1
+"Auch im soziodramatischen Spiel helfen die Möglichkeiten, verschiedene Rollen zu spielen und zu koordinieren, Kindern wahrscheinlich Ähnlichkeiten und Unterschiede zwischen Menschen in Wünschen, Überzeugungen und Gefühlen zu verstehen.",Kinder können nichts lernen.,2
+Die höchste Tugend der deutschen Verfassungsordnung der Nachkriegszeit war also genau das größte Opfer des NS-Regimes.,Die Nazi-Regime erlaubte es.,2
+Die höchste Tugend der deutschen Verfassungsordnung der Nachkriegszeit war also genau das größte Opfer des NS-Regimes.,Das Nazi-Regime hat alle Beteiligten getötet.,1
+Die höchste Tugend der deutschen Verfassungsordnung der Nachkriegszeit war also genau das größte Opfer des NS-Regimes.,Das Nazi-Regime hat es gestoppt.,1
+"Das Kind Sonja hat angefangen, die Wutanfälle ihrer Tochter nachzuahmen.",Niemand hatte einen Wutanfall.,2
+"Das Kind Sonja hat angefangen, die Wutanfälle ihrer Tochter nachzuahmen.",Sonja ist ein Kind.,0
+"Das Kind Sonja hat angefangen, die Wutanfälle ihrer Tochter nachzuahmen.",Sonja war traurig.,2
+6 In den fünfundfünfzig Jahren vor dem Bürgerkrieg benutzte der Gerichtshof diese Macht sparsam.,Der Gerichtshof nutze diese Macht gelegentlich in den Dekaden bis zum Bürgerkrieg.,0
+6 In den fünfundfünfzig Jahren vor dem Bürgerkrieg benutzte der Gerichtshof diese Macht sparsam.,Das Gericht hat diese Macht in den fünfundfünfzig Jahren vor dem Bürgerkrieg viermal genutzt.,2
+6 In den fünfundfünfzig Jahren vor dem Bürgerkrieg benutzte der Gerichtshof diese Macht sparsam.,Der Gerichtshof nutzte diese Macht 5 Millionen mal in den fünf und fünfzig Jahren führend bis zum Bürgerkrieg.,1
+"Ich versichere Ihnen, mein Herr, dass ich über alles informiert war.","I sage dir, dass mir über alles Wissen gegeben wurde.",0
+"Ich versichere Ihnen, mein Herr, dass ich über alles informiert war.",Es ist der Tod des Detektives über den ich informiert wurde.,1
+"Ich versichere Ihnen, mein Herr, dass ich über alles informiert war.",Es gibt viele Kleinigkeiten die vor mir versteckt wurden.,1
+Die Geräusche störten Captain Blood von seinen verdrossenen Träumereien.,Captain Blood konnte ohne Unterbrechung in seinen verärgerten Gedanken schwelgen.,2
+Die Geräusche störten Captain Blood von seinen verdrossenen Träumereien.,Kapitän Bloods Gedanken wurden durch ein paar Geräusche unterbrochen.,0
+Die Geräusche störten Captain Blood von seinen verdrossenen Träumereien.,Die Schreie des Welpen risen den Kapitän aus seinen Gedanken.,1
+"Doch ich kann nicht vergessen, dass du mich, als ich wenig mehr als ein Sklave im Haushalt deines Onkels in Barbados war, mit einer gewissen Freundlichkeit behandelt hast.","Sie haben mich gütig behandelt, als ich Sklave auf Barbados war.",0
+"Doch ich kann nicht vergessen, dass du mich, als ich wenig mehr als ein Sklave im Haushalt deines Onkels in Barbados war, mit einer gewissen Freundlichkeit behandelt hast.",Du warst unglaublich grausam zu mir und behandeltest mich schlimmer als Dreck.,2
+"Doch ich kann nicht vergessen, dass du mich, als ich wenig mehr als ein Sklave im Haushalt deines Onkels in Barbados war, mit einer gewissen Freundlichkeit behandelt hast.","Als dein Onkel mich besessen hat, hat er mich jeden Tag verprügelt.",1
+"Dort, nicht mehr als drei Meilen entfernt, war Land - eine unebene Wand aus kräftigem Grün, die den westlichen Horizont füllte.",Eine üppige Landschaft war in Sichtweite.,0
+"Dort, nicht mehr als drei Meilen entfernt, war Land - eine unebene Wand aus kräftigem Grün, die den westlichen Horizont füllte.","Die Insel, der sie sich näherten, war unbewohnt.",2
+"Dort, nicht mehr als drei Meilen entfernt, war Land - eine unebene Wand aus kräftigem Grün, die den westlichen Horizont füllte.","Sie konnten meilenweit kein Land erkennen, nur unendliches Meer.",2
+Ich bin der Gesandte seiner Majestät für diese barbarischen Gebiete und der nahe Verwandte meines Herrn Sunderland.,Seine Majestät hat Abgesandte und ich bin einer davon.,0
+Ich bin der Gesandte seiner Majestät für diese barbarischen Gebiete und der nahe Verwandte meines Herrn Sunderland.,Seine Majestät hat mich vor etwa einer Woche hierhergeschickt.,1
+Ich bin der Gesandte seiner Majestät für diese barbarischen Gebiete und der nahe Verwandte meines Herrn Sunderland.,Ich nehme keine Anweisungen von seiner Majestät an.,2
+"Ich schulde es dir - oder dachte ich tat es, sagte er.","Er hatte nicht gedacht, dass er dir irgendetwas schulden würde.",2
+"Ich schulde es dir - oder dachte ich tat es, sagte er.","Er schuldet dir noch was für deine Hilfe, als du noch ein Bettler warst.",1
+"Ich schulde es dir - oder dachte ich tat es, sagte er.",Er dachte er schuldet dir etwas.,0
+"Ich hätte es besser wissen sollen, als nachts so nahe bei Jamaika zu sein.",Ich bin nach Sonnenuntergang in die Nähe von Jamaika gereist.,2
+"Ich hätte es besser wissen sollen, als nachts so nahe bei Jamaika zu sein.",Ich bin mit einem großen Boot nach Jamaica gereist.,1
+"Ich hätte es besser wissen sollen, als nachts so nahe bei Jamaika zu sein.",Meine Frau und ich kamen am helllichten Tag in Jamaica an.,2
+"Bloods Gedanken drehten sich darum und um andere Angelegenheiten, während er auf der Schlafcouch ausruhte.",Blood schlief einen gedankenlosen Schlaf auf seinem Ruhebett.,2
+"Bloods Gedanken drehten sich darum und um andere Angelegenheiten, während er auf der Schlafcouch ausruhte.","Blood grübelte, während er sich ausruhte.",0
+"Bloods Gedanken drehten sich darum und um andere Angelegenheiten, während er auf der Schlafcouch ausruhte.","Blood dachte angestrengt darüber nach, wann er seine Mutter das letzte Mal gesehen hatte.",1
+"Klar, dann erzähl ich dir.","Also gut, ich werde Ihnen davon erzählen.",0
+"Klar, dann erzähl ich dir.",Ich werde dir kein Wort sagen.,2
+"Klar, dann erzähl ich dir.","Es ist nur, weil du mir versprochen hast, das nicht zu wiederholen, dass ich es dir erzähle.",1
+Ah! Und wie könnte das sein?,"Jemand fragt, welcher Weg zu nehmen sei.",2
+Ah! Und wie könnte das sein?,"Der Fragen stellende ist alleine und hat niemanden, mit dem er sich beraten kann.",2
+Ah! Und wie könnte das sein?,Der Fragesteller ist in Eile und muss sofort den Weg kennen.,1
+Ich gewähre die Königskommission nicht leichtfertig.,"Den Auftrags des König's zu gewähren, ist gegen meine Moral.",1
+Ich gewähre die Königskommission nicht leichtfertig.,Ich habe gründlich über den Auftrag des Königs nachgedacht.,1
+Ich gewähre die Königskommission nicht leichtfertig.,"Ich unterzeichnete den Haftbefehl, um die Kommission des Königs ohne einen zweiten Gedanken zu gewähren.",2
+"Ihm wurde klar, dass er sich unter Umständen schnell zurückziehen muss.","Ihm wurde klar, dass er den ganzen Tag Zeit hatte sich zurückzuziehen.",1
+"Ihm wurde klar, dass er sich unter Umständen schnell zurückziehen muss.","Er erkannte, dass er einen schnellen Schritt machen musste.",0
+"Ihm wurde klar, dass er sich unter Umständen schnell zurückziehen muss.","Wenn er am selben Ort bliebe, würde man ihn entdecken.",1
+"Und doch war er, was er war und tat, was er tat in diesen letzten drei Jahren, sagte sie, aber sie sagte es jetzt traurig, ohne ihre vorige Verachtung.","Es gefiel ihr nicht, dass er in den letzten drei Jahren viele Männer ermordet hatte.",1
+"Und doch war er, was er war und tat, was er tat in diesen letzten drei Jahren, sagte sie, aber sie sagte es jetzt traurig, ohne ihre vorige Verachtung.",Sie sprach glücklich über seine Abenteuer und seine Personalität.,2
+"Und doch war er, was er war und tat, was er tat in diesen letzten drei Jahren, sagte sie, aber sie sagte es jetzt traurig, ohne ihre vorige Verachtung.",Sie sprach in einem traurigen Tonfall.,0
+"Ich nehme an, das ist nach der Mode deines Stils.","Ich nehme an, dass dies ist, was Ihre Art von Menschen tun.",1
+"Ich nehme an, das ist nach der Mode deines Stils.",Ich habe über deine Leute und ihre Kultur gelesen.,1
+"Ich nehme an, das ist nach der Mode deines Stils.",Das scheint bei euch nicht üblich zu sein.,2
+Ein Stirnrunzeln legte ihre Braue in Falten.,Ein breites Grinsen breitete sich auf ihrem Gesicht aus.,2
+Ein Stirnrunzeln legte ihre Braue in Falten.,Sie spürte ein ekelerregendes Gefühl in ihrem Magen.,1
+Ein Stirnrunzeln legte ihre Braue in Falten.,Sie blickte finster drein.,2
+"Sie hatte ihn mit leuchtenden Augen beobachtet, doch bei Anblick seines niedergeschlagenen Gesichts und des tiefen Stirnrunzelns, das seine Augenbraue vernarbte, veränderte sich ihr eigener Gesichtsausdruck.","Ihr Ausdruck änderte sich, nachdem sie sein Gesicht sah.",0
+"Sie hatte ihn mit leuchtenden Augen beobachtet, doch bei Anblick seines niedergeschlagenen Gesichts und des tiefen Stirnrunzelns, das seine Augenbraue vernarbte, veränderte sich ihr eigener Gesichtsausdruck.","Ihr Gesicht erhellte sich, als sie seinen finsteren Blick sah.",2
+"Sie hatte ihn mit leuchtenden Augen beobachtet, doch bei Anblick seines niedergeschlagenen Gesichts und des tiefen Stirnrunzelns, das seine Augenbraue vernarbte, veränderte sich ihr eigener Gesichtsausdruck.","Sie wusste nicht, ob er wütend auf sie war.",1
+Gemütlich ging er um die ummauerte Mauer und durchquerte die großen Tore in dem Hof.,"Da die großen Tore geschlossen waren, hüpfte er über den Zaun in den Innenhof.",1
+Gemütlich ging er um die ummauerte Mauer und durchquerte die großen Tore in dem Hof.,Die großen Tore waren der einzige Eingang zum Innenhof.,1
+Gemütlich ging er um die ummauerte Mauer und durchquerte die großen Tore in dem Hof.,Große Tore führten in den Hof.,0
+"Ich bezweifele nicht, dass Sie [...], sagte er verächtlich.","Er dachte, jemand würde zum Galgen gehen.",1
+"Ich bezweifele nicht, dass Sie [...], sagte er verächtlich.","Er war der Sheriff, der den Dieb gestellt hatte.",1
+"Ich bezweifele nicht, dass Sie [...], sagte er verächtlich.","Er flüsterte einen Weg aus dem Land, um das Gefängnis zu vermeiden.",1
+Wie konnte ich sie in aller Ehrlichkeit inhaftieren? Es war darüber hinaus.,"Ich konnte mich nicht dazu bringen, sie zu verhaften.",2
+Wie konnte ich sie in aller Ehrlichkeit inhaftieren? Es war darüber hinaus.,"Ich verhaftete sie, sobald ich sie sah.",2
+Wie konnte ich sie in aller Ehrlichkeit inhaftieren? Es war darüber hinaus.,"Ich hätte es mir nicht vergeben können, wenn ich sie festgenommen hätte.",1
+Ich bin ihm letztes Jahr hinterhergelaufen.,Ich habe ihn ohne sein Wissen ein Jahr lang verfolgt.,0
+Ich bin ihm letztes Jahr hinterhergelaufen.,Ich bin ihm nur eine knappe Woche gefolgt.,2
+Ich bin ihm letztes Jahr hinterhergelaufen.,Ich habe ihn im letzten Jahr verfolgt.,0
+Das Museum bietet nicht viele Kataloge oder Beschriftungen.,Das Museum wird nicht gerne bewertet.,0
+Das Museum bietet nicht viele Kataloge oder Beschriftungen.,Das Museum ist kein Fan von Broschüren.,1
+Das Museum bietet nicht viele Kataloge oder Beschriftungen.,Die Stärke des Museums ist sein Katalog.,2
+Diese Märkte unter freiem Himmel sind auch die interessantesten Plätze zum shoppen  in Beijing.,"Beijing hat Märkte unter freiem Himmel, mit vielen interessanten Läden.",0
+Diese Märkte unter freiem Himmel sind auch die interessantesten Plätze zum shoppen  in Beijing.,Die Freiluftmärkte in Peking sind die interessantesten der Welt.,1
+Diese Märkte unter freiem Himmel sind auch die interessantesten Plätze zum shoppen  in Beijing.,Die strengen Gesetze in Peking verbieten Open-Air-Märkte innerhalb der Stadtgrenze.,2
+"Die größte Bucht an der nordwestlichen Küste eignet sich gut als Hafen, aber sowohl Wasser, wie auch Strand können dreckig sein",Das Wasser und der Strand sind immer sauber.,2
+"Die größte Bucht an der nordwestlichen Küste eignet sich gut als Hafen, aber sowohl Wasser, wie auch Strand können dreckig sein",Das Wasser und der Strand können schmutzig sein.,0
+"Die größte Bucht an der nordwestlichen Küste eignet sich gut als Hafen, aber sowohl Wasser, wie auch Strand können dreckig sein",Das Wasser ist wegen der Umweltverschmutzung verunreinigt.,1
+"Diese Wolkenkratzer sind Banken, und die Straße, auf der sie stehen, hat den Spitznamen Milla de Oro oder Goldene Meile.",Keiner der Wolkenkratzer auf der Golden Mile sind Banken.,2
+"Diese Wolkenkratzer sind Banken, und die Straße, auf der sie stehen, hat den Spitznamen Milla de Oro oder Goldene Meile.",Die Wolkenkratzer an der Goldenen Meile sind Banken.,0
+"Diese Wolkenkratzer sind Banken, und die Straße, auf der sie stehen, hat den Spitznamen Milla de Oro oder Goldene Meile.","Die Wolkenkratzer auf der Goldenen Meile sind verschiedene Arten von Unternehmen, darunter Banken.",1
+"Es hat sich von selbst verstanden, dass die Beteiligung am Zweiten Weltkrieg mit einem britischen Commonwealth Lufttrainingsplan begann, der Kanadas sichereren Luftraum dazu benutzte, um Piloten auf den Kampf vorzubereiten.",Kanada hatte einen sichereren Himmel.,0
+"Es hat sich von selbst verstanden, dass die Beteiligung am Zweiten Weltkrieg mit einem britischen Commonwealth Lufttrainingsplan begann, der Kanadas sichereren Luftraum dazu benutzte, um Piloten auf den Kampf vorzubereiten.",Kanadas Himmel war frei von Raketen.,1
+"Es hat sich von selbst verstanden, dass die Beteiligung am Zweiten Weltkrieg mit einem britischen Commonwealth Lufttrainingsplan begann, der Kanadas sichereren Luftraum dazu benutzte, um Piloten auf den Kampf vorzubereiten.",Kanadas Himmel war gefährlicher.,1
+"Und sie bleiben tolerant und hilfsbereit, obwohl sie wissen, dass ihre schöne Küste nicht mehr ihnen gehört.","Sie sind jetzt jedem gegenüber bitter und verärgert, da sie die Küste teilen müssen.",2
+"Und sie bleiben tolerant und hilfsbereit, obwohl sie wissen, dass ihre schöne Küste nicht mehr ihnen gehört.",Nun müssen sie die Küste mit anderen Menschen teilen.,1
+"Und sie bleiben tolerant und hilfsbereit, obwohl sie wissen, dass ihre schöne Küste nicht mehr ihnen gehört.",Sie besaßen früher fünfhundert Meilen Küstenfront.,1
+"Kublai Khan hat 1279 seine eigene Hauptstadt am Ufer des Beihai Sees in Peking errichtet, wo einige seiner kaiserlichen Schätze bis heute ausgestellt werden.",Kublai Khan errichtete eine Hauptstadt in Taiwan.,2
+"Kublai Khan hat 1279 seine eigene Hauptstadt am Ufer des Beihai Sees in Peking errichtet, wo einige seiner kaiserlichen Schätze bis heute ausgestellt werden.",Kublai Khan hat Schätze in Peking.,0
+"Kublai Khan hat 1279 seine eigene Hauptstadt am Ufer des Beihai Sees in Peking errichtet, wo einige seiner kaiserlichen Schätze bis heute ausgestellt werden.",Kublai Kahn war ein sehr angesehener Mann.,1
+Sie haben sich leichter in die britische Gemeinschaft integriert. Nur protestantische Schulen akzeptierten ihre Kinder. Ost-europäische Juden haben ihre Abschlüsse in der wohlhabenden Stadt Westmount gemacht oder sind wieder nach Toronto ausgewandert.,Osteuropäische Juden passen sich gut an Anderen an.,0
+Sie haben sich leichter in die britische Gemeinschaft integriert. Nur protestantische Schulen akzeptierten ihre Kinder. Ost-europäische Juden haben ihre Abschlüsse in der wohlhabenden Stadt Westmount gemacht oder sind wieder nach Toronto ausgewandert.,Die Juden sind vom Rest der Gemeinde nicht erwünscht.,1
+Sie haben sich leichter in die britische Gemeinschaft integriert. Nur protestantische Schulen akzeptierten ihre Kinder. Ost-europäische Juden haben ihre Abschlüsse in der wohlhabenden Stadt Westmount gemacht oder sind wieder nach Toronto ausgewandert.,Die Juden assimilierten sich leichter mit der Anglo-Gemeinschaft.,0
+"Wenn möglich, machen Sie sich im Voraus mit der Handlung vertraut.",Vertiefe dich nicht voreilig in der Handlung; es wird dir später den Spaß verderben.,2
+"Wenn möglich, machen Sie sich im Voraus mit der Handlung vertraut.","Versuche die Handlung im Voraus zu verstehen, falls du kannst.",0
+"Wenn möglich, machen Sie sich im Voraus mit der Handlung vertraut.","Dir wird der Kurs leichter fallen, wenn du die Handlung des Buches verstehst.",1
+"Seine Grabkammern, 27 m (88ft) unter der Erde, sind aus Marmor und umfassen 1.200 m² (13.000 sq ft).",Er ist mehr als 20 Meter unter der Erde begraben.,0
+"Seine Grabkammern, 27 m (88ft) unter der Erde, sind aus Marmor und umfassen 1.200 m² (13.000 sq ft).",Er war eine wichtige Person des öffentlichen Lebens.,1
+"Seine Grabkammern, 27 m (88ft) unter der Erde, sind aus Marmor und umfassen 1.200 m² (13.000 sq ft).",Seine Grabkammern sind aus Holz.,2
+"Denken Sie daran, bewegliches Eigentum vor den Affen zu verstecken.",Verstecken Sie Ihre Sachen vor den Affen.,0
+"Denken Sie daran, bewegliches Eigentum vor den Affen zu verstecken.","Die Affen sind an vielen Dingen interressiert, inklusive deinen Sachen.",1
+"Denken Sie daran, bewegliches Eigentum vor den Affen zu verstecken.",Sie müssen Ihre Besitztümer nicht vor den Affen verstecken.,2
+Etwa 1.400 Jahre vor der Errichtung des Palastes von Este war Milreu auch das große Landhaus einer bedeutenden Persönlichkeit.,Milreu war 10 Meilen von allem entfernt.,1
+Etwa 1.400 Jahre vor der Errichtung des Palastes von Este war Milreu auch das große Landhaus einer bedeutenden Persönlichkeit.,Milreu war außer Landes.,2
+Etwa 1.400 Jahre vor der Errichtung des Palastes von Este war Milreu auch das große Landhaus einer bedeutenden Persönlichkeit.,Milreu war direkt im Herzen der Stadt.,1
+Temperaturen im Ozean liegen zwischen 18° und 24° C (64-75° F).,"Die Meerestemperatur ändert sich ständig, aber sie geht nicht unter die Gefriertemperatur.",1
+Temperaturen im Ozean liegen zwischen 18° und 24° C (64-75° F).,Die Meerestemperatur ist ganzjährig konstant.,2
+Temperaturen im Ozean liegen zwischen 18° und 24° C (64-75° F).,"Die Temperaturen sind tagsüber höher, wenn es wärmer ist.",1
+Der Knabalu-Nationalpark ist nur eines von sechs Schutzgebieten im Staat.,Der Kinabalu Nationalpark hat zehn Elefanten und sechs Nashörner.,1
+Der Knabalu-Nationalpark ist nur eines von sechs Schutzgebieten im Staat.,"Der Staat hat geschützte Regionen, zu denen der Kinabalu-Nationalpark gehört.",0
+Der Knabalu-Nationalpark ist nur eines von sechs Schutzgebieten im Staat.,Es gibt ein Total von drei geschützten Regionen in dem Staat.,2
+"Sie haben die Möglichkeit, sich Videos mit der Geschichte Annes und der Besetzung Amsterdams anzusehen, zusammen mit Fotografien und Ausstellungsstücken aus dieser Zeit.",Du wirst die Fotos nicht sehen.,2
+"Sie haben die Möglichkeit, sich Videos mit der Geschichte Annes und der Besetzung Amsterdams anzusehen, zusammen mit Fotografien und Ausstellungsstücken aus dieser Zeit.",Du wirst Fotos sehen.,0
+"Sie haben die Möglichkeit, sich Videos mit der Geschichte Annes und der Besetzung Amsterdams anzusehen, zusammen mit Fotografien und Ausstellungsstücken aus dieser Zeit.",Du wirst einige der ersten Fotografien sehen.,1
+"Treasure Beach ist der einzige redenswerte Ferienort, mit einer Handvoll Hotels, die sich über drei Sandbuchten erstrecken.",Es gibt nicht viele Hotel Optionen für Leute die Treasure Beach besuchen.,0
+"Treasure Beach ist der einzige redenswerte Ferienort, mit einer Handvoll Hotels, die sich über drei Sandbuchten erstrecken.","Es gibt ein Vier-Sterne-Hotel für Touristen, die Treasure Beach besuchen.",1
+"Treasure Beach ist der einzige redenswerte Ferienort, mit einer Handvoll Hotels, die sich über drei Sandbuchten erstrecken.",Treasure Beach ist einer der vielen Ferienorte in der Gegend.,2
+"Der Sommer bringt warmes (aber nicht heißes) Wetter und warme Meerestemperaturen, was es ideal fürs Tauchen, Schnorcheln und anderen Wassersportarten macht.",Es ist immer 100 Grad oder wärmer im Sommer.,2
+"Der Sommer bringt warmes (aber nicht heißes) Wetter und warme Meerestemperaturen, was es ideal fürs Tauchen, Schnorcheln und anderen Wassersportarten macht.",Es ist normalerweise 75 im Sommer.,1
+"Der Sommer bringt warmes (aber nicht heißes) Wetter und warme Meerestemperaturen, was es ideal fürs Tauchen, Schnorcheln und anderen Wassersportarten macht.",Im Sommer sind die Temperaturen warm.,0
+"Unter den Teichen befindet sich einer der von Besuchern bewohnt wird, die Münzen werfen, in der Hoffnung dass einen der Schildkröten den Kopf zurückprallen zu können, ein sicherer Weg um Glück zu erreichen.","Leute schmeißen nie Geld hinein, weil es Pech bringt.",2
+"Unter den Teichen befindet sich einer der von Besuchern bewohnt wird, die Münzen werfen, in der Hoffnung dass einen der Schildkröten den Kopf zurückprallen zu können, ein sicherer Weg um Glück zu erreichen.","Leute schmeißen Münzen rein obwohl das Schild sagt, dass man es nicht machen soll.",1
+"Unter den Teichen befindet sich einer der von Besuchern bewohnt wird, die Münzen werfen, in der Hoffnung dass einen der Schildkröten den Kopf zurückprallen zu können, ein sicherer Weg um Glück zu erreichen.",Leute schmeißen Münzen in das Wasser.,2
+"Die Hafenstadt Nafplio ist der ideale Ausgangspunkt um die Gegend zu erkunden oder vielleicht ein Ort, um während Ihrer Tour Mittag zu essen.",Nafplio hat eine gute Aussicht.,1
+"Die Hafenstadt Nafplio ist der ideale Ausgangspunkt um die Gegend zu erkunden oder vielleicht ein Ort, um während Ihrer Tour Mittag zu essen.",Nafplio ist eine schlechte Basis.,0
+"Die Hafenstadt Nafplio ist der ideale Ausgangspunkt um die Gegend zu erkunden oder vielleicht ein Ort, um während Ihrer Tour Mittag zu essen.",Nafplio ist ein perfekter Stützpunkt.,0
+"In Prinsengracht versteckten sich Otto Frank und seine Familie über zwei Jahre lang auf dem Dachboden ihrer Geschäftsräume, bevor sie entdeckt wurden.",Otto Frank wurde am zweiten Tag erfasst.,1
+"In Prinsengracht versteckten sich Otto Frank und seine Familie über zwei Jahre lang auf dem Dachboden ihrer Geschäftsräume, bevor sie entdeckt wurden.",Otto Frank versteckte sich für mehr als 25 Monate.,0
+"In Prinsengracht versteckten sich Otto Frank und seine Familie über zwei Jahre lang auf dem Dachboden ihrer Geschäftsräume, bevor sie entdeckt wurden.","Otto Frank versteckte sich, bis die Nazis ihn gefunden haben.",1
+Viele staatliche und lokale Regierungen haben zusätzliche Prüfungsanforderungen.,Die lokalen Regierungen können ihre eigenen Verordnungen erlassen.,1
+Viele staatliche und lokale Regierungen haben zusätzliche Prüfungsanforderungen.,Lokalregierungen haben keine Vorraussetzungen.,2
+Viele staatliche und lokale Regierungen haben zusätzliche Prüfungsanforderungen.,Es gibt zusätzliche Prüfungsanforderung von der Lokalregierung.,0
+Die Information security Gruppe hält zwischen 8 und 12 Sitzungen pro Monat ab.,Die Sicherheitsgruppe hat durchschnittlich 9 Sitzungen pro Monat.,1
+Die Information security Gruppe hält zwischen 8 und 12 Sitzungen pro Monat ab.,Die Sicherheitsgruppe führt jeden einzelnen Tag des Monats eine Sitzung durch.,2
+Die Information security Gruppe hält zwischen 8 und 12 Sitzungen pro Monat ab.,Die Sicherheitsgruppe hält mehrere Sitzungen pro Jahr ab.,0
+Vorläufiges Ingenieurwesen wurde jedoch früher erreicht.,Engineering hatte eine vorläufige Periode.,0
+Vorläufiges Ingenieurwesen wurde jedoch früher erreicht.,Ingenieurswesen trat erst in einer finalen Phase auf.,2
+Vorläufiges Ingenieurwesen wurde jedoch früher erreicht.,Ohne eine Vorlaufzeit wird das Design in den späteren Phasen wahrscheinlich scheitern.,1
+"Folglich nehmen Entscheidungsträger und Manager der Regierung neue Denkweisen an, übernehmen verschiedene Wege um Ziele zu erreichen, und nutzen neue Informationen um Entscheidungen zu lenken.",Regierungsvertreter ändern ihre Herangehensweise.,0
+"Folglich nehmen Entscheidungsträger und Manager der Regierung neue Denkweisen an, übernehmen verschiedene Wege um Ziele zu erreichen, und nutzen neue Informationen um Entscheidungen zu lenken.",Regierungsvertreter versuchen ihre macht durch andere Denkweisen zu erhöhen.,1
+"Folglich nehmen Entscheidungsträger und Manager der Regierung neue Denkweisen an, übernehmen verschiedene Wege um Ziele zu erreichen, und nutzen neue Informationen um Entscheidungen zu lenken.","Regierungsvertreter weigern sich, ihre Lebensweisen zu ändern.",0
+"Falldateien müssen möglicherweise für Kunden übersetzt werden, die eine andere Sprache als Englisch sprechen.",Falldateien dürfen nur auf Englisch sein.,2
+"Falldateien müssen möglicherweise für Kunden übersetzt werden, die eine andere Sprache als Englisch sprechen.",Falldateien können auf Chinesisch oder Russisch eingestellt werden.,1
+"Falldateien müssen möglicherweise für Kunden übersetzt werden, die eine andere Sprache als Englisch sprechen.",Falldateien können in andere Sprachen umgesetzt werden.,0
+Weitere derzeit laufende oder geplante Maßnahmen umfassen die,Der Großteil unserer Bemühungen wird bereits aufgebracht.,1
+Weitere derzeit laufende oder geplante Maßnahmen umfassen die,Wir haben nichts anderes für die Zukunft geplant.,2
+Weitere derzeit laufende oder geplante Maßnahmen umfassen die,Wir haben etwas geplant.,0
+"Beziehen Sie Faktoren wie einen kurzen zeitlichen Rahmen, das Löschen der ursprünglichen Computerdaten und den fehlenden Zugang zu benötigten Dokumenten mit ein.",Sie löschten die Computerdateien von der IBM.,1
+"Beziehen Sie Faktoren wie einen kurzen zeitlichen Rahmen, das Löschen der ursprünglichen Computerdaten und den fehlenden Zugang zu benötigten Dokumenten mit ein.",Sie haben die ursprünglichen Computerdateien gelöscht.,0
+"Beziehen Sie Faktoren wie einen kurzen zeitlichen Rahmen, das Löschen der ursprünglichen Computerdaten und den fehlenden Zugang zu benötigten Dokumenten mit ein.",Sie hatten alle originalen Dateien für sich behalten.,2
+"Der gleiche Vertreter, der den ersten Besuch durchgeführt hat, besucht den neuen Dienstleister erneut um Fragen zu beantworten und über die im Beanstandungsformulat aufgeführten Probleme zu sprechen.",Der Vertreter stattete einen einstündigen Besuch ab.,2
+"Der gleiche Vertreter, der den ersten Besuch durchgeführt hat, besucht den neuen Dienstleister erneut um Fragen zu beantworten und über die im Beanstandungsformulat aufgeführten Probleme zu sprechen.",Es gab einen Besuch von einem Repräsentanten.,0
+"Der gleiche Vertreter, der den ersten Besuch durchgeführt hat, besucht den neuen Dienstleister erneut um Fragen zu beantworten und über die im Beanstandungsformulat aufgeführten Probleme zu sprechen.",Wir bekamen nie Besuch.,2
+"Sparen hat nicht nur einen Einfluss auf das Vermögen, andersherum hat das Vermögen auch einen Einfluss auf das Sparverhalten.","Ob eine Person spart oder nicht, hängt von ihrem Vermögen ab.",1
+"Sparen hat nicht nur einen Einfluss auf das Vermögen, andersherum hat das Vermögen auch einen Einfluss auf das Sparverhalten.",Reichtum und Ersparnisse sind normalerweise nicht miteinander verknüpft.,2
+"Sparen hat nicht nur einen Einfluss auf das Vermögen, andersherum hat das Vermögen auch einen Einfluss auf das Sparverhalten.",Wohlhabende Menschen sparen eher einen größeren Teil ihres Einkommens.,1
+"Zum Beispiel hat eine Organisation, die wir untersucht haben, zwei Fusionen erlebt, bei denen das Unternehmen die neuen Geschäfte schnell integrieren und neu strukturieren musste, um den wachsenden Geschäftsanforderungen gerecht zu werden.","Obwohl es zwei Fusionen gab, musste das Unternehmen keine Umstrukturierung seiner Unternehmenshierarchie durchlaufen.",2
+"Zum Beispiel hat eine Organisation, die wir untersucht haben, zwei Fusionen erlebt, bei denen das Unternehmen die neuen Geschäfte schnell integrieren und neu strukturieren musste, um den wachsenden Geschäftsanforderungen gerecht zu werden.",Die Verschmelzung von zwei Unternehmen zu einer Organisation und die Umstrukturierung führten zu einem chaotischen Arbeitsumfeld.,1
+"Zum Beispiel hat eine Organisation, die wir untersucht haben, zwei Fusionen erlebt, bei denen das Unternehmen die neuen Geschäfte schnell integrieren und neu strukturieren musste, um den wachsenden Geschäftsanforderungen gerecht zu werden.","Wir untersuchten ein Unternehmen, das zwei Fusionen hinter sich hatte und sich schnell umstrukturieren musste, um seinen Geschäftsanforderungen gerecht zu werden.",0
+"das Design, wir waren besorgt, dass die Zahlung genehmigt werden würde, bevor bestätigt wurde, dass die Reise tatsächlich stattgefunden hat.","Wir wussten, die Zahlung würde ewig dauern.",2
+"das Design, wir waren besorgt, dass die Zahlung genehmigt werden würde, bevor bestätigt wurde, dass die Reise tatsächlich stattgefunden hat.","Wir dachten, die Zahlung könnte vor der Verifizierung durchgeführt werden.",0
+"das Design, wir waren besorgt, dass die Zahlung genehmigt werden würde, bevor bestätigt wurde, dass die Reise tatsächlich stattgefunden hat.","Wir dachten, dass die Zahlung zu früh durchgehen könnte und, dass wir betrogen werden würden.",1
+"Technologie ist hochgradig in die Geschäftsprozesse in diesen Organisationen integriert, da Technologie als Ermöglicher für das Unternehmen betrachtet wird und nicht nur als Werkzeug.","Fortschrittliche Planungssoftware ist eine der Schlüsseltechnologien, auf die sich Unternehmen konzentrieren.",1
+"Technologie ist hochgradig in die Geschäftsprozesse in diesen Organisationen integriert, da Technologie als Ermöglicher für das Unternehmen betrachtet wird und nicht nur als Werkzeug.",Technologie ist nur ein Hilfsmittel und kein Wachstumstreiber.,2
+"Technologie ist hochgradig in die Geschäftsprozesse in diesen Organisationen integriert, da Technologie als Ermöglicher für das Unternehmen betrachtet wird und nicht nur als Werkzeug.",Diese Unternehmen legen großen Wert auf Technologie.,0
+Zwei Konzepte die häufig in Literatur auftreten könnten für die künftige Forschung hilfreich sein.,Die Literatur kann die Art wie wir Proben testen ändern.,1
+Zwei Konzepte die häufig in Literatur auftreten könnten für die künftige Forschung hilfreich sein.,Die Literatur kann die Forschung in Zukunft verändern.,1
+Zwei Konzepte die häufig in Literatur auftreten könnten für die künftige Forschung hilfreich sein.,"Es gibt nichts anderes zu tun, um die Forschung zu verändern.",2
+Die aus Kartons gezeichnete Linien zeigen den gesamt Wohlfahrtsniveau von allen Mailers an und die aus Diamanten gezeichnete Linien zeigen die technischen Verluste (falls negativ) wenn die Arbeit zu einer anderen Partei verlagert ist.,"Die Zeilen berechnen, dass das Wohlstandsniveau der Versender 10% beträgt.",1
+Die aus Kartons gezeichnete Linien zeigen den gesamt Wohlfahrtsniveau von allen Mailers an und die aus Diamanten gezeichnete Linien zeigen die technischen Verluste (falls negativ) wenn die Arbeit zu einer anderen Partei verlagert ist.,Die Linien zeigen nichts anderes als die Route.,2
+Die aus Kartons gezeichnete Linien zeigen den gesamt Wohlfahrtsniveau von allen Mailers an und die aus Diamanten gezeichnete Linien zeigen die technischen Verluste (falls negativ) wenn die Arbeit zu einer anderen Partei verlagert ist.,"Die Schlangen zeigen, wieviel Sozialhilfe es über all in den mailers gibt.",0
+"Auf der Grundlage dieser Risikobewertung hat Centrelink eine Reihe spezifischer Präventionsstrategien entwickelt, die darauf abzielen, die Begünstigten und Arbeitgeber in Bezug auf die Meldepflichten zu sensibilisieren.",Centrelink wusste nicht wie man dieses Problem angeht.,2
+"Auf der Grundlage dieser Risikobewertung hat Centrelink eine Reihe spezifischer Präventionsstrategien entwickelt, die darauf abzielen, die Begünstigten und Arbeitgeber in Bezug auf die Meldepflichten zu sensibilisieren.","Centrelink hatte eine Menge Strategien, um Menschen beizubringen, wie sie Einkommen melden sollten, weil die Regierung eine Menge Geld durch Fehler verlor.",1
+"Auf der Grundlage dieser Risikobewertung hat Centrelink eine Reihe spezifischer Präventionsstrategien entwickelt, die darauf abzielen, die Begünstigten und Arbeitgeber in Bezug auf die Meldepflichten zu sensibilisieren.","Centrelink hatte viele Strategien, um Menschen beizubringen, wie sie ihr Einkommen melden können.",1
+"Dies ermöglichte Demonstrationen des Designs, bevor die Unternehmen mehr in Produktionsanlagen und Werkzeuge investierten, um produktionsrepräsentative Prototypen für die Demonstrationsphase zu bauen.","Dann konnten sie zeigen, wie das Design funktionierte.",0
+"Dies ermöglichte Demonstrationen des Designs, bevor die Unternehmen mehr in Produktionsanlagen und Werkzeuge investierten, um produktionsrepräsentative Prototypen für die Demonstrationsphase zu bauen.","Sie könnten der Firma aufzeigen, dass es nicht klug war neue Werke zu bauen.",2
+"Dies ermöglichte Demonstrationen des Designs, bevor die Unternehmen mehr in Produktionsanlagen und Werkzeuge investierten, um produktionsrepräsentative Prototypen für die Demonstrationsphase zu bauen.","Sie hatten keine Ahnung, wie sie die Auswirkung von Investitionen demonstrieren können.",2
+Die Zusammenarbeit von South Carolina führte im folgenden Jahr zu einem weiteren Erfolg.,Niemand in South Carolina arbeitete zusammen.,2
+Die Zusammenarbeit von South Carolina führte im folgenden Jahr zu einem weiteren Erfolg.,SC arbeitete zusammen.,0
+Die Zusammenarbeit von South Carolina führte im folgenden Jahr zu einem weiteren Erfolg.,Die Demokraten und Republikaner in Süd-Carolina arbeiten zusammen.,1
+"die board absatz 605(b) Zertifikate wurden dem Chefberater für Intressen Beratung der Klein Unternehmens Verwaltung (SBA) nicht seperat vorgelegt, meinte ein board Offizieller",Der Vorstand verteilte keine SBA-Zertifizierungen sondern überließ dies dem Sachverständigenbüro.,2
+"die board absatz 605(b) Zertifikate wurden dem Chefberater für Intressen Beratung der Klein Unternehmens Verwaltung (SBA) nicht seperat vorgelegt, meinte ein board Offizieller",Die Kommission hat die SBA nicht zertifiziert.,2
+"die board absatz 605(b) Zertifikate wurden dem Chefberater für Intressen Beratung der Klein Unternehmens Verwaltung (SBA) nicht seperat vorgelegt, meinte ein board Offizieller","Der Vorstand vergab täglich SBA-Zertifikate an alle, die danach fragten.",1
+"Wenn eine übereinstimmung für ein Hotel und anderen Zusatzgebühren besteht, wird eine überprüfung von der tatsächlichen Reise verrichtet.",Die meisten der nationalen Hotelketten akzeptieren Zahlungen per Kreditkarte.,1
+"Wenn eine übereinstimmung für ein Hotel und anderen Zusatzgebühren besteht, wird eine überprüfung von der tatsächlichen Reise verrichtet.",Die Reise wird prüfen welche Hotelkosten bezahlt werden müssen.,1
+"Wenn eine übereinstimmung für ein Hotel und anderen Zusatzgebühren besteht, wird eine überprüfung von der tatsächlichen Reise verrichtet.","Es gibt keine Möglichkeit zu überprüfen, ob tatsächlich eine Reise stattgefunden hat oder nicht.",2
+"In einer Hauptstadt, die wir besucht haben, sind beispielsweise über 600 Softwareunternehmen zu Hause.",Hauptstädte sind die besten Orte für Softwareunternehmen.,1
+"In einer Hauptstadt, die wir besucht haben, sind beispielsweise über 600 Softwareunternehmen zu Hause.",Eine Hauptstadt hat eine Menge an Softwareunternehmen.,0
+"In einer Hauptstadt, die wir besucht haben, sind beispielsweise über 600 Softwareunternehmen zu Hause.",Softwareunternehmen vermeiden Hauptstädte aus rechtlichen Gründen.,2
+Beim messen von Effektivität bleibt Perfektion unerreichbar.,"Sie können perfekt sein, wenn Sie sich große Mühe geben.",1
+Beim messen von Effektivität bleibt Perfektion unerreichbar.,Du kannst niemals perfekt sein.,0
+Beim messen von Effektivität bleibt Perfektion unerreichbar.,"Du kannst nicht perfekt sein, weil wir alle zutiefst fehlerhaft sind.",1
+"Der Mitbewohner, der im Jahr 2000 das Zimmer an Hazmi und Mihdhar vermietete, ist ein scheinbar gesetzestreuer Bürger mit langjährigen, freundschaftlichen Kontakten zwischen Polizei und FBI-Personal.",Hazmi und Mihdhar kauften ein Hause und hatten keinen Vertrag mit irgendjemandem.,2
+"Der Mitbewohner, der im Jahr 2000 das Zimmer an Hazmi und Mihdhar vermietete, ist ein scheinbar gesetzestreuer Bürger mit langjährigen, freundschaftlichen Kontakten zwischen Polizei und FBI-Personal.","Hazmi und Mihdhar mieteten einen Raum für das ganze Jahr, für pro Tag.",1
+"Der Mitbewohner, der im Jahr 2000 das Zimmer an Hazmi und Mihdhar vermietete, ist ein scheinbar gesetzestreuer Bürger mit langjährigen, freundschaftlichen Kontakten zwischen Polizei und FBI-Personal.",Hazmi und Mihdhar mieteten ein Zimmer.,0
+"Für ihre Reise nach Bosnien, sehen sie den Geheimdienstbericht, Befragung von saudischen Mitgliedern von al Qaeda, 3. Okt. 2001.",Ein Mitglied von al-Qaida ist im Jahr 2001 achtzehn mal nach Bosnien gereist.,1
+"Für ihre Reise nach Bosnien, sehen sie den Geheimdienstbericht, Befragung von saudischen Mitgliedern von al Qaeda, 3. Okt. 2001.",Ein Mitglied von al-Qaida ist nach Bosnien gereist.,0
+"Für ihre Reise nach Bosnien, sehen sie den Geheimdienstbericht, Befragung von saudischen Mitgliedern von al Qaeda, 3. Okt. 2001.","Es gab keine Beweise dafür, dass ein Mitglied der al Quaeada nach Bosnien ging.",2
+"Jane bat den New Yorker Agenten, der der Mihdhar-Suche zugeteilt war, ein FISA-Bestätigungsformular zu unterschreiben, das darauf hinwies, dass der Agent verstand, wie er FISA-Informationen behandeln musste.","Jane bat darum, dass ein FISA-Bestätigungsformular von einem Bundesrichter unterschrieben werden sollte.",2
+"Jane bat den New Yorker Agenten, der der Mihdhar-Suche zugeteilt war, ein FISA-Bestätigungsformular zu unterschreiben, das darauf hinwies, dass der Agent verstand, wie er FISA-Informationen behandeln musste.",Jane bat um die Unterschrift eines FISA-Bestätigungsformulars.,0
+"Jane bat den New Yorker Agenten, der der Mihdhar-Suche zugeteilt war, ein FISA-Bestätigungsformular zu unterschreiben, das darauf hinwies, dass der Agent verstand, wie er FISA-Informationen behandeln musste.","Jane sagte, dass eine Anerkennung seitens der FISA nicht nötig sei.",2
+"In Bezug auf die einzige Sicherheitsschicht, die für das eigentliche Checkpoint-Screening relevant war, stand keines von ihnen hervor.",Während des Checkpoint-Screenings wurden alarmierende Beweise entdeckt.,1
+"In Bezug auf die einzige Sicherheitsschicht, die für das eigentliche Checkpoint-Screening relevant war, stand keines von ihnen hervor.","Checkpoint-Screenings beruhen ausschließlich auf der Intuition des Zollagenten, der das Screening durchführt.",2
+"In Bezug auf die einzige Sicherheitsschicht, die für das eigentliche Checkpoint-Screening relevant war, stand keines von ihnen hervor.",Beim Checkpoint-Screening konnten keine Beweise gegen sie gefunden werden.,0
+"Khallad hat eine zweite Version zur Verfügung gestellt, nämlich dass alle drei zusammen nach Karachi reisen.",Khallad sagte dass er nichts über die drei wusste.,2
+"Khallad hat eine zweite Version zur Verfügung gestellt, nämlich dass alle drei zusammen nach Karachi reisen.","Khallad sagte, die drei hätten zusammen reisen können.",0
+"Khallad hat eine zweite Version zur Verfügung gestellt, nämlich dass alle drei zusammen nach Karachi reisen.","Khallad sagte, es gab eine 50% ige Chance, dass die drei im Oktober gemeinsam nach Karachi gingen.",1
+"Geheimdienstbericht, Befragung von Binalshibh, 1. Okto. 2002",Binalshibh wurde von einer FBI-Task Force verhört.,2
+"Geheimdienstbericht, Befragung von Binalshibh, 1. Okto. 2002",Binalshibh wurde 2002 verhört.,2
+"Geheimdienstbericht, Befragung von Binalshibh, 1. Okto. 2002",Binalshibh wurde nie angesprochen und er verschwand.,2
+Mindhar bekam ein neues Visum zwei Tage nach dem CIA-FBI-Treffen in New York.,Mihdhar hatte ein US-Visum für die Einreise in das Land,1
+Mindhar bekam ein neues Visum zwei Tage nach dem CIA-FBI-Treffen in New York.,"Mihdhar bekam nie ein Visum, also kam er nie zu uns.",2
+Mindhar bekam ein neues Visum zwei Tage nach dem CIA-FBI-Treffen in New York.,"Mihdhar erhielt ein Visum, weil er keine Bedrohung war.",1
+"Trotz zwei Jahren Verhandlung, der FBI war nicht in der Lage den Mitarbeiter oder seine wahre Identität zu bestimmen.","Das FBI konnte den Mann nie finden, nachdem er 2001 Florida verlassen hatte.",1
+"Trotz zwei Jahren Verhandlung, der FBI war nicht in der Lage den Mitarbeiter oder seine wahre Identität zu bestimmen.","Das FBI konnte nicht herausfinden, wer der Typ war.",0
+"Trotz zwei Jahren Verhandlung, der FBI war nicht in der Lage den Mitarbeiter oder seine wahre Identität zu bestimmen.","Das FBI fand heraus, wer er war und schickte ihn ins Gefängnis.",2
+Im Falle des American-Airlines-Flugs 11 war die letzte reguläre Kontaktaufnahme seitens des Flugzeugs um 8.13 Uhr.,Es gab Kommunikation von American 11.,0
+Im Falle des American-Airlines-Flugs 11 war die letzte reguläre Kontaktaufnahme seitens des Flugzeugs um 8.13 Uhr.,Es gab alle 5 Minuten eine Kommunikation von American 11.,2
+Im Falle des American-Airlines-Flugs 11 war die letzte reguläre Kontaktaufnahme seitens des Flugzeugs um 8.13 Uhr.,Es gab niemals eine Kommunikation von der American 11.,2
+"Die Entdeckung hätte eine schnelle und sehr substanzielle Zusammenarbeit der deutschen Regierung erfordert, die möglicherweise schwer zu erreichen gewesen wäre.","Wenn die Ermittlungen abgeschlossen sind, könnten sie den Aufenthaltsort dreier Flüchtlinge aufdecken.",1
+"Die Entdeckung hätte eine schnelle und sehr substanzielle Zusammenarbeit der deutschen Regierung erfordert, die möglicherweise schwer zu erreichen gewesen wäre.",Die deutsche Regierung hätte möglicherweise eine schnelle und gründliche Untersuchung schwierig durchführen können.,0
+"Die Entdeckung hätte eine schnelle und sehr substanzielle Zusammenarbeit der deutschen Regierung erfordert, die möglicherweise schwer zu erreichen gewesen wäre.",Die Untersuchung wäre für die Regierung recht simpel und einfach durchzuführen.,2
+"Diese Fähigkeiten waren unzureichend, aber es wurde wenig getan, um sie zu erweitern oder zu reformieren.",Sie haben ihr Überwachungsprogramm nicht großartig verändert.,1
+"Diese Fähigkeiten waren unzureichend, aber es wurde wenig getan, um sie zu erweitern oder zu reformieren.","Sie haben nicht viel getan, um Dinge zu ändern.",0
+"Diese Fähigkeiten waren unzureichend, aber es wurde wenig getan, um sie zu erweitern oder zu reformieren.","Sie haben große Anstrengungen unternommen, alles zu überarbeiten.",2
+"Aber die Mail des Analytikers gibt wieder, dass sie ein breites Spektrum an Einsprüchen und rechtlichen Hindernissen in Bezug auf Teilen von Informationen und Vorschriften, die das kriminelle Nutzen von Informationen von Agenten über Geheimdienstkanälen regiert.",Der Analyst präsentierte eine glasklare Analyse.,2
+"Aber die Mail des Analytikers gibt wieder, dass sie ein breites Spektrum an Einsprüchen und rechtlichen Hindernissen in Bezug auf Teilen von Informationen und Vorschriften, die das kriminelle Nutzen von Informationen von Agenten über Geheimdienstkanälen regiert.",Der Analytiker war in vielen Dingen unklar.,1
+"Aber die Mail des Analytikers gibt wieder, dass sie ein breites Spektrum an Einsprüchen und rechtlichen Hindernissen in Bezug auf Teilen von Informationen und Vorschriften, die das kriminelle Nutzen von Informationen von Agenten über Geheimdienstkanälen regiert.","Der Bericht des Analysten war so durcheinander, dass ihn niemand lesen konnte.",2
+"Einige Offiziere wurden dann beauftragt, bei Evakuierungen im Treppenhaus zu helfen; andere wurden beauftragt, die Evakuierung in der Plaza, der Bahnhofshalle und der PATH-Station zu beschleunigen.",Offiziere bekamen ihre eigenen Aufträge.,2
+"Einige Offiziere wurden dann beauftragt, bei Evakuierungen im Treppenhaus zu helfen; andere wurden beauftragt, die Evakuierung in der Plaza, der Bahnhofshalle und der PATH-Station zu beschleunigen.","Die Beamten rannten einfach zufällig dorthin, wo sie gebraucht wurden.",2
+"Einige Offiziere wurden dann beauftragt, bei Evakuierungen im Treppenhaus zu helfen; andere wurden beauftragt, die Evakuierung in der Plaza, der Bahnhofshalle und der PATH-Station zu beschleunigen.",Die Offiziere wurden nach Dienstalter zugewiesen.,0
+Am 9. September kamen dramatische Nachrichten aus Afghanistan.,Wir haben Neuigkeiten aus Afghanistan.,0
+Am 9. September kamen dramatische Nachrichten aus Afghanistan.,Bis zum Oktober hörten wir nichts von Afghanistan.,2
+Am 9. September kamen dramatische Nachrichten aus Afghanistan.,Wir wurden über die bevorstehende Attacke am 9. September unterrichtet.,1
+"Die Unfähigkeit zur Kommunikation war ein kritisches Element an den Absturzstellen des World Trade Centers, des Pentagon und des Somerset County, Pennsylvania, wo mehrere Behörden und mehrere Gerichtsbarkeiten reagierten.",Kommunikation funktionierte wirklich gut am 11. September.,2
+"Die Unfähigkeit zur Kommunikation war ein kritisches Element an den Absturzstellen des World Trade Centers, des Pentagon und des Somerset County, Pennsylvania, wo mehrere Behörden und mehrere Gerichtsbarkeiten reagierten.","Da der Strom ausgefallen und das Telefonnetz zusammengebrochen war, war es für die Menschen im World Trade Center schwierig mit anderen Leuten in Kontakt zu treten.",1
+"Die Unfähigkeit zur Kommunikation war ein kritisches Element an den Absturzstellen des World Trade Centers, des Pentagon und des Somerset County, Pennsylvania, wo mehrere Behörden und mehrere Gerichtsbarkeiten reagierten.","Es war schwierig für die Leute im World Trade Center, zu kommunizieren.",0
+"Recherchen von leicht verfügbaren Datenbanken hätten die Führerscheine, die Fahrzeugregistrierung und die Telefonliste freigelegt.",Die Ermittler forderten auch Zugang zu Geschäftsdatenbanken.,1
+"Recherchen von leicht verfügbaren Datenbanken hätten die Führerscheine, die Fahrzeugregistrierung und die Telefonliste freigelegt.",Verschiedene Arten von Informationen aus bestehenden Datenbanken waren verfügbar.,0
+"Recherchen von leicht verfügbaren Datenbanken hätten die Führerscheine, die Fahrzeugregistrierung und die Telefonliste freigelegt.","Es gab keine Möglichkeit, Informationen zu den Themen zu finden, die vorhandene Quellen verwenden.",2
+"Weil der Administrator auf die ganze transaction verdächtig gewesen war, hat er sich von Hazmi und Mihdhar distanziert aber nicht bevor sie die hilfe die bekommen haben die sie brauchten.","Der Administrator kontaktierte sofort die Behörden und weigerte sich, in diesem Fall zu helfen.",2
+"Weil der Administrator auf die ganze transaction verdächtig gewesen war, hat er sich von Hazmi und Mihdhar distanziert aber nicht bevor sie die hilfe die bekommen haben die sie brauchten.",Der Administrator gab Unterstützung trotz seiner Bedenken.,2
+"Weil der Administrator auf die ganze transaction verdächtig gewesen war, hat er sich von Hazmi und Mihdhar distanziert aber nicht bevor sie die hilfe die bekommen haben die sie brauchten.",Die Hilfe bestand aus Bargeld und Unterstützung bei der Beschaffung von Reisedokumenten.,1
+Diese Bezeichnungen wurden 2003 abgeschafft. Alle internationalen Terrorismus-Angelegenheiten erhalten nun einheitlich die Bezeichnung 315.,Alle Terrorismusangelegenheiten erhalten das Label für oberste Priorität.,1
+Diese Bezeichnungen wurden 2003 abgeschafft. Alle internationalen Terrorismus-Angelegenheiten erhalten nun einheitlich die Bezeichnung 315.,Alle Terrorismusangelegenheiten bekommen das gleiche Label.,0
+Diese Bezeichnungen wurden 2003 abgeschafft. Alle internationalen Terrorismus-Angelegenheiten erhalten nun einheitlich die Bezeichnung 315.,Jede Terrorismusangelegenheit wird unabhängig beurteilt und benotet.,2
+"Dieser Beamte, der den South Tower kollarbieren sah, hat es ESU Einheiten in seiner Evakuierungsanweisung im North Tower mitgeteilt.",Niemand verblieb im Nordturm nachdem der Südturm zusammengebrochen war.,2
+"Dieser Beamte, der den South Tower kollarbieren sah, hat es ESU Einheiten in seiner Evakuierungsanweisung im North Tower mitgeteilt.",Der Südturm kollabierte 30 Minuten bevor der Offizier mit ESU-Einheiten im Nordturm sprach.,1
+"Dieser Beamte, der den South Tower kollarbieren sah, hat es ESU Einheiten in seiner Evakuierungsanweisung im North Tower mitgeteilt.",Der Polizist sah den Einsturz des Südturmes.,2
+"Indianapolis ist wirklich der beste Ort für Schauspieler, um für viele zu arbeiten","Schauspieler lieben Indianapolis wegen all der Castingagenturen, die sich dort befinden.",1
+"Indianapolis ist wirklich der beste Ort für Schauspieler, um für viele zu arbeiten","Wenn du ein Schauspieler bist, solltest du dir überlegen nach Indianapolis zu ziehen.",1
+"Indianapolis ist wirklich der beste Ort für Schauspieler, um für viele zu arbeiten","Es ist schwer, in Indianapolis Arbeit zu finden, wenn man im Film- und Theatergeschäft ist, da es überwiegend eine Technologiestadt ist.",2
+"Im Rahmen des Elternhilfetelefons des Prevention Information Resource Center, helfen wir Ihnen gerne rund um die Uhr an sieben Tagen in der Woche weiter.",Leute können uns nur per Post oder E-mail kontaktieren.,2
+"Im Rahmen des Elternhilfetelefons des Prevention Information Resource Center, helfen wir Ihnen gerne rund um die Uhr an sieben Tagen in der Woche weiter.",Wir sind zu jeder Tageszeit telefonisch erreichbar.,0
+"Im Rahmen des Elternhilfetelefons des Prevention Information Resource Center, helfen wir Ihnen gerne rund um die Uhr an sieben Tagen in der Woche weiter.",Wir empfangen über einhundert Anrufe jeden Montag und Freitag.,1
+"Weil diese Kisten noch eingepackt bleiben werden, auch wenn alle anderen Geschenke schon lange ausgepackt sind.",Diese Boxen enthalten gefährliche Bomben.,1
+"Weil diese Kisten noch eingepackt bleiben werden, auch wenn alle anderen Geschenke schon lange ausgepackt sind.",Diese Boxen werden vor den anderen Geschenken geöffnet.,0
+"Weil diese Kisten noch eingepackt bleiben werden, auch wenn alle anderen Geschenke schon lange ausgepackt sind.",Diese Boxen bleiben für eine Weile ungeöffnet.,0
+"Wenn wir unsere Preise niedrig halten, müssen wir zu Ihnen, unserem Publikum, kommen und Sie um einen kleinen Beitrag bitten, damit wir unser Ziel einhalten können.","Um unsere Ticketpreise unter 10 $ zu halten, müssten alle unsere Zuschauer $ 25 spenden.",1
+"Wenn wir unsere Preise niedrig halten, müssen wir zu Ihnen, unserem Publikum, kommen und Sie um einen kleinen Beitrag bitten, damit wir unser Ziel einhalten können.",Wir könnten unsere Preise ohne euer Geld niedrig halten wenn wir wirklich wollten. Aber unser Chef mag seine Luxusgüter.,1
+"Wenn wir unsere Preise niedrig halten, müssen wir zu Ihnen, unserem Publikum, kommen und Sie um einen kleinen Beitrag bitten, damit wir unser Ziel einhalten können.","Ihre Beiträge helfen uns, die Preise niedrig zu halten.",0
+"00 helped macht es möglich für uns Beratung, Motivation und Spaß für fast 400 Kinder aus Indianapolis zur Verfügung zu stellen.","Dank der großzügigen Spenden konnten wir Beyoncé einladen, ein Konzert für die Weisen in Indianapolis zu geben.",2
+"00 helped macht es möglich für uns Beratung, Motivation und Spaß für fast 400 Kinder aus Indianapolis zur Verfügung zu stellen.","Wir hatten gehofft eine Weihnachtsfeier für die Kinder schmeißen zu können, aber konnten niemals etwas für sie tun.",2
+"00 helped macht es möglich für uns Beratung, Motivation und Spaß für fast 400 Kinder aus Indianapolis zur Verfügung zu stellen.","Wir waren in der Lage, vielen Kindern aus Indianapolis zu helfen.",0
+"Anfänglich können Einzelpersonen teilnehmen, indem sie ein jährliches uneingeschränktes Geschenk von 1.000 $ oder mehr für den Kanzler's Zirkel machen, oder von 500 $ oder mehr für Kanzler-Mitarbeiter..","Einzelpersonen können teilnehmen, nachdem sie eine kleine $ 50-Spende getätigt haben.",2
+"Anfänglich können Einzelpersonen teilnehmen, indem sie ein jährliches uneingeschränktes Geschenk von 1.000 $ oder mehr für den Kanzler's Zirkel machen, oder von 500 $ oder mehr für Kanzler-Mitarbeiter..","Einzelpersonen können teilnehmen, wenn sie eine ausreichend große Spende betätigen.",0
+"Anfänglich können Einzelpersonen teilnehmen, indem sie ein jährliches uneingeschränktes Geschenk von 1.000 $ oder mehr für den Kanzler's Zirkel machen, oder von 500 $ oder mehr für Kanzler-Mitarbeiter..",Die meisten Menschen spenden lieber an Chancellors Associates.,1
+Ihr Geschenk zu diesem Zeitpunkt kann Ihnen zusätzliche steuerliche Vorteile zum Jahresende bieten.,"Wenn du ein Geschenk von mindestens $1,000  machst wirst du mit Sicherheit Steuervorzüge bekommen.",1
+Ihr Geschenk zu diesem Zeitpunkt kann Ihnen zusätzliche steuerliche Vorteile zum Jahresende bieten.,"Unglücklicherweise würden unsere Steuerberater dir raten, keine Geschenke zu machen.",2
+Ihr Geschenk zu diesem Zeitpunkt kann Ihnen zusätzliche steuerliche Vorteile zum Jahresende bieten.,Vielleicht hast du die Möglichkeit deine Spenden von der STeuer abzusetzen.,1
+"Wie Sie wissen, umfasst die Mitgliedschaft dieser Gruppe jene Freunde und Alumni, die jährlich 1.000 Dollar oder mehr zur juristischen Fakultät beitragen.",Einige Mitglieder dieser Gruppe haben der Schule mehr als 100.000 $ gespendet.,1
+"Wie Sie wissen, umfasst die Mitgliedschaft dieser Gruppe jene Freunde und Alumni, die jährlich 1.000 Dollar oder mehr zur juristischen Fakultät beitragen.","Wir haben Leute in dieser Gruppe, die mehr als 1.000 Dollar zur juristischen Fakultät beigetragen haben.",0
+"Wie Sie wissen, umfasst die Mitgliedschaft dieser Gruppe jene Freunde und Alumni, die jährlich 1.000 Dollar oder mehr zur juristischen Fakultät beitragen.","Wir haben vor, diese Gruppe zu bitten, finanzielle Beiträge zur Schule zu leisten, aber haben dies niemals zuvor getan.",2
+"Meine glücklichste Erinnerung als Kind, das in den 50er Jahren aufgewachsen ist, war der besuch zum Civic Theater.","Ich hasste es, als Kind zu Theateraufführungen zu gehen, deshalb wurde ich Wissenschaftler.",1
+"Meine glücklichste Erinnerung als Kind, das in den 50er Jahren aufgewachsen ist, war der besuch zum Civic Theater.",Ich bin als Kind sehr gerne ins Theater gegangen.,0
+"Meine glücklichste Erinnerung als Kind, das in den 50er Jahren aufgewachsen ist, war der besuch zum Civic Theater.",Meine Lieblings-Civic Theatre Produktion war Schönheit und das Biest.,1
+"Wenn jeder, der diesen Brief erhält nur 18 $ gibt","Jeder der diesen Brief bekommt: spende kein Geld, es ist Betrug.",2
+"Wenn jeder, der diesen Brief erhält nur 18 $ gibt","Wenn du $18 spendest, bekommst du ein Geschenk von uns.",2
+"Wenn jeder, der diesen Brief erhält nur 18 $ gibt","Wir hoffen, alle Briefempfänger können 18 $ spenden.",1
+"Trenne den unteren Abschnitt ab, kreuze die gewünschte Option an, ändere die Adresse falls nötig und sende ihn in einem geschlossenen Umschlag wieder zurück.",Bitte nehmen Sie keine Änderungen an Ihrer Adresse vor.,2
+"Trenne den unteren Abschnitt ab, kreuze die gewünschte Option an, ändere die Adresse falls nötig und sende ihn in einem geschlossenen Umschlag wieder zurück.",Dort ist ein weisser Umschlag mit deiner Adresse anbei.,1
+"Trenne den unteren Abschnitt ab, kreuze die gewünschte Option an, ändere die Adresse falls nötig und sende ihn in einem geschlossenen Umschlag wieder zurück.","Sie können Ihre Adresse ändern, wenn Sie es für passend halten.",0
+Die Schule für Krankenpfleger braucht Ihre grosszügige Geschenke um weiterhin ihre pädagogische excellence Aufrecht zu erhalten.,Bitte spende 100 Millionen Dollar an die Krankenpflegeschule oder du verlierst deine Gedenkstatue.,1
+Die Schule für Krankenpfleger braucht Ihre grosszügige Geschenke um weiterhin ihre pädagogische excellence Aufrecht zu erhalten.,Die Krankenschwestern-Schule hat alle finanziellen Ziele erreicht und benötigt kein Geld mehr.,2
+Die Schule für Krankenpfleger braucht Ihre grosszügige Geschenke um weiterhin ihre pädagogische excellence Aufrecht zu erhalten.,"Wir hoffen, dass Sie für die Schule für Krankenpflege spenden.",1
+80% der Teilnehmer werden über verbesserte Fähigkeiten zur Konfliktlösung berichten.,Mehr als die Hälfte der Teilnehmer wird über gesteigerte Konfliktlösungsfähigkeiten berichten.,0
+80% der Teilnehmer werden über verbesserte Fähigkeiten zur Konfliktlösung berichten.,Nur ein Viertel der Teilnehmer wird über erhöhte Konfliktlösungskompetenz berichten.,2
+80% der Teilnehmer werden über verbesserte Fähigkeiten zur Konfliktlösung berichten.,Es waren über 100 verschiedene Teilnehmer da.,1
+Rutschen Sie nicht auf unsere hinfällige Spenderliste.,"Es wäre eine Schande, wenn Sie aufhören würden zu spenden.",1
+Rutschen Sie nicht auf unsere hinfällige Spenderliste.,"Unsere abgelaufene Spenderliste wird veröffentlicht, damit die Welt sie sehen kann, also vertrau mir, du willst nicht so beschämt werden!",1
+Rutschen Sie nicht auf unsere hinfällige Spenderliste.,"Wir haben zu viele Spender, also bitte hören Sie auf zu spenden.",1
+Der Zugang zu unserem Gelände wird für jeden mit einem Computer und einem Modem geöffnet.,Leute brauchen nichts für den Zugang zum Grundstück.,2
+Der Zugang zu unserem Gelände wird für jeden mit einem Computer und einem Modem geöffnet.,"Die Leute brauchen sowohl einen Computer als auch ein Modem, um das Gelände zu betreten.",0
+Der Zugang zu unserem Gelände wird für jeden mit einem Computer und einem Modem geöffnet.,"Die Leute müssen ihren Computer und ihr Modem mit sich führen, während sie das Gelände betreten, um Zugang zu haben.",1
+Ticketverkauf und Abonnements können unsere komplette Saison nicht finanzieren,"Solange wir Karten verkaufen, ist unsere gesamte Saison finanziert.",2
+Ticketverkauf und Abonnements können unsere komplette Saison nicht finanzieren,Die komplette Spielzeit muss durch mehr finanziert werden als nur durch den Verkauf von Tickets und Abokarten.,1
+Ticketverkauf und Abonnements können unsere komplette Saison nicht finanzieren,Die Umsätze und Abonnements decken nur 70% der Finanzierungskosten für unsere gesamte Saison ab.,1
+NEUE ANKUENFTE JEDES GESCHENK MACHT EINEN UNTERSCHIED!,Jedes Geschenk wird erfasst und in unserem monatlichen Journal angekündigt.,1
+NEUE ANKUENFTE JEDES GESCHENK MACHT EINEN UNTERSCHIED!,Jedes angebotene Geschenk zählte zu etwas.,0
+NEUE ANKUENFTE JEDES GESCHENK MACHT EINEN UNTERSCHIED!,Nur Geschenke über $ 100 machen einen Unterschied.,1
+"Wir stehen vor einem langen Weg, bevor wir unser Ziel von 365.000 $ von unseren Freunden und Abonnenten wie Ihnen erreichen.",Unser monetäres Ziel übersteigt 300.000 $.,0
+"Wir stehen vor einem langen Weg, bevor wir unser Ziel von 365.000 $ von unseren Freunden und Abonnenten wie Ihnen erreichen.","Wir hoffen eigentlich, unser monetäres Ziel zu verdreifachen.",1
+"Wir stehen vor einem langen Weg, bevor wir unser Ziel von 365.000 $ von unseren Freunden und Abonnenten wie Ihnen erreichen.",Wir haben keine Richtwerte bezüglich des Gelds.,2
+"Unsere Zivilpraxisklinik ist seit einigen Jahren in Betrieb, und kürzlich haben wir eine Strafverteidigungsklinik hinzugefügt.",Unsere Civil Practice Clinic ist seit acht Jahren in Betrieb.,1
+"Unsere Zivilpraxisklinik ist seit einigen Jahren in Betrieb, und kürzlich haben wir eine Strafverteidigungsklinik hinzugefügt.",Unsere Praxis für Zivilrecht feiert im nächsten Monat ihr erstes volles Betriebsjahr.,1
+"Unsere Zivilpraxisklinik ist seit einigen Jahren in Betrieb, und kürzlich haben wir eine Strafverteidigungsklinik hinzugefügt.",Die Civil Practice Clinic ist seit mehr als einem Jahr in Betrieb.,0
+"Ticketeinnahmen fangen nicht einmal an, die Kosten dieser Programme zu decken.","Es scheint, dass die Kosten für diese Programme nicht durch die Ticketeinnahmen gedeckt werden.",0
+"Ticketeinnahmen fangen nicht einmal an, die Kosten dieser Programme zu decken.",Die Kosten dieser Programme sind sehr hoch.,1
+"Ticketeinnahmen fangen nicht einmal an, die Kosten dieser Programme zu decken.",Das Ticket Einkommen wird auf jeden Fall die Kosten dieser Vorstellung decken.,2
+"Omnia vincit amor (es sei denn, du arbeitest für den Weekly Standard): Brit Hume (Fox News Sunday) spekuliert darüber, warum Lewinsky es nicht könnte. Sie ist immer noch hoffnungslos in den Präsidenten verknallt.",Brit Hume ist der Chefreporter bei Fox.,1
+"Omnia vincit amor (es sei denn, du arbeitest für den Weekly Standard): Brit Hume (Fox News Sunday) spekuliert darüber, warum Lewinsky es nicht könnte. Sie ist immer noch hoffnungslos in den Präsidenten verknallt.",Brit Hume arbeitet für CNN.,2
+"Omnia vincit amor (es sei denn, du arbeitest für den Weekly Standard): Brit Hume (Fox News Sunday) spekuliert darüber, warum Lewinsky es nicht könnte. Sie ist immer noch hoffnungslos in den Präsidenten verknallt.",Brit Hume arbeitet für Fox.,0
+Es wurde viel gemacht Michael Apted einzustellen um der Serie eine menschlichere Note zu geben.,"Michael Apted zerstörte die Serie, indem er darauf bestand, dass sie warme, menschliche Elemente herausnehmen.",2
+Es wurde viel gemacht Michael Apted einzustellen um der Serie eine menschlichere Note zu geben.,"Michael Apted wurde eingestellt, um der Serie eine persönliche Note zu verleihen.",0
+Es wurde viel gemacht Michael Apted einzustellen um der Serie eine menschlichere Note zu geben.,"Die Serie galt als kalt und langweilig, also war es wichtig, Michael Apted zu engagieren, um eine warme, persönliche Note hinzuzufügen, um die Bewertungen zu verbessern.",1
+ein Mädchen in einem weißen Pelz Parka und Stiefel zu sehen,Ein Mädchen ist zum Rodeln angezogen.,0
+ein Mädchen in einem weißen Pelz Parka und Stiefel zu sehen,Ein Mädchen trägt weiße Kleidung.,0
+ein Mädchen in einem weißen Pelz Parka und Stiefel zu sehen,Das Mädchen ist ganz in Rot gekleidet.,2
+"Was der Film nicht erwähnt, ist, dass Kaufman oft darüber gesprochen hat, wie er seinen eigenen Tod herbeiführen möchte.","Der Film erwähnt nicht, dass Kaufman seinen eigenen Tod diskutierte.",0
+"Was der Film nicht erwähnt, ist, dass Kaufman oft darüber gesprochen hat, wie er seinen eigenen Tod herbeiführen möchte.",Der Film hatte ein ausführliches Interview mit Kaufman über seinen Tod.,1
+"Was der Film nicht erwähnt, ist, dass Kaufman oft darüber gesprochen hat, wie er seinen eigenen Tod herbeiführen möchte.","Der Film war ein Blockbuster, obwohl einige wichtige Details über Kaufman ausgelassen wurden.",1
+"Rockefeller war in diesem gequälten Geben gefangen, als der Racheengel Tarbell begann, sein Fleisch in McClure's haltbar zu machen.",Rockefeller spendete an die Krebsforschung.,1
+"Rockefeller war in diesem gequälten Geben gefangen, als der Racheengel Tarbell begann, sein Fleisch in McClure's haltbar zu machen.",Rockefeller war großzügig.,2
+"Rockefeller war in diesem gequälten Geben gefangen, als der Racheengel Tarbell begann, sein Fleisch in McClure's haltbar zu machen.",Rockefeller war geizig.,2
+"Vor nicht allzulanger Zeit in einem Handelsfall in New York, hat sich Klayman am anderen Ende, einer Anschuldigung für ethnische Voreingenommenheit, gefunden",Klayman wurde in Kalifornien wegen ethnischer Voreingenommenheit angeklagt.,2
+"Vor nicht allzulanger Zeit in einem Handelsfall in New York, hat sich Klayman am anderen Ende, einer Anschuldigung für ethnische Voreingenommenheit, gefunden",Klayman hat nicht damit gerechnet wegen ethnischer Voreingenommenheit.,2
+"Vor nicht allzulanger Zeit in einem Handelsfall in New York, hat sich Klayman am anderen Ende, einer Anschuldigung für ethnische Voreingenommenheit, gefunden",Es gab Anschuldigungen wegen ethnischer Vorurteile gegen Klayman.,0
+"Man würde kaum erwarten, dass ein Raum voller korporativer Representanten bei einem sitzenden amerikanischen Arbeitsminister zischen, buhen und Unsinn schreien würde.",Korporative Vertreter tragen Anzüge.,0
+"Man würde kaum erwarten, dass ein Raum voller korporativer Representanten bei einem sitzenden amerikanischen Arbeitsminister zischen, buhen und Unsinn schreien würde.","Man würde erwarten, dass Unternehmensvertreter fauchen würden.",0
+"Man würde kaum erwarten, dass ein Raum voller korporativer Representanten bei einem sitzenden amerikanischen Arbeitsminister zischen, buhen und Unsinn schreien würde.","Man würde nicht erwarten, dass Unternehmensvertreter zischen würden.",0
+"Nur weil Ernährung die sportliche Leistung stärker beeinflusst, bedeutet das nicht, dass die Natur ruht.",Athleten haben schon von Geburt an ihr volles Leistungspotenzial.,1
+"Nur weil Ernährung die sportliche Leistung stärker beeinflusst, bedeutet das nicht, dass die Natur ruht.",Sportliche Leistung wird mehr durch Training beeinflusst als durch Genetik.,1
+"Nur weil Ernährung die sportliche Leistung stärker beeinflusst, bedeutet das nicht, dass die Natur ruht.",Die meisten guten Athleten trainieren mindestens acht Stunden in der Woche.,1
+"Endlich zu Hause, erfuhr ich, dass die Vereinigten Staaten Lieferungen auf zwei Arten abschneiden.",Ich interessiere mich für Politik.,1
+"Endlich zu Hause, erfuhr ich, dass die Vereinigten Staaten Lieferungen auf zwei Arten abschneiden.",Ich habe über die Vereinigten Staaten gelernt.,1
+"Endlich zu Hause, erfuhr ich, dass die Vereinigten Staaten Lieferungen auf zwei Arten abschneiden.","Ich habe gelernt, dass die Vereinigten Staaten Lieferungen auf zwei Arten abschneiden, bevor sie nach Hause kommen.",1
+"Die älteste und größte Universitätspresse der Welt - Oxford - hat gerade angekündigt, dass sie ihre Poesie-Liste aufgibt.",Die Poesie-Liste in Oxford wird nicht mehr fortgesetzt,0
+"Die älteste und größte Universitätspresse der Welt - Oxford - hat gerade angekündigt, dass sie ihre Poesie-Liste aufgibt.",Eine prestige Uni hat keine Finanzierung um die Liste der Poesie zu halten.,1
+"Die älteste und größte Universitätspresse der Welt - Oxford - hat gerade angekündigt, dass sie ihre Poesie-Liste aufgibt.","Die Universität widmet sich der Erhaltung der Poesie-Liste und schwört, sie niemals zu streichen.",2
+Es gibt jedoch einen Trostpreis für die Menschheit.,Der Trostpreis ist ein kostenloser Mixer mit zwei Geschwindigkeitsstufen für jede Person.,1
+Es gibt jedoch einen Trostpreis für die Menschheit.,Es gibt keine positive Seite für Menschen in dieser Situation.,2
+Es gibt jedoch einen Trostpreis für die Menschheit.,Das sind nicht nur schlechte Nachrichten für die Menschenheit.,1
+"Sport ist nicht die einzige Veranstaltung, auf die man wetten kann auf diesen Seiten.",Wetten über politische Wettstreite und Wahlen werden hier auch angenommen.,1
+"Sport ist nicht die einzige Veranstaltung, auf die man wetten kann auf diesen Seiten.",Diese Seiten akzeptieren nur Wetten auf Sportveranstaltungen.,2
+"Sport ist nicht die einzige Veranstaltung, auf die man wetten kann auf diesen Seiten.",Diese Plätze sind für verschiedene Aktivitäten unschlagbar.,1
+"Nachdem die demokratische Mitgliederversammlung in Atlantic City begonnen hatte, hat der damals 56-jährige N.J. Johnson am 25. August in drei aufgezeichneten Gesprächen damit gedroht, aus dem Präsidentschaftswahlkamp auszusteigen.",Johnson fühlte einen Mangel an Unterstützung.,1
+"Nachdem die demokratische Mitgliederversammlung in Atlantic City begonnen hatte, hat der damals 56-jährige N.J. Johnson am 25. August in drei aufgezeichneten Gesprächen damit gedroht, aus dem Präsidentschaftswahlkamp auszusteigen.","Johnson hat nie darüber nachgedacht, sich zurückzuziehen.",2
+"Nachdem die demokratische Mitgliederversammlung in Atlantic City begonnen hatte, hat der damals 56-jährige N.J. Johnson am 25. August in drei aufgezeichneten Gesprächen damit gedroht, aus dem Präsidentschaftswahlkamp auszusteigen.",Johnson drohte sich zurückzuziehen.,2
+Lamar Alexander zog seine Kandidatur zum Präsidentschaftskandidaten zurück.,"Mindestens eine Person gab seinen Versuch, Präsident zu werden, auf.",0
+Lamar Alexander zog seine Kandidatur zum Präsidentschaftskandidaten zurück.,"Lamar Alexander weigerte sich, seinen Präsidentschaftswahlkampf aufzugeben.",0
+Lamar Alexander zog seine Kandidatur zum Präsidentschaftskandidaten zurück.,"Herr Alexander wurde gezwungen, auszusteigen, nachdem peinliche Bilder von ihm veröffentlicht wurden.",1
+Am Anfang dieser traurigen Zivilfreiheitsaufzeichnung sind der Missbrauch des FBI in der originalen Reisebürountersuchung des Weißen Hauses und was nunmehr als Filigate bezeichnet wird.,Das Weiße Haus lässt den FBI politische Kandidaten ausspionieren.,1
+Am Anfang dieser traurigen Zivilfreiheitsaufzeichnung sind der Missbrauch des FBI in der originalen Reisebürountersuchung des Weißen Hauses und was nunmehr als Filigate bezeichnet wird.,Das Weiße Haus missbraucht das FBI.,0
+Am Anfang dieser traurigen Zivilfreiheitsaufzeichnung sind der Missbrauch des FBI in der originalen Reisebürountersuchung des Weißen Hauses und was nunmehr als Filigate bezeichnet wird.,Das Weiße Haus benutzt das FBI richtig.,0
+"Tung hat geschworen Immobilienspekulanten anzugreifen, aber viele denken dass sein Gebell schlimmer ist als sein Biss.",Tung sind Immobilienspekulanten egal.,2
+"Tung hat geschworen Immobilienspekulanten anzugreifen, aber viele denken dass sein Gebell schlimmer ist als sein Biss.","Tung denkt, dass Immobilienspekulanten handeln  unmoralisch.",1
+"Tung hat geschworen Immobilienspekulanten anzugreifen, aber viele denken dass sein Gebell schlimmer ist als sein Biss.",Tung möchte Immobilienspekulatoren beeinflussen.,0
+"Die Beschwerden umfassten Probleme mit dem Gepäck, mürrische Flugbegleiter, rätselhafterweise ausgefallene Flüge und fehlerhafte Rechnungen.",10 Leute haben ihr Gepäck verloren.,1
+"Die Beschwerden umfassten Probleme mit dem Gepäck, mürrische Flugbegleiter, rätselhafterweise ausgefallene Flüge und fehlerhafte Rechnungen.",Leute beschwerten sich über Gepäck.,0
+"Die Beschwerden umfassten Probleme mit dem Gepäck, mürrische Flugbegleiter, rätselhafterweise ausgefallene Flüge und fehlerhafte Rechnungen.",Es gab überhaupt keine Beschwerden.,2
+"Lawrence Singleton, ein wiederholter Vergewaltiger, der seinen Opfern die Unterarme entfernte und nur acht Jahre im Gefängnis verbrachte, wurde in Florida erneut verhaftet, nachdem er eine Frau erstach.","Nachdem er die Unterarme seiner Opfer abhackte, versuchte er sie in einer Mülltonne zu verstecken.",1
+"Lawrence Singleton, ein wiederholter Vergewaltiger, der seinen Opfern die Unterarme entfernte und nur acht Jahre im Gefängnis verbrachte, wurde in Florida erneut verhaftet, nachdem er eine Frau erstach.","Es war für jedermann offensichtlich, dass seine Zeit im Gefängnis ihn vollständig rehabilitiert hatte.",1
+"Lawrence Singleton, ein wiederholter Vergewaltiger, der seinen Opfern die Unterarme entfernte und nur acht Jahre im Gefängnis verbrachte, wurde in Florida erneut verhaftet, nachdem er eine Frau erstach.",Herr Singleton ist ein verurteilter Vergewaltiger in Florida.,0
+"Charles Lane von der New Republic sagt, dass Neuigkeiten über ein Kidnapping lediglich den unehrlichen Journalismus von Gabriel Garcaa Marquez fortsetzen.",Charles Lane ist ein Reporter.,1
+"Charles Lane von der New Republic sagt, dass Neuigkeiten über ein Kidnapping lediglich den unehrlichen Journalismus von Gabriel Garcaa Marquez fortsetzen.",Charles Lane verkaufte Autos.,2
+"Charles Lane von der New Republic sagt, dass Neuigkeiten über ein Kidnapping lediglich den unehrlichen Journalismus von Gabriel Garcaa Marquez fortsetzen.",Charles Lane gewann einen Pulitzer.,1
+Das Gerichtsgebäude ist nicht der einzigste politische Zirkus heute morgen in Washignton.,Das Gerichtsgebäude ist nicht der einzige politische Ort in Washington.,0
+Das Gerichtsgebäude ist nicht der einzigste politische Zirkus heute morgen in Washignton.,Der politische Tag beginnt wahrscheinlich am Morgen.,1
+Das Gerichtsgebäude ist nicht der einzigste politische Zirkus heute morgen in Washignton.,Es gibt eine Clownstruppe am Gerichtsgebäude.,1
+"Man kann sich einen Bulldozer vorstellen, als er eine Straße für eine neue Entwicklung freigibt, die vom Entwickler stammt  Hey, Loyd ...",Du kannst dir einen Bulldozer-Maschinenführer vorstellen der einen Bulldozer startet.,1
+"Man kann sich einen Bulldozer vorstellen, als er eine Straße für eine neue Entwicklung freigibt, die vom Entwickler stammt  Hey, Loyd ...",Sie können sich einen Bulldozer-Operator vorstellen.,1
+"Man kann sich einen Bulldozer vorstellen, als er eine Straße für eine neue Entwicklung freigibt, die vom Entwickler stammt  Hey, Loyd ...",Sie können Sich keinen gewalttätigen Unternehmer vorstellen.,2
+"Ich habe dies in einem Brief an Dr. gemeldet, es schien ihn zu amüsieren und er hat mir ein Früchtebrot zu Weihnachten geschickt.","Ich bin sicher, dass der Arzt den Brief erhalten hat, den ich ihm geschickt habe.",1
+"Ich habe dies in einem Brief an Dr. gemeldet, es schien ihn zu amüsieren und er hat mir ein Früchtebrot zu Weihnachten geschickt.","Ich habe den Kuchen, den mir der Doktor zu Weihnachten geschickt hat, nicht gegessen.",2
+"Ich habe dies in einem Brief an Dr. gemeldet, es schien ihn zu amüsieren und er hat mir ein Früchtebrot zu Weihnachten geschickt.",Der Arzt hat mir zu Weihnachten eine Flasche Wein geschickt.,2
+"Das Team war zuvor durch die denkwürdige Bezeichnung Beaneaters bekannt geworden, die in kurioser Weise auch als indischer Spitzname gelten könnte.","Das Team hat seinen Namen geändert, weil er nicht populär war.",1
+"Das Team war zuvor durch die denkwürdige Bezeichnung Beaneaters bekannt geworden, die in kurioser Weise auch als indischer Spitzname gelten könnte.","Das Team hatte vor diesem einen Namen, der auch als indianischer Spitzname gelten könnte.",0
+"Das Team war zuvor durch die denkwürdige Bezeichnung Beaneaters bekannt geworden, die in kurioser Weise auch als indischer Spitzname gelten könnte.",Das Team hatte immer nur den einen Namen.,2
+Ich konnte keine solche Definition im Thesaurus finden.,Ich habe die Definition im Thesaurus gefunden.,2
+Ich konnte keine solche Definition im Thesaurus finden.,Ich schlug es im Thesaurus nach und fand keine Definition.,0
+Ich konnte keine solche Definition im Thesaurus finden.,"Der Thesaurus, den ich benutzte, war der Standardthesaurus.",1
+Wie kann man das nur tun?,Wie können viele Menschen nichts tun?,2
+Wie kann man das nur tun?,Wie kann man so etwas Schlechtes tun?,1
+Wie kann man das nur tun?,"Wie ist es möglich, dass man das macht?",0
+"Darüber hinaus enthält es, laut dem Vorwort, ausschließlich Begriffe, die im Zwanzigsten Jahrhundert aufgekommen sind, aber spart den Militärjargon des frühen 20. Jahrhunderts aus.","Dem Vorwort zufolge enthält es Begriffe, die im zwanzigsten Jahrhundert entstanden sind, aber lässt den früher entstandenen Slang weg.",0
+"Darüber hinaus enthält es, laut dem Vorwort, ausschließlich Begriffe, die im Zwanzigsten Jahrhundert aufgekommen sind, aber spart den Militärjargon des frühen 20. Jahrhunderts aus.","Es enthält all den Slang, der von Anfang an in der Zeit enthalten war.",2
+"Darüber hinaus enthält es, laut dem Vorwort, ausschließlich Begriffe, die im Zwanzigsten Jahrhundert aufgekommen sind, aber spart den Militärjargon des frühen 20. Jahrhunderts aus.",Es gibt eine Menge verschiedener Slangs von vor dem zwanzigsten Jahrhundert.,1
+"Wenn jemand die Ausgabe von 1984 hätte, würde er es sicherlich vorziehen eine kürzere (und günstigere) Alternative zu kaufen, als die gleiche Ausgabe noch einmal.",Die 1984 Version ist die beste überhaupt.,1
+"Wenn jemand die Ausgabe von 1984 hätte, würde er es sicherlich vorziehen eine kürzere (und günstigere) Alternative zu kaufen, als die gleiche Ausgabe noch einmal.",Das Buch ist nicht zu verkaufen.,2
+"Wenn jemand die Ausgabe von 1984 hätte, würde er es sicherlich vorziehen eine kürzere (und günstigere) Alternative zu kaufen, als die gleiche Ausgabe noch einmal.",Die Ergänzung ist günstiger als das Buch.,1
+Bernstein erklärt in der Einleitung,Bernstein erklärt es nicht ausführlich.,1
+Bernstein erklärt in der Einleitung,Bernstein hat es nur in der Zusammenfassung erklärt.,2
+Bernstein erklärt in der Einleitung,Die Einleitung enthält eine Erklärung.,0
+"Es wird nicht behauptet, dass diese Themen untersagt werden sollten, sondern lediglich, dass es für einen Fremden selbst nach zwanzig Jahren der kulturellen Anpassung schwierig ist, zu unterscheiden, was an ihnen witzig ist.",Selbst Muttersprachler haben manchmal Probleme mit Humor.,1
+"Es wird nicht behauptet, dass diese Themen untersagt werden sollten, sondern lediglich, dass es für einen Fremden selbst nach zwanzig Jahren der kulturellen Anpassung schwierig ist, zu unterscheiden, was an ihnen witzig ist.",Humor ist in der Regel eines der einfachsten Dinge für Ausländer zu verstehen.,2
+"Es wird nicht behauptet, dass diese Themen untersagt werden sollten, sondern lediglich, dass es für einen Fremden selbst nach zwanzig Jahren der kulturellen Anpassung schwierig ist, zu unterscheiden, was an ihnen witzig ist.",Diese Themen sind für Außenstehende schwierig zu verstehen.,0
+Schließlich muss man sich vor einer Verlängerung in Acht nehmen die eine deutlich andere Bedeutung hat.,"Normalerweise werden Redakteure eingesetzt, um diese Art von Fehlern zu erkennen.",1
+Schließlich muss man sich vor einer Verlängerung in Acht nehmen die eine deutlich andere Bedeutung hat.,"Dehnung ist ein guter Weg, um sicherzustellen, dass die Bedeutung einer Aussage geklärt wird.",1
+Schließlich muss man sich vor einer Verlängerung in Acht nehmen die eine deutlich andere Bedeutung hat.,"Die Bedeutung verändert sich möglicherweise, wenn man die Aussage länger macht.",1
+Lass Deinen Kopf mit Hitze schwindelig werden.,Wärme auf den Kopf einer Person aufzutragen ist ein gutes Mittel ihren Fokus und Konzentration zu verbessern.,1
+Lass Deinen Kopf mit Hitze schwindelig werden.,Excessive Hitze kann in einigen Fällen Schwindel hervorrufen.,1
+Lass Deinen Kopf mit Hitze schwindelig werden.,Heute war es fünf Grad über dem jahreszeitlichen Durchschnitt.,1
+Kein anderer Beruf hat eine so reiche Tradition der Selbstironie.,Viele andere Berufe halten viel von sich.,2
+Kein anderer Beruf hat eine so reiche Tradition der Selbstironie.,Viele Berufe haben Traditionen der Selbstironie.,2
+Kein anderer Beruf hat eine so reiche Tradition der Selbstironie.,Kein anderer Job hat so eine robuste Tradition der Kritik an sich selbst.,0
+"Und mit einem Anklang von Stolz benutzen diese Lumpen, mit ihren durch lokal überlieferte Weisheiten negativ besetzten Namen, diese Spitznamen in privaten Korrespondenzen, Kneipenunterhaltungen und inoffiziellen Lebensläufen.",Die Zeitungen haben überhaupt keinen Ruf.,2
+"Und mit einem Anklang von Stolz benutzen diese Lumpen, mit ihren durch lokal überlieferte Weisheiten negativ besetzten Namen, diese Spitznamen in privaten Korrespondenzen, Kneipenunterhaltungen und inoffiziellen Lebensläufen.",Diese Zeitungen haben keinen guten Ruf.,2
+"Und mit einem Anklang von Stolz benutzen diese Lumpen, mit ihren durch lokal überlieferte Weisheiten negativ besetzten Namen, diese Spitznamen in privaten Korrespondenzen, Kneipenunterhaltungen und inoffiziellen Lebensläufen.",Diese Zeitungen enthalten viel Klatsch von den Hausfrauen.,2
+wenn lite/light nur eine charakteristik des Biers beschreibt (z.B.,Auf dem Bier kann entweder lite oder light stehen.,0
+wenn lite/light nur eine charakteristik des Biers beschreibt (z.B.,"Lite und Light werden nur verwendet, um Weine und Whiskey zu beschreiben.",2
+wenn lite/light nur eine charakteristik des Biers beschreibt (z.B.,Leichtbier hat keinen hohen Alkoholgehalt.,1
+"Das arme überarbeitete Substantiv wurde sogar dort benutzt, wo weder es noch irgendeine Alternative gebraucht wurden.","Leute haben Schwierigkeiten, ein alternierendes Nomen zu finden.",1
+"Das arme überarbeitete Substantiv wurde sogar dort benutzt, wo weder es noch irgendeine Alternative gebraucht wurden.",Das Substantiv wird zu oft verwendet.,0
+"Das arme überarbeitete Substantiv wurde sogar dort benutzt, wo weder es noch irgendeine Alternative gebraucht wurden.",Das Substantiv sollte mehr verwendet werden.,2
+"Darüber hinaus haben wir die unglückliche Tatsache, dass wortgewandtes Schreiben tatsächlich manchmal einprägsam ist und das Problem noch verschlimmert.",Menschen erinnern sich viel eher an schlechtes Schreiben.,1
+"Darüber hinaus haben wir die unglückliche Tatsache, dass wortgewandtes Schreiben tatsächlich manchmal einprägsam ist und das Problem noch verschlimmert.",Einen gut geschriebenen Text kann man sich oft viel besser merken als einen schlecht geschriebenen Text.,1
+"Darüber hinaus haben wir die unglückliche Tatsache, dass wortgewandtes Schreiben tatsächlich manchmal einprägsam ist und das Problem noch verschlimmert.","Gut geschriebener Text ist zu teuer, um ihn in großen Mengen zu produzieren.",1
+"Angesichts dieser Haltung und einiger Ehrfurcht haben die Briten ihren Respekt anerkannt, indem sie das Wort groß geschrieben haben.",Die Briten hatten keinen Respekt.,2
+"Angesichts dieser Haltung und einiger Ehrfurcht haben die Briten ihren Respekt anerkannt, indem sie das Wort groß geschrieben haben.",Die Briten übernahmen die Weltwirtschaft.,1
+"Angesichts dieser Haltung und einiger Ehrfurcht haben die Briten ihren Respekt anerkannt, indem sie das Wort groß geschrieben haben.",Die Briten haben viel auf der Welt gehandelt.,1
+Und manchmal ist es auch das raffinierteste.,"Es kann manchmal sehr schwierig sein, es zu erkennen.",1
+Und manchmal ist es auch das raffinierteste.,Es macht sehr wenig Lärm dank eines sorgfältig isolierten Motors.,1
+Und manchmal ist es auch das raffinierteste.,Es war immer sehr leicht aus jeder Entfernung zu erkennen.,2
+"Natürlich gibt es in Großbritannien mehr charakteristische Dialekte des Englischen als in Nordamerika, und jeder, der sich die Zeit genommen hat, ihnen zuzuhören, weiß, dass einige gegenseitig unverständlich sind.","Großbritannien hat viele unterscheidungskräftige englische Dialekte, mehr als jene in Nordamerika.",0
+"Natürlich gibt es in Großbritannien mehr charakteristische Dialekte des Englischen als in Nordamerika, und jeder, der sich die Zeit genommen hat, ihnen zuzuhören, weiß, dass einige gegenseitig unverständlich sind.",Nordamerikanische und britische Dialekte sind genau gleich und man kann keinen Unterschied zwischen ihnen ausmachen.,2
+"Natürlich gibt es in Großbritannien mehr charakteristische Dialekte des Englischen als in Nordamerika, und jeder, der sich die Zeit genommen hat, ihnen zuzuhören, weiß, dass einige gegenseitig unverständlich sind.","Menschen aus Nordamerika haben es schwer, die Hälfte der gesprochenen britischen Dialekte zu verstehen.",1
+"Ein Informant aus Tennessee nutzte den Ausdruck Hundewetter für heißes, trockenes Wetter. Dies ist möglicherweise abgeleitet von der Wendung Hundetage für August-Wetter.","Nach Angaben des Informanten wurde der Begriff Hundewetter verwendet, um den saisonalen Monsunregen zu beschreiben.",1
+"Ein Informant aus Tennessee nutzte den Ausdruck Hundewetter für heißes, trockenes Wetter. Dies ist möglicherweise abgeleitet von der Wendung Hundetage für August-Wetter.",Juni und Juli sind auch sehr heiß in Tennessee.,1
+"Ein Informant aus Tennessee nutzte den Ausdruck Hundewetter für heißes, trockenes Wetter. Dies ist möglicherweise abgeleitet von der Wendung Hundetage für August-Wetter.",Das Wetter ist an den meisten Tagen im August heiß und regenlos.,1

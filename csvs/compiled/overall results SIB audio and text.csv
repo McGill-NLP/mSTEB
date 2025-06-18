@@ -1,0 +1,103 @@
+Language,Language Family,sib_fleurs - gemini-2.0-flash TC Accuracy (%),language_name,language_family,SIB Gemini-2-Flash (Apr 2025)
+Afrikaans,Indo-European,85.19,Afrikaans,Indo-European,89.7
+Amharic,Afro-Asiatic,79.22,Amharic,Afro-Asiatic,87.3
+Armenian,Indo-European,86.11,Armenian,Indo-European,85.3
+Assamese,Indo-European,81.29,Assamese,Indo-European,87.3
+Asturian,Indo-European,82.74,Asturian,Indo-European,90.2
+Belarusian,Indo-European,84.54,Belarusian,Indo-European,88.2
+Bengali,Indo-European,85.62,Bengali,Indo-European,89.7
+Bosnian,Indo-European,86.41,Bosnian,Indo-European,89.7
+Bulgarian,Indo-European,87.16,Bulgarian,Indo-European,88.2
+Burmese,Sino-Tibetan,79.82,Burmese,Sino-Tibetan,84.3
+Catalan,Indo-European,85.87,Catalan,Indo-European,88.7
+Cebuano,Austronesian,84.17,Cebuano,Austronesian,86.8
+Central Kurdish,Indo-European,77.02,Central Kurdish,Indo-European,87.3
+Chinese (Simplified),Sino-Tibetan,86.60,Chinese (Simplified),Sino-Tibetan,88.2
+Chinese (Traditional),Sino-Tibetan,79.33,Chinese (Traditional),Sino-Tibetan,87.3
+Croatian,Indo-European,85.75,Croatian,Indo-European,89.2
+Czech,Indo-European,84.62,Czech,Indo-European,88.2
+Danish,Indo-European,84.09,Danish,Indo-European,89.7
+Dutch,Indo-European,86.44,Dutch,Indo-European,85.8
+Eastern Panjabi,Indo-European,82.94,Eastern Panjabi,Indo-European,89.7
+English,Indo-European,87.19,English,Indo-European,85.8
+Estonian,Uralic,84.03,Estonian,Uralic,86.3
+Finnish,Uralic,85.68,Finnish,Uralic,90.2
+French,Indo-European,86.24,French,Indo-European,87.3
+Galician,Indo-European,84.63,Galician,Indo-European,86.8
+Ganda,Atlantic-Congo,74.00,Ganda,Atlantic-Congo,79.9
+Georgian,Kartvelian,83.54,Georgian,Kartvelian,88.2
+German,Indo-European,82.58,German,Indo-European,89.7
+Greek,Indo-European,83.58,Greek,Indo-European,88.7
+Gujarati,Indo-European,81.13,Gujarati,Indo-European,89.2
+Halh Mongolian,Mongolic-Khitan,82.99,Halh Mongolian,Mongolic-Khitan,84.8
+Hausa,Afro-Asiatic,82.32,Hausa,Afro-Asiatic,85.3
+Hebrew,Afro-Asiatic,83.88,Hebrew,Afro-Asiatic,89.2
+Hindi,Indo-European,86.06,Hindi,Indo-European,87.7
+Hungarian,Uralic,83.22,Hungarian,Uralic,87.7
+Icelandic,Indo-European,86.96,Icelandic,Indo-European,91.7
+Igbo,Atlantic-Congo,47.93,Igbo,Atlantic-Congo,82.8
+Indonesian,Austronesian,81.43,Indonesian,Austronesian,89.2
+Irish,Indo-European,50.12,Irish,Indo-European,90.2
+Italian,Indo-European,84.40,Italian,Indo-European,87.3
+Japanese,Japonic,84.27,Japanese,Japonic,89.2
+Javanese,Austronesian,81.30,Javanese,Austronesian,86.3
+Kabuverdianu,Indo-European,85.42,Kabuverdianu,Indo-European,86.8
+Kamba,Atlantic-Congo,53.53,Kamba,Atlantic-Congo,72.1
+Kannada,Dravidian,81.30,Kannada,Dravidian,87.3
+Kazakh,Turkic,82.75,Kazakh,Turkic,87.7
+Khmer,Austroasiatic,79.22,Khmer,Austroasiatic,88.7
+Korean,Koreanic,84.50,Korean,Koreanic,85.3
+Kyrgyz,Turkic,82.83,Kyrgyz,Turkic,87.7
+Lao,Tai-Kadai,81.77,Lao,Tai-Kadai,89.2
+Lingala,Atlantic-Congo,71.78,Lingala,Atlantic-Congo,84.3
+Lithuanian,Indo-European,82.26,Lithuanian,Indo-European,86.8
+Luo,Nilotic,55.64,Luo,Nilotic,74
+Luxembourgish,Indo-European,76.16,Luxembourgish,Indo-European,88.7
+Macedonian,Indo-European,85.92,Macedonian,Indo-European,89.7
+Malayalam,Dravidian,83.58,Malayalam,Dravidian,87.7
+Maltese,Afro-Asiatic,79.23,Maltese,Afro-Asiatic,88.2
+Maori,Austronesian,44.69,Maori,Austronesian,87.7
+Marathi,Indo-European,84.97,Marathi,Indo-European,86.8
+Modern Standard Arabic,Afro-Asiatic,81.52,MSA (Arabic),Afro-Asiatic,89.2
+Nepali,Indo-European,82.69,Nepali,Indo-European,87.3
+Nigerian Fulfulde,Atlantic-Congo,53.35,Nigerian Fulfulde,Atlantic-Congo,70.6
+North Azerbaijani,Turkic,83.33,North Azerbaijani,Turkic,86.8
+Northern Sotho,Atlantic-Congo,62.13,Northern Sotho,Atlantic-Congo,85.8
+Northern Uzbek,Turkic,84.30,Northern Uzbek,Turkic,86.3
+Norwegian Bokmål,Indo-European,89.84,Norwegian Bokmål,Indo-European,86.3
+Nyanja,Atlantic-Congo,69.35,Nyanja,Atlantic-Congo,84.8
+Occitan,Indo-European,79.29,Occitan,Indo-European,88.7
+Odia,Indo-European,82.74,Odia,Indo-European,88.2
+Polish,Indo-European,85.11,Polish,Indo-European,87.7
+Portuguese,Indo-European,85.31,Portuguese,Indo-European,87.3
+Romanian,Indo-European,84.43,Romanian,Indo-European,89.2
+Russian,Indo-European,87.76,Russian,Indo-European,87.3
+Serbian,Indo-European,84.92,Serbian,Indo-European,88.2
+Shona,Atlantic-Congo,74.95,Shona,Atlantic-Congo,85.8
+Sindhi,Indo-European,80.89,Sindhi,Indo-European,88.2
+Slovak,Indo-European,83.96,Slovak,Indo-European,91.2
+Slovenian,Indo-European,85.11,Slovenian,Indo-European,90.7
+Somali,Afro-Asiatic,67.58,Somali,Afro-Asiatic,82.8
+Southern Pashto,Indo-European,70.61,Southern Pashto,Indo-European,86.3
+Spanish,Indo-European,86.67,Spanish,Indo-European,89.2
+Standard Latvian,Indo-European,84.47,Standard Latvian,Indo-European,89.2
+Standard Malay,Austronesian,83.73,Standard Malay,Austronesian,88.7
+Swahili,Atlantic-Congo,86.19,Swahili,Atlantic-Congo,87.7
+Swedish,Indo-European,82.53,Swedish,Indo-European,89.2
+Tagalog,Austronesian,85.06,Tagalog,Austronesian,85.8
+Tajik,Indo-European,82.52,Tajik,Indo-European,89.2
+Tamil,Dravidian,81.27,Tamil,Dravidian,86.8
+Telugu,Dravidian,81.51,Telugu,Dravidian,87.3
+Thai,Tai-Kadai,83.17,Thai,Tai-Kadai,84.8
+Turkish,Turkic,84.45,Turkish,Turkic,87.7
+Ukrainian,Indo-European,81.89,Ukrainian,Indo-European,89.2
+Umbundu,Atlantic-Congo,35.19,Umbundu,Atlantic-Congo,57.8
+Urdu,Indo-European,85.80,Urdu,Indo-European,89.2
+Vietnamese,Austroasiatic,83.30,Vietnamese,Austroasiatic,87.7
+Welsh,Indo-European,62.09,Welsh,Indo-European,87.3
+West Central Oromo,Afro-Asiatic,61.11,West Central Oromo,Afro-Asiatic,80.4
+Western Persian,Indo-European,84.58,Western Persian,Indo-European,85.3
+Wolof,Atlantic-Congo,65.45,Wolof,Atlantic-Congo,79.9
+Xhosa,Atlantic-Congo,80.65,Xhosa,Atlantic-Congo,86.3
+Yoruba,Atlantic-Congo,67.70,Yoruba,Atlantic-Congo,84.8
+Zulu,Atlantic-Congo,80.56,Zulu,Atlantic-Congo,87.7

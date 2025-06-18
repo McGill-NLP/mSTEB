@@ -1,0 +1,601 @@
+premise,hypothesis,label
+"Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.",Tee noñatajeriji.,2
+"Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.",Ikisanaka iroosati noñaatanatantajari.,0
+"Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.",Nokenketsajeitake.,1
+"Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.",Tee niobeiteaji kaari aparonitatsiri atiri aranki kitaiteriki.,1
+"Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.",Nojitakanti iritake apaniro ñaakarontsitakarori antaberentsiki AFFC Air Force Career oshintsine tampea.,0
+"Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.","Maaroni ipajeitakenaro iroori ñaakarontsi, tekatsi ojitasanotanakea ikantayeetakenari, maaroni irointi tseyantsi.",2
+Ikantetakena oka... aparo kajemenane noñaabakanteari.,Tekatsi ikantetena niyoteri.,2
+Ikantetakena oka... aparo kajemenane noñaabakanteari.,Ikantetakena ikajemakantena aparo atiri iyotenane.,0
+Ikantetakena oka... aparo kajemenane noñaabakanteari.,Iyotenane ikonijatake ishabiniji.,1
+"Osheki ikantetakoterori oka, omatea nomitajero oka.",¡Nokoi nokenketsatimotempiro maaroni kantakotirori ora!,2
+"Osheki ikantetakoterori oka, omatea nomitajero oka.","Eiro noñaanatakotajirotsi oka, omabetakea timatsi osheki amanakoteri.",0
+"Osheki ikantetakoterori oka, omatea nomitajero oka.",Eiro noñaanatakotajirotsi okantakota ora kenketsatakorentsi ashi nampitsi tempa timatsi osheki ankanter.,1
+"Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.",Tee opokimotanajee akempoyaayetanajero.,2
+"Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.",Akoajeiti ababisakotajero paitarika timatsiri kaarikea otsipa.,0
+"Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.",Akoajeiti ababisakotajero bomba nija tempakea opomerentsitasanota antakotantearori.,1
+Tee okonijamotenaji kameetsa tempakea.,Irootake nokenkeshireantakarori timatsineri.,2
+Tee okonijamotenaji kameetsa tempakea.,Tee niyoteji paita ipantajarori obametantsipankopee.,1
+Tee okonijamotenaji kameetsa tempakea.,Tee niyoteji paita otimantakari oka.,0
+"Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.",Fannie Flono otimatie napiitakotajero aisati eiro omata akenketsatakotero apaitapeerika kenketsatakorentsi meeka.,2
+"Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.","Fannie Flono jerokatake aka ari oñaanatakotero okantakota oyenketsatakore ashi orijanitantapaari otimotantanakari Augustaki,AG.",0
+"Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.",Fannie Flono omatiro oñaanatakotero meeka omabetakea timatsi antayeteri.,1
+Aisati obetsikake koni soraaropanko ashi U2.,Nokantakero ora U2.,0
+Aisati obetsikake koni soraaropanko ashi U2.,Tee nojibaterini anta U2 omateaji.,2
+Aisati obetsikake koni soraaropanko ashi U2.,Nantabeetake soraaropankoki ashi U2 maaroni kitaiteriki okarate otsitsa osarentsi.,1
+Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.,Tee onimoshirenaji apaniro nantero ora manankobentirori ashi ñaantamentsotsipee.,1
+Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.,Ora ñaantamentotsipee antajeitaka anta shiakamentotsiki jenoki orijanikiki.,0
+Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.,Otimake aparopeeniki aroriki ajibajeitakero amanakobentiroripee ashi ñaantamentotsi.,2
+"Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.",Irosatitatsi nantabeeti oka kitaiteriki.,2
+"Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.",Noshitoanaji 2002.,1
+"Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.",Rick ikantimpi shitobanajana.,0
+"Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.",Yora ayompariteari ipajita Cutty ikaanata $ 10000 kashiriki.,1
+"Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.",Timatsi ayompariteari pajitachari Cutty.,0
+"Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.",Tee itimajeite ayompariteari pajitachari Cutty.,2
+Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.,Ora tsinane nokoiri amitakotena osaiki arejiki.,0
+Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.,Ora jananeki amitakotenaneri otimi 5 millas oparikotiti.,1
+Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.,Tekatsi amterone amitakotenane.,2
+"Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…",Maaroni yakabakaajeitaka yantabejeite maaroni anta obantsiki.,2
+"Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…",Tee imateroji yakabakaajeitea okantakota irako irashi antabetinkari iroitake saikatsiri pankotsiki.,0
+"Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…",Tee imateroji yakabakaajeitea jaanikarika antabetatsineri obantsiki ashi empeji aisati janikarika amashiteroneri piisopee.,1
+"Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.",Irori tee ikoanaje iñaanantanaje.,2
+"Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.",Iñaantakotiro maba kiajamentotsi pashinitatsiri.,1
+"Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.",Iñaanatakotiro maba konijayetatsiri.,0
+"Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.",Maaroni itomipee itimajeitanake.,2
+"Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.",Aparoni jananeki ikamake koni irosarentsite.,0
+"Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.",Yora jananeki kamaintsiri yamashibeta itimantakari.,1
+"Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.",Ora U2 ajeitake osheki shiakabentantsi.,0
+"Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.",Ora U2 ajeitake aparo tonerara ashi shiakabentantsi asaabiki nija.,1
+"Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.","Tee otimimojeiteji antantearori timaarantatsiri, otimatiye ayotashitajearo.",2
+"Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.","Ikantantakariri pataite porcheki, otimi ijakipee irokiki.",0
+"Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.",Iroori opirijatantajaro intsipaite ojaki impoiji yojokantakari Joe nikoji porcheki.,2
+"Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.",Ikimoshiretake iñaakeri Joe iraanaka.,1
+"Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?",Ora opeanteari katsirinkarijenka aitake otimiri ariorika otime tayetantsi.,1
+"Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?",Ora opeateari katsirinkajenkari oshitoayeti karayetirori koasanotachari impoiji ariorika otaya aparo arakomentotsi.,0
+"Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?",Ora opeanteari katsirinkajenkari tee oshitaojenkate ariroika otime aparo tantsi.,2
+"Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.",Yora pinkatsari shitobanaintsiri Fuerza Aérea irashi Estados Unidos.,0
+"Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.",Yora pinkatsari irobakera ishitobanake oka tsonkitai.,1
+"Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.",Yora pinkatsari Fuerza Aérea irashi Estados Unidos irobakera intaro obametantsi oka tsonkitai.,2
+"Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.",Aparo arakomentotsi aretea aparoniki tsonkitai.,0
+"Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.",Oshekianake arakomentotsipee arayeti irointi pomerentsitantsi.,1
+"Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.",Tee aretajeaji katsini aparopenin arakomentotsi.,2
+Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.,Osamanitake maba kashiri omonkaratanteari ñaantamentotsi ikitsatantearori ora traje ashi shintsitatsiri.,1
+Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.,Ora ñaantamentotsi antantearori ora traje ashi shintsitatsiri okoitea kitaiteri.,0
+Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.,Ari omatakea añantearo ora traje ashi shintsitatsiri omonkaratea otsonkanteari kitaiteri.,2
+Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.,Ora kepiarijenkari itsibakajiro yora antakotirori arakomentotsi.,1
+Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.,Ora kepiarijenkari tee otimeji otonkanteari.,0
+Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.,Otimabetaka aparo kobenkatatsiri otonkantearime kepiarijenkari.,2
+Jaoka okanteari okemeteari okarati nantemeri.,Te niyotasanote jaoka okantimotimpi oka.,2
+Jaoka okanteari okemeteari okarati nantemeri.,"Mataka, nomatanentakero nantero.",0
+Jaoka okanteari okemeteari okarati nantemeri.,Nantanatiro notsonkantearori nantabeere otsipaniki tsonkitai.,1
+"Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.",Yora kaabirapee ishiajeitanaka itantoki maaroni kitateripeeki.,1
+"Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.",Yora kaabirapee ishiajeitanaka kapichajitatsiri.,0
+"Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.",Yora kaabirapee isaikajeitanake aisati yabisakojeitake.,2
+"Akeiajeitake, ora ashitakorontsi ashijeitaka.",Maaroni ashitakorontsi ashitareajeitaka.,2
+"Akeiajeitake, ora ashitakorontsi ashijeitaka.",Atimajeitiro ora ashitareamentotsipee.,1
+"Akeiajeitake, ora ashitakorontsi ashijeitaka.",Akiajeitake ayobetaka ashijeitaka ashitakorontsipee.,0
+Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.,Nokantajeiti ora timajeitatsiri iroojeitake nokoajeitiri nobetsikanteariori oka.,1
+Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.,"Tee otimimotenaji kenkeshireantsi paita anteri ikarati timajeitatsiri. Pipeakotakayenaro, pipena kenkeshireantsi nobetsikantajearori oka entuerto.",2
+Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.,Ari nomonkaratakero noijatanakeri timajeitatsiripee.,0
+"Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.",Nokimoshiretake aisati ojaakena kimoshiretantsi noposapaakero ootikaakotari ashitakorontsi.,2
+"Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.","Nokoabetaka eiro iyoyetaname nantakeri, iro niyojeitake narojeitake antakerori pomerentsitantsi.",1
+"Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.",Apatiro namenakero iboro ikiantapaakariashitakorontsiki nojitake imaninteetakeri.,0
+"Opoña, tee aneroji kenketsatakorentsi konijaperori.",Tee otimimotenaji aparo nobaararo nashiteari.,0
+"Opoña, tee aneroji kenketsatakorentsi konijaperori.",Timatsi nobaararo konijaperori.,2
+"Opoña, tee aneroji kenketsatakorentsi konijaperori.",Timatsi osheki obararontsipee.,1
+Iriori tee katsini otimimoteri yanteri irioriki.,Iriori yai osheki amitakotantsi.,0
+Iriori tee katsini otimimoteri yanteri irioriki.,Iriori yai amitakotantsi yobanteari aisati iitsare.,1
+Iriori tee katsini otimimoteri yanteri irioriki.,Iriori ini apanirotinkari.,2
+"Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.",Ramona osaikake kipatsiki okirotaka okemetari irijanitatsiri.,2
+"Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.",Ramona okantimatakena nomareretira.,1
+"Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.",Ramona oibotanaka nosaikaiti napankaiti nobante.,0
+¡Aisati keariotatsiri irointi intsipate!,"Obaka osheki obanarontsi, tee otenateji.",1
+¡Aisati keariotatsiri irointi intsipate!,Iroori tee abisheni osheki.,0
+¡Aisati keariotatsiri irointi intsipate!,Iroori okimoshiretasanotake.,2
+Tee niyoteji osaikanakerika Augustaki impoijirika oka.,Iriori irosati itimi Augustaki otimanakari impoijini antabakantsipee.,1
+Tee niyoteji osaikanakerika Augustaki impoijirika oka.,Iriori irosatitatsi itimi Augustaki.,0
+Tee niyoteji osaikanakerika Augustaki impoijirika oka.,Ishitoanaji nikoji Augustaki intsipaite.,2
+"Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.",Tekatsi katsini nosampiteri jaoka ijajeiteri.,1
+"Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.",Ikantani iyotakaajeite jaoka isaikajeitiri aisati jaoka ijajeiteri.,2
+"Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.",Teakatsi katsini ikantajeite jaoka ijajeiteri.,0
+Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.,Eiro pipinabentajeitanantsi narorijei.,2
+Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.,Ipinabentajeitanaro ora pankotsi nashi jero irashi noreentipee.,1
+Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.,Ipinabentajeitiro ora pankotsi.,0
+"Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.",Kennedy ikantajeitakeri asorarotepee yamenayete misiles.,0
+"Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.",Tee okatiyajeiteji kenamentotsi teempakea teeokoajeiteji antabakantsi.,2
+"Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.",Iñaajeitapake 20 misiles kenamentotsiki.,1
+"Paitarika timatsineri, yora shirampari ikie.",Yora shirampari ikiapaake pinkatsaritsipankoki.,1
+"Paitarika timatsineri, yora shirampari ikie.",Yora shirampari ikiapaake tantorentsiki.,0
+"Paitarika timatsineri, yora shirampari ikie.",Yoran shirampari ishianaka otsapinampiki omontsantari.,2
+"Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.",Yaanakena osheki kitaiteripeeirosati ibankoki chainepee.,1
+"Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.",Nochainepee iriintini tsipabakaachari kameetsari.,0
+"Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.",Nochainepee ikantani iriorijei ishemashireanta tee onimotena nareateari ibankoki.,2
+Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.,Ari nomatakero notsonkero noiminkiyero ishaabiniji.,1
+Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.,Nominkiakero maaroni kitateriki.,2
+Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.,Nosaikanake tekatsi noitaiterite noiminkiantearori maaroni.,0
+"Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.",Ora kipiarijenkari atomica tee añeroji gatillo.,2
+"Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.",Yora kijakotirori ikijiro ora kepiarijenkari arorika yojokero iriori.,0
+"Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.",Apatiro ikoayeeti kapichaji shintsitantsi ajokantearori gatillo ashi kipiarijenkari atomi.,1
+"Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.",Okantani okemisantiro kenketsatakorentsipee ashi nosaro.,1
+"Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.",Nosaro okantani tee oñaanatakotero irijanikitantapaakari.,2
+"Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.",Nosaro okenketsatakaana osheki paitarika ashi osahninka irijanikitantapaakari.,0
+"Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.",Aitsarepee tee okonijatimoteeji okempetantearori irashi austronautas.,2
+"Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.","Aitsarepee irosatitatsi irashi astronautas, irompa ashi masabirentsi, iro ashi obetsikajeitaka.",0
+"Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.",Ari imatakea yaye kitsarentsipee paitarika potsorentsipee ikoiri.,1
+"Nojatake, nosaro tee ojateji kameetsariki shirampari.",Nochaine irirnti aparo kaariperori.,0
+"Nojatake, nosaro tee ojateji kameetsariki shirampari.",Nochaine iriperorini manintantatsiri aisati kaa kameetsari.,1
+"Nojatake, nosaro tee ojateji kameetsariki shirampari.",¡Nochaine irintini atiri kameetsashireari piñeeri aparo koajikani!,2
+"Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.",Tee otimimojeiteni abetsikajeitanteari.,2
+"Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.",Añantajeita okarati 5 tsonkitai akaratiri britanicos.,1
+"Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.",Añantajeita akaratiri itsipa osheki soraropee.,0
+"Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.",Iroori tee oñaanatenaji.,2
+"Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.",Ikantana pamene paitarika.,0
+"Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.",Iroori okantana amenayete kamantakoyeteroneri ashi kirekitsaki.,1
+Ikanti ikenanake ijati kirinkaki.,Ikanti nokatiyayetanaka aparopeeniki abotsi.,1
+Ikanti ikenanake ijati kirinkaki.,Ikanti ikenake ijati katonko.,2
+Ikanti ikenanake ijati kirinkaki.,Ikanti ijajeiti anta kirinkaki.,0
+"Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.",Tee noñaanateji aparoni kiribiro timatsiri 100 obana.,1
+"Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.",Tee noñaanateji osheki kiribiropee.,0
+"Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.",Noñaanatiro kiribiropee maaroni kitaiteriki.,2
+Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.,Nojokanakero motirentsi aisati nokenkeshireanaka kaari oni nashi pomerentsiri.,2
+Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.,Naanajiro motirentsi anta itantoreki.,1
+Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.,Naanajiro motirentsi anta jaoka ashitaroriki.,0
+Okampiamotajana nokantayeta keariperori.,Ora ikantayetari irosati ikanta monkarataka okantapinitaka.,2
+Okampiamotajana nokantayeta keariperori.,Abishisanake kimoshirentsi irosati obashirentsiki.,1
+Okampiamotajana nokantayeta keariperori.,Ora ikantayetari okampiatnaka osheki.,0
+"Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.",Tee yobayeetenaji anojatanteari obametantsipankoki.,2
+"Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.",Yobayeetakena nojatanteari anta obametantsipankoki.,0
+"Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.",Narobetaka yojokimetenteri koasanotachari.,1
+"Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.",Maaroni atiripee tee imateroji ñaantamentotsipee eiro katsini yareetaro yare U2.,1
+"Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.",Otimatiye yabishero osheki iñaantakayari tekerata yarakote U2.,0
+"Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.",Apatiro ishineyeeteri yarakote U2 jibatatsiriki kitaiteri.,2
+Narosati jibatakanteroneri irosatitatsiri.,Notikantearo irobakerari yantayetantearori.,2
+Narosati jibatakanteroneri irosatitatsiri.,Notikantearo irosatitatsi konijatatsiri otsipasatoki revistas.,1
+Narosati jibatakanteroneri irosatitatsiri.,Noñaanatiro irosatitatsiri konijatatsiri irioririjei.,0
+"Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.",Yora sorarotatsiri eiro imatirotsi ipempa embajadora ashi TX.,2
+"Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.",Yora sorarotatsiri ipajireakoyetakeri Embajadores ashi Texas Congreso ashi Estados Unidos.,1
+"Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.",Yora sorarotatsiri ikajemayeetakeri Embajadores ashi TX.,0
+Aririkame otimeme yantearori ari imatakero yantero.,Naro ari nomatakero nantero paitarika.,0
+Aririkame otimeme yantearori ari imatakero yantero.,Piyobetaka tekatsi timatsine ora nantemeri.,2
+Aririkame otimeme yantearori ari imatakero yantero.,Nokenkeshireakota ari nomatakero nantayete paitarika nobabisakotanteariri.,1
+"Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.",Iroori okantani okimoshiretakairo ireento.,2
+"Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.",Onijantasanotanakero ireento tee oyoteni antero kameetsari.,1
+"Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.",Iroori kantantinkaroni otsipataroni ireento.,0
+Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.,Aakero impokirotsate okoakotantini okajemanteari.,1
+Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.,Nokajemakero ora ñakarontsi ariorika naretakea obankoki.,0
+Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.,"Ikanteeti akajemero, iro tee nanteroji.",2
+"Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.","Meeka tee nojaiteji, arikea tee noñeeroji.",2
+"Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.","Nonijantaka gimnasioki ,meeka ari iriori ipokake ishaabiniji ibetsatakena.",1
+"Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.",Nonijantaka oka okitaitemani aisati iriori ipokake.,0
+Tee ayojeiteni jaoka ijajeitiri.,Tee ayojeiteni jaoka ikibantiri apatorentsitakoriki.,1
+Tee ayojeiteni jaoka ijajeitiri.,Tee ayojeiteni jaoka ikibanteri yora atiri.,0
+Tee ayojeiteni jaoka ijajeitiri.,ayojeitini jaoka yareejeiteari.,2
+"Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.",Tee añeeroji itasheasanotanteari.,2
+"Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.","Otimini itashe, irosati nokantantanaka noyarota irobanaro.",0
+"Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.","Nokameme notashe, irosati nojatantaka cafeteriaki.",1
+"Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.",Iroobetanchame nojokanajero.,0
+"Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.",Okatsitimotanakena tee nomatajeroji namabetajero.,1
+"Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.",Tee abishimotena katsini noitoki nojokantajearori.,2
+"Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.",Notimake tekeratani 1900.,0
+"Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.",Notimake chakopiiteriki 1880.,1
+"Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.",Iriori tee itimeji irosati 1984.,2
+Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.,Oka tornillo ari amashitakero bijon karentsi janikarika.,0
+Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.,"Ora tornillo tee okobenkateji, ari pitsinakero pikoayetiri.",2
+Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.,Ora tornillo okianake ñaamentotsiki ari amshiatkero bijonkarentsipee.,1
+"Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.","Itiyankayetakena Del Rio, Texas nantabeetanteari.",0
+"Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.",Tee katsiniji nojate Texas,2
+"Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.","Yora soraroyetatsiri itiyankayetakena Del Rio,TX en 2001.",1
+"Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.",Yora jananekipee irajeitakero 3 boteeya ashi champan.,1
+"Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.",Yora jananekipee irajeitakero kapichaji champan.,0
+"Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.",Maaroni kimoshirentsi opirijajeitake tee irajeiteji chachojatatsiri.,2
+Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.,Tee nokemeroji aparopeeni kenketsatakorentsi,2
+Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.,Timatsi osheki kenketsatakorentsi oikantakota soraroyetatsiripee.,1
+Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.,Timatsi osheki kenketsatakorentsi okenketsatakojeitiri.,0
+"Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.",Tee niyoteji okantakota añaantero arakomentotsi.,2
+"Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.",Añaantearo arakomentotsipee obametempi osheki konijatatsiri.,0
+"Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.",Ante ñaantamentotsi arakomentotsiki obametimpiro piyotakotero oshintsinetari.,1
+Noki nokante irootake oniyakire areeteari monkaratachari.,Tee nokematsatero ora areeteari.,2
+Noki nokante irootake oniyakire areeteari monkaratachari.,Nokenkeshirea ora areeteari akantajeiti kobenkaitake okari.,1
+Noki nokante irootake oniyakire areeteari monkaratachari.,Niyotajiro ora areteari.,0
+"Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.",Maaroni arakomentotsipee otimajeitake tekatsi manateroneri.,2
+"Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.",Aparopeni yobariyayetake Cubaki.,0
+"Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.",Antyaroite arakomentotsi yobariyayeetake Cubaki obiroiteri.,1
+"Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.",Keariosanori tee nokenkeshireajero norijanikitantapaakari.,2
+"Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.",Irosatitatsi nokanta nokemiro kaariperori oka meeka kitaiteriki.,1
+"Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.",Jibatatsiri aparoni nokenkeshireakotiri.,0
+"Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.",Opomerentsita akisaate anta okatonkotanaketa.,1
+"Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.",¡Tee opomerentsiteaji akisaate!,2
+"Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.",Opomerentsita akisate ara peeraniteni.,0
+Tekatsi iyotatsine jaoka ijajeitiri.,Maaroni iyojeitini kameetsasanori jaoka ijajeitri.,2
+Tekatsi iyotatsine jaoka ijajeitiri.,Tekatsi iyojjeitatsine jaoka okantari pankotsi ijajeitiri.,1
+Tekatsi iyotatsine jaoka ijajeitiri.,Ora yareeteari irointi maninakaro.,0
+Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.,Yora atiri tee añeeroni iyenkeshireamento kaari ini kitamarori.,2
+Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.,Yora atiri iyotini irinti afroamericanos.,1
+Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.,Yora atiri iyotini kaari ini kitamarori.,0
+"Jee, kameetsa, yora jananeki jerikatake aka.",Yora jananeki jerikatake.,0
+"Jee, kameetsa, yora jananeki jerikatake aka.",Ora nashiyetachari irobakera okonijatake 2 minutos.,1
+"Jee, kameetsa, yora jananeki jerikatake aka.",Ora nashiyetchari (bajirontsi) tee ipokeji aka.,2
+Timatsi amenajeitiri aka teleki.,Tee otimimojeiteni television.,2
+Timatsi amenajeitiri aka teleki.,Amenajeitironi television.,0
+Timatsi amenajeitiri aka teleki.,Añaajeitironi kamantantsipee televisionki.,1
+"Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.",Tee katsini noñaanateroni Ramona.,2
+"Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.",Napiitajiro noñaanatajiro Ramona.,0
+"Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.",Kameetsari oka kenketsatabakantsi.,1
+"Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.",10 000 atiri ikamajeitake oka pomerentsitantsiki Cubana.,2
+"Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.",Apaniro atiri ikamake opomerentsitantanakari Cuba.,0
+"Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.",Apaniro atiri ikamake posakotantsiki pomerentsiriki Cubana.,1
+"Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.",Iroori okanti tee otimimotenaji oyenkeshireamento.,2
+"Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.",Iroori okanti oyotiro okantakota añaamentotsi.,0
+"Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.",Okantana tee otimimotena kenekeshireantsi jaoka okanta otimi kipatsi konijari aijateri.,1
+Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?,Tee niyoteji ikanteetini otimatiye antantearo ora maakina.,1
+Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?,Tee niyoteji paitarika ikantetantari nantanteari.,0
+Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?,¡Piyotasanotiro paita antanteari!,2
+"Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.",Betsikakena nojatanteari meeka.,2
+"Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.",Nokoi aparo minuto aka.,0
+"Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.",Noloi aparo minuto nokoyanteari noyenkeshirementopee.,1
+Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.,Tee katsini nosaikaniteji Washingtonki D. C.,2
+Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.,Nojatake D. C. nameniri supervisor.,1
+Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.,Nojatake onampitakotantariki nampitsi.,0
+Irinti aparo atiri kisaari imeshina.,Iroori otimi aparo omeshina keariosanori kisaasanori.,2
+Irinti aparo atiri kisaari imeshina.,Iroori otimi ora omeshina konijasanori okemetanteariri afroamericana.,0
+Irinti aparo atiri kisaari imeshina.,Iroori okonijatasanoti otsipasatopee otsipabintsare kisaaropee.,1
+"Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.",Apa ipakena kapichaji ireeche chocolate katsikamentotsiki.,1
+"Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.",Apa ikitakena aparoniki vaso ireeche.,0
+"Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.",Apa ikanti tee ikoakayenaji nirero taraako.,2
+Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.,Ora Departamento de Transporte ari oñakero ashiyetansti onashiyetachari alquilar onampiki.,2
+Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.,Ora ashiyetantsi aisati equipo yamanantajeitakeri DOT.,0
+Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.,DOT ipinatakari maba irinka dólares yamanatero ashiyetantsi.,1
+Iriori itimakerika.,Yoyajeitake itime chakopiiteriki 2010.,1
+Iriori itimakerika.,Ikantayeti otimatiye itimeme.,0
+Iriori itimakerika.,Ikantayeti eirome itimeme.,2
+"Naro nokempetari, arejisati nareetaka.",Nokantabetakari tee iyoteroji paitarika yantiri.,2
+"Naro nokempetari, arejisati nareetaka.",Nokantabetakari iyobeta yabisaji yantayetiri okarati 40%.,1
+"Naro nokempetari, arejisati nareetaka.",Nokantabetakari niyotake nomatantakarori.,0
+"Aritake, ¿ari pimatakero pikemena?",¿Ari pimatakero pikemena meeka?,0
+"Aritake, ¿ari pimatakero pikemena?",¿Ari pimatakero pikeme okarati nokantakeri?,1
+"Aritake, ¿ari pimatakero pikemena?",Niyotake eiro pimatirotsi pikemena.,2
+"Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?",¿Pikoiro ora kiribiro irashi Harry Potter o tee?,1
+"Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?",¿Pikoajeitiro o pikisaneetiro otsipapee kiribiro?,0
+"Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?",Niyotake pikoajeitiro maaroni kiribiropee piñanajeitakeri.,2
+"Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.",Ora tornillo areetaro oshintsitakoti.,0
+"Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.",Ora tornillo oni orijaniki aisati obetsikakotataka.,1
+"Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.","Tekatsi tornillos, apatiro botones.",2
+"Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.",Iroori okantana otimatiye nojataje intsipaite.,2
+"Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.",Okantana tee abisheji ariorika yabishe ooorea antantearori.,1
+"Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.",Okantana initsikiojiteemi.,0
+"Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.",Kennedy tee iyojeitabakeri.,2
+"Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.",Kennedy iñaanatiri antakotinkari irashi Fuerza Aérea.,1
+"Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.",Kennedy iñaanatiri antakotinkari.,0
+"Nokemetanakari, irotaintsi notsonkero.",Nokantiri itsonkero 10 minutos.,1
+"Nokemetanakari, irotaintsi notsonkero.",Nokantajetiri eiro katsini itsonkiro.,2
+"Nokemetanakari, irotaintsi notsonkero.",Nokantajeitimpi irobetaincha notsonkerome.,0
+Nosankenatakero maaroni.,Nokinatnakaro nosankenatiro nota ashi konijatatsiri.,0
+Nosankenatakero maaroni.,Eiro pashereanantsi pisankenati tekatsi.,2
+Nosankenatakero maaroni.,Nosankenatakero aparopeeni antabeerentsi ikantakeri.,1
+"Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.",Otimake 1 inkaniiteri1900.,1
+"Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.",Iroori otimake intantanakarori ora siglo,0
+"Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.",Iroori tee otimeji irosati 1943.,2
+Opoña okoasanota.,Ikoasanotakero iyotero jaoka okarate yobanteari.,1
+Opoña okoasanota.,Tee ikoasanoteroji okanatakotiri.,2
+Opoña okoasanota.,Noñaakeri okoasanota.,0
+"Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.",Irento otimi omeshina kameetsasanori maaroniki oshanikajeitariki.,1
+"Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.",Maaroniki ikanteyeti ora ireento okitamaortini.,0
+"Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.",ora ireento Sher irointini lúgubre.,2
+"Kameetsa, oshekiteme antyashipate okemetanteariri iriri.",Okarati 27 osarentsi antyaroti iroriki.,1
+"Kameetsa, oshekiteme antyashipate okemetanteariri iriri.",Iriori oshekisano yebankariti anta irooriki.,2
+"Kameetsa, oshekiteme antyashipate okemetanteariri iriri.",Iriori irinti atyarisanori irooriki.,0
+"Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.",Tekatsi pantatsine ashi amitakotantsi.,2
+"Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.",Aparo shirampari yamitakotanti fisiologico irashi sorarotatsiri.,1
+"Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.",Aparo shirampari ipantake amitakotantsi fisiologico.,0
+"Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.",Piyotake iriori eiro ipokime akarateri.,2
+"Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.",Nokenkeshireabetaka ipokantakari yantabakaempa.,0
+"Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.",Nokenkeshireabetaka ikamantakotename oka tono.,1
+"Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.",Kameetsatake ariorika antake aparopeeni amashirentsi.,2
+"Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.",Tee niyoteni oshineterorika anterio amashirentsi.,0
+"Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.",Tee niyoteni oshineteeroni añaanatakotero otikatikaatea eiro okameetsatitsi.,1
+"Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.",Opomerentsitimotakena nomaanteari tsiteniriki.,0
+"Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.",Oijatana nomishitakotari kobenkari tikaanarini kaari nomaanta.,1
+"Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.",Tsiteniriki nomai noshiyari jobentsi.,2
+Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.,Iroori ari omatakea otikakobentea otsitiki kobenkari.,1
+Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.,Iroori ari omatea otikakobentea kameetsa.,0
+Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.,"Iroorini aayetirorti timayetatsiri,.",2
+"Um, tekatsini kanteronerini--",Iriori ikantakero maaroni okarati akoiri ayoteri,2
+"Um, tekatsini kanteronerini--",Tee ikantajeitenaro okarati oka protocolo de seguridad.,1
+"Um, tekatsini kanteronerini--",Ariorika tee ikantenaroji.,0
+Aritake asabikajeitiri oka zonaki.,Ora abankoni osaikini aka.,0
+Aritake asabikajeitiri oka zonaki.,Ora abankoni osaikini areji okaki nampisti.,2
+Aritake asabikajeitiri oka zonaki.,Ora abankoni osaiki apite manzana.,1
+"Oñaanati itsipaite, oñaanantati impokirotsaki.",Oñaanatati initsikiojitsa okarati oñaanatiri.,2
+"Oñaanati itsipaite, oñaanantati impokirotsaki.",Oñaanatati ara iPhoneki.,1
+"Oñaanati itsipaite, oñaanantati impokirotsaki.",Oñaanatati ara movilki.,0
+"Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.",Nomakoshireake irotaintsi akempejite intantanajearori obametantsipanko.,2
+"Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.",Nokenkeshireakotakero nojate obametantsipankoki,0
+"Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.",Nokenkeshireakotakero intanteari irashi irijaniki jardin,1
+"Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.",Notimini Texas.,2
+"Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.",Notimini aparoniki pankotsi kiteriiriki Missouri.,1
+"Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.",Noaiki Missouri.,0
+"Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.",Ora Base Jenokisato Laughlin ashibetanaja kapichaji kitateri.,0
+"Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.",Ora base Fuerza Aérea Laughlin okantani ashitarea.,2
+"Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.",Ora Base Shintsiri Jenokisato Leughlin inampitaro 10 000 soraropee.,1
+Omonkaratna okarati panteri.,Eiro nokoaperotirotsi karati potsorentsi payeri.,1
+Omonkaratna okarati panteri.,Noki naporoebatea aproniki trato.,2
+Omonkaratna okarati panteri.,Eiro nonimoshireana jaoka okantea pitsokero.,0
+"Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.",Nokajemakero Ramona nobankoki.,1
+"Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.",Nokajemakero Ramona iyotanteari jaoka osabikakeri.,0
+"Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.",Nopeakotanajiro Ramona.,2
+"Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.",Ora Shintsiri Jenokisato amanantake 18 arakomentotsipee.,1
+"Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.",Ora shintsiri jenokisato amantajeitake arakomentotsi.,0
+"Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.",Ora Shintsiri Jenokisato tee otimeni antatearori.,2
+¿Ojime ora irento otimini imeshina konijari?,Irento aake ojime shirampari kisaari.,1
+¿Ojime ora irento otimini imeshina konijari?,Irento aake ojime.,0
+¿Ojime ora irento otimini imeshina konijari?,Irento timashitinkaro.,2
+"Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.",Iroori tee okampiatajea okantayeta.,2
+"Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.",Iroori tekatsi katsini oyotajiro amashitakero.,0
+"Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.",Iroori tekatsi okante okantakotiri ora pastel batsatsiki.,1
+"Niritsori, irinti antayriite chaval.",Niritsori nakameetsatiri.,0
+"Niritsori, irinti antayriite chaval.",¡Niritsori irinti kaariperori!,2
+"Niritsori, irinti antayriite chaval.",Niritsori irinti neshinonkatantatsiri.,1
+Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.,Ani isaiki ejercitoki.,1
+Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.,Ani ikarajeitiri antaberentsiki.,0
+Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.,Norenti tee ibetsikiteaji.,2
+"Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!",Nokenkeshirea ijateme itsipa ampinajenaneri.,0
+"Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!",Nokenkeshirea ijokeme itsipa ampinaenaneri apatorentsiki.,1
+"Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!",Eiro ishinetajiritsi itsipa ijataje.,2
+"Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.",Ikampiatiro osheki kenkeshireantsi.,0
+"Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.",Pikampiatajero kenkeshireantsi tee piyoteji paita yantiri.,1
+"Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.",Iriori irinti ikantasanota aisati imajereti.,2
+"Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.",Isampiti jaoka okantari konijatatsiri.,0
+"Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.",Isampiti atsonkajeitakerorika paperiyetatsiri.,1
+"Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.",Iriori iñaananteke konijasanori.,2
+"Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.",Noshintsitanake aisati notsonkanakero intsipaite.,2
+"Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.",Nosaikaiti ara ikarati apite oorea.,1
+"Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.",Noshonkiro rueda osamani kitaiteri.,0
+Otimantaro atojerintsi naro tee katsini niyotakotero oka.,Tee niyoteni irobetainchame obamayerome atojerentsi.,1
+Otimantaro atojerintsi naro tee katsini niyotakotero oka.,Tee niyoteni otimantaro atojerentsi.,0
+Otimantaro atojerintsi naro tee katsini niyotakotero oka.,Piyobetani omantsitasanotakero atojerentsi.,2
+"Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.",Ora oshintsitane oinijantamentotsi obamanti maaroni kitaitri.,2
+"Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.",Pikoati aparo contrapresion antyarotatsiri 500 pies.,1
+"Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.",Pikoati aparo contrapresion ashi ojenokitinta.,0
+"Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.","Tekatsi katsini nayeji ñantakamentotsi, arikea nojatati noñaayetanaro okarati nabaansatakari.",2
+"Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.",Apite jananeki iñaantakayetakenari yantabeetanteari oka obararontsipankoki.,1
+"Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.",Apite niritsoripee iñantakayetakenari.,0
+Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.,Ora regulador tee okanteni.,2
+Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.,Ora regulador okampiatea oshintsine maaroni pitsareki.,1
+Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.,Otimatiye ojoekatearo ora regulador.,0
+"Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.",Yobayetakenero kentamentotsi mariteshiki.,1
+"Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.",Narotake 922,0
+"Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.",Tee katsini nojate 922.,2
+"Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--",Iroori tee okematsateroji itikaakero jananeki okanteani omabetakea tee katsini oyoteriji.,1
+"Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--",Tee nokematsateroji okarati abisaintsiri.,0
+"Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--",Piyobetaka okarati ominkiakeri.,2
+Narojei nokiajeitanaje anta.,Akiajeitanaje anta 8 p.m.,1
+Narojei nokiajeitanaje anta.,Akiajeite.,0
+Narojei nokiajeitanaje anta.,Eiro katsini akiajeiti.,2
+"Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.",Iroori aabakeri maaroni omonkarajeitakari.,2
+"Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.",Aabakeri itsipapee opashinitakeyetiri.,0
+"Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.",Aabakeri itsipasatipoee osari onashitakari teempa ini kisaari.,1
+"Ikantanake guay, iro itsare aranake tampeaki kapichaji--",Ora itsare ondeaba ara tampeaki.,0
+"Ikantanake guay, iro itsare aranake tampeaki kapichaji--",Ora itsare oni orijaniki aisati aranake kapichaji.,1
+"Ikantanake guay, iro itsare aranake tampeaki kapichaji--",Tee añeroji tampea arikea ora itsare tee oshebateaji.,2
+"Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.",Nojatini natayeti antaberentsiyetatsiri koasanotachari apite kitaiteri.,1
+"Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.",Nosaikaiti antabeerentsiyetatsiriki koasanotachari.,0
+"Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.",Tee katsini nosaikaiteji antabeerentsiyetatsiriki koasanotachari.,2
+"Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.",Itimajeitini pitetsa ishaninkapee timajeitatsiri Evans.,1
+"Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.",Itimajeitini anta Atlantaki.,2
+"Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.","Itimajeitini Evans, irinti ini irijaniki.",0
+"Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.",Notsiro okanti naro manintantatsiri.,1
+"Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.",Notsiro okanti tee nokanteani nokameetsate.,0
+"Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.",Notsiro okanti tee okonijamoteroji nishane.,2
+"Hum, impoiji nobaanaja irobakerariki pankotsi.",Nobanaja aparo pankotsiki abetsikajeitakeri nampitsiki.,1
+"Hum, impoiji nobaanaja irobakerariki pankotsi.",Aabajeitanaja aparoni irobakerari pankotsi.,0
+"Hum, impoiji nobaanaja irobakerariki pankotsi.",Asaikajeitapaaji pankotsiki maaroni añaamentoki.,2
+"Nosaikaiti kemeeri, OK, kameetsa.",Nokanti nokisanentiro aisati nojokasanotironi,2
+"Nosaikaiti kemeeri, OK, kameetsa.",Nokanti nonebetaroni irobakerari pampoysntsi.,1
+"Nosaikaiti kemeeri, OK, kameetsa.",Nokantake timatsi aprobacion.,0
+"Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.",Ora pintura okampiatiro iroyata obotsore.,0
+"Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.",Ora pintura okampiata ayotanteari jaoka okanta okatsirinkati eiro okoanta amonkaratero.,1
+"Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.",ora pintura okantani oni kisaari.,2
+"Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.",Nobakaro ora pizza tee osamanite apite minutos.,1
+"Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.",Nobaka initsikioji eiro nomantsiatanta.,2
+"Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.",Nobakaro ora obanarontsi.,0
+Ojime ashi irento irointi imeshina konijari.,Ojimetsori ini ibotsore konijari.,0
+Ojime ashi irento irointi imeshina konijari.,Ojimetsori ini Sueco.,1
+Ojime ashi irento irointi imeshina konijari.,irento tee aabakaya,2
+"Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.",Iriorijei iventsikajeitakero irobakerari regulador.,0
+"Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.",Ivetsikake aparo regulador oneini tampeajenkaki.,1
+"Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.",Oijatironi tee oyote jaoka ikanteari ivetsikanteari aparo regulador ashi oxigeno.,2
+"Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.",Tee katsini nojate Las Vegas.,2
+"Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.",Nantabeetake Las Vegas aisati Washingtonki.,0
+"Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.",Natabeetake okemetari taxista apiteketiro nampitsi.,1
+"Jee, 4.° noñaatsatasanotaka.",¡Nokisaneentiro maaroni obametantsipanko!,2
+"Jee, 4.° noñaatsatasanotaka.",Nokoakero otsi grado tempa otimi apite nomaoreantari.,1
+"Jee, 4.° noñaatsatasanotaka.",Nokoironi otsi grado.,0
+"Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.",Ora obana irointi sankenataokrentsi ashi ñakarontsi.,2
+"Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.",Ora tabulaciones timatsi osheki osankenatakotiri.,0
+"Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.",Ora shimperentsi onijantiro saldo actual maaroni ora cuentas.,1
+Tee nokossanotero jaoka pikanterori pantero.,Tee nokoasanotero aririka pantero abisati teerika itsipasatiki.,1
+Tee nokossanotero jaoka pikanterori pantero.,Tee nokoasanotero jaoak okantari poijateri.,0
+Tee nokossanotero jaoka pikanterori pantero.,Nokoi niyotasanote jaoka pikanterori oka.,2
+Yobaajeitanaja Mallard Creek Charlotte.,Ibetsikajeitake aparo pankotsi Mallard Creek.,1
+Yobaajeitanaja Mallard Creek Charlotte.,Tee katsini yobaajeitea Charlotte.,2
+Yobaajeitanaja Mallard Creek Charlotte.,Impoiji itimajeitaji Mallard Creek.,0
+"Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.",Iriri ini pashitoori luterano.,1
+"Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.",Iriri ini convicto tee ijateni iglesiaki.,2
+"Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.",Iriri ini pashitoorini.,0
+"Jampakea, tee noyoteni jaoka okantari ikoayetiri.",Tee niyoteni ikoirika kamantatantsi okantakota horario ashi viaje.,1
+"Jampakea, tee noyoteni jaoka okantari ikoayetiri.",Nopakeri maaroni okantayeta tempa niyotake ikoironi.,2
+"Jampakea, tee noyoteni jaoka okantari ikoayetiri.",Tee yamabentea jaoka okarati otsantsati otsonpoinare otimi.,0
+"Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.",Iriori tee otimimoteri kempoyayetacharipee.,2
+"Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.",Ikempoyeiro maaroni kempoyayetacharipee.,0
+"Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.",Ikempoyeijeitiro ora kempoyayetachari abitantsi aisati kearioperotatsiri.,1
+"Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.",Iroori opake apite tsonkaichari.,0
+"Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.",Iroori opakena apite kantashitachari obametantsi irointi nakeri tsonkainchari.,1
+"Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.",Iroori apatiro opakena tsonkaincharin timatsi kapichaji otsapare.,2
+"Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.",Augusta itimi 10000 atiri.,1
+"Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.",Augusta kaari oni antyaroite nampitsi.,0
+"Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.",Isaikini oniyakitinta Augusta.,2
+"Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC",Ikanteetakena nikoji ora DC.,0
+"Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC",Yora ejercto itiyankakena DC intsipaite.,1
+"Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC",Ikanteetajan nojate Africaki.,2
+"Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.",Abanko Concordki tee ikoakantayeteri pirantsipee.,0
+"Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.",Abanko Concordki otimi 30000 acres jeri osheki birantsipee.,2
+"Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.",Apimantajeitakeri maaroni abirapee abajeitantanajari Concordki.,1
+"Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.",Abaajeitana maaroni akarajeitiri 1968.,0
+"Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.",Tekatsi katsini atsonkajeiteriji aajeitanajeri.,2
+"Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.",Atiyankajeitakeri asorarotepee Japonki junio 1968.,1
+Ikantana ikoajeiti tampatikari ikoajeotiri meeka.,Ikanti ari omatakea ipajeitero ariorika otantanakea.,2
+Ikantana ikoajeiti tampatikari ikoajeotiri meeka.,Iknatake yoye ikarate 2 p.m atsonkantearori maaroni antabeerentsi.,1
+Ikantana ikoajeiti tampatikari ikoajeotiri meeka.,Ikantake irointi intsipaiteni.,0
+Jajeitanaji ikantanakena eiro nokenkeshireatsi.,Ikantake pijibatanake pobameetsatero obametantsipanko.,1
+Jajeitanaji ikantanakena eiro nokenkeshireatsi.,Ikanti eiro pikenkeshireashita.,0
+Jajeitanaji ikantanakena eiro nokenkeshireatsi.,Ikanti monkaratapaaka oorea akianteari tsaroantsiki.,2
+"Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.",Kobenkatakotakempi.,0
+"Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.",¡Kameetsatakempi!,2
+"Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.",Kobenkatakotakempi yayeetempi.,1
+"Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.",Ina otimatiye okoyero ampeji aisati shinki.,1
+"Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.",Ina irointini tsinane de oro tee antabeeteni katsini.,2
+"Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.",Ina otimatiye antabeete nikoji.,0
+"Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.",Joe irintini apinti timironiri llave ashi apatotantsi imaorentari.,1
+"Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.",Apanirotantsiki akemajeitake tee amateroji aayete ikoiri Joe yojokajeitanake asabikajeiti kameetsa.,2
+"Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.","Aparo kitaiteri,Joe ijaiti tekatsi iyotatsine jaoka ijatirini.",0
+Nokantakeri irointi ashi notsiro.,Pimonkaratenero notsiro.,0
+Nokantakeri irointi ashi notsiro.,Nokanti irointi nashi.,2
+Nokantakeri irointi ashi notsiro.,Nokantajeitakeri yora otsiti irointi ashitariri notsiro.,1
+"Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.",Iroori okanti ora iniro aisati okemeta aniiti otsobitakotariki.,1
+"Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.",Iroori okanti ora iniro timatsi okempeta ariroika aniite,0
+"Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.",Okanti ora iniro katiyaporokitaka tee omateaji aniite.,2
+"piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.",Tee niyoteni ari ojatake omantsiasanote.,1
+"piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.",Tee niyoteni paita abishomoteroneri iroori.,0
+"piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.",Piyotini okarate abisatsineri ariorika antakero iroori oka.,2
+Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.,Tee otimimotajena kenkeshireantsi onta pankotsi.,2
+Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.,Nokenkeshirea naabajiro marakarita paatioki akakeroka.,1
+Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.,Nokenkeshireajiro okarati abisaintsiri anta paatioki akakeroka.,0
+"Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.",Tee niyoteroji jaoka ankanterori antabeerentsi oka ipayeetakenari meeka.,0
+"Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.","Ikantajeitakena pampinajearo ora caja de fusibles ashi saikakomentotsi, iro tee niyoteji ora cableado electrico.",1
+"Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.",Meeka ikoakoyetakenaro irointi nate antabeerentsitatsiri okameetsatimotake.,2
+"Meekakea, jerokatake, pikoiro meeka.",Okanti ari omatakero ayero jaokarikepee.,2
+"Meekakea, jerokatake, pikoiro meeka.",Okanti okoiro aitearo intsipaiteni meeka.,0
+"Meekakea, jerokatake, pikoiro meeka.",Okanti okoi ayero ora antabeerentsi otsonkanakearika tekerata yaretea 5 p.m.,1
+Amashitanajaapiajeitanaja abaajeitaja.,Abajeitaja otsipaniki kitaiteri.,0
+Amashitanajaapiajeitanaja abaajeitaja.,Abajeitaja otsipaniki nampitsi 1992.,1
+Amashitanajaapiajeitanaja abaajeitaja.,Tee katsini ashebayeteaji impoijini oka.,2
+"Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.","Noñaakero ora tsinane Fulk kapichaji, iro tee niyotasanotero kameetsa.",0
+"Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.",Notsipabintsatari okempejitari ora tsinane Faulk.,2
+"Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.",Ora tsinane Fulk antakotironi Honda kiteriri maaroni kitaiteriki ajatanteari.,1
+"Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.",Atimajeitake anta pankotsiki kenashiri.,1
+"Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.",Atimajeitini anta oshekisanori osarentsi.,0
+"Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.",Apatiro atimajeitini anta apite tsonkitai.,2
+"Colega, kemebeitaka otimimoteri yatiritantari, pabachori.",Akisanentajeibetaka.,0
+"Colega, kemebeitaka otimimoteri yatiritantari, pabachori.",Nobinkatsarite isaikaiti ikimoshiresanoti o itsabiasanotati.,1
+"Colega, kemebeitaka otimimoteri yatiritantari, pabachori.",Nobinkatsariteimetsotini aisati joijantanti.,2
+Ikametsataperotake antyari irintanteari.,Irinti ini 27 oosarentsi nantyarite narori.,1
+Ikametsataperotake antyari irintanteari.,Irinti ini osheki yebankariti naroriki.,2
+Ikametsataperotake antyari irintanteari.,Irinti ini antyarishekitirori narori.,0
+"Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.",Tee niyote jaoka okarate kitaiteri osamanite.,0
+"Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.",Tee niyote jaoka okarate kitaiteri osamanite ora kenketsatakorentsi.,1
+"Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.",Niyoti omonkarata 4 pies(10cm) otsantsati.,2
+Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.,¡Nosaikini nokimoshirebeitani aisati nomaokoreake!,2
+Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.,Nokoashireasanotanake nokoi nokimoshiretanteari tempa ari areetakeame aparoni kitaiteri.,1
+Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.,Nokoashireasnotanake nokoi nokimoshiretanteari tempa iroori osaikaiti ara.,0
+osheki oka okantakota ora inapee iroojeitake drogodependiente,Ora inapee irojeitake drogadictas.,1
+osheki oka okantakota ora inapee iroojeitake drogodependiente,Ora inapee tee anteroji okantakotiri aabintarontsipee.,2
+osheki oka okantakota ora inapee iroojeitake drogodependiente,Ora inapee irajeitiro drogas,0
+"Jee, keariotake okameetsati, opariayaiti inkani.",Tee nokoasanotero ora inkani.,1
+"Jee, keariotake okameetsati, opariayaiti inkani.",Kameetsa oni aisati inkanijenkatii.,0
+"Jee, keariotake okameetsati, opariayaiti inkani.",Shiramparisanotake ishiyari itsibota oorea kaari makoreatsi.,2
+"Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.",Maaroni añamentotsi okameetsati amitakotajero jero apitetatsiri okoakayeri.,1
+"Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.",Tekatsi atiri koeroneri amitakotantsi.,2
+"Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.","Yapanirotanteari ashi amitakotantsi, ashi añaamento okameetsatasanoti.",0
+"oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado",Tekatsi katsini ñeeroneri peerani oka nashiyetachari pomerentsiri ashi cableado.,1
+"oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado",Ora cableado kaari oni pomerentsitantsi.,2
+"oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado",Timatsi pomerentsitantsi opoñantari oka kaari añaayetiri cableado.,0
+"opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri",Tee imapokasanoyetenaji okarati abisaintsi ora indulgentes.,2
+"opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri",Imapokayeta yoiminkakayeteri irobanaro jero imireteri anta.,1
+"opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri",Imapokayeta okarati yareeyetakari yaakeri.,0
+"jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.",Opinata $ 2000 pamanantanteari maaroni pikoayetiri.,1
+"jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.",Opinata osheki pikitsatearika abisati.,0
+"jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.",Opinata kapichaji akitsatearika.,2
+"oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika",Tee okoasanoteaji tempa notomipee timatsi abisanke pitetsa osarentsi.,0
+"oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika","Ari nomatakero nantero, jampakea aretakari irosarentsite.",1
+"oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika",Otimatiye nantero tempa apiteketi otimi tsa jero tsaaparo irosarentsite.,2
+¡Pijate! Kameetsa oka oni fresno.,Notimake Fresnoki.,1
+¡Pijate! Kameetsa oka oni fresno.,Tee nokantasanote jaoka otimi oka.,2
+¡Pijate! Kameetsa oka oni fresno.,Noakantimpi irotake oka Fresno.,0
+"Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.","Jee, atiri amashitea teerika iyote yaayetero ora inkantayetiri.",0
+"Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.","Jee, atiri amashitea terikamachata ayeri itashe.",1
+"Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.","Jee, atiri okarati tikakotiri ashi ikantayetiri eirokea katsini ashereantari.",2
+"Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.",Okantani omoyekaita intanakaro peerani 1970.,0
+"Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.",Onimotiri yante aniyetantsi.,1
+"Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.",Otsonkanakaro oshonka irobakera.,2
+jaoka pikanteari pante aerobicos,¿Ari pimatakea pikamantenaro pantanteari aerobic?,0
+jaoka pikanteari pante aerobicos,Nokoasanotakero ora aerobic tempa nokoakero natanteari ashi nantabeerentsi cardiovascular.,1
+jaoka pikanteari pante aerobicos,"Pipeakotenaro, aitapaji piñaanatake okantakota antaberentsi aerobicos.",2
+"Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.",Oka irointi aparo kenkeshireantsi kaariperori nojokakero otsipaniki tsonkitai.,2
+"Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.",Oka irointi aparo kameetsari añanatakoteri.,0
+"Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.",Ora paradoja akamantakotakeri okameetsati añaanatakoteri.,1
+"kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi",Ora kempoyamentotsi ashitareaka maaroni kitaiterikiirashi jananeki orijanikiri irosarentsite koni apatirosanotatsiri.,2
+"kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi",Ijapinijeitake apite tsonkitaiteriki iriorika yora atiri manatatsiri irosarentsite irosati jenokinta.,1
+"kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi","Irootake ikanteetiri aparo kempoyamentotsi irashi antyashiparipee, iro ibajiro niyakitakore irashi atiri antyaritapaatsiripee.",0
+timatsi amsuajeitiri aka teleki,Irootake oka ishintsimentakeri.,0
+timatsi amsuajeitiri aka teleki,Oka katsini tee ikoajeiteroni.,2
+timatsi amsuajeitiri aka teleki,Areejeitakaro areeteari.,1
+okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi,OniyankitInta maaroni opeayeta oitsoki pistola irojeitake oshitobantari ora aparoniki akotsi.,1
+okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi,Ora okameetsatanteari okontororateamanamentotsi antearo apiteketi iitintsi.,2
+okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi,Pantantearo apiteketi akotsi pikoirika piñaante pikontororateri manamentotsi.,0
+aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro,"Tee niyote jaoak opoañari irokea, intsupaite.",0
+aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro,Impoke intsipaite iro niyotakeri jaoka ipoñenpari.,1
+aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro,Impoke ikemetemparo melaza niyoti jaoka okarate opoke.,2
+"tee, anteroji aisati tee niyoteroji, te noshiretearoji",Tee niyotasanotero osheki okantakota oka.,0
+"tee, anteroji aisati tee niyoteroji, te noshiretearoji",Naro kaari iyotinkari okantakota nintantentsi.,1
+"tee, anteroji aisati tee niyoteroji, te noshiretearoji",Noshitooriabetaka oka oshekiki osarentsi.,2
+Piyotirika iroorika kameetsaroni.,Okenmisantiro nokempetarini ikoasanoyeetiri.,1
+Piyotirika iroorika kameetsaroni.,"Tee, iroori irointini kaari kameetsatatsi.",2
+Piyotirika iroorika kameetsaroni.,"Jee, iroori rointikea okameemtsatasanoti.",0
+"Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.",Ikantake yamanante aparo aspiradora.,2
+"Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.",Ikantake añaanteari aparo ora fregona.,0
+"Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.",Ikoabentaka ishetajerome iriraja aparo setamentotsi.,1
+"Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.",Ora manamanatantsi otimake otsantsati okarati 100 millas anta nosaikinta.,2
+"Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.",Ora manamanatantsi kempejinenta nobankoki notsaroi noshitoye.,1
+"Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.","Otimaiti aparo manamanatantsi kempeji nobankoki, tee okameetsateji aka.",0
+"oh, kaari oni keariori, oh, consistente","Tee nokoasanoteroji pikantir abirori , pikantapinitiro.",2
+"oh, kaari oni keariori, oh, consistente",Keariotake otimii okantakota ora consistencia.,1
+"oh, kaari oni keariori, oh, consistente",Timatsi pikekeshireari okantakota okakiji kaari oni consistente.,0
+namabetiro nokempoyantearori anta.,Noñaantaro nokisoiri iriorii.,0
+namabetiro nokempoyantearori anta.,Keariosanotake nantatiro kameetsasano imateri.,1
+namabetiro nokempoyantearori anta.,Nojatasanotaje eiro katsini namananaje notapiiki.,2
+"jee, ¿paita itsipasati irijani timimotimpiri?",¿Yora pirijani irin ti kameetsari jananeki?,1
+"jee, ¿paita itsipasati irijani timimotimpiri?",¿Paita itsipasati miishi paayetabajiri?,2
+"jee, ¿paita itsipasati irijani timimotimpiri?",¿Paita itsipasati otsiti ebonkiri timimotimpiri?,0
+"Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?",¿Jaoka ikaratiri pitomipee timatsiri?,1
+"Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?",Nokenkeshireakotimpi nojitake eiro itimitsi pitomi.,2
+"Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?","Pikantake timatsi pitomipee, ¿paita irosarentsite timatsiri?",0
+"keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate","Amashitakea teerika iyotasanoteji, irokantaincha irirojeitake kameetsatasanotatsiri ikoasanojeitakeri shitooriajeitatsiri.",0
+"keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate","Irintini iyotinakripee, ikantashijeitanaka ikemetanakari kaariperori ikempejitapaakari itsipappe kaari ini iyotasanoti.",1
+"keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate","Iriojeitanake marereasanotanaintsiri, iñaajeitakero paiatapeerika ikoasanoti ishitooriate.",2
+"Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta",Yora zorrillo yoyake apiyajeitaje campamentoki.,1
+"Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta",Añaajeitapairi aparo kaabira campamentoki impoiniji itsibakantanakari tsiborontsipee.,2
+"Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta",Apiajeitajaro anta antabeerentsiki akemajeitapairi mofeta.,0
+"piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro",Piyotaji itsipaki jananekipee antayritaintsirimaaroni noshaninkajeitajeari.,0
+"piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro",Nokimoshiretake osheki iyojeitanake notomipee.,1
+"piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro",Yora nojananekitepee irinti kaariperoirpee.,2
+"aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee",Ora tikayetakotirori oshekiantari kajarashi okakijitake pomerentsiri otenayeti kajarashipee irosatiriki.,0
+"aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee",Yora atiri eiro ikenkeshireatsi okarati oshekiake kajarashi okarati oka yojakayetiri okantakotiri.,2
+"aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee",Yora atir ikoajeiti abakoyetajeri oshekiantari kemeri otenanka kajajrashi osheki okimotatananke.,1
+"aritake, otimakerika amshitantsi irointi pamashire nokantiri","Eiro pikekeshireatsi, arika otimake amashirentsi namitakotempi kantakantantsi.",2
+"aritake, otimakerika amshitantsi irointi pamashire nokantiri",Aritakerika otimake ashirentsi irointi pikantakantiri pashi.,0
+"aritake, otimakerika amshitantsi irointi pamashire nokantiri","Aritake pantakero mashitantsi, otimatiye pashitearoirashi iriori.",1
+Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.,Ora antsitantsi antantearori itimatiye amenaperotero.,0
+Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.,Ora antsitantsI yantayetakero intsipaite ari añaakero te okanteji.,2
+Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.,Yajeitakero osheki kitaiteri itsonkantearori ora antsitantsipee.,1
+"jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai",Pitaiterite ari oshekiate papropeniki osarentsi.,0
+"jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai",Pitaiterite eiro pimatirotsi pitsokero maba kitaiteri.,2
+"jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai",Pitaiterite pimaoreantari oshekianake antabeerentsi nampitsiki.,1
+"oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri",Asaikanteari nampitsiki kemetaka tsaroantsiki constante okemetaro oka.,2
+"oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri",Ora kameetsatatsiri asaike nampitsiki irointi eiro akenkeshireatsi ora konijatatsiri kemetarorim oka.,0
+"oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri",Iroperotatsiri anta asaikanteari obanentsiki eiro ikenkeshireatsi oka timatsiri nampitsiki.,1
+"oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi",Okemetaro oka akimoshirebentiro o osheki ashemashirea.,1
+"oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi",Aitake okanta opoimati okemetaro antyaro kibantantsi.,0
+"oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi",Kemetaka aparo abishomoteri kobenkatatsiri.,2
+meeka otimimotana notsiro Alemaniaki,Meeka itimimotana norenti saikatsiri Alemaniaki.,0
+meeka otimimotana notsiro Alemaniaki,Timatsi notsiro osaiki meeka anta Cubakii.,2
+meeka otimimotana notsiro Alemaniaki,Timatsi notsiro naañatiori alemán.,1

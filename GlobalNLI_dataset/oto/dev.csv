@@ -1,0 +1,31 @@
+premise,hypothesis,label
+xi nⴘdi biênâ: maMe dimi an ngû,bi matti o ini maMe zaditho-nho tengu nⴘa nᶎarutîhî bi tzogui,1
+xi nⴘdi biênâ: maMe dimi an ngû,nⴘdi hin biênâ nā hia,2
+xi nⴘdi biênâ: maMe dimi an ngû,bimâbi o ini maMe guê o ngû,0
+"oqui bi pâdi num qhamgue nîn, nguna mibi o tzô̮hô̮ o nā tⴘhoi bi qhadabeni ane Washington","hinqhamⴘ Xta agā o Washington, nguna numⴘ biêna-bi dâbâ xta bi damatho nêêtho tînî nⴘa tⴘhoi",1
+"oqui bi pâdi num qhamgue nîn, nguna mibi o tzô̮hô̮ o nā tⴘhoi bi qhadabeni ane Washington",bi pâdi mi-ga nute dimi phoca guê ô̮te,2
+"oqui bi pâdi num qhamgue nîn, nguna mibi o tzô̮hô̮ o nā tⴘhoi bi qhadabeni ane Washington","hin dimi tze maqhuaba on nute bipa, nubⴘ xta o Washington, habⴘ bi ô̮t-yagā ximphada",0
+nⴘa hin nzagui pa,xa goguehnu on nandi n-yô̮hô̮ xi nⴘa bi necca na padango,2
+nⴘa hin nzagui pa,hin bi unni niyutho pa,0
+nⴘa hin nzagui pa,hin bi unni niyutho pa nû mⴘdi an hiô̮hⴘnumⴘ,1
+xi xti buca mi-ga.¡Xi guenu bima gotitho!,"mapha on guê dixica guê hâ, biguadi",0
+xi xti buca mi-ga.¡Xi guenu bima gotitho!,dixica guê hin xi nⴘa bi ndemedi naigui xi mananditho,2
+xi xti buca mi-ga.¡Xi guenu bima gotitho!,"numu dixica guê hâ, nugame xta qhadabeni guê nume di nthadi qhanu mpa",1
+nⴘa dimi qhati nêêtho qhuani,nugā di bi ô̮ccode mi-ga tzanu un mⴘdⴘy,2
+nⴘa dimi qhati nêêtho qhuani,Dimi nêêtho on ô̮ccode a habu bima nu tohpho,1
+nⴘa dimi qhati nêêtho qhuani,di nehma ô̮ccode,0
+"guedi, guadi pâdi, goguehnuⴘmâhâ, on ythzû xocⴘ, Te ngunê nu bâhtzi an memāti on nā hûâhi nguegue goguehnuⴘmâhâ nu bâhtzi on nunⴘ n-yô̮hô̮ guê demi ythzû axmeti.",ini MaTah hin biphodi hinyu ana nâhte,2
+"guedi, guadi pâdi, goguehnuⴘmâhâ, on ythzû xocⴘ, Te ngunê nu bâhtzi an memāti on nā hûâhi nguegue goguehnuⴘmâhâ nu bâhtzi on nunⴘ n-yô̮hô̮ guê demi ythzû axmeti.",ini MaTah gom memāti on 2000 yehoi on mahdo.,1
+"guedi, guadi pâdi, goguehnuⴘmâhâ, on ythzû xocⴘ, Te ngunê nu bâhtzi an memāti on nā hûâhi nguegue goguehnuⴘmâhâ nu bâhtzi on nunⴘ n-yô̮hô̮ guê demi ythzû axmeti.",ini MeTah demi ythzû yehoi.,0
+"guedi, ma bēphi gom êtti paracaídas xi ȥahxo qhandi guapⴘca ynâhte anu nandichⴘ xi pa O nā tⴘhoi enu extrajero.","Hin demi bēphi, ngu-a guê huihi unⴘa bipaîtzi gotitho yâ cajas ane ini ngû",2
+"hueza ngu-a tengu, dicoca thahi.",bidⴘ -tti nu dⴘngⴘti qhandi bⴘy maqhuaba.,1
+"hueza ngu-a tengu, dicoca thahi.",hueza ngu-a tengu ccohquiga,2
+"hueza ngu-a tengu, dicoca thahi.",hueza dimi bithague,0
+"Xi nⴘa gom nā nihiaxdoni, dimi tengu nunu. Xi nubⴘ guadi guipaque, hin bididihoga, guedi on ygotitho yguguna nûyû gomi yma yhñaxpipho.",Gom thozpe xi tamanho,2
+"Xi nⴘa gom nā nihiaxdoni, dimi tengu nunu. Xi nubⴘ guadi guipaque, hin bididihoga, guedi on ygotitho yguguna nûyû gomi yma yhñaxpipho.",Na biⴘtzo nguêguê gom tze tuxi.,1
+"Xi nⴘa gom nā nihiaxdoni, dimi tengu nunu. Xi nubⴘ guadi guipaque, hin bididihoga, guedi on ygotitho yguguna nûyû gomi yma yhñaxpipho.",Hin gom onuhiandi gor,0
+"Numⴘ biyanti, numⴘ diyanti an toldo qhandi guê dimⴘdi o puô̮he, hmô̮pia yoho yhⴘxto ane un buô̮hio ngâhâ on na aeronave guê bin mibiqha bideni handatho nu vuelo.",Ygotitho ya yhⴘxto ane nu avión dimibⴘy ynattô̮.,2
+"Numⴘ biyanti, numⴘ diyanti an toldo qhandi guê dimⴘdi o puô̮he, hmô̮pia yoho yhⴘxto ane un buô̮hio ngâhâ on na aeronave guê bin mibiqha bideni handatho nu vuelo.",Bima anhêy bihiai.,1
+"Numⴘ biyanti, numⴘ diyanti an toldo qhandi guê dimⴘdi o puô̮he, hmô̮pia yoho yhⴘxto ane un buô̮hio ngâhâ on na aeronave guê bin mibiqha bideni handatho nu vuelo.",Miqha yhⴘxto ane nu avión guê bien bideni.,0
+Xi ane maqhûâni hin na biô̮ccode.,Ngue ⴘndu guenⴘ hin ô̮ccoi ngue un hiā ñûhmû.,1
+Xi ane maqhûâni hin na biô̮ccode.,Na ni Dâhi guenⴘ hin ô̮ccoi.,0

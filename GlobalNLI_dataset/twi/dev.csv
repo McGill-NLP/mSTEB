@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Na ɔkaa sɛ Mama, mewɔ fie.",Ɔfrɛɛ ne maame berɛ no a na sukuu hyɛn no sii no.,1
+"Na ɔkaa sɛ Mama, mewɔ fie.",Wɔnka asɛm biara.,2
+"Na ɔkaa sɛ Mama, mewɔ fie.",Ɔka kyerɛɛ ne maame sɛ wɛdu fie.,0
+"Oh na ɛyɛ Ɔwɔ Asubɔntene, oh ɔwɔ asubɔntene a  awɔ bebree wɔ mu.","Ɛmfa ne din ho, Ɔwɔ Asubɔntene nni awɔ ankasa biara wɔ mu; wɔato no din esiane ne tebea a ɛte sɛ S nti.",2
+"Oh na ɛyɛ Ɔwɔ Asubɔntene, oh ɔwɔ asubɔntene a  awɔ bebree wɔ mu.",Ɔwɔ Asubɔntene wɔ akyekyede bebree.,1
+"Oh na ɛyɛ Ɔwɔ Asubɔntene, oh ɔwɔ asubɔntene a  awɔ bebree wɔ mu.",Awɔ ahyɛ Ɔwɔ Asubɔntene no mu ma.,0
+Saa mmoawa nhwehwɛmu nfidie a agye din paa a emu yɛ den a asɔre ɛfiri abɔde mu nyiyimu nti etumi yɛ ade wɔ ngyapadea a wɔaka abom no wɔ mmoawa nhwehwɛmu bere a saa ngyapadea ahorow a ɛboa ma wɔyɛ nsakraeɛ.,Ade biara a ɛwɔ nkwammoaa mu yɛ deɛ ɛyɛ nwonworann.,2
+Saa mmoawa nhwehwɛmu nfidie a agye din paa a emu yɛ den a asɔre ɛfiri abɔde mu nyiyimu nti etumi yɛ ade wɔ ngyapadea a wɔaka abom no wɔ mmoawa nhwehwɛmu bere a saa ngyapadea ahorow a ɛboa ma wɔyɛ nsakraeɛ.,Nkwammoaa pii yɛ nwonworann na ebetumi asɔre wɔ tebea ahorow bi mu.,0
+Saa mmoawa nhwehwɛmu nfidie a agye din paa a emu yɛ den a asɔre ɛfiri abɔde mu nyiyimu nti etumi yɛ ade wɔ ngyapadea a wɔaka abom no wɔ mmoawa nhwehwɛmu bere a saa ngyapadea ahorow a ɛboa ma wɔyɛ nsakraeɛ.,Yɛ tumi di nkwammoaa pii yɛ awuduru ahoroɔ a wɔde bɔ wɔn ho ban .,1
+Na ɔde n'asɛm no kɔdan Lord Julian.,Na ɔpe sɛ obisa Lord Julian biribi.,0
+Na ɔde n'asɛm no kɔdan Lord Julian.,Na ɔpe sɛ obisa Lord Julian sɛ wɔbegyae ni yere.,1
+Na ɔde n'asɛm no kɔdan Lord Julian.,Wonhuu Lord Julian wɔ baabiara.,2
+"Bere noa ɔhwehwɛ nneɛma yi akyi no, wɔfro mmepɔ no kɔ Asraafoɔ Efie, baabi a wubehu mpoano a atwa ho ahyia ne ehyɛn gyinabea nwonworann a aka nyinaa.",Wobetumi hu nkodoɔ wɔ bepɔ no so.,1
+"Bere noa ɔhwehwɛ nneɛma yi akyi no, wɔfro mmepɔ no kɔ Asraafoɔ Efie, baabi a wubehu mpoano a atwa ho ahyia ne ehyɛn gyinabea nwonworann a aka nyinaa.",Wobetumi hu mpoano wɔ bepɔ no so.,0
+"Bere noa ɔhwehwɛ nneɛma yi akyi no, wɔfro mmepɔ no kɔ Asraafoɔ Efie, baabi a wubehu mpoano a atwa ho ahyia ne ehyɛn gyinabea nwonworann a aka nyinaa.",Wontumi nhu mpoano firi bepɔ no atifi.,2
+Wɔkaa  nnipa ahoɔden mmoa ho nhyehyeɛ no nyinaa bɔɔ mu na wɔde adwuma nhyehyeɛ foforo bɛtoo dwa sɛneɛ wobetumi akɔso aboa wɔn adetɔfoɔ bebree no.,"Wotumi kaa nnipa ahoɔden mmoa ho nhyehyeɛ no bɔɔ mu nti, ɛkwan bɛ daa hɔ de ma adwuma nhyehyeɛ afoforɔ.",1
+Wɔkaa  nnipa ahoɔden mmoa ho nhyehyeɛ no nyinaa bɔɔ mu na wɔde adwuma nhyehyeɛ foforo bɛtoo dwa sɛneɛ wobetumi akɔso aboa wɔn adetɔfoɔ bebree no.,Wɔhyɛɛ adwuma nhyehyɛeɛ afoforɔ ase.,0
+Wɔkaa  nnipa ahoɔden mmoa ho nhyehyeɛ no nyinaa bɔɔ mu na wɔde adwuma nhyehyeɛ foforo bɛtoo dwa sɛneɛ wobetumi akɔso aboa wɔn adetɔfoɔ bebree no.,Wɔtrɛɛ mmoa a ɛgyina nnipa ahoɔden so nhyehyeɛ no mu kyɛn deɛ na ɛteɛ deda no.,2
+"Nkramosom kuo no a ɔhyɛɛ aseɛ bɛyɛ 1940 no, yɛ ɛnnɛ wiase so aba, Marxist ne Leninist nsusuiɛ a ɛfa nhyehyeɛ a ɛde nsesaeɛ ba no na ɛwɔ ne so tumi",Wɔde Marxist ne Leninist  nsusuiɛ hyɛɛ Nkramosom kuo no mu,0
+"Nkramosom kuo no a ɔhyɛɛ aseɛ bɛyɛ 1940 no, yɛ ɛnnɛ wiase so aba, Marxist ne Leninist nsusuiɛ a ɛfa nhyehyeɛ a ɛde nsesaeɛ ba no na ɛwɔ ne so tumi",Nkramosom kuo no hyɛɛ ase afeha a ɛtɔ so nsia no mu,2
+"Nkramosom kuo no a ɔhyɛɛ aseɛ bɛyɛ 1940 no, yɛ ɛnnɛ wiase so aba, Marxist ne Leninist nsusuiɛ a ɛfa nhyehyeɛ a ɛde nsesaeɛ ba no na ɛwɔ ne so tumi",Na Nkramosom kuo no botaeɛ a wɔde teeɛ ne sɛ wɔbɛ te kuo bi a wɔde bɛ boaboa wɔnho ano,1
+W’akyɛdeɛ no som bo ma yɛn afedida a ɛtɔ so aduowɔtwenum a yɛrebedi no,Akyɛdeɛ biara a yɛbɛnya no nsom bo te sɛ wodeɛ yi,1
+W’akyɛdeɛ no som bo ma yɛn afedida a ɛtɔ so aduowɔtwenum a yɛrebedi no,W’akyɛdeɛ no mfa yɛn ho koraa,2
+W’akyɛdeɛ no som bo ma yɛn afedida a ɛtɔ so aduowɔtwenum a yɛrebedi no,Y’adi saa dwuma yi boro mfeɛ aduowɔtwe,0
+Nnawɔtwe dawurubɔ nkrataa nkatasoɔ nhyehyɛeɛ no wɔ hɔ ma awofoɔ a wɔn dadwene so,Awofoɔ a wɔn dadwene so yɛ botaeɛ baako a nnawɔtwe dawurubɔ nkrataa adetɔnfoɔ no de wɔn ani si,0
+Nnawɔtwe dawurubɔ nkrataa nkatasoɔ nhyehyɛeɛ no wɔ hɔ ma awofoɔ a wɔn dadwene so,Nnawɔtwe dawurubɔ nkrataa no nwinni wɔn akatasoɔ nhyehyɛeɛ no sɛneɛ ɛbɛtwe nkodaa nketewa anaa mpaninfoɔ adwene,2
+Nnawɔtwe dawurubɔ nkrataa nkatasoɔ nhyehyɛeɛ no wɔ hɔ ma awofoɔ a wɔn dadwene so,"Awofoɔ bɛ tae de wɔn sika atɔ ɛhyɛn foforɔ , enti ɛyɛ biribi a ɔdehyɛ ɔfa a ɛtɔn paa mu wɔ dawurubɔ krataa no mu ",1
+Enni sɛ wode ‘alternative’ si ‘alternate’ anan mu,Ɛnnyɛ papa sɛ wɔbɛka sɛ ‘alternative’ berɛ a wopɛ akyerɛ ‘alternate’,0
+Enni sɛ wode ‘alternative’ si ‘alternate’ anan mu,Ɔkwan wɔ hɔ sɛ wode ‘alternate’ bɛsi ‘alternative’ anan mu,2
+Enni sɛ wode ‘alternative’ si ‘alternate’ anan mu,Nkurɔfoɔ bebree nnim berɛ pa a ɛwɔ sɛ wɔka ‘alternative’ ne ‘alternate’,1

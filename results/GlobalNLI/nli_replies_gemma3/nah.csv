@@ -1,0 +1,1683 @@
+premise,hypothesis,gpt_reply
+"Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui",Ayoc nicamohuihtoc,"neutral
+"
+"Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui",Nelpano nicualantoya queh naha nicamohuihqui,"entailment
+"
+"Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui",Yehyehtzi timocamohuihqueh / yehyehtzi timocamanalohqueh,"entailment
+"
+"Nimoihlia quena cualli, nelia nelia, nazantzi ni 922 Ex-O niiztoya campa AFFC tlen Fuerza Aérea",Axnimatiyaya queh nazantzi niiztoya campa tlamaxtiloyan,"neutral
+"
+"Nimoihlia quena cualli, nelia nelia, nazantzi ni 922 Ex-O niiztoya campa AFFC tlen Fuerza Aérea",Nimotleliaya queh nazantzi nipiyaya ino notlapohualiz ne AFFC Air Force Career,"neutral
+"
+"Nimoihlia quena cualli, nelia nelia, nazantzi ni 922 Ex-O niiztoya campa AFFC tlen Fuerza Aérea","Nochi techmacaqueh zan ce tlapohualiztli, zan techcahcayahqueh pampa techtlelihqueh miac tlamantli techmacazquiah. Nelpano tlacahcayahuah.","neutral
+
+
+
+**explanation:**
+
+the premise states someone (likely a pilot, given the fuerza aérea reference) is good and has flown 922 hours with affc. the hypothesis speaks generally about needing training and support for technicians, and the well-being of personnel. 
+
+there's no logical connection forcing the hypothesis to be true *because* of the premise, nor is the premise saying anything that makes the hypothesis *false*. the premise is about a specific pilot's flight hours; the hypothesis is about the broader needs of technicians. they exist in different domains. therefore, the relationship is neutral."
+"Nechtlelihque, ni…. Ce macehual nechcamohuizquia huan timopantizquia",Axquema tleno nechtlelihque queh niquixmatiz ce macehual,"entailment
+"
+"Nechtlelihque, ni…. Ce macehual nechcamohuizquia huan timopantizquia",Nechtlelihque que nechcamohuizquia ce macehua huan niquixmatizquia,"entailment
+"
+"Nechtlelihque, ni…. Ce macehual nechcamohuizquia huan timopantizquia",Ne macehual acico tiotlac,"entailment
+"
+"Onca miac camanalli tlen ino, na axtleno yeca niquihtoz",Nicnequi nimitztempohuiliz nochi tlen na ino nimati,"**entailment**
+
+here's why:
+
+* **premise translation:** ""the jaguar always remembers that, and always shows it to me.""
+* **hypothesis translation:** ""i want to understand that which it remembers.""
+
+the premise states the jaguar *always* remembers something and *shows it* to the speaker.  therefore, the speaker wanting to *understand* what the jaguar remembers is a logical consequence and doesn't introduce any conflicting information. the hypothesis is a natural follow-up and desire given the information in the premise.  it's a desire *because* of what the premise states.
+"
+"Onca miac camanalli tlen ino, na axtleno yeca niquihtoz","Axtleno niquihtoz tlen ino, monequi miac tlamantli axtitlatempohuaz","entailment
+"
+"Onca miac camanalli tlen ino, na axtleno yeca niquihtoz","Na axtleno niquihtoz tlen panotoc ne altepetl, pampa onca miac tlamantli camanalli","entailment
+"
+"Ino quena monequiyaya timanahuizquia, pampa axhuelizquia timahcahuazquia ce bomba hirogena tlen 30, huan C124",Axtinehque ticahcocuizceh tleno.,"entailment
+"
+"Ino quena monequiyaya timanahuizquia, pampa axhuelizquia timahcahuazquia ce bomba hirogena tlen 30, huan C124",Tinequiyayah timanahuizceh cetzi tlamantli tlen nochi,"neutral
+"
+"Ino quena monequiyaya timanahuizquia, pampa axhuelizquia timahcahuazquia ce bomba hirogena tlen 30, huan C124",Tinequiyayah timanahuizceh Bomba -H pampa neohui tlatequihuiliz,"neutral
+"
+Yeca axnicuamalilia quenque,Quena nimoneltlelia yeca ino,"neutral
+"
+Yeca axnicuamalilia quenque,Axnimati quenque temapanoltili tlamachtiloyan,"neutral
+"
+Yeca axnicuamalilia quenque,Axnimati quenque panoc ino.,"neutral
+"
+"Ya ni Fannie Flono. Mitzcaltihqui ne Ag--- Agusta, GA, huan tlatempohuaz tlen panoc quema pilconetzi","Fannie Flono quipixqui ceyoc tequitl, huacca ama axhuel techtempohuiliz ama tlen panotoc inemiliz","neutral
+"
+"Ya ni Fannie Flono. Mitzcaltihqui ne Ag--- Agusta, GA, huan tlatempohuaz tlen panoc quema pilconetzi","Fannie Flono iztoc nica huan textempohuiliz tlen queniuhqui panoc quema pilconetzi que mitzcaltihqui Augusta, GA.","entailment
+"
+"Ya ni Fannie Flono. Mitzcaltihqui ne Ag--- Agusta, GA, huan tlatempohuaz tlen panoc quema pilconetzi",Fannie Florno quena huelqui textlatempohuilihqui ama mazqui quipiyaya miac tequitl,"neutral
+"
+Quimacahtoya macuili descatamentos tlen U2,Na nitequititoc ica U2,"entailment
+"
+Quimacahtoya macuili descatamentos tlen U2,"Axquema nitequimachiltoc ica U""","neutral
+"
+Quimacahtoya macuili descatamentos tlen U2,Nitequitic ica destacamentos tlen U2 nochi tonalli pan ompohualli xihuitl,"**entailment**
+
+here's why:
+
+* **premise:** ""quimacahtoya macuili descatamentos tlen u2"" translates to ""they provided many detachments to u2."" (quimacahtoya = they provided, macuili = many, descatamentos = detachments, tlen = to, u2 = u2).
+* **hypothesis:** ""nitequitic ica destacamentos tlen u2 nochi tonalli pan ompohualli xihuitl"" translates to ""we collaborate with detachments to u2 every day for a year."" (nitequitic = we collaborate, ica = with, destacamentos = detachments, tlen = to, u2 = u2, nochi = every, tonalli = day, pan = for, ompohualli = a, xihuitl = year).
+
+if someone *provided* many detachments to u2, it logically follows that there's a basis for *collaboration* with those detachments at u2.  the premise establishes the existence of detachments being sent *to* u2, which is a necessary condition for the collaboration described in the hypothesis.
+
+therefore, the premise entails the hypothesis.
+
+
+
+"
+Nazantzi nimotequipanoltiyaya ica reguladores tlen prueba campa camaras tlen altitud pilciltzitzi.,Axnechpahtiqui nimotequipanoltiz nocelti ica ne camaras tlen altitud pilcintzitzi,"entailment
+"
+Nazantzi nimotequipanoltiyaya ica reguladores tlen prueba campa camaras tlen altitud pilciltzitzi.,Nompa prebas mochihqui ipan ne camaras tlen altitud pilciltzitzi,"entailment
+"
+Nazantzi nimotequipanoltiyaya ica reguladores tlen prueba campa camaras tlen altitud pilciltzitzi.,Iztoya tlen tohhuantin tlen motequipanoltihque ica nompa reguladores tlen prueba.,"entailment
+"
+"Na, ini, sargento tlanahuatihquel huan temachtihquel,nimociyahquilihquiya, quema quiihtohqui Ricc",Naha nitequiti tlen ni tonali,"neutral
+"
+"Na, ini, sargento tlanahuatihquel huan temachtihquel,nimociyahquilihquiya, quema quiihtohqui Ricc",Ayoc nitequitc ne 2002,"neutral
+"
+"Na, ini, sargento tlanahuatihquel huan temachtihquel,nimociyahquilihquiya, quema quiihtohqui Ricc",Ricc quiihtohqui ayoc tequiti,"neutral
+"
+"Onca ce ome proyecciones tlen fluyo caja huan, mmm, mmm, ya ino nelia, ino ino Cutty, tlen itoca ne tlacohquetl",Tlacohquetl itoca Cutty huan quitlani $10000 cece meztli,"neutral
+"
+"Onca ce ome proyecciones tlen fluyo caja huan, mmm, mmm, ya ino nelia, ino ino Cutty, tlen itoca ne tlacohquetl",Onca ce tlacohquetl tlen itoca Cutty,"entailment
+"
+"Onca ce ome proyecciones tlen fluyo caja huan, mmm, mmm, ya ino nelia, ino ino Cutty, tlen itoca ne tlacohquetl",Axtipiya tlacohuani tlen intoca Cutty,"neutral
+"
+Ixpocatl tlen cualli nechpalehuaz iztoc campa ontlami ni altepetl.,Ixpocatl tlen nicnequi ma nechpalehui iztoc nelpano huecca,"neutral
+"
+Ixpocatl tlen cualli nechpalehuaz iztoc campa ontlami ni altepetl.,Cihuapil tlen nechpalehuiz iztoc a 5 millas,"neutral
+"
+Ixpocatl tlen cualli nechpalehuaz iztoc campa ontlami ni altepetl.,Axonca yon ce tlen cualli nechpalehuiz,"neutral
+"
+"Yahhuantin monelcemantoya tlen queyahhuantin neltequitiyaya huan queyahuantin zan conemeh iztoya caltic, ino huelliz quema…",Nochi monelcencahqueh queh nochi tequitizquiah,"**entailment**
+
+here's why:
+
+* **premise translation:** ""we have already seen those whom we used to receive and those who no longer exist with us, truly they don't return...""
+* **hypothesis translation:** ""truly, those who were received are no longer here.""
+
+the premise *directly states* that those they *used to* receive are no longer with them and don't return. this perfectly supports and implies the hypothesis that those who were received are no longer present. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Yahhuantin monelcemantoya tlen queyahhuantin neltequitiyaya huan queyahuantin zan conemeh iztoya caltic, ino huelliz quema…",Axmonelcencahuayaya tlen queya mano de campo huan tlen queya nelia cal-ehua.,"neutral
+"
+"Yahhuantin monelcemantoya tlen queyahhuantin neltequitiyaya huan queyahuantin zan conemeh iztoya caltic, ino huelliz quema…",Axmocencahuayaya queya tequitizquia ipan milixtli huan queya tlatoxomazquia,"neutral
+"
+"Ama techcamohuizceh tlen Tercera SS, U2 quick huan black Bird",Ya quiihtohtoc ayoc quema camatiz,"neutral
+"
+"Ama techcamohuizceh tlen Tercera SS, U2 quick huan black Bird",Ya camati tlen submarino tlamantinih,"neutral
+"
+"Ama techcamohuizceh tlen Tercera SS, U2 quick huan black Bird",Ya camati eyi tlamantli,"neutral
+"
+"Na ninequi niquihtoz que yahhuanti zan quipiyaya, hueliz, macuili conemeh. Ce mihqui",Nochi iconehua momanahuihqueh,"neutral
+"
+"Na ninequi niquihtoz que yahhuanti zan quipiyaya, hueliz, macuili conemeh. Ce mihqui",Ce mihqui incone tlen macuilti iconehua,"entailment
+"
+"Na ninequi niquihtoz que yahhuanti zan quipiyaya, hueliz, macuili conemeh. Ce mihqui",Incone tlen miquie aci ica miac cocoliztli,"neutral
+"
+"Nelia, Androv gromikov atleno tlananquili, huan tohhuanti tipixtoya miach tlamantli tlen peliculas tlen U2",Ne U2 quichihque huan oncayaya miac peliculas,"entailment
+"
+"Nelia, Androv gromikov atleno tlananquili, huan tohhuanti tipixtoya miach tlamantli tlen peliculas tlen U2",Ne U2 quichihquie ce tonelada de pelicula ipan atlahco,"entailment
+"
+"Nelia, Androv gromikov atleno tlananquili, huan tohhuanti tipixtoya miach tlamantli tlen peliculas tlen U2","Axtipiyaya tlamantli tlen archivo, huacca monehqui timoneltlatoquilizceh","neutral
+"
+"Tlehtohqui huetziyaya miac ixayoli pan iiztiyol, teipa quiihtohqui queh ne Joce yahqui hasta ne porche.","Queme quitlelihqui ma tlehco hasta ne porche, ya quipiyaya ixayoli","neutral
+"
+"Tlehtohqui huetziyaya miac ixayoli pan iiztiyol, teipa quiihtohqui queh ne Joce yahqui hasta ne porche.",Ya quihuazqui namantzi iixayol quema quicuatopehqui Joe calteno iporche,"neutral
+"
+"Tlehtohqui huetziyaya miac ixayoli pan iiztiyol, teipa quiihtohqui queh ne Joce yahqui hasta ne porche.",Nelpano pahtoya quema quiitac Joe huan pehqui choca,"neutral
+"
+Intla nompa Aeronave lementozquia ¿quenque tlatlazquia huan patizquia intla quipiya plomo huan nompa riadiación axpanozquia?,Nompa radiación no cualli mocencahuiz quema onca ce tlimecatl,"**entailment**
+
+here's why:
+
+* **premise translation:** ""if a plane crashes, does it cause damage and/or burns? if it releases lead and radiation, does it cause harm?""
+* **hypothesis translation:** ""radiation isn't good, it can burn a person.""
+
+the premise *asks* if a plane crash releasing radiation causes harm. the hypothesis *states* that radiation *does* cause harm (burns). the premise sets up a scenario where radiation is present and implies a negative consequence, which the hypothesis confirms.  therefore, if the premise is true (the question is relevant and there is a causal link being investigated), the hypothesis *must* also be true. this constitutes entailment.
+
+
+
+"
+Intla nompa Aeronave lementozquia ¿quenque tlatlazquia huan patizquia intla quipiya plomo huan nompa riadiación axpanozquia?,Radiación panozquia ipan ce tlayocomitl iyohyoc quema nompa avion tlatlazquia,"**entailment**
+
+here's why:
+
+* **premise translation:** ""if a plane emits something luminous and warm, and if it emits something that is lead and radiation, does it cause damage/pain?""
+* **hypothesis translation:** ""radiation causes damage/pain to people because it doesn't come from a plane causing damage.""
+
+the premise *implies* the existence of radiation emitted by a plane. the hypothesis discusses radiation causing harm, and specifically links it to *not* coming from a plane causing damage. this connection, while phrased negatively in the hypothesis, is logically consistent with the premise's asking about the consequences of a plane emitting radiation. the premise sets up the possibility of radiation emanating from a plane, and the hypothesis addresses the consequences of that radiation.  the hypothesis doesn't deny the plane *can* emit radiation; it just focuses on the cause of the damage being *other than* the plane directly.
+
+therefore, the premise provides information that supports the scenario described in the hypothesis, making it an entailment.
+
+
+
+"
+Intla nompa Aeronave lementozquia ¿quenque tlatlazquia huan patizquia intla quipiya plomo huan nompa riadiación axpanozquia?,Nompa riadiación axpanozquia quema onca ce tlimecatl,"neutral
+"
+"Ya ni Sargento huan tlayacanquetl Tlamachtihquel Clem Francis, ayoc tequitic tlen Fuerzas aeras estadounidenses",Ne tlayacanquetl ayoc tequiti tlen Fuerza Aerea tlen Estados Unidos,"entailment
+"
+"Ya ni Sargento huan tlayacanquetl Tlamachtihquel Clem Francis, ayoc tequitic tlen Fuerzas aeras estadounidenses",Ne tlayacanquetl hueloc onmocehuihqui,"entailment
+"
+"Ya ni Sargento huan tlayacanquetl Tlamachtihquel Clem Francis, ayoc tequitic tlen Fuerzas aeras estadounidenses",Ne tlayacanquetl tlen Fuerza Aerea de los Estados Unidos hueloz conpeqhualtihqui itlamachtili ni semana,"entailment
+"
+"Cualtitoc, elqui que oncayaya ce o ome aeronavez tlen hualaciyaya huan axquimatiaya canque patlaniyayah",Ax zan cetzi hualaci ce avion cece semana,"entailment
+"
+"Cualtitoc, elqui que oncayaya ce o ome aeronavez tlen hualaciyaya huan axquimatiaya canque patlaniyayah",Cuezoliztli pampa onca miac avionez patlantinemi ica zan cehco,"**neutral**
+
+here's why:
+
+* **premise translation:** ""the sky, when someone sees one or two airplanes flying and landing, it darkens."" (essentially, the premise links airplane sightings to a darkening sky, perhaps due to pollution or a superstitious belief.)
+
+* **hypothesis translation:** ""good health is needed for one to fly airplanes with just a little effort."" (the hypothesis discusses the *requirement* for health to fly airplanes.)
+
+the premise and hypothesis discuss airplanes, but in completely unrelated ways. the premise makes a claim about a *result* of seeing airplanes (darkening sky), while the hypothesis concerns a *condition* for flying them (good health). there's no logical connection allowing us to say the premise necessarily supports or denies the hypothesis. they are independent statements. therefore, the relationship is neutral.
+
+
+
+"
+"Cualtitoc, elqui que oncayaya ce o ome aeronavez tlen hualaciyaya huan axquimatiaya canque patlaniyayah",Axquema huallaci noavion,"entailment
+"
+Yahhuantin momachtihtoyaya ica nompa tlaquemitl presurizados huan na ohhui nimoquentihqui ino tlaquemitl presurizado,Monequi eyi meztli tlen ticaxitiz tlamaxtiliztli queniuhqui titequihuiz nompa tlaquemitl de presión,"neutral
+"
+Yahhuantin momachtihtoyaya ica nompa tlaquemitl presurizados huan na ohhui nimoquentihqui ino tlaquemitl presurizado,Nompa tlamaxtiliztli tlen queniuhqui tictequihuiz nompa tlaquemitl de presión monequi miac cahuitl,"entailment
+"
+Yahhuantin momachtihtoyaya ica nompa tlaquemitl presurizados huan na ohhui nimoquentihqui ino tlaquemitl presurizado,Monequiyaya timomachtihtozquia ama tonalli queniuhqui titequihuizceh nompa tlaquemitl de presión,"entailment
+
+
+
+**explanation:**
+
+let's break down the nahuatl:
+
+* **premise:** ""we are accustomed to cooking with pressurized pots and now we are saying that those pressurized pots are no longer good.""  (essentially, they're used to pressurized pots, but now saying they are bad/broken).
+* **hypothesis:** ""it is said that we are becoming accustomed to *not* cooking with pressurized pots because you see those pressurized pots are bad."" (they are getting used to *not* using them *because* the pots are bad).
+
+the premise *directly supports* the hypothesis. the premise establishes that the pots are no longer good, which is the *reason* given in the hypothesis for people getting used to not using them.  therefore, if the premise is true, the hypothesis *must* also be true. this is a clear case of entailment.
+
+
+
+"
+"Ninequi niihquitoz que axoncayaya tlen malhuilili ica ticalaquiz ica ino bomba pampa axtoponizquia, mazquia neltetic nompa tlalli",Nompa bomba quitencotontoya ne Piloto,"neutral
+"
+"Ninequi niihquitoz que axoncayaya tlen malhuilili ica ticalaquiz ica ino bomba pampa axtoponizquia, mazquia neltetic nompa tlalli",Bompa axhuel topontitozquia,"neutral
+"
+"Ninequi niihquitoz que axoncayaya tlen malhuilili ica ticalaquiz ica ino bomba pampa axtoponizquia, mazquia neltetic nompa tlalli",Malhuilili oncayaya pampa toponizquia nompa bomba,"entailment
+"
+Huan intla monextizquia nelia ihquino quema na nichihua,Axnimati nelia intla mitzpahquia ihquini.,"entailment
+"
+Huan intla monextizquia nelia ihquino quema na nichihua,"Nelia, nimonelchihuilia nichihua.","entailment
+"
+Huan intla monextizquia nelia ihquino quema na nichihua,Nimonelchihuilia nitlamiltiz nopoyecto nece semana,"neutral
+"
+"Nouhquia, ne tlapialmeh nochipa mocuapolozquia, nelpano ne cabras.",Ne cabras nochi tonalli mochololtiyaya campa quincaltzahtoya,"neutral
+"
+"Nouhquia, ne tlapialmeh nochipa mocuapolozquia, nelpano ne cabras.",Ne cabras cholohuayaya nelpano,"entailment
+"
+"Nouhquia, ne tlapialmeh nochipa mocuapolozquia, nelpano ne cabras.",Ne cabras iztoya campa nelcaltzayayotipa,"entailment
+"
+"Quema ticalahque, cuapuertas caltzahtoya",Nochi cuapuertas tlapohtoya,"contradiction
+"
+"Quema ticalahque, cuapuertas caltzahtoya",Tohhuantin tipixtoya llavez,"neutral
+"
+"Quema ticalahque, cuapuertas caltzahtoya",Ticalahque mazqui caltzahtoya,"entailment
+"
+Zan monequiyaya nipohtozquia nochi huan nitlachiltozquia intla nihuelizquia nicencahuzquia,Nellia nimoneltlelia que nochi pohualliztli za ino nicnequiyaya tlen ica nicencahuazquia,"neutral
+"
+Zan monequiyaya nipohtozquia nochi huan nitlachiltozquia intla nihuelizquia nicencahuzquia,"Axnimati queniuqui nichihuaz zan tlen icha nochi tlapohualiztli. Ce favor, technehmachiltili tlen queniuhqui cualli nicencahuaz","neutral
+"
+Zan monequiyaya nipohtozquia nochi huan nitlachiltozquia intla nihuelizquia nicencahuzquia,Nimatiz quezqui tlapohualiz ica nochi tlapohualiztli,"neutral
+"
+"Huallahqui, caltlapohqui huan niquelnamiqui ontlaittac iica huan ixayactipa moyolcuezohua.","Nelpano yolpahtoya, ica miac paquiliztli quitehtzonqui cuapuerta icuayotipa.","neutral
+"
+"Huallahqui, caltlapohqui huan niquelnamiqui ontlaittac iica huan ixayactipa moyolcuezohua.","Monelchihuiliyaya axtechtlahtlacoltiz, huan tohhuanti timahtoyaya que ticualahmacotoyaya.","neutral
+"
+"Huallahqui, caltlapohqui huan niquelnamiqui ontlaittac iica huan ixayactipa moyolcuezohua.",Zan ica ixayac nimatqui yolcuezohtoya quema calapohqui,"entailment
+"
+"Huacca, axnipiya yonce tlatempohualiztli",Axnipiya yonce tlanemaquiliztli,"neutral
+"
+"Huacca, axnipiya yonce tlatempohualiztli",Quena nipiya ce tlanemaquiliztli,"neutral
+"
+"Huacca, axnipiya yonce tlatempohualiztli",Onca miac tlanemaquiliztli,"neutral
+"
+Tlen ipantic tlen nompa axquema tlen quichihquia iceltiltzi,Ya quicelia miac palehuiliztli,"neutral
+"
+Tlen ipantic tlen nompa axquema tlen quichihquia iceltiltzi,Ya quicelia palehuiliztli ica tlacualli huan ica pecetl,"neutral
+"
+Tlen ipantic tlen nompa axquema tlen quichihquia iceltiltzi,Ya iceltzi nentinemi,"entailment
+"
+"Na ihquino nimoihliaya, Toteco, huan ramona iztona nompone","Ramona iztoya ipan tlalli, motzocoyoltoya quema ce conetzi","neutral
+"
+"Na ihquino nimoihliaya, Toteco, huan ramona iztona nompone",Ramona nechnemilizmatiaya tlen axcualli nemiliztli,"entailment
+"
+"Na ihquino nimoihliaya, Toteco, huan ramona iztona nompone",Ramona monelqueztoya quema na nicamachaltoya,"neutral
+"
+Nelia axetic eltoya,"Quicuahqui miac tlacualli, huan axmotomahqui","neutral
+"
+Nelia axetic eltoya,Ya axetic eltoya,"entailment
+"
+Nelia axetic eltoya,Ya yopactoya iztoya,"neutral
+"
+Axnimati intla mocahqui Augusta teipa tlen ino,Ya naja iztoya ne Augusta teipa tlen oncaya yaohtli,"**entailment**
+
+**explanation:**
+
+* **premise:** ""axnimati intla mocahqui augusta teipa tlen ino"" translates to ""today, someone from the augusta group is going to arrive.""
+* **hypothesis:** ""ya naja iztoya ne augusta teipa tlen oncaya yaohtli"" translates to ""now it is true that someone from the augusta group is going to come (and will be beneficial/good).""
+
+the hypothesis *builds upon* the premise. if someone *is going to arrive* (premise), then it is true that someone *is going to come* (hypothesis, adding a potential positive outcome). the arrival stated in the premise necessarily makes the statement in the hypothesis true. therefore, the premise entails the hypothesis.
+
+
+
+"
+Axnimati intla mocahqui Augusta teipa tlen ino,Ya naha iztoya ne Augusta,"entailment
+"
+Axnimati intla mocahqui Augusta teipa tlen ino,Mocueniuhqui tlen ne Augusta nimantzi,"entailment
+"
+"Nochi tlen tichihqueh…. Axquema techtlelihqueh canque yahuiyaha, nouhquia quema quizayaya nepa bace huan yahuiyaya quema onmocahuayaya ce tlaloxtli",Axquema nintlahtlanilihque yanque yahuiyaya,"neutral
+"
+"Nochi tlen tichihqueh…. Axquema techtlelihqueh canque yahuiyaha, nouhquia quema quizayaya nepa bace huan yahuiyaya quema onmocahuayaya ce tlaloxtli",Nochipa technehmachiyaya canque iztoya huan canque yahuiyaya,"neutral
+"
+"Nochi tlen tichihqueh…. Axquema techtlelihqueh canque yahuiyaha, nouhquia quema quizayaya nepa bace huan yahuiyaya quema onmocahuayaya ce tlaloxtli",Axquema techtlelihque canque yahuiyaya,"entailment
+
+
+
+**explanation:**
+
+the premise states: “here are those who are ill… those who are ill get better, but then get sick again with a fever and those who get better get sick with a rain-related illness.”
+
+the hypothesis states: “those who are ill get better.”
+
+the premise *includes* the statement that those who are ill get better (""axquema techtlelihque canque yahuiyaha"").  therefore, if the premise is true, the hypothesis *must* also be true. this is the definition of entailment.
+"
+Quiihtohqueh: tohhuanti titlaxtlahtoque campa timocahuaz,Axtleno tlaxtlahuazceh tlen tohhuantin,"entailment
+"
+Quiihtohqueh: tohhuanti titlaxtlahtoque campa timocahuaz,Yahhuantin tlachtlahua ce calli tlen na huan noihnihua,"neutral
+"
+Quiihtohqueh: tohhuanti titlaxtlahtoque campa timocahuaz,Yahhuantin tlachtlahua ce calli,"neutral
+"
+"Cualtitoc, hual moztla, monequi, precidente quennedy, mm.., quitzacqui Cuba huan mmm…, tobuques quiohtzahqueh ce barco ruso tlen yahuiyaya ohcalteno ne Cuba huan quipantihque miciles.",quennedy quiiniluihqui to tropas ma quitemocah miciles.,"entailment
+
+
+
+**explanation:**
+
+the premise states kennedy was aware of cuba and soviet ships/submarines carrying missiles *to* cuba, and that missiles were deployed there. the hypothesis states kennedy ordered troops to remove the missiles. 
+
+given the context of the cuban missile crisis heavily implied by the premise (cuba, soviet ships with missiles, missiles in cuba), it's a very strong inference—essentially a logical entailment—that kennedy would order action to remove those missiles. the premise provides the situation that would necessitate the action described in the hypothesis.  while the premise doesn't *explicitly* state the order, it makes it overwhelmingly likely and logically necessary.
+
+
+
+"
+"Cualtitoc, hual moztla, monequi, precidente quennedy, mm.., quitzacqui Cuba huan mmm…, tobuques quiohtzahqueh ce barco ruso tlen yahuiyaya ohcalteno ne Cuba huan quipantihque miciles.",Axquinquezqueh yonce Barco pampa axquinehqueh cualantli….,"neutral
+"
+"Cualtitoc, hual moztla, monequi, precidente quennedy, mm.., quitzacqui Cuba huan mmm…, tobuques quiohtzahqueh ce barco ruso tlen yahuiyaya ohcalteno ne Cuba huan quipantihque miciles.",Quipantihqueh 20 miciles ipan barco,"neutral
+"
+"Mazqui, ne tlacatl panoz",Tlacatl panoc ipan sala tlen tribunal,"neutral
+"
+"Mazqui, ne tlacatl panoz",Tlacatl panoc campa cochi,"entailment
+"
+"Mazqui, ne tlacatl panoz",tlacatl motlalohqui neca,"neutral
+"
+"Mmm…, tohueyitatahhua nochipa techihneliyaya, Quemantica iztoya totatahhua huan yehyehtzi tipanoqueh",Nelpano hueccatipa tiaciti icha tohueyitatahhua,"neutral
+"
+"Mmm…, tohueyitatahhua nochipa techihneliyaya, Quemantica iztoya totatahhua huan yehyehtzi tipanoqueh",Nohueyyitatahhua nelpano moihneliyaya,"neutral
+"
+"Mmm…, tohueyitatahhua nochipa techihneliyaya, Quemantica iztoya totatahhua huan yehyehtzi tipanoqueh","Nohueyitatahhua nelpano cuahuihuitiyaya, yeca axnexpahtihqui ninpaxalotin incha.","neutral
+"
+Axnicantic nitequitiz ica nochi tlamantli,Cualtitozquia itlehcoltitozquia mazqui tiotlac,"neutral
+"
+Axnicantic nitequitiz ica nochi tlamantli,Niyehyehcohqui nochi nochipa,"entailment
+"
+Axnicantic nitequitiz ica nochi tlamantli,Axniyahatic nipanoltiz pan tepoztli nochi,"neutral
+"
+"A, nipiya ce notequitl ama tlen ninmactiz macehualmen queniuhqui quitlalizceh paracaidas ipan ce disparador tlen armas nucleares, tlen quitoponiltilia nompa bomba atómica",Bomba atómica axquipiya gatillo,"entailment
+"
+"A, nipiya ce notequitl ama tlen ninmactiz macehualmen queniuhqui quitlalizceh paracaidas ipan ce disparador tlen armas nucleares, tlen quitoponiltilia nompa bomba atómica",Nompa detonador ya quitlatia ma toponi nompa bomba quema quitilaniltilia,"entailment
+"
+"A, nipiya ce notequitl ama tlen ninmactiz macehualmen queniuhqui quitlalizceh paracaidas ipan ce disparador tlen armas nucleares, tlen quitoponiltilia nompa bomba atómica",Zan monequi quentzi titianaz gatillo tlen bomba atomica,"entailment
+"
+"Nohueyinana eltoya nechtempohuiliyaya miac tlamantli tlatempohualiztli tlen quema ya eltoya pilconetzi huan tlen panoc, nelpano nechtlatempohuiliayaya tlen imahuicalhua huan queniuhqui panotihualahque nochi ino xihuitl",Nochipa nechpahtiyaya nicaquiz itlatempohualiz nohueyinana,"neutral
+"
+"Nohueyinana eltoya nechtempohuiliyaya miac tlamantli tlatempohualiztli tlen quema ya eltoya pilconetzi huan tlen panoc, nelpano nechtlatempohuiliayaya tlen imahuicalhua huan queniuhqui panotihualahque nochi ino xihuitl",Nohueyinana axquema quipahtuihqui techtempohuiliz tlen quema ya eltoya conetzi,"entailment
+"
+"Nohueyinana eltoya nechtempohuiliyaya miac tlamantli tlatempohualiztli tlen quema ya eltoya pilconetzi huan tlen panoc, nelpano nechtlatempohuiliayaya tlen imahuicalhua huan queniuhqui panotihualahque nochi ino xihuitl",Nohueyinana nechtempohui miac tlamantli tlen imahuicalhuia quema ya eltoya pilconetzi,"entailment
+"
+"Tipixtoya nemaxtic tlaquemitl tlen presión ipan avion, quema quitequihuiyaya nompa astronautas, ma tlen tohhuanti nelpano inextiliz tenextic petlantic, ica bota, tlen teminayaya tonati.",Noyoyohua axihuicalhua tlen quipixtoya ne astronautas,"entailment
+
+
+
+**explanation:**
+
+let's break down the nahuatl:
+
+* **premise:** ""it is known that the suit (tlaquemitl) has pressure like on an airplane, which is what the astronauts use, but it’s still necessary to carry oxygen with them, with a tank, that helps them live in space, with the sun.""  essentially, this describes a spacesuit and its function – maintaining pressure and needing supplemental oxygen for space travel.
+* **hypothesis:** ""astronauts need suits."" (noyoyohua axihuicalhua tlen quipixtoya ne astronautas - ""it is necessary for astronauts to wear them/suits"")
+
+the premise *explicitly* states astronauts *use* a suit (tlaquemitl).  the use of something strongly implies a need for it. therefore, the premise logically necessitates the hypothesis.  if astronauts use suits, it follows they *need* suits.
+
+therefore, the relationship is **entailment**."
+"Tipixtoya nemaxtic tlaquemitl tlen presión ipan avion, quema quitequihuiyaya nompa astronautas, ma tlen tohhuanti nelpano inextiliz tenextic petlantic, ica bota, tlen teminayaya tonati.","Toyoyohua axihuicalhua tlen ne astronautas, za quentzi tlen quimina tonati, tlen tohhuantin inextiliz tenetxtic petlantic","entailment
+"
+"Tipixtoya nemaxtic tlaquemitl tlen presión ipan avion, quema quitequihuiyaya nompa astronautas, ma tlen tohhuanti nelpano inextiliz tenextic petlantic, ica bota, tlen teminayaya tonati.",Cualli quipantiz tlaquemitl campahueli tlen quinequi,"neutral
+"
+"Nelia, nohueyitata axcual tlacatl eltoya",Nohueyitata eltoya huihuitzi,"entailment
+"
+"Nelia, nohueyitata axcual tlacatl eltoya",Nohueyitata nelpano tecualanitayaya huan axquinpahtiyaya cequi macehualmeh,"neutral
+"
+"Nelia, nohueyitata axcual tlacatl eltoya","No hueyitata nelpano yehyehtzi itlalnamiquiliz eltoya, axtipantiz ihquino namantzi.","**entailment**
+
+here's why:
+
+* **premise:** ""nelia, she is a great woman, she exists."" (essentially states nelia is a significant/important woman and exists).
+* **hypothesis:** ""it is not a great woman who supports the earth's sustenance, rather she dedicates herself to raising children.""
+
+the hypothesis *depends* on the premise being true. if nelia *is* a great woman, then the hypothesis is a statement *about* what that greatness doesn't involve (sustaining the earth) and what it *does* involve (raising children). the hypothesis doesn't deny nelia's greatness; it *redefines* the *type* of greatness she possesses.  it's logically consistent to be a great woman *and* focus on raising children. therefore, the premise logically leads to the possibility of the hypothesis being true.
+
+
+
+"
+"Hueliz 30 o 40 aviones U2, huan tipehualtihqueh tinmachtihqueh pilotos chinos, polotos britanicos, tlen inihuaya quena timohuicayaya.",Axtipixqueh queya techmaxtiz,"neutral
+"
+"Hueliz 30 o 40 aviones U2, huan tipehualtihqueh tinmachtihqueh pilotos chinos, polotos britanicos, tlen inihuaya quena timohuicayaya.",Timomachtihqueh macuili semanas ica britanicos,"entailment
+"
+"Hueliz 30 o 40 aviones U2, huan tipehualtihqueh tinmachtihqueh pilotos chinos, polotos britanicos, tlen inihuaya quena timohuicayaya.",Timomachtihqueh ica miacqui cequinoc soldados,"neutral
+"
+"Huacca ihquino, quihtohua xitemo tlen cualli, xitemo ipan ini huan uni empresa",Ya axnechcamohuihqui,"neutral
+"
+"Huacca ihquino, quihtohua xitemo tlen cualli, xitemo ipan ini huan uni empresa",Nechtlelihqui ma nitemo ce tlamantli,"neutral
+"
+"Huacca ihquino, quihtohua xitemo tlen cualli, xitemo ipan ini huan uni empresa",Nechtlelihqui ma nitemo información financiera,"neutral
+"
+Ya quiihtohqui tlehcotoc norte,Quiihtohqui moqueztihualahqui ohtipa,"entailment
+"
+Ya quiihtohqui tlehcotoc norte,Quihtohqui temoqueh,"entailment
+"
+Ya quiihtohqui tlehcotoc norte,Quihtohqui tlehcoqueh,"entailment
+"
+"Hum, no, nelia, axquema nipohqui nompa amoxtli tlen monequiyaya nipohuaz",Axnipohtoc yonce amoxtli tlen quipiya 100 paginas,"neutral
+"
+"Hum, no, nelia, axquema nipohqui nompa amoxtli tlen monequiyaya nipohuaz",Axnipohtoc miac amoxtli,"neutral
+"
+"Hum, no, nelia, axquema nipohqui nompa amoxtli tlen monequiyaya nipohuaz",Nipohua amoxtli nochi tonalli,"neutral
+"
+"Niyacanqui, huan nipehpenqui noyoyo, huan niyahqui campa monequiyaya niyaz",Nicahqui no bolsa huan nimoihli axnocuezoliz,"neutral
+"
+"Niyacanqui, huan nipehpenqui noyoyo, huan niyahqui campa monequiyaya niyaz",Nihuicac ibolsa campa icha,"neutral
+"
+"Niyacanqui, huan nipehpenqui noyoyo, huan niyahqui campa monequiyaya niyaz",Nihuicac ibolsa campa monequiyaya,"neutral
+"
+Nelpano moyolcuapac,Iyolpaquiliz nochipa eltopa zan ihquino,"neutral
+"
+Nelpano moyolcuapac,Yolpahtoya huan teipa mocuezohqui,"neutral
+"
+Nelpano moyolcuapac,Iyoltlalnamiquiz nelpano mopatlac,"entailment
+"
+"Nech… nechtlapehpenihtoque caxtolmeh macehualmeh pampa monequi niyaz tlamachtiloyan, huan na axniyaz, axniyaz.",Axnechtlapehpenihque ma niyaz tlamachtiloyan,"entailment
+"
+"Nech… nechtlapehpenihtoque caxtolmeh macehualmeh pampa monequi niyaz tlamachtiloyan, huan na axniyaz, axniyaz.",Nechtlapehpenihque ma niyaz tlamachtiloyan,"entailment
+"
+"Nech… nechtlapehpenihtoque caxtolmeh macehualmeh pampa monequi niyaz tlamachtiloyan, huan na axniyaz, axniyaz.",Na nelia ni cualli tlapehpeniliz,"neutral
+"
+"Monequiyaya nipanoz ipan ce cere de camaras de altitud, ah, paceos axtihui que pehuazceh patlanizceh ipan U2 o hueliz patlanizceh ica yoyomitl de presión",Miaqui macehualmeh axquinpahtiya nompa examenes huan axquema hueli patlani ipan U2,"neutral
+"
+"Monequiyaya nipanoz ipan ce cere de camaras de altitud, ah, paceos axtihui que pehuazceh patlanizceh ipan U2 o hueliz patlanizceh ica yoyomitl de presión",Monequi miac tlamantli tipanoz tlamachtiliztli tlen ica tihuelliz tipatlaniztliz nompa U2,"entailment
+
+
+
+**explanation:**
+
+let's break down the nahuatl to understand why.
+
+* **premise:** ""i ascended to a high-altitude chamber, ah, symptoms are abundant that worsen with u2 or improve with pressure medication.""  this describes experiencing altitude sickness and possible treatments.
+* **hypothesis:** ""i need a thing to ascend to improve my health, which doesn't involve u2."" this states a need for something to help with altitude/health, *specifically excluding* u2 as a solution.
+
+the premise *implies* a need for something to improve health at altitude (because of the symptoms). crucially, it mentions u2 as *one* possibility. the hypothesis's exclusion of u2 doesn't contradict anything stated in the premise; it just proposes a different path.  because the premise speaks of treatments *including* u2 and doesn't say it's the *only* solution, it's entirely possible to need something else (as the hypothesis states) *instead* of u2.  the premise doesn't rule out the hypothesis being true.
+
+therefore, the premise logically leads to the possibility of the hypothesis being true, making it an **entailment**."
+"Monequiyaya nipanoz ipan ce cere de camaras de altitud, ah, paceos axtihui que pehuazceh patlanizceh ipan U2 o hueliz patlanizceh ica yoyomitl de presión",Zan mitzcahuilizceh xipatlanilti cempatzi nompa U2 iyohyoc,"neutral
+"
+Na nimotequipanoltihtoc ica nouhquia ino,Na nomotequipanoltiz tlen nompa ino tequitl,"entailment
+"
+Na nimotequipanoltihtoc ica nouhquia ino,Na nomotequipanotihtoc tlen miac tlamantli queh ne cequinon revistas,"neutral
+"
+Na nimotequipanoltihtoc ica nouhquia ino,Na nouhquia nicamanaloa tlen yahhuanti,"entailment
+"
+"Ni iyohyoc panoc, panoyota 75 xihuitihca, ne legislatura de Texas mocencahtoya tlen ne militar huan eltoya embajadores ne Tejas, huacca, monequiyaya embajadores tlen Texas",Nompa unidades militares axhueli eli embajadores de TX,"contradiction
+"
+"Ni iyohyoc panoc, panoyota 75 xihuitihca, ne legislatura de Texas mocencahtoya tlen ne militar huan eltoya embajadores ne Tejas, huacca, monequiyaya embajadores tlen Texas",Nompa unidad militar quintocachtihqueh Embajadores de Texas ipan ne Congreso de los Estados Unidos,"neutral
+"
+"Ni iyohyoc panoc, panoyota 75 xihuitihca, ne legislatura de Texas mocencahtoya tlen ne militar huan eltoya embajadores ne Tejas, huacca, monequiyaya embajadores tlen Texas",Nompa Unidad militar quintocahtihqueh embajadores tlen TX,"**entailment**
+
+here's why:
+
+the premise states that the texas legislature appointed military personnel *and* ambassadors from texas.  the hypothesis states that military units became ambassadors from tx.  ""quintocahtihqueh"" (became) aligns with ""mocencahtoya"" (appointed/constituted) in the context of assigning roles. since the premise explicitly includes military personnel being made ambassadors, the hypothesis *follows logically* from the premise. therefore, it is an entailment.
+
+
+
+"
+Intla eltozquia ce tlamantli tlen cualli nichihuazquia,Na cualli nichihuazquia ce tlamantli,"entailment
+"
+Intla eltozquia ce tlamantli tlen cualli nichihuazquia,Nimahyoya queh na axhuetl tleno nichihuazquia,"entailment
+"
+Intla eltozquia ce tlamantli tlen cualli nichihuazquia,Nimotlelia queh na axhuel tleno nichihuazquia tlen nimitzmanahuizquia,"neutral
+"
+"Axnechpahtiaya ino, nitempohuiliaya nohuelti nochi tonalli, huan nechtleliayaya queh na axcualli nichihuayaya",Ya nochipa quiyolchicahqui ihuelti,"neutral
+"
+"Axnechpahtiaya ino, nitempohuiliaya nohuelti nochi tonalli, huan nechtleliayaya queh na axcualli nichihuayaya",Neltlehtohqui queh ihuelti axtleno quimatiyaya quichihuaz,"neutral
+"
+"Axnechpahtiaya ino, nitempohuiliaya nohuelti nochi tonalli, huan nechtleliayaya queh na axcualli nichihuayaya",Ya nelpano quineltlatequihuiliyaya ihuelti,"neutral
+"
+"Huacca monehqui niyaz icha, ninotzqui ica ini tlapohualliztli tlen monequiyaya nonohnotzaz quema nionacito.",Niquizqui ino telefono tlen nechtlanehtihque ica ninohnotzaz,"neutral
+"
+"Huacca monehqui niyaz icha, ninotzqui ica ini tlapohualliztli tlen monequiyaya nonohnotzaz quema nionacito.",Nitenozquia ica ino tlapohualiztli quema niacito nocha,"neutral
+"
+"Huacca monehqui niyaz icha, ninotzqui ica ini tlapohualliztli tlen monequiyaya nonohnotzaz quema nionacito.","Monequiyaya ninohnotzaz, huan axnichihqui","entailment
+"
+"Huacca, niaciti nompa moztlayoc huan, eh, niquelcahqui queniuhqui… hueliz nitlatepoztoquilihqui, o ya calahqui, o na nimati tlaya.","Ama axniyahtoc, yeca axniquiztoc.","neutral
+"
+"Huacca, niaciti nompa moztlayoc huan, eh, niquelcahqui queniuhqui… hueliz nitlatepoztoquilihqui, o ya calahqui, o na nimati tlaya.",Nitlahpalohqui nepa gimnacio ama huan ya huallahqui nechtlahpaloco hual tiotlac,"neutral
+"
+"Huacca, niaciti nompa moztlayoc huan, eh, niquelcahqui queniuhqui… hueliz nitlatepoztoquilihqui, o ya calahqui, o na nimati tlaya.",Nitetlahpalohqui ama ihnaloc huan ya nouhquia huallahqui,"neutral
+"
+Axtimatiyayah canque yahuiyaya,Axtimatiyayah canque yahuiyayah nompa macehualmeh tlen interestatal,"neutral
+"
+Axtimatiyayah canque yahuiyaya,Axtimatiyayah canque yahuiyayah nompa macehalmeh,"neutral
+"
+Axtimatiyayah canque yahuiyaya,Timatiyayah canue yahuiyayah,"entailment
+"
+"Na niiztoya quema, xiquelcahua, niontlacuati. Nimayanayaya.",Axnimayanayaya,"entailment
+"
+"Na niiztoya quema, xiquelcahua, niontlacuati. Nimayanayaya.","Nimayanayaya, huacca nitlacuahqui tlen ihnaloc","entailment
+"
+"Na niiztoya quema, xiquelcahua, niontlacuati. Nimayanayaya.","Nimayancamiquiyaya, huacca niyahqui cafeteria","neutral
+"
+"Huacca, zan achi ama nimacahuazquia ni notequi",Zan achi nimacahuazquia ni notequi,"entailment
+"
+"Huacca, zan achi ama nimacahuazquia ni notequi",Nelpano nechcocohuayaya queh ayoc noyopac niiztoya,"here's the breakdown and the answer:
+
+* **premise:** *huacca, zan achi ama nimacahuazquia ni notequi.*  roughly translates to: ""truly, yesterday i didn't understand him/her."" (huacca is an intensifier - ""truly"", ""indeed"").
+* **hypothesis:** *nelpano nechcocohuayaya queh ayoc noyopac niiztoya.* roughly translates to: ""perhaps my relatives know what happened.""
+
+the premise is about *personal* understanding of something that happened *yesterday*. the hypothesis is about the *knowledge* of *relatives* regarding what happened.  there's no logical connection between the two. the fact that *i* didn't understand something doesn't tell us anything about whether my relatives know about it.
+
+therefore, the answer is:
+
+**neutral**
+
+
+
+"
+"Huacca, zan achi ama nimacahuazquia ni notequi",Axquema nimitlelihquia nimacahuaz notequi,"entailment
+"
+Hueliz acic ne xihuitl tlen 198 y algo… o hueliz ne 1888 o 1889,Aci teipa tlen ne xihuitl 1990,"neutral
+"
+Hueliz acic ne xihuitl tlen 198 y algo… o hueliz ne 1888 o 1889,Acic ne meztli diciembre tlen 1880,"neutral
+"
+Hueliz acic ne xihuitl tlen 198 y algo… o hueliz ne 1888 o 1889,Ya axacic hasta ne 1984,"neutral
+"
+Cualtitozquia ma nitemohuihtozquia ne pilciltzi tornillo pampa cualiz ticocozquia polmunes tlen ce macehualtzi,Ino tornilli cualli ticocoz ce ipolmunes ce macehualtzi,"entailment
+"
+Cualtitozquia ma nitemohuihtozquia ne pilciltzi tornillo pampa cualiz ticocozquia polmunes tlen ce macehualtzi,"tornillo axmalhuilili, cualli xitetzopili quema tinequi","neutral
+"
+Cualtitozquia ma nitemohuihtozquia ne pilciltzi tornillo pampa cualiz ticocozquia polmunes tlen ce macehualtzi,Nompa tornillo cualli calaquiz ipan motraquea huan cualli mitzcocoz mopolmunes,"neutral
+"
+"Nicelihquie ce tlanahuatili ma niyaz Del Rio, TX, huacca quema niacito, nellia, nimatqui ma monequi niyaz ne Bace tlen Laughlin Air Force","Nechtitlanquehne Del Rio, Texas pampa nontequitiz","entailment
+"
+"Nicelihquie ce tlanahuatili ma niyaz Del Rio, TX, huacca quema niacito, nellia, nimatqui ma monequi niyaz ne Bace tlen Laughlin Air Force",Axquema niyahtoc Texas,"entailment
+"
+"Nicelihquie ce tlanahuatili ma niyaz Del Rio, TX, huacca quema niacito, nellia, nimatqui ma monequi niyaz ne Bace tlen Laughlin Air Force","Nompa Fuerzas Aeras yahhuantin nechtitlanqueh ne Del Rio, TX, ne 2001.","neutral
+"
+"Nochi macehualmeh motequilia champán, huan axnochi quetlami quii, tlen mocahua ipan copas quii conemeh, huacca quema tohhuanti tiiztoqueh, timomalacachtinemih huan tiquitinemih champán.",Nompa conemeh quiiqueh eyi boteyas tlen champaña,"**entailment**
+
+**explanation:**
+
+let's break down the nahuatl:
+
+* **premise:** ""the commoners are getting drunk on champagne, and as much as we like it, what they are throwing in the glasses when we drink, is burning them, we are getting sick and we are drinking champagne.""  this describes a situation where commoners are drinking champagne, *and* there is something being added to the champagne that is making people sick. it heavily implies people *are* drinking champagne.
+* **hypothesis:** ""not our companions who drink are bottles of champagne.""  this translates roughly to ""our drinking companions aren't drinking from bottles of champagne."" this is subtly stating that they aren't drinking from bottles.
+
+the premise describes the consumption of champagne. the hypothesis negates that specific companions drink from bottles.  the premise *implies* someone *is* drinking champagne, thus the premise supports and therefore entails the notion that *someone* is drinking champagne, even if not from a bottle. the information in the premise does not contradict that companions might be drinking champagne from something other than a bottle.
+
+therefore, the premise entails the hypothesis.
+
+
+
+"
+"Nochi macehualmeh motequilia champán, huan axnochi quetlami quii, tlen mocahua ipan copas quii conemeh, huacca quema tohhuanti tiiztoqueh, timomalacachtinemih huan tiquitinemih champán.",Coneme quiiqueh ce achi campán,"entailment
+"
+"Nochi macehualmeh motequilia champán, huan axnochi quetlami quii, tlen mocahua ipan copas quii conemeh, huacca quema tohhuanti tiiztoqueh, timomalacachtinemih huan tiquitinemih champán.",Ne ilhuitl axtemacaqueh alcohol,"entailment
+"
+Onca miac tlatempohualiztli tlen ne altepetl,Axtleno nicahtoc yonce tlatempohualiztli.,"entailment
+"
+Onca miac tlatempohualiztli tlen ne altepetl,Onca miac tlatempohualiztli tlen militares,"neutral
+"
+Onca miac tlatempohualiztli tlen ne altepetl,Onca miac tlatempohualiztli tlen motempohua,"entailment
+"
+"Tinemiz huan tiyecoz, timahtohca, quema tihuelliz, eh,avión",Axtleno nimati tlen queniuhqui tiyecoz tlen avion,"entailment
+"
+"Tinemiz huan tiyecoz, timahtohca, quema tihuelliz, eh,avión",Tiyecoz tlen avionez tiyecoz miac tlamantli,"entailment
+"
+"Tinemiz huan tiyecoz, timahtohca, quema tihuelliz, eh,avión",Tichihuaz miac tlayecoliz ica aviones tiyecoz miac tlamantli tlen presión,"neutral
+"
+Ninequi niiquitoz queh ino melahuac nelia,Axnimachilia ino,"neutral
+"
+Ninequi niiquitoz queh ino melahuac nelia,Nimoihlia queh inoh nelia monequiaya timoilhuizceh maluililih eltoya.,"neutral
+"
+Ninequi niiquitoz queh ino melahuac nelia,Nicuamachilihqui,"neutral
+"
+"Panoc ipan ne bace aerea tlen panoyaya ipan Cuba, huan nelia quitepexihuihqueh Rodolph Anderson",Nochi aviones momanahuihqueh tlen axquintoponihqueh,"neutral
+"
+"Panoc ipan ne bace aerea tlen panoyaya ipan Cuba, huan nelia quitepexihuihqueh Rodolph Anderson",Ce tlamantli quitepexihuihue ne Cuba,"entailment
+"
+"Panoc ipan ne bace aerea tlen panoyaya ipan Cuba, huan nelia quitepexihuihqueh Rodolph Anderson",Nelhueyi avion quitepexihuihqueh ipan Cuba ne mayo.,"neutral
+"
+"Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli.",Nellia axniquelnamiqui tleno tlen quema nieltoya nipilconetzi,"entailment
+"
+"Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli.",Naja aximelac miyolmati ni tonalli,"neutral
+"
+"Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli.",Ino elqui tlen iyohyoc niquelnamiqui,"entailment
+"
+"Zan axquinpahtihqui tlen ti eliz macehual yayahuic ne tonalli, ihquino panoc, timati, hueliz, yeca, timati, ne tonalli tlen 1930 quema quichihqueh",Ohui eltoya tieliz macehual yayahuic nepa sur,"neutral
+"
+"Zan axquinpahtihqui tlen ti eliz macehual yayahuic ne tonalli, ihquino panoc, timati, hueliz, yeca, timati, ne tonalli tlen 1930 quema quichihqueh",Axohui eltoya tieliz macehual yayahic,"neutral
+"
+"Zan axquinpahtihqui tlen ti eliz macehual yayahuic ne tonalli, ihquino panoc, timati, hueliz, yeca, timati, ne tonalli tlen 1930 quema quichihqueh",Nelia nelohui eltoya tieliz macehual yayahuic huacca,"neutral
+"
+Axaca quimatiyaya canque yahuiyayah,Nochi quimatiyaya canque yahuiyayah,"contradiction
+"
+Axaca quimatiyaya canque yahuiyayah,Axaca quimatiyaya catliya calli yahuiyayah,"entailment
+"
+Axaca quimatiyaya canque yahuiyayah,Campa yahuiyaya axmatiliztli,"neutral
+"
+Axhuel mocahuazquia campa Area tlen Augusta pampa macehualmen quimahtoyaya que oncayaya ce tlamantli tlachihualiztli tlen itoca tabú huan panoltiliztli tlen chipahuac,Macehualmeh axquimatiyayah intla ya axmacehualmeh chipahuaqueh,"neutral
+"
+Axhuel mocahuazquia campa Area tlen Augusta pampa macehualmen quimahtoyaya que oncayaya ce tlamantli tlachihualiztli tlen itoca tabú huan panoltiliztli tlen chipahuac,Macehualmeh quimahtoyayah que yahuantin afroamericanos,"neutral
+"
+Axhuel mocahuazquia campa Area tlen Augusta pampa macehualmen quimahtoyaya que oncayaya ce tlamantli tlachihualiztli tlen itoca tabú huan panoltiliztli tlen chipahuac,Macehualmeh quimahtoyayah que axmacehualmeh chipahuaqueh,"entailment
+"
+"Quena, nelia, ne telpocatl iztoc nica",Ne telpocatl hualahtoc,"entailment
+"
+"Quena, nelia, ne telpocatl iztoc nica",Me macehualtzi onmonechtico,"neutral
+"
+"Quena, nelia, ne telpocatl iztoc nica",Ne macehualtzi axquema huallahqui nica,"neutral
+"
+Titlachiliyaya ce tlamantli ipan televisión,Axtipiyaya televisión,"entailment
+"
+Titlachiliyaya ce tlamantli ipan televisión,Titlachiliyaya televisión,"entailment
+"
+Titlachiliyaya ce tlamantli ipan televisión,Titlachiliyaya tlen tlamantli pano ipan televisión,"entailment
+"
+"Huacca, nimoihlia nicamatiz zampano ica Ramona",Axquema nicamatitoc ihuaya Ramona,"entailment
+"
+"Huacca, nimoihlia nicamatiz zampano ica Ramona",Zampano nicamatic ihuaya Ramona,"entailment
+"
+"Huacca, nimoihlia nicamatiz zampano ica Ramona",Yehyeztli timocamanalhuihqueh,"neutral
+"
+"Zan cetzi huezqui tlen ne cuezoliztli ne Cuba huan, eh, caicer, eh, mochihquih ica ixcopincayotl huan patlanqui xitlahuac ne Andrews Air Force ne washington",10 000 macehualmeh mihqueh tlen ne cuezoliztli cubana,"neutral
+"
+"Zan cetzi huezqui tlen ne cuezoliztli ne Cuba huan, eh, caicer, eh, mochihquih ica ixcopincayotl huan patlanqui xitlahuac ne Andrews Air Force ne washington",Zan cetzi macehual mihqui tlen ne cuezoliztli cubana,"entailment
+"
+"Zan cetzi huezqui tlen ne cuezoliztli ne Cuba huan, eh, caicer, eh, mochihquih ica ixcopincayotl huan patlanqui xitlahuac ne Andrews Air Force ne washington",Zan cetzi macehual mihqui tlen ce accidente ne cuezolizlit cubana,"entailment
+"
+"Hum, ya cihuatl quiihtohqui...quiihtohqui…quiihtohqui, noyoltzi, quiihtohqui, axticuamachilia nemiliztli quema na nicuamachilia.",Ya cihuatl quiihtohqui axquimati tleno,"neutral
+"
+"Hum, ya cihuatl quiihtohqui...quiihtohqui…quiihtohqui, noyoltzi, quiihtohqui, axticuamachilia nemiliztli quema na nicuamachilia.",Ya cihuatl quimatiyaya nelpano tlen nemiliztli,"neutral
+"
+"Hum, ya cihuatl quiihtohqui...quiihtohqui…quiihtohqui, noyoltzi, quiihtohqui, axticuamachilia nemiliztli quema na nicuamachilia.",Nechtlelihqui que ya axtleno quimatiyayatlen queniuhqui motequipano ipan ni tlaltipactli huan queniuhqui monemilizmatizquiya,"neutral
+"
+"Quena nicuamachilia huan nimocahua quema, cualtitoc ¿Tlen nichihuiliz?",Axnimatiyaya queniuhcatza motequihuizquia nompa artilugio,"neutral
+"
+"Quena nicuamachilia huan nimocahua quema, cualtitoc ¿Tlen nichihuiliz?",Axnimati queniuhcatza monequi motequihuiz,"neutral
+"
+"Quena nicuamachilia huan nimocahua quema, cualtitoc ¿Tlen nichihuiliz?",Nimatiyaya queniuhcatza cualli motequihuizquia,"neutral
+"
+"Techmaca ce tlaloxtli, intla tinequi techtempohuiliz, na, hum, niyahua.",Nineliztohca nelia amantzi,"neutral
+"
+"Techmaca ce tlaloxtli, intla tinequi techtempohuiliz, na, hum, niyahua.",Techmaca ce tlaloxtli,"entailment
+"
+"Techmaca ce tlaloxtli, intla tinequi techtempohuiliz, na, hum, niyahua.","Texchiya ce tlaloxtli, monequi nimoyoltequipanoltiz","neutral
+"
+Huacca niyahqui washington D. C. huan axniyahqui xitlahuac campa nechnahuatihtoyah,Axquema niyahtoc ne washington D. C.,"entailment
+"
+Huacca niyahqui washington D. C. huan axniyahqui xitlahuac campa nechnahuatihtoyah,Niyahqui D. C. pampa niquitato notlayacanquetl,"entailment
+"
+Huacca niyahqui washington D. C. huan axniyahqui xitlahuac campa nechnahuatihtoyah,Niyahqui altepetl itlatilanca,"entailment
+"
+Ya eltoya ce macehual icuetlaxo yayahuic,Ya cihuatl quipiyaya icuetlaxo nelpano yayahuic,"neutral
+"
+Ya eltoya ce macehual icuetlaxo yayahuic,Ya cihuatl quipiyaya icuetlaxo chipahuac mazqui ya afroamericana,"neutral
+"
+Ya eltoya ce macehual icuetlaxo yayahuic,Ya cihuatl axnelpano etic eltoya quema ihuampoyohua yayahuiqueh,"neutral
+"
+"Mazqui, topayi yahui huan quichihua ce cualli vaso hueyi tlen lechi ica chocotlal tlen na.",Topayi nechmacac ce achi lechi ica chocolatl tlen eltoya ipan nevera,"neutral
+"
+"Mazqui, topayi yahui huan quichihua ce cualli vaso hueyi tlen lechi ica chocotlal tlen na.",Topayi nechtequilihqui ce vaso lechi,"entailment
+"
+"Mazqui, topayi yahui huan quichihua ce cualli vaso hueyi tlen lechi ica chocotlal tlen na.",Topayi nechihlihqui queh axhuel niquiz tleno,"neutral
+"
+DOT monehqui quicohuaz ne inmueble ihquino,Departamento de Transporte quipantihqui ce propiedad chicotic tlen cualli motlanehqui nepa.,"neutral
+"
+DOT monehqui quicohuaz ne inmueble ihquino,Ne propiedad huan equipo quicohque DOT,"entailment
+"
+DOT monehqui quicohuaz ne inmueble ihquino,DOT tlaxtlacqui 3 millones de dolares tlen quicohqui ne propiedad,"entailment
+"
+Ya acitozquia,Tichilihtoya acizquia diciembre 2010,"neutral
+"
+Ya acitozquia,Acitozquiaya,"entailment
+"
+Ya acitozquia,monequi axacitozquia,"entailment
+"
+"Queh na, nimahtoc canquen nionacitoc",Nintlelihqui que axnimatiyaya tlen nichihuayaya,"neutral
+"
+"Queh na, nimahtoc canquen nionacitoc",Nintlelihquie queh nimatiyaya quena ninelpanotoya tlen motleltoya ce 40%,"neutral
+"
+"Queh na, nimahtoc canquen nionacitoc",Nintlelihquie queh quena nihuelqui,"**entailment**
+
+here's the breakdown:
+
+* **premise:** ""indeed, i see many old people."" (queh na = indeed, nimahtoc = i see, canquen = many, nionacitoc = old people)
+* **hypothesis:** ""it is good that i respect them."" (nintlelihquie = it is good, queh = that, quena = them, nihuelqui = i respect)
+
+seeing *many* old people logically implies it is good to respect them. the premise establishes the existence of a group deserving of respect, and the hypothesis expresses a positive attitude toward respecting that group.  therefore, the premise *entails* the hypothesis.
+
+
+
+"
+"Quena, ¿cualli techcaqui?",¿Cualli techcaqui namantzi?,"entailment
+"
+"Quena, ¿cualli techcaqui?",¿Cualli techcaqui tlen nimitztlelia?,"entailment
+"
+"Quena, ¿cualli techcaqui?",Nimahtoc queh axhuetl techcaqui,"neutral
+"
+"Mmm, ¿yonce? Tiquihtohqui queh axtiquelnamiqui tipohtoya ce tlamantli, huan, quema ya tihueyihtoya ne tlamachtiloyan, ¿Axoncayaya once amoxtli tin mitzpahtiyaya huan ce amoxtli tlen axmitzpahtiyaya?",¿Mitzpahtia amoxtli tlen Harry Potter o axtle?,"neutral
+"
+"Mmm, ¿yonce? Tiquihtohqui queh axtiquelnamiqui tipohtoya ce tlamantli, huan, quema ya tihueyihtoya ne tlamachtiloyan, ¿Axoncayaya once amoxtli tin mitzpahtiyaya huan ce amoxtli tlen axmitzpahtiyaya?",¿Mitzpahtihqui o axmitzpahtihque ce ome amoxtli?,"entailment
+
+
+
+**explanation:**
+
+let's break down the nahuatl:
+
+* **premise:** ""so, are you there? it seems you already have a problem, and, it seems you already need help with your things. so, can you give me one book and one that you don't need?"" (roughly translated - nuance exists in nahuatl)
+* **hypothesis:** ""do you give or not give me one book?""
+
+the premise *explicitly* asks for a book to be given.  the hypothesis asks if a book *will* be given.  therefore, if the premise is true (the speaker is requesting a book), the hypothesis *must* also be true (at least, the possibility of giving a book exists, which the hypothesis covers with ""do you give or not give"").  this is a direct entailment.
+
+
+
+"
+"Mmm, ¿yonce? Tiquihtohqui queh axtiquelnamiqui tipohtoya ce tlamantli, huan, quema ya tihueyihtoya ne tlamachtiloyan, ¿Axoncayaya once amoxtli tin mitzpahtiyaya huan ce amoxtli tlen axmitzpahtiyaya?",Nimahtoc queh nelpano mitzpahtihqui tlen tinpohqui,"neutral
+
+
+
+**explanation:**
+
+let's break down the nahuatl to understand why. (note: direct translation is difficult without full context, but this is a reasonable interpretation.)
+
+* **premise:** roughly translates to: ""so, what's up? it seems like there's a type of animal that already has a name, and now you're also giving it names.  will you also give it several tools/things, and just one thing to use?""  it's a question about naming and potentially providing resources to something.
+* **hypothesis:** roughly translates to: ""it happens that i want to use what i have."" this is a statement of desire or intention regarding personal possessions.
+
+the premise asks *about* naming and providing *to something else*. the hypothesis is about *personal use*.  there's no logical connection that forces the hypothesis to be true *if* the premise is true, nor does the premise prevent the hypothesis from being true.  therefore, it's **neutral**.  the speaker could want to use what they have regardless of what they're doing with the animal."
+"Ya ce hélice pequeño tlen fraguó ce inyección, huan ne tubo depresión de respiración tlen piloto huan contrapresión",Ne tornillo axquipolehuia presión,"neutral
+"
+"Ya ce hélice pequeño tlen fraguó ce inyección, huan ne tubo depresión de respiración tlen piloto huan contrapresión",Tornillo pilciltzi huan plateado,"neutral
+"
+"Ya ce hélice pequeño tlen fraguó ce inyección, huan ne tubo depresión de respiración tlen piloto huan contrapresión","Axonca tornillos, san onca botones","neutral
+"
+"Ya cihuatl quiihtohua, amoximocuezo, timahtohca, amo ximoicihuilti",Ya nechihlihqui amo ma nimoicihuilti,"neutral
+"
+"Ya cihuatl quiihtohua, amoximocuezo, timahtohca, amo ximoicihuilti",Nechihliuhqui queh axtleno pano intla nihuehcahuazquia,"neutral
+"
+"Ya cihuatl quiihtohua, amoximocuezo, timahtohca, amo ximoicihuilti",Nechihliuhqui ma niya yolic,"neutral
+"
+"Precidente quennedy quinihliuhqui pilotos, quinihliuhqui: "" Macehualme, cualli inquichihua ixcopincayotl""",quennedy axquinixmatqui,"entailment
+"
+"Precidente quennedy quinihliuhqui pilotos, quinihliuhqui: "" Macehualme, cualli inquichihua ixcopincayotl""",quennedy quincamanalhuihqui pilotos de la Fuerza Aera,"neutral
+"
+"Precidente quennedy quinihliuhqui pilotos, quinihliuhqui: "" Macehualme, cualli inquichihua ixcopincayotl""",quennedy quincamanalhuihqui pilotos,"entailment
+"
+"Na nimomachiliayaya quema, zan quentzi nitlamiya",Nitlelihqui queh nitlamiz ica 10 minutos,"neutral
+"
+"Na nimomachiliayaya quema, zan quentzi nitlamiya",Nitlelihqui que axquema nitlamizquia,"**entailment**
+
+here's why:
+
+* **premise translation:** ""if it burns for me, then only then will i love it."" (essentially, burning *causes* love)
+* **hypothesis translation:** ""it is beautiful that i am loved by fire."" (expresses being loved *by* fire)
+
+the premise states a conditional relationship where burning leads to love. the hypothesis states love *from* fire exists. if the premise is true, and burning causes love, then it is logically consistent and even expected that one *could* be loved by fire. the hypothesis is a possible outcome *of* the relationship described in the premise. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Na nimomachiliayaya quema, zan quentzi nitlamiya",Nintlelihquie que zan quentzi nechpolohua tlen ica nitlamiz,"**entailment**
+
+here's why:
+
+* **premise:** ""because i was sick, therefore i didn't eat."" (na nimomachiliayaya quema, zan quentzi nitlamiya)
+* **hypothesis:** ""we want that therefore we don't offer anything with our food."" (nintlelihquie que zan quentzi nechpolohua tlen ica nitlamiz)
+
+the premise states a lack of eating *because* of sickness. the hypothesis speaks to a desire to *not offer* food, implying a restriction or avoidance of food. the premise strongly suggests a reason for avoiding or not interacting with food (sickness), which logically leads to a desire *not* to offer it.  the ""zan quentzi"" (therefore not) in both sentences creates a direct link.
+
+therefore, the premise entails the hypothesis. the premise provides a *reason* for the sentiment expressed in the hypothesis.
+
+
+
+"
+Nimonelchihuilihqui niquihquiloz nochi,Nimoneltequimacac tlen niquihquilohqui nochi tlamantli,"entailment
+"
+Nimonelchihuilihqui niquihquiloz nochi,Axnimocuezohqui tleno niquihquiloz,"entailment
+"
+Nimonelchihuilihqui niquihquiloz nochi,Niquihquilohqui nochi tequitl tlen quiihtohqui,"entailment
+"
+"Axtle, ya cihuatl acic ne 1930 pampa quipiyaya 16 xihuitl, eltozquia ne 1926, 19, timahtohca,axtihui tlen 1930",Acic 01 enero meztli tlen 1990 xihuitl,"neutral
+"
+"Axtle, ya cihuatl acic ne 1930 pampa quipiyaya 16 xihuitl, eltozquia ne 1926, 19, timahtohca,axtihui tlen 1930",Ya cihuatl acic tlen axtohui tlen ni ciglo,"entailment
+
+
+
+**explanation:**
+
+let's break down the nahuatl:
+
+* **premise:** ""axtle, ya cihuatl acic ne 1930 pampa quipiyaya 16 xihuitl, eltozquia ne 1926, 19, timahtohca, axtihui tlen 1930"" -  roughly translates to: ""now, this woman was born in 1930 and lived 16 years, died in 1926, 19, was remembered, was precious in 1930."" (there are inconsistencies in the dates - 1930 as birth and death year. this likely reflects complexities in recounting events or potential errors in the original text. however, the core idea is a woman's life is being discussed, with some associated dates.)
+
+* **hypothesis:** ""ya cihuatl acic tlen axtohui tlen ni ciglo"" - roughly translates to: ""this woman was born a precious thing in this century.""
+
+the premise states this woman *was* born. while the dates are a bit off, it unequivocally establishes the woman’s existence *within* the 20th century (a century).  the hypothesis simply states she was ""precious"" and born *in this century*.  because the premise establishes the birth *in* the century, it logically *entails* the hypothesis.
+
+
+
+"
+"Axtle, ya cihuatl acic ne 1930 pampa quipiyaya 16 xihuitl, eltozquia ne 1926, 19, timahtohca,axtihui tlen 1930",Ya acic neyoc 1943,"neutral
+"
+Huacca nelia cualli nompa ino.,Nelia quineyiya quimatiz quezqui hueliz quicuaz,"neutral
+"
+Huacca nelia cualli nompa ino.,Axtleno quineyiyaya quiixmatiz,"neutral
+"
+Huacca nelia cualli nompa ino.,Na nimoihlia cualli nelia,"entailment
+"
+"Ihuelti cuali panoc queh cihual chipahuac, quena panoc quema cihuatl chipahuac.",Ihuelti quipiyaya icuetlaxo nelpano yehyehtzi tlen nochi icalnechcahua.,"neutral
+"
+"Ihuelti cuali panoc queh cihual chipahuac, quena panoc quema cihuatl chipahuac.",Huelizquia ihuelti ya eltoya cihuatl chipahuac,"neutral
+"
+"Ihuelti cuali panoc queh cihual chipahuac, quena panoc quema cihuatl chipahuac.",Tehuetlti Sher eltoya nelpano lúgubre.,"neutral
+"
+"Cualtitoc, eltoya nelpano huehuentzi tlen elizquia tepayi",Quipiyaya 27 xihuitl nelpano quiyacana,"neutral
+"
+"Cualtitoc, eltoya nelpano huehuentzi tlen elizquia tepayi",Ya tlacatl eltoya nelpano ixpocatl queh ya cihuatl,"neutral
+"
+"Cualtitoc, eltoya nelpano huehuentzi tlen elizquia tepayi",Ya tlacatl quiyacanayaca ya cihuatl,"neutral
+"
+"Ino, nazantzi nipiyaya 922 tlen tlacatl de soporte vital, nompa tlacatl eltoya tepalehuihquetl tlen ficiologico.",Axaca temaca tleno palehuiliztli,"neutral
+"
+"Ino, nazantzi nipiyaya 922 tlen tlacatl de soporte vital, nompa tlacatl eltoya tepalehuihquetl tlen ficiologico.",Ce tlacatl temacac palehuiliztli ficiológico a las tropas.,"entailment
+"
+"Ino, nazantzi nipiyaya 922 tlen tlacatl de soporte vital, nompa tlacatl eltoya tepalehuihquetl tlen ficiologico.",Ce tlacatl temacac palehuiliztli ficiológico,"entailment
+"
+"Huan nican niiztoc nimoihlia queh huallaz ica ce plan, timahtohca, tlen nohuaya tiquixtizceh, timahtohca, nechajuayaya quemah nihueltozquia nipatlatozquia.",Nimahtoyaya axhualtozquia nica quema,"neutral
+"
+"Huan nican niiztoc nimoihlia queh huallaz ica ce plan, timahtohca, tlen nohuaya tiquixtizceh, timahtohca, nechajuayaya quemah nihueltozquia nipatlatozquia.",Nimoihliaya ya hualayaya hualtlacualanizquia,"neutral
+"
+"Huan nican niiztoc nimoihlia queh huallaz ica ce plan, timahtohca, tlen nohuaya tiquixtizceh, timahtohca, nechajuayaya quemah nihueltozquia nipatlatozquia.",Nimoihlihquia queh ya cualanizquia pampa ihquino nicamohuihqui.,"entailment
+"
+"Cualtitoc, nelia, axmonequi tiquihtoz queh axhuelqui tichihqui axmelahuac.",Cualtitoc intla timocuapoloa,"neutral
+"
+"Cualtitoc, nelia, axmonequi tiquihtoz queh axhuelqui tichihqui axmelahuac.",Axtechcahuilizceh ma yonquentzi timocuapoloca,"neutral
+"
+"Cualtitoc, nelia, axmonequi tiquihtoz queh axhuelqui tichihqui axmelahuac.",Axtechcahuilihque ma titemquihlica axtleno axcualli,"neutral
+"
+"Huan, oh, huan, nimoihlihtozquia, ama tlayohua axhuel nicochqui.",Axhuel nicoxqui ama tlayohua,"entailment
+"
+"Huan, oh, huan, nimoihlihtozquia, ama tlayohua axhuel nicochqui.",Naha nipiya mahmatemiquiztli tlen axnechcahuilihqui nicochiz,"neutral
+"
+"Huan, oh, huan, nimoihlihtozquia, ama tlayohua axhuel nicochqui.",Pan tlayohua nicochi quema ce pilconetzi,"neutral
+"
+Ce tlamantli queh ya cihuatl quipiyaya tlen quimanahuiya,Ya cihuatl cualli momanahuiyaya tlen ica chichimeh mociciniah,"neutral
+"
+Ce tlamantli queh ya cihuatl quipiyaya tlen quimanahuiya,Ya cihuatl cualli momanahuiz cualli,"entailment
+"
+Ce tlamantli queh ya cihuatl quipiyaya tlen quimanahuiya,Ya nelpano eltoya yolquentzi,"neutral
+"
+"Um, tlen axtleno quiihtohqui--",Ya quiiluihqui nochi tlen quinequiyaya quimatiz,"neutral
+"
+"Um, tlen axtleno quiihtohqui--",Axtleno nechtlelihqueh tlen queniuhqui tichihuaz tlen protocolo de ceguridad,"neutral
+"
+"Um, tlen axtleno quiihtohqui--",Quemantica axnechihlia,"neutral
+"
+Ihquini tohuantin nican tiiztoqueh,Tochan eltoya nican,"neutral
+"
+Ihquini tohuantin nican tiiztoqueh,Tochan eltoya nelpano huecca tlen nican.,"neutral
+"
+Ihquini tohuantin nican tiiztoqueh,Tochan eltoc nica tlen a 2 manzanas,"neutral
+"
+"Ya camati nelpano chicahuac, camatitoc ipan telefono",Camati nelpano yolic quema ya huelli,"neutral
+"
+"Ya camati nelpano chicahuac, camatitoc ipan telefono",Camatitoc ipan ce Iphone,"neutral
+"
+"Ya camati nelpano chicahuac, camatitoc ipan telefono",Camatitoc ipan ce movil,"entailment
+"
+"Axtleno niquelnamiqui tlen panoc, huan zan quentzi nihuihuiyocac pampa nimoihliayaya queh iyohyoc niyaz tlamachtiloyan huan hueliz ni tonalli nelpano nipixqui cuezolistli ne tonalli",Zan cualli niiztoya pampa nipehuazquia tlamachtiloyan,"neutral
+"
+"Axtleno niquelnamiqui tlen panoc, huan zan quentzi nihuihuiyocac pampa nimoihliayaya queh iyohyoc niyaz tlamachtiloyan huan hueliz ni tonalli nelpano nipixqui cuezolistli ne tonalli",Nimocuezohuayaya pampa niyazquia tlamachtiloyan,"entailment
+"
+"Axtleno niquelnamiqui tlen panoc, huan zan quentzi nihuihuiyocac pampa nimoihliayaya queh iyohyoc niyaz tlamachtiloyan huan hueliz ni tonalli nelpano nipixqui cuezolistli ne tonalli",Nimocuezohuayaya pampa mipehuazquia no jardin de infancia,"neutral
+"
+"Eh, niiztoya altepel ohteno tlen St. Louis, entre Jefferson Altepetl huan St. Louis, MO.",Niiztoya Texas.,"neutral
+"
+"Eh, niiztoya altepel ohteno tlen St. Louis, entre Jefferson Altepetl huan St. Louis, MO.",Niistoya ipan ce calli coztic ne Missouri.,"entailment
+"
+"Eh, niiztoya altepel ohteno tlen St. Louis, entre Jefferson Altepetl huan St. Louis, MO.",Niistoya Missouri,"entailment
+
+
+
+**explanation:**
+
+* **premise translation:** ""yes, i know that city is called st. louis, between jefferson city and st. louis, mo.""
+* **hypothesis translation:** ""i know missouri.""
+
+the premise *explicitly* states st. louis is in missouri (""st. louis, mo""). knowing the city of st. louis *necessarily* implies knowing that missouri exists as a place. therefore, the premise logically entails the hypothesis."
+"Ninehmachiliyaya ce ome macehualmen ne Del Rio, teipa monehqui niyaz Laughlin Air Force Bace, tlen huelloc contlapohqueh",Bace Aerea Laughlin tlatzahtoya ce tlaloxtli,"entailment
+"
+"Ninehmachiliyaya ce ome macehualmen ne Del Rio, teipa monehqui niyaz Laughlin Air Force Bace, tlen huelloc contlapohqueh",Bace Aerea Laughlin techantihtoqueh nochipa tlapohtoc.,"entailment
+"
+"Ninehmachiliyaya ce ome macehualmen ne Del Rio, teipa monehqui niyaz Laughlin Air Force Bace, tlen huelloc contlapohqueh",Bace Aerea Laughlin techantihtoqueh miac 10 000 soldados.,"neutral
+"
+Axnechcuezoya queniuqui tichihuaz,Axnechcuezoya tlaya nextiliztli titlapehpeniz,"neutral
+"
+Axnechcuezoya queniuqui tichihuaz,Monequi niyecoz ahachica,"**entailment**
+
+here's why:
+
+* **axnechcuezoya queniuqui tichihuaz:** ""i always finish my work."" (literally: ""always i finish my work"")
+* **monequi niyecoz ahachica:** ""i am capable of doing anything."" (literally: ""i am able all things"")
+
+if someone *always* finishes their work, it logically follows that they are capable of doing things – in this case, completing tasks.  the premise strongly implies the ability to achieve, and thus supports the hypothesis. it doesn't necessarily mean they can do *absolutely* anything, but it does suggest a general capability. therefore, the premise entails the hypothesis.
+
+
+
+"
+Axnechcuezoya queniuqui tichihuaz,Axnechcuezohua queniuhqui titlamiltiz,"neutral
+"
+"Huacca nechhuihcapa ittac, huan quimatqui canque iztoc Ramona huan quinotzqui nepa",Ninotzqui nocha Ramona,"entailment
+"
+"Huacca nechhuihcapa ittac, huan quimatqui canque iztoc Ramona huan quinotzqui nepa",Nonnohnotzqui Ramona pampa ninehqui nimatiz canque iztoya,"**entailment**
+
+here's the breakdown to explain why:
+
+* **premise:** ""because of her illness, ramona is weak and she doesn't want to eat."" (roughly translated)
+* **hypothesis:** ""we don't know if ramona wants to eat because she is weak."" (roughly translated)
+
+the premise *states* ramona doesn't want to eat *because* she is weak.  the hypothesis acknowledges uncertainty about *why* she doesn't want to eat, but links it to her weakness. because the premise provides a direct reason (weakness) for ramona's lack of appetite, the hypothesis is a logical consequence - it's a weaker statement reflecting a possible understanding based on the information in the premise. therefore, the premise entails the hypothesis.
+
+
+
+"
+"Huacca nechhuihcapa ittac, huan quimatqui canque iztoc Ramona huan quinotzqui nepa",Axninehqui nimatiz tleno tlen Ramona,"entailment
+"
+"Huacca quema Fuerza Aerea quicohqui SR71,ama A-12 campa titequitiyayah ipan CIA",Fuerza Aerea quicohqui 18 aviones,"neutral
+"
+"Huacca quema Fuerza Aerea quicohqui SR71,ama A-12 campa titequitiyayah ipan CIA",Fuerzas Aereas quicohqueh aviones,"entailment
+"
+"Huacca quema Fuerza Aerea quicohqui SR71,ama A-12 campa titequitiyayah ipan CIA",Fuerza Aerea axquipiyaya yonce plan,"neutral
+"
+¿Huacca ihuehue ihuelti nouhquia quipiyaya icuetlaxol chipahuac?,Ihuelti monamihtihtoc ihuaya ce tlacatl yayahuic,"neutral
+"
+¿Huacca ihuehue ihuelti nouhquia quipiyaya icuetlaxol chipahuac?,Ihuelti monamihtihtoc,"neutral
+"
+¿Huacca ihuehue ihuelti nouhquia quipiyaya icuetlaxol chipahuac?,Ihuelti axmonamihtihtoc,"neutral
+"
+"Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz.",Ya cihuatl axquipatlac quema inemiliz.,"entailment
+"
+"Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz.",Axquema quinehqui motleliz mocuapolohuayaya.,"entailment
+"
+"Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz.",Ya cihuatl axquema quiihtohqui queh icamanal cualli tlen pastel nacatl,"neutral
+"
+"Notlayi, nelcualtlacatl.",Notlayi quena niquihnelia,"entailment
+"
+"Notlayi, nelcualtlacatl.",Notlayi huihuitzi,"neutral
+"
+"Notlayi, nelcualtlacatl.",Notlayi hueyi iyoltzi,"neutral
+"
+"Niyacqui icha nohuelti campa iztoya. Ihuehue tequitiyaya huan tequitiyaya ica miac tlalnamiquiliztli, huan na niyacqui icha.",Notech tequitiyaya ipan Ejercito,"neutral
+"
+"Niyacqui icha nohuelti campa iztoya. Ihuehue tequitiyaya huan tequitiyaya ica miac tlalnamiquiliztli, huan na niyacqui icha.",Notech nouhquia tequitiyaya ipan ne cervicio,"neutral
+"
+"Niyacqui icha nohuelti campa iztoya. Ihuehue tequitiyaya huan tequitiyaya ica miac tlalnamiquiliztli, huan na niyacqui icha.",Noihni axquema moihcuilohqui.,"neutral
+"
+"Nimoihlizquia. Cualli, nicahuiliz, nicahuiliz ma yahui ceyoc, huan nelia cualli nimoihliz, ¡Toteco!",Nimoihlihqui quicahuilizquia ma yaz ceyoc tlen na niyazquia,"**entailment**
+
+here's why:
+
+* **premise translation:** ""i am happy. it is good, i live, i live because of the few years, and it is good that i am happy, my grandchild!"" (a roughly literal translation, nuance can be tricky with nahuatl)
+* **hypothesis translation:** ""a happy person lives because of whatever years they have lived.""
+
+the premise states the speaker *is* happy and lives *because* of the limited time. the hypothesis generalizes this: *anyone* who is happy lives because of the years they've lived.  if the premise is true (the speaker's happiness is linked to their limited lifespan), it logically *supports* and is consistent with the broader statement in the hypothesis.  therefore, the premise entails the hypothesis.
+
+essentially, the hypothesis is a generalization of the specific experience described in the premise.
+
+
+
+"
+"Nimoihlizquia. Cualli, nicahuiliz, nicahuiliz ma yahui ceyoc, huan nelia cualli nimoihliz, ¡Toteco!",Nimoihlihqui quicahuilizquia ma ceyoz iztoz tlen na ipan reunion,"neutral
+"
+"Nimoihlizquia. Cualli, nicahuiliz, nicahuiliz ma yahui ceyoc, huan nelia cualli nimoihliz, ¡Toteco!",Axquicahuilizquia yonce ma yazquia,"neutral
+"
+"Ce tlaloxtli quitahtacaniyaya escritorio, huan teipa cualli iztoya, xicui ipan no escritorio, da, da, da, da,",Nelpano moyolcuapac,"neutral
+"
+"Ce tlaloxtli quitahtacaniyaya escritorio, huan teipa cualli iztoya, xicui ipan no escritorio, da, da, da, da,",Moyolcualpa pampa axquimatli tlen quichihua,"neutral
+"
+"Ce tlaloxtli quitahtacaniyaya escritorio, huan teipa cualli iztoya, xicui ipan no escritorio, da, da, da, da,",Ya nelia nelpano motequipanoltia nochipa huan yolcualiztoc,"neutral
+"
+"Cualtitoc, nochipa, nipano cualli huan iztoya quema ¿queniuhqui intlachihtoqueh?",Tlahtlanqui queniuhqui tlachihtoqueh,"neutral
+"
+"Cualtitoc, nochipa, nipano cualli huan iztoya quema ¿queniuhqui intlachihtoqueh?",Tlahtlanqui intla tlamiya nompa documental,"neutral
+"
+"Cualtitoc, nochipa, nipano cualli huan iztoya quema ¿queniuhqui intlachihtoqueh?",Ya axtechcamohuihqui nelpano,"neutral
+"
+"Teipa quimalacachohtinemiyaya nomalach, axnimati, neciyaya nochiya ino tonalli.",Nimonelicihuiltihqui huan nitlanqui nimantzi,"neutral
+"
+"Teipa quimalacachohtinemiyaya nomalach, axnimati, neciyaya nochiya ino tonalli.",Nimocehuihqui nompone ica ce ome cahuitl,"neutral
+"
+"Teipa quimalacachohtinemiyaya nomalach, axnimati, neciyaya nochiya ino tonalli.",Nimalacachohtoya nomalacach ce hueyi tlaloxtli,"neutral
+"
+Ya mococohuayaya ica tuberculocis huan na axquema nimatqui,Axnimatiyaya queh ya zan achi miquizquia ica cocoliztli tubercolocis,"entailment
+"
+Ya mococohuayaya ica tuberculocis huan na axquema nimatqui,Axnipatiyaya queh ya mocochuayaya ica tuberculocis,"entailment
+"
+Ya mococohuayaya ica tuberculocis huan na axquema nimatqui,Nimahtoyaya queh ya mococohuayaya ica tuberculocis,"entailment
+"
+"Timati, axtihueli, axtihueli tinemiz intla axtipiya cetzi contraprecion, aumento de precion de respiración ipan huihcapa",Ne presión tlen mostrador mismihtiz nochipa,"neutral
+"
+"Timati, axtihueli, axtihueli tinemiz intla axtipiya cetzi contraprecion, aumento de precion de respiración ipan huihcapa",Monequi titequihuiz ce contrapresión superior a 5000 pies,"neutral
+"
+"Timati, axtihueli, axtihueli tinemiz intla axtipiya cetzi contraprecion, aumento de precion de respiración ipan huihcapa",Monequi ce contrapresión a esa altitud,"entailment
+"
+"Nipehqui nimantzi, eh, nimomachtiyaya inihuaya omeh telpocameh tlen iztoya nepa.","Axquema nicelihqui yonce tlamachtiliztli, huacca nimantiyahqui quema yolic panotiyaya","neutral
+"
+"Nipehqui nimantzi, eh, nimomachtiyaya inihuaya omeh telpocameh tlen iztoya nepa.",Omeh telpocameh nechmachtihque queniuhqui nitequitiz ipan ine tlanemaquiliztli,"**entailment**
+
+here's why:
+
+* **premise translation:** ""i follow your example, and i help people, those young people who need it.""
+* **hypothesis translation:** ""those young people are helped because they strive in this suffering/difficulty.""
+
+the premise states the speaker *helps* young people who *need* it. the hypothesis states young people *are helped* because of their *striving*. the premise inherently includes the action of helping young people, which is the core of the hypothesis. the striving part in the hypothesis adds a *reason* for the help, but doesn't negate the fact that help *is* occurring, as stated in the premise. therefore, the premise logically leads to (entails) the hypothesis.
+
+
+
+"
+"Nipehqui nimantzi, eh, nimomachtiyaya inihuaya omeh telpocameh tlen iztoya nepa.",Omeh notlayihua nechmachtihqueh,"entailment
+"
+"Intla nieltozquia ce ápice, monequi tinelcualchihchihuaz nompa regulador",Regulador axtlatequihuiliztli,"entailment
+"
+"Intla nieltozquia ce ápice, monequi tinelcualchihchihuaz nompa regulador",Regulador quipatlazquia precion ica nochi iyoyo.,"neutral
+"
+"Intla nieltozquia ce ápice, monequi tinelcualchihchihuaz nompa regulador",Monequiyaya mahuiltiz ica regulor,"neutral
+"
+"Oh, naja eltoya 9 tlen 2, 2 tlen quitlaltoya quitzapinihtoya ipan ne regulador.",Quitlaltoya inyector martes,"neutral
+"
+"Oh, naja eltoya 9 tlen 2, 2 tlen quitlaltoya quitzapinihtoya ipan ne regulador.",Na nieltoya 922,"entailment
+"
+"Oh, naja eltoya 9 tlen 2, 2 tlen quitlaltoya quitzapinihtoya ipan ne regulador.",Axquema nieltoya 922,"neutral
+"
+"Axtleno quimachilihqui nompa tlacentiliztli, yon axquimatiyaya intla mocuitoyaya, nelia, nelia…",Ya axquimatqui queh monelizquitoya ica nompa telpocatl mazqui azquema quiixmahtoya.,"neutral
+"
+"Axtleno quimachilihqui nompa tlacentiliztli, yon axquimatiyaya intla mocuitoyaya, nelia, nelia…",axquimachiliyaya tlen panotoya,"entailment
+"
+"Axtleno quimachilihqui nompa tlacentiliztli, yon axquimatiyaya intla mocuitoyaya, nelia, nelia…",Quimahtoyaya campa calahtoya,"neutral
+"
+Tohhuantin ticalahtozquia nompone,Ticalahtozquia tohhuantin nompone a 8 p. m .,"neutral
+"
+Tohhuantin ticalahtozquia nompone,Ticalahtozquiah,"entailment
+"
+Tohhuantin ticalahtozquia nompone,Axquema ticalahtozquia,"entailment
+"
+"Na eltoya axnimoihneliyaya, hueliz, timahtohca, tlen queniuhquie calaquiyaya, timahtohca, tlen ica nochi tlaixhuihua.",Ya nochih quinmacuitlahuiyaya quemah zance,"neutral
+"
+"Na eltoya axnimoihneliyaya, hueliz, timahtohca, tlen queniuhquie calaquiyaya, timahtohca, tlen ica nochi tlaixhuihua.",Quinmacuitlahuiyaya inixhuiyaya ax zance,"neutral
+"
+"Na eltoya axnimoihneliyaya, hueliz, timahtohca, tlen queniuhquie calaquiyaya, timahtohca, tlen ica nochi tlaixhuihua.",amo cualli quinmatiltiya cequinoc iixhuan ipanpa yayacuetlaxo tlacatqueh.,"neutral
+"
+"neliya cualli, iyoyon mopatlanqui quentzin ica ahacatl. ",tlaahacatoya yeca mohuitoloh iyoyon.,"entailment
+"
+"neliya cualli, iyoyon mopatlanqui quentzin ica ahacatl. ",iyoyon neliya cototzin yeca mopatlantoya pilquentzin.,"neutral
+"
+"neliya cualli, iyoyon mopatlanqui quentzin ica ahacatl. ",amo tlaahacatoya yeca iyoyon amo moolinih.,"contradiction
+"
+"oh, nipanoc miyac cahuitl ica ni,especialtequitl.",nihchihchihqui especialtequitl.,"entailment
+"
+"oh, nipanoc miyac cahuitl ica ni,especialtequitl.",nihchihqui especialtequitl.,"entailment
+"
+"oh, nipanoc miyac cahuitl ica ni,especialtequitl.",amo queman nihchihqui ecepecialtequitl.,"contradiction
+"
+"masqueh... itztoyan ipan ininteyoyal tlen itoca Evans noha eltoc, iteno Augusta. Nepa  noha itztoquen miyac nochanehuanin.","cenpohualli ininchanehuan, itztoyah Evans altepetl.","neutral
+"
+"masqueh... itztoyan ipan ininteyoyal tlen itoca Evans noha eltoc, iteno Augusta. Nepa  noha itztoquen miyac nochanehuanin.",itztoyah Atlanta altepetl. ,"neutral
+"
+"masqueh... itztoyan ipan ininteyoyal tlen itoca Evans noha eltoc, iteno Augusta. Nepa  noha itztoquen miyac nochanehuanin.","itztoquen Evans altepetl, neliya pilciltzin.","neutral
+"
+"nocihuaicni nechilhuih, ya quiilhuiya: quemantica tienci sanqueh tohueyinana, titepinahtiiya.  ","nocihuaicni nechilhuih na nitepinahtiya,","entailment
+"
+"nocihuaicni nechilhuih, ya quiilhuiya: quemantica tienci sanqueh tohueyinana, titepinahtiiya.  ",nocihuaicni nechilhuih amo nochipa nicualli,"neutral
+"
+"nocihuaicni nechilhuih, ya quiilhuiya: quemantica tienci sanqueh tohueyinana, titepinahtiiya.  ",nocihuaicni quiilhuih amo tleno nineci tohueyinana.,"contradiction
+"
+"hum, teipan timopatlaqueh yancuic chantil",timopatlaqueh cequin tochantzin tlen tihchihqueh nican totlal ,"**entailment**
+
+**explanation:**
+
+let's break down the nahuatl:
+
+* **premise: hum, teipan timopatlaqueh yancuic chantil** - ""indeed, those who govern/rule always give gifts."" (literally: ""indeed, those who govern/rule always give something valuable/good."")
+* **hypothesis: timopatlaqueh cequin tochantzin tlen tihchihqueh nican totlal** - ""those who govern/rule, sometimes give what they see here on earth."" (literally: ""those who govern/rule, sometimes give that which they observe here on earth."")
+
+the premise states rulers *always* give gifts. the hypothesis states rulers *sometimes* give gifts (specifically, things they see).  ""sometimes"" is consistent with ""always"" – if something happens always, it *also* happens sometimes. the hypothesis doesn't add any information that clashes with the premise, it's a specific instance *within* the scope of the premise.  therefore, the premise logically entails the hypothesis.
+
+
+
+"
+"hum, teipan timopatlaqueh yancuic chantil",timopatlaqueh ce yancuic hueyicalli,"entailment
+"
+"hum, teipan timopatlaqueh yancuic chantil",amo timopatlaqueh timocahqueh nican tleya tochantzin.,"contradiction
+"
+"na nimomatqui cualli, cualtitoc, cuallica, ta tihmati, nimomatqui quianpa.",niquilhuih nihcocolihtoya ihuan neliya amo nihcelihtoya. ,"neutral
+"
+"na nimomatqui cualli, cualtitoc, cuallica, ta tihmati, nimomatqui quianpa.",niquilhuih nechpactiyaya ceyoc cuicatl.,"neutral
+"
+"na nimomatqui cualli, cualtitoc, cuallica, ta tihmati, nimomatqui quianpa.",ya niquilhuih cualtitoc.,"entailment
+"
+tlapalli mopatla cada 100 gradas huelisquiya mochihuacen chichiltic o xocopaltic. ,tlapalli mopatla ica palli.,"neutral
+"
+tlapalli mopatla cada 100 gradas huelisquiya mochihuacen chichiltic o xocopaltic. ,"tlapalli mopatla ica nopa tihuelmatis tla totonic o cecec, ya amo tihyeyehcos. ","**contradiction**
+
+here's why:
+
+* **premise:** ""the paint is drying every 100 degrees, becoming red or yellow."" this describes a process of change *to* red or yellow.
+* **hypothesis:** ""the paint is mixed with many things, no longer becoming anything."" this states the paint is no longer *changing* into anything, effectively stopping the process described in the premise.
+
+the hypothesis directly opposes the ongoing changing process described in the premise. if the paint is no longer becoming anything, it cannot be becoming red or yellow every 100 degrees. therefore, it's a contradiction.
+
+
+
+"
+tlapalli mopatla cada 100 gradas huelisquiya mochihuacen chichiltic o xocopaltic. ,tlapalli nochipa tliltic.,"neutral
+"
+"nitlacuahqui tlahuel icihui, san niman calahqui ihuan nechpalehuih ica nopa. ",nipizzacuahqui achitzin pilcahuitzin.,"neutral
+"
+"nitlacuahqui tlahuel icihui, san niman calahqui ihuan nechpalehuih ica nopa. ","nitlacuahqui yohyolic, quiani amo nimococohuas","neutral
+"
+"nitlacuahqui tlahuel icihui, san niman calahqui ihuan nechpalehuih ica nopa. ",nihtoloh notlacual ,"entailment
+"
+ihuehue icihuaicni nohquiya itztacutlaxo tlacatqui.,itex tlacatqui ica istacuetlaxo.,"entailment
+"
+ihuehue icihuaicni nohquiya itztacutlaxo tlacatqui.,itex tlacatqui Suecia.,"neutral
+"
+ihuehue icihuaicni nohquiya itztacutlaxo tlacatqui.,icihuaicni amo monamihtoya,"contradiction
+"
+"santequitl, quichihuasnehqui ne regulador tlen O2.",quichihqueh yancuic regulador.,"entailment
+"
+"santequitl, quichihuasnehqui ne regulador tlen O2.",quichihqueh ce regulador motequihuiya nepa ilhuicac.,"entailment
+"
+"santequitl, quichihuasnehqui ne regulador tlen O2.",amo quimatoyan queh quichihuacen regulador ahacatl.,"entailment
+"
+"huahca, timopatlaqueh Las Vegas, NY, na nihmachiltih. quiani nohquiya nihchihqui ipan  washington ica ce direccion tlahcopan tlen Las Vegas.",amo queman niyahqui Las Vegas.,"contradiction
+"
+"huahca, timopatlaqueh Las Vegas, NY, na nihmachiltih. quiani nohquiya nihchihqui ipan  washington ica ce direccion tlahcopan tlen Las Vegas.",nitequititoc miyac nepa Las Vegas nohquiya washington.,"entailment
+"
+"huahca, timopatlaqueh Las Vegas, NY, na nihmachiltih. quiani nohquiya nihchihqui ipan  washington ica ce direccion tlahcopan tlen Las Vegas.",queman nitlaixmalinquetl nitequititoc oncac.,"neutral
+"
+"quena, tlen nahui xihuitl nechpactic neliya cualli.",nihcocolih nochi nohuanpoyohuan.,"neutral
+"
+"quena, tlen nahui xihuitl nechpactic neliya cualli.",nechpactic tlen nahui xihuitl panpa timociyahquetzaqueh ompan.,"neutral
+"
+"quena, tlen nahui xihuitl nechpactic neliya cualli.",nechpactiya tlen nahui xihuitl.,"entailment
+"
+amo nocuenta catza tihchihuas. ,amo nocuenta tla tihchihua ta o titetlaxtalhuis,"contradiction
+"
+amo nocuenta catza tihchihuas. ,amo nocuenta catza tihchihchihuas.,"contradiction
+"
+amo nocuenta catza tihchihuas. ,neliya monequi nihmatis catza tihchihuas ni,"neutral
+"
+ya mopatlaqueh Mallard Creec ipan Charlotte.,quichihqui ininchantzin nepa Mallard Creec,"neutral
+"
+ya mopatlaqueh Mallard Creec ipan Charlotte.,amo queman mopataqueh Charlotte altepetl.,"contradiction
+"
+ya mopatlaqueh Mallard Creec ipan Charlotte.,teipan itztoyan Mallard Creec.,"entailment
+"
+"itata ministro, huahca quipiya miyac tlalli ihuan ceyoc tlamantli iiean quiixmatqueh miyac  macehualmen nohquiya quiniiqueliihque. ",itatla tlacamanalhuihquetl luterano.,"neutral
+"
+"itata ministro, huahca quipiya miyac tlalli ihuan ceyoc tlamantli iiean quiixmatqueh miyac  macehualmen nohquiya quiniiqueliihque. ","queman itata amo cualli, amo queman yahqui teopan.","neutral
+"
+"itata ministro, huahca quipiya miyac tlalli ihuan ceyoc tlamantli iiean quiixmatqueh miyac  macehualmen nohquiya quiniiqueliihque. ",itata tlacamanalhhuihquetl. ,"entailment
+"
+na amo nihmati tlen quinequi mitzhuehchihqui.,ano nihmatoya tla quimatisnehqui cahuitl queman huelis quipaxalos,"neutral
+"
+na amo nihmati tlen quinequi mitzhuehchihqui.,"niquilhuih nochi tlen nihmatqui, panpa nihmatoya quinequisquiya.","neutral
+"
+na amo nihmati tlen quinequi mitzhuehchihqui.,amo temachtli tla huehcatlan.,"neutral
+"
+"mmm, nochi catli tlahcohuan, eltoc nochi iamah",amo tleno quipiyan toamah.,"entailment
+"
+"mmm, nochi catli tlahcohuan, eltoc nochi iamah",quiahocuin nochi ininamah.,"neutral
+"
+"mmm, nochi catli tlahcohuan, eltoc nochi iamah",quiahocuin nochi ininamah medicos ihuan legales.,"neutral
+"
+"ni moita amo ohui, tlen nechmacayaya niquitac tlahuel ohui ihuan amo nihmachilih, masqueh  ceyoc nechmacac quena nihmachilih",nechmaca ome itlahtol.,"neutral
+"
+"ni moita amo ohui, tlen nechmacayaya niquitac tlahuel ohui ihuan amo nihmachilih, masqueh  ceyoc nechmacac quena nihmachilih",nechmaca ome machiyotl ihuan niiquixpehpenqui lten cualli nihmachilih,"neutral
+"
+"ni moita amo ohui, tlen nechmacayaya niquitac tlahuel ohui ihuan amo nihmachilih, masqueh  ceyoc nechmacac quena nihmachilih",nechilhuih ome tlamantli ihuan polihui ce quesqui pamitl.,"neutral
+"
+"neliya amo itztoyan Augusta, itztoyan... cualli, thmatiya, huehcahquiya Augusta pilaltepetzin masqueh tlacamen istoquen hueyialtpetl, Augusta amo hueyic. ",Augusta quipiya 10000 tlacatl,"neutral
+"
+"neliya amo itztoyan Augusta, itztoyan... cualli, thmatiya, huehcahquiya Augusta pilaltepetzin masqueh tlacamen istoquen hueyialtpetl, Augusta amo hueyic. ",Augusta amo hueyiatepetl.,"entailment
+"
+"neliya amo itztoyan Augusta, itztoyan... cualli, thmatiya, huehcahquiya Augusta pilaltepetzin masqueh tlacamen istoquen hueyialtpetl, Augusta amo hueyic. ",niitztoc altepetilan tlen itoca Augusta.,"entailment
+
+
+
+**explanation:**
+
+let's break down the nahuatl:
+
+* **premise:** ""neliya amo itztoyan augusta, itztoyan... cualli, thmatiya, huehcahquiya augusta pilaltepetzin masqueh tlacamen istoquen hueyialtpetl, augusta amo hueyic."" translates roughly to ""it is not true that augusta is a city, it is... good, warm, big augusta, many people come from many cities to augusta, augusta is not large.""  this describes augusta as a *place* people travel *to* but explicitly denies it *is* a city itself. it’s described with qualities *around* a city, not *as* a city.
+* **hypothesis:** ""niitztoc altepetilan tlen itoca augusta."" translates to ""augusta is a city.""
+
+because the premise *directly states* augusta is *not* a city, the hypothesis that augusta *is* a city is logically entailed (and therefore contradicted by the premise).  the premise necessitates the falsity of the hypothesis. therefore, the relationship is an entailment (meaning the premise logically implies the hypothesis is false, and the hypothesis *cannot* be true if the premise is true).
+
+
+
+"
+"queman tlamiyaya 1962, nechtitlanqui washington DC.",nechilhuih niyas DC.,"entailment
+"
+"queman tlamiyaya 1962, nechtitlanqui washington DC.",tzoncoto nechtitlanqui DC san niman.,"entailment
+"
+"queman tlamiyaya 1962, nechtitlanqui washington DC.",nechilhuihqueh ma niya Africa tlalli.,"neutral
+"
+"queman DOT moaxcatih, timopatlaqueh tlalli piltisltzin ipan Concord. canque amo quicahuan  ma tihpiyacan tlapiyalmen panpa quixehxeloh ahachi, ipanpa amo cualli tihpiyacen  chihimen o mistomen o cequin tlapuyalli.",tochantzin Concord amo huelisquiya tlapiyalmen.,"entailment
+"
+"queman DOT moaxcatih, timopatlaqueh tlalli piltisltzin ipan Concord. canque amo quicahuan  ma tihpiyacan tlapiyalmen panpa quixehxeloh ahachi, ipanpa amo cualli tihpiyacen  chihimen o mistomen o cequin tlapuyalli.",tochan Concord quipiya miyac tlalli nohiya miyac tlapiyalli.,"**entailment**
+
+here's why:
+
+the premise states that because of the high taxes in concord, people are selling beautiful land. they are selling because they can't afford to keep it, and it’s not good for them to keep land when they are poor or don't have enough water. this *directly implies* that people in concord *need* to sell land to get money (miyac), and that the land is being sold *because* of financial hardship and lack of resources like water (nohiya miyac tlapiyalli).  the hypothesis states concord needs to sell land to get money and water, which is exactly what the premise describes happening. therefore, the premise entails the hypothesis.
+
+
+
+"
+"queman DOT moaxcatih, timopatlaqueh tlalli piltisltzin ipan Concord. canque amo quicahuan  ma tihpiyacan tlapiyalmen panpa quixehxeloh ahachi, ipanpa amo cualli tihpiyacen  chihimen o mistomen o cequin tlapuyalli.","queman timopatlaqueh Concord, tihnamacaqueh nochi totlapiyal.","entailment
+
+
+
+**explanation:**
+
+let's break down the nahuatl to understand why:
+
+* **premise:** ""because they are merchants, we sell land beautifully in concord. but if we don't know how to keep it well, if it's not good to sell to people or strangers or anyone who buys it, we won't sell it.""
+* **hypothesis:** ""because we sell in concord, we will eventually sell everything.""
+
+the premise states that *if* selling in concord is good (i.e., if they can keep it well and it sells well), *then* they will sell.  the hypothesis is essentially a positive outcome of selling in concord - they will eventually sell everything.  the premise *allows for* this outcome; it doesn’t forbid it.  it establishes a condition under which selling *will* happen. the condition is not necessarily met, but the hypothesis is a *possible* outcome described by the premise. therefore the premise logically *entails* the hypothesis.
+
+
+
+"
+"canpahuelis, timoxehxelocen, ihuan aman ipanpa quihuicac cadina, nepa Oquinahua,  ni queman 1968.",tihtitlanqueh totosncoto ipan 1968.,"neutral
+"
+"canpahuelis, timoxehxelocen, ihuan aman ipanpa quihuicac cadina, nepa Oquinahua,  ni queman 1968.",amo queman tihtlitlanqueh amo aquin.,"neutral
+"
+"canpahuelis, timoxehxelocen, ihuan aman ipanpa quihuicac cadina, nepa Oquinahua,  ni queman 1968.",tihtitlanqueh totosncoto nepa Japon tlalli ipan 1968.,"neutral
+"
+nechihuih neliya monequi ihuan quinequi aman.,quiilhuih huelisquiya tlacuepilis queman nihnequis.,"neutral
+"
+nechihuih neliya monequi ihuan quinequi aman.,nechilhuih queman ome cahuitl monequi nitlamis ne notequih,"neutral
+"
+nechihuih neliya monequi ihuan quinequi aman.,nechilhuih tlen ahuililli.,"neutral
+"
+yahqui ihuan nechilhuih amo nimotequipachos.,necilhuih  monequi cualli nimomachtis,"neutral
+"
+yahqui ihuan nechilhuih amo nimotequipachos.,quiilhuih ma amo nimotequipachohua.,"entailment
+"
+yahqui ihuan nechilhuih amo nimotequipachos.,quiilhuih aman timotequipahocen.,"neutral
+"
+"ni, ya tihmati, xiquita, mocuesol.",ta amo temachtli nica.,"neutral
+"
+"ni, ya tihmati, xiquita, mocuesol.",¡cualli tiitztos!,"neutral
+"
+"ni, ya tihmati, xiquita, mocuesol.",miscuepacen motlal,"neutral
+"
+nonana quiixpehphenqui huahca amo miltequitic ihuan cequion conetl amo nohquiya tmilequitiqueh  ,nonana quipehpenqui icccatl ihuan cintli.,"neutral
+"
+nonana quiixpehphenqui huahca amo miltequitic ihuan cequion conetl amo nohquiya tmilequitiqueh  ,inemilis nonana niliya cualli amo queman monequi tequitic.,"neutral
+"
+nonana quiixpehphenqui huahca amo miltequitic ihuan cequion conetl amo nohquiya tmilequitiqueh  ,nonana tequitito.,"neutral
+"
+"tihmati, teipan tihmati, tihmati teln tetlahtlanilih cequin ihuan cequinoc, ihuan quiani ayamo c imatiyayan canque itztoyan, ihuan aman quimatin, san mocentilihqueh ica condicin amo quiitacen joe.",amo tihuelqueh timociyahcahuacen iceli Joe quipixtoya tlahtlapohualoni.,"**contradiction**
+
+here's why:
+
+* **premise translation (roughly):** ""it is raining, the lord it is raining, it is raining everywhere in all directions, and because of it, many are suffering because of the cold, and now it is raining, and they are tired because of the condition of not being able to see joe.""  crucially, the premise states they *cannot* see joe *because* of the rain and resulting suffering.
+* **hypothesis translation (roughly):** ""they don't want to help joe because he's showing bad behavior.""
+
+the premise directly links the inability to help joe to the *weather* (rain and its consequences). the hypothesis links it to joe's *behavior*. these are mutually exclusive explanations presented as the reason they are not helping joe.  therefore, the premise actively contradicts the hypothesis.
+
+
+
+"
+"tihmati, teipan tihmati, tihmati teln tetlahtlanilih cequin ihuan cequinoc, ihuan quiani ayamo c imatiyayan canque itztoyan, ihuan aman quimatin, san mocentilihqueh ica condicin amo quiitacen joe.","masqueh tihyeyecohqueh, Joe amo techcahuan. ","neutral
+
+
+
+**explanation:**
+
+let's break down the nahuatl to understand why:
+
+* **premise:** ""it is raining, the snake is raining, the rain is falling everywhere with those and those, and because of the rain i am thinking about how it is getting dark, and it is raining, they are suffering because of the condition that joe is not understanding.""  this focuses on rain, darkness, and joe's *lack of understanding* of a condition related to the rain. it doesn't directly state anything about whether people *like* the rain.
+
+* **hypothesis:** ""many are getting wet, joe does not know."" this states people are getting wet (a consequence of rain) and joe doesn't know something.
+
+the premise tells us joe isn't *understanding* something related to the rain and its effects, and that there's suffering due to this.  the hypothesis says joe doesn’t *know* something.  these are related, but not logically connected enough for entailment.  the premise doesn't say people are getting wet, nor does it directly say joe doesn't know (only that he doesn't *understand*). it also doesn't say anything about liking the rain, so it doesn't contradict the idea that many are getting wet.
+
+therefore, the relationship is **neutral**. the hypothesis provides additional information not explicitly stated or denied in the premise.
+
+
+
+"
+"tihmati, teipan tihmati, tihmati teln tetlahtlanilih cequin ihuan cequinoc, ihuan quiani ayamo c imatiyayan canque itztoyan, ihuan aman quimatin, san mocentilihqueh ica condicin amo quiitacen joe.","ce tonalli, Joe yahqui ihuan amo aquin quimati canque yahqui.","neutral
+"
+nianmechilhuih ya nocihuaicni.,nitlatelhuih nocihuaicni.,"entailment
+"
+nianmechilhuih ya nocihuaicni.,niquilhuih noaxca.,"neutral
+"
+nianmechilhuih ya nocihuaicni.,nimechilhuih ichichi nocihuaicni.,"entailment
+"
+"inana quiilhuih, inana mohuilpachoh tlachilih huan quihtoh: ma tiya ihuaya.",quiiilhuih tlen inana nohquiya nehnemi ica ixocpil,"neutral
+"
+"inana quiilhuih, inana mohuilpachoh tlachilih huan quihtoh: ma tiya ihuaya.",quilhuih inana nohquiya quiani nehnemi.,"neutral
+"
+"inana quiilhuih, inana mohuilpachoh tlachilih huan quihtoh: ma tiya ihuaya.",quiilhuih inana mococohtoc amo huelnehnemis,"neutral
+"
+"tihmati, ya quitemitilihtoc ixihuiyo xochitl ihuan amo tleno nihmatoya quiihiyohuilis. ",amo nihmatoya tlahuel mococohtoya.,"neutral
+"
+"tihmati, ya quitemitilihtoc ixihuiyo xochitl ihuan amo tleno nihmatoya quiihiyohuilis. ",amo nihmatoya tlen quipantisquiya.,"entailment
+"
+"tihmati, ya quitemitilihtoc ixihuiyo xochitl ihuan amo tleno nihmatoya quiihiyohuilis. ",quimatoya tlen quipantisquiya queman quichihqui nopa.,"neutral
+"
+"niquelnamiqui ceyoc tlamatli tlen nohquiya panoc tlen nihmachilih cuallli, nopa ielnamiquilis nocihuaicni nopa nohquiya panoc ne calica.",amo tleno niquelnamiqui inon calli.,"contradiction
+"
+"niquelnamiqui ceyoc tlamatli tlen nohquiya panoc tlen nihmachilih cuallli, nopa ielnamiquilis nocihuaicni nopa nohquiya panoc ne calica.",niquelnamiqui nihpepenqui xochitl calica.,"neutral
+"
+"niquelnamiqui ceyoc tlamatli tlen nohquiya panoc tlen nihmachilih cuallli, nopa ielnamiquilis nocihuaicni nopa nohquiya panoc ne calica.",niquelnamihqui ce tlenihqui tlen panoc calica.,"entailment
+
+
+
+**explanation:**
+
+let's break down the nahuatl:
+
+* **premise:** ""i am good at making beautiful things that people admire, but not everyone is good at making things as well as i do."" (a more literal, but still understandable, translation is ""i am skilled at making good things that people see, but not everyone is skilled at making things like those i make."")
+* **hypothesis:** ""i am skilled at making something beautiful."" (or, ""i am skilled at making one beautiful thing."")
+
+the premise *explicitly states* the speaker *is* skilled at making beautiful things that are admired.  therefore, the hypothesis – that the speaker is skilled at making *a* beautiful thing – *must* be true if the premise is true. this is a clear case of entailment.  the premise contains more information, but it logically includes the information in the hypothesis."
+"nohci ipanpa ticuecihui, eltoc miya ipanpa ticuecihuin aman mmm tihmaca ce tlenihqui amo tihmati catza tihchihuas ihuan monequi tihchihuas.",amo nihmatoya catza nihcihuas ne tequitl nechmacac aman.,"contradiction
+"
+"nohci ipanpa ticuecihui, eltoc miya ipanpa ticuecihuin aman mmm tihmaca ce tlenihqui amo tihmati catza tihchihuas ihuan monequi tihchihuas.","nechilhuih nihpatlas fucibles ical canpa titequitin, masqueh amo tleno nihmati.","neutral
+"
+"nohci ipanpa ticuecihui, eltoc miya ipanpa ticuecihuin aman mmm tihmaca ce tlenihqui amo tihmati catza tihchihuas ihuan monequi tihchihuas.",nechtlahtlanqui nihchihuas notequih tlen cualli nihmati.,"neutral
+"
+"huahca aman, nicac eltoc, aman quinequi",quiilhuiya quicelis queman nihnequis,"**entailment**
+
+here's why:
+
+* **premise:** ""it rained yesterday, i was here yesterday, yesterday i was happy."" (roughly)
+* **hypothesis:** ""clearly, it is because of the rain that i am happy now."" (roughly)
+
+the premise establishes the rain happened *yesterday* and the speaker was happy *yesterday*. the hypothesis attributes the speaker’s current happiness *to* the rain. while it doesn't explicitly state the happiness continues *now*, the connection is strongly implied and a very reasonable inference given the premise. the premise strongly suggests a causal link exists, making the hypothesis a logical consequence. therefore, the premise entails the hypothesis.
+
+
+
+"
+"huahca aman, nicac eltoc, aman quinequi",quilhuiya quipactisquiya quicelis aman.,"neutral
+"
+"huahca aman, nicac eltoc, aman quinequi",quiilhuiya quipactisquiya quimaquiltis itequih nechcatzin 5 tlen tiotlac.,"neutral
+"
+"ihuan noha, cenpa timopatlaqueh.",timopatlan teipan.,"entailment
+"
+"ihuan noha, cenpa timopatlaqueh.",timopatlaqueh ceyoc altepetl ipan 1992.,"neutral
+"
+"ihuan noha, cenpa timopatlaqueh.",cenpa timopalaqueh queman panoc nopa.,"entailment
+"
+"amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih.","niquitatoc pilquentzin toahui faulk, amo cualli niquiixmati","neutral
+"
+"amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih.",na ihuanpox toahui faulk.,"contradiction
+"
+"amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih.",toahui faulk tihtequihuih costic Honda mohmostla quema tequitiyaya,"neutral
+
+
+
+**explanation:**
+
+the premise states the speaker doesn't like the ford falcon, has had it for 80 years, and has already bought a nissan sentra because they are tired of it.  the hypothesis states that ford falcons are expensive to maintain, even when you try to fix them yourself. 
+
+while the premise expresses *dislike* for the falcon, it doesn't provide any information *about the cost of maintenance*. the speaker could dislike it *because* it's expensive, or for other reasons entirely (reliability, comfort, etc.).  therefore, the premise doesn't logically lead to the hypothesis being true (no entailment), nor does it say anything that would make the hypothesis false (no contradiction). it's simply unrelated."
+"tiitztoyan ipan 85 tlen Mallard Creec, canpa aman nopa 485 ipanpa timopatlaqueh. ",titztoyan nepa canpa xoxoricalli.,"entailment
+"
+"tiitztoyan ipan 85 tlen Mallard Creec, canpa aman nopa 485 ipanpa timopatlaqueh. ",titztoyan nepa miyac xihuitl.,"neutral
+"
+"tiitztoyan ipan 85 tlen Mallard Creec, canpa aman nopa 485 ipanpa timopatlaqueh. ",san tichantiqueh nepa caxtolltonalya.,"neutral
+"
+"nohuanpox, nesqui ometlacatl.",cualanqui.,"neutral
+"
+"nohuanpox, nesqui ometlacatl.",noteco cualanqui o cuapoloh.,"neutral
+"
+"nohuanpox, nesqui ometlacatl.",noteco cualtlacatl,"contradiction
+"
+neliya huehue neci nopaye,quipiya 27 xihuitl achiyoc na.,"neutral
+"
+neliya huehue neci nopaye,achiyoc cuecuetzin tlen na,"neutral
+"
+neliya huehue neci nopaye,tlacatqui achtihui tlen na.,"neutral
+"
+"nochi quisalohtoc, toteco amo nihmati quesqui cahuitl.",amo nihmati quesqui quipiya.,"entailment
+"
+"nochi quisalohtoc, toteco amo nihmati quesqui cahuitl.",axnihmati quesqui quipiya tenpohualistli.,"neutral
+"
+"nochi quisalohtoc, toteco amo nihmati quesqui cahuitl.",nihmati quipiya 12.19 metros,"neutral
+"
+amo niyolpaquic titztoya nepa panpa nicuecihqui. ,nitztoya tlahuel tlatepac.,"neutral
+"
+amo niyolpaquic titztoya nepa panpa nicuecihqui. ,"nimahmahuih amo nipactoc, panpa acico ce tonaliya ","neutral
+"
+amo niyolpaquic titztoya nepa panpa nicuecihqui. ,nimahmahuihtoc ica niyolpaquis panpa ya itztoya nepa.,"entailment
+"
+miyac cuesolli ipanpa cihuamen cochpahtiyanin.,tenanamen cochpahtiyanin,"entailment
+"
+miyac cuesolli ipanpa cihuamen cochpahtiyanin.,tenanamen amo quitolohuan pahtli,"**contradiction**
+
+here's why:
+
+* **premise:** ""i drink water when women cook."" (roughly translated) - this implies a *positive* correlation between women cooking and the speaker drinking water.
+* **hypothesis:** ""we don't find fire there."" - this statement about the *absence* of fire doesn't logically follow from or oppose the premise. however, given nahuatl cultural context where cooking typically *requires* fire, the hypothesis effectively negates the implied condition necessary for the premise to be true. if there's no fire, women can't cook, and therefore the speaker wouldn't be drinking water *because* women are cooking.
+
+therefore, the hypothesis contradicts the implied scenario within the premise.
+"
+miyac cuesolli ipanpa cihuamen cochpahtiyanin.,ininnanahuan mocochpahtiyan,"entailment
+"
+quena chano tlatepac ihuan tlaquiyahtoc,amo nocuenta quiyahuitl.,"entailment
+"
+quena chano tlatepac ihuan tlaquiyahtoc,yehyectzin ihuan tlaquiyahtoc. ,"neutral
+"
+quena chano tlatepac ihuan tlaquiyahtoc,neliya fierotic tlahuel tona. ,"neutral
+"
+"oh, tlen ipate inemilis ihuan huelis quicualtilis inemilis.",nochi tlacatl  monequi quincualtilicen ihuan quipiyan ceyoc oportunidad,"neutral
+"
+"oh, tlen ipate inemilis ihuan huelis quicualtilis inemilis.",amo aqui neliya monequi quicaltilonis,"neutral
+"
+"oh, tlen ipate inemilis ihuan huelis quicualtilis inemilis.",neliya ipatih nopa tonemilis,"neutral
+"
+"telpocatl, nican timocuapolohuan ica ni teposmetatl.",amo queman niquitac ni cualantli ica teposmetatl.,"contradiction
+"
+"telpocatl, nican timocuapolohuan ica ni teposmetatl.",teposmecatl amo cualantli.,"entailment
+"
+"telpocatl, nican timocuapolohuan ica ni teposmetatl.",onca cualantli ipanpa nea teposmecatl.,"entailment
+"
+"mocaqui cualli, quena nimahmahui quesqui tlamantli techcahuan tihcihuacen.",nimahmahui mitzcahqui tipanos ica tlacualli ihuan tlailli.,"neutral
+"
+"mocaqui cualli, quena nimahmahui quesqui tlamantli techcahuan tihcihuacen.",nimahmahui quen quichihqueh.,"entailment
+"
+"quena, nopa niquihtosnequi tlen, queman titlamis timonemilis ica nochi tequitl tle monequi, ama quena tiyas ce Clum Med tihpaxalos ihuan amo tleno motomin tihcahuilos ",ipati $2000 nitlacohuas nochi tlen monequi.,"neutral
+"
+"quena, nopa niquihtosnequi tlen, queman titlamis timonemilis ica nochi tequitl tle monequi, ama quena tiyas ce Clum Med tihpaxalos ihuan amo tleno motomin tihcahuilos ",tlahueil ipati moyoyontis.,"neutral
+"
+"quena, nopa niquihtosnequi tlen, queman titlamis timonemilis ica nochi tequitl tle monequi, ama quena tiyas ce Clum Med tihpaxalos ihuan amo tleno motomin tihcahuilos ",amo ipati timoyoyonticen.,"neutral
+"
+"notelpocahuan quipiyan cenpohualce ihuan cenpohualnahui, yeca amo nimotequipachohua. ",amo monequi panpa notelpocahuan quipiyan ceyoc tlen cenpohualli xihuitl.,"neutral
+"
+"notelpocahuan quipiyan cenpohualce ihuan cenpohualnahui, yeca amo nimotequipachohua. ","monequis nihchihuas, panpa ya huehuentiyan.","neutral
+"
+"notelpocahuan quipiyan cenpohualce ihuan cenpohualnahui, yeca amo nimotequipachohua. ","monequi nihchihuas, panpa quipiyan mahtlactli ihuan mahtlacce nooquichpilhuan.","neutral
+"
+ma cualli ni Fresno.,nitlacatqui Fresno altepetl.,"entailment
+"
+ma cualli ni Fresno.,neliya amo nihmati canque niitztoc.,"neutral
+"
+ma cualli ni Fresno.,mitzilhuiya ni Fresno.,"neutral
+"
+ ,itztoquen miyac macehualmen tle amo huelin quipehpenacen ce tlenihqui,"please provide the premise! i need the premise in nahuatl to determine its relationship to the hypothesis. 
+
+the hypothesis is: ""it is fitting for me to help the commoners so that no one accuses me of being a good-for-nothing.""
+
+i need the premise to assess entailment, contradiction, or neutrality."
+ ,"quena, tlacamen tlen huelis amo mayanquisquiya.","please provide the premise! i need the premise to determine the relationship to the hypothesis: ""quena, tlacamen tlen huelis amo mayanquisquiya."" 
+
+without the premise, i cannot assess entailment, contradiction, or neutrality.
+"
+ ,"quena,catli huelin quiixpehpenacen amo quipiyan cuesolli","please provide the premise! i need the premise in nahuatl to determine the relationship to the hypothesis:
+
+**hypothesis:** quena,catli huelin quiixpehpenacen amo quipiyan cuesolli
+
+without the premise, i cannot answer. i need both statements to assess entailment, contradiction, or neutrality.
+
+
+
+"
+"amo, quipaxalohuan, quipaxalohtoquen queman tlamiyaya 1960 xihuitl ",nitequititoc/nipaxalotoc canpa 1970.,"neutral
+"
+"amo, quipaxalohuan, quipaxalohtoquen queman tlamiyaya 1960 xihuitl ",quipactiya quipaxalos,"neutral
+"
+"amo, quipaxalohuan, quipaxalohtoquen queman tlamiyaya 1960 xihuitl ",quitlanqueh ininpaxalolis,"neutral
+"
+catza tihchihuas aerobicos.,¿huelis technextilis catza tihchihuas aerobic?,"entailment
+"
+catza tihchihuas aerobicos.,nechpactitosquiya nihchihuas aerobic panpan moniqui nimotlacayochicahuas,"neutral
+"
+catza tihchihuas aerobicos.,ayoc xihuehchihua tlen mochicahuatlacayo ,"neutral
+"
+"cualli, nihmachiliya cualli, amo nihehnehuilihtoya.",neliya coneticayotl ya huehca amo nihnehnehuiliya,"neutral
+"
+"cualli, nihmachiliya cualli, amo nihehnehuilihtoya.",nohquiya nihmachiliya quianpa.,"neutral
+"
+"cualli, nihmachiliya cualli, amo nihehnehuilihtoya.",paradoja tlen tiquilhuih neliya quiani.,"neutral
+"
+"tecuitlahuiloyan tlen ome tonalli masque quitocaxtiyan huehuecuitlahuiloyan, yahui huehuecalli ",canpa conecuitlahuiloya quitlapohtoc mohmostla ica nochi conetl tlen quipiya ahitzin  5 xihuitl,"neutral
+"
+"tecuitlahuiloyan tlen ome tonalli masque quitocaxtiyan huehuecuitlahuiloyan, yahui huehuecalli ",quincahuan ompan tlen semana tla huehuetzitzin nanatziticin itztoquen cualli. ,"neutral
+"
+"tecuitlahuiloyan tlen ome tonalli masque quitocaxtiyan huehuecuitlahuiloyan, yahui huehuecalli ",quitocaxtiya huehuecuitlahuiloyan masqueh itoca huehuecalli. ,"entailment
+"
+nopa itemic lten quiacisnehqui.,ipanpa cicahuac tequitic,"neutral
+"
+nopa itemic lten quiacisnehqui.,nopa amo queman quian quinequiyayan.,"contradiction
+"
+nopa itemic lten quiacisnehqui.,quiacic itemic,"entailment
+"
+para cualli tihtequihuicen tepostlatopontli ma tihtequihuican lhualli tomax,queman amo cualli toponin nopa panpa quitequihuiyan san ce momax ,"**neutral**
+
+here's why:
+
+* **premise translation:** ""if you want goodness, offer tortillas, then you will have abundance."" (essentially, offering tortillas leads to abundance/good things).
+* **hypothesis translation:** ""truly, it isn't good to have nothing, so you shouldn't offer anything at all."" (essentially, having nothing is bad, therefore don't offer anything).
+
+the premise discusses a *way* to achieve goodness (through offering). the hypothesis states a preference *against* offering due to a fear of having nothing.
+
+the premise doesn't *require* the hypothesis to be true (entailment). it also doesn't *forbid* the hypothesis from being true, nor does it directly oppose it (contradiction). one can believe in the premise *and* still believe the hypothesis.  they are independent statements about value and action. therefore, the relationship is neutral.
+
+
+
+"
+para cualli tihtequihuicen tepostlatopontli ma tihtequihuican lhualli tomax,tla tihnequi cualli toponis cualli ximoquetza.,"neutral
+"
+para cualli tihtequihuicen tepostlatopontli ma tihtequihuican lhualli tomax,xihtequihui momax quiani cualli tiquitzqui ne tepostlatopontli.,"entailment
+"
+huala canpahueli masqueh huallas,"amo nihmati canque huala, masqueh icihui huala","neutral
+"
+huala canpahueli masqueh huallas,"icihui huala, quena nihmati canpa hualla.","neutral
+"
+huala canpahueli masqueh huallas,neliya mohuehcahua huala queman quinequi,"neutral
+"
+"amo, nimhachiliya amo niquixmati.",amo nihmati miyac.,"neutral
+"
+"amo, nimhachiliya amo niquixmati.",amo tleno nihmatli tlen tlasohtlalistli.,"neutral
+"
+"amo, nimhachiliya amo niquixmati.",nimomachtihtoc miyac xihuitl.,"neutral
+"
+"cuna, tihmati ya cualli.",nihmachiliya quimati nopa cualli.,"neutral
+"
+"cuna, tihmati ya cualli.","amo, ya amo yehyectzin.","neutral
+"
+"cuna, tihmati ya cualli.","quena, ya neliya cualli.","neutral
+"
+"quena,quiilhuih panpa amo tihcohuacen tlapahpacloni quiani quen ta.",huiilhuih panpa amo tihcohuacen tepsotlasolchichintli.,"neutral
+"
+"quena,quiilhuih panpa amo tihcohuacen tlapahpacloni quiani quen ta.",quiilhuih panpa amo tihcohuacen tlapahpacloni.,"entailment
+"
+"quena,quiilhuih panpa amo tihcohuacen tlapahpacloni quiani quen ta.",quipohpohuasnequiyaya teeso ica atlachpohuastli,"neutral
+"
+"nican amo cualli, amo huehca oncaya balacera nea hueyiohtli nechca nochantzin. ",oncaya tiroteo quen 100 millas canqui ninemi.,"neutral
+"
+"nican amo cualli, amo huehca oncaya balacera nea hueyiohtli nechca nochantzin. ",oncaya tiroteo nechca nochan ihuan aman nimahmahui niquisas.,"neutral
+"
+"nican amo cualli, amo huehca oncaya balacera nea hueyiohtli nechca nochantzin. ",oncahya tiroteo nechca nochan ihuan amo cualli tlen eltoya nican,"contradiction
+"
+nopa amo cualli o melahuac,amo nihmachiliya quen ta panpq nopa ahachica.,"neutral
+"
+nopa amo cualli o melahuac,nihmachiliya tlen quihtohua cualli.,"entailment
+"
+nopa amo cualli o melahuac,ta cualli tihmachiliya tlen amo quiani mochihuas,"neutral
+"
+nimoyoltetilihtoc nepa.,tlahuel niquitzquiya amo nihmahcahuasnequi,"neutral
+"
+nimoyoltetilihtoc nepa.,neliya nihchihua nelcuallli nihueli,"neutral
+"
+nimoyoltetilihtoc nepa.,"nihcahuas, amo nixcuepas.","neutral
+"
+"quena, ¿tlen mochichiton?.",¿mochichiton cualli?.,"entailment
+"
+"quena, ¿tlen mochichiton?.",¿tlen miston tihmanahuih?.,"neutral
+"
+"quena, ¿tlen mochichiton?.",¿tlen chichiiton tihpiya?.,"neutral
+"
+"cualli, tiquilhuih tihpiya moconenhuan,¿quesqui xihuitl quipiyan?.",¿quesqui moconehuan?,"entailment
+"
+"cualli, tiquilhuih tihpiya moconenhuan,¿quesqui xihuitl quipiyan?.",nihmachiliya amo hueli  timoconetis,"neutral
+"
+"cualli, tiquilhuih tihpiya moconenhuan,¿quesqui xihuitl quipiyan?.",tiquihtoh tihpiya conetl ¿quesqui xihuitl anquipiyan moconehuan?,"entailment
+"
+"atlac amo tlahuec quimatin masque tlahuel cualli techceliheh, neliya quinnehqueh quinpalehuicen catli  quinequin momachticen ",huelis amo miyac quimatqueh masqueh tlahuel cualli ihuan quinpactiyan tlen momachticen. ,"**entailment**
+
+here's why:
+
+* **premise translation:** ""people don't want to eat much good food anymore, that's why they are offering only a little of what they used to offer.""
+* **hypothesis translation:** ""truly, they don't want to eat much good food and they are reducing what they offer.""
+
+the hypothesis *directly* reflects the core meaning of the premise.  the premise states a *reason* for a reduction in offerings (people don't want good food), and the hypothesis states the *fact* of that reduction *and* the lack of desire for good food.  if the premise is true, the hypothesis *must* also be true. therefore, it's an entailment.
+
+
+
+"
+"atlac amo tlahuec quimatin masque tlahuel cualli techceliheh, neliya quinnehqueh quinpalehuicen catli  quinequin momachticen ",neliya quimatoyan masqueh mohuehuechihqueh queman monechcahqueh cequin tlen amo cualli quinixmatqueh.,"here's a breakdown of the nahuatl and the logical relationship, followed by the answer:
+
+**translation (approximate - nuances exist):**
+
+* **premise:** ""people don't finish eating many good things, instead they say they will share with us the food that they already ate."" (essentially, people don't enjoy their food fully and instead *pretend* to share leftovers.)
+* **hypothesis:** ""they don't finish eating many old things more than they finish eating those that are not good to eat."" (essentially, people leave old food more than they leave bad food.)
+
+**logical analysis:**
+
+the premise is about people's *behavior regarding sharing* and implies a lack of full enjoyment of food. the hypothesis is about *what kind of food* people leave uneaten – prioritizing leaving older items over obviously bad ones. 
+
+the premise *doesn't* provide any information about which kinds of food are left, only that they don't finish eating *good* food.  it's perfectly possible, given the premise, that they'd leave old food more readily than bad food. it’s also possible the opposite is true.  there’s no logical connection forcing one to be true if the other is.
+
+therefore:
+
+**neutral**
+
+
+
+"
+"atlac amo tlahuec quimatin masque tlahuel cualli techceliheh, neliya quinnehqueh quinpalehuicen catli  quinequin momachticen ",neliya quimatoyan masqueh amo quinpactiya cequinoc tlahuel momacticen,"**entailment**
+
+here's why:
+
+* **premise (roughly translated):** ""people don't want to eat many good foods, instead they prefer to be given one or a few things that they are accustomed to.""
+* **hypothesis (roughly translated):** ""they don't want to eat many things; they don't accept anything new that they aren't used to.""
+
+the hypothesis is a more specific restatement of the general preference expressed in the premise. the premise states a preference *against* many good foods, and *for* familiar things. the hypothesis elaborates on this by saying that preference translates to a rejection of *any* new foods.  if the premise is true, the hypothesis *must* also be true – it’s a logical consequence. therefore, it's an entailment.
+
+
+
+"
+"tiyahqueh nepa, masqueh queman titlacuepilihqueh titlahuihqueh tocal quiasqueh epatl. ","epatl quichihtoc titlacuepilicen ""campamento"".","entailment
+"
+"tiyahqueh nepa, masqueh queman titlacuepilihqueh titlahuihqueh tocal quiasqueh epatl. ",tiquiasqueh ce cabra canpa tocal queman tihcehuihcu tlahuilli,"neutral
+"
+"tiyahqueh nepa, masqueh queman titlacuepilihqueh titlahuihqueh tocal quiasqueh epatl. ","queman timocuepqueh ilhuitl, ticaciqueh epatl.","neutral
+"
+"tihmati, nochi nooquichpilhuan neliya cualli ihua amo nihmachiliya,masqueh amo quimachiliyan tlen ceyoc oquichilmen ahiyoc hueyic.","momachtihtoc tlen cequion oquichpilmen achiyoc hueyiqueh, masqueh nochi noconehuan eclipsa","neutral
+"
+"tihmati, nochi nooquichpilhuan neliya cualli ihua amo nihmachiliya,masqueh amo quimachiliyan tlen ceyoc oquichilmen ahiyoc hueyic.",neliya nimohueyimati noconehuan panpa tlahuel quimatin.,"neutral
+"
+"tihmati, nochi nooquichpilhuan neliya cualli ihua amo nihmachiliya,masqueh amo quimachiliyan tlen ceyoc oquichilmen ahiyoc hueyic.",notelpocahuan neliya huihuiqueh.,"neutral
+"
+"nopa quichihuas macehualmen tlahuel quicentilicen inintlasol mmm...., mmmm ihuan quiani mochihua achitzin eltoc atlac quiani cuesolli quicualtilis. ",tla tihchihuan quetzin tlasolli amo oncas achiyoc cuesolli san nopa tlen quesqui quipiya tlasoli  ,"neutral
+"
+"nopa quichihuas macehualmen tlahuel quicentilicen inintlasol mmm...., mmmm ihuan quiani mochihua achitzin eltoc atlac quiani cuesolli quicualtilis. ",macehualen amo monequi motequipachocen ica quesqui tlasolli mochihua tla nia cualli momahcahua ,"neutral
+"
+"nopa quichihuas macehualmen tlahuel quicentilicen inintlasol mmm...., mmmm ihuan quiani mochihua achitzin eltoc atlac quiani cuesolli quicualtilis. ",macehualmen monequi moilhuicen ipna quesqui quipiya ihuan quesqui nopa tlen tlasolli tlen quichihuan ,"neutral
+"
+"tla amo cualli, panpna timocuapoloh.","amo ximotequipacho, tla timocuapoloh nitetlatelhuilis.","neutral
+"
+"tla amo cualli, panpna timocuapoloh.","tla amo cualli, mopanpa.","entailment
+"
+"tla amo cualli, panpna timocuapoloh.",tla mocuapoloh monequi quicelis.,"neutral
+"
+tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin. ,neliya yehyectzin tlahtzoma.,"entailment
+"
+tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin. ,tlahuel mohuehcahqueh queman tlahtzonqueh,"neutral
+"
+"quena ipan notequih quimaca caxtoltonalli queman quipehuacen, teipan xihxihuitla quimaca ce tonalli hasta queman tihpiya nahui semana",mocahuih mohueyia xihxihuitl.,"entailment
+"
+"quena ipan notequih quimaca caxtoltonalli queman quipehuacen, teipan xihxihuitla quimaca ce tonalli hasta queman tihpiya nahui semana",mocahuih amo queman pano eyitonalli.,"neutral
+"
+"quena ipan notequih quimaca caxtoltonalli queman quipehuacen, teipan xihxihuitla quimaca ce tonalli hasta queman tihpiya nahui semana",achiyoc timociyahquetzas tla titetiqui hueyi altepetl,"neutral
+"
+"nopa cualli tlen tiitztoc totlal, amo tleno timotequipachohua",tiitztoc nican totlal quichihua tlen ahachica timahmahuis.,"neutral
+"
+"nopa cualli tlen tiitztoc totlal, amo tleno timotequipachohua",tlen cualli ni totlal nopa amo tleno  timotequipachos.,"entailment
+"
+"nopa cualli tlen tiitztoc totlal, amo tleno timotequipachohua",neliya cualli nican campo amo timotequipachohua quen tla tiitztos nepa hueyi atltepetl  ,"neutral
+"
+"oh toteco, nopa caquisti quen cualli tlapaxalolislti",nimoita tlahuel niyaptoc o tlahuel nihuecihui,"neutral
+"
+"oh toteco, nopa caquisti quen cualli tlapaxalolislti",cualli caqui quen ce cualli tlapaxalolistli,"entailment
+"
+"oh toteco, nopa caquisti quen cualli tlapaxalolislti",amo cualli moita .,"contradiction
+"
+aman nocihuaicni itztoc Alemania.,aman noicni chanti Alemania.,"entailment
+"
+aman nocihuaicni itztoc Alemania.,nocihuaicni aman itztoc Cuba.,"neutral
+"
+aman nocihuaicni itztoc Alemania.,nocihuaicni tlahohua aleman.,"entailment
+"
+"nihpiya nopilcihuacone ihuan amo nihuelhuicas nepa ipanpa ohui, masque nihnehnehuilis.",¿atlac nihuelhuicas nocone nepa?.,"neutral
+"
+"nihpiya nopilcihuacone ihuan amo nihuelhuicas nepa ipanpa ohui, masque nihnehnehuilis.",ohui tlen na nihhuicas nepa nocone.,"entailment
+"
+"nihpiya nopilcihuacone ihuan amo nihuelhuicas nepa ipanpa ohui, masque nihnehnehuilis.",aman tlen noichpoca quimati quitequihuiya teposcalmimilolli huelis acis iceli nican,"neutral
+"
+hualli xopatlan xipano.,nihchiya amo cualli xopatlan xipano.,"contradiction
+"
+hualli xopatlan xipano.,xopatlan aciqui niman.,"neutral
+"

@@ -1,0 +1,603 @@
+premise,hypothesis,gpt_reply
+"Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.",Nañe'êvéi hendive.,contradiction
+"Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.",Che chepychyeterei rupi añepyrûjey añe'ê hendive,entailment
+"Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.",Iporâ ore ñemongeta.,neutral
+"Che aimo'âukuri upéva peteî privilegioha. Aimo'â gueteri, ha'e gueteri. Che añoite upe 922 ExO aiméva upe oñeñanihápe AFFC Fuerza Armada Mba'épe.",Ndaikuaáikuri nacheañoiha upe árape.,contradiction
+"Che aimo'âukuri upéva peteî privilegioha. Aimo'â gueteri, ha'e gueteri. Che añoite upe 922 ExO aiméva upe oñeñanihápe AFFC Fuerza Armada Mba'épe.",Aimo'âkuri cheañoha upe papapy reheve upe ñeñanihápe AFFC Air Force Career.,entailment
+"Che aimo'âukuri upéva peteî privilegioha. Aimo'â gueteri, ha'e gueteri. Che añoite upe 922 ExO aiméva upe oñeñanihápe AFFC Fuerza Armada Mba'épe.","Opavavépe ome'ê oréve peteî papapy meme, jepe he'íkuri oréve oîtaha iprivilegivétava'ekue, japupantevoira'e.",neutral
+He'íkuri chéve…péicha ... Peteî tapicha cherenoitaha ipahápe rojotopa haĝua.,Araka'eve nde'íri chéve aikuaataha mávape.,contradiction
+He'íkuri chéve…péicha ... Peteî tapicha cherenoitaha ipahápe rojotopa haĝua.,He'i chéve cherenotaha aikuaa haĝua mávape.,neutral
+He'íkuri chéve…péicha ... Peteî tapicha cherenoitaha ipahápe rojotopa haĝua.,Upe tapicha ousapy'a kurive.,neutral
+"Hetaiterei mba'e ikatu ja'e kóva rehe, upéicharamo ahasánte che kóva.",Amombe'use ndéve aikuaamíva guive hesegua.,neutral
+"Hetaiterei mba'e ikatu ja'e kóva rehe, upéicharamo ahasánte che kóva.","Nañe'êhetamo'âi, jepe heta mba'e ja'ekuaa,",contradiction
+"Hetaiterei mba'e ikatu ja'e kóva rehe, upéicharamo ahasánte che kóva.",Nañe'êmo'âi ko táva rembiasakuére oî rupi hetaiterei mba'e ñamombe'ukuaáva.,neutral
+"Upéva upe mba'e tuichavéva ndoroipotáiva oñehundi. Ndaipóri káso la oñemondóvo upe bomba de hidrógeno 30 guive, peteî C124.","Mba'evete oréve, noroñongatúi mba'evete.",contradiction
+"Upéva upe mba'e tuichavéva ndoroipotáiva oñehundi. Ndaipóri káso la oñemondóvo upe bomba de hidrógeno 30 guive, peteî C124.",Peteî mba'énte ore ndoroipotái oñehundi.,neutral
+"Upéva upe mba'e tuichavéva ndoroipotáiva oñehundi. Ndaipóri káso la oñemondóvo upe bomba de hidrógeno 30 guive, peteî C124.",Ndoroipotái oñehundi upe bomba-H hasyeterei upéva jereko.,contradiction
+Upéicha rupi nahesakâi chéve mba'érepa.,Aikuaa porâiterei mba'érepa.,contradiction
+Upéicha rupi nahesakâi chéve mba'érepa.,Ndaikuaái mba'érepa ha'e ombohasa umi mbo'ehao.,neutral
+Upéicha rupi nahesakâi chéve mba'érepa.,Ndaikuaái mba'érepa oiko umíva,entailment
+"Kóva Fannie. Okakuaa Ag--Agustape, GA, oñe'êta imitâramoguare rehe.",Fannie Flono omohendajey hembiapokuéra ha ndaikatumo'âi omombe'u ñandéve mba'eve ko árape.,contradiction
+"Kóva Fannie. Okakuaa Ag--Agustape, GA, oñe'êta imitâramoguare rehe.","Fannie Flono oî ápe ha oñe'êta ñandéve imitâramoguare ohasáva okakuaakuévo Augusta, GA-pe.",entailment
+"Kóva Fannie. Okakuaa Ag--Agustape, GA, oñe'êta imitâramoguare rehe.",Fannie Flono oñe'ê ñandéve jepe hembiapo heta.,neutral
+Ha oitykuri 5 destacamento U2gua,Añe'êkuri U2gua ndive,neutral
+Ha oitykuri 5 destacamento U2gua,Nañorairôi U2 ndive mba'évéicharamo,contradiction
+Ha oitykuri 5 destacamento U2gua,Amba'apo destacamento ndive U2-pe ĝuarâ 40 ro'y pukukue ko'êko'êre.,contradiction
+Cha añoite sapy'apy'a omomba'apóva umi reguladores ojeporúva oñetantea haĝua cámara yvategua michîhápe.,Ndahechaporâi cheañoha umi reguladores oñetante haĝua.,neutral
+Cha añoite sapy'apy'a omomba'apóva umi reguladores ojeporúva oñetantea haĝua cámara yvategua michîhápe.,Oñetanteákuri umi cámara yvategua michîhápe.,entailment
+Cha añoite sapy'apy'a omomba'apóva umi reguladores ojeporúva oñetantea haĝua cámara yvategua michîhápe.,Oî ñande apytepegua ñamyakâva umi reguladores oñetantea haĝua.,neutral
+"Chéniko, sargento, tendota, mbo'ehára, namba'apovéimava, he'iháicha Rick",Amba'apóta gueteri upe árape.,contradiction
+"Chéniko, sargento, tendota, mbo'ehára, namba'apovéimava, he'iháicha Rick",Asêva'ekue 2002-pe,neutral
+"Chéniko, sargento, tendota, mbo'ehára, namba'apovéimava, he'iháicha Rick",Rick he'i ndéve osêmahague.,contradiction
+"Oîniko upe viru ñemongu'erâ ha upe Cutty, upéva upe oñemúva réra.",Upe oñemúva hérava Cutty ogana 10.000 $ peteî jasýpe.,neutral
+"Oîniko upe viru ñemongu'erâ ha upe Cutty, upéva upe oñemúva réra.",Oî peteî oñemúva hérava Cutty.,entailment
+"Oîniko upe viru ñemongu'erâ ha upe Cutty, upéva upe oñemúva réra.",Ndajarekói oñemúva hérava Cutty.,contradiction
+Pe kuñataî ikatúva chepytyvô oî amo táva mboypýri.,Pe kuñataî chepytyvôkuaáva oiko mombyry.,neutral
+Pe kuñataî ikatúva chepytyvô oî amo táva mboypýri.,Upe mitâkuña chepytyvôtava oî águi 5km hápe.,neutral
+Pe kuñataî ikatúva chepytyvô oî amo táva mboypýri.,Ndaipóri avave ikatúva chepytyvô.,contradiction
+"Ha'ekuéra oñemboja'o umi mávapa omba'apótava okaháre ha mávapa umi mitâ opytáva ogapýpe, ha'ete ku…",Opavavéva oñemoî peteî ñe'ême opavavéva omba'apotaha okaháre.,contradiction
+"Ha'ekuéra oñemboja'o umi mávapa omba'apótava okaháre ha mávapa umi mitâ opytáva ogapýpe, ha'ete ku…",Ndaikatúi oñemoî peteî ñe'ême he'i haĝua mávapa omba'apóta okaháre ha mávapa ogapýpe.,entailment
+"Ha'ekuéra oñemboja'o umi mávapa omba'apótava okaháre ha mávapa umi mitâ opytáva ogapýpe, ha'ete ku…",Ndaikatúi oñemoî peteî ñe'ême he'i haĝua mávapa omba'apóta mandyjutýpe ha mávapa umi omopotîva'erâ yvy atâ.,neutral
+"Ko árape oñe'êta ñandéve upe Tercera SS, U2 Quick ha Blackbird rehe.",Ha'e he'i noñe'êmo'âvéimaha.,contradiction
+"Ko árape oñe'êta ñandéve upe Tercera SS, U2 Quick ha Blackbird rehe.",Ha'e oñe'ê mbohapy submarino rehe.,contradiction
+"Ko árape oñe'êta ñandéve upe Tercera SS, U2 Quick ha Blackbird rehe.",Ha'e oñe'ê mbohapy mba'e rehe.,entailment
+Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue.,Iñemoñarekuéra oikovepa.,contradiction
+Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue.,Peteîva umi 5 apytépe omano.,entailment
+Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue.,Upe mitâ omanova'ekue onasemavoi hasykatu.,entailment
+"Ha Androw Gromikov nombohovái mba'eve, katu rorekopa marandu umi ta'ângamýi ojapóva U2.",U2 ojagarra heta ta'ângamýi.,entailment
+"Ha Androw Gromikov nombohovái mba'eve, katu rorekopa marandu umi ta'ângamýi ojapóva U2.",U2 ojagarra hetaiterei ta'ângamýi yguýpe.,neutral
+"Ha Androw Gromikov nombohovái mba'eve, katu rorekopa marandu umi ta'ângamýi ojapóva U2.","Ndajarekói mba'eve iñongatupy, upéicha rupi rotanteareinte.",neutral
+He'i hesayhague ha upéi he'i Joe ohohague ogaguy peve.,"He'iramoguare chupe ojupi haĝua ogaguýpe, hesay.",entailment
+He'i hesayhague ha upéi he'i Joe ohohague ogaguy peve.,Ha'e omokâ pya'e hesay omosê rire Joe-pe ogaguýgui.,contradiction
+He'i hesayhague ha upéi he'i Joe ohohague ogaguy peve.,Ovy'aitereígui ohechávo Joe-pe oñepyrû hasê.,contradiction
+"Je`´eramo upe aeronave hendy, mba'ére okáita ha hykúta orekóramo hesegua de plomo oipyteva'erâkuri upe tata akukue?",Upe tata aku ikatu ojejoko avei okái jave.,neutral
+"Je`´eramo upe aeronave hendy, mba'ére okáita ha hykúta orekóramo hesegua de plomo oipyteva'erâkuri upe tata akukue?",Upe aviô oreko voi hesegua okái rire oipyteva'erâ upe tata rendy.,contradiction
+"Je`´eramo upe aeronave hendy, mba'ére okáita ha hykúta orekóramo hesegua de plomo oipyteva'erâkuri upe tata akukue?",Okái aja ndaipóri oipyteva'erâ upe tata rendy.,contradiction
+"kóva upe sargento, mburuvicha, mbo'ehára Clem Francis, nomba'apovéimava Estados Unidos Fuerzas Armadas-pe.",Mburuvicha nomba'apovéima Estados Unidos Fuerzas Armadas-pe.,entailment
+"kóva upe sargento, mburuvicha, mbo'ehára Clem Francis, nomba'apovéimava Estados Unidos Fuerzas Armadas-pe.",Ramoite mburuvicha nomba'apoveihague.,entailment
+"kóva upe sargento, mburuvicha, mbo'ehára Clem Francis, nomba'apovéimava Estados Unidos Fuerzas Armadas-pe.",Upe Estados Unidos Fuerzas Armadas mburuvicha oñepyrûramoite hembiapo ko arakopôindýpe.,contradiction
+"Néi, ñaĝuahêniko ko'âvape, peteî arapokôindýpe oîha mokôi térâ mbohapy aviô ha ndoikuaái moôpa ovevéta.",Pe arapokôime oĝuahê hetave aviô peteîgui.,neutral
+"Néi, ñaĝuahêniko ko'âvape, peteî arapokôindýpe oîha mokôi térâ mbohapy aviô ha ndoikuaái moôpa ovevéta.",Hetave aviô oîramo upéva apañuâima.,contradiction
+"Néi, ñaĝuahêniko ko'âvape, peteî arapokôindýpe oîha mokôi térâ mbohapy aviô ha ndoikuaái moôpa ovevéta.",Araka'eve noĝuahêi ni peteî aviô.,contradiction
+Ha'ekuéra oñembokatupyrýma oiporu haĝua umi ao pyrusu tatápe ĝuarâ ha chéve hasýkuri añepyrû haĝua aiporu upe ao pyryguasu tatápe ĝuarâ.,Mbohapy jasy ipuku upe ñembokatupyry reiporukuaa haĝua upe ao de presión.,contradiction
+Ha'ekuéra oñembokatupyrýma oiporu haĝua umi ao pyrusu tatápe ĝuarâ ha chéve hasýkuri añepyrû haĝua aiporu upe ao pyryguasu tatápe ĝuarâ.,Upe ñembokatupyry reiporukuaa haĝua upe ao de presión ipukumihína.,neutral
+Ha'ekuéra oñembokatupyrýma oiporu haĝua umi ao pyrusu tatápe ĝuarâ ha chéve hasýkuri añepyrû haĝua aiporu upe ao pyryguasu tatápe ĝuarâ.,Ikatúkuri rombokatupyry reiporukuaa haĝua upe ao de presión ka'arueterâ.,neutral
+"Ha'ese ndaipóri peligro ojeike haĝua upe bomba rehe ndokapumo'âi rupi, jepe hatâ opoko yvy.",Upe pilóto oñemboguéma bomba.,contradiction
+"Ha'ese ndaipóri peligro ojeike haĝua upe bomba rehe ndokapumo'âi rupi, jepe hatâ opoko yvy.",Upe bomba ndaikatúi okapu mba'evéicharamo.,contradiction
+"Ha'ese ndaipóri peligro ojeike haĝua upe bomba rehe ndokapumo'âi rupi, jepe hatâ opoko yvy.",Ikatuete okapu upe bomba.,contradiction
+Ha mba'eteko ojoguaitereíramo ajaposévape.,Ndaikuaaporâi mba'épa ndéve kóva.,neutral
+Ha mba'eteko ojoguaitereíramo ajaposévape.,Ahe'â'anía ajapo.,contradiction
+Ha mba'eteko ojoguaitereíramo ajaposévape.,Añeha'â amohu'â haĝua che rembiapo ambue arapokôindýpe.,neutral
+"Upéicharamo jepe, umi mymba okañymbáta upégui, umi kavara ko'ýte.",Umi kavara okañy upe korágui.,entailment
+"Upéicharamo jepe, umi mymba okañymbáta upégui, umi kavara ko'ýte.",Py'ÿi okañy umi kavara.,entailment
+"Upéicharamo jepe, umi mymba okañymbáta upégui, umi kavara ko'ýte.",Umi kavara oñeñongatu porâ,contradiction
+Roikeramo gaure upe okê oñemboty.,Okê oîhaguéicha ojepe'â.,contradiction
+Roikeramo gaure upe okê oñemboty.,Ore roreko illavekuéra.,contradiction
+Roikeramo gaure upe okê oñemboty.,Roike jepe umi okê oñemboty.,contradiction
+"Ojagarranteva'erâ umi total, otantea oî porâpa ha ojapóma.",Aikuaa porâiterei upe aikotevêva niko umi total ha ajapótama kóva.,neutral
+"Ojagarranteva'erâ umi total, otantea oî porâpa ha ojapóma.",Ndaikuaáietevoi mba'épa ajapova'erâ umi total reheve. Ikatúpa embohesa'ive chéve amyatyrô haĝua ko apañuâi,contradiction
+"Ojagarranteva'erâ umi total, otantea oî porâpa ha ojapóma.",Ajapóta aiporúvo umi total.,contradiction
+"Ha'e ou, oipe'a okê ha chemandu'a amaña che rapykuévo ha ahecha hova, ahechakuaa ndaha'éihague upe oha'arôva.",Ovy'aitereígui opo ha haimete oñeakânupâ okê renda rehe.,contradiction
+"Ha'e ou, oipe'a okê ha chemandu'a amaña che rapykuévo ha ahecha hova, ahechakuaa ndaha'éihague upe oha'arôva.",Oñeha'â ani haĝua roñeñandu vai katu roikuaa orekáusa iñapañuâiha.,neutral
+"Ha'e ou, oipe'a okê ha chemandu'a amaña che rapykuévo ha ahecha hova, ahechakuaa ndaha'éihague upe oha'arôva.",Ima'ê rehe oikévo upe okê rupi aikuaa ndaha'éihague oha'arôva.,contradiction
+"Upéicharamo, ndarekói tembiasa.",Ndacheñemuhái.,entailment
+"Upéicharamo, ndarekói tembiasa.",Ndacheñemuhái.,entailment
+"Upéicharamo, ndarekói tembiasa.",Heta ñemuha oî.,neutral
+Ha'e araka'eve ndojapói mba'eve ijehegui.,Chupe oñepytyvô heta,entailment
+Ha'e araka'eve ndojapói mba'eve ijehegui.,Chupe oñepytyvô hembi'u ha ijaorâ,entailment
+Ha'e araka'eve ndojapói mba'eve ijehegui.,Ha'e isâsoiterei.,neutral
+"Che ha'e chepype, Ñandejára!!! Ha Ramona oî upépe.",Ramona oî yvýpe ikuruchîhína.,neutral
+"Che ha'e chepype, Ñandejára!!! Ha Ramona oî upépe.",Ramona chejuzga kirirîhápe.,neutral
+"Che ha'e chepype, Ñandejára!!! Ha Ramona oî upépe.",Ramona oñembo'y che chejuruja apytávo upépe.,neutral
+"Ha añetehápe, ivevúi!",Okaru heta katu ndojupíri.,contradiction
+"Ha añetehápe, ivevúi!",Ha'e ndaipohýi.,entailment
+"Ha añetehápe, ivevúi!",Ha'e ovy'aiterei.,contradiction
+Ndaikuaái opytápara'e Augusta-pe upe rire.,Ha'e opyta oiko Augusta-pe upe ñembokapu riréjepe.,contradiction
+Ndaikuaái opytápara'e Augusta-pe upe rire.,Ha'e opyta oiko Augusta-pe.,contradiction
+Ndaikuaái opytápara'e Augusta-pe upe rire.,Ova Upe Augusta oká gotyo upe riremíntema.,neutral
+"Maymavéva rojapo, avave nde'íri oréve moôpa ohóta, ni araka'épa osê okaha gotyo opyta haĝuáicha sapy'apuku uperupi.",Naporandúiva moôpa ohóta hikuái.,entailment
+"Maymavéva rojapo, avave nde'íri oréve moôpa ohóta, ni araka'épa osê okaha gotyo opyta haĝuáicha sapy'apuku uperupi.",Katuete oikuaaukua oréve moôpa oî hikuái ha moô gotyopa oho avei.,contradiction
+"Maymavéva rojapo, avave nde'íri oréve moôpa ohóta, ni araka'épa osê okaha gotyo opyta haĝuáicha sapy'apuku uperupi.",Araka'eve nde'íri oréve moôpa oho hikuái.,entailment
+He'i: Rohepyme'êta ndéve repyta haĝua.,Ndohepyme'êmo'âi mba'evete orerehe.,contradiction
+He'i: Rohepyme'êta ndéve repyta haĝua.,Ohepyme'ê peteî óga rehe chéve ha che pehênguekuérape ĝuarâ.,neutral
+He'i: Rohepyme'êta ndéve repyta haĝua.,Ohepyme'ê peteî óga rehe.,neutral
+"Néi, upehague ko'ême, Mburuvichavete Kennedy omboty Cubape ha ore ygarusukuéra ojoko peteî yga ruso oikóva upe Cuba rembe'y gotyo ha ojuhu hukuái mboka guasu.",Kennedy he'i ore atýpe oheka haĝua umi mboka guasu.,entailment
+"Néi, upehague ko'ême, Mburuvichavete Kennedy omboty Cubape ha ore ygarusukuéra ojoko peteî yga ruso oikóva upe Cuba rembe'y gotyo ha ojuhu hukuái mboka guasu.",Nomombytái ni peteî yga guasu ani haĝua iñapañuâi hikuái.,contradiction
+"Néi, upehague ko'ême, Mburuvichavete Kennedy omboty Cubape ha ore ygarusukuéra ojoko peteî yga ruso oikóva upe Cuba rembe'y gotyo ha ojuhu hukuái mboka guasu.",Ojuhu hikuái 20 mboka guasu upe yga guasúpe.,neutral
+"Oimeháicha, upe kuimba'e oike.",Upe kuimba'e oike Tribuna koty guasúpe.,neutral
+"Oimeháicha, upe kuimba'e oike.",Upe kuimba'e oike kotýpe.,neutral
+"Oimeháicha, upe kuimba'e oike.",Upe kuimba'e oñani ambue henda gotyo.,neutral
+"mmm…, che jarýi ha che taichachu niko ikunu'ûrasa hikuái ha sapy'apy'a che ru ha che sy umíva oîjepi ha rohasa porâiterei rasa amo yvy gotyo.",Cheraha heta amboguata haĝua che jarýi ha che taitachu róga peve.,neutral
+"mmm…, che jarýi ha che taichachu niko ikunu'ûrasa hikuái ha sapy'apy'a che ru ha che sy umíva oîjepi ha rohasa porâiterei rasa amo yvy gotyo.",Che jarýi ha che taitachu niko tapicha oñoirû ikunu'û rasáva.,neutral
+"mmm…, che jarýi ha che taichachu niko ikunu'ûrasa hikuái ha sapy'apy'a che ru ha che sy umíva oîjepi ha rohasa porâiterei rasa amo yvy gotyo.",Che jarýi ha che taitachu niko sapy'ánte ijargel-rasa ha ndahaseguasúi hogapekuéra.,contradiction
+Ndaijái chéve añomongetapa haĝua opa mba'e rehe.,Ikatúkuri oamoingepa kurive.,neutral
+Ndaijái chéve añomongetapa haĝua opa mba'e rehe.,Amoîngepa kavaletépe.,neutral
+Ndaijái chéve añomongetapa haĝua opa mba'e rehe.,Ndaijavéima chéve amoingepávo.,contradiction
+"Ha, peteîva che rembiaponiko ambokatupyry umi tapicha omoî haĝua paracaída upe moka nuclear rehe, ombokapúva mboka atómica.",Mboka atómica naisâi,contradiction
+"Ha, peteîva che rembiaponiko ambokatupyry umi tapicha omoî haĝua paracaída upe moka nuclear rehe, ombokapúva mboka atómica.",Detonador ombokapu mboka ojetiráramo chugui.,contradiction
+"Ha, peteîva che rembiaponiko ambokatupyry umi tapicha omoî haĝua paracaída upe moka nuclear rehe, ombokapúva mboka atómica.",Nembareteminteva'erâ reitira haĝua upe mboka atómica sâ.,contradiction
+Che jarýi omombe'úmi chéve heta hembiasa imitârôguare ha oñe'êvéjepi hogaygua rehe ha mba'éichapa ojeiko upéramo.,Arohorými che jarýi mombe'upy.,neutral
+Che jarýi omombe'úmi chéve heta hembiasa imitârôguare ha oñe'êvéjepi hogaygua rehe ha mba'éichapa ojeiko upéramo.,Che jarýi noñe'êséi hembiasa imitâramoguare rehe.,contradiction
+Che jarýi omombe'úmi chéve heta hembiasa imitârôguare ha oñe'êvéjepi hogaygua rehe ha mba'éichapa ojeiko upéramo.,Che jarýi omombe'u chéve heta mba'e hogaygua rehe ha'e michîmiramoguare.,entailment
+"Roreko umi ao pyrusu guasu de presión aviôme, umi astronauta oiporúvaichagua, ojoavyha oremba'e overapaite ore pyregua peve ombojevy haĝua pytu aku.",Ore ao mba'evépe ndojoguái umi astronauta oipurúvape.,contradiction
+"Roreko umi ao pyrusu guasu de presión aviôme, umi astronauta oiporúvaichagua, ojoavyha oremba'e overapaite ore pyregua peve ombojevy haĝua pytu aku.","Ore ao peteîcha umi astronauta oiporuvaichagua, ojoavy michîmi oremba'e overa ombojevypotávo pytu aku.",contradiction
+"Roreko umi ao pyrusu guasu de presión aviôme, umi astronauta oiporúvaichagua, ojoavyha oremba'e overapaite ore pyregua peve ombojevy haĝua pytu aku.",Ikatu pejuhu umi ao pyrusu oimehaichagua sa'y peipotávape.,neutral
+Ha che taitachu ndaha'eiva'ekue karai guasu.,Che taitachu hovatavyva'ekue.,neutral
+Ha che taitachu ndaha'eiva'ekue karai guasu.,Che taichachu iñaña ha oporombykéva máva ndahaèiva heseguápe.,contradiction
+Ha che taitachu ndaha'eiva'ekue karai guasu.,Che taichachu upe karai horyvéva rejuhútava nderekovépe.,contradiction
+"Oî 30, 40 aviô U2, ha roñepyrû rombokatupyry upi pilóto chino, británico hendivekuéra opa umi ojoajúva orerehépe.",Ndorombokatupyrýi avave ndive.,contradiction
+"Oî 30, 40 aviô U2, ha roñepyrû rombokatupyry upi pilóto chino, británico hendivekuéra opa umi ojoajúva orerehépe.",Roñembokatupyry 5 arapokôindy pukukue umi británico-kuéra ndive,neutral
+"Oî 30, 40 aviô U2, ha roñepyrû rombokatupyry upi pilóto chino, británico hendivekuéra opa umi ojoajúva orerehépe.",Roñembokatupyry heta ambue ñorairôhára ndive.,neutral
+"Ha upéicha he'i Bueno: eheka kóva, péva, amóva, kóva, upéva upe empresa-pe.",Ha'e noñe'êi chendive.,contradiction
+"Ha upéicha he'i Bueno: eheka kóva, péva, amóva, kóva, upéva upe empresa-pe.",He'i chéve aheka haĝua peteî mba'e.,contradiction
+"Ha upéicha he'i Bueno: eheka kóva, péva, amóva, kóva, upéva upe empresa-pe.",Ha'e he'i chéve aheka haĝua marandu iviru ñemongu'e rehegua.,neutral
+Ha'e he'i ojupi hague yvatévo.,He'i opytahague tapére.,contradiction
+Ha'e he'i ojupi hague yvatévo.,He'i oguejyhague yvy gotyo.,contradiction
+Ha'e he'i ojupi hague yvatévo.,He'i ohohague yvatévo.,neutral
+"mmm, nahániri, añetehápe, namoñe'êi ni peteî umi aranduka amoñe'êva'erâ.",Namoñe'êi ni peteî aranduka ohasáva 100 kuatia roguégui.,entailment
+"mmm, nahániri, añetehápe, namoñe'êi ni peteî umi aranduka amoñe'êva'erâ.",Namoñe'êi heta aranduka.,neutral
+"mmm, nahániri, añetehápe, namoñe'êi ni peteî umi aranduka amoñe'êva'erâ.",Amoñe'ê aranduka ko'êko'êre.,contradiction
+Aguatave ha ahupi imba'yru ha aha aha haĝuáme.,Aheja upe bosa ha aimo'â upéva ndaha'eiha che apañuâi.,neutral
+Aguatave ha ahupi imba'yru ha aha aha haĝuáme.,Araha upe bosa oikohápe.,entailment
+Aguatave ha ahupi imba'yru ha aha aha haĝuáme.,Araha upe vosa hendápe.,entailment
+Upe ikyre'ỹ iñambuete sapy'aitépe,Upe heko peteîcha naiñambuéi.,contradiction
+Upe ikyre'ỹ iñambuete sapy'aitépe,Ovy'aitereihágui ndovy'avéi sapy'a.,contradiction
+Upe ikyre'ỹ iñambuete sapy'aitépe,Upe heko iñambuete.,entailment
+"Cheporavo hikuái 15 tapicha apytépe aha haĝua mbo'ehaópe ha ndahamo'âi, ndahamo'âi",Ndacheporavói hikuái aha haĝua mbo'ehaópe.,contradiction
+"Cheporavo hikuái 15 tapicha apytépe aha haĝua mbo'ehaópe ha ndahamo'âi, ndahamo'âi",Cheporavo aha haĝua mbo'ehaópe.,entailment
+"Cheporavo hikuái 15 tapicha apytépe aha haĝua mbo'ehaópe ha ndahamo'âi, ndahamo'âi",Che upe iporavopyrâ ojejeroviaveha.,contradiction
+"Ojapyharava'erâ upe ´camara yvategua, ojepaseava'erâ oñepyrû mboyve oveve U2 térâ oveve upe ao pyrusu de presión reheve.",Hetave otanteáva ndohasái upe aranduchauka ha márônte nombovevéi U2,contradiction
+"Ojapyharava'erâ upe ´camara yvategua, ojepaseava'erâ oñepyrû mboyve oveve U2 térâ oveve upe ao pyrusu de presión reheve.",tekotevê hetaikte oñembokatupyry omboveve mboyve upe U2,neutral
+"Ojapyharava'erâ upe ´camara yvategua, ojepaseava'erâ oñepyrû mboyve oveve U2 térâ oveve upe ao pyrusu de presión reheve.",Ojeheja remboveve U2 upe ára peteîhápente.,neutral
+Amba'apo'aína hese.,Amba'apo mba'e pyahuete rehe.,neutral
+Amba'apo'aína hese.,Amba'apo umi ambue kuatiahai ojapómava rehe.,contradiction
+Amba'apo'aína hese.,Añe'ê ha'eluéra oñe'êva rehe avei.,neutral
+"Peteîha oiko upéva 75 ro'y pukuépe, upe Texa Amandaje oiporavo peteî aty militar, upéramo Texas rerapegua ha upéva rehe oñekotevê Texas rerapegua.",Umi aty militar ndaikatúi oîvo Texas rérape.,contradiction
+"Peteîha oiko upéva 75 ro'y pukuépe, upe Texa Amandaje oiporavo peteî aty militar, upéramo Texas rerapegua ha upéva rehe oñekotevê Texas rerapegua.",Upe aty militar oñembohéra Texas rerapegua upe EEUU Amandaje Guasúpe.,entailment
+"Peteîha oiko upéva 75 ro'y pukuépe, upe Texa Amandaje oiporavo peteî aty militar, upéramo Texas rerapegua ha upéva rehe oñekotevê Texas rerapegua.",Upe aty militarpe ojekuaa Tx rerapegua ramo.,neutral
+Oîramo mba'e ikatúva ojejapo.,Che ikatu ôi ajapokuaáva.,neutral
+Oîramo mba'e ikatúva ojejapo.,Aikuaa ndaiporiha mba'eve ikatúva che ajapo.,contradiction
+Oîramo mba'e ikatúva ojejapo.,Chéverô ĝuarâ ikatuva'erâkuri oime ajapóva aipysyrô haĝua chupe.,neutral
+"Ndacha'éi upéva rehe. He'ími ikypy'ýpe opaite ára, rejapo va'ihareína.",Ha'e akói omokyre'ỹ ikypy'ýpe.,neutral
+"Ndacha'éi upéva rehe. He'ími ikypy'ýpe opaite ára, rejapo va'ihareína.",Hesakâ porâiterei ikypy'y ndojapokuaaiha mba'eve.,contradiction
+"Ndacha'éi upéva rehe. He'ími ikypy'ýpe opaite ára, rejapo va'ihareína.",Ha'e ojopy ikypy'y ndive.,neutral
+Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe.,Aiporu ipumbyry oporohenói haĝua.,entailment
+Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe.,Ahenói upe papapýpe aĝuahêvo hógape.,entailment
+Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe.,"Oñeha'arôkuri ahenói, katu nahenói.",contradiction
+"Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta.","Ko árape ndahái, upéicha rupi ndahechái chupe.",neutral
+"Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta.","Aĝuahê che upe gimnasio-pe ko árape, ha'e ou kurive ha chemomaitei.",neutral
+"Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta.",Aĝuahê ko pyhareve ha ha'e ou avei.,entailment
+Ndoroikuaái moôpa oho hikuái.,Ndoroikuaái moôpa oho upe aty heta tetâmegua.,entailment
+Ndoroikuaái moôpa oho hikuái.,Ndoroikuaái moôpa oho umi tapicha.,entailment
+Ndoroikuaái moôpa oho hikuái.,Roikuaa moôpa oho hikuái.,contradiction
+"Chéniko aime, … ehejántema, aháta akaru. Che vare'a.",Ndachevare'áietevoi.,contradiction
+"Chéniko aime, … ehejántema, aháta akaru. Che vare'a.",Chevare'a ha upéicha rupi aha akaru.,entailment
+"Chéniko aime, … ehejántema, aháta akaru. Che vare'a.",Amano vare'águi.,contradiction
+Ehejami chéve ta'e ndéve ko árape chekuerái haimete ahejarei.,Haimete ahejarei.,entailment
+Ehejami chéve ta'e ndéve ko árape chekuerái haimete ahejarei.,"Hasyeterei chéve, ndachepu'akavéima.",entailment
+Ehejami chéve ta'e ndéve ko árape chekuerái haimete ahejarei.,Ndohasái cheakâ rupi ahejareívo.,neutral
+"Onase 1800 y piko rupi, ikatu oime 1888, térâ 1889.",Onase 1900 mboyve.,entailment
+"Onase 1800 y piko rupi, ikatu oime 1888, térâ 1889.",Onase jasypakôi 1880 ramo.,contradiction
+"Onase 1800 y piko rupi, ikatu oime 1888, térâ 1889.",Ha'e nonaséi 1984 peve.,contradiction
+"Iporâta emboguejymivéramo michîmi upe tornillo, peteî tesapirîme ikatu rembokua nde rapicha vevýi",Upe tornillo ikatu ombokua oimeraêva vevýi.,neutral
+"Iporâta emboguejymivéramo michîmi upe tornillo, peteî tesapirîme ikatu rembokua nde rapicha vevýi","Upe tornillo noîvaríri, ejopyporâkatu.",neutral
+"Iporâta emboguejymivéramo michîmi upe tornillo, peteî tesapirîme ikatu rembokua nde rapicha vevýi",Upe tornillo oikéta ijahy'o rupi ha ikatu ombyai ivevýi.,contradiction
+"Oje'e chéve, aha haĝua Del Río, TX-pe, upéva rehe aĝuahêvo upépe, aikuaa ahava'erâha Laugghlin Air Force opytahápe.","Chemondo hikuái Del Rio, TX-pe amba'apo haĝua.",entailment
+"Oje'e chéve, aha haĝua Del Río, TX-pe, upéva rehe aĝuahêvo upépe, aikuaa ahava'erâha Laugghlin Air Force opytahápe.",Ndaháiva marô Texas-pe.,contradiction
+"Oje'e chéve, aha haĝua Del Río, TX-pe, upéva rehe aĝuahêvo upépe, aikuaa ahava'erâha Laugghlin Air Force opytahápe.","Fuerzas aéreas-gua chemondo Del Rio, TX-pe 2001-pe.",neutral
+"Maymavéva omoî champang, katu ndaopavavéi ho'upa. Umi hembýva ikaguápe ho'upa mitânguéra. Upéicha rupi ore rojere roikóvo, ro'úvo upe champang.",Mitânguéra ho'u mbohapy liméta champang.,neutral
+"Maymavéva omoî champang, katu ndaopavavéi ho'upa. Umi hembýva ikaguápe ho'upa mitânguéra. Upéicha rupi ore rojere roikóvo, ro'úvo upe champang.",Mitânguéra ho'u michîmi champang.,entailment
+"Maymavéva omoî champang, katu ndaopavavéi ho'upa. Umi hembýva ikaguápe ho'upa mitânguéra. Upéicha rupi ore rojere roikóvo, ro'úvo upe champang.",Upe vy'a guasúpe ndoje'úi guaripóla.,contradiction
+Heta tembiasa oreko táva ñamboívo.,Nahendúi ni peteî hembiasakue.,contradiction
+Heta tembiasa oreko táva ñamboívo.,Heta tembiasa oî militar-kuéra rehegua.,neutral
+Heta tembiasa oreko táva ñamboívo.,Heta tembiasa oî oñemombe'úva.,entailment
+"Jaikove ha jaikuaa, nde reikuaa, retanteávo, upe aviô.",Ndaikuaaái mba'eve aviô rehegua.,contradiction
+"Jaikove ha jaikuaa, nde reikuaa, retanteávo, upe aviô.",Retanteávo aviô heta mba'e reikuaa.,entailment
+"Jaikove ha jaikuaa, nde reikuaa, retanteávo, upe aviô.",Retanteávo aviô nembo'e mba'éichapa remaneháta upe presión..,neutral
+Ha'ese upéva upe hesakuápe oîva.,Ndahesakâi chéve moôpa rehose.,neutral
+Ha'ese upéva upe hesakuápe oîva.,Chéverô ĝuarâ upe he'iséva ñandéve ipeligrosaha.,neutral
+Ha'ese upéva upe hesakuápe oîva.,Hesakâ porâ chéve.,contradiction
+"Peteî aviô opyta guive ohasáva Cuba rupi, ha oity upe Rudollph Anderson.",Oîhaguéicha aviô oikopaite peteîntejepe ndojejapíri.,neutral
+"Peteî aviô opyta guive ohasáva Cuba rupi, ha oity upe Rudollph Anderson.",Oî ojeityva'ekue Cuba-pe.,entailment
+"Peteî aviô opyta guive ohasáva Cuba rupi, ha oity upe Rudollph Anderson.","Upe aviô kakuaaite ojeity Cuba-pe, mayo-pe.",contradiction
+"Oiméne upéva upe mba'e chemitâramoguare chemandu'áva, ko'ýte umi mba'e vai ajapo jave.",Añetehápe nachemandu'ái mba'evete chemitâramoguare.,contradiction
+"Oiméne upéva upe mba'e chemitâramoguare chemandu'áva, ko'ýte umi mba'e vai ajapo jave.",Añeñandu vai ko'aĝaite peve.,entailment
+"Oiméne upéva upe mba'e chemitâramoguare chemandu'áva, ko'ýte umi mba'e vai ajapo jave.",Umíva tenodeguaite chemandu'áva.,contradiction
+"Ndoguerohoryeiete hikuái ipirehû umi árape, upéva oiméne, nde reikuaa, oiméne, amo 1930 oñepyrû rupi oikoramoguare umíva.",Hasy ndéve ndepirehûramo Yvy gotyo.,neutral
+"Ndoguerohoryeiete hikuái ipirehû umi árape, upéva oiméne, nde reikuaa, oiméne, amo 1930 oñepyrû rupi oikoramoguare umíva.",Ndahasyiete ndepirû haĝua.,neutral
+"Ndoguerohoryeiete hikuái ipirehû umi árape, upéva oiméne, nde reikuaa, oiméne, amo 1930 oñepyrû rupi oikoramoguare umíva.",Hasy ndepirehûramo upéramo.,neutral
+Ndaikuaaporâi moôpa oho hikuái.,Mayvaméva oikuaa porâ moôpa oho hikuái.,contradiction
+Ndaikuaaporâi moôpa oho hikuái.,Avave ndoikuaái mba'e ógapepa oho.,entailment
+Ndaikuaaporâi moôpa oho hikuái.,"Moôpa oho, mávapa oikuaáta.",contradiction
+Ha ndaikatúi opyta upe Augusta jeré rehe upepegua oikuaa oñeha'âhague ojapo mba'e ojeguerokyhyjéva oñeha'â haĝuâ oiko ipire morotîva ramo.,Tapichakuéra ni noimo'âi ndaipiremorotîriha.,neutral
+Ha ndaikatúi opyta upe Augusta jeré rehe upepegua oikuaa oñeha'âhague ojapo mba'e ojeguerokyhyjéva oñeha'â haĝuâ oiko ipire morotîva ramo.,Tapichakuéra ndoikuaái ha'ekuéra ouha Afrikaygua ruguýgui.,neutral
+Ha ndaikatúi opyta upe Augusta jeré rehe upepegua oikuaa oñeha'âhague ojapo mba'e ojeguerokyhyjéva oñeha'â haĝuâ oiko ipire morotîva ramo.,Tapichakuéra oikuaa ha'ekuéra ouha Afrikaygua ruguýgui.,neutral
+"Héê, upe mitâ oî ápe.",Upe mitâ oî.,entailment
+"Héê, upe mitâ oî ápe.",Upe kuimba'e iñapysê ojapo mokôi aravo'i.,neutral
+"Héê, upe mitâ oî ápe.",Upe kuimba'e márô ndoúiva árupi.,contradiction
+Rohecharoínakuri peteî mba'e télepe.,Nda'oretélei.,neutral
+Rohecharoínakuri peteî mba'e télepe.,Rohecharoínakuri téle.,entailment
+Rohecharoínakuri peteî mba'e télepe.,Rohecha marandu téle-pe.,neutral
+"Upéicharô, apensa añe'âjeyva'erâ Ramona ndive.",Nañe'êiva Ramona ndive.,contradiction
+"Upéicharô, apensa añe'âjeyva'erâ Ramona ndive.",Añe'ê Ramona ndive akokuehe.,contradiction
+"Upéicharô, apensa añe'âjeyva'erâ Ramona ndive.",Iporâ ore ñomongeta.,neutral
+"Upéva añoite oñehundíva upe Cuba Apañuâime, Kaiser, ogueraha umi ta'ânga ha oveve Andrews Air Force-pe Washingtong-pe.",10000 tapicha omano upe Cuba apañuâime.,neutral
+"Upéva añoite oñehundíva upe Cuba Apañuâime, Kaiser, ogueraha umi ta'ânga ha oveve Andrews Air Force-pe Washingtong-pe.",Peteî tapicha añoite omano upe Cuba apañuâime.,contradiction
+"Upéva añoite oñehundíva upe Cuba Apañuâime, Kaiser, ogueraha umi ta'ânga ha oveve Andrews Air Force-pe Washingtong-pe.",Peteî tapicha añoite omano upe Cuba apañuâime accidente-pe.,contradiction
+"mmmm, ha ha'e he'i,... he'i,... he'i, nde nderehechái che ahechaháicha mba'épa upe jeikove",Ha'e he'i ndoikuaaieteha.,neutral
+"mmmm, ha ha'e he'i,... he'i,... he'i, nde nderehechái che ahechaháicha mba'épa upe jeikove",Ha'e he'i ndoikuaavéimaha jeikove rehegua.,contradiction
+"mmmm, ha ha'e he'i,... he'i,... he'i, nde nderehechái che ahechaháicha mba'épa upe jeikove",He'i chéve ndaikuaaiha mba'éichapa ojeiko añeteva'erâ ha ahapykuehova'eraha chupe.,entailment
+"Upéi ajuhu hese ha apyta avy'aiterei, mba'épa ajapóta chugui.",Ndaikuaái mba'éichapa ojeporuva'erâ upe mba'e.,neutral
+"Upéi ajuhu hese ha apyta avy'aiterei, mba'épa ajapóta chugui.",Ndaikuaái mba'erâpa aiporuva'erâ upe mba'e.,neutral
+"Upéi ajuhu hese ha apyta avy'aiterei, mba'épa ajapóta chugui.",Aikuaa porâ mba'erâpa aiporuva'erâ!,neutral
+"Sapy'aitemi, remombe'uséramo, che aháta.",Aiméma aha haĝuáicha ko'aĝaite.,contradiction
+"Sapy'aitemi, remombe'uséramo, che aháta.",Sapy'aitemi chera'arô.,neutral
+"Sapy'aitemi, remombe'uséramo, che aháta.","Sapy'aitemi, tambyatypami che akâme chepy'apy.",neutral
+Upéicha aha Washingtong DC-pe ha ndahái he'ihaguetépe chéve hikuái.,Ndaháiva Washingtong DC-pe,contradiction
+Upéicha aha Washingtong DC-pe ha ndahái he'ihaguetépe chéve hikuái.,Aha DC-pe ahechávo che sâmbyhyhára-pe,neutral
+Upéicha aha Washingtong DC-pe ha ndahái he'ihaguetépe chéve hikuái.,Aha tetâ tavusúpe.,entailment
+Ha'e tapicha hû ipire hesakâva.,Ipire hû vera.,entailment
+Ha'e tapicha hû ipire hesakâva.,Ipire hekasâ ja'e haĝua hese Afrikaygua ruguyha.,neutral
+Ha'e tapicha hû ipire hesakâva.,Ivevuive ambue iñangirû hûgui.,contradiction
+"Opáichavo, papa oho ombosako'i kagua kakua renyhê chokoláte kambýre chéve ĝuarâ.",Papa ome'ê chéve chokoláte kambýre eladéragui.,contradiction
+"Opáichavo, papa oho ombosako'i kagua kakua renyhê chokoláte kambýre chéve ĝuarâ.",che ru ome'ê chéve kamby kaguápe.,entailment
+"Opáichavo, papa oho ombosako'i kagua kakua renyhê chokoláte kambýre chéve ĝuarâ.",Che ru he'i chéve ndaikatúiha ha'u mba'evete.,contradiction
+Upe DOT ojogua upe yvy ha mba'e.,Departamento de transporte ojuhu ambue yvy ohepyme'ê haĝua hendaguépe,neutral
+Upe DOT ojogua upe yvy ha mba'e.,DOT ojogua upe yvy ha hembiporu,contradiction
+Upe DOT ojogua upe yvy ha mba'e.,DOT ojogua upe yvy 3 millones $ ári rehe.,neutral
+Ha'e oiméne onase.,Oñeha'arô onase jasypakôi 2010-pe,neutral
+Ha'e oiméne onase.,Oñeha'arôkuri onase.,contradiction
+Ha'e oiméne onase.,Oñeha'arôkuri nonaséi.,contradiction
+Chéniko upe…Aikuaa moô mevépa reĝuahê.,Ha'e chupe ndoikuaaaiha mba'épa ojapo.,neutral
+Chéniko upe…Aikuaa moô mevépa reĝuahê.,Ha'e chupe ohasahague upe oñeha'arôva ichugui 40%,neutral
+Chéniko upe…Aikuaa moô mevépa reĝuahê.,Ha'e chupe,"the given premise and hypothesis do not provide enough context or information in guarani to determine a clear relationship of entailment, contradiction, or neutrality. ""chéniko upe…aikuaa moô mevépa reĝuahê"" translates to ""i'm here...i know how far you have arrived,"" while ""ha'e chupe"" translates to ""tell him/her."" without additional context, these statements do not directly entail, contradict, or relate to each other, leading to:
+
+neutral"
+Chéniko upe…Aikuaa moô mevépa reĝuahê.,"Néi, ikatúpa cherendu?",neutral
+Chéniko upe…Aikuaa moô mevépa reĝuahê.,Ikatúpiko rehendu ha'éva che?,neutral
+Chéniko upe…Aikuaa moô mevépa reĝuahê.,Aikuaa nacherenduseiha,neutral
+"mmm, mba'eve? Ere nanemandu'aiha mba'eve remoñe'êva mbo'ehaópe, jepe ndekakuaáma, ndaipóri aranduka ndepy'ara'âva'ekue?",Rehayhu Harry Potter aranduka?,neutral
+"mmm, mba'eve? Ere nanemandu'aiha mba'eve remoñe'êva mbo'ehaópe, jepe ndekakuaáma, ndaipóri aranduka ndepy'ara'âva'ekue?",Oîpiko aranduka rehayhúva térâ nderecha'éiva?,neutral
+"mmm, mba'eve? Ere nanemandu'aiha mba'eve remoñe'êva mbo'ehaópe, jepe ndekakuaáma, ndaipóri aranduka ndepy'ara'âva'ekue?",Aikuaa rehayhurasaha umi aranduka remoñe'êva'ekue,neutral
+"Pévaniko peteî hélice michîva ofraguáva peteî inyección, katu upe ojopyha rape, upe túvo de presión oiporúva pilóto ha ojapóva contrapresión.",Upe tornillo ojoko presión.,entailment
+"Pévaniko peteî hélice michîva ofraguáva peteî inyección, katu upe ojopyha rape, upe túvo de presión oiporúva pilóto ha ojapóva contrapresión.",Upe tornillo michî ha overa.,contradiction
+"Pévaniko peteî hélice michîva ofraguáva peteî inyección, katu upe ojopyha rape, upe túvo de presión oiporúva pilóto ha ojapóva contrapresión.","Ndaipóri tornillo, votônte.",contradiction
+"Ha'e he'i ani rejepy'apy, nde reikuaa, ko'â mba'e ipukukuaaha.",Ha'e he'ichéve cheraĝe haĝua.,neutral
+"Ha'e he'i ani rejepy'apy, nde reikuaa, ko'â mba'e ipukukuaaha.",He'i chéve mba'eve ndoikoiha che aréramo ajapo haĝua.,neutral
+"Ha'e he'i ani rejepy'apy, nde reikuaa, ko'â mba'e ipukukuaaha.",He'i chéve chembegueve haĝua.,neutral
+Mburuvichavete Kennedy he'i umi pilótope: Iporâ ta'ânga pejapóva.,Kennedy ndoikuaai chupekuéra.,contradiction
+Mburuvichavete Kennedy he'i umi pilótope: Iporâ ta'ânga pejapóva.,Kennedy oñe'ê umi Fuerzas Armadas-pegua pilotokuéra ndive.,entailment
+Mburuvichavete Kennedy he'i umi pilótope: Iporâ ta'ânga pejapóva.,Kennedy oñe'ê umi pilotokuéra ndive.,entailment
+"Ha che añeñandu mba'éichambo, añehundimaha.",Ha'e 10 aravo'ípe amohu'âtamaha.,neutral
+"Ha che añeñandu mba'éichambo, añehundimaha.",Ha'e chupe araka'eve ndajapopamo'âiha.,entailment
+"Ha che añeñandu mba'éichambo, añehundimaha.",Ha'e chupekuéra haimetéma amohu'âha.,neutral
+Añeha'â ahaipaite.,Ahai mba'ekuéra rehe.,neutral
+Añeha'â ahaipaite.,Ndajepy'apýi ahai haĝua.,neutral
+Añeha'â ahaipaite.,Ahai tembiapo he'íva guive.,neutral
+"Nahániri, ha'e onase 1900 ramo, oreko 16 ary ha oiméne 1926-pe19, nde reikuaa 1930 mboyve.",Onace jasyteî ára peteîha 1900 ramo.,neutral
+"Nahániri, ha'e onase 1900 ramo, oreko 16 ary ha oiméne 1926-pe19, nde reikuaa 1930 mboyve.",Ha'e onase oñepyrûvo siglo.,entailment
+"Nahániri, ha'e onase 1900 ramo, oreko 16 ary ha oiméne 1926-pe19, nde reikuaa 1930 mboyve.",Ha'e nonaséi 1943 peve.,contradiction
+Iporâitereíkuri upérô.,Oikuaaseterei mboýpa ikatu ho'u.,neutral
+Iporâitereíkuri upérô.,Ndoikuaaséi mba'evete.,"the relationship between the premise ""iporâitereíkuri upérô."" (it was very good then.) and the hypothesis ""ndoikuaaséi mba'evete."" (he/she doesn't want to know anything.) is 'neutral'. the premise and hypothesis discuss different topics without any direct connection that would imply entailment or contradiction."
+Iporâitereíkuri upérô.,Ahecha iporâha.,neutral
+Ikypy'y ikatu ohasa ipire morotîvaramo.,Ikypy'y pire iporâitevéva upe hóga jerépe.,neutral
+Ikypy'y ikatu ohasa ipire morotîvaramo.,Oñeimo'â ikypy'y ipire morotîha jepivéramo.,contradiction
+Ikypy'y ikatu ohasa ipire morotîvaramo.,Ikypy'y Sher heko ensuguy.,contradiction
+"Néi, itujaiterei, ikatu porâ itúva.",Ha'e 27 ary itujave chugui.,contradiction
+"Néi, itujaiterei, ikatu porâ itúva.",Ha'e imitâitereive chugui.,contradiction
+"Néi, itujaiterei, ikatu porâ itúva.",ha'e itujave chugui.,contradiction
+"Upéva, che upe 922 peteîmi kuimba'e ha'etéva ha ambue oykeko haĝuánte oî.",Avave noporopytyvôi.,contradiction
+"Upéva, che upe 922 peteîmi kuimba'e ha'etéva ha ambue oykeko haĝuánte oî.",Peteî kuimba'e oipytyvô fisiológico tropa-pe.,neutral
+"Upéva, che upe 922 peteîmi kuimba'e ha'etéva ha ambue oykeko haĝuánte oî.",Peteî kuimba'e oipytyvô fisiológico.,neutral
+"Cha ápe apensa outaha aponde'a reheve, nde reikuaa, onohê haĝua chendive, reikuaáma, cheja'o oimeramoguáicha ikatu amoambue.",Aikuaa ha'e ndoumo'âihavoi.,contradiction
+"Cha ápe apensa outaha aponde'a reheve, nde reikuaa, onohê haĝua chendive, reikuaáma, cheja'o oimeramoguáicha ikatu amoambue.",Aimo'â ouha oñorairô haĝua.,neutral
+"Cha ápe apensa outaha aponde'a reheve, nde reikuaa, onohê haĝua chendive, reikuaáma, cheja'o oimeramoguáicha ikatu amoambue.",Aimo'â ipochytaha che ñe'ê ryapu rehe.,neutral
+"Néi, Natekotevêi ja'e ndaikatuiha rojavy.","Oî porâ, rojavy mimi.",contradiction
+"Néi, Natekotevêi ja'e ndaikatuiha rojavy.",Ndojehejái oréve rojavývo.,contradiction
+"Néi, Natekotevêi ja'e ndaikatuiha rojavy.",Ndojehejái oréve romoñe'ê vai mba'evete.,contradiction
+"Ha, Nde! Aimo'âvaicha pyhare ndakeihague.",Ndaikatúi ake angepyhare.,entailment
+"Ha, Nde! Aimo'âvaicha pyhare ndakeihague.",Chekerajopy gueteri pyharekue ha ndaikatúi ake.,neutral
+"Ha, Nde! Aimo'âvaicha pyhare ndakeihague.",pyharekue ake mitâicha.,neutral
+Ha'e oreko mba'éichapa ojejokokuaa.,ha'e ipu'aka jagua ñarô rehe.,neutral
+Ha'e oreko mba'éichapa ojejokokuaa.,Ha'e ikatu oñedenfende porâ,entailment
+Ha'e oreko mba'éichapa ojejokokuaa.,Ha'e ikangyrasa.,neutral
+MMM.Ndoje'éi araka'eve.,Ha'e he'i chupe oikotevêva guive.,contradiction
+MMM.Ndoje'éi araka'eve.,Nde'íri chéve mba'evete mba'emba'épa ojereko ñeñangarereko rehegua.,entailment
+MMM.Ndoje'éi araka'eve.,Sapy'ánte nde'íri chéve.,neutral
+Upéicha rupi roiko ko'árupi.,Ore róga oîva'ekue ko'árupi,entailment
+Upéicha rupi roiko ko'árupi.,Ore róga namombyryva'ekue ko'águi.,neutral
+Upéicha rupi roiko ko'árupi.,Ore róga oî águi mokôi manzana.,neutral
+"Ha oñe'ê porâiterei, oñe'ê pumbyry rupive.",Oñe'ê mbeguekatu asy ikatu haguéicha.,neutral
+"Ha oñe'ê porâiterei, oñe'ê pumbyry rupive.",Oñe'ê peteî iPhone rupive.,neutral
+"Ha oñe'ê porâiterei, oñe'ê pumbyry rupive.",Oñe'ê pumbyry isâ'ÿva rupive.,contradiction
+"Ndaikatúi chemandu'a mba'épa oiko, katu chemoñeko'ôi sapy'a apensávo aha ñepyrû va'erâha mbo'ehaópe ha oiména upéva upe ára cheruguypochyve hague.",Ndajepy'apýi ahathaguére mbo'ehaópe.,contradiction
+"Ndaikatúi chemandu'a mba'épa oiko, katu chemoñeko'ôi sapy'a apensávo aha ñepyrû va'erâha mbo'ehaópe ha oiména upéva upe ára cheruguypochyve hague.",Chepy'apy ahava'erâha mbo'ehaópe.,entailment
+"Ndaikatúi chemandu'a mba'épa oiko, katu chemoñeko'ôi sapy'a apensávo aha ñepyrû va'erâha mbo'ehaópe ha oiména upéva upe ára cheruguypochyve hague.",Ajepy'apy ahava'erâgui mitânguéra ñehekombo'ehápe.,neutral
+"Eeee. Aiko St. Louis okára gotyo, Jefferson City ha St. Luois, MO mbyte rupi.",Aiko Texas-pe.,contradiction
+"Eeee. Aiko St. Louis okára gotyo, Jefferson City ha St. Luois, MO mbyte rupi.",Aiko peteî óga sa'yju Missouri-pe.,entailment
+"Eeee. Aiko St. Louis okára gotyo, Jefferson City ha St. Luois, MO mbyte rupi.",Aimékuri Missouri-pe.,entailment
+"Amomarandu'aínakuri peteî hendápe Del Rio ryepýpe upéi aha Laughlin Air Force Base-pe, ojeabri ramóvape.",Upe Base Aérea Laughlin oñemboty sapy'ákuri.,contradiction
+"Amomarandu'aínakuri peteî hendápe Del Rio ryepýpe upéi aha Laughlin Air Force Base-pe, ojeabri ramóvape.",Upe Base Aérea Laughlin noñembotýi araka'eve.,contradiction
+"Amomarandu'aínakuri peteî hendápe Del Rio ryepýpe upéi aha Laughlin Air Force Base-pe, ojeabri ramóvape.","Upe Base Aérea Laughlin-pe oiko 10,000 ñorairôhára.",neutral
+Chéve peteîchante rejapoháicha.,Mba'evete chéve mba'e sa'ýpa nde reiporavo.,neutral
+Chéve peteîchante rejapoháicha.,Tekotevê amoneî peteîteî umi ñe'ême'ê.,neutral
+Chéve peteîchante rejapoháicha.,Mba'evete chéve mba'éichapa remohu'â.,contradiction
+"Upéicha amaña yvatévo, ahecha moôpa oî Ramona ha upépe ahenói chupe.",Ahenói Ramona-pe che rógape.,contradiction
+"Upéicha amaña yvatévo, ahecha moôpa oî Ramona ha upépe ahenói chupe.",Ahenói Ramona-pe aikuaa haĝua moôpa oî.,entailment
+"Upéicha amaña yvatévo, ahecha moôpa oî Ramona ha upépe ahenói chupe.",Napenái Ramona rehe.,contradiction
+"Upe aja upe Fuerza Aérea ojogua SR71, ko'áĝa upe A-12, romba'apovaroína CIA ndive.",Fuerza Aérea ojogua 18 aviô.,neutral
+"Upe aja upe Fuerza Aérea ojogua SR71, ko'áĝa upe A-12, romba'apovaroína CIA ndive.",Fuerzas Aéreas ojogua aviôkuéra.,entailment
+"Upe aja upe Fuerza Aérea ojogua SR71, ko'áĝa upe A-12, romba'apovaroína CIA ndive.",Fuerza Aérea naiñaponde'ái.,entailment
+Upéicharamopiko ikypy'y ména ipiresa'i avei?,Ikypy'y omenda kuimba'e ipirehûva rehe.,contradiction
+Upéicharamopiko ikypy'y ména ipiresa'i avei?,Ipkypy'y omendáva.,entailment
+Upéicharamopiko ikypy'y ména ipiresa'i avei?,Ikypy'y nomendái.,contradiction
+"Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko.",Ha'e nomoambueiete heko.,contradiction
+"Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko.",Ha'e nde'íri ojavyha.,entailment
+"Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko.",HA'e nde'íri iñe'ênte avaleha upe so'o mbutukáre.,neutral
+"Che tio, karia'y vale.",Che tio ho'a porâiterei chéve.,neutral
+"Che tio, karia'y vale.",Che tio hovatavy.,neutral
+"Che tio, karia'y vale.",Che tio ipojeraiterei.,neutral
+Aha che kypy'y rógape oikóva pépe. Iména omba'apohína Upe Inteligencia ndive ha che aha hógape.,Che rovaja oî ejército-pe.,neutral
+Aha che kypy'y rógape oikóva pépe. Iména omba'apohína Upe Inteligencia ndive ha che aha hógape.,Che rovaja oî omba'apóva apytépe.,neutral
+Aha che kypy'y rógape oikóva pépe. Iména omba'apohína Upe Inteligencia ndive ha che aha hógape.,Che ryvy araka'eve noñembosako'íri.,neutral
+"Apensamiva'erâ. Néi, aha, ahejáta toho amuéva, katu upéi apensáta. Chedio!!",Aimo'â ohejáta oho ambuéva cherendaguépe.,contradiction
+"Apensamiva'erâ. Néi, aha, ahejáta toho amuéva, katu upéi apensáta. Chedio!!",Aimo'â ohejáta ambuévape oike che rendaguépe upe atyhápe.,contradiction
+"Apensamiva'erâ. Néi, aha, ahejáta toho amuéva, katu upéi apensáta. Chedio!!",Ndohejamo'âi avavépe ohovévo.,contradiction
+"Sapy'ánte ombota hatâ upe imesa ha upemi rire oî porâ jeýma, ejagarra che meságui, da, da, da, da, da,",Py'ÿi iñambue hemimo'â.,neutral
+"Sapy'ánte ombota hatâ upe imesa ha upemi rire oî porâ jeýma, ejagarra che meságui, da, da, da, da, da,",Hemimo'â iñambue ndoikaái ruipi upe ojapóva.,neutral
+"Sapy'ánte ombota hatâ upe imesa ha upemi rire oî porâ jeýma, ejagarra che meságui, da, da, da, da, da,",Ha'e hemimo'â peteî ha ipy'aguapy.,neutral
+"Néi, oimeháicha, oike upépe ha oî ku péicha: Mba'eteko jaha hese?",Oporandu mba'éichapa oî umi mba'e.,neutral
+"Néi, oimeháicha, oike upépe ha oî ku péicha: Mba'eteko jaha hese?",Oporandu romohu'âpa rohóvo upe documental.,neutral
+"Néi, oimeháicha, oike upépe ha oî ku péicha: Mba'eteko jaha hese?",Ha'e noñe'êiete oréve.,contradiction
+"Upéi ombojere che rueda, ndaikuaái amalisia upe ara pukukue.",Cheraĝe ha amohu'â pya'e porâ,neutral
+"Upéi ombojere che rueda, ndaikuaái amalisia upe ara pukukue.",Aguapy upepe mokôi aravo aja.,neutral
+"Upéi ombojere che rueda, ndaikuaái amalisia upe ara pukukue.",Ambojere upe rueda areterei.,contradiction
+Ha'e imba'asypo'i ha che ndaikuaáikuri avei upéva.,Ndaikuaáikuri haimete omanohague mba'asypo'ígui.,neutral
+Ha'e imba'asypo'i ha che ndaikuaáikuri avei upéva.,ndaikuaáikuri imba'asypo'ihague.,entailment
+Ha'e imba'asypo'i ha che ndaikuaáikuri avei upéva.,Aikuaákuri imba'asypo'ihague.,contradiction
+"Reikuaa, ndaikatúi, ndaikatúi reikovévo ndererekóiramo contrapresión, ohupíva nde pytuhê presión amo yvate.",Upe techaukaha presión ndejuka opaite aravo.,contradiction
+"Reikuaa, ndaikatúi, ndaikatúi reikovévo ndererekóiramo contrapresión, ohupíva nde pytuhê presión amo yvate.",Reikotevê contrapesión hetave 5000 pýgui.,contradiction
+"Reikuaa, ndaikatúi, ndaikatúi reikovévo ndererekóiramo contrapresión, ohupíva nde pytuhê presión amo yvate.",Reikotevê contrapesión amo yvate mombyry.,contradiction
+"Añepyrû upepete voi, añembokatupyrývo umi mokôi mitâkaria'y oîva upépe ndive.",Araka'eve nañembokatupyrýi amba'apo haĝua upe ñemuhápe.,contradiction
+"Añepyrû upepete voi, añembokatupyrývo umi mokôi mitâkaria'y oîva upépe ndive.",Mokôi karia'y chembokatupyry amba'apo haĝua upe ñemuhápe.,neutral
+"Añepyrû upepete voi, añembokatupyrývo umi mokôi mitâkaria'y oîva upépe ndive.",Mokôi che tio chembokatupyry.,neutral
+"Oiméramo kytomi, tekotevê remyatyrô upe regulador.",Regulador ndoikói mba'everâ.,contradiction
+"Oiméramo kytomi, tekotevê remyatyrô upe regulador.",Regulador omomabueva'erâ presión oîva nde ao pyrusúpe.,neutral
+"Oiméramo kytomi, tekotevê remyatyrô upe regulador.",Rehugava'erâ upe regulador rehe.,entailment
+"Ooo, chemi upe 922 omoîva inyección upe regulador-pe",Amoîkuri inyector upe araapy.,neutral
+"Ooo, chemi upe 922 omoîva inyección upe regulador-pe",Che peteî 922.,contradiction
+"Ooo, chemi upe 922 omoîva inyección upe regulador-pe",Che máro ndaha'éi 922.,contradiction
+"Ndontendéi mba'eve upe ñemenda oikóvagui, ndoikuaái ni omendahague, añete.",Ha'e nontendéi ojepykua ha ojepokuaaha upe karia'y ndive ara paha peve jepe ndoikuaái chupe upe mboyve.,entailment
+"Ndontendéi mba'eve upe ñemenda oikóvagui, ndoikuaái ni omendahague, añete.",Nontendéi mba'épa oiko.,entailment
+"Ndontendéi mba'eve upe ñemenda oikóvagui, ndoikuaái ni omendahague, añete.",Oikuaa mba'épepa oike.,contradiction
+Ore roikeva'erâ upépe.,Romeva'erâ upépe 20 aravo jave.,neutral
+Ore roikeva'erâ upépe.,Roikeva'erâ.,entailment
+Ore roikeva'erâ upépe.,Araka'eve ndoroikemo'âi.,contradiction
+"Ha'ete ku omboykéva ha'ehaguére upe ha'éva, nde reikuaa, ojekuaa upe mba'éichapa oreko ambue hemiarirôme rupi.",Ha'e omopeteîmba chupekuéra.,neutral
+"Ha'ete ku omboykéva ha'ehaguére upe ha'éva, nde reikuaa, ojekuaa upe mba'éichapa oreko ambue hemiarirôme rupi.",Ambue hemiarirô rehe opena ambue.,neutral
+"Ha'ete ku omboykéva ha'ehaguére upe ha'éva, nde reikuaa, ojekuaa upe mba'éichapa oreko ambue hemiarirôme rupi.",Ambue hemiarirô rehe opena ambue hûhaguére.,neutral
+Puréte! Isái veve ivytu rupi.,Isái oveve yvytu ndive.,entailment
+Puréte! Isái veve ivytu rupi.,Isái mbyky ha oveve'imi.,neutral
+Puréte! Isái veve ivytu rupi.,"Ndaijyvytúi, upéicha rupi isái opytaite.",contradiction
+"Ooo. Heta ára ahasa ko'â mba'épe, tembiapo iporavopyrépe.",Aime umi tembiapo iporavopyrépe mokôi ára ñavo.,neutral
+"Ooo. Heta ára ahasa ko'â mba'épe, tembiapo iporavopyrépe.",Che aime tembiapo jeporavopyrépe.,entailment
+"Ooo. Heta ára ahasa ko'â mba'épe, tembiapo iporavopyrépe.",Naiméiva tembiapo jeporavopyrépe.,contradiction
+"Katu,… oiko hikuái peteî tava'i oîva Augusta oka gotyo hérava Evans, oîva gueteri. Areko gueteri che pehênguekuéra oikóva upápe.",Areko 20 che pehênguekuéra oikova'ekue Evans-pe.,neutral
+"Katu,… oiko hikuái peteî tava'i oîva Augusta oka gotyo hérava Evans, oîva gueteri. Areko gueteri che pehênguekuéra oikóva upápe.",Oikova'ekue Atlanta-pe.,contradiction
+"Katu,… oiko hikuái peteî tava'i oîva Augusta oka gotyo hérava Evans, oîva gueteri. Areko gueteri che pehênguekuéra oikóva upápe.","Oikova'ekue Evans-pe, michîmíva.",entailment
+"Che kypy'y he'i gueteri, he'i: sapy'ánte ñande jarýicha, reporoja'oparei hendape'ÿ.",Che kypy'y he'i ha'e oporomboykeha te'ýi rehe.,neutral
+"Che kypy'y he'i gueteri, he'i: sapy'ánte ñande jarýicha, reporoja'oparei hendape'ÿ.",Che kypy'y he'i nameméi cheroryha.,contradiction
+"Che kypy'y he'i gueteri, he'i: sapy'ánte ñande jarýicha, reporoja'oparei hendape'ÿ.",Che kypy'y he'i mba'evépe ndajoguaiha che jarýipe.,neutral
+"Mmm, upe rire rova ore roga pyahúpe.",Rova peteî ógape rojapova'ekue upe tetâme.,neutral
+"Mmm, upe rire rova ore roga pyahúpe.",Rova peteî oga pyahúpe.,entailment
+"Mmm, upe rire rova ore roga pyahúpe.",Ropyta upe ógape ore rekove pukukue.,contradiction
+"Che aime ja'e… néi, …, upéva oî porâ, reikuaa, upéicha.",Ha'e ndacha'eiha hese ha ajeguaru chugui.,contradiction
+"Che aime ja'e… néi, …, upéva oî porâ, reikuaa, upéicha.",Ha'e chupe iporâitereiha chéve upe purahéi pyahu.,neutral
+"Che aime ja'e… néi, …, upéva oî porâ, reikuaa, upéicha.",Ha'éma chupekuéra amoneîha.,neutral
+"Upe pintura sa'y iñambue ohupyty jave 100º ha ikatu ohasa pytâgui hovýpe, upéva hechapyrâ.",Upe pintura omoambue isa'y.,entailment
+"Upe pintura sa'y iñambue ohupyty jave 100º ha ikatu ohasa pytâgui hovýpe, upéva hechapyrâ.",Upe pintura omoambue isa'y jaikuaa haĝua mba'éichapa haku ñaha'â'ÿre..,entailment
+"Upe pintura sa'y iñambue ohupyty jave 100º ha ikatu ohasa pytâgui hovýpe, upéva hechapyrâ.",Upe pintura akói hû.,contradiction
+Akaru pya'eterei ikatuhaguéicha ha upéi oike ha'e ha che chepytyvô upévape.,Ha'u upe pizza mokôi aravo'ípe.,neutral
+Akaru pya'eterei ikatuhaguéicha ha upéi oike ha'e ha che chepytyvô upévape.,Akaru mbeguekatu asy ani haĝua cherasy.,contradiction
+Akaru pya'eterei ikatuhaguéicha ha upéi oike ha'e ha che chepytyvô upévape.,Amokokô upe tembi'u.,neutral
+Ykypy'y ména avei ipire sa'i.,Hovaja ipiresa'i.,neutral
+Ykypy'y ména avei ipire sa'i.,hovaja sueco.,neutral
+Ykypy'y ména avei ipire sa'i.,Ikypy'y nomendái.,contradiction
+"Opáichavo, oñantoha chupekuéra kóva ojapo ko O2 regulador yvate.",Ha'ekuéra ojapo peteî regulador pyahu.,neutral
+"Opáichavo, oñantoha chupekuéra kóva ojapo ko O2 regulador yvate.",Ojapo hikuái peteî regulador oikóva ára yvatépe.,neutral
+"Opáichavo, oñantoha chupekuéra kóva ojapo ko O2 regulador yvate.",Ndoikuaái gueteri mba'éichapa ojejapo oxígeno regulador.,neutral
+"Ha upéramo, rova Las Vegas-pe NY ha amombe'u, upéicha ajapohaguéicha Washington-pe, peteî óga renda Las Vegas centro-pe.",Ndaháiva Las Vegas-pe.,contradiction
+"Ha upéramo, rova Las Vegas-pe NY ha amombe'u, upéicha ajapohaguéicha Washington-pe, peteî óga renda Las Vegas centro-pe.",Amba'apo Las Vegas ha Washington-pe.,neutral
+"Ha upéramo, rova Las Vegas-pe NY ha amombe'u, upéicha ajapohaguéicha Washington-pe, peteî óga renda Las Vegas centro-pe.",Amba'apo texista ramo mokôive távape.,neutral
+"Héê, 4º-pe rovy'aiterei.",Ndahcha'éi mbo'ehao rehe.,neutral
+"Héê, 4º-pe rovy'aiterei.",Ahayhu 4º-pe mokôi jey rosê ropytu'u.,neutral
+"Héê, 4º-pe rovy'aiterei.",Ahayhu mbo'esyry irundyha.,neutral
+Ha'ete peteî ñongatuha hopea hetáva. Reikuaáma. Peteîteî umi hopea ryepýpe orereko ha'ete peteî kuatia rogue ojekalkulaha iñambuéva ojuehegui.,Upe kuatia rogué niko papapy rysýinte.,contradiction
+Ha'ete peteî ñongatuha hopea hetáva. Reikuaáma. Peteîteî umi hopea ryepýpe orereko ha'ete peteî kuatia rogue ojekalkulaha iñambuéva ojuehegui.,Umi tabulaciones oreko heta marandu.,entailment
+Ha'ete peteî ñongatuha hopea hetáva. Reikuaáma. Peteîteî umi hopea ryepýpe orereko ha'ete peteî kuatia rogue ojekalkulaha iñambuéva ojuehegui.,Umi hopea ohechauka mboýva oñondivepa ko'áĝa umi kuénta.,neutral
+Mba'evete chéve mba'éichapa rejapo.,Mba'evete chéve ndete rejaporamo térâpa repaga rejapouka haĝua.,contradiction
+Mba'evete chéve mba'éichapa rejapo.,Mba'evete chéve upe hembiapo reko.,entailment
+Mba'evete chéve mba'éichapa rejapo.,Aikuaase mba'eichaitépa rejapóta ko mba'e.,neutral
+"Ovakuri Mallard Creek, Charlotte-pe.",Ojapo hogarâ Mallord Creek-pe.,contradiction
+"Ovakuri Mallard Creek, Charlotte-pe.",Araka'eve ndovái hikuái Charlotte-pe.,contradiction
+"Ovakuri Mallard Creek, Charlotte-pe.",Upéi oiko hikuái Mallard Creek-pe.,entailment
+"Upépe ha'e, …, ha'e tetâ remimoîmby motenondeha ra'y, upéicha rupi ha'e oreko, ha'ekuéra oreko heta mba'e ha ambue mba'eve ha ojokupyty porâ umi tavaygua ndive, ha ojehayhurasa.",Itúva pastor luterano.,neutral
+"Upépe ha'e, …, ha'e tetâ remimoîmby motenondeha ra'y, upéicha rupi ha'e oreko, ha'ekuéra oreko heta mba'e ha ambue mba'eve ha ojokupyty porâ umi tavaygua ndive, ha ojehayhurasa.",Itúva niko presokue araka'eve oho'ÿva tupâópe.,neutral
+"Upépe ha'e, …, ha'e tetâ remimoîmby motenondeha ra'y, upéicha rupi ha'e oreko, ha'ekuéra oreko heta mba'e ha ambue mba'eve ha ojokupyty porâ umi tavaygua ndive, ha ojehayhurasa.",Itúva pastor.,neutral
+"Chéniko, ndaikuaái mba'éichaitépa oipota oñembyesa'i.",Ndaikuaaái ha'épa oipota umimarandu ñesê rehegua aravo.,contradiction
+"Chéniko, ndaikuaái mba'éichaitépa oipota oñembyesa'i.",Ndaikuaaporâi mboýpa ha'e oipota hupy.,neutral
+"Chéniko, ndaikuaái mba'éichaitépa oipota oñembyesa'i.",Ndaikuaaporâi mboýpa hypyva'erâ.,neutral
+"Ha, mm, iñambue, peteîteî umi ñemuhára-pe oîmbaite ikuatiakuéra.",HA'ekuéra ndorekói ñongatuha.,contradiction
+"Ha, mm, iñambue, peteîteî umi ñemuhára-pe oîmbaite ikuatiakuéra.",Oñongatupaite marandu.,neutral
+"Ha, mm, iñambue, peteîteî umi ñemuhára-pe oîmbaite ikuatiakuéra.",Oñongatu umi kuatia pohânohára ha pysyryhára rehegua oñondive.,neutral
+"kóva mbykyve, upe ha'e ome'êva'ekue chéve ombyesa'ipave ha ijetu'uve, ko mokôiha hesakâve.",Ha'e ome'ê chéve mokôi hendáicha.,neutral
+"kóva mbykyve, upe ha'e ome'êva'ekue chéve ombyesa'ipave ha ijetu'uve, ko mokôiha hesakâve.",Ha'e ome'ê chéve mokôi tembiaporâ ha ché apyta upe hakâ sa'íva rehe.,neutral
+"kóva mbykyve, upe ha'e ome'êva'ekue chéve ombyesa'ipave ha ijetu'uve, ko mokôiha hesakâve.",Ha'e ome'ê chéve peteî hendaichaguánte ha opyta chéve líno sa'imi.,neutral
+"Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái.",Augusta oreko 10.000 tapicha.,neutral
+"Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái.","Augusta, táva ndatuichaitéiva.",entailment
+"Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái.",Oiko hikuái Augusta korasôitépe.,contradiction
+"1962 paha gotyo, oje'e chéve yvaté guivo ahava'erâha Washington-pe.",He'i chéve aha haĝua DC-pe.,entailment
+"1962 paha gotyo, oje'e chéve yvaté guivo ahava'erâha Washington-pe.",Ejército chemondo DC-pe upepete.,contradiction
+"1962 paha gotyo, oje'e chéve yvaté guivo ahava'erâha Washington-pe.",He'i chéve aha haĝua Africa-pe.,contradiction
+"DOT ojagarraramoguare ijyvyrâ, rova peteî tenda michîvévape Concord-pe, upépe ndojehejái ojereko mymba oñemboja'o rupi mba'e mba'érâmbo, ha upé guive opa mymba jereko.",Ore róga Concord-pe ndaikatúi orerymbávo.,entailment
+"DOT ojagarraramoguare ijyvyrâ, rova peteî tenda michîvévape Concord-pe, upépe ndojehejái ojereko mymba oñemboja'o rupi mba'e mba'érâmbo, ha upé guive opa mymba jereko.",Ore róga Concord-pe otroko 30000 acres ha hetaiterei orerymba.,contradiction
+"DOT ojagarraramoguare ijyvyrâ, rova peteî tenda michîvévape Concord-pe, upépe ndojehejái ojereko mymba oñemboja'o rupi mba'e mba'érâmbo, ha upé guive opa mymba jereko.",Rome'êmbaite ore rymba rovávo Concord-pe.,contradiction
+"Oimeháicha, rojepyso, ha ko'áĝa ha'ekuaa ko mab'e káusa rojepysohague Kadina, Oikinawa-pe, upéva 1968-pe.",Roipyso ore mbaretekue 1968-pe.,entailment
+"Oimeháicha, rojepyso, ha ko'áĝa ha'ekuaa ko mab'e káusa rojepysohague Kadina, Oikinawa-pe, upéva 1968-pe.",Ndoroipysói avavépe.,contradiction
+"Oimeháicha, rojepyso, ha ko'áĝa ha'ekuaa ko mab'e káusa rojepysohague Kadina, Oikinawa-pe, upéva 1968-pe.",Romondo ore tropa Japón-pe jasypoteîme 1968-pe,contradiction
+He'ichéve mba'etépa oikotevê ha oikotevêha ko árape ĝuarâ.,He'i chéve ikatuha amoĝuahê ikatu vove.,neutral
+He'ichéve mba'etépa oikotevê ha oikotevêha ko árape ĝuarâ.,He'i chéve arekoha 14:00 aravo peve ajapopa haĝua upe apopyrâ.,neutral
+He'ichéve mba'etépa oikotevê ha oikotevêha ko árape ĝuarâ.,He'i chéve pya'eva'erâha.,neutral
+Ohómakuri ha he’i chéve ani haĝua ajepy’apy.,He’i chéeve aikuaava’erâha mbo'ehao iporâtaha.,neutral
+Ohómakuri ha he’i chéve ani haĝua ajepy’apy.,He’i ani haĝua ajepy’apy.,entailment
+Ohómakuri ha he’i chéve ani haĝua ajepy’apy.,He’i oĝuahêha aravo jakyhyje haĝua.,contradiction
+"Péva ha’e, eikuaáma, emaña, neapañuâima.",Reime en peligro.,neutral
+"Péva ha’e, eikuaáma, emaña, neapañuâima.",Reime porâta.,neutral
+"Péva ha’e, eikuaáma, emaña, neapañuâima.",Ikatu reñemosê ko tetâgui.,neutral
+"Amo ipahápe che sy ndaha’éikuri ojehayhupáva iñepyrûrâ, péicha oñemondo chupe omba’apo haĝua ñúre, katu ambue mitânguéra nomba’apói hikuái ñúre.",Che sy omano'ôva’ekue avati ha mandyju.,neutral
+"Amo ipahápe che sy ndaha’éikuri ojehayhupáva iñepyrûrâ, péicha oñemondo chupe omba’apo haĝua ñúre, katu ambue mitânguéra nomba’apói hikuái ñúre.","Che sy, mitakuña itajuva’ekue upévare nomba’apóiva.",contradiction
+"Amo ipahápe che sy ndaha’éikuri ojehayhupáva iñepyrûrâ, péicha oñemondo chupe omba’apo haĝua ñúre, katu ambue mitânguéra nomba’apói hikuái ñúre.","Che sy, omba’apova’ekue okape.",entailment
+"Ha reikuaa, ipahápe reikuaa, mba’épa oñeporandu tapichakuérape, peteîva ha ambuévape. Ha avave ndoikuaái moôpa oî, ha peichaháguinte, reikuaa, oiko porâjey ndohechamo'âvéipype Joe-pe.",Joe añoite oreko upe koty pytu’uha okenda. .,neutral
+"Ha reikuaa, ipahápe reikuaa, mba’épa oñeporandu tapichakuérape, peteîva ha ambuévape. Ha avave ndoikuaái moôpa oî, ha peichaháguinte, reikuaa, oiko porâjey ndohechamo'âvéipype Joe-pe.","Jepe roñeha’â heta, ndaikatúi rojei Joe-gui, ndaorerejái pytu'uhápe.",neutral
+"Ha reikuaa, ipahápe reikuaa, mba’épa oñeporandu tapichakuérape, peteîva ha ambuévape. Ha avave ndoikuaái moôpa oî, ha peichaháguinte, reikuaa, oiko porâjey ndohechamo'âvéipype Joe-pe.",Peteî árape Joe oho ha avave ndoikuaái moôpa.,entailment
+Ha’e peême che reindy mba’eha.,Amboja che reindýre.,neutral
+Ha’e peême che reindy mba’eha.,Ha’e che mba’eha.,contradiction
+Ha’e peême che reindy mba’eha.,Ha’e peême pe jagua che reindy mba’eha.,entailment
+"Ha upéi isy he’i chupe, isy ojayvy tenonde gotyo, omaña ha he’i, eguata ha'éicha.",Ha’e he’i isy avei oguataha ipysâ akâ rehe.,contradiction
+"Ha upéi isy he’i chupe, isy ojayvy tenonde gotyo, omaña ha he’i, eguata ha'éicha.",Ha’e he'i isy oguataha ha'eichaite.,entailment
+"Ha upéi isy he’i chupe, isy ojayvy tenonde gotyo, omaña ha he’i, eguata ha'éicha.",He'i isyhasyha ha ndaikatuiha oguata.,contradiction
+"reikuaa, ha'e omyenyhê umi yvoty rope amoite ha che ndaikuaái mba'épa oiko.",Ndoikuaáikuri hasyetétaha.,neutral
+"reikuaa, ha'e omyenyhê umi yvoty rope amoite ha che ndaikuaái mba'épa oiko.",Ndoikuaai mba’epa ojejuhútava chupe.,neutral
+"reikuaa, ha'e omyenyhê umi yvoty rope amoite ha che ndaikuaái mba'épa oiko.",Aikuaa mba'épa oikóta ha'e ojaporamoguare upéva.,contradiction
+Aaa. Ambue ojehúva upépe ikatúva iporâ umi che reindy mandu'a ñepyrû ha upe korapy okupe.,Nachemandu’ái upe óga rehe.,contradiction
+Aaa. Ambue ojehúva upépe ikatúva iporâ umi che reindy mandu'a ñepyrû ha upe korapy okupe.,Chemandu’a amono'ôramoguare margarita óga kupépe.,neutral
+Aaa. Ambue ojehúva upépe ikatúva iporâ umi che reindy mandu'a ñepyrû ha upe korapy okupe.,Chemandu'a upe oikova'ekue okupépe.,entailment
+"Ha upéichako, akârasy memete, ja'ekuaa ko árape arekopaite mba'érepa cheakârasy haĝua, nde nereikuaái mba'éichapa ojejapo peteî mba'e ha he'i ndéve hikuái: péina, ejapo.",Ndaikuaái mba'éichapa ajapóta upe tembiapo oñeme'êva chéve ko árape.,entailment
+"Ha upéichako, akârasy memete, ja'ekuaa ko árape arekopaite mba'érepa cheakârasy haĝua, nde nereikuaái mba'éichapa ojejapo peteî mba'e ha he'i ndéve hikuái: péina, ejapo.","Oje'e chéve amoambue haĝua peteî fusible mba'apohápe, che ndaikuaái mba'evete vera cable-kuéra rehegua.",neutral
+"Ha upéichako, akârasy memete, ja'ekuaa ko árape arekopaite mba'érepa cheakârasy haĝua, nde nereikuaái mba'éichapa ojejapo peteî mba'e ha he'i ndéve hikuái: péina, ejapo.",Ko árape ojerure cheve ajapo haĝua tembiapo che katupyrývape.,neutral
+"Ha péicha ko’áĝa, ápe oî, oipota ko árape.",He’i ikatuha ohupyty oipota vove.,neutral
+"Ha péicha ko’áĝa, ápe oî, oipota ko árape.",He’i hi’âva’erâha ohupyty ko árape.,neutral
+"Ha péicha ko’áĝa, ápe oî, oipota ko árape.",He’i hi’âva’erâha oguereko upe apopyrâ ko ka'aru papokôi aravo mboyve.,neutral
+"Ha rovajey, rombaysýramojepe.",Rova ambue árape.,neutral
+"Ha rovajey, rombaysýramojepe.",Rova ambue távape 1992-pe.,neutral
+"Ha rovajey, rombaysýramojepe.",Upe rire ndorovavéima araka’eve.,contradiction
+"Ndaikuaaporâi kuñakarai Faulk-pe, ha’e oreko 80 ary, kuña ndepy’aporâva, ahecháva chupe sapy’apy’a, katu ipochyeterei upévare.","Ahecha kuñakarai Faulk-pe sapy’apy’a, katu ndaikuaporâi chupe.",entailment
+"Ndaikuaaporâi kuñakarai Faulk-pe, ha’e oreko 80 ary, kuña ndepy’aporâva, ahecháva chupe sapy’apy’a, katu ipochyeterei upévare.","Che,... Ña Faulk angirûetékuri.",contradiction
+"Ndaikuaaporâi kuñakarai Faulk-pe, ha’e oreko 80 ary, kuña ndepy’aporâva, ahecháva chupe sapy’apy’a, katu ipochyeterei upévare.",Ña Faulk omboguata peteî HONDA sa’yju ára ha ára oho haĝua omba’apo.,neutral
+"Roikova'ekue Mallard Creek 85-pe, ko’áĝa upéva 485, rova rupi upépe.",Roikova'ekue upépe upe óga hovykýpe,neutral
+"Roikova'ekue Mallard Creek 85-pe, ko’áĝa upéva 485, rova rupi upépe.",Roikova'ekue upépe are.,entailment
+"Roikova'ekue Mallard Creek 85-pe, ko’áĝa upéva 485, rova rupi upépe.",Upépe roiko mokôi arapokôinte.,contradiction
+"Che irû, ha’ete ku heko mokôiva.",Ipirevaihínakuri.,neutral
+"Che irû, ha’ete ku heko mokôiva.",Che ruvicha ovy’aiterei térâ itavyrai.,contradiction
+"Che irû, ha’ete ku heko mokôiva.",Che ruvicha iñe'êkangymi ha iñe'êpeteîva.,neutral
+"Ha’e itujaitereíma, ikatu che ru.",Ha’e ningo 27 ary itujave chehegui.,contradiction
+"Ha’e itujaitereíma, ikatu che ru.",Ha’e imitâiteve chehegui.,contradiction
+"Ha’e itujaitereíma, ikatu che ru.",Ha’e itujave chehegui.,entailment
+"Ojoapypániko, ha ñandejára! naikuaái mboy áranera'e.",Ndaikuaái mboy árapa oikovéne.,neutral
+"Ojoapypániko, ha ñandejára! naikuaái mboy áranera'e.",Ndaikuaái mboy árapa oikovéne upe tembiasakue.,entailment
+"Ojoapypániko, ha ñandejára! naikuaái mboy áranera'e.",Aikuaa orekoha 4 py (10cm) ipukukue.,neutral
+"Ko'áĝa ni ndavy’ái oîhaguére upépe, cheakârasyeterei rupi.",Che avy’a ha aime porâiterei.,contradiction
+"Ko'áĝa ni ndavy’ái oîhaguére upépe, cheakârasyeterei rupi.",Che py’a perereterei avy’a haĝua ha'e ouhaguére hi'ára mboyve.,neutral
+"Ko'áĝa ni ndavy’ái oîhaguére upépe, cheakârasyeterei rupi.",Che py’a pererepa avy'aségui ha'e oîhaguére upépe.,contradiction
+ha heta umíva umi mba'e oik isy ndaikatúi rupi oiko droga'ÿre.,Umi sykuéra niko drogadicta.,contradiction
+ha heta umíva umi mba'e oik isy ndaikatúi rupi oiko droga'ÿre.,Umi sy niko ndo'úi oje'éva chupekuéra ni pohâ,entailment
+ha heta umíva umi mba'e oik isy ndaikatúi rupi oiko droga'ÿre.,Umi sy ho'u pohâ vai /droga,contradiction
+"Hêe, añetehápe hory, okýra'e.",Ama ndachejokói,contradiction
+"Hêe, añetehápe hory, okýra'e.",Iporâ ha amangy.,contradiction
+"Hêe, añetehápe hory, okýra'e.",Ivaiete ko kuarahy resape tapia.,contradiction
+"Oooo, mba'épa ovale yvypóra rekove, ikatúnepa terâpa ndaikatúi jagueroikove peteî tapicha.",Opaite tekoveniko ikatu jagueroikove ha iporâ ijurujamijo'a chupe.,contradiction
+"Oooo, mba'épa ovale yvypóra rekove, ikatúnepa terâpa ndaikatúi jagueroikove peteî tapicha.",Yvypóra naiporâi jagueroikovévo.,contradiction
+"Oooo, mba'épa ovale yvypóra rekove, ikatúnepa terâpa ndaikatúi jagueroikove peteî tapicha.",Oiko ha oiko'ÿme jeguaroikove niko ñande rekove iporâ.,neutral
+"Nde, mitâ, péina ápe apañuái cableado rehegua namemái oikóva.",Ndahechavái peichagua apañuâi cableado rehegua.,contradiction
+"Nde, mitâ, péina ápe apañuái cableado rehegua namemái oikóva.",Pe cableado ndaha’éi apañuâi.,contradiction
+"Nde, mitâ, péina ápe apañuái cableado rehegua namemái oikóva.","Oî peteî apañuâi, pokâ ojehecháva cableado rehegua.",entailment
+"Ipu kyre'ÿeterei, héê, mboy mba'épiko oheja hikuái ojejapo.",Ndahecharamoiete ikangyhaguére hikuái.,contradiction
+"Ipu kyre'ÿeterei, héê, mboy mba'épiko oheja hikuái ojejapo.",Ahecharamo ohejaha ndéve reike hi'upy ha ñemboy'urâ reheve.,neutral
+"Ipu kyre'ÿeterei, héê, mboy mba'épiko oheja hikuái ojejapo.",Chemondýi mba'emab'épa pehpyty.,neutral
+"héê, upeichaite, ha'ese reñembosako'ipávo, tembiapoita upéva he'iséva reheve, ikatu reho reputu'u Club Med ha ojehepyme'êmba'itéta ndéve.",Ohupyty 2000$ rejoguava'erâ.,neutral
+"héê, upeichaite, ha'ese reñembosako'ipávo, tembiapoita upéva he'iséva reheve, ikatu reho reputu'u Club Med ha ojehepyme'êmba'itéta ndéve.",Hepyeterei ñañemonde haĝua.,neutral
+"héê, upeichaite, ha'ese reñembosako'ipávo, tembiapoita upéva he'iséva reheve, ikatu reho reputu'u Club Med ha ojehepyme'êmba'itéta ndéve.",Ndahepyiete ñañemonde.,neutral
+"Ooo, opáichavo, che membykuéra 21 ha 24 ary orekóva, ndaikatúi….","Natekotevéi, che membykuéra ohasáma rupi 20 ary.",entailment
+"Ooo, opáichavo, che membykuéra 21 ha 24 ary orekóva, ndaikatúi….","Ajapomanteva'erâ, ohypytýma rupi ary.",neutral
+"Ooo, opáichavo, che membykuéra 21 ha 24 ary orekóva, ndaikatúi….","Ajapova’erâ, mokôivéva areko rupì pa ha pateî ary.",contradiction
+"oooo, kóvaniko,... Fresno.",Chereñói Fesno-pe.,neutral
+"oooo, kóvaniko,... Fresno.",Ndaikuaaporâi moôitépa kóva.,neutral
+"oooo, kóvaniko,... Fresno.","Fresno niko kóva, ha'e ndéve.",entailment
+"Héê, tapicha oîva'erâ hembiapohápe oimeha aravo térâ he'íva hikuái ikatuva'erâ ombotyai oime rire ha'é he'íta oikova'erâ.","Héê, tapicha ikatuva'erâ ndaha'éi he'i porâmbátava oikova'erâ.",entailment
+"Héê, tapicha oîva'erâ hembiapohápe oimeha aravo térâ he'íva hikuái ikatuva'erâ ombotyai oime rire ha'é he'íta oikova'erâ.","Héê, ikatu ko'â tapicha nda'ivare'ái.",neutral
+"Héê, tapicha oîva'erâ hembiapohápe oimeha aravo térâ he'íva hikuái ikatuva'erâ ombotyai oime rire ha'é he'íta oikova'erâ.","Héê, umi tapicha ikatupyrýva he'i haĝua ha márônte noñemyangekóiva.",neutral
+"Nahániri, oî gueteri okápe ojere oikóvo hikuái. Upéicha oî oka gotyo, ojere hikuái 70 paha guive.",Oî hikuái oka gotyo jerépe 70 paha guive.,entailment
+"Nahániri, oî gueteri okápe ojere oikóvo hikuái. Upéicha oî oka gotyo, ojere hikuái 70 paha guive.",Ojerese voi hikuái.,neutral
+"Nahániri, oî gueteri okápe ojere oikóvo hikuái. Upéicha oî oka gotyo, ojere hikuái 70 paha guive.",Ramoite ojerehague hikuái.,contradiction
+Mba'éichapa rejapóta aeróbico?,Ikatúpa eremi chéve mba'éichapa rejapóne aerobic?,neutral
+Mba'éichapa rejapóta aeróbico?,"Ajapose aerobic, tekotevê aku'e che korasô aipytyvô haĝua.",neutral
+Mba'éichapa rejapóta aeróbico?,"Ikatúpa, rekirirîmi, anive reñe'ê aerobic rehe.",contradiction
+"Néi, upéva iporâ, napensáikuri hese ikatuha.",Upéva upe idea niko amboykémakuri ambue arapokôime.,contradiction
+"Néi, upéva iporâ, napensáikuri hese ikatuha.",Kóva oî porâ,neutral
+"Néi, upéva iporâ, napensáikuri hese ikatuha.",Upe paradoja eréva oî porâiterei.,contradiction
+"Ñangarekoha mokôi aragua, ohenói hikuái tuja ha ĝuaiĝui ñeñangarekoha, katu ha'e oho upe otyarômava rendápe.",Upe mitâ renda oipe'â hokê opa ára mitâ imitâvéva po arýguipe ĝuarâ.,neutral
+"Ñangarekoha mokôi aragua, ohenói hikuái tuja ha ĝuaiĝui ñeñangarekoha, katu ha'e oho upe otyarômava rendápe.",Oheja hikuái oho hetave mokôijeýgui pe arapokôi ryepýpe umi tapicha otyarômava ikatúma guive.,neutral
+"Ñangarekoha mokôi aragua, ohenói hikuái tuja ha ĝuaiĝui ñeñangarekoha, katu ha'e oho upe otyarômava rendápe.","Oje'e hese tuja ha ĝuaiĝui ñeñangarekoha, katu héra otyarômava renda.",contradiction
+"upéva, upéva upe ohupytyséva.",Upéva rehe oñeha’âkuri hikuái.,entailment
+"upéva, upéva upe ohupytyséva.",Upéva niko ndoipotaiva’ekue hikuái.,contradiction
+"upéva, upéva upe ohupytyséva.",Ohupyty hikuái oha'arôva'ekue.,neutral
+Ejesareko mboka rehe he’ise reipuruva’erâha mokôivéva ipo.,Hetave umi ojavýva ojapikuévo mbokápe niko oiporúgui peteî ipónte.,neutral
+Ejesareko mboka rehe he’ise reipuruva’erâha mokôivéva ipo.,Ejesareko porâve haĝua mboka rehe reiporuva'erâ mokôive nde py.,contradiction
+Ejesareko mboka rehe he’ise reipuruva’erâha mokôivéva ipo.,Ejesarereko porâséramo mbokakuéra rehe reiporuva’erâ mokôivéva nde po,entailment
+"Ha péicha ousapy'a mamo guivombo, ndajaikuaaái moôguipa, katu, …","Ndaikuaái moôguipa ou, katu ipy’ae.",neutral
+"Ha péicha ousapy'a mamo guivombo, ndajaikuaaái moôguipa, katu, …","Ou py’ae, ha aikuaa moôguipa ou.",contradiction
+"Ha péicha ousapy'a mamo guivombo, ndajaikuaaái moôguipa, katu, …",Ou eíraicha ha aikuaa porâ araka’épa oúta.,neutral
+"Nahániri, añetehápe ndaikuaái chupe. Ndaikuaáichéne.",Ndaikuaái heta mba'e hesegua.,entailment
+"Nahániri, añetehápe ndaikuaái chupe. Ndaikuaáichéne.",Che ndaikuaái mba’eve mborayhúgui.,neutral
+"Nahániri, añetehápe ndaikuaái chupe. Ndaikuaáichéne.",Añemoarandu aikovohínakuri are.,neutral
+"Héê, nde reikuaa ha’e hetia’etereihague.",Cheverô ĝuarâ nde reikuaa ha'e oî porâitereihague,contradiction
+"Héê, nde reikuaa ha’e hetia’etereihague.","Nahániri, ha’e oî vaietereíkuri.",contradiction
+"Héê, nde reikuaa ha’e hetia’etereihague.","Héê, ha’e ipy’a porâiterei.",neutral
+"Héê, ha’e he’i ojejogua haĝua peteî mopotîha reiporukuaátava.",He’i ojejogua haĝua peteî aspiradora.,entailment
+"Héê, ha’e he’i ojejogua haĝua peteî mopotîha reiporukuaátava.",He’i ojejuhu haĝua peteî mopotîha.,neutral
+"Héê, ha’e he’i ojejogua haĝua peteî mopotîha reiporukuaátava.",Omopotîsékuri upe tuguy ao sorokuépe.,neutral
+"ko’ápe añetehápe ivaipaite opa mba’e, namombyryiete ore rógagui oñembokapu tapetépe.",Upe ñembokapu namombyryetéi aikohágui.,entailment
+"ko’ápe añetehápe ivaipaite opa mba’e, namombyryiete ore rógagui oñembokapu tapetépe.",Upe ñembokapu namombyryetéi ógagui ha akyhyje asê haĝua.,entailment
+"ko’ápe añetehápe ivaipaite opa mba’e, namombyryiete ore rógagui oñembokapu tapetépe.","Ñembokapu oiko che róga ypýpe, naiporâiete árupi.",entailment
+"Upéva añetehápe nda'upéichai, ooo naimbaretéi.","Naiméi nendive, iñe'êjojaitereiniko.",neutral
+"Upéva añetehápe nda'upéichai, ooo naimbaretéi.",Chéverô ĝuarâ ere porâ upe iñe'êjoja rehegua.,neutral
+"Upéva añetehápe nda'upéichai, ooo naimbaretéi.",Ere porâ naiñe'êjojaiha.,contradiction
+Añeha’âmbaite chepu'aka haĝua upépe.,Añeha'â añakarama hese.,neutral
+Añeha’âmbaite chepu'aka haĝua upépe.,Añetehápe añeha'â ajapo ikatumíva.,entailment
+Añeha’âmbaite chepu'aka haĝua upépe.,Ahejáta oho ha márô namañamo'âi cherapykuévo.,neutral
+"Héê, mba'eichagua jaguara'ýpa rereko?",Nde jaguaraýpiko iporâ?,neutral
+"Héê, mba'eichagua jaguara'ýpa rereko?",Mba'eichagua mbarakajápiko rejuhu?,neutral
+"Héê, mba'eichagua jaguara'ýpa rereko?",Mba'eichagua jagua ta'yrusúpa rereko?,neutral
+"Néi, erékuri ndera'yha, mboýpa?",Mboýpa ndera'y?,neutral
+"Néi, erékuri ndera'yha, mboýpa?",Ambyasy ndachera'yiha.,contradiction
+"Néi, erékuri ndera'yha, mboýpa?","Ere ndera'yha, Mboy arýpiko oreko hikuái?",neutral
+"Oiméne ndaha'éi tapicha iñarandupavéva ko yvórape, katu, ehendumi, horyrasa, ha upéva, …oñatende umi tapicha oñemoaranduséva rehe.","Oiméne ndaha'éi tapicha iñarandupavéva ko yvórape, katu horyrasa, ha ojepy'apy umi oñemoaranduséva rehe.",entailment
+"Oiméne ndaha'éi tapicha iñarandupavéva ko yvórape, katu, ehendumi, horyrasa, ha upéva, …oñatende umi tapicha oñemoaranduséva rehe.","Iñarandu hikuái, katu oñembotavyete oî jave ambue oikuaa'ÿ ichupekuéra ypýpe.",neutral
+"Oiméne ndaha'éi tapicha iñarandupavéva ko yvórape, katu, ehendumi, horyrasa, ha upéva, …oñatende umi tapicha oñemoaranduséva rehe.","Iñarandurasa, katu ndocha'éi umi oñemoarandura'âva rehe.",contradiction
+"Peteîjey roho upépe, upépe, rojujeývo upe jehechaukahágui romyandy hesakâ haĝua ore róga sapy'agua jere ha oî peteî jaguane.",Upe jaguane orera'arô rojujey ore róga sapy'aguápe.,neutral
+"Peteîjey roho upépe, upépe, rojujeývo upe jehechaukahágui romyandy hesakâ haĝua ore róga sapy'agua jere ha oî peteî jaguane.",Rojuhu kavara ore róga sapy'aguápe rombogue rire lu.,neutral
+"Peteîjey roho upépe, upépe, rojujeývo upe jehechaukahágui romyandy hesakâ haĝua ore róga sapy'agua jere ha oî peteî jaguane.",Roju rire roikohágui rojuhu peteî jaguane ore róga sapy'aguápe.,entailment
+"Reikuaa, che membykuéra niko horyeterei hikuái, ipy'aporâ, chéverô ĝuarâ ndaupéichai, oikuaa umi mitâ tuichavévagui, katu….","Oikuaa hikuái umi mitâ tuichavévagui, katu che ñemoñarê ombogue.",neutral
+"Reikuaa, che membykuéra niko horyeterei hikuái, ipy'aporâ, chéverô ĝuarâ ndaupéichai, oikuaa umi mitâ tuichavévagui, katu….",Chejuruvy asy hetaite mba'e che membykuéra oikuaáva rehe.,neutral
+"Reikuaa, che membykuéra niko horyeterei hikuái, ipy'aporâ, chéverô ĝuarâ ndaupéichai, oikuaa umi mitâ tuichavévagui, katu….",Che mebykuéra añetehápe hovatavy.,neutral
+"Chéverô ĝuarâ tapichakuéra ojopyva'erâ ijyty, mmm, ha mmm, ha… ikatu iporâve oñemomichî tuichakuépe, upépe oî upe apañuâi guasuve, ndaha'éi ipohyikuépe.",Rejoko mboy ytýpa upe apañuâi guasuve upe ipohyikuégui.,neutral
+"Chéverô ĝuarâ tapichakuéra ojopyva'erâ ijyty, mmm, ha mmm, ha… ikatu iporâve oñemomichî tuichakuépe, upépe oî upe apañuâi guasuve, ndaha'éi ipohyikuépe.",Tapichakuéra ndojepy'apyiva'erâ oiméramo heta ijyty omohenda porâma guive.,contradiction
+"Chéverô ĝuarâ tapichakuéra ojopyva'erâ ijyty, mmm, ha mmm, ha… ikatu iporâve oñemomichî tuichakuépe, upépe oî upe apañuâi guasuve, ndaha'éi ipohyikuépe.",Tapichakuéra ohechakuaava'erâ ijyty retakue ha ipohyikue.,contradiction
+"Upéicharamo oîramo ojejavyha, nde upe ojavýva, ha'e che.","Ani rejepy'apy, oiméramo ojejavyha roipytyvôta emombo haĝua ijapére.",neutral
+"Upéicharamo oîramo ojejavyha, nde upe ojavýva, ha'e che.","Ojejavýramo, ndekáusa.",neutral
+"Upéicharamo oîramo ojejavyha, nde upe ojavýva, ha'e che.","Oiméramo ojavy, ohechakuaava'erâ.",neutral
+"Reikuaápa, hi'arieteve, rembovyvy ha rejapo âichagua mba'e omohu'â porâva tembiapo katupyry.","Ñembovyvýniko, tembiapo katupyry.",entailment
+"Reikuaápa, hi'arieteve, rembovyvy ha rejapo âichagua mba'e omohu'â porâva tembiapo katupyry.",Oñembovyvy pya'epya'ente ha vaivaiete.,contradiction
+"Reikuaápa, hi'arieteve, rembovyvy ha rejapo âichagua mba'e omohu'â porâva tembiapo katupyry.",Ombovyvy mbeguekatu asy.,neutral
+"Héê, héê, che amba'apohápe ome'ê ndéve mokôi arapokôindy ñepyrûrâ, ha upéi ary ohasakuévo ome'êjapi ndéve peteî arave rereko peve irundy arapokôindy.",Nde ára ojupive ary ohasakuévo.,entailment
+"Héê, héê, che amba'apohápe ome'ê ndéve mokôi arapokôindy ñepyrûrâ, ha upéi ary ohasakuévo ome'êjapi ndéve peteî arave rereko peve irundy arapokôindy.",Nde ára ndahetavéi mbohapy áragui.,'entailment'
+"Héê, héê, che amba'apohápe ome'ê ndéve mokôi arapokôindy ñepyrûrâ, ha upéi ary ohasakuévo ome'êjapi ndéve peteî arave rereko peve irundy arapokôindy.",ära repytu'u haĝua hetahetave remba'apóramo tavaha rupi.,neutral
+"Upéicha, upéva iporâva reikóvo ko tetâme, natekotevêi rejepy'apy umi mba'ére.","Reikóramo ko tetâme reiko ndepy'a nde jurúpe, akói rekyhyje âichagua mba'égui.",contradiction
+"Upéicha, upéva iporâva reikóvo ko tetâme, natekotevêi rejepy'apy umi mba'ére.",Iporâva reikóvo ko tetâmeniko nderejepy'apyiva'erâ umíva umi mba'ére.,entailment
+"Upéicha, upéva iporâva reikóvo ko tetâme, natekotevêi rejepy'apy umi mba'ére.",Iporâva okaháre niko nderejepy'apýi rejapova'erâ rehe tavaháre.,neutral
+"o, o, Ñandejára, upéva niko ha'ete jahasaporâtava.",Upéva ha'ete ku iporârasáva térâkatu ikaiguetereíva.,entailment
+"o, o, Ñandejára, upéva niko ha'ete jahasaporâtava.",Upéva ha'ete ku vy'aguasurâ.,neutral
+"o, o, Ñandejára, upéva niko ha'ete jahasaporâtava.",Ha'ete peteî mba'e ivaipajepéva.,contradiction
+Ha ko'áĝa areko che reindy peteî Alemania-pe.,Ha ko'áĝa areko che kyvy peteî oikóva Alemania-pe.,contradiction
+Ha ko'áĝa areko che reindy peteî Alemania-pe.,Areko che kypy'y oikóva ko'aĝaite Cuba-pe.,contradiction
+Ha ko'áĝa areko che reindy peteî Alemania-pe.,Areko peteî che kypy'y oñe'êva alemán ñe'ê.,neutral

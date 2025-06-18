@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Ó sì sọ wí pé, ìyá, mo ti wà nílé.",Ó pe ìya rẹ̀ ní gẹ́lẹ́ tí ọkọ̀ ilé-ẹ̀kọ́ náà já a sílẹ̀.,1
+"Ó sì sọ wí pé, ìyá, mo ti wà nílé.",Kò sọ ọ̀rọ̀ kan ṣoṣo.,2
+"Ó sì sọ wí pé, ìyá, mo ti wà nílé.",Ó sọ fún ìya rẹ̀ pé òún ti délé.,0
+oh Snake River ni oh Snake River pẹ̀lú ọ̀pọ̀lọpọ̀ ejò nínú rẹ̀,"Pẹ̀lú orúkọ rẹ̀, Snake River ò ní ejò kankan; wọ́n fún-un lórúkọ náà nítorí ìrísí-S rẹ̀.",2
+oh Snake River ni oh Snake River pẹ̀lú ọ̀pọ̀lọpọ̀ ejò nínú rẹ̀,Snake River ní ọ̀pọ̀lọpọ̀ ìjàpá.,1
+oh Snake River ni oh Snake River pẹ̀lú ọ̀pọ̀lọpọ̀ ejò nínú rẹ̀,Snake River kún fún ejò.,0
+Bíbéèrè-lọ́pọ̀ fún àmúdijú àwọn ẹ̀rọ mọ́lékù dìde nítorí ìlànà ìtànkálẹ̀ lè ṣiṣẹ́ lórí àkójọpọ̀ àwọn ohun-ìní irúu àwọn àtòpọ mọ́lékù bẹ́ẹ̀ nígbà tí àkójọpọ̀ àwọn ohun-ìní bá ṣe àfikún okun àkànṣe.,Gbogbo àwọn ẹ̀rọ mọ́lékù ni wọ́n jẹ́ àmúdijú bákan náà. ,2
+Bíbéèrè-lọ́pọ̀ fún àmúdijú àwọn ẹ̀rọ mọ́lékù dìde nítorí ìlànà ìtànkálẹ̀ lè ṣiṣẹ́ lórí àkójọpọ̀ àwọn ohun-ìní irúu àwọn àtòpọ mọ́lékù bẹ́ẹ̀ nígbà tí àkójọpọ̀ àwọn ohun-ìní bá ṣe àfikún okun àkànṣe.,Ọ̀pọ̀lọpọ̀ àwọn ẹ̀rọ mọ́lékù àmúdijú lè dìde lábẹ́ àwọn ìṣẹ̀lẹ̀ kọ̀ọ̀kan.,0
+Bíbéèrè-lọ́pọ̀ fún àmúdijú àwọn ẹ̀rọ mọ́lékù dìde nítorí ìlànà ìtànkálẹ̀ lè ṣiṣẹ́ lórí àkójọpọ̀ àwọn ohun-ìní irúu àwọn àtòpọ mọ́lékù bẹ́ẹ̀ nígbà tí àkójọpọ̀ àwọn ohun-ìní bá ṣe àfikún okun àkànṣe.,Àwọn ẹ̀rọ mọ́lékù wọ̀nyí ni wọ́n máa ń lò jùlọ láti pèse oríṣiríṣi májèlé fún ìdáàbòbò.,1
+Ó gbé ẹjọ́ kòtẹ́milọ́rùn wá bá Lord Julian.,Ó fẹ́ béèrè nǹkan lọ́wọ́ Lord Julian.,0
+Ó gbé ẹjọ́ kòtẹ́milọ́rùn wá bá Lord Julian.,Ó fẹ́ sọ fún Lord Julian pé kó yáfì ìyàwó òun. ,1
+Ó gbé ẹjọ́ kòtẹ́milọ́rùn wá bá Lord Julian.,A ò mọ ibi tí Lord Julian wà.,2
+"Lẹ́yìn tí o bá wo gbogbo àwọn àkójọ yìí, gun òkè náà lọ sí Ilé Kọmíṣánà, níbi tí o ti máa rí bí àyíká etí odò ṣe rẹwà àtí àwọn ilé ìtàjà etí odò tókù.",O lè rí àwọn ọkọ̀ ojú omi ní orí òkè náà.,1
+"Lẹ́yìn tí o bá wo gbogbo àwọn àkójọ yìí, gun òkè náà lọ sí Ilé Kọmíṣánà, níbi tí o ti máa rí bí àyíká etí odò ṣe rẹwà àtí àwọn ilé ìtàjà etí odò tókù.",O lè rí etí bí etí odò náà ṣe rí láti orí òkè náà.,0
+"Lẹ́yìn tí o bá wo gbogbo àwọn àkójọ yìí, gun òkè náà lọ sí Ilé Kọmíṣánà, níbi tí o ti máa rí bí àyíká etí odò ṣe rẹwà àtí àwọn ilé ìtàjà etí odò tókù.",O ò lè rí etí odò náà láti orí òkè náà.,2
+"A ṣe ètò àwọn olùṣewádìí, a sì tún ṣe dídásílẹ̀ àwọn ìjọpọ̀ tuntun láti ṣàtìlẹ́yìn fún àwọn olùbárà ńlá náà.","Nípa ètò àwọn olùṣewádìí, a ṣẹ̀dá àyè fún àwọn ìjọpọ̀. ",1
+"A ṣe ètò àwọn olùṣewádìí, a sì tún ṣe dídásílẹ̀ àwọn ìjọpọ̀ tuntun láti ṣàtìlẹ́yìn fún àwọn olùbárà ńlá náà.",A ṣe ẹ̀dá àwọn ìjọpọ̀ síi. ,0
+"A ṣe ètò àwọn olùṣewádìí, a sì tún ṣe dídásílẹ̀ àwọn ìjọpọ̀ tuntun láti ṣàtìlẹ́yìn fún àwọn olùbárà ńlá náà.",Àwọn olùṣewádìí tóbi síi ju ti àtẹ̀yìnwá lọ. ,2
+"Ìpéjọ àwọn onímọ̀ ẹ̀sìn imọ̀le, tí a dá sílẹ̀ ní bíi 1940, jẹ́ ti òde òní, tí ó ní ipa ti ìmọ̀ Maxist-Leninist lórí ìyípadà ilé-iṣẹ́.",A fi ìmọ̀ Maxist-Leninist sínú ẹgbẹ́ ẹ̀sìn imọ̀le.,0
+"Ìpéjọ àwọn onímọ̀ ẹ̀sìn imọ̀le, tí a dá sílẹ̀ ní bíi 1940, jẹ́ ti òde òní, tí ó ní ipa ti ìmọ̀ Maxist-Leninist lórí ìyípadà ilé-iṣẹ́.",Ẹgbẹ́ ẹ̀sìn imọ̀le náà bẹ̀rẹ̀ ní ọ̀ọ́dúnrún kẹfà.,2
+"Ìpéjọ àwọn onímọ̀ ẹ̀sìn imọ̀le, tí a dá sílẹ̀ ní bíi 1940, jẹ́ ti òde òní, tí ó ní ipa ti ìmọ̀ Maxist-Leninist lórí ìyípadà ilé-iṣẹ́.",A dá ẹgbẹ́ ẹ̀sìn imọ̀le sílẹ̀ lakọ̀ọ́kọ́ láti kóríyá ìbániṣepọ̀.,1
+Ẹ̀bùn rẹ ṣe pàtàkì sí ayẹyẹ 85th wa. ,Nínú gbogbo ẹ̀bùn tí a gbà kò sí èyí tí ó ṣe pàtàkì tó tìrẹ. ,1
+Ẹ̀bùn rẹ ṣe pàtàkì sí ayẹyẹ 85th wa. ,A kò fẹ́ ẹ̀bùn rẹ.,2
+Ẹ̀bùn rẹ ṣe pàtàkì sí ayẹyẹ 85th wa. ,A ti ń ṣe èyí fún bíi ọdún 80.,0
+Ẹ̀yìn epo ìwé-ìròyìn-ọ̀sọ̀sẹ̀ dùn mọ́ àwọn òbí tó ń páyà.,Àwọn òbí tó ń páyà jẹ́ ojú sùn títa àwọn ìwé-ìròyìn-ọ̀sọ̀sẹ̀.,0
+Ẹ̀yìn epo ìwé-ìròyìn-ọ̀sọ̀sẹ̀ dùn mọ́ àwọn òbí tó ń páyà.,Àwọn atẹ ìwé-ìròyìn-ọ̀sọ̀sẹ̀ máa ń ṣe epo ẹ̀yìn rẹ̀ kó fa tọmọdé tàgbà mọ́ ara.,2
+Ẹ̀yìn epo ìwé-ìròyìn-ọ̀sọ̀sẹ̀ dùn mọ́ àwọn òbí tó ń páyà.,"Àwọn òbí ni ó ṣeé ṣe kí wọ́n náwó lé ríra ọkọ̀ tuntun, èyí jẹ́ kí wọ́n jẹ́ ẹni tí àwọn tó ń ta ìwé atọ́ka sùn wọ́n láti tà dáradára.",1
+Ìdàkejì nǹkan o yẹ kó wà dípò èyí tí a ní láti yàn nínú ẹ̀.,Kò dára kí a lo nǹkan yíyàn gẹ́gẹ́ bíi ìdàkejì nǹkan.,0
+Ìdàkejì nǹkan o yẹ kó wà dípò èyí tí a ní láti yàn nínú ẹ̀.,Ó ṣeé ṣe kí lo nǹkan yíyàn dípò ìdàkejì nǹkan.,2
+Ìdàkejì nǹkan o yẹ kó wà dípò èyí tí a ní láti yàn nínú ẹ̀.,Púpọ̀ nínú àwọn ènìyàn ni kò mọ bí a ti ń lo yíyàn àti ìdàkejì nǹkan.,1

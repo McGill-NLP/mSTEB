@@ -1,0 +1,650 @@
+premise,hypothesis,gpt_reply
+"Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.",Eara jabe yoyo iribiama iki.,neutral
+"Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.",Kikini sinatara ea ike jakopira ea jabe yoyo iki peoko ribake.,entailment
+"Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.",Kikin jaonira noa yoyo ike.,neutral
+"En shinanara ike westiora privilegio, itan neskara iki, itan neskara iki, eabichora 922 Ex-O ike nokon carreranko AFFC nato Fuerza Aéreankonia.",Enra onanyama ike eabicho jain ja nete.,neutral
+"En shinanara ike westiora privilegio, itan neskara iki, itan neskara iki, eabichora 922 Ex-O ike nokon carreranko AFFC nato Fuerza Aéreankonia.",Enra onantania ibake eabicho ja numeroya ja AFFC Air Force Career camponko.,contradiction
+"En shinanara ike westiora privilegio, itan neskara iki, itan neskara iki, eabichora 922 Ex-O ike nokon carreranko AFFC nato Fuerza Aéreankonia.","Jatibira noa ja numerosbires menibakanke, nato privilegiosbo menikanai ibatabo shinabenokainxon, jatibira janso ike.",contradiction
+"Eara yoibakanke, nato... westiora jonin ea kenai japokao noa oinyanananon ixon.",Eara tson yoiyama iki joni en onani kai.,neutral
+"Eara yoibakanke, nato... westiora jonin ea kenai japokao noa oinyanananon ixon.",Eara yoikanke westiora joni kenakanai ea onanti kopi.,entailment
+"Eara yoibakanke, nato... westiora jonin ea kenai japokao noa oinyanananon ixon.",Ja jonira kikin yantan nokoke.,entailment
+"Jarake mesko jaki yoyo iti, ikaxbira en jabo winoresai.",¡Jatibi en onana jawekibora mia yoikasai!,neutral
+"Jarake mesko jaki yoyo iti, ikaxbira en jabo winoresai.","Eara jaki yoyo iyamai, icha jaweki yoiti ikenbi.",neutral
+"Jarake mesko jaki yoyo iti, ikaxbira en jabo winoresai.",Eara nato jeman historiaki yoyo iyamai mesko jawekibo yoiti jakenbi.,neutral
+"Jara ike ja jaweki kikin importante salvankasi noa iwana, jaweskaxonbi nato bomba hidrogena potatikomara ike 30 inxon, westiora C124.",Jawebi benxoatira noa importanyamake.,entailment
+"Jara ike ja jaweki kikin importante salvankasi noa iwana, jaweskaxonbi nato bomba hidrogena potatikomara ike 30 inxon, westiora C124.",Westiora jawekiresra noa salvankasi ike wetsabo akamabi.,contradiction
+"Jara ike ja jaweki kikin importante salvankasi noa iwana, jaweskaxonbi nato bomba hidrogena potatikomara ike 30 inxon, westiora C124.",Nato bomba -H salvankasira noa ike kikin manejantikoma ikentian.,entailment
+Jaskara riki enra onanshamanyamake jawe kopi.,Enra onanbiresreske jawekopiki ika ixon.,neutral
+Jaskara riki enra onanshamanyamake jawe kopi.,Enra onanyamake jawe kopira jan axeti xobobo transfierenke ixon.,entailment
+Jaskara riki enra onanshamanyamake jawe kopi.,Eanra onanyamake jwekopiki ja jaweki winota ixon.,neutral
+"Nato riki Fannie Flono. Ag-- Augusta, GA tainra ja ania iki, jara yoyo ikai mesko jaweki bake ikax winotaboki.",Fannie Flononinra reprogramanribiai itan nin westiora historiabira noa rama yoiti atipanyamke.,contradiction
+"Nato riki Fannie Flono. Ag-- Augusta, GA tainra ja ania iki, jara yoyo ikai mesko jaweki bake ikax winotaboki.","Fannie Flonora neno iki itan noara yoikai mesko jaweki bake ikax winotaboki Augusta, GA yain anixon.",neutral
+"Nato riki Fannie Flono. Ag-- Augusta, GA tainra ja ania iki, jara yoyo ikai mesko jaweki bake ikax winotaboki.",Fannie Flonoraninra rama nete noa yoyoake jawen agendain jaweki atibo icha ikenbi.,contradiction
+Itan pichika destacamento potara ike nato U2 ainoa.,U2 batanra en tratana iki.,neutral
+Itan pichika destacamento potara ike nato U2 ainoa.,U2 batanra en lidianamabirex iki.,neutral
+Itan pichika destacamento potara ike nato U2 ainoa.,Eara teeke nato U2nin destacamentosain nete tibi chosko chonka baritia kaman.,neutral
+Westiora ikira ea bicho ikatiai nato reguladorbo iimai cámaras de altitud maxkoshoko tanakanainko.,Nokon kemara ike eabicho reguladorbo iimai iti nato tanatiainko.,entailment
+Westiora ikira ea bicho ikatiai nato reguladorbo iimai cámaras de altitud maxkoshoko tanakanainko.,Nato tanatira ike cámaras de altitud maxkoshokoain.,entailment
+Westiora ikira ea bicho ikatiai nato reguladorbo iimai cámaras de altitud maxkoshoko tanakanainko.,Noa ikaboainra jakanke jatiribibo nato tanatien reguladorbo iimakanabo.,neutral
+"Ea riki, nato, ja sargento koshi axeamis, jubilameta, Ricknin yoiya keska.",Teeresi riki ea nato nete kopi.,entailment
+"Ea riki, nato, ja sargento koshi axeamis, jubilameta, Ricknin yoiya keska.",2002 tianra eara pikota iki.,the relationship between the premise and the hypothesis is 'neutral'.
+"Ea riki, nato, ja sargento koshi axeamis, jubilameta, Ricknin yoiya keska.",Rickninki mia yoiya moa retirado.,entailment
+"Jarake jaweti proyecciónbo nato flujo de cajana itan, uh,eh, ja riki Cutty akanaitona, clientenin jane.",Nato cliente Cutty akanaitonra $ 10000 ganai oxetebi.,neutral
+"Jarake jaweti proyecciónbo nato flujo de cajana itan, uh,eh, ja riki Cutty akanaitona, clientenin jane.",Westiora cliente Cutty akanaira jake.,entailment
+"Jarake jaweti proyecciónbo nato flujo de cajana itan, uh,eh, ja riki Cutty akanaitona, clientenin jane.",Noara yamake Cutty akanai janeya clientebo.,contradiction
+Ja xontako jan ea akinti atipanara jema rebonko iki.,Ja xontako ea akinti keni iitaira kikin ochoira jake.,entailment
+Ja xontako jan ea akinti atipanara jema rebonko iki.,Ja bake jan ea akini kaira 5 millas ocho iki.,contradiction
+Ja xontako jan ea akinti atipanara jema rebonko iki.,Yama rake tson ea akinti.,neutral
+"Ikaxbi jatora kaxkekana ika iki tsoaborin campokonia mekenbo itan tsoaborin xobonkonia bakebo ixon onantimatax, neskara keskara ika iki...",Jatibira jen ikanke jatibi noa camponko tekanti.,the relationship between the premise and the hypothesis is 'neutral'.
+"Ikaxbi jatora kaxkekana ika iki tsoaborin campokonia mekenbo itan tsoaborin xobonkonia bakebo ixon onantimatax, neskara keskara ika iki...",Jatora ikastimakana ike acuerdo iki tsoaborin campokonia mekenbo itan tsoaborin xobonkonia ixon.,neutral
+"Ikaxbi jatora kaxkekana ika iki tsoaborin campokonia mekenbo itan tsoaborin xobonkonia bakebo ixon onantimatax, neskara keskara ika iki...",Ikastimakanara ike acuerdo iki tsobeki teeti iki ixon waxmen campokon itan tsonkin tapo chocatiki ixon.,neutral
+"Tercera SS kira rama netera noa yoyo akai, ja U2 Quick itan ja Blackbird.",Janra desidenke moa yoyo iyamai.,neutral
+"Tercera SS kira rama netera noa yoyo akai, ja U2 Quick itan ja Blackbird.",Jara yoyo ikai kimisha submarinobo keskaki.,neutral
+"Tercera SS kira rama netera noa yoyo akai, ja U2 Quick itan ja Blackbird.",Jara yoyo ikai kimisha keska jaweki.,neutral
+"Eara yoikasai jatora jaya ikatiai, neskara keska, pichika bake. Westiora bawata iki.",Jatibi jan bakebora jirikana iki.,contradiction
+"Eara yoikasai jatora jaya ikatiai, neskara keska, pichika bake. Westiora bawata iki.",Westiora bakera mawata iki pichika batiayax.,contradiction
+"Eara yoikasai jatora jaya ikatiai, neskara keska, pichika bake. Westiora bawata iki.",Ja bake mawatara pikota ike problemabo saludyain.,neutral
+"Itan, jaskara riki, Androv Gromikov ninra jawebi respodenyamai, ikaxbi jatibi nato U2nin aka peliculanin informaciónyara noa ike.",Nato U2ninra kikin icha película bike.,neutral
+"Itan, jaskara riki, Androv Gromikov ninra jawebi respodenyamai, ikaxbi jatibi nato U2nin aka peliculanin informaciónyara noa ike.",Nato U2ninra westiora tonelada de película onpax namamea bike.,contradiction
+"Itan, jaskara riki, Androv Gromikov ninra jawebi respodenyamai, ikaxbi jatibi nato U2nin aka peliculanin informaciónyara noa ike.","Noara material de archivoma ike, jakopira non adivinanreske.",neutral
+"Beon ronki beronkoniax pikotai irake, itan japekao ronki yoike Joe porche kaman ka.","Porchenko mapewe akara, beronko beonya ike.",neutral
+"Beon ronki beronkoniax pikotai irake, itan japekao ronki yoike Joe porche kaman ka.",Janra beon kikin ishtonbires soake Joe porchenkonia pota pekao.,neutral
+"Beon ronki beronkoniax pikotai irake, itan japekao ronki yoike Joe porche kaman ka.",Kikin rarora ike Joe oinax jakopira wini peokoke.,contradiction
+"Neskara nato aeronave menoti ikenbira, ¿jawe kopiki menotiki itan charatiki si nato iki westiora componente de plomoya jaskatax nato radiación filtrameti kopi?",Nato radiaciónra contienemeti atipanke menoti itainko.,neutral
+"Neskara nato aeronave menoti ikenbira, ¿jawe kopiki menotiki itan charatiki si nato iki westiora componente de plomoya jaskatax nato radiación filtrameti kopi?",Nato radiciónra filtrametiki westiora componente pricipalainoax avión menota pekao.,contradiction
+"Neskara nato aeronave menoti ikenbira, ¿jawe kopiki menotiki itan charatiki si nato iki westiora componente de plomoya jaskatax nato radiación filtrameti kopi?",Nato radiaciónra filtrameyamatiki menoti itainko.,neutral
+"Ja riki sargento koshi axeamis Clem Francis, jubilado nato fuerzas aéreas estadounidenses ainoa.",Ja Koshira moa nato Fuerza Aérea de los Estados Unidos ainoax pikota iki.,entailment
+"Ja riki sargento koshi axeamis Clem Francis, jubilado nato fuerzas aéreas estadounidenses ainoa.",Ja Koshira ramachabi pikoibata iki jaweti semana riki.,neutral
+"Ja riki sargento koshi axeamis Clem Francis, jubilado nato fuerzas aéreas estadounidenses ainoa.",Ja Fuerza Aérea de los Estados Unidosnin koshinra ramabi jawen carrera peoke nato semanabi.,neutral
+"Jakon, neskara kaman nokota iki jake rabe iamax kimisha aeronavebo nokokanaibo westiora semananinbicho itan onanyama jawenoki noyai ixon.",Semana tibira nokotai avión westiora winobires.,entailment
+"Jakon, neskara kaman nokota iki jake rabe iamax kimisha aeronavebo nokokanaibo westiora semananinbicho itan onanyama jawenoki noyai ixon.",Nato tráfico de avionbo kaitara kikin jakoma iki.,neutral
+"Jakon, neskara kaman nokota iki jake rabe iamax kimisha aeronavebo nokokanaibo westiora semananinbicho itan onanyama jawenoki noyai ixon.",Jawetianbira westiora aviónbi nokoyamai.,contradiction
+Jatonra moa entrenamiento bikana ibake trajes presurizadosain itan ea kikini basike nato traje presurizado sawei.,Kimisha oxera manakanai nato entrenamiento traje de presión saweti onanti senen anoxon.,neutral
+Jatonra moa entrenamiento bikana ibake trajes presurizadosain itan ea kikini basike nato traje presurizado sawei.,Nato entrenamiento traje de presión saweti onanti senen atira tiempoya iti jake.,entailment
+Jatonra moa entrenamiento bikana ibake trajes presurizadosain itan ea kikini basike nato traje presurizado sawei.,Nonra mia entrenana iti atipanke nato traje de presión jatibi saweti onantien nato nete senenaitian.,neutral
+"Eara yoikasai bombaya jitira onsabo yama ike too iyamai kopi, kikini taponko paketaxbi.",Ja bombara pilotonin desactivana ike.,neutral
+"Eara yoikasai bombaya jitira onsabo yama ike too iyamai kopi, kikini taponko paketaxbi.",Ja bombara tooiti atinpayama ike.,entailment
+"Eara yoikasai bombaya jitira onsabo yama ike too iyamai kopi, kikini taponko paketaxbi.",Kikin onsara ike nato bomba tooinaketian.,"to determine the relationship between the premise and the hypothesis, we need to analyze their meanings in the shipibo-conibo language.
+
+the premise translates to: ""the woman is preparing to go to the forest in the morning, and she will take her new basket.""
+the hypothesis translates to: ""the woman does not go to the forest in the morning.""
+
+the premise mentions the woman preparing to go to the forest and specifically states her intention to take her new basket. the hypothesis, however, states that the woman does not go to the forest in the morning, which directly contradicts the action described in the premise.
+
+therefore, the relationship between the premise and the hypothesis is 'contradiction'."
+Jaweskaki itiki kikin en akasai jisaribi aka.,Enra onanyamake yaweskaki min nato oinai ixon.,neutral
+Jaweskaki itiki kikin en akasai jisaribi aka.,"Jaskarara ikayai, eara akasi iitai.",entailment
+Jaweskaki itiki kikin en akasai jisaribi aka.,Wetsa semana nokon proyecto senen akasi riki ea.,neutral
+"Ikaxbi jaskara ikenbi, ja yoinabora jatibitian manotiki,en especial nato cabrabo.",Nato cabrabora granjeroinoax jabakanai nete tibi.,contradiction
+"Ikaxbi jaskara ikenbi, ja yoinabora jatibitian manotiki,en especial nato cabrabo.",Nato cabrabora jaweti iki jabakanai.,contradiction
+"Ikaxbi jaskara ikenbi, ja yoinabora jatibitian manotiki,en especial nato cabrabo.",Nato cabrabora jawe winoyamai itan moa bikana ike.,contradiction
+"Noa jikiketianra, nato puertabo xepo ike.",Jatibi puertabora kepen ike.,entailment
+"Noa jikiketianra, nato puertabo xepo ike.",Noara llaveboya ibake.,"the hypothesis ""noara llaveboya ibake"" translates to ""noa brought the key"" in english. the premise ""noa jikiketianra, nato puertabo xepo ike"" translates to ""noa arrived, but the door was closed.""
+
+the premise does not provide any information about whether noa brought the key. the premise is only about noa's arrival and the state of the door, which is closed. therefore, the relationship between the premise and the hypothesis is:
+
+neutral"
+"Noa jikiketianra, nato puertabo xepo ike.",Noara jikike puertabo kepo ikenbi.,entailment
+Jaskara ixonra nato jatibi totalres bixon tanati itan neska akin resuelventi iki.,Enra onana iki nato totalboresra ea kenai iki nato en resuelventi kopi.,entailment
+Jaskara ixonra nato jatibi totalres bixon tanati itan neska akin resuelventi iki.,"Enra onanyamake jawe atirin ixon nato totalesboan bicho. Por favor, ea yoiwe jaskaxonshaman en jakoma jaweki winotabo en jakon ati kopi.",contradiction
+Jaskara ixonra nato jatibi totalres bixon tanati itan neska akin resuelventi iki.,Enra calculanai nato totalboki basamexon.,entailment
+"Jara joke, puertara kepenke itan en shinanai pekao en oinxon jawen bemana jaskakiranai, itan en oina ika iki decepcionado.",Kikin emociondora ike itan kikin raro jakopira nato puerta del marco timake.,contradiction
+"Jara joke, puertara kepenke itan en shinanai pekao en oinxon jawen bemana jaskakiranai, itan en oina ika iki decepcionado.","No culpable sientememakasira ike, ikaxbi non onana ike non problemabo ima.",entailment
+"Jara joke, puertara kepenke itan en shinanai pekao en oinxon jawen bemana jaskakiranai, itan en oina ika iki decepcionado.",Ponte jawen bemanain jaweskakinki oinaixonra en onanke kikin decepcionado puertanko jikikiranaitian.,contradiction
+"Jaskara kopira, ea westiora historia shamama iki.",Eara westiora jainshama marokin bitioma iki.,entailment
+"Jaskara kopira, ea westiora historia shamama iki.",Eara westiora xobo jain en marokin bitiya iki.,neutral
+"Jaskara kopira, ea westiora historia shamama iki.",Jarake kikin maroti xobobo icha.,neutral
+Itan neskara ika iki ja jawetianbi janbixbi jaweki ati maxkayama.,Jara kikin akin akinkanai.,"to determine the relationship between the given premise and hypothesis, we would need to understand the meanings of these sentences in the shipibo-conibo language. however, without the translations or context of these specific shipibo-conibo sentences, it's not possible to accurately categorize the relationship between the premise and hypothesis as 'entailment', 'contradiction', or 'neutral'. ideally, this task requires translation or a deeper understanding of the linguistic structures and semantics involved."
+Itan neskara ika iki ja jawetianbi janbixbi jaweki ati maxkayama.,Ja jawen piti itan chopabonin akinkanai.,neutral
+Itan neskara ika iki ja jawetianbi janbixbi jaweki ati maxkayama.,Jara independiente iki.,neutral
+"Enra shinanpachoai, nokon Rios, itan Ramonara jain ike.",Ramonara naman taponko ika iki acurrucada bake poko meran ika keska.,neutral
+"Enra shinanpachoai, nokon Rios, itan Ramonara jain ike.",Ramonaninra eki neteshoko jakoma shinani iitai.,neutral
+"Enra shinanpachoai, nokon Rios, itan Ramonara jain ike.",Ramonara erguidares ika ea jain kexa kepenya ikentian.,entailment
+¡Itan kikin ligera riki !,"Kikin ichara jawekiake, ikaxbira xoayamake.",neutral
+¡Itan kikin ligera riki !,Jara bebon iweirama ike.,"the relationship between the premise and the hypothesis is 'neutral'. the premise translates to ""you are very fast!"" while the hypothesis translates to ""the dog is not here."" there is no direct connection or contradiction between the speed of a person and the presence of a dog."
+¡Itan kikin ligera riki !,Jara kikin raro ike.,contradiction
+Enra onanyamake jaskara winota pekaoki Augustanko baeta ixon.,Jara Augustanko jai baneresa iki ataquebo ikana pakaobi.,neutral
+Enra onanyamake jaskara winota pekaoki Augustanko baeta ixon.,Jara Augustanko jaresai.,contradiction
+Enra onanyamake jaskara winota pekaoki Augustanko baeta ixon.,Kikin ishtonra Augustainoax wetsanko kake.,entailment
+"Jatibi non akabo... jawetianbira noa yoiyamakana iki jawenoki bokanai ixon,ponte nato basekoniax pikonkibi wetsankobo jain jawete nete baneti kakinbi.",Enra jato yokayosma iki jawenoki bokanai ixon.,entailment
+"Jatibi non akabo... jawetianbira noa yoiyamakana iki jawenoki bokanai ixon,ponte nato basekoniax pikonkibi wetsankobo jain jawete nete baneti kakinbi.",Jatibitianra noa onamankanai jawenoki ikanai itan jaweranoki bokanai ixon.,neutral
+"Jatibi non akabo... jawetianbira noa yoiyamakana iki jawenoki bokanai ixon,ponte nato basekoniax pikonkibi wetsankobo jain jawete nete baneti kakinbi.",Noara jawetianbi jain kai akin yoiyosma iki.,the relationship between the premise and the hypothesis is 'neutral'.
+Neskara yoikanke: Westiora jain mia nokoti kopiaki riki noa.,Jawebira noa kopi kopiayamakani.,entailment
+Neskara yoikanke: Westiora jain mia nokoti kopiaki riki noa.,Jatora kopi aki iki nato nokona itan nokon wetsabo xobo kopi.,contradiction
+Neskara yoikanke: Westiora jain mia nokoti kopiaki riki noa.,Kopiaki riki ja xobo kopi.,neutral
+"Jakon, ja nete pekao, jaskara iki, ja presidente Kennedy, mm..., Cuba bloqueana iki itan, mm..., non buqueboan westiora barco ruso yatankana iki Cuba winobaini kai itan merakana iki misilbo.",Kennedyninra non tropabo misilbo benati yoike.,'entailment'
+"Jakon, ja nete pekao, jaskara iki, ja presidente Kennedy, mm..., Cuba bloqueana iki itan, mm..., non buqueboan westiora barco ruso yatankana iki Cuba winobaini kai itan merakana iki misilbo.",Westiora barcobira chiteyamakanke mesko conflictobo kenyamakin.,'entailment'
+"Jakon, ja nete pekao, jaskara iki, ja presidente Kennedy, mm..., Cuba bloqueana iki itan, mm..., non buqueboan westiora barco ruso yatankana iki Cuba winobaini kai itan merakana iki misilbo.",20 misilbora barconko merakanke.,neutral
+"Wetsa jawekibires winotaitianra, ja joni jikiai.",Ja jonira sala del tribunalyain jikia iki.,contradiction
+"Wetsa jawekibires winotaitianra, ja joni jikiai.",Ja jonira habitaciónyain jikike.,neutral
+"Wetsa jawekibires winotaitianra, ja joni jikiai.",Ja jonira ishotoke wetsaori bires.,neutral
+"Mmm..., nokon yosibora jatibitian jonibo kikin, kikin cariñosaboika iki itan wetsatianra nokon papaboribi ikana iki itan sencillamentera kikin jakon ono naman noa winota iki.",Eara kikini basike nokon yosiboan xobo kaman conduceni.,contradiction
+"Mmm..., nokon yosibora jatibitian jonibo kikin, kikin cariñosaboika iki itan wetsatianra nokon papaboribi ikana iki itan sencillamentera kikin jakon ono naman noa winota iki.",Nokon yosibora ikana iki westiora pareja kikin cariñosa.,neutral
+"Mmm..., nokon yosibora jatibitian jonibo kikin, kikin cariñosaboika iki itan wetsatianra nokon papaboribi ikana iki itan sencillamentera kikin jakon ono naman noa winota iki.",Nokon yosibora jatibitian kikin maniáticobo ika iki itan jawetianbira jaton xobonko kakasma ikatiai.,neutral
+Eara tiempoma ike jatibi jawekibo wetsa jawekibiresbo tratanti.,Enra yantancha niakin keyoti atipanke.,neutral
+Eara tiempoma ike jatibi jawekibo wetsa jawekibiresbo tratanti.,Jatibira en niake a tiempo.,the relationship between the premise and the hypothesis is 'contradiction'.
+Eara tiempoma ike jatibi jawekibo wetsa jawekibiresbo tratanti.,Eara tiempoma baneke jatibi niamabi.,neutral
+"Itan, westiora ebe teetaira ja momentobi ka iki jonibo jato axeai jaskaxon paracídabo westiora toati de armas nuclearesyain akanti kopi, ja nato bomba atómicaninbi detonanai.",Nato bomba atómicara gatilloma iki.,entailment
+"Itan, westiora ebe teetaira ja momentobi ka iki jonibo jato axeai jaskaxon paracídabo westiora toati de armas nuclearesyain akanti kopi, ja nato bomba atómicaninbi detonanai.",Ja detonadorninra detonamai ja bomba jaibakea potaitian.,neutral
+"Itan, westiora ebe teetaira ja momentobi ka iki jonibo jato axeai jaskaxon paracídabo westiora toati de armas nuclearesyain akanti kopi, ja nato bomba atómicaninbi detonanai.",Shokores koshiatira mia maxkake nato bomba atómicanin gatillo tsekati kopi.,neutral
+"Nokon yoxamanra wetsatian ea yoikatitai mesko ja baketian winota jawekibo itan, neskarabokishaman, janra ea yoikatitai jawen rareboki itan ribi jaweskashamanki ja épokabo jakatikanai ixon.",Jatibitianra en disfrutankatitai neskara winota jawekibo ea nokon yoxaman yoyai ninkati.,neutral
+"Nokon yoxamanra wetsatian ea yoikatitai mesko ja baketian winota jawekibo itan, neskarabokishaman, janra ea yoikatitai jawen rareboki itan ribi jaweskashamanki ja épokabo jakatikanai ixon.",Nokon yoxanra jatibitian baketian winotaboki yoyoikashama iki.,neutral
+"Nokon yoxamanra wetsatian ea yoikatitai mesko ja baketian winota jawekibo itan, neskarabokishaman, janra ea yoikatitai jawen rareboki itan ribi jaweskashamanki ja épokabo jakatikanai ixon.",Nokon yoxamanra ea yoiya iki mesko jawen rarebo winotabo ja bake ikentian.,neutral
+"Noara trajebo de presión completoya iki nato aviónyain, astronautaboan saweai keska, ikaxbi jaresriki nona kikin jatiobi peneshamanres, peneshamanres, botayashaman, xana reflejametai kopi, jaskara riki.",Non trajebora kikin astronautaboana jisamabobi iki.,neutral
+"Noara trajebo de presión completoya iki nato aviónyain, astronautaboan saweai keska, ikaxbi jaresriki nona kikin jatiobi peneshamanres, peneshamanres, botayashaman, xana reflejametai kopi, jaskara riki.","Non trajebora astronautaboana jisaribi iki, ikaxbi jaresriki nato xana reflejanai, jatian nonara peneshaman ikatiai.",entailment
+"Noara trajebo de presión completoya iki nato aviónyain, astronautaboan saweai keska, ikaxbi jaresriki nona kikin jatiobi peneshamanres, peneshamanres, botayashaman, xana reflejametai kopi, jaskara riki.",Enra merati atipanke nato trajebo mesko color mia kenai keska.,neutral
+"Itan jaskara ike, nokon yosira jakon jonima ike.",Nokon yosira westiora idiota ika iki.,contradiction
+"Itan jaskara ike, nokon yosira jakon jonima ike.",Nokon yosira ikatiai kikin racista itan jakoma.,neutral
+"Itan jaskara ike, nokon yosira jakon jonima ike.",¡Nokon yosira ikatiai kikin agradable joni min westiora akinres merati!,neutral
+"30 iamax 40 U2 aviónbo riki, itan non peowa ika iki entrenankin piloto chinobo, piloto británicobo jatobatan, justo jatibi non netenkoshaman ja non aliadobo inontian.",Noara jawetianbi tsobebi formación biyosma iki.,neutral
+"30 iamax 40 U2 aviónbo riki, itan non peowa ika iki entrenankin piloto chinobo, piloto británicobo jatobatan, justo jatibi non netenkoshaman ja non aliadobo inontian.",5 semanabo kamanra non entrenana iki británicobobetan.,neutral
+"30 iamax 40 U2 aviónbo riki, itan non peowa ika iki entrenankin piloto chinobo, piloto británicobo jatobatan, justo jatibi non netenkoshaman ja non aliadobo inontian.",Icha mesko soldadobobetanra non entrenana iki.,contradiction
+"Jaskara kopira, yoiyai jakon benawe, benawe nato ono itan ono empresain.",Janra ea yoyo ayamake.,neutral
+"Jaskara kopira, yoiyai jakon benawe, benawe nato ono itan ono empresain.",Eara westiora jweki benati yoike.,neutral
+"Jaskara kopira, yoiyai jakon benawe, benawe nato ono itan ono empresain.",Janra ea yoike jawen información financiera bexonti.,neutral
+Janra yoike nortenko mapekana.,Yoirake jaweti iki tsasikana ja baiyain.,neutral
+Janra yoike nortenko mapekana.,Yoirake suryain pakekana.,entailment
+Janra yoike nortenko mapekana.,Yoirake nortekiri bokana.,neutral
+"Hum, ikama, en ponte yoikasai, enra westiora librobi en yoyo ati ikabo yoyoayosma iki.",Enra yoyo ayosma iki jawebi libro 100 pei winoaya ikabo.,the relationship between the premise and the hypothesis is 'neutral'.
+"Hum, ikama, en ponte yoikasai, enra westiora librobi en yoyo ati ikabo yoyoayosma iki.",Icha librobora en yoyo akama iki.,neutral
+"Hum, ikama, en ponte yoikasai, enra westiora librobi en yoyo ati ikabo yoyoayosma iki.",Librobora nete tibi yoyo akai.,neutral
+Kareske itan equipaje bike itan ea ka iki ja kati yoikanaika direcciónyen.,En ja pisha jenea iki itan jara nokon problema iki ixon en shinana iki.,neutral
+Kareske itan equipaje bike itan ea ka iki ja kati yoikanaika direcciónyen.,Ja pisha jan departamentonko en boa iki.,contradiction
+Kareske itan equipaje bike itan ea ka iki ja kati yoikanaika direcciónyen.,En ja pisha boa iki jan ibo iba.,entailment
+Jara ike cambio de humor ikon atimabires.,Jawen estado de ánimora kikin consitente iitai.,contradiction
+Jara ike cambio de humor ikon atimabires.,Raro iwanaxbira oniske.,"to determine the relationship between the premise and the hypothesis, we need to understand the meanings of both sentences. 
+
+the premise ""jara ike cambio de humor ikon atimabires"" translates to ""jara changes his mood suddenly."" 
+
+the hypothesis ""raro iwanaxbira oniske"" translates to ""raro is feeling sad.""
+
+there is no direct connection between jara changing his mood and raro feeling sad, and one does not logically lead to or contradict the other based on the given information. therefore, the relationship between the premise and the hypothesis is:
+
+neutral"
+Jara ike cambio de humor ikon atimabires.,Ja estado de ánimora kikini cambiametai.,entailment
+"Eara...eara 15 joninkoniaixon katokanke ja axeti xobonko kati, itan ea kayamai, eara kayamai.",Eara katoyamakanke ja axeti xoboko kati.,entailment
+"Eara...eara 15 joninkoniaixon katokanke ja axeti xobonko kati, itan ea kayamai, eara kayamai.",Eara katokanke ja axeti xoboko kati.,entailment
+"Eara...eara 15 joninkoniaixon katokanke ja axeti xobonko kati, itan ea kayamai, eara kayamai.",Eara ike ja candidato kikin ikon ati.,neutral
+"Meskokeska cámaras de altitudra winoti akanke, eh, paseosbo nato U2 noyai peokotamabi ribi iamax trajes de presiónya noyamabi ribi.",Jatiribi joniboanra nato tanátibo desapruebankanai itan jawetianbi nato U2 noyamabi atipanyamakanai.,contradiction
+"Meskokeska cámaras de altitudra winoti akanke, eh, paseosbo nato U2 noyai peokotamabi ribi iamax trajes de presiónya noyamabi ribi.",Kikin icha entremamientobora winokanti jake nato U2 noyamabi.,neutral
+"Meskokeska cámaras de altitudra winoti akanke, eh, paseosbo nato U2 noyai peokotamabi ribi iamax trajes de presiónya noyamabi ribi.",Nato U2 ra mia noyamakanai reken neteres.,contradiction
+Eara ja jawekiribi oini iki.,Enra cubrinai jatibi nato bena material.,neutral
+Eara ja jawekiribi oini iki.,Enra cubrinai ja wetsa revistaboan akai jawekibo ribi.,neutral
+Eara ja jawekiribi oini iki.,Eara jaton yoyai jaweki ribi yoi iki.,entailment
+"Natora primera vez ike, nato 75 baritian winota ika iki, nato legislatura de Texasnin pota ika iki westiora unidad militar Texasnin Embajadorbo ikenbi, jaska ikax, embajadorbo Texasna keni ika iki.",Nato unidades militaresbo ronki TX nin emajadorabo iti atipanyamake.,entailment
+"Natora primera vez ike, nato 75 baritian winota ika iki, nato legislatura de Texasnin pota ika iki westiora unidad militar Texasnin Embajadorbo ikenbi, jaska ikax, embajadorbo Texasna keni ika iki.",Nato unidad militar ronki ike Texasnin Embajadorabo janekana nato Congreso de los Estados Unidos ainxon.,contradiction
+"Natora primera vez ike, nato 75 baritian winota ika iki, nato legislatura de Texasnin pota ika iki westiora unidad militar Texasnin Embajadorbo ikenbi, jaska ikax, embajadorbo Texasna keni ika iki.",Nato unidad militar riki janekana Embajadores TX.,neutral
+Itiki jawe en ati atipana.,Enra jawe ati atipanke.,neutral
+Itiki jawe en ati atipana.,Enra onana ike jaweshaman en atipanyamai.,neutral
+Itiki jawe en ati atipana.,En shinana riki en atipana ika jawebires salvanti kopi.,neutral
+"Jara jawen kenma ikatiai, itan jaweti akin akatiai jawen poi yoikin nete tibi, janra yoika titai, jakomakin aki riki mia.",Janra jawen wetsa mesko jakon shinanbo yoikatitai.,entailment
+"Jara jawen kenma ikatiai, itan jaweti akin akatiai jawen poi yoikin nete tibi, janra yoika titai, jakomakin aki riki mia.",Kikin onantibires jenea iki yoikin jawen wetsa jawe jakon ati onama.,neutral
+"Jara jawen kenma ikatiai, itan jaweti akin akatiai jawen poi yoikin nete tibi, janra yoika titai, jakomakin aki riki mia.",Jara jawen wetsabetan kikin crítica ika iki.,neutral
+Jaskataxra ea jawen xobon katanke itan japekaora ja número jain nokoxon en kenati ibata kenai bake.,Jawen telefonora prestanxon yatana iki kenti kopi.,neutral
+Jaskataxra ea jawen xobon katanke itan japekaora ja número jain nokoxon en kenati ibata kenai bake.,Enra kenake ja número jawen xobon nokoxon.,entailment
+Jaskataxra ea jawen xobon katanke itan japekaora ja número jain nokoxon en kenati ibata kenai bake.,"En suponenkewetin kenai, ikaxbi ayamakewetin.",neutral
+"Jakon riki, jainra nato yamekiri nokoke itan, eh, eara jaskati shinabenoke... Westiora yoka keskara en ake, iamax jara jikike, iamax enra onanyamake.","Ramara ea kama iki, jakopira en oinama iki.",neutral
+"Jakon riki, jainra nato yamekiri nokoke itan, eh, eara jaskati shinabenoke... Westiora yoka keskara en ake, iamax jara jikike, iamax enra onanyamake.",Eara rama gimnasionko katanke itan japekaora yantancha ja joke itan ea saludanke.,neutral
+"Jakon riki, jainra nato yamekiri nokoke itan, eh, eara jaskati shinabenoke... Westiora yoka keskara en ake, iamax jara jikike, iamax enra onanyamake.",Eara nato yamekiri katanke itan jara kashokoke.,entailment
+Nonra onanyama ike jawenoki bokanai ixon.,Nonra onanyama ike jawenoki nato grupo bokanai ixon interestatalyain.,contradiction
+Nonra onanyama ike jawenoki bokanai ixon.,Nonra onanyama ike jawenoki nato jonibo bokanai ixon.,contradiction
+Nonra onanyama ike jawenoki bokanai ixon.,nonra onanyama ike jawenoki bokanai ixon.,entailment
+"Ikaxbi neskara era ike, shinanbenowe, eara almuerzo jawekiaki kai. Pikasira ea ike.",Eara kikin pikashamaibobi ike.,contradiction
+"Ikaxbi neskara era ike, shinanbenowe, eara almuerzo jawekiaki kai. Pikasira ea ike.","Pikasira ea ike, jakopira en nokon almuerzo pike.",entailment
+"Ikaxbi neskara era ike, shinanbenowe, eara almuerzo jawekiaki kai. Pikasira ea ike.","Eara kikini pikashorai ike, jakopira ea cafeterianko kake.",neutral
+"Naskara kopira, en mia yoinon rama netera ea ike nokoti renunciantires shinani.",Enra renunciankeanke.,contradiction
+"Naskara kopira, en mia yoinon rama netera ea ike nokoti renunciantires shinani.",Eara kikin akin isin atakana ike moa en atipanyamara ike.,neutral
+"Naskara kopira, en mia yoinon rama netera ea ike nokoti renunciantires shinani.",Eara nokon maponko winotama iki renuncianti.,neutral
+"Mil ochocientos ochenta winomara pikota iki, 1888 iamax 1889 tianbora iti ika iki.",1900 winoamabira pikota iki.,contradiction
+"Mil ochocientos ochenta winomara pikota iki, 1888 iamax 1889 tianbora iti ika iki.",1880 diciembre oxera pikota iki.,contradiction
+"Mil ochocientos ochenta winomara pikota iki, 1888 iamax 1889 tianbora iti ika iki.",Jara pikotama iki 1984 ikamabi.,contradiction
+Jakonra itiki shokores ja maxko tornillo nama aka kikin atibres riki min jakomati wetsa jonibiresnin bonxan.,Ja tornilloninra tson bonxanbo jakomati atipanke.,neutral
+Jakonra itiki shokores ja maxko tornillo nama aka kikin atibres riki min jakomati wetsa jonibiresnin bonxan.,"Ja tornillora onsama iki, jaskopira min kikin akin pachoti atipanke min kena keska akin.",neutral
+Jakonra itiki shokores ja maxko tornillo nama aka kikin atibres riki min jakomati wetsa jonibiresnin bonxan.,Ja tornillora jikiai tesharantinko itan bonxanbo jakoma atipanke.,neutral
+"Enra biche koshi joi Del Rionko kati, TX, jaskara ikax ea jain nokoketianra, jakon, en onana iki nato base de Laughlin Air Force konke ea kati.","Eara Del Rionko rankana iki, Texasain teeti kopi.",contradiction
+"Enra biche koshi joi Del Rionko kati, TX, jaskara ikax ea jain nokoketianra, jakon, en onana iki nato base de Laughlin Air Force konke ea kati.",Eara Texasyain jawetianbi kayosma iki,neutral
+"Enra biche koshi joi Del Rionko kati, TX, jaskara ikax ea jain nokoketianra, jakon, en onana iki nato base de Laughlin Air Force konke ea kati.","Nato fuerzas aéreasninra ea Del Rionko rankana iki, TX 2001 tian.",neutral
+"Kikin jatibi joninra champán xeai, ikaxbi jatibixonra ja nachita keyoyamakanai; ja copanko banetebora bakeboan xeai, jakopira noa jain iki, mayamayati itan ja jatibi champán xeai.",Ja bakeboanra xeakana ike 3 botellas de champaña.,neutral
+"Kikin jatibi joninra champán xeai, ikaxbi jatibixonra ja nachita keyoyamakanai; ja copanko banetebora bakeboan xeai, jakopira noa jain iki, mayamayati itan ja jatibi champán xeai.",Ja bakeboanra ichama champaña xeakana ike.,contradiction
+"Kikin jatibi joninra champán xeai, ikaxbi jatibixonra ja nachita keyoyamakanai; ja copanko banetebora bakeboan xeai, jakopira noa jain iki, mayamayati itan ja jatibi champán xeai.",Jatibi pishtara ike manxan itan xeati peobota metex yamakanke.,neutral
+Jarake icha historiabo nato desnuda jemanko.,Enra jawebi historiabo ninkatama iki,neutral
+Jarake icha historiabo nato desnuda jemanko.,Jara icha historiabo militarboki yoi ikabo.,neutral
+Jarake icha historiabo nato desnuda jemanko.,Jarake icha historiabo yoikanaibo.,entailment
+"Jatiriki itan axeti riki, min onanke,jawetianki tanai, eh, avión.",Enra avionbo tanati jawekiboki jawebi onanyamake.,neutral
+"Jatiriki itan axeti riki, min onanke,jawetianki tanai, eh, avión.",Avionbo tanatiainra mia mesko keska jawekibo axeai.,neutral
+"Jatiriki itan axeti riki, min onanke,jawetianki tanai, eh, avión.",Avionbo tanatiainkora mia axeakai nato presión gestionanti.,neutral
+Eara yoikasai jara ike jatibi ja punto.,Enra ja punto ninkastiayamai.,neutral
+Eara yoikasai jara ike jatibi ja punto.,En shinanra ike ja punto jaweska onsarin ixon noa yoiti.,neutral
+Eara yoikasai jara ike jatibi ja punto.,Enra moa ninkake ja punto.,neutral
+"Westiora nato base aéreainoaxra ike Cuba manao winotaikiax, itan akanke Rudolph Anderson pakekin.",Jatibi aviónbora sobrevivenkana iki tson toakamabi.,contradiction
+"Westiora nato base aéreainoaxra ike Cuba manao winotaikiax, itan akanke Rudolph Anderson pakekin.",Jawera Cubanko paxakanke.,"the hypothesis ""jawera cubanko paxakanke"" translates to ""there is war in cuba,"" while the premise discusses some events related to a military base and an individual named rudolph anderson within the context of cuba. the premise does not directly state there is war in cuba; it could imply military tension or maneuvers but not necessarily an outright war. therefore, the relationship between the premise and hypothesis is 'neutral'."
+"Westiora nato base aéreainoaxra ike Cuba manao winotaikiax, itan akanke Rudolph Anderson pakekin.",Ja kikin ani aviónra poxakana iki Cuba manaonko mayo oxen.,entailment
+"Jaweska ikaxra nato itiatipanke ja rekena jaweki bake ikax ea ikatiai jaweki en shinananai, ja jakoma jaweki parishaman kaya akabo ikentian.",Kikin jawebira en shinanyamai ea baketian ikatiai jawekibo.,neutral
+"Jaweska ikaxra nato itiatipanke ja rekena jaweki bake ikax ea ikatiai jaweki en shinananai, ja jakoma jaweki parishaman kaya akabo ikentian.",Kikin jakomara ea sientemetai ramakamanbi.,entailment
+"Jaweska ikaxra nato itiatipanke ja rekena jaweki bake ikax ea ikatiai jaweki en shinananai, ja jakoma jaweki parishaman kaya akabo ikentian.",Jara ika iki nokon rekena recuerdobo.,neutral
+"Simplementera wiso iti jato gustanyamake ja netebo, itan jara ike, minra moa onanke, en suponena riki, jaweska ikax ja ibirake, min onanke, nato década de 1930 peokotaitian, jatian akanontian.",Wiso itira suryain kikin itikoma iki.,neutral
+"Simplementera wiso iti jato gustanyamake ja netebo, itan jara ike, minra moa onanke, en suponena riki, jaweska ikax ja ibirake, min onanke, nato década de 1930 peokotaitian, jatian akanontian.",¡Kikin itibiresra ikatiai wiso iti!,contradiction
+"Simplementera wiso iti jato gustanyamake ja netebo, itan jara ike, minra moa onanke, en suponena riki, jaweska ikax ja ibirake, min onanke, nato década de 1930 peokotaitian, jatian akanontian.",Wiso itira kikin itikoma ikatiai jatian.,neutral
+Tsonra onanyama ika iki jawenoki bokanai ixon.,Jatixonbira onana ika iki jawenoki bokanai ixon.,contradiction
+Tsonra onanyama ika iki jawenoki bokanai ixon.,Tsonra onanyama ika iki jawerato xobonki bokanai ixon.,entailment
+Tsonra onanyama ika iki jawenoki bokanai ixon.,Jawen destinora ike kikin tson onantima.,neutral
+Itan baneti atipanyamakanke nato Augusta áreanko joniboan onana ikentian nato jaweki kikin tabú ikenbi jaton akaskasa ikentian itan joxo joni keskakatax winokasaitian.,Joniboanra shinanamabobi ike natobo joxo mabobo.,entailment
+Itan baneti atipanyamakanke nato Augusta áreanko joniboan onana ikentian nato jaweki kikin tabú ikenbi jaton akaskasa ikentian itan joxo joni keskakatax winokasaitian.,Joniboanra onana ike afroamericanobo.,contradiction
+Itan baneti atipanyamakanke nato Augusta áreanko joniboan onana ikentian nato jaweki kikin tabú ikenbi jaton akaskasa ikentian itan joxo joni keskakatax winokasaitian.,Joniboanra onana ike natobo joxo mabo.,contradiction
+"Jen jen, jakon, ja bakeranonra neno iki.",Ja bakeranonra neno itinke.,entailment
+"Jen jen, jakon, ja bakeranonra neno iki.",Ja jonisira ramabi pikoke hace 2 minutos.,neutral
+"Jen jen, jakon, ja bakeranonra neno iki.",Jaisira (joni) neno joyosma iki.,entailment
+Telenko jaweki oinira noa ike.,Noara televisiónma ika iki.,contradiction
+Telenko jaweki oinira noa ike.,Televisión oinira noa ike.,contradiction
+Telenko jaweki oinira noa ike.,Noticiabo televisiónyen oinara noa ike.,neutral
+"Jaskara ikaxra, en shinanai Ramona betan yoyo iribati.",Jawetianbira ea Ramona betan yoyoiyosma iki.,entailment
+"Jaskara ikaxra, en shinanai Ramona betan yoyo iribati.",Ramona betanra ea jakiribi yoyoiribake.,contradiction
+"Jaskara ikaxra, en shinanai Ramona betan yoyo iribati.",Kikin jakonra ea jabe yoyo ike.,"the hypothesis is an exact contradiction of the premise provided. therefore, the answer is 'contradiction'."
+"Ja baja bichora ike nato Crisis de Cubankonia itan, eh, Kaiser, eh, jara nato imágenboya ike itan noyake Andrews Air Force pontebi Washingtonko.",10 000 jonira nato crisis Cubanainko mawakanke.,neutral
+"Ja baja bichora ike nato Crisis de Cubankonia itan, eh, Kaiser, eh, jara nato imágenboya ike itan noyake Andrews Air Force pontebi Washingtonko.",Westiora joniresra nato crisis Cubanainko mawake.,neutral
+"Ja baja bichora ike nato Crisis de Cubankonia itan, eh, Kaiser, eh, jara nato imágenboya ike itan noyake Andrews Air Force pontebi Washingtonko.",Westiora joniresra mawake accidentenko nato ja crisis Cubanko.,neutral
+"Hum itan jan yoike... yoike...yoike...cariño, yoike, minra nato vida en akai keska akin entiendeyamai.",Janra yoike ni ideaomabobiri riki ixon.,the relationship between the premise and hypothesis is 'neutral'.
+"Hum itan jan yoike... yoike...yoike...cariño, yoike, minra nato vida en akai keska akin entiendeyamai.",Janra yoike mesko nato vidankonia onana.,neutral
+"Hum itan jan yoike... yoike...yoike...cariño, yoike, minra nato vida en akai keska akin entiendeyamai.",Eara yoike minra onanyamake jaweskatiki nato nete real funcionanai ixon itan ja chibantiki.,neutral
+"Japekaora merakanke itan ea neskara keska baneke, kikin jakon. ¿Jaweki en nato akai?",Nato artilugiomakaiki utilizanai ika.,neutral
+"Japekaora merakanke itan ea neskara keska baneke, kikin jakon. ¿Jaweki en nato akai?",Enra onanyamake jaweatikaiki en usanai ixon.,entailment
+"Japekaora merakanke itan ea neskara keska baneke, kikin jakon. ¿Jaweki en nato akai?",¡Enra onana ike jaweskaxon utilizantirin ixon!,contradiction
+"Westiora minutores ea meniwe, cuentankaskin, ea, hum, moa kai.",Eara moa ramabi katires iki.,entailment
+"Westiora minutores ea meniwe, cuentankaskin, ea, hum, moa kai.",Eara westiora minuto neno kenai.,neutral
+"Westiora minutores ea meniwe, cuentankaskin, ea, hum, moa kai.",Eara westiora minuto kenai nokon shinanbo biti kopi.,neutral
+Jakopira ea Washington D.C.yain ka iki itan pontebishamanra ea kayama iki jain ea rankanaikon.,Washington D. C. yain kayosma riki ea.,neutral
+Jakopira ea Washington D.C.yain ka iki itan pontebishamanra ea kayama iki jain ea rankanaikon.,D. C. yainra ea ka iki nokon supervisor oini.,neutral
+Jakopira ea Washington D.C.yain ka iki itan pontebishamanra ea kayama iki jain ea rankanaikon.,Eara ka iki nato capital de la naciónyain.,entailment
+Jariki westiora joni wiso jawen yoya claraya.,Jara ika iki kikin ikon atima wisoshaman yoraya.,neutral
+Jariki westiora joni wiso jawen yoya claraya.,Jara jawen yora joxocha ike afroamericana jisama.,neutral
+Jariki westiora joni wiso jawen yoya claraya.,Jara kikin ligera ika iki wetsa jabe raenanai wisobo winoa.,neutral
+"Jaskara ikenbira, papa kai itan westiora vaso ani lecheya itan chocolateyara ea axonbainai.",Papanra ea ichama leche chocolateya neverainoa menike.,entailment
+"Jaskara ikenbira, papa kai itan westiora vaso ani lecheya itan chocolateyara ea axonbainai.",Papanra ea westiora vaso lecheya metexonke.,entailment
+"Jaskara ikenbira, papa kai itan westiora vaso ani lecheya itan chocolateyara ea axonbainai.",Papanra yoike en bexnan eati atipanyama.,contradiction
+Ja DOT ninra ja inmueble marokin bireske itan ja.,Ja Departamento de Transporteninra wetsa propiedad merati iki alquilanti ja itinama.,neutral
+Ja DOT ninra ja inmueble marokin bireske itan ja.,Ja propiedad itan ja equipora ja DOTnin marokin bike.,neutral
+Ja DOT ninra ja inmueble marokin bireske itan ja.,DOT ninra tres millones de dólares winoa kopi bike ja propiedad.,neutral
+Jara pikota bira ika iki.,Diciembre 2010 tian pikoti mankanara ika iki.,neutral
+Jara pikota bira ika iki.,Non suponena ikewetin noa pikota iti.,neutral
+Jara pikota bira ika iki.,Non suponena ikewetin pikotima akin.,neutral
+"Eariki neskara keska, enra onanke jati ocho ea nokota.",Enra jato yoike en onanyama nato jaweki en aki iitaibo.,neutral
+"Eariki neskara keska, enra onanke jati ocho ea nokota.",Enra jato yoike en onana ika iki jawen expectativabo superana 40% kaman.,neutral
+"Eariki neskara keska, enra onanke jati ocho ea nokota.",Enra jato yoike enra onanke jaweki en lograna ixon.,contradiction
+"Vale, ¿minki ea ninkati atipana?",¿Minki ramabi ea ninkati atipana?,neutral
+"Vale, ¿minki ea ninkati atipana?",¿Minki ninkati atipana en mia yoi iitai?,entailment
+"Vale, ¿minki ea ninkati atipana?",Eanra onanke min ea ninkati atipanyama.,contradiction
+"Mmm, ¿jawebi? Min yoiye jawebi min yoyo aka shinanyamai, ikaxbi, moa mia ticha axeti xobonko ikentianka, ¿westiora libro min ken iamax min kenmaki yama ikatiai?",¿Miaki Harry Potternin librobo gustana iamax akama?,neutral
+"Mmm, ¿jawebi? Min yoiye jawebi min yoyo aka shinanyamai, ikaxbi, moa mia ticha axeti xobonko ikentianka, ¿westiora libro min ken iamax min kenmaki yama ikatiai?",¿ Min kenki ika iamax min kenmaki ika jaweti librobo?,entailment
+"Mmm, ¿jawebi? Min yoiye jawebi min yoyo aka shinanyamai, ikaxbi, moa mia ticha axeti xobonko ikentianka, ¿westiora libro min ken iamax min kenmaki yama ikatiai?",Enra onanke mia meraxonkana jatibi librobo min yoyo akabo.,neutral
+"Westiora hélice maxko riki westiora inyección fraguanai, ikaxbi ja tubo de presión jan pilotonin joinaira itan nato contrapresión.",Ja tornilloninra nato presión jakoma akai.,neutral
+"Westiora hélice maxko riki westiora inyección fraguanai, ikaxbi ja tubo de presión jan pilotonin joinaira itan nato contrapresión.",Ja tornillora maxko itan pene iki.,neutral
+"Westiora hélice maxko riki westiora inyección fraguanai, ikaxbi ja tubo de presión jan pilotonin joinaira itan nato contrapresión.","Tornillobora yamake, botonboresra jake.",neutral
+"Jara neskatai, masa shinanyamawe, min onanke, min kenati basiwe.",Janra ea yoike ishtonti.,contradiction
+"Jara neskatai, masa shinanyamawe, min onanke, min kenati basiwe.",Eara yoike jaweiyamai noa jaweti horabires ja aki basiaitian.,neutral
+"Jara neskatai, masa shinanyamawe, min onanke, min kenati basiwe.",Eara yoike ishtoma kati.,neutral
+"Nato apo Kennedyninra neskakin pilotobo yoiyai, yoiyai, 'Caballeros,matonta jakon fotobo akai'.",Kennedyninra jato onanyamake.,entailment
+"Nato apo Kennedyninra neskakin pilotobo yoiyai, yoiyai, 'Caballeros,matonta jakon fotobo akai'.",Kennedyra yoyo ike nato pilotos de la Fuerza Aéreabobetan.,neutral
+"Nato apo Kennedyninra neskakin pilotobo yoiyai, yoiyai, 'Caballeros,matonta jakon fotobo akai'.",Kennedyra pilotobobetan yoyo ike.,contradiction
+"Itan eara ike neskara sientemeti, kikin moa acabado keska.",Enra yoike 10minutos kaman ensenen akai.,neutral
+"Itan eara ike neskara sientemeti, kikin moa acabado keska.",Enra jawetianbira min keyoyamai akin yoike.,neutral
+"Itan eara ike neskara sientemeti, kikin moa acabado keska.",Enra mato yoike moa keyotira ike akin.,neutral
+Enra tratanke jatibi wishakin.,Eara jawekibo wishai biri iitai.,"to accurately determine the relationship between the premise and hypothesis in shipibo-conibo, a comprehensive understanding of the language is essential. based solely on the provided statements:
+
+premise: ""enra tratanke jatibi wishakin.""
+hypothesis: ""eara jawekibo wishai biri iitai.""
+
+without context or additional information in the shipibo-conibo language, a definitive analysis is not possible. however, based on the wording and structure, if the premise suggests a specific action or state involving 'wishakin' and the hypothesis significantly diverges by introducing new subjects or actions (e.g., 'wishai' and 'iitai'), it could indicate:
+
+- 'contradiction' if the actions or states in the premise and hypothesis are inherently opposed.
+- 'entailment' if the action in the premise directly leads to or includes the state or action in the hypothesis.
+- 'neutral' if there is no clear direct relationship between them—neither opposition nor cause-and-effect.
+
+given the lack of explicit cues from these statements alone, the relationship is likely 'neutral'."
+Enra tratanke jatibi wishakin.,Eara jawebi wishakashamake.,entailment
+Enra tratanke jatibi wishakin.,Enra wishake jatibi tee aka yoiyabo.,contradiction
+"Ikama, jara pikota iki 1900 baritian 16 baritiayara ika iki, itan ibira ika iki 1926 tian. 19, min onanke, 1930 ikamabi.",Pikota iki 1 de enero oxe 1900 baritia.,entailment
+"Ikama, jara pikota iki 1900 baritian 16 baritiayara ika iki, itan ibira ika iki 1926 tian. 19, min onanke, 1930 ikamabi.",Jara siglo peokotaitian pikota iki,neutral
+"Ikama, jara pikota iki 1900 baritian 16 baritiayara ika iki, itan ibira ika iki 1926 tian. 19, min onanke, 1930 ikamabi.",Jara pikotama iki 1943 ikamabi.,contradiction
+Jaskara ikaxra kikin interesante ike.,Kikin interesadara ea ike jawetiki en piti atipana ixon onankasi.,entailment
+Jaskara ikaxra kikin interesante ike.,Kikin intesadomara ea ike.,entailment
+Jaskara ikaxra kikin interesante ike.,Enra interesante merake.,neutral
+"Jawen poira joxo keskatax winoke, itan neskatax joxo keskati winoke.",Jawen poira kikin jatibi vecindarionkoniabaon yora winoa metsa iki.,contradiction
+"Jawen poira joxo keskatax winoke, itan neskatax joxo keskati winoke.",Jatibitianra suponenkana iki jawen poi joxo.,entailment
+"Jawen poira joxo keskatax winoke, itan neskatax joxo keskati winoke.",nato wetsa Sher ra ikatiai kikin lúgubre.,neutral
+"Jakon, kikin yosira ikatiai jawen papa iti jisa.",Jara ika iki 27 baritia mayor que ja ainbo.,neutral
+"Jakon, kikin yosira ikatiai jawen papa iti jisa.",Jara ikatiai kikin bakeranobirex ja ainbo winoa.,neutral
+"Jakon, kikin yosira ikatiai jawen papa iti jisa.",Ja jonira ainbo winoa yosicha iki.,entailment
+"Ja, eara ika iki eabicho 922 nato soporte vitalnin joni, ja wetsa jonira ika iki westiora apoyo fisiológico.",Tsonra jawekeska apoyobi meniamake.,neutral
+"Ja, eara ika iki eabicho 922 nato soporte vitalnin joni, ja wetsa jonira ika iki westiora apoyo fisiológico.",Wetiora joninra apoyo fisiológico ja tropabo menike.,neutral
+"Ja, eara ika iki eabicho 922 nato soporte vitalnin joni, ja wetsa jonira ika iki westiora apoyo fisiológico.",Wetiora joninra apoyo fisiológico menike.,entailment
+"Itan neno riki ea jorai ixon shinanani, min onanke, ebe tsekanoxon, min onanke, ea sina aki cambiama keska.",En onanara ike ja neno joyamabiresai.,neutral
+"Itan neno riki ea jorai ixon shinanani, min onanke, ebe tsekanoxon, min onanke, ea sina aki cambiama keska.",En shinanara ike timanankasi joi.,contradiction
+"Itan neno riki ea jorai ixon shinanani, min onanke, ebe tsekanoxon, min onanke, ea sina aki cambiama keska.",En shinanra ike nokon tonoki jejametai.,entailment
+"Jakon, jaskara riki, necesarioma riki westiora error non cometenti atipanyama iti.",Jakon riki non jaweti errorbo cometena.,entailment
+"Jakon, jaskara riki, necesarioma riki westiora error non cometenti atipanyama iti.",Nin westiora errorbira noa atima yoikanai.,contradiction
+"Jakon, jaskara riki, necesarioma riki westiora error non cometenti atipanyama iti.",Noara jawebi jakomakin deletreanmayamakanke.,neutral
+"Itan, oh, ikaxbi, oh, en shinanai, yamera ea oxati atipanyamai.",Eara yame jakoni oxakastiamai.,neutral
+"Itan, oh, ikaxbi, oh, en shinanai, yamera ea oxati atipanyamai.",Enra jakomabo namaresai jaboanra ea oxamakastimayamai.,contradiction
+"Itan, oh, ikaxbi, oh, en shinanai, yamera ea oxati atipanyamai.",Yamera ea westiora bakeshoko betan oxai.,neutral
+Westiora jaweki ja ikonbires jayata westiora ani defensa.,Jara defiendemeti atipanke nato ochitibo salvajeboki.,neutral
+Westiora jaweki ja ikonbires jayata westiora ani defensa.,Jara jakoni defiendemeta iki.,"the premise entails the hypothesis. the phrase ""westiora jaweki ja ikonbires jayata westiora ani defensa"" in the premise suggests that something like a community or a group is providing defense, which aligns with the hypothesis ""jara jakoni defiendemeta iki,"" implying that someone or something is being defended. therefore, the relationship is 'entailment'."
+Westiora jaweki ja ikonbires jayata westiora ani defensa.,Jara ikatiai ikon atima keska vulnerable.,neutral
+"Um, jakopira jawetianbi yoiyama iki--",Janra yoike jatibi jaweki onankasi ikabo,neutral
+"Um, jakopira jawetianbi yoiyama iki--",Jawebira ea yoiyamakanke nato protocolo de seguridadki.,neutral
+"Um, jakopira jawetianbi yoiyama iki--",Wetsatianra ea yoiyamakanai.,entailment
+Jaskara ikax nato zonanko noa ikatiai.,Non robora ikatiai neke.,entailment
+Jaskara ikax nato zonanko noa ikatiai.,Non xobora ikatiai nenoax ocho.,neutral
+Jaskara ikax nato zonanko noa ikatiai.,Non xobora rabe manzana winobaini iki.,"to determine whether the premise entails, contradicts, or is neutral towards the hypothesis, a translation and understanding of the meaning of both sentences would be necessary. unfortunately, i don't have the capability to translate shipibo-conibo text directly. generally, if the premise logically leads to the hypothesis being true, it is entailment. if the premise makes the hypothesis impossible or unlikely, it's a contradiction. if the relationship between the premise and hypothesis cannot be determined from the information provided, it's neutral. you may want to consult with a translator or someone who understands shipibo-conibo to analyze the relationship between the two statements."
+"Itan kikin ishton yoyo iki riki, telefónonin yoyo iki riki.",Kikin ishtonmashoko atipana senen yoyo iki riki.,neutral
+"Itan kikin ishton yoyo iki riki, telefónonin yoyo iki riki.",Wetiora iPhonenin yoyo iki riki.,neutral
+"Itan kikin ishton yoyo iki riki, telefónonin yoyo iki riki.",Móvilnin yoyo iki riki.,entailment
+"Enra shinanti atipanyamake jaskara ika, ikaxbi iitimabira ea kikin nervioso ike axeti xobonko privera vez kai shinanax itan jaweska ikax ika iki ja nokon nete bebon estresante ika nato vidanko.",Kikin relajadora ike nato escuela akin peoti.,contradiction
+"Enra shinanti atipanyamake jaskara ika, ikaxbi iitimabira ea kikin nervioso ike axeti xobonko privera vez kai shinanax itan jaweska ikax ika iki ja nokon nete bebon estresante ika nato vidanko.",Preocupadora ea ike escuelanko kati ikentian,neutral
+"Enra shinanti atipanyamake jaskara ika, ikaxbi iitimabira ea kikin nervioso ike axeti xobonko privera vez kai shinanax itan jaweska ikax ika iki ja nokon nete bebon estresante ika nato vidanko.",Preocupadora ea ike jardín de infancia peoti ikentian,neutral
+"Eh, St. Louis pikotainra jakatiai, Jefferson City itan St. Louis, MO xaran.",Texasainra ea jakatiai.,"the relationship is 'neutral'. the premise discusses locations related to st. louis and jefferson city in missouri, while the hypothesis states that the speaker is in texas. these statements do not provide information that entails or contradicts each other; therefore, the relationship is neutral."
+"Eh, St. Louis pikotainra jakatiai, Jefferson City itan St. Louis, MO xaran.",Eara ikatia westiora xobo panshiain Missourinko.,entailment
+"Eh, St. Louis pikotainra jakatiai, Jefferson City itan St. Louis, MO xaran.",Missouriainra ika iki.,'entailment'
+"Westiora lugar onantibires Del Rionko jato informanira iki, japeora ea Laughlin Air Force Basenko katanke, jakiribi kepenriba ike.",Nato Base Aérea Laughlinra westiora tiempo xepo ike.,entailment
+"Westiora lugar onantibires Del Rionko jato informanira iki, japeora ea Laughlin Air Force Basenko katanke, jakiribi kepenriba ike.",Nato Base de la Fuerza Aérea Laughlinra jatibian kepen ika iki.,entailment
+"Westiora lugar onantibires Del Rionko jato informanira iki, japeora ea Laughlin Air Force Basenko katanke, jakiribi kepenriba ike.",Nato Base de la Fuerza Aérea de Laughlinra westiora hogar 10 000 soldadoboana iki.,neutral
+Nokonara igual iki jawekaxonki min akai ixon.,Eara importanyamake jawe colorki min biai ixon.,neutral
+Nokonara igual iki jawekaxonki min akai ixon.,Rama rama bishokobora en apruebanti jake.,neutral
+Nokonara igual iki jawekaxonki min akai ixon.,Eara interesanyamake jaweskaxonki min keyoai ixon.,entailment
+"Jaskara ikentian en bochiki oinai, Ramona jain ika en onani itan jain en kenai.",Nokon xobonra en Ramona kenake.,neutral
+"Jaskara ikentian en bochiki oinai, Ramona jain ika en onani itan jain en kenai.",Ramonara en kenake jawenorin ixon onanoxon.,neutral
+"Jaskara ikentian en bochiki oinai, Ramona jain ika en onani itan jain en kenai.",Ramona oinama keskara ea ike.,entailment
+"Jaskara itainbira nato Fuerza Aéreanin nato SR71 marokin bike, rama ja A-12, ja CIAb betan noa teeti iitai .",Nato Fuerza Aéreaninra 18 aviónbo marokin bike.,neutral
+"Jaskara itainbira nato Fuerza Aéreanin nato SR71 marokin bike, rama ja A-12, ja CIAb betan noa teeti iitai .",Nato Fuerzas Aéreaboanra aviónbo marokin bikanke.,entailment
+"Jaskara itainbira nato Fuerza Aéreanin nato SR71 marokin bike, rama ja A-12, ja CIAb betan noa teeti iitai .",Nato Fuerza Aéreara jawe planyoma ike.,neutral
+¿Jaskara ikax jawen wetsan beneribi yora clara ikatiai?,Jawen wetsara westiora joni wiso beneya iki.,neutral
+¿Jaskara ikax jawen wetsan beneribi yora clara ikatiai?,Jawen wetsara moa beneya iki.,contradiction
+¿Jaskara ikax jawen wetsan beneribi yora clara ikatiai?,Jawen wetsara beneoma iki.,entailment
+"Ikaxbi moa ani ani kainkira, jawetianbi reconocenama iki equivocameni, ikaxbi jawen ika jaweki cambiana iki.",Janra jawetianbi jawen ika jaweki cambiayosma iki.,neutral
+"Ikaxbi moa ani ani kainkira, jawetianbi reconocenama iki equivocameni, ikaxbi jawen ika jaweki cambiana iki.",Janra jawetianbi eara equivocameke iki iyosma iki.,the relationship between the premise and the hypothesis is 'neutral'.
+"Ikaxbi moa ani ani kainkira, jawetianbi reconocenama iki equivocameni, ikaxbi jawen ika jaweki cambiana iki.",Janra yoiyosma iki razónya sobre nato pastel de carneki.,neutral
+"Nokon epa, jara kikin ani chaval iki.",Nokon epara kikin jakon ea paketai.,neutral
+"Nokon epa, jara kikin ani chaval iki.",¡Nokon epara westiora imbécil iki!,contradiction
+"Nokon epa, jara kikin ani chaval iki.",Nokon epara kikin akinmisti shinanya iki.,neutral
+"Jain xoboya nokon wetsa ikenra ea ka iki jaiba. Jawen benera serviocionko ika iki itan teeta iki ja Inteligenciain, itan ea jawen xobon ka iki.",Nokon benewetsara ejércitonko ika tiai.,neutral
+"Jain xoboya nokon wetsa ikenra ea ka iki jaiba. Jawen benera serviocionko ika iki itan teeta iki ja Inteligenciain, itan ea jawen xobon ka iki.",Nokon benewetsara ikatiai ja servicio ikainko.,neutral
+"Jain xoboya nokon wetsa ikenra ea ka iki jaiba. Jawen benera serviocionko ika iki itan teeta iki ja Inteligenciain, itan ea jawen xobon ka iki.",Nokon wetsara jawetiabi alistameyosma iki.,neutral
+"Enra shinantiki. Jakon, kai, enra wetsa kati jeneai, ikaxbi japekora en shiantiki, ¡nokon Rios!",En shinanara ike wetsa nokon toan ranai.,neutral
+"Enra shinantiki. Jakon, kai, enra wetsa kati jeneai, ikaxbi japekora en shiantiki, ¡nokon Rios!",En shinanara ike wetsa nokon toan nato reunionyen ja lugar meniai.,neutral
+"Enra shinantiki. Jakon, kai, enra wetsa kati jeneai, ikaxbi japekora en shiantiki, ¡nokon Rios!",Enra moa wetsabo ranyamai ike.,neutral
+"Westiora minuto ikenra escritorio timai, japeora jakon ikai, nokon escritorio ainoa biwe, da, da, da, da, da.",Jawen shinanbora bebonira cambianai.,neutral
+"Westiora minuto ikenra escritorio timai, japeora jakon ikai, nokon escritorio ainoa biwe, da, da, da, da, da.",Min opinión cambianwe minra onanyamake jaweki aki iitai ixon.,neutral
+"Westiora minuto ikenra escritorio timai, japeora jakon ikai, nokon escritorio ainoa biwe, da, da, da, da, da.",Jara kikin constante itan kikin iiyosma shoko.,neutral
+"Jakon, jaskara ikaxbira, jain jikikainke itan neskarara ike ¿jaweskaki jawekibo kai ikai kesra ike?.",Jaweskaki jawekibo kai ixonra yokake.,neutral
+"Jakon, jaskara ikaxbira, jain jikikainke itan neskarara ike ¿jaweskaki jawekibo kai ikai kesra ike?.",Nonki documental keyoai ixonra noa yokake.,neutral
+"Jakon, jaskara ikaxbira, jain jikikainke itan neskarara ike ¿jaweskaki jawekibo kai ikai kesra ike?.",Janra noa yoyo ayamabobike.,neutral
+"Japekaora nokon rueda mayamai ea iitai, en onanyamake, kikin ibaitai keskara en oinbake.",Eara ishtonke itan en kikin ishtonbires en keyoke.,neutral
+"Japekaora nokon rueda mayamai ea iitai, en onanyamake, kikin ibaitai keskara en oinbake.",Eara jain yakake rabe hora kaman.,neutral
+"Japekaora nokon rueda mayamai ea iitai, en onanyamake, kikin ibaitai keskara en oinbake.",Nokon ruedara en basi mayamake.,entailment
+Itan jara tuberculosiya ikatiai itan enra jawetianbi nikayosmaribi ika tiai.,Enra onanyama ike tuberculosisnin mawakeana.,neutral
+Itan jara tuberculosiya ikatiai itan enra jawetianbi nikayosmaribi ika tiai.,Enra onanyama ike tuberculosisya.,entailment
+Itan jara tuberculosiya ikatiai itan enra jawetianbi nikayosmaribi ika tiai.,Enra onana ikejakomashoko tuberculosis isiman ikai.,entailment
+"Min onanke, min atipanyamake, miara sobrevivemeti atipanyamake jawebi contrapresión yamax, jaskara bochiki ikax ja presión kikini keyati.",Nato mostradornin presióninra mia jatibiatian reteai.,neutral
+"Min onanke, min atipanyamake, miara sobrevivemeti atipanyamake jawebi contrapresión yamax, jaskara bochiki ikax ja presión kikini keyati.",Miara maxkake westiora contrapresión superior a 5000 pies.,neutral
+"Min onanke, min atipanyamake, miara sobrevivemeti atipanyamake jawebi contrapresión yamax, jaskara bochiki ikax ja presión kikini keyati.",Miara maxkake westiora contrapresión ja altitud.,entailment
+"Jatianbira en peoke, eh, entrenani wetsa rabe bakeranon jain ikabobetan.","Enra entremiento biyosma iki, jakopira en avanzankin descubrenke.",neutral
+"Jatianbira en peoke, eh, entrenani wetsa rabe bakeranon jain ikabobetan.",Rabe bakeranonboanra ea entrenana iki ja tiendanko teeti kopi.,neutral
+"Jatianbira en peoke, eh, entrenani wetsa rabe bakeranon jain ikabobetan.",Rabe epanra ea entrenanke.,contradiction
+"Westiora ápice ikentianra, jaweti ajuste min reguladoryain ati jake.",Jawera valenyamake ja regulador.,neutral
+"Westiora ápice ikentianra, jaweti ajuste min reguladoryain ati jake.",Ja reguladorninra cambiantiki jatibi presión min trajenkonia.,neutral
+"Westiora ápice ikentianra, jaweti ajuste min reguladoryain ati jake.",Reguladornin parira ea tsiniti jake.,the relationship between the premise and hypothesis is 'neutral'.
+"Oh, ea bicho respaririki iskon rabe rabe nato iyección reguladoryain ani westiora akin.",Martesan inyector akara ibake.,neutral
+"Oh, ea bicho respaririki iskon rabe rabe nato iyección reguladoryain ani westiora akin.",Eara ika iki westiora 922,neutral
+"Oh, ea bicho respaririki iskon rabe rabe nato iyección reguladoryain ani westiora akin.",Eara westiora 922 iyosma iki.,the relationship between the premise and hypothesis is 'neutral'.
+"Nato ceremonia nupcialra entiendenyamabobi kanke, ni onanyamabobira ike moa casametabobi, ikon--",Janra entiendenyama ike ja bakeranonbetan moa jatibian nexakata jawetianbi onanyosma ikaxbi.,neutral
+"Nato ceremonia nupcialra entiendenyamabobi kanke, ni onanyamabobira ike moa casametabobi, ikon--",Entiendenyamaira ike jaweki winota ixon.,neutral
+"Nato ceremonia nupcialra entiendenyamabobi kanke, ni onanyamabobira ike moa casametabobi, ikon--",Onanara ike jawenoki niakatai ixon.,contradiction
+Noara jain jikitiki.,Jainra noa jikiai ike 8 p.m.,neutral
+Noara jain jikitiki.,Noara jikiai.,entailment
+Noara jain jikitiki.,Jawetianbira noa jikitima iki.,entailment
+"Itan janbixbi rechazametai jisara ike, jaweska keska, por, min onanke, jaskakin jato tratanpachoai, onanke, ja jawetsa jawen bababo.",Janra jatibi jato jaskakin bires tratanke.,entailment
+"Itan janbixbi rechazametai jisara ike, jaweska keska, por, min onanke, jaskakin jato tratanpachoai, onanke, ja jawetsa jawen bababo.",Wetsa jawen bababora wetsaresbi akin jato tratanai.,neutral
+"Itan janbixbi rechazametai jisara ike, jaweska keska, por, min onanke, jaskakin jato tratanpachoai, onanke, ja jawetsa jawen bababo.",Jawen bababora wetsaresbi akin tratanai wisobo ikentian.,contradiction
+"Kikin guayra kake, itan jan sayara shokores noyake niwen kopi--",Ja sayara ondeanai niwenko.,neutral
+"Kikin guayra kake, itan jan sayara shokores noyake niwen kopi--",Ja sayara kikin chixkoshoko iki itan jakopira shokores noyai.,neutral
+"Kikin guayra kake, itan jan sayara shokores noyake niwen kopi--",Niwera yama ike jakopira ja saya quieto ike.,neutral
+"Oh, kikin basi nokon tiempora ea winoke, neno, actividades especialesyain.",Actividades especialesyainra ea ike rabe nete winomax.,contradiction
+"Oh, kikin basi nokon tiempora ea winoke, neno, actividades especialesyain.",Eara actividades especialesain ika iki.,entailment
+"Oh, kikin basi nokon tiempora ea winoke, neno, actividades especialesyain.",Eara actividades especialesain iyosma iki.,neutral
+"Ikaxbi… jarakatikanai westiora jema Evans akanainko Augutainoax pikokain shoko, ramakamanbi jaresai. Jainra ea icha kaiboya pari iki jain jakanabo.",Rabe chonka kaibo Evansyain jakanara jaya ika iki.,entailment
+"Ikaxbi… jarakatikanai westiora jema Evans akanainko Augutainoax pikokain shoko, ramakamanbi jaresai. Jainra ea icha kaiboya pari iki jain jakanabo.",Atlantainra jakatikanai.,contradiction
+"Ikaxbi… jarakatikanai westiora jema Evans akanainko Augutainoax pikokain shoko, ramakamanbi jaresai. Jainra ea icha kaiboya pari iki jain jakanabo.","Evansainra jakana iki, jara ika iki kikin maxkoshoko.",neutral
+"Nokon wetsanra ea neskakin yoiresai, yoiyai: Wetsatian riki non yoxan keska, jonibo min jato jakomaresai jainmabiresbo.",Nokon wetsanra ea racistanin yoimiske.,contradiction
+"Nokon wetsanra ea neskakin yoiresai, yoiyai: Wetsatian riki non yoxan keska, jonibo min jato jakomaresai jainmabiresbo.",Nokon wetsanra yoike jatibianki ea amablema.,neutral
+"Nokon wetsanra ea neskakin yoiresai, yoiyai: Wetsatian riki non yoxan keska, jonibo min jato jakomaresai jainmabiresbo.",Nokon wetsanra yoike nokon xoyan jisamabobironki ea iki.,entailment
+"Hum, japekaora noa wetsa xobon bena ikain ka iki.",Noara ka iki wetsa xobo non ja paronko construinainko.,neutral
+"Hum, japekaora noa wetsa xobon bena ikain ka iki.",Noara trasladametaa iki bena residenciain.,neutral
+"Hum, japekaora noa wetsa xobon bena ikain ka iki.",Noara baneta iki ja xobonkobi jatibitian.,contradiction
+"Eara ika iki neskara keska, OK, jakon, jara jakon iki, min onanke, neskara.",Enra yoiya iki kikin akinbires en kenyamabiresai akin itan en anibires rechazanai akin,neutral
+"Eara ika iki neskara keska, OK, jakon, jara jakon iki, min onanke, neskara.",Enra yoike rama bewakan versiónra nokon ken akin.,neutral
+"Eara ika iki neskara keska, OK, jakon, jara jakon iki, min onanke, neskara.",Enra moa yoike nokon aprobaciónya.,neutral
+"Itan nato mancha de pinturara wetsaresbi ikai cada cien grados, jaweska ikax itiki joshin iwanaxbi yankon iki, en jishaman akares.",Nato pinturara ikai wetsaresbiti según color akaitian.,contradiction
+"Itan nato mancha de pinturara wetsaresbi ikai cada cien grados, jaweska ikax itiki joshin iwanaxbi yankon iki, en jishaman akares.",Nato pinturara wetsaresbitai jaskaxon min onanti kopi jaskara xana ikai min medinamabi.,neutral
+"Itan nato mancha de pinturara wetsaresbi ikai cada cien grados, jaweska ikax itiki joshin iwanaxbi yankon iki, en jishaman akares.",nato pinturara jatibitian wiso iki.,the relationship between the premise and the hypothesis is 'entailment'.
+"Enra kikin ishton pike, en atipa senen ishton itan japekaora ja jikike itan ea keyokinke ja jaweki.",Enra pizza pike rabe minuto ikamabi.,neutral
+"Enra kikin ishton pike, en atipa senen ishton itan japekaora ja jikike itan ea keyokinke ja jaweki.",Enra ishtonmashoko pike isintima kopi.,neutral
+"Enra kikin ishton pike, en atipa senen ishton itan japekaora ja jikike itan ea keyokinke ja jaweki.",Enra jawekiati zarpanke.,neutral
+Jawen wetsan beneribira ika iki jawen yora clara ribi.,Jawen benewetsara color claro ika iki.,entailment
+Jawen wetsan beneribira ika iki jawen yora clara ribi.,Jawen benewetsara Sueco ika iki.,neutral
+Jawen wetsan beneribira ika iki jawen yora clara ribi.,jawen wetsara beneoma ika iki,neutral
+"Jaskara ixonbi, neskara jaweki alto regulador de O2 keska pikoti jato ocurrimeta iki.",Jatonra westiora bena regulador pikokana iki.,entailment
+"Jaskara ixonbi, neskara jaweki alto regulador de O2 keska pikoti jato ocurrimeta iki.",Westiora regulador pikokana iki espacionko funcionanai.,neutral
+"Jaskara ixonbi, neskara jaweki alto regulador de O2 keska pikoti jato ocurrimeta iki.",Onanyamaresa ika iki jaweskaxon westiora regulador de oxígeno fabricanti.,contradiction
+"Itan jainoax, noa Las Vegasain ka iki, NV, itan en informana iki, Washingtonko aka keskaribiakin, onantima direcciónyain Las Vegas napon bekonshama.",Las Vegasainra ea kayosma iki.,entailment
+"Itan jainoax, noa Las Vegasain ka iki, NV, itan en informana iki, Washingtonko aka keskaribiakin, onantima direcciónyain Las Vegas napon bekonshama.",Eara teeta iki Las Vegasain itan Washingtonko ribi.,contradiction
+"Itan jainoax, noa Las Vegasain ka iki, NV, itan en informana iki, Washingtonko aka keskaribiakin, onantima direcciónyain Las Vegas napon bekonshama.",Taxista keskara ea teeta iki ja rabe jemankobi.,contradiction
+"Jen jen, 4.º jara kikin divertido ike.",¡Kikin jatibi ja axeti xobora nokon kema ikatiai!,contradiction
+"Jen jen, 4.º jara kikin divertido ike.",Nokon kenra ike cuarto grado rabe recesoya ikentian.,entailment
+"Jen jen, 4.º jara kikin divertido ike.",Nokon kenra ika tiai cuarto grado.,"the premise ""jen jen, 4.º jara kikin divertido ike"" translates to ""he/she is happy, 4th grade is very fun."" the hypothesis ""nokon kenra ika tiai cuarto grado"" translates to ""i am tired of being in 4th grade."" 
+
+the premise describes the 4th grade as fun and positive, whereas the hypothesis expresses tiredness with being in the 4th grade, which is a negative sentiment. these statements convey opposite sentiments regarding being in the 4th grade. 
+
+therefore, the relationship is 'contradiction'."
+"Westiora archivo keska riki kikin icha meskokeska pestañaboya, min onanke. Ja pestañabora westiora hoja de cálculo keskaya iki ja jisama.",Ja páginara westiora númerobo joyotares iki.,neutral
+"Westiora archivo keska riki kikin icha meskokeska pestañaboya, min onanke. Ja pestañabora westiora hoja de cálculo keskaya iki ja jisama.",Nato tabulacionbora kikin icha datoboya iki.,entailment
+"Westiora archivo keska riki kikin icha meskokeska pestañaboya, min onanke. Ja pestañabora westiora hoja de cálculo keskaya iki ja jisama.",Nato pestañaboanra noa oinmai ramabishoko saldo itina nato jatibi cuentaboana.,neutral
+Eara importanyamke jaweskaxonki min akai ixon.,Eara importanyamake minki akai iamax minki jato contratanai ixon.,neutral
+Eara importanyamke jaweskaxonki min akai ixon.,Eara importanyame jaweratorin min método ixon.,neutral
+Eara importanyamke jaweskaxonki min akai ixon.,Eara onankasai jaweskaxonshamanki min nato aki kai ixon.,entailment
+Itan bokana iki Mallard Creekain Charlottenko.,Mallard Creekainra xoboakana iki.,neutral
+Itan bokana iki Mallard Creekain Charlottenko.,Jawetianbira Charlotteainko bokanama iki.,"the premise ""itan bokana iki mallard creekain charlottenko"" translates to ""he/she/they is/are going to mallard creek in charlotte."" the hypothesis ""jawetianbira charlotteainko bokanama iki"" translates to ""he/she/they are not going to charlotte.""
+
+the premise and the hypothesis contradict each other because the premise states that the person is going to a location within charlotte, whereas the hypothesis states that the person is not going to charlotte. therefore, the relationship is 'contradiction'."
+Itan bokana iki Mallard Creekain Charlottenko.,Japekaora Mallard Creekain jakana iki.,neutral
+"Ja jain ikatiai westiora, jara ika iki westiora ministronin bake, jaskara iakax ja jaya ika iki, jatora propiedadesboya ika iki, itan wetsa jawekibo riki, itan kikini jakoni conectameta ika iki jemanko itan ikatiai kikin akin, kikin akin estimankana.",Jawen papara pastor luterano ikaitia.,neutral
+"Ja jain ikatiai westiora, jara ika iki westiora ministronin bake, jaskara iakax ja jaya ika iki, jatora propiedadesboya ika iki, itan wetsa jawekibo riki, itan kikini jakoni conectameta ika iki jemanko itan ikatiai kikin akin, kikin akin estimankana.",Jawen papara ikatiai westiora covicto kikin iglesianko kayosma.,neutral
+"Ja jain ikatiai westiora, jara ika iki westiora ministronin bake, jaskara iakax ja jaya ika iki, jatora propiedadesboya ika iki, itan wetsa jawekibo riki, itan kikini jakoni conectameta ika iki jemanko itan ikatiai kikin akin, kikin akin estimankana.",Jawen papara pastor ikatiai.,neutral
+"Pues, enra onanyama ike jaweti jawekiboshamanki kenai ixon.",Enra onanyama ike jaki viajanti horariobo onankastiki ixon.,neutral
+"Pues, enra onanyama ike jaweti jawekiboshamanki kenai ixon.",Enra jatibi detallebo menike ja kenai onaxon.,entailment
+"Pues, enra onanyama ike jaweti jawekiboshamanki kenai ixon.",Seguromara ea ike jaweti chichoshamanki itiki ixon.,entailment
+"Itan um, wetsa resbi riki, como que clientetibira, iki jatibi jawen documentobo.",Jatora jawe archivoma iki.,entailment
+"Itan um, wetsa resbi riki, como que clientetibira, iki jatibi jawen documentobo.",Jatibi archivobora benxoakanai.,neutral
+"Itan um, wetsa resbi riki, como que clientetibira, iki jatibi jawen documentobo.",Archivos médicosra benxoakanai itan legalesbo ribi jatibi meskoanan.,neutral
+"Natora kikin bires simplificado keska iki, jan ea menia keska jatibi detallado itan kikin atikoma, itan ja rabeitinra jatibi kikin simple ike.",Janra ea rabe keska jaweki yoike.,neutral
+"Natora kikin bires simplificado keska iki, jan ea menia keska jatibi detallado itan kikin atikoma, itan ja rabeitinra jatibi kikin simple ike.",Janra ea menike rabe keska instrumento itan en prefierenke ja kikin detalladabo ika shaman.,contradiction
+"Natora kikin bires simplificado keska iki, jan ea menia keska jatibi detallado itan kikin atikoma, itan ja rabeitinra jatibi kikin simple ike.",Janra westiora jawekires ea yoike itan jaweti ichama línearesra baneta ike.,neutral
+"Nato realidad ika iki Augustanko jayamakanai, jatora ika iki jakana… jakon, min onanke, Augustara ika iki ja época westiora jema maxkopari, jonibo nato jema anikeskain jakanaboan oinabira, Augustara anitanima iki.",Augustara 10000 joniyares iki.,neutral
+"Nato realidad ika iki Augustanko jayamakanai, jatora ika iki jakana… jakon, min onanke, Augustara ika iki ja época westiora jema maxkopari, jonibo nato jema anikeskain jakanaboan oinabira, Augustara anitanima iki.",Augustara ani jemama iki.,neutral
+"Nato realidad ika iki Augustanko jayamakanai, jatora ika iki jakana… jakon, min onanke, Augustara ika iki ja época westiora jema maxkopari, jonibo nato jema anikeskain jakanaboan oinabira, Augustara anitanima iki.",Jato jakatiai Augutanin jointinkoshama.,contradiction
+"1962 keyotaitianra, Washington, DCyain kati koshi joi en bia iki",Era yoikana iki DC yain kati.,entailment
+"1962 keyotaitianra, Washington, DCyain kati koshi joi en bia iki",Ejercitoninra ea DCyain kikin ishtonbires rana iki.,neutral
+"1962 keyotaitianra, Washington, DCyain kati koshi joi en bia iki",Era yoikana iki Áfricain kati.,contradiction
+"DOT nin jawen propiedad tomanketianra, noa ka iki Concordain westiora área kikibires maxkonko, jain yoinaya iti kenyamakaninko zona keskati dividimeta ikax, jaskara kopira nato yoinanin historia nenores keyotai.",Non xobo Concordainra yoinabo iti kenyamakana iki.,entailment
+"DOT nin jawen propiedad tomanketianra, noa ka iki Concordain westiora área kikibires maxkonko, jain yoinaya iti kenyamakaninko zona keskati dividimeta ikax, jaskara kopira nato yoinanin historia nenores keyotai.",Non xobo Concordainra 30000 acresya iki itan kikin icha yoinabo.,neutral
+"DOT nin jawen propiedad tomanketianra, noa ka iki Concordain westiora área kikibires maxkonko, jain yoinaya iti kenyamakaninko zona keskati dividimeta ikax, jaskara kopira nato yoinanin historia nenores keyotai.",Jatibi non yoinabora non maroa iki Concordain kakin.,neutral
+"Wetsa keska ikenra, noa desplegametai, itan ramabi en yoiti atipanke jaskara kopi noa desplegametai Kadinain, Okinawanko, itan natora ika iki 1968 tian.",Fuerzabora non despleganaiki 1968 tian.,entailment
+"Wetsa keska ikenra, noa desplegametai, itan ramabi en yoiti atipanke jaskara kopi noa desplegametai Kadinain, Okinawanko, itan natora ika iki 1968 tian.",Jawetianbira tsoabi non despleglan yosma iki.,neutral
+"Wetsa keska ikenra, noa desplegametai, itan ramabi en yoiti atipanke jaskara kopi noa desplegametai Kadinain, Okinawanko, itan natora ika iki 1968 tian.",Non tropabora non rana iki Japónyain nato junio de 1968 tian.,entailment
+Eara yoike con exactitud kenai itan rama nete kenai.,Yoirake jawetianbires meniti atipana.,entailment
+Eara yoike con exactitud kenai itan rama nete kenai.,Eara yioke 2 p.m. kamanres jaya nato proyecto keyoti kopi.,neutral
+Eara yoike con exactitud kenai itan rama nete kenai.,Eara urgenteri akin yoike.,neutral
+Moara ka ike itan ea yoike moa masashinantima.,Eara yoike minra shinanxonti jake que nato axeti xobo jakon ikai.,neutral
+Moara ka ike itan ea yoike moa masashinantima.,En masashinantimara ea yoike.,entailment
+Moara ka ike itan ea yoike moa masashinantima.,Yoirake pánicoin jikiti hora riki akin.,neutral
+"Natoboriki, min onanke.Oinwe, miaki problemanya iki.",Kikin onsa meran riki mia.,neutral
+"Natoboriki, min onanke.Oinwe, miaki problemanya iki.",¡Miara jakon ikai!,neutral
+"Natoboriki, min onanke.Oinwe, miaki problemanya iki.",Miara deportankanti onsa meran iki.,the relationship between the premise and hypothesis in shipibo-conibo is 'neutral'.
+"Nokon titanra keyoke reken jawen favoritama ixonbi itan, ah, jakopira camponko teeti relegada ike mientras jatiribi wetsa bakebo camponko teeyamainbi.",Nokon titanra tsinkiparike waxmen itan xeki.,neutral
+"Nokon titanra keyoke reken jawen favoritama ixonbi itan, ah, jakopira camponko teeti relegada ike mientras jatiribi wetsa bakebo camponko teeyamainbi.",Nokon titara ika iki ja xontako de oro jakopira jawetianbi teyosma ika tiai.,neutral
+"Nokon titanra keyoke reken jawen favoritama ixonbi itan, ah, jakopira camponko teeti relegada ike mientras jatiribi wetsa bakebo camponko teeyamainbi.",Nokon titara jeman teeta iki.,neutral
+"Itan min onanke, al final, min onanke. Min onanke jonibo yokakana, jatoribi itan ja wetsaboribi, itan tson onanyama ike jaweki ikanai ixon itan, wetsatian, min onanke, simplemente moa reconciliamekana Joe akiribi oinyamaxon jaskara yoikanares.",Joeresbichora ipachoai nato sala jain tantiti llaveya.,neutral
+"Itan min onanke, al final, min onanke. Min onanke jonibo yokakana, jatoribi itan ja wetsaboribi, itan tson onanyama ike jaweki ikanai ixon itan, wetsatian, min onanke, simplemente moa reconciliamekana Joe akiribi oinyamaxon jaskara yoikanares.","Jawetiakinbires jaweskakinbires non akabira, non consiguenyamake Joekan jakonmareskin noa jeneti.",neutral
+"Itan min onanke, al final, min onanke. Min onanke jonibo yokakana, jatoribi itan ja wetsaboribi, itan tson onanyama ike jaweki ikanai ixon itan, wetsatian, min onanke, simplemente moa reconciliamekana Joe akiribi oinyamaxon jaskara yoikanares.","Westiora netera, Joe ka ika iki itan tson onanyama iki jawenoki ka ixon.",contradiction
+Enra jato yoike nokon wetsana.,Nokon wetsara en culpanke.,contradiction
+Enra jato yoike nokon wetsana.,Enra yoike ja nokona.,entailment
+Enra jato yoike nokon wetsana.,Enra joto yoike ja ochiti nokon wetsana.,entailment
+"Itan japekaora jawen titan yoike, jawen titanra ea menkonke rekena kiri akin itan oinke itan neskake: Ja keskati niwe.",Janra yoike jawen titaribi niai de puntillas.,contradiction
+"Itan japekaora jawen titan yoike, jawen titanra ea menkonke rekena kiri akin itan oinke itan neskake: Ja keskati niwe.",Janra yoike jawen titaribi ja keskati niai,entailment
+"Itan japekaora jawen titan yoike, jawen titanra ea menkonke rekena kiri akin itan oinke itan neskake: Ja keskati niwe.",Yoike jawen titaki paralizada itan niti atipanyama.,contradiction
+"onanke, itan ja iki pétalosbo ono rellenani itan en onanyama ike nin westiora secuenciabi.",Enra onanyama ike kikini isinai.,contradiction
+"onanke, itan ja iki pétalosbo ono rellenani itan en onanyama ike nin westiora secuenciabi.",Enra onanyama ike jaweki ja winotiki ixon.,neutral
+"onanke, itan ja iki pétalosbo ono rellenani itan en onanyama ike nin westiora secuenciabi.",Enra moa onana ike jaweki winoti kai ixon jan neskara akentian.,the relationship between the premise and the hypothesis is 'neutral'.
+"Ah, wetsa jaweki jain winota ribi en shinana interesante keska riki nokon wetsan primeros recuerdobo, itan jara winita iki ja nokon patio pekaoyenribi.",Enra ja xobo shinanyamai.,neutral
+"Ah, wetsa jaweki jain winota ribi en shinana interesante keska riki nokon wetsan primeros recuerdobo, itan jara winita iki ja nokon patio pekaoyenribi.",Enra shinanai margaritabo en tsinkikatitai nokon patio pekaoyen.,neutral
+"Ah, wetsa jaweki jain winota ribi en shinana interesante keska riki nokon wetsan primeros recuerdobo, itan jara winita iki ja nokon patio pekaoyenribi.",Enra shinanai westiora jaweki nokon patio pekaoyen winota.,neutral
+"Jaskara ikax jatibi nato estrés itan, osea, jatibi motivoyara ea ike rama nete estresameti, neskara keskara ike, westiora jaweki min jaskakin ati onanyama meniai keska, itan jise awe,akai jisa.",Enra onanyama ike jaskaxon nato ea rama nete tee menikana ati.,entailment
+"Jaskara ikax jatibi nato estrés itan, osea, jatibi motivoyara ea ike rama nete estresameti, neskara keskara ike, westiora jaweki min jaskakin ati onanyama meniai keska, itan jise awe,akai jisa.","Eara yoikanke reemplazanti nato caja de fusiblebo ja oficinankonia, ikaxbi en jawe onanyamake nato cableado eléctricoboki.",neutral
+"Jaskara ikax jatibi nato estrés itan, osea, jatibi motivoyara ea ike rama nete estresameti, neskara keskara ike, westiora jaweki min jaskakin ati onanyama meniai keska, itan jise awe,akai jisa.",Ramara ea yoikanke ea kikin akin jainshama entrenankanaikon jaino tareabores ati.,neutral
+"Jaskara kopi rama, neno iki, eara rama kenai.",Janra yoiyai wetsatianbires biti atipana.,neutral
+"Jaskara kopi rama, neno iki, eara rama kenai.",Janra yoiyai rama biti kenai.,neutral
+"Jaskara kopi rama, neno iki, eara rama kenai.",Janra yoiya ja kenai riki nato proyecto final biti 5.00 de la tarde ikamabi.,neutral
+"Itan, jakomabires, noa wetsanko kariba iki.",Wetsa monetora noara ka iki.,neutral
+"Itan, jakomabires, noa wetsanko kariba iki.",Wetsa estadoinra noa ka iki 1992tian.,neutral
+"Itan, jakomabires, noa wetsanko kariba iki.",Japekaora noa jawetianbi jaweno kayosma iki.,neutral
+"Nato Señora Faulkora en onanshamayamake, jara 80 baritia keska ikatiai, itan kikin jakon ainbora ikatiai, jawetiakinra en oinke, ikaxbi jakopira ea kikin nerviosares ike.","Enra jawetianki nato Sra. Faulk oina iki, ikaxbira en jakon akin oanayamake.",entailment
+"Nato Señora Faulkora en onanshamayamake, jara 80 baritia keska ikatiai, itan kikin jakon ainbora ikatiai, jawetiakinra en oinke, ikaxbi jakopira ea kikin nerviosares ike.",Eara ika westiora amigo kikin ochoma de la Sra. Faulk.,neutral
+"Nato Señora Faulkora en onanshamayamake, jara 80 baritia keska ikatiai, itan kikin jakon ainbora ikatiai, jawetiakinra en oinke, ikaxbi jakopira ea kikin nerviosares ike.",Nato Señora Faulkninra akatiai westiora Honda panshin conducenkin nete tibi teeti kakin.,neutral
+"Noara 85 de Mallard Creekain ikatiai, jatian ja ramatian iki 485 noa jainoax pikota iki ja 485 kopi.",Ja xobo yankoainra noa jakatitai.,neutral
+"Noara 85 de Mallard Creekain ikatiai, jatian ja ramatian iki 485 noa jainoax pikota iki ja 485 kopi.",Jainra noa jakatitai kikin icha baritia.,contradiction
+"Noara 85 de Mallard Creekain ikatiai, jatian ja ramatian iki 485 noa jainoax pikota iki ja 485 kopi.",Rabe semanaresra noa jain ika iki.,neutral
+"Colega, doble personalidad jaya jisa riki, epa.",Sinaresira ike.,neutral
+"Colega, doble personalidad jaya jisa riki, epa.",Nokon koshira ike iamax kikin raro iamax kikin loco.,neutral
+"Colega, doble personalidad jaya jisa riki, epa.",Nokon koshira ike suave itan consecuente.,neutral
+Jara bebonbires yosi iki nokon papa iti jisa.,Jara 27 baritia mayor que ea iki.,neutral
+Jara bebonbires yosi iki nokon papa iti jisa.,Jara kikin ea winoa bebonbires bakeranon iki.,neutral
+Jara bebonbires yosi iki nokon papa iti jisa.,Jara mayor que ea iki.,entailment
+"Jatibira conectadoiki itan rios, enra onanyamabobike jaweti basi kamarin ixon.",Enra onanyamake jaweti basiki ibirai ixon.,neutral
+"Jatibira conectadoiki itan rios, enra onanyamabobike jaweti basi kamarin ixon.",Enra onanyamake jaweti basiki historia ikai ixon.,neutral
+"Jatibira conectadoiki itan rios, enra onanyamabobike jaweti basi kamarin ixon.",Enra onanke midenai 4 pies (10 cm) nenke.,contradiction
+Nato vezra ea ni raroyamabobike jain ikenbi kikin estresada ikax.,¡Eara ike kikin raro itan relajado!,contradiction
+Nato vezra ea ni raroyamabobike jain ikenbi kikin estresada ikax.,Kikin bebonbires ansiosora ike como para raro iti kopi ja ainbo westiora nete maxkakenbi nokoketian.,neutral
+Nato vezra ea ni raroyamabobike jain ikenbi kikin estresada ikax.,Kikin bebonbires ansiosora ike raro ikakasi ja ainbo jain ikentian.,entailment
+itan jatiribi neskaraboriki ja titibo drogodependientebo ikentian,Ja titabora drogadictabo iki.,entailment
+itan jatiribi neskaraboriki ja titibo drogodependientebo ikentian,Ja titaboanra prescripcionbo ni medicamentobo xeayamakani.,neutral
+itan jatiribi neskaraboriki ja titibo drogodependientebo ikentian,Jan titanra drogabo xeai,entailment
+"Jen jen, kikin agradable riki, oi beira iitai.",Eara oi importanyame.,neutral
+"Jen jen, kikin agradable riki, oi beira iitai.",Kikin metsa itan oishaman.,neutral
+"Jen jen, kikin agradable riki, oi beira iitai.",Kikin jakoma riki nato insensante barin joeya.,neutral
+"Oh, jati kopi westiora vida humana ikenbi itan atikon iamax atikoma ikenbi rehabilitamemakin wetsabires.",Jatibi vidara valenke rehabilitameti itan nato segundas oportunidadesbo ribi.,entailment
+"Oh, jati kopi westiora vida humana ikenbi itan atikon iamax atikoma ikenbi rehabilitamemakin wetsabires.",Nin westiora jonibira merecenyamake rehabilitanmete.,neutral
+"Oh, jati kopi westiora vida humana ikenbi itan atikon iamax atikoma ikenbi rehabilitamemakin wetsabires.","Idependientemente de nato rehabilitación, nato vidara valenke jati.",contradiction
+"oh, bake, nenora mia onantima problema de cableadoya iki",Jawetianbira en oinyosma iki neskara problema de cableado.,entailment
+"oh, bake, nenora mia onantima problema de cableadoya iki",Ja cableadora problemama iki.,entailment
+"oh, bake, nenora mia onantima problema de cableadoya iki",Jarake westiora problema nato en onanyama cableadonin ima.,entailment
+"kikin divertidora keskara en ninkatai, jen jen, eara ratetai jaweti jaweti jawekibo permitenkanketian",Eara kikini ratetama iki mato idulgentebo ikentian.,neutral
+"kikin divertidora keskara en ninkatai, jen jen, eara ratetai jaweti jaweti jawekibo permitenkanketian",Eara ratetai mia pitiya itan xeatiya jikimakana kopi.,neutral
+"kikin divertidora keskara en ninkatai, jen jen, eara ratetai jaweti jaweti jawekibo permitenkanketian",Eara ratetai jaweskaxonki nokokana ixon.,neutral
+"jen jen, jaskarashaman, ja yoiki ea, jawetianki mia equipameti senenaxra, kikin ja ati tee ikenbi... miara kati atipanke westiora Club Medyain de vaciones jatibiya.",$ 2000 jati kopirikijatibi ja kenai bixonti.,neutral
+"jen jen, jaskarashaman, ja yoiki ea, jawetianki mia equipameti senenaxra, kikin ja ati tee ikenbi... miara kati atipanke westiora Club Medyain de vaciones jatibiya.",Kikin kopiriki nonbixbi chopa saweti.,neutral
+"jen jen, jaskarashaman, ja yoiki ea, jawetianki mia equipameti senenaxra, kikin ja ati tee ikenbi... miara kati atipanke westiora Club Medyain de vaciones jatibiya.",Kikin kopima riki chopa saweti.,neutral
+"oh, ikaxbi jaskara ikenbi nokon bakebo rama rabe chonka westiora itan rabe chonka choskoya iki, jaskara kopira en atima jake",Necesarioma riki nokon bakebo rabe chonka winoa baritiaya ikentian.,neutral
+"oh, ikaxbi jaskara ikenbi nokon bakebo rama rabe chonka westiora itan rabe chonka choskoya iki, jaskara kopira en atima jake","Enra ati jake, moa ja baritia nokoti ikanaitian.",neutral
+"oh, ikaxbi jaskara ikenbi nokon bakebo rama rabe chonka westiora itan rabe chonka choskoya iki, jaskara kopira en atima jake",Ramabira en ati jake jato rabebira chonka itan chonka westiora baritiaya iki.,neutral
+¡Vaya! jakon natora Fresno iki.,Fresnokonra ea pikota iki.,neutral
+¡Vaya! jakon natora Fresno iki.,Enra onanyamake jawenori ja ixon.,neutral
+¡Vaya! jakon natora Fresno iki.,Fresnoriki nato arai en mia.,entailment
+"Jen jen, jonibo wetsa monentobires iiti atipana teeyain iamax jawen decisionbo nublamete atipana westiora decisión tomanti ikentian.","Jen jen, jonibo jaweska ikax jakon decisiónbo tomanti onanma.",entailment
+"Jen jen, jonibo wetsa monentobires iiti atipana teeyain iamax jawen decisionbo nublamete atipana westiora decisión tomanti ikentian.","Jen jen, jonibo jaweska ikax jawekiakashamaibo.",neutral
+"Jen jen, jonibo wetsa monentobires iiti atipana teeyain iamax jawen decisionbo nublamete atipana westiora decisión tomanti ikentian.","Jen jen, ja jonibo jaton facultades de decisión jawetianbi afectamenyosmabo.",entailment
+"Ikama, girankobira ikanai. Jatonra gira peowoa iki sesenta baritia keyotaitian.",Jatonra gira peowoa iki 1970 ikamabi.,contradiction
+"Ikama, girankobira ikanai. Jatonra gira peowoa iki sesenta baritia keyotaitian.",Jaton ken riki recorridobo ati.,contradiction
+"Ikama, girankobira ikanai. Jatonra gira peowoa iki sesenta baritia keyotaitian.",Jaton gira ramachabi keyokanke.,neutral
+jaweskaxonki min aeróbicobo atiki,¿Minki ea explicanti atipana jaweskakin atikairin aerobic?,contradiction
+jaweskaxonki min aeróbicobo atiki,Eara interesado iki aeróbicki shokores actividad cardiovascular maxkatax.,neutral
+jaweskaxonki min aeróbicobo atiki,"Por favor, moa jenwe yoyo ike nato ejercio aeróbicoboki.",neutral
+"Jakon, jara westiora kikin jakon iki jaki en shinanama ika neskaakin.",Jara westiora shinan tonta iki westa semana winoibatian en descartaninbata.,neutral
+"Jakon, jara westiora kikin jakon iki jaki en shinanama ika neskaakin.",Natora jakon punto iki.,entailment
+"Jakon, jara westiora kikin jakon iki jaki en shinanama ika neskaakin.",Ja pardoja min yoiyai riki jakon punto.,neutral
+"guardería rabe iki semanatiki ikai, guardería de la tercera edad akin janekanai, ikaxbira ja kai nato centro de la tercera edadain",Nato guarderíara kepen iki nete tibi bakebo pichika baritia mananyaboanares.,neutral
+"guardería rabe iki semanatiki ikai, guardería de la tercera edad akin janekanai, ikaxbira ja kai nato centro de la tercera edadain",Rabe netebichomara semanatibi jato imakanai nato jonibo de la tercera edad ja altura ikentian.,neutral
+"guardería rabe iki semanatiki ikai, guardería de la tercera edad akin janekanai, ikaxbira ja kai nato centro de la tercera edadain","Ja yoira ikanai westiora guardería yosiboana iki, ikaxbira jawen jane iki el centro para personas mayores.",entailment
+jara jawen meta iki oh,Jariki ja jakopi kikini esfuerzameta.,neutral
+jara jawen meta iki oh,Jamara ika iki ja kenkanai.,neutral
+jara jawen meta iki oh,Jaton metara noko kanke.,neutral
+control de armabora significanke rabe mekenbi usanti,Nato mitad de jatibi fallas de tiro riki nato westiora mekenres usankana resultado.,neutral
+control de armabora significanke rabe mekenbi usanti,Nato kikin jakon akin armabo controlantiriki rabe taebi usanti.,neutral
+control de armabora significanke rabe mekenbi usanti,Rabe mekenbe utilizanwe nato control de armabo practicankasai ixon.,neutral
+itan yama yamaxbi joai westiora lujar non onayamainkoniax ikaxbi non onanyama jawenoaxki joi ixon ikaxbi,"Enra onanyamake jawenoaxki joai ixon, ikaxbi kikin ishton riki.",neutral
+itan yama yamaxbi joai westiora lujar non onayamainkoniax ikaxbi non onanyama jawenoaxki joi ixon ikaxbi,"Ishtonra joai, ikaxbira en onanke jawenoaxki joai ixon.",neutral
+itan yama yamaxbi joai westiora lujar non onayamainkoniax ikaxbi non onanyama jawenoaxki joi ixon ikaxbi,Jorai melaza keska itan en onanke jawetianki joai ixon.,neutral
+"ikama, jaskara ixonra en onanyamabobike, jaskarama keska riki",Enra onanshamanyamake ja jaweki.,neutral
+"ikama, jaskara ixonra en onanyamabobike, jaskarama keska riki",Eara kikin onama iki nato asuntos de amoryain.,neutral
+"ikama, jaskara ixonra en onanyamabobike, jaskarama keska riki",Eara nato estudiani ikatiai jweti baritia bires.,neutral
+"Jen jen, min onanke ja ikatiai kikin genial.",En shinara onanke kikin increible ika.,entailment
+"Jen jen, min onanke ja ikatiai kikin genial.","Ikama, jara kikin yakoma ikatiai.",neutral
+"Jen jen, min onanke ja ikatiai kikin genial.","Jen jen, jara kikin jakon ikatiai.",entailment
+"Jen jen, janra sugierenke westiora fregona biti min usanai keska.",Janra sugierenke westiora aspiradora biti.,neutral
+"Jen jen, janra sugierenke westiora fregona biti min usanai keska.",Janra sugierenke westiora fregona biti.,entailment
+"Jen jen, janra sugierenke westiora fregona biti min usanai keska.",Westiora trapeadornin jimi soa kasira ike.,entailment
+"Nenora realmente jawekibo jakoma iki, ramabira ike westiora tiriteo autopistanko, non xobonkoniax kimisha manzana winobainira ike.",Ja tiroteora ike al menos 100 millas ea jain ikainkoniax.,neutral
+"Nenora realmente jawekibo jakoma iki, ramabira ike westiora tiriteo autopistanko, non xobonkoniax kimisha manzana winobainira ike.",Ja tiroteora nokon xobo ochoma ike itan jakopira ea pikotinin raketai.,neutral
+"Nenora realmente jawekibo jakoma iki, ramabira ike westiora tiriteo autopistanko, non xobonkoniax kimisha manzana winobainira ike.","Westiora tiroteora ike nokon xobo ochoma, realmentera jakon irama iki nato áreanko.",entailment
+"oh, jara de verdad realmentema iki, oh consistente","Eata de acuerdoma iki mibe, bebon constante ira riki.",entailment
+"oh, jara de verdad realmentema iki, oh consistente",En shinana riki mia razonya ja jawen consistencia min yoyainko.,neutral
+"oh, jara de verdad realmentema iki, oh consistente",Miara razonya iki consistente itima yoiyain.,neutral
+eara kikin akin jain tenei iki,Eara jaki aferrameti tanati iki.,neutral
+eara kikin akin jain tenei iki,Realmente akiriki ea lo mejorke en atipana.,neutral
+eara kikin akin jain tenei iki,Enra ranresai itan jawetianbira en pekao akin oinyamai.,neutral
+"jen jen, ¿jaweska cachorroyarin mia?",¿Min cachorroki kikin jakon bake iki?,neutral
+"jen jen, ¿jaweska cachorroyarin mia?",¿Jaweka mishoki min reskatana?,neutral
+"jen jen, ¿jaweska cachorroyarin mia?",¿Jaweska ochiti bakeranonyarin mia?,neutral
+"Jakon, min yoike mia bakeyabo,¿ jaweti baritiaya ?",¿Jaweti bakeyarin mia?,entailment
+"Jakon, min yoike mia bakeyabo,¿ jaweti baritiaya ?",Enra sientenai mia bakeakosma ikentian.,neutral
+"Jakon, min yoike mia bakeyabo,¿ jaweti baritiaya ?","Minra yoike mia bakeya, ¿jaweti baritiayaborin?",entailment
+"problamenetera nato non netenkonia inteligente winoabo ikanama iki, ikaxbi ninkawe, kikin agradablebora ikana iki itan, nato...intresadobora ikana iki ja jonibo estudiankasaiboki","Jatora kikin integente irama ikaboma iki, ikaxbi kikin amablebora ikana iki itan intresadobora ikana iki ja estudiankanaiboki.",entailment
+"problamenetera nato non netenkonia inteligente winoabo ikanama iki, ikaxbi ninkawe, kikin agradablebora ikana iki itan, nato...intresadobora ikana iki ja jonibo estudiankasaiboki","Kikin integentera ikana iki, ikaxbi westabobetan ikaxra tontobo keska ikanke jato jakon akin onanshamanyamax.",contradiction
+"problamenetera nato non netenkonia inteligente winoabo ikanama iki, ikaxbi ninkawe, kikin agradablebora ikana iki itan, nato...intresadobora ikana iki ja jonibo estudiankasaiboki","Brillante winoara ikana iki, ikaxbi kikin akin jakomakatikanai wetsa bires estudiankasaibo.",entailment
+"Westiora ikira noa ja xobonko ka iki, eh, jain, westiora eventoainax joira noa ika iki itan non joe kete aka iki campamento alredoryain itan wetiora mofeta jai ika iki",Ja zorrillora noa camapamentonko karibati manata ike.,the relationship between the premise and the hypothesis is 'contradiction'.
+"Westiora ikira noa ja xobonko ka iki, eh, jain, westiora eventoainax joira noa ika iki itan non joe kete aka iki campamento alredoryain itan wetiora mofeta jai ika iki",Westiora cabrara non merake campamentonko non joe nokaka pekao.,neutral
+"Westiora ikira noa ja xobonko ka iki, eh, jain, westiora eventoainax joira noa ika iki itan non joe kete aka iki campamento alredoryain itan wetiora mofeta jai ika iki","Westiora eventonkoniax jokin, westiora mofeta non mera iki.",contradiction
+"onake, jatibi nokon bakebo riki genialbo, kikin jakonbo, itan en shinana riki ikama, axerakanai wetsa bakebo anichabokeax ribi, ikaxbi",Jara axea iki wetsa bake anichabo oinax ikaxbi jatibi nokon descendencia eclipsa.,contradiction
+"onake, jatibi nokon bakebo riki genialbo, kikin jakonbo, itan en shinana riki ikama, axerakanai wetsa bakebo anichabokeax ribi, ikaxbi",Eara kikin orgulloso iki mesko icha jawekibo nokon bakeboan onaketian.,neutral
+"onake, jatibi nokon bakebo riki genialbo, kikin jakonbo, itan en shinana riki ikama, axerakanai wetsa bakebo anichabokeax ribi, ikaxbi",Nokon bakebora kikin idiotabo iki.,contradiction
+"itan jaskaxon ribi non causantiki joniboan jawen basurabo kikin akin compactanti mmm..., itan mmm..., itan limitar ja volumen jaweska ikax iti atipanke shokores ochoma que nato problema real iitai ja jati iwe limitanti yoiyai",Nato limitación jati basura atira kikin problema ochoma iki que nato basuranin iwe en sí.,entailment
+"itan jaskaxon ribi non causantiki joniboan jawen basurabo kikin akin compactanti mmm..., itan mmm..., itan limitar ja volumen jaweska ikax iti atipanke shokores ochoma que nato problema real iitai ja jati iwe limitanti yoiyai",Nato joniboanra masa shinantima jake icha basurabo jakentian natobo jakon akin potakanai ikentian.,neutral
+"itan jaskaxon ribi non causantiki joniboan jawen basurabo kikin akin compactanti mmm..., itan mmm..., itan limitar ja volumen jaweska ikax iti atipanke shokores ochoma que nato problema real iitai ja jati iwe limitanti yoiyai",Nato joniboanra consideranti jake jaton basura aki iitaitonin volumen itan jawen iwe ribi.,entailment
+"jaskara kopi, westiora error jakentianra, min error iki, supongo","Preocupameyamawe, westiora error jakentianra, en mia akinai ja culpankinkin.",neutral
+"jaskara kopi, westiora error jakentianra, min error iki, supongo",Westiora error jakenra min culpa iki.,entailment
+"jaskara kopi, westiora error jakentianra, min error iki, supongo","Westiora error akentianra, jawenabiti jake.",contradiction
+"Onanke… jatibi, costurabo ati itan jaskara jawekiboankayara westiora acabado kikin prosional meniai.",Nato costurabora akanai de modo kikin habilidoso.,entailment
+"Onanke… jatibi, costurabo ati itan jaskara jawekiboankayara westiora acabado kikin prosional meniai.",Nato costurabora kikin ishtonbires akana iki itan jakopira descuidada min oinai.,neutral
+"Onanke… jatibi, costurabo ati itan jaskara jawekiboankayara westiora acabado kikin prosional meniai.",Kikinira basikanke nato costurabo keyonoxon.,entailment
+"jen jen, jen jen, nokon teetiainra mia menikanai rabe semana peokotaitian itan japekao baritia tibira mia menikanai westiora nete extra hasta mia choska semanaya ikai kaman",Min tiempora kai kairesai baritia tibi.,the relationship between the premise and hypothesis is 'contradiction'.
+"jen jen, jen jen, nokon teetiainra mia menikanai rabe semana peokotaitian itan japekao baritia tibira mia menikanai westiora nete extra hasta mia choska semanaya ikai kaman",Min tiemponira superanyamai nato kimisha netebi.,neutral
+"jen jen, jen jen, nokon teetiainra mia menikanai rabe semana peokotaitian itan japekao baritia tibira mia menikanai westiora nete extra hasta mia choska semanaya ikai kaman",Min tiempo de vacionesra kaitai nato jeman empleoboain.,neutral
+"ja riki ja jakon non paron más jati, miara masashinantima jake natobo kopi",Non paronko ixonra mia akai neskara jaweki winoti rakeya shinanboya jamakin.,neutral
+"ja riki ja jakon non paron más jati, miara masashinantima jake natobo kopi",Ja jakon noa neno non paronko ika riki que noa jaskara jawekiboki non masa shinanyamai.,contradiction
+"ja riki ja jakon non paron más jati, miara masashinantima jake natobo kopi",Ja kikin jakon riki nato camponko ixon mia ja jawekiboki masashinani iiyamai ani jeman min akai keska akin.,neutral
+"oh, oh Rios, jakon, jara en ninkatai westiora aventura keska",Jara iti jisa iki kikin divertido iamax kikin aburrido.,neutral
+"oh, oh Rios, jakon, jara en ninkatai westiora aventura keska",Jara kikin ani aventura keska en ninkatai.,entailment
+"oh, oh Rios, jakon, jara en ninkatai westiora aventura keska",Kikin jakoma experiencia keska riki.,neutral
+itan ramara ea westiora wetsaya iki Alemanianko,Ramabira ea westiora poiya iki Alemanianko residenai.,"to determine the relationship between the premise and the hypothesis, let's consider the translations:
+
+premise: ""itan ramara ea westiora wetsaya iki alemanianko"" translates to something similar to ""his friend is currently living in germany.""
+
+hypothesis: ""ramabira ea westiora poiya iki alemanianko residenai"" translates to something akin to ""the friend is currently working in germany.""
+
+given these translations:
+
+1. the premise states that the friend is living in germany.
+2. the hypothesis states that the friend is working in germany.
+
+the premise doesn't provide information about whether the friend is working, so it neither confirms nor contradicts this statement. therefore, the relationship is:
+
+neutral"
+itan ramara ea westiora wetsaya iki Alemanianko,Westiora wetsaya riki ea jara ramabishoko Cubanko iki.,neutral
+itan ramara ea westiora wetsaya iki Alemanianko,Westiora nokon westa Alemán yoyo ikaiya riki ea.,entailment

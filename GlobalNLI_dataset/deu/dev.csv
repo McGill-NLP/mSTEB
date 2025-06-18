@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"und er hat gesagt, Mama ich bin daheim.","Er rief seine Mutter an, sobald er aus dem Schulbus stieg.",1
+"und er hat gesagt, Mama ich bin daheim.",Er sagte kein Wort.,2
+"und er hat gesagt, Mama ich bin daheim.","Er sagte seiner Mutter, er sei nach Hause gekommen.",0
+"Oh, es war Snake River oh Snake River mit vielen Schlangen drin",Trotz seines Namens gibt es im Snake River tatsächlich keine Schlangen. Seinen Namen schuldet er seiner S-Form.,2
+"Oh, es war Snake River oh Snake River mit vielen Schlangen drin",Snake River hat viele Schnappschildkröten.,1
+"Oh, es war Snake River oh Snake River mit vielen Schlangen drin",Snake River ist voller Schlangen.,0
+"Diese Komplexe höherer Ordnung von molekularen Vorrichtungen entstehen, weil die natürliche Selektion in der Lage ist, auf die kollektiven Eigenschaften solcher molekularer Aggregate einzuwirken, wenn diese kollektiven Eigenschaften die Anpassungsfähigkeit erhöhen.",Molekulare Geräte sind alle gleichermaßen kompliziert.,2
+"Diese Komplexe höherer Ordnung von molekularen Vorrichtungen entstehen, weil die natürliche Selektion in der Lage ist, auf die kollektiven Eigenschaften solcher molekularer Aggregate einzuwirken, wenn diese kollektiven Eigenschaften die Anpassungsfähigkeit erhöhen.",Unter bestimmten Bedingungen können komplexere molekulare Vorrichtungen entstehen.,0
+"Diese Komplexe höherer Ordnung von molekularen Vorrichtungen entstehen, weil die natürliche Selektion in der Lage ist, auf die kollektiven Eigenschaften solcher molekularer Aggregate einzuwirken, wenn diese kollektiven Eigenschaften die Anpassungsfähigkeit erhöhen.",Diese molekularen Geräte werden meist zur Herstellung verschiedener Gifte zum Schutz verwendet.,1
+Er wandte sich an Lord Julian.,Er wollte Lord Julian etwas fragen.,0
+Er wandte sich an Lord Julian.,"Er wollte Lord Julian bitten, seine Frau zu schonen.",1
+Er wandte sich an Lord Julian.,Lord Julian war verschwunden.,2
+"Nachdem Sie sich diese Sammlungen angeschaut haben, steigen Sie auf den Hügel zum Commissioner's House, von wo Sie eine schöne Aussicht auf die umliegende Küste und den Rest der Werftanlage haben.",Sie können Boote an der Spitze des Hügels sehen.,1
+"Nachdem Sie sich diese Sammlungen angeschaut haben, steigen Sie auf den Hügel zum Commissioner's House, von wo Sie eine schöne Aussicht auf die umliegende Küste und den Rest der Werftanlage haben.",Auf der Spitze des Hügels können Sie auf die Küste ausblicken.,0
+"Nachdem Sie sich diese Sammlungen angeschaut haben, steigen Sie auf den Hügel zum Commissioner's House, von wo Sie eine schöne Aussicht auf die umliegende Küste und den Rest der Werftanlage haben.",Man die Küste von der Spitze des Hügels aus kann nicht sehen.,2
+"Die Personalsysteme wurden konsolidiert und neue Unternehmensstrukturen wurden schnell definiert, um die vergrößerte Kundenbasis weiterhin zu unterstützen.",Durch die Zusammenführung des Personalwesens wurde Raum für neue Unternehmensstrukturen geschaffen.,1
+"Die Personalsysteme wurden konsolidiert und neue Unternehmensstrukturen wurden schnell definiert, um die vergrößerte Kundenbasis weiterhin zu unterstützen.",Firmenstrukturen wurden erschaffen.,0
+"Die Personalsysteme wurden konsolidiert und neue Unternehmensstrukturen wurden schnell definiert, um die vergrößerte Kundenbasis weiterhin zu unterstützen.",Human Resource Systeme sind weiter ausgebaut worden.,2
+"Die islamistische Bewegung, geboren ungefähr 1940, ist ein Produkt der modernen Welt, beeinflusst von marxistisch-leninistischen Konzepten über revolutionäre Organisation.",Marxistisch-leninistische Konzepte wurden in die islamistische Bewegung eingegliedert.,0
+"Die islamistische Bewegung, geboren ungefähr 1940, ist ein Produkt der modernen Welt, beeinflusst von marxistisch-leninistischen Konzepten über revolutionäre Organisation.",Die islamistische Bewegung wurde im sechsten Jahrhundert begonnen.,2
+"Die islamistische Bewegung, geboren ungefähr 1940, ist ein Produkt der modernen Welt, beeinflusst von marxistisch-leninistischen Konzepten über revolutionäre Organisation.",Die islamistische Bewegung wurde ursprünglich als Organisation für soziale Mobilisierung gegründet.,1
+Dein Geschenk ist wichtig für die Feier unserer 85. Saison.,"Jedes Geschenk, das wir bekommen, ist nicht so wichtig wie Ihres.",1
+Dein Geschenk ist wichtig für die Feier unserer 85. Saison.,Uns kümmert dein Geschenk nicht im geringsten.,2
+Dein Geschenk ist wichtig für die Feier unserer 85. Saison.,Das haben wir länger als 80 Jahre gemacht.,0
+Die Cover-Pakete der Newsweeklies predigen zu ängstlichen Eltern.,Besorgte Eltern sind eine Marketingzielgruppe der Wochenzeitungen.,0
+Die Cover-Pakete der Newsweeklies predigen zu ängstlichen Eltern.,Newsweeklies entwerfen ihre Cover-Pakete für kleine Kinder oder ältere Menschen.,2
+Die Cover-Pakete der Newsweeklies predigen zu ängstlichen Eltern.,Eltern geben eher Geld für Neuwagenkäufe aus und sind damit ein lukratives Werbesegment für Zeitschriften.,1
+Alternative sollte nicht anstelle von Alternative verwendet werden.,Es ist nicht richtig alternativ zu verwenden wenn alternierend gemeint ist.,0
+Alternative sollte nicht anstelle von Alternative verwendet werden.,"Es ist erlaubt, alternative für alternative zu ersetzen.",2
+Alternative sollte nicht anstelle von Alternative verwendet werden.,Viele Leute wissen nicht wie sie alternativ und alternierend korrekt benutzen.,1

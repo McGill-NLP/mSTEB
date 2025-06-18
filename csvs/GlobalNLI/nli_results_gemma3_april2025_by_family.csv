@@ -1,0 +1,14 @@
+Dataset,Average Accuracy
+XNLI,76.0
+AfriXNLI,58.4
+IndicXNLI,71.6
+AmericasXNLI,41.9
+XNLI-ca,81.3
+myXNLI,72.2
+IndoNLI,82.8
+JNLI,71.0
+Portugese,95.5
+Polish,87.7
+JamPatoisNLI,88.2
+Korean,80.0
+Romainian,65.7

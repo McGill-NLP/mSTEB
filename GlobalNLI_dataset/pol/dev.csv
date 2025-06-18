@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Młodzi chłopcy bawią się na świeżym powietrzu , a mężczyzna uśmiecha się w pobliżu",Nie ma chłopca bawiącego się na świeżym powietrzu i nie ma uśmiechniętego mężczyzny,2
+Osoba w czarnej kurtce robi sztuczki na motocyklu,Wykwalifikowana osoba jedzie na rowerze na jednym kole,1
+Czworo dzieci robi mostek na siłowni,Cztery dziewczynki robią mostek i bawią się na świeżym powietrzu,1
+Zawodnik rzuca piłką,W meczu piłki nożnej rywalizują dwie drużyny,1
+Pięcioro dzieci stoi przed drewnianą chatką,Pięcioro dzieci stoi w drewnianej chacie,1
+Niewiele osób je przy czerwonych stołach w restauracji bez oświetlenia,Duża grupa ludzi azjatów je w restauracji,1
+Ktoś jest na czarno - białym motocyklu i stoi na siedzeniu,Motocykl jedzie wstaje z siedzenia pojazdu,1
+Dwa psy bawią się przy drzewie,Dwa psy bawią się przy roślinie,0
+Dziewczynka w bieli tańczy,Dziewczynka ma na sobie białe ubranie i tańczy,0
+Nie ma tańczącej dziewczynki w białym,Dziewczynka w bieli tańczy,2
+Sprzęt przed tańczącą blondynką jest nagłaśniający,Dziewczynka w bieli tańczy,1
+Dziewczynka w bieli tańczy,Blondynka tańczy przed sprzętem nagłaśniającym,1
+Dzieci z rodziny bawią się i czekają,"Azjatycki mężczyzna tańczy , a troje dzieci obserwuje",1
+Turysta jest na szczycie góry i tańczy radośnie,Turysta jest na szczycie góry i tańczy,0
+Chłopiec stoi na zewnątrz wody,Chłopiec błądzi po niebieskim oceanie,1
+Przez wysoką i zieloną trawę biegnie biało brązowawy pies,Przez pole biegnie biało brązowawy pies,0
+"Kobieta zdejmuje płaszcz , który jest bardzo duży , odsłaniając ekstrawagancką sukienkę","Kobieta zakłada płaszcz , który jest bardzo duży , zakrywając ekstrawagancką sukienkę",2
+"Mężczyzna nie wrzuca dziecka do basenu , który znajduje się blisko oceanu","Mężczyzna wrzuca dzieciaka do basenu , który jest blisko oceanu",2
+Kilku mężczyzn rywalizuje w zawodach biegowych na zewnątrz,Kilku mężczyzn rywalizuje w zawodach biegowych wewnątrz pomieszczenia,2
+Grupa osób wyposażona jest w sprzęt ochronny,Grupa osób wyposażona jest w sprzęt zapewniający ochronę,0
+Jeden biały pies i jeden czarny biegną obok siebie po trawie,Pies z czarną sierścią i biały pies biegną po trawie,0
+Kobieta jest całowana przez mężczyznę,Nie ma kobiety całowanej przez mężczyznę,2
+"Niektóre corndogi są zjadane przez dwóch maluchów , którzy znajdują się w wagonie , który jest naprawdę mały","Dwóch maluchów je corndogi w wagonie , który jest naprawdę mały",0
+Dorosły jest w amfiteatrze i rozmawia z chłopcem,"W amfiteatrze nie ma osoby dorosłej , która rozmawiałaby z chłopcem",2
+Kobieta czesze włosy,Nie ma kobiety czeszącej włosy,2
+Mężczyzna i kobieta wędrują po zalesionym terenie,Mężczyzna i kobieta idą razem przez las,0
+Mężczyzna i kobieta idą razem przez las,Mężczyzna i kobieta chodzą po zalesionym terenie,0
+Kobieta tańczy i śpiewa sama,Kobieta tańczy i śpiewa z innymi kobietami,2
+Zespół gra na scenie,Zespół gra na estradzie,0
+"Trzech młodych mężczyzn biega , skacze i kopie w pobliżu automatu sprzedającego","W pobliżu automatu nie ma biegajacych , skaczących i kopiących mężczyzn",2

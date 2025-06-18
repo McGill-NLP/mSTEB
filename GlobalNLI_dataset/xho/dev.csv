@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Kwaye wathi, Mama, ndisekhaya. ",Ufowunele umama wakhe emveni kokuba ibhasi imohlisile.,1
+"Kwaye wathi, Mama, ndisekhaya. ",Akazange athethe nelimdaka.,2
+"Kwaye wathi, Mama, ndisekhaya. ",Wamxelela umama wakhe ukuba ufikile ekhaya.,0
+"oh ibingumlambo wenyoka, oh umlambo wenyoka uneenyoko ezininzi.","Ngaphandle kwegama layo, iSnake Rive ayiqulathanga naziphi na iinyoka; ithiywe ngohlobo lwayo luka-S.",2
+"oh ibingumlambo wenyoka, oh umlambo wenyoka uneenyoko ezininzi.",iSnake River inamafudo amaninzi ahlumayo.,1
+"oh ibingumlambo wenyoka, oh umlambo wenyoka uneenyoko ezininzi.",iSnake River izaliswe ziinyoka.,0
+Ezi zixhobo zodidi oluphezulu lwezixhobo zemolekyuli zivela ngenxa yokuba ukhetho lwendalo luyakwazi ukusebenza kwiipropati ezidityanisiweyo zeeagrigeythi zemolekyuli xa ezo mpawu zidibeneyo zandisa ukomelela okulungelelanisiweyo.,Zonke izixhobo zemolekyuli zintsonkothe ​​ngokulinganayo.,2
+Ezi zixhobo zodidi oluphezulu lwezixhobo zemolekyuli zivela ngenxa yokuba ukhetho lwendalo luyakwazi ukusebenza kwiipropati ezidityanisiweyo zeeagrigeythi zemolekyuli xa ezo mpawu zidibeneyo zandisa ukomelela okulungelelanisiweyo.,Izixhobo ezintsonkothileyo zeemolekyuli zinokuvela phantsi kweemeko ezithile.,0
+Ezi zixhobo zodidi oluphezulu lwezixhobo zemolekyuli zivela ngenxa yokuba ukhetho lwendalo luyakwazi ukusebenza kwiipropati ezidityanisiweyo zeeagrigeythi zemolekyuli xa ezo mpawu zidibeneyo zandisa ukomelela okulungelelanisiweyo.,Ezi zixhobo zemolekyuli zisetyenziselwa ukuvelisa iityhefu ezahlukeneyo ukuze zikhuseleke.,1
+Wabhenela kwiNkosi uJulian.,Wayefuna ukubuza into ethile kwiNkosi uJulian.,0
+Wabhenela kwiNkosi uJulian.,Wayefuna ukucela uNkosi uJulian ukuba asindise umfazi wakhe.,1
+Wabhenela kwiNkosi uJulian.,INkosi uJulian yayingabonakali ndawo.,2
+"Emva kokujonga ezi ngqokelela, khwela induli ukuya kwiNdlu yoMkomishinala, apho uya kufumana iimbono ezintle zonxweme olujikelezileyo kunye nenxalenye yesakhiwo sedockyard.",Ungawabona amaphenyane encotsheni yenduli.,1
+"Emva kokujonga ezi ngqokelela, khwela induli ukuya kwiNdlu yoMkomishinala, apho uya kufumana iimbono ezintle zonxweme olujikelezileyo kunye nenxalenye yesakhiwo sedockyard.",Ungawabona amaphenyane encotsheni yenduli.,0
+"Emva kokujonga ezi ngqokelela, khwela induli ukuya kwiNdlu yoMkomishinala, apho uya kufumana iimbono ezintle zonxweme olujikelezileyo kunye nenxalenye yesakhiwo sedockyard.",Awunakulubona unxweme encotsheni yenduli.,2
+Inkqubo yezabasebenzi yadityaniswa kwaye ulwakhiwo lwentsebenzisano olutsha lwakhawuleziswa lachazwa ukuqinisekisa ukuqhubeka kwenkxaso yesandisiweyo isiseko sothengiso.,"Ngokudityaniswa kwenkqubo yezabasebenzi, igumbi elitsha lezakhiwo zentsebenziswano lenziwa. ",1
+Inkqubo yezabasebenzi yadityaniswa kwaye ulwakhiwo lwentsebenzisano olutsha lwakhawuleziswa lachazwa ukuqinisekisa ukuqhubeka kwenkxaso yesandisiweyo isiseko sothengiso.,Ulwakhiwo lwentsebenzisano lwenziwa. ,0
+Inkqubo yezabasebenzi yadityaniswa kwaye ulwakhiwo lwentsebenzisano olutsha lwakhawuleziswa lachazwa ukuqinisekisa ukuqhubeka kwenkxaso yesandisiweyo isiseko sothengiso.,Inkqubo yezabasebenzi yandisiwe ngaphezu kwendlela ibiyiyo kuqala. ,2
+"Intshukumo yamasilamsi, yazalwa ngonyaka wa1940, sisiqhamo selizwe yale mihla, ngempembelelo yemibono ka Marxist-Leninist yovukelo mbuso. ",Imibono yeMarxist-Leninist yayibandakanyiwe kwintshukumo yamaSilamsi.,0
+"Intshukumo yamasilamsi, yazalwa ngonyaka wa1940, sisiqhamo selizwe yale mihla, ngempembelelo yemibono ka Marxist-Leninist yovukelo mbuso. ",Intshukumo yama Silamsi yaqala kwinkulungwane yesithandathu. ,2
+"Intshukumo yamasilamsi, yazalwa ngonyaka wa1940, sisiqhamo selizwe yale mihla, ngempembelelo yemibono ka Marxist-Leninist yovukelo mbuso. ",Intshukumo yamasilamsi yasekwa ekuqaleni njengombutho wokuhlanganisa uluntu. ,1
+Isipho sakho sibalulelile kubhiyozo lwethu lwesizini yama-85.,Isipho nesipho esisifumanayo asibalulekanga kunesakho.,1
+Isipho sakho sibalulelile kubhiyozo lwethu lwesizini yama-85., Asisikhathalelanga konke konke Isipho sakho.,2
+Isipho sakho sibalulelile kubhiyozo lwethu lwesizini yama-85.,Besiyenza le nto iminyaka engaphaya kwama-80. ,0
+Umogqumo pakethe wenewsweeklies libonelela abazali abaxhalabileyo.,Abazali abaxhalabileyo bangabanye bemakethe ejongiweyo yenewsweeklies.,0
+Umogqumo pakethe wenewsweeklies libonelela abazali abaxhalabileyo.,INewsweeklies ziyila umogqumo pakethe zazo ukuze zibenomtsalane kubantwana abancinane kunye nabantu abadala. ,2
+Umogqumo pakethe wenewsweeklies libonelela abazali abaxhalabileyo.,"Abazali bavamise ngakumbi ukuchitha imali  kwiimoto ezintsha, nto leyo eyenza ingeniso mali yokubhengeza kwicandelo leemagazini.",1
+ Akufanelekanga asetyenziswe enye indlela endaweni yenye . ,Akulunganga ukusebenzisa enye indlela endaweni yenye kuba ufuna ukutolika enye ,0
+ Akufanelekanga asetyenziswe enye indlela endaweni yenye . ,Kuvumelekile ukutshintsha enye indlela endaweni yenye. ,2
+ Akufanelekanga asetyenziswe enye indlela endaweni yenye . ,Uninzi lwabantu abakwazi ukusebenzisa enye indlela kunye nokutshintsha. ,1

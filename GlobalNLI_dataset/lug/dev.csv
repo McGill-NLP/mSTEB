@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"N'agamba, maama ndi waka.",Yakubira maama we amangu ddala nga bbaasi y'essomero yaakamutuusa.,1
+"N'agamba, maama ndi waka.",Teyayogera kigambo kyonna.,2
+"N'agamba, maama ndi waka.",Yategeeza nnyina nti yali amufunye.,0
+Oh gwali mugga gwa Snake River oba omugga gwa Snake River nga gulimu emisota emingi.,"Newankubadde guyitibwa gutyo, omugga gwa Snake River teguliimu musota n'ogumu, wabula baagutuuma batyo olw'engeri gye gwakulamu nga gwegota ng'omusota.",2
+Oh gwali mugga gwa Snake River oba omugga gwa Snake River nga gulimu emisota emingi.,Omugga Snake River gulimu enfudu nnyingi ezimasamasa.,1
+Oh gwali mugga gwa Snake River oba omugga gwa Snake River nga gulimu emisota emingi.,Omugga Snake River gujjudde emisota.,0
+Obusimu obw'eddaala erya waggulu busituka kubanga obutonde bubeera n'obusobozi okukikola bwe bumanyiira okukikola.,Obusimu bwonna bwa ddaala lya waggulu.,2
+Obusimu obw'eddaala erya waggulu busituka kubanga obutonde bubeera n'obusobozi okukikola bwe bumanyiira okukikola.,Obusimu obw'eddaala erya waggulu bungi bulina obusobozi okulinnya mu mbeera ez'enjawulo.,0
+Obusimu obw'eddaala erya waggulu busituka kubanga obutonde bubeera n'obusobozi okukikola bwe bumanyiira okukikola.,Obusimu obw'enjawulo businga kukozesebwa okukola obutwa obukuuma omubiri.,1
+Yawaayo okujulira kwe eri omulamuzi Julian.,Yali alina ky'ayagala okusaba omulamuzi. ,0
+Yawaayo okujulira kwe eri omulamuzi Julian.,Yali ayagala kusaba Omulamuzi yeggyeereze mukyala we.,1
+Yawaayo okujulira kwe eri omulamuzi Julian.,Ow'ekitiibwa Julian yali takubibwako ky'amulubaale.,2
+"Bwomaliriza okukung'aanya ebyetooloddewo, yambuka ku nnyumba ya kamisona wokka okusanga ekifo ekituufu w'osobolera okulengera obulungi olubalama lw'ennyanja n'awasimbibwa amaato.",Osobola okulengera amaato ng'oli ku ntikko y'olusozi.,1
+"Bwomaliriza okukung'aanya ebyetooloddewo, yambuka ku nnyumba ya kamisona wokka okusanga ekifo ekituufu w'osobolera okulengera obulungi olubalama lw'ennyanja n'awasimbibwa amaato.",Osobola okulaba ebiri ku lubalama lw'ennyanja ng'oli waggulu ku lusozi.,0
+"Bwomaliriza okukung'aanya ebyetooloddewo, yambuka ku nnyumba ya kamisona wokka okusanga ekifo ekituufu w'osobolera okulengera obulungi olubalama lw'ennyanja n'awasimbibwa amaato.",Tosobola kulaba lubalama lwa nnyanja ng'oli waggulu ku lusozi.,2
+Amakungaanyizo g'obubaka obukwata ku bakozi gaanywezebwa era n'emiyungano gy'ebitongole emiggya ne gitondebwawo mu bwangu okukakasa nti obuyambi eri bakasitoma abaali beeyongedde obungi tebwesalako. ,"Ng'amakungaanyizo g'obubaka obukwata ku bakozi gamaze okunywezebwa, waatondebwawo omukisa g'okugunjaawo emiyungano emiggya wakati w'ebitongole eby'enjawulo. ",1
+Amakungaanyizo g'obubaka obukwata ku bakozi gaanywezebwa era n'emiyungano gy'ebitongole emiggya ne gitondebwawo mu bwangu okukakasa nti obuyambi eri bakasitoma abaali beeyongedde obungi tebwesalako. ,Emiyungano wakati w'ebitongole eby'enjawulo gyatondebwawo. ,0
+Amakungaanyizo g'obubaka obukwata ku bakozi gaanywezebwa era n'emiyungano gy'ebitongole emiggya ne gitondebwawo mu bwangu okukakasa nti obuyambi eri bakasitoma abaali beeyongedde obungi tebwesalako. ,Amakungaanyizo g'obubaka obukwata ku bakozi gaagaziyizibwa okusukka ku mbeera mwe gaali okusooka.,2
+"Omugendo gw'enkola ey'Ekiyisiraamu, ogwagunjibwawo mu 1940, kye kyava mu nsi ey'omulembe, eyatondebwawo ebirowoozo by'enkola y'Ekimakisi ekwata ku nteekateeka y'enkyukakyuka.",Ebirowoozo by'Ekimakisi byayingizibwa mu mugendo gw'Ekiyisiraamu.,0
+"Omugendo gw'enkola ey'Ekiyisiraamu, ogwagunjibwawo mu 1940, kye kyava mu nsi ey'omulembe, eyatondebwawo ebirowoozo by'enkola y'Ekimakisi ekwata ku nteekateeka y'enkyukakyuka.",Omugendo gw'Ekiyisiraamu gwatandika mu kyasa ky'omukaaga.,2
+"Omugendo gw'enkola ey'Ekiyisiraamu, ogwagunjibwawo mu 1940, kye kyava mu nsi ey'omulembe, eyatondebwawo ebirowoozo by'enkola y'Ekimakisi ekwata ku nteekateeka y'enkyukakyuka.",Omugendo gw'Ekiyisiraamu mu kusooka gwatandikibwawo ng'ekitongole ky'okukungiramu abantu.,1
+Ekirabo kyo kya mugaso eri okujaguza kwaffe okwa sizoni y'ekinaana mu ettaano.,Buli kirabo kye tufuna tekiba kya mugaso kwenkana ekyo ky'otuwa.,1
+Ekirabo kyo kya mugaso eri okujaguza kwaffe okwa sizoni y'ekinaana mu ettaano.,Tetufaayo ku kirabo kyo wadde n'akatono.,2
+Ekirabo kyo kya mugaso eri okujaguza kwaffe okwa sizoni y'ekinaana mu ettaano.,Tubaddenga tukola kino okumala emyaka kinaana.,0
+Empaoula z'amawulire ezifuluma buli wiiki zettanirwa nnyo abazadde abatatebenkedde mu birowoozo.,Abazadde abatatebenkedde mu birowoozo be bamu ku baluubirirwa mu mpapula z'amawulire ezifuluma buli wiiki.,0
+Empaoula z'amawulire ezifuluma buli wiiki zettanirwa nnyo abazadde abatatebenkedde mu birowoozo.,Empapula z'amawulire ezifuluma buli wiiki zitonaatona emiko gyazo egyokungulu mu ngeri esikiriza abaana abato n'abantu abakulu. ,2
+Empaoula z'amawulire ezifuluma buli wiiki zettanirwa nnyo abazadde abatatebenkedde mu birowoozo.,"Abazadde basobolera ddala okusaasaanya ensimbi nga bagula amamotoka ag'ebbeeyi , ekigaleetera okulangibwa mu butabo bw'amawulire ku bbeeyi eyawaggulu ddala. ",1
+Ekyokulondako tekirina kukozesebwa mu kifo kya kyanjawulo.,Tekisaanidde kukozesa kyakulondako okutegeeeza ekyenjawulo.,0
+Ekyokulondako tekirina kukozesebwa mu kifo kya kyanjawulo.,Tekikkirizibwa kuwaanyisa kyakulondako na kyanjawulo.,2
+Ekyokulondako tekirina kukozesebwa mu kifo kya kyanjawulo.,Abantu bangi tebamanyi kukozesa ekyokulondako n'ekyenjawulo.,1

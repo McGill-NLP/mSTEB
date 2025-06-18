@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Ma ọ sịrị, Mama, anọ m n'ụlọ.",Ọ kpọrọ nne ya ozigbo ụgbọala ụlọakwụkwọ bulatara ya.,1
+"Ma ọ sịrị, Mama, anọ m n'ụlọ.",O kwughị otu mkpụrụ okwu.,2
+"Ma ọ sịrị, Mama, anọ m n'ụlọ.",Ọ gwara nne ya na ọ laruola n'ụlọ.,0
+"Oh, ọ bụ mmiri agwọ oh mmiri agwọ nke ọtụtụ agwọ nọ na ya.","N'agbanyeghị aha ya, n'ezie Snake River enweghị agwọ ọ bụla nọ na ya; a bara ya aha maka  na o yiri mkpụrụ edemede S.",2
+"Oh, ọ bụ mmiri agwọ oh mmiri agwọ nke ọtụtụ agwọ nọ na ya.",Snake River juputara na mbe mmiri na-agba agba.,1
+"Oh, ọ bụ mmiri agwọ oh mmiri agwọ nke ọtụtụ agwọ nọ na ya.",Snake River jupụtara na agwọ.,0
+Ngwa mọlịkụl ọtụtụ ayọn mejupụtara nke dị elu na-ebili n'ihi ọdịdị mgbanwe bụ nke nwere ike ịrụ ọrụ na ngwa mọlịkụl ahụ a chịkọtara ọnụ mgbe ngwa ndị ahụ a chịkọtara ọnụ ga-enyeaka n'ịnwe ike nnabata.,Ngwa mọlịkụl niile nakwa agbagwoju anya. ,2
+Ngwa mọlịkụl ọtụtụ ayọn mejupụtara nke dị elu na-ebili n'ihi ọdịdị mgbanwe bụ nke nwere ike ịrụ ọrụ na ngwa mọlịkụl ahụ a chịkọtara ọnụ mgbe ngwa ndị ahụ a chịkọtara ọnụ ga-enyeaka n'ịnwe ike nnabata.,Ngwa mọlịkụl mgbagwoju anya ndị ọzọ nwere ike ịbili n'ọnọdụ ụfọdụ ga.,0
+Ngwa mọlịkụl ọtụtụ ayọn mejupụtara nke dị elu na-ebili n'ihi ọdịdị mgbanwe bụ nke nwere ike ịrụ ọrụ na ngwa mọlịkụl ahụ a chịkọtara ọnụ mgbe ngwa ndị ahụ a chịkọtara ọnụ ga-enyeaka n'ịnwe ike nnabata.,Ngwa mọlịkụl niile a bụ  nke a na-ejikarị emepụta ńsí dị iche iche maka nchekwaba. ,1
+Ọ webatara arịrịọ n'aka Lord Julian.,Ọ chọbụrụ ịjụ Lord Julian ihe.,0
+Ọ webatara arịrịọ n'aka Lord Julian.,Ọ chọrọ ị rịọ Ọkaịkpe Julian ka ọ zọpụta nwunye ya.,1
+Ọ webatara arịrịọ n'aka Lord Julian.,O nweghị ebe a hụrụ Lord Julian.,2
+"Ka m lesiri anya na gburugburu ịhe ndị a chịkọtara ọnụ, rịa elu úgwù gara ụlọ Kọmishọna, ebe ị ga-ahu gburugburu ikpere mmiri na ebe ndị ọzọ nọ ọdọ ụgbọmmiri ahụ.",Ị nwere ike ịhụ ụgbọmmiri n'elu ugwu.,1
+"Ka m lesiri anya na gburugburu ịhe ndị a chịkọtara ọnụ, rịa elu úgwù gara ụlọ Kọmishọna, ebe ị ga-ahu gburugburu ikpere mmiri na ebe ndị ọzọ nọ ọdọ ụgbọmmiri ahụ.",Ị ga-ahụ gburugburu ebe ikpere mmiri ndị ahụ n'elu ugwu ahụ.,0
+"Ka m lesiri anya na gburugburu ịhe ndị a chịkọtara ọnụ, rịa elu úgwù gara ụlọ Kọmishọna, ebe ị ga-ahu gburugburu ikpere mmiri na ebe ndị ọzọ nọ ọdọ ụgbọmmiri ahụ.",Ị gaghị ahụ ikpere mmiri site n'elu ugwu.,2
+Usoro ndị ọrụ bụ nke akwagidere ma usoro ụlọ ọrụ ọhụrụ bụ nke e mere ngwa ngwa kọwaa ị ji mee ka e nwee mbawanye ndị ahịa. ,"N'ịkwagide usoro ndị ọrụ,e kepụtara ohere maka nhazi ụlọ ọrụ.  ",1
+Usoro ndị ọrụ bụ nke akwagidere ma usoro ụlọ ọrụ ọhụrụ bụ nke e mere ngwa ngwa kọwaa ị ji mee ka e nwee mbawanye ndị ahịa. ,E guzobere etu esiri hazie ụlọ ọrụ. ,0
+Usoro ndị ọrụ bụ nke akwagidere ma usoro ụlọ ọrụ ọhụrụ bụ nke e mere ngwa ngwa kọwaa ị ji mee ka e nwee mbawanye ndị ahịa. ,E nwere mbawanye na-usoro ndị ọrụ karia ka ha di na mbụ. ,2
+"Nkwado Alakụba ahụ, e bidoro ịhe dịka 1940, bụ aka ọrụ ụwa ọhụrụ, nke gbadoro ụkwụ na nkụzi mgbanwe ndị otu Marx na Lenin.",E webatara echiche Marxist-Leninist n'ime nkwado Alakụba.,0
+"Nkwado Alakụba ahụ, e bidoro ịhe dịka 1940, bụ aka ọrụ ụwa ọhụrụ, nke gbadoro ụkwụ na nkụzi mgbanwe ndị otu Marx na Lenin.",Ndị otu nkwado Alakụba bidoro na senchuri nke isii.,2
+"Nkwado Alakụba ahụ, e bidoro ịhe dịka 1940, bụ aka ọrụ ụwa ọhụrụ, nke gbadoro ụkwụ na nkụzi mgbanwe ndị otu Marx na Lenin.",E wubere nkwado Alakụba site na mbụ dịka nzukọ maka mkpokọta ọha.,1
+Onyinye gị dị mkpa nye mmemme ncheta oge nke 85 anyị.,Onyinye ọ bụla anyị nwetara adịghị mkpa ka nke gị.,1
+Onyinye gị dị mkpa nye mmemme ncheta oge nke 85 anyị.,Anyị enweghị mmasị n'onyinye gị ma ọlị.,2
+Onyinye gị dị mkpa nye mmemme ncheta oge nke 85 anyị.,Anyi na-eme ihe a kemgbe ihe karịrị áfọ̀ 80.,0
+Ngwa akwụkwọ nta akụkọ kwa izu na-enye ndị nnenanna ụjọ na-atụ ịhe ha na-achọ.,Nne na nna ndị natụ ụjọ bụ otu ahịa ebumnuche n'akụkọ kwa izu.,0
+Ngwa akwụkwọ nta akụkọ kwa izu na-enye ndị nnenanna ụjọ na-atụ ịhe ha na-achọ.,Akwụkwọ nta akụkọ kwa izu na-eme ka azụ akwụkwọ ha bụrụ nke ga-amasị ụmụaka maọbụ ndị okenye.,2
+Ngwa akwụkwọ nta akụkọ kwa izu na-enye ndị nnenanna ụjọ na-atụ ịhe ha na-achọ.,"Ndị nne na nna nwere ike inye ego iji zụta ụgbọala ọhụụ, neme mpaghara mgbasa ozi akwụkwọ magazịịnị ka ọ na-aga aga.",1
+E kwesịghị ị ji ụdị ọzọ nọchite anya na-eso ibe ya.,Ọ zighị ezi ịwere ụdị ọzọ ka ọ bụrụ na-eso ibe ya.,0
+E kwesịghị ị ji ụdị ọzọ nọchite anya na-eso ibe ya.,E nwere ikikere n'eso ibe ya nọchie ụdịdị ọzọ. ,2
+E kwesịghị ị ji ụdị ọzọ nọchite anya na-eso ibe ya.,Ọtụtụ ndị mmadụ amaghị otu esi eji ụdị ọzọ na na-eso ibe ya n'ụzọ ziri ezi.,1

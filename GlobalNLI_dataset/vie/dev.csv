@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Và anh ấy nói, Mẹ, con đã về nhà.","Ngay khi xuống xe buýt của trường, anh ấy gọi cho mẹ.",1
+"Và anh ấy nói, Mẹ, con đã về nhà.",Anh không nói một lời nào.,2
+"Và anh ấy nói, Mẹ, con đã về nhà.",Anh nói với mẹ rằng anh đã về nhà.,0
+Oh đó là dòng sông Snake oh dòng sông Snake với rất nhiều rắn trong đó,"Mặc dù mang tên Snake River, dòng sông Snake này trên thực tế chẳng có rắn (snakes) nào cả; nó được đặt tên do hình dáng chữ S của nó.",2
+Oh đó là dòng sông Snake oh dòng sông Snake với rất nhiều rắn trong đó,Sông Snake có rất nhiều loài rùa phơi mình ngủ.,1
+Oh đó là dòng sông Snake oh dòng sông Snake với rất nhiều rắn trong đó,Sông Rắn có rất nhiều rắn.,0
+Những phức hợp bậc cao hơn của các thiết bị phân tử phát sinh bởi vì sự chọn lọc tự nhiên có thể tác động lên các đặc tính tập thể của các tập hợp phân tử như vậy khi các đặc tính tập thể này làm tăng thêm khả năng thích ứng.,Tất cả các thiết bị phân tử đều phức tạp như nhau.,2
+Những phức hợp bậc cao hơn của các thiết bị phân tử phát sinh bởi vì sự chọn lọc tự nhiên có thể tác động lên các đặc tính tập thể của các tập hợp phân tử như vậy khi các đặc tính tập thể này làm tăng thêm khả năng thích ứng.,Những thiết bị phân tử phức tạp có thể bật lên trong một vài hoàn cảnh.,0
+Những phức hợp bậc cao hơn của các thiết bị phân tử phát sinh bởi vì sự chọn lọc tự nhiên có thể tác động lên các đặc tính tập thể của các tập hợp phân tử như vậy khi các đặc tính tập thể này làm tăng thêm khả năng thích ứng.,Các thiết bị phân tử này đang phần lớn được dùng để sản xuất các loại thuốc độc khác nhau cho mục đích bảo vệ.,1
+Anh ấy quay lại với Chúa Julian.,Anh muốn hỏi Chúa Julian một điều gì đó.,0
+Anh ấy quay lại với Chúa Julian.,Anh muốn cầu xin Chúa Julian tha cho vợ mình.,1
+Anh ấy quay lại với Chúa Julian.,Chúa Julian không có nơi nào được nhìn thấy.,2
+"Sau khi nhìn quanh những bộ sưu tập này, hãy leo lên ngọn đồi đến Tòa nhà của Ủy viên, nơi bạn sẽ tìm thấy tầm nhìn tuyệt đẹp ra bờ biển xung quanh và phần còn lại của khu phức hợp bến tàu.",Bạn có thể thấy thuyền ở trên đỉnh đồi.,1
+"Sau khi nhìn quanh những bộ sưu tập này, hãy leo lên ngọn đồi đến Tòa nhà của Ủy viên, nơi bạn sẽ tìm thấy tầm nhìn tuyệt đẹp ra bờ biển xung quanh và phần còn lại của khu phức hợp bến tàu.",Bạn có thể ngắm nhìn đường bờ biển từ trên đỉnh đồi.,0
+"Sau khi nhìn quanh những bộ sưu tập này, hãy leo lên ngọn đồi đến Tòa nhà của Ủy viên, nơi bạn sẽ tìm thấy tầm nhìn tuyệt đẹp ra bờ biển xung quanh và phần còn lại của khu phức hợp bến tàu.",Bạn không thể nhìn thấy bờ biển từ đỉnh đồi.,2
+Hệ thống nguồn nhân lực đã được củng cố và các cấu trúc doanh nghiệp mới được xác định nhanh chóng để đảm bảo tiếp tục hỗ trợ cho cơ sở khách hàng đã được mở rộng.,"Bằng cách củng cố hệ thống nguồn nhân lực, phòng đã được tạo ra cho các cấu trúc doanh nghiệp mới.",1
+Hệ thống nguồn nhân lực đã được củng cố và các cấu trúc doanh nghiệp mới được xác định nhanh chóng để đảm bảo tiếp tục hỗ trợ cho cơ sở khách hàng đã được mở rộng.,Cấu trúc công ty đã được tạo ra.,0
+Hệ thống nguồn nhân lực đã được củng cố và các cấu trúc doanh nghiệp mới được xác định nhanh chóng để đảm bảo tiếp tục hỗ trợ cho cơ sở khách hàng đã được mở rộng.,Hệ thống nguồn nhân lực đã được mở rộng vượt lên tình trạng trước đó.,2
+"Phong trào Hồi giáo, ra đời từ năm 1940, là một sản phẩm của thế giới hiện đại, chịu ảnh hưởng bởi các khái niệm Mác-Lênin về tổ chức cách mạng.",Chủ nghĩa  Mác-Lênin đã được kết hợp vào phong trào Hồi giáo.,0
+"Phong trào Hồi giáo, ra đời từ năm 1940, là một sản phẩm của thế giới hiện đại, chịu ảnh hưởng bởi các khái niệm Mác-Lênin về tổ chức cách mạng.",Phong trào Hồi giáo đã bắt đầu vào thế kỷ thứ sáu.,2
+"Phong trào Hồi giáo, ra đời từ năm 1940, là một sản phẩm của thế giới hiện đại, chịu ảnh hưởng bởi các khái niệm Mác-Lênin về tổ chức cách mạng.",Phong trào Hồi giáo ban đầu được thành lập như một tổ chức vận động xã hội.,1
+Món quà của bạn quan trọng đối với lần kỉ niệm thứ 85 của chúng tôi.,Mỗi món quà chúng tôi nhận được không quan trọng bằng của bạn.,1
+Món quà của bạn quan trọng đối với lần kỉ niệm thứ 85 của chúng tôi.,Chúng tôi không hề quan tâm đến món quà của bạn.,2
+Món quà của bạn quan trọng đối với lần kỉ niệm thứ 85 của chúng tôi.,Chúng tôi đã và đang làm cái này hơn 80 năm rồi.,0
+Các gói bìa của newsweeklies làm các bậc cha mẹ lo lắng.,Các cha mẹ lo lắng là một mục tiêu tiếp thị của newsweeklies.,0
+Các gói bìa của newsweeklies làm các bậc cha mẹ lo lắng.,Newsweeklies thiết kế các bao bì nhằm thu hút trẻ nhỏ hoặc người già.,2
+Các gói bìa của newsweeklies làm các bậc cha mẹ lo lắng.,"Cha mẹ có nhiều khả năng chi tiền cho việc mua xe mới, khiến họ trở thành một phân đoạn quảng cáo sinh lợi cho các tạp chí.",1
+Alternative không nên được sử dụng thay cho alternate.,Nó không đúng khi dùng từ ''thay thế'' để nói ''Luân phiên'',0
+Alternative không nên được sử dụng thay cho alternate.,Nó được phép thay thế.,2
+Alternative không nên được sử dụng thay cho alternate.,Rất nhiều người không biết cách sử dụng đúng cách từ ''sự lựa chọn'' và ''xen kẽ''.,1

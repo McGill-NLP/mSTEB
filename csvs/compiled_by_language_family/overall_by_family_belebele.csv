@@ -1,0 +1,19 @@
+language_family,count,Accuracy gpt-4o,Accuracy gemini2-Flash,Accuracy Gemma3-27B
+Indo-European,51,88.6,86.9,85.3
+Atlantic-Congo,17,69.6,75.5,57.0
+Afro-Asiatic,14,80.1,84.7,75.2
+Austronesian,10,86.2,85.8,81.9
+Turkic,5,88.6,87.7,85.7
+Sino-Tibetan,5,66.9,77.1,66.9
+Dravidian,4,85.0,84.6,84.0
+Tai-Kadai,3,64.6,76.2,67.5
+Uralic,3,92.9,73.5,84.5
+Austroasiatic,2,88.1,87.9,85.9
+Kartvelian,1,90.1,88.6,86.8
+Mande,1,36.0,54.8,31.6
+Mongolic-Khitan,1,86.2,85.1,79.3
+Nilotic,1,42.0,58.0,32.3
+Japonic,1,89.8,87.8,88.8
+Basque,1,91.3,90.3,87.3
+Tupian,1,72.3,78.3,44.4
+Koreanic,1,90.6,82.7,88.7

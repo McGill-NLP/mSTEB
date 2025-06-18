@@ -1,0 +1,9 @@
+region,count,Accuracy gpt-4o (April 2025),Accuracy Gemini-2-Flash (April 2025),Accuracy Gemma3-27B
+Africa,16,61.8,64.2,58.4
+Americas/Oceania,11,49.1,46.8,46.1
+Asia 1,2,77.2,75.2,75.0
+Asia 2,12,72.4,71.4,71.1
+Asia 3,4,77.7,75.4,76.2
+Asia 4,3,81.2,76.6,75.2
+Europe 1,7,84.8,83.6,82.7
+Europe 2,4,75.8,75.7,77.0

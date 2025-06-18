@@ -1,0 +1,1240 @@
+premise,hypothesis,gpt_reply
+"Bien, ni estaba pensando en eso, pero estaba tan frustrada y empecé a hablar con él de nuevo.",No he vuelto a hablar con él.,"contradiction
+"
+"Bien, ni estaba pensando en eso, pero estaba tan frustrada y empecé a hablar con él de nuevo.",Estaba tan molesto que empecé a hablar con él de nuevo.,"neutral
+"
+"Bien, ni estaba pensando en eso, pero estaba tan frustrada y empecé a hablar con él de nuevo.",Tuvimos una gran charla.,"neutral
+"
+"Me dijeron que, esto... que un tipo me llamaría al final para vernos.",Nunca me dijeron nada sobre conocer a alguien.,"contradiction
+"
+"Me dijeron que, esto... que un tipo me llamaría al final para vernos.",Me dijeron que llamarían a un tipo para que me conociera.,"neutral
+"
+"Me dijeron que, esto... que un tipo me llamaría al final para vernos.",El tipo apareció un poco tarde.,"neutral
+"
+"Hay tanto que se puede decir sobre eso, que sencillamente me voy a saltar eso.",¡Quiero contarte todo lo que sé sobre eso!,"contradiction
+"
+"Hay tanto que se puede decir sobre eso, que sencillamente me voy a saltar eso.","No hablaré de eso, aunque hay mucho que cubrir.","entailment
+"
+"Hay tanto que se puede decir sobre eso, que sencillamente me voy a saltar eso.",No hablaré sobre la historia de la ciudad porque hay mucho que decir.,"entailment
+"
+Así que no tengo muy claro por qué.,Estoy seguro de la razón por la cual.,"contradiction
+"
+Así que no tengo muy claro por qué.,No sé por qué él transfirió las escuelas.,"neutral
+"
+Así que no tengo muy claro por qué.,No sé por qué sucedió eso.,"entailment
+"
+Yo era el único que alguna vez ejecutaba los reguladores para la prueba en las cámaras de altitud en miniatura.,No me gustó ser el único en ejecutar los reguladores para las pruebas.,"neutral
+"
+Yo era el único que alguna vez ejecutaba los reguladores para la prueba en las cámaras de altitud en miniatura.,Las pruebas se realizaron en las cámaras de altitud en miniatura.,"entailment
+"
+Yo era el único que alguna vez ejecutaba los reguladores para la prueba en las cámaras de altitud en miniatura.,Hubo algunos de nosotros que dirigimos los reguladores para la prueba.,"entailment
+"
+"Soy, esto, el sargento jefe maestro, jubilado, como dijo Rick.",Todavía estoy trabajando para este día.,"contradiction
+"
+"Soy, esto, el sargento jefe maestro, jubilado, como dijo Rick.",Me retiré en 2002.,"neutral
+"
+"Soy, esto, el sargento jefe maestro, jubilado, como dijo Rick.",Rick te dijo que estaba retirado.,"entailment
+"
+"Hay algunas proyecciones del flujo de caja y, uh, eh, es para tal y cual Cutty, el nombre del cliente.",El cliente llamado Cutty gana $ 10000 al mes.,"neutral
+"
+"Hay algunas proyecciones del flujo de caja y, uh, eh, es para tal y cual Cutty, el nombre del cliente.",Hay un cliente llamado Cutty.,"entailment
+"
+"Hay algunas proyecciones del flujo de caja y, uh, eh, es para tal y cual Cutty, el nombre del cliente.",No tenemos clientes llamados Cutty.,"contradiction
+"
+La chica que me puede ayudar está en la otra punta de la ciudad.,La chica de la que necesito ayuda vive muy lejos.,"entailment
+"
+La chica que me puede ayudar está en la otra punta de la ciudad.,La niña que me va a ayudar está a 5 millas de distancia.,"neutral
+"
+La chica que me puede ayudar está en la otra punta de la ciudad.,No hay nadie que pueda ayudarme.,"neutral
+"
+"Pero ellos estaban divididos acerca de quiénes eran las manos de campo y quiénes eran los niños de la casa, era algo así como...",Todos estuvieron de acuerdo en que todos trabajarían en el campo.,"contradiction
+"
+"Pero ellos estaban divididos acerca de quiénes eran las manos de campo y quiénes eran los niños de la casa, era algo así como...",No podían ponerse de acuerdo sobre quién era una mano de campo y quién pertenecía a la casa.,"entailment
+"
+"Pero ellos estaban divididos acerca de quiénes eran las manos de campo y quiénes eran los niños de la casa, era algo así como...",No podían estar de acuerdo con quién debería trabajar en el campo de algodón y quién debería fregar los pisos.,"entailment
+"
+"Quiero decir que ellos solo tenían, algo así como, cinco hijos. Uno de ellos murió.",Todos sus hijos sobrevivieron.,"contradiction
+"
+"Quiero decir que ellos solo tenían, algo así como, cinco hijos. Uno de ellos murió.",Un niño murió de los cinco.,"entailment
+"
+"Quiero decir que ellos solo tenían, algo así como, cinco hijos. Uno de ellos murió.",El niño que murió había nacido con problemas de salud.,"neutral
+"
+"Dijo que le caían lágrimas de los ojos, y después dijo que Joe fue hasta el porche.","Cuando le dijo que subiera al porche, tenía lágrimas en los ojos.","neutral
+"
+"Dijo que le caían lágrimas de los ojos, y después dijo que Joe fue hasta el porche.",Ella se secó rápidamente las lágrimas después de arrojar a Joe fuera del porche.,"neutral
+"
+"Dijo que le caían lágrimas de los ojos, y después dijo que Joe fue hasta el porche.",Estaba tan feliz de ver a Joe que comenzó a llorar.,"neutral
+"
+"Incluso si la aeronave estaba en llamas, ¿por qué se quemaría y se derretiría si tiene un componente de plomo para que la radiación se filtre?",La radiación también se puede contener durante un incendio.,"neutral
+"
+"Incluso si la aeronave estaba en llamas, ¿por qué se quemaría y se derretiría si tiene un componente de plomo para que la radiación se filtre?",La radiación se filtraría de un componente principal después de que el avión se quemara.,"neutral
+"
+"Incluso si la aeronave estaba en llamas, ¿por qué se quemaría y se derretiría si tiene un componente de plomo para que la radiación se filtre?",La radiación no se filtraría durante un incendio.,"contradiction
+"
+"Este es el sargento jefe maestro Clem Francis, jubilado de las fuerzas aéreas estadounidenses.",El Jefe está retirado de la Fuerza Aérea de los Estados Unidos.,"entailment
+"
+"Este es el sargento jefe maestro Clem Francis, jubilado de las fuerzas aéreas estadounidenses.",El Jefe recientemente se retiró hace unas semanas.,"entailment
+"
+"Este es el sargento jefe maestro Clem Francis, jubilado de las fuerzas aéreas estadounidenses.",El Jefe de la Fuerza Aérea de los Estados Unidos acaba de comenzar su carrera esta semana.,"contradiction
+"
+"Bueno, llegó hasta el punto en que hay dos o tres aeronaves que llegan en una semana y no sabía a dónde volaban.",Más de un avión llega cada semana.,"entailment
+"
+"Bueno, llegó hasta el punto en que hay dos o tres aeronaves que llegan en una semana y no sabía a dónde volaban.",El incremento del tráfico de aviones es problemático.,"neutral
+"
+"Bueno, llegó hasta el punto en que hay dos o tres aeronaves que llegan en una semana y no sabía a dónde volaban.",Nunca llega ningún avión.,"contradiction
+"
+Ellos ya habían tenido su entrenamiento en los trajes presurizados y me había costado algo de tiempo ponerme un traje presurizado.,Se tardan tres meses en completar el entrenamiento en el uso de un traje de presión.,"neutral
+"
+Ellos ya habían tenido su entrenamiento en los trajes presurizados y me había costado algo de tiempo ponerme un traje presurizado.,El entrenamiento para usar un traje a presión requiere tiempo.,"entailment
+"
+Ellos ya habían tenido su entrenamiento en los trajes presurizados y me había costado algo de tiempo ponerme un traje presurizado.,Podríamos haberte entrenado para usar un traje de presión completo para el final del día.,"neutral
+"
+"Quiero decir que no había ningún peligro de entrar con la bomba porque no explotaría, independientemente de lo duro que tocó el suelo.",La bomba había sido desactivada por el piloto.,"neutral
+"
+"Quiero decir que no había ningún peligro de entrar con la bomba porque no explotaría, independientemente de lo duro que tocó el suelo.",La bomba no tuvo ninguna posibilidad de explotar.,"entailment
+"
+"Quiero decir que no había ningún peligro de entrar con la bomba porque no explotaría, independientemente de lo duro que tocó el suelo.",Había un gran peligro de que la bomba explotara.,"contradiction
+"
+Y qué tal si se parece exactamente a lo que intento hacer.,No estoy seguro de cómo te parece esto.,"neutral
+"
+Y qué tal si se parece exactamente a lo que intento hacer.,"Obviamente, estoy tratando de hacerlo.","entailment
+"
+Y qué tal si se parece exactamente a lo que intento hacer.,Estoy tratando de terminar mi proyecto la próxima semana.,"neutral
+"
+"Pero de igual forma, los animales se perderían todo el tiempo, en especial las cabras.",Las cabras escapaban del granero todos los días.,"entailment
+"
+"Pero de igual forma, los animales se perderían todo el tiempo, en especial las cabras.",Las cabras escaparon a menudo.,"entailment
+"
+"Pero de igual forma, los animales se perderían todo el tiempo, en especial las cabras.",Las cabras estaban seguras y a salvo.,"contradiction
+"
+"Cuando entramos, las puertas estaban cerradas.",Todas las puertas estaban abiertas.,"contradiction
+"
+"Cuando entramos, las puertas estaban cerradas.",Teníamos las llaves con nosotros.,"neutral
+"
+"Cuando entramos, las puertas estaban cerradas.",Entramos a pesar de que las puertas estaban cerradas.,"entailment
+"
+De manera que solo tenía que coger los totales y probar y resolverlo así.,Estoy seguro de que los totales son todo lo que necesito para resolver esto.,"entailment
+"
+De manera que solo tenía que coger los totales y probar y resolverlo así.,"No tengo la menor idea de qué hacer solo con los totales. Por favor, dame más detalles para deshacer este entuerto.","contradiction
+"
+De manera que solo tenía que coger los totales y probar y resolverlo así.,Lo calcularé basandome en los totales.,"entailment
+"
+y mucho de eso es debido al hecho de que las madres son drogodependientes,Las madres son drogadictas.,"entailment
+"
+y mucho de eso es debido al hecho de que las madres son drogodependientes,Las madres no toman prescripciones ni medicamentos.,"contradiction 
+
+**explanation:**
+
+the premise states that a lot of issues are *due to* the mothers being drug addicts (""drogodependientes"").  being a drug addict inherently means they *are* taking substances, which directly contradicts the hypothesis that they take *no* prescriptions or medications. while ""drogodependiente"" doesn't *specifically* mean prescription drugs, it implies substance use, making the hypothesis incompatible.
+
+
+
+"
+y mucho de eso es debido al hecho de que las madres son drogodependientes,La madre toma drogas,"entailment
+"
+"Sí, es realmente agradable, ha estado lloviendo.",No me importa la lluvia.,"neutral
+"
+"Sí, es realmente agradable, ha estado lloviendo.",Es bonito y lluvioso.,"entailment
+"
+"Sí, es realmente agradable, ha estado lloviendo.",Es tan horrible con la incesante luz del sol.,"contradiction
+"
+"Oh, lo que vale una vida humana y si se puede o no rehabiliar a alguien.",Todas las vidas valen la rehabilitación y las segundas oportunidades.,"entailment
+"
+"Oh, lo que vale una vida humana y si se puede o no rehabiliar a alguien.",Ningún humano merece ser rehabilitado.,"contradiction
+"
+"Oh, lo que vale una vida humana y si se puede o no rehabiliar a alguien.","Independientemente de la rehabilitación, la vida vale la pena.","entailment
+"
+"oh, chico, aquí tienes un extraño problema de cableado",Nunca antes había visto este tipo de problema de cableado.,"neutral
+"
+"oh, chico, aquí tienes un extraño problema de cableado",El cableado no es el problema.,"contradiction
+"
+"oh, chico, aquí tienes un extraño problema de cableado",Hay un problema causado por este extraño cableado.,"entailment
+"
+"suena muy divertido, sí, me sorprende cuántas cuántas cosas permitirían",No estoy completamente sorprendido de que fuesen indulgentes.,"neutral
+"
+"suena muy divertido, sí, me sorprende cuántas cuántas cosas permitirían",Me sorprende que te dejaran entrar allí con comida y bebida.,"neutral
+"
+"suena muy divertido, sí, me sorprende cuántas cuántas cosas permitirían",Me sorpende con lo que lograron conseguir.,"entailment
+"
+"oh, pero de todos modos mis hijos ahora tienen veintiuno y veinticuatro, así que no tengo que",No es necesario porque mis hijos tienen más de veinte años.,"entailment
+"
+"oh, pero de todos modos mis hijos ahora tienen veintiuno y veinticuatro, así que no tengo que","Voy a tener que hacerlo, ya que están llegando a la edad.","neutral
+"
+"oh, pero de todos modos mis hijos ahora tienen veintiuno y veinticuatro, así que no tengo que",Debo hacerlo ya que ambos tienen diez y once años.,"contradiction
+"
+"Sí, personas que podrían estar en el trabajo en cualquier momento o cuyas decisiones podrían nublarse si tuvieran que tomar una decisión.","Sí, gente que quizás no sea capaz de tomar las mejores decisiones.","entailment
+"
+"Sí, personas que podrían estar en el trabajo en cualquier momento o cuyas decisiones podrían nublarse si tuvieran que tomar una decisión.","Sí, gente que quizás no tenga hambre.","neutral
+"
+"Sí, personas que podrían estar en el trabajo en cualquier momento o cuyas decisiones podrían nublarse si tuvieran que tomar una decisión.","Sí, las personas cuyas facultades de decisión nunca se ven afectadas.","contradiction
+"
+"No, todavía están de gira. Han estado de gira desde finales de los años sesenta.",Han estado de gira desde antes de 1970.,"entailment
+"
+"No, todavía están de gira. Han estado de gira desde finales de los años sesenta.",Les encanta hacer recorridos.,"entailment
+"
+"No, todavía están de gira. Han estado de gira desde finales de los años sesenta.",Terminaron su gira recientemente.,"contradiction
+"
+como harías aeróbicos,¿Puedes explicarme cómo realizarías aerobic?,"entailment
+"
+como harías aeróbicos,Estoy interesado en el aeróbic porque necesito algo de actividad cardiovascular.,"neutral
+"
+como harías aeróbicos,"Por favor, deja de hablar sobre ejercicios aeróbicos.","contradiction
+"
+"Bueno, esa es una buena en la cual no había pensado que sí.",Esa es una idea tonta que descarté la semana pasada.,"contradiction
+
+
+
+**explanation:**
+
+the premise states the speaker acknowledges something as *good* and something they hadn't previously considered. the hypothesis describes the same thing as *stupid* and something they *already* dismissed. these are opposing evaluations and timelines, creating a contradiction. it's impossible for something to be both good and stupid, and to be newly acknowledged *and* already discarded."
+"Bueno, esa es una buena en la cual no había pensado que sí.",Esto es un buen punto.,"entailment
+"
+"Bueno, esa es una buena en la cual no había pensado que sí.",La paradoja que mencionas es un buen punto.,"entailment
+"
+"guardería de dos días a la semana, lo llaman guardería de la tercera edad, pero ella va al centro de la tercera edad",La guardería está abierta todos los días para niños menores de cinco años solamente.,"contradiction
+"
+"guardería de dos días a la semana, lo llaman guardería de la tercera edad, pero ella va al centro de la tercera edad",Los dejan ir más de dos veces a la semana si las personas de la tercera edad están a la altura.,"neutral
+"
+"guardería de dos días a la semana, lo llaman guardería de la tercera edad, pero ella va al centro de la tercera edad","Se refieren a ella como una guardería para ancianos, pero se llama el centro para personas mayores.","entailment
+"
+esa era su meta oh,Eso es por lo que se habían esforzado.,"entailment
+"
+esa era su meta oh,Eso nunca fue lo que querían.,"contradiction
+"
+esa era su meta oh,Alcanzaron su meta.,"neutral
+"
+control de armas significa usar dos manos,La mitad de todas las fallas de tiro de pistola son el resultado del uso con una sola mano.,"neutral
+"
+control de armas significa usar dos manos,La mejor manera de controlar las armas es usar ambos pies.,"contradiction
+"
+control de armas significa usar dos manos,Use ambas manos si quiere practicar el control de armas.,"entailment
+"
+y de repente viene de algún lugar que no sé de donde viene pero,"No sé de donde viene, pero es rápido.","entailment
+"
+y de repente viene de algún lugar que no sé de donde viene pero,"Viene rápido, pero sé de donde viene.","neutral
+"
+y de repente viene de algún lugar que no sé de donde viene pero,Viene como melaza y sé exactamente cuándo vendrá.,"contradiction
+"
+"no, de hecho ni siquiera lo conozco, no creo",No se mucho sobre eso.,"entailment
+"
+"no, de hecho ni siquiera lo conozco, no creo",Soy ignorante en asuntos de amor.,"neutral
+"
+"no, de hecho ni siquiera lo conozco, no creo",He estado estudiando esto durante años.,"neutral
+"
+"Sí, tu sabes que ella era genial.",Creo que sabe que estuvo increíble.,"entailment
+"
+"Sí, tu sabes que ella era genial.",".No, ella era horrible.","contradiction
+"
+"Sí, tu sabes que ella era genial.","Sí, ella era muy buena.","entailment
+"
+"Sí, él sugirió solo comprar una fregona como la que usarías.",Sugirió comprar una aspiradora.,"contradiction
+"
+"Sí, él sugirió solo comprar una fregona como la que usarías.",Sugirió encontrar una fregona.,"entailment
+"
+"Sí, él sugirió solo comprar una fregona como la que usarías.",Quería limpiar la sangre con un trapeador.,"entailment
+"
+"Aquí están las cosas realmente mal, acaba de producirse un tiroteo en la autopista, a tres manzanas de nuestra casa.",El tiroteo fue al menos a 100 millas de donde vivo.,"contradiction
+"
+"Aquí están las cosas realmente mal, acaba de producirse un tiroteo en la autopista, a tres manzanas de nuestra casa.",El tiroteo fue cerca de mi casa y me da miedo salir.,"entailment
+"
+"Aquí están las cosas realmente mal, acaba de producirse un tiroteo en la autopista, a tres manzanas de nuestra casa.","Hubo un tiroteo cerca de mi casa, realmente no es bueno en esta área.","entailment
+"
+"oh, eso de verdad no es realmente, oh consistente","No estoy de acuerdo contigo, es muy constante.","contradiction
+"
+"oh, eso de verdad no es realmente, oh consistente",Creo que tienes razón con respecto a su consistencia.,"entailment
+"
+"oh, eso de verdad no es realmente, oh consistente",Tienes razón acerca de que no sea consistente.,"entailment
+"
+estoy tratando de aguantar allí,Estoy intentando aferrarme a ello.,"entailment
+"
+estoy tratando de aguantar allí,Realmente estoy haciendo lo mejor que puedo.,"entailment
+"
+estoy tratando de aguantar allí,Dejaré ir y nunca miraré atrás.,"contradiction
+"
+Programamos nuestra entrada en el futuro tecnológico.,Estamos construyendo los precursores necesarios para un futuro tecnológico.,"entailment
+"
+Programamos nuestra entrada en el futuro tecnológico.,"Construimos transistores, así que nuestro futuro estará dirigido por la IA.","neutral
+"
+Programamos nuestra entrada en el futuro tecnológico.,Queremos evitar que la tecnología tenga éxito.,"contradiction
+"
+"Por ejemplo, como máximo, todos los genes se vuelven morados.","Como máximo, solo la mitad de los genes puede volverse morado.","entailment
+"
+"Por ejemplo, como máximo, todos los genes se vuelven morados.",Los genes pueden cambiar de color.,"entailment
+"
+"Por ejemplo, como máximo, todos los genes se vuelven morados.",A veces los genes también se vuelven azules.,"neutral
+"
+Daniel Yamins es un joven matemático brillante.,El Sr. Yamins es excelente en matemáticas.,"entailment
+"
+Daniel Yamins es un joven matemático brillante.,El Sr. Yamins está centrado en la geometría algebraica.,"neutral
+"
+Daniel Yamins es un joven matemático brillante.,"El Sr. Yamins es un gran artista, pero un terrible matemático.","contradiction
+"
+"Y si es así, ¿a menudo están cerca de ese límite?",Sé que nunca viajan cerca del límite.,"contradiction
+"
+"Y si es así, ¿a menudo están cerca de ese límite?","Quiero saberlo, ¿están a menudo en Inglaterra?","neutral
+"
+"Y si es así, ¿a menudo están cerca de ese límite?",El orador quería aclaraciones sobre la frecuencia con que se acercaban al límite.,"entailment
+"
+"Y existe, creo, una pista molecular de que la biosfera se construye a sí misma de forma persistente en el régimen superviviente para un grupo de propagación de linajes.",La biosfera cambia mucho.,"neutral
+"
+"Y existe, creo, una pista molecular de que la biosfera se construye a sí misma de forma persistente en el régimen superviviente para un grupo de propagación de linajes.",La biosfera cambia según la temperatura.,"neutral
+"
+"Y existe, creo, una pista molecular de que la biosfera se construye a sí misma de forma persistente en el régimen superviviente para un grupo de propagación de linajes.",La biosfera nunca cambia.,"contradiction
+"
+"Con ese salto, un cristal común no puede codificar mucha información.",El cristal estándar es un medio de almacenamiento de información de muy alta densidad.densidad.,"contradiction
+"
+"Con ese salto, un cristal común no puede codificar mucha información.",Los cristales regulares no son muy útiles a la hora de codificar información.,"entailment
+"
+"Con ese salto, un cristal común no puede codificar mucha información.",Hay otros tipos de cristales que son muy útiles para codificar información geográfica usando rayos láser.,"neutral
+"
+"En consecuencia, los adultos no necesitan enseñar a lo preescolares a fingir, como a veces lo hacen cuando los ayudan a dominar rompecabezas u otras tareas similares.",Los preescolares por naturaleza son mejores resolviendo puzles que jugando a pretender.,"neutral
+"
+"En consecuencia, los adultos no necesitan enseñar a lo preescolares a fingir, como a veces lo hacen cuando los ayudan a dominar rompecabezas u otras tareas similares.",Los niños en edad preescolar no necesitan tanta ayuda para aprender a fingir.,"entailment
+"
+"En consecuencia, los adultos no necesitan enseñar a lo preescolares a fingir, como a veces lo hacen cuando los ayudan a dominar rompecabezas u otras tareas similares.",Los niños en edad preescolar carecen de las habilidades de modelado espacial necesarias para dominar los puzzles ellos solos.,"neutral
+"
+[Esta nación fue] concebida en libertad y dedicada a la proposición de que todos los hombres son creados iguales.,Las notas sobre esta proposición se registraron en varios documentos adicionales.,"neutral
+"
+[Esta nación fue] concebida en libertad y dedicada a la proposición de que todos los hombres son creados iguales.,Algunas personas creyeron que todo el mundo era igual.,"entailment
+"
+[Esta nación fue] concebida en libertad y dedicada a la proposición de que todos los hombres son creados iguales.,Esta nación se basó en la creencia de que algunas personas son inherentemente mejores que otras.,"contradiction
+"
+¿Debería elogiarlo más?,Estoy bastante seguro de que necesito pegarle por sus fracasos.,"contradiction
+"
+¿Debería elogiarlo más?,Me pregunto si necesita más aprecio de mi parte.,"entailment
+"
+¿Debería elogiarlo más?,¿Debería elogiarlo más por su actuación al piano?,"entailment
+"
+Las teorías de redes de espín pueden crearse en diferentes dimensiones.,Se pueden usar otras dimensiones para construir teorías de redes de espines.,"entailment
+"
+Las teorías de redes de espín pueden crearse en diferentes dimensiones.,Las redes Spin son muy útiles para las tecnologías de almacenamiento de datos.,"neutral
+"
+Las teorías de redes de espín pueden crearse en diferentes dimensiones.,Las redes de espín no pueden imaginarse en diferentes dimensiones.,"contradiction
+"
+"(frenéticamente) No, no, ¡no quiero que mueras!",¡No quiero que mueras!,"entailment
+"
+"(frenéticamente) No, no, ¡no quiero que mueras!",¡No me importa si mueres!,"contradiction
+"
+"(frenéticamente) No, no, ¡no quiero que mueras!",¡Me molestaría mucho si murieras!,"entailment
+"
+"Fue ahorcado públicamente el 19 de marzo de 1875 en San Jose, California.","Hasta el año 1875, California estaba llevando a cabo ejecuciones públicas.","entailment
+"
+"Fue ahorcado públicamente el 19 de marzo de 1875 en San Jose, California.",Fue absuelto de todo mal hecho y enviado a su camino.,"contradiction
+"
+"Fue ahorcado públicamente el 19 de marzo de 1875 en San Jose, California.",Fue colgado por sedición y por robo de caballos.,"neutral
+"
+"En el régimen caótico, se filtra el mar verde centelleante.",El mar estaba azul profundo y liso como el cristal.,"contradiction
+"
+"En el régimen caótico, se filtra el mar verde centelleante.",El mar estaba lleno de pequeños peces que salpicaban contra el bote.,"neutral
+"
+"En el régimen caótico, se filtra el mar verde centelleante.",El mar era verde y parecía burbujear.,"entailment
+"
+"Un orden legal totalmente nuevo deseaba abrirse paso, libre de los disturbios de la década de 1860.",En la década de 1870 todo el orden legal se había derrumbado y el país estaba en completa anarquía.,"contradiction
+"
+"Un orden legal totalmente nuevo deseaba abrirse paso, libre de los disturbios de la década de 1860.",Los 1860 fueron unos tiempos tumultuosos.,"entailment
+"
+"Un orden legal totalmente nuevo deseaba abrirse paso, libre de los disturbios de la década de 1860.",El nuevo orden legal deseaba expandir los derechos laborales.,"neutral
+"
+"Cualquier forma superior de pensamiento, señaló, aparece primero en la comunicación social entre el niño y los representantes de su cultura cuando participan en una actividad conjunta.",Los niños son incapaces de compartir formas superiores de pensamiento.,"contradiction
+"
+"Cualquier forma superior de pensamiento, señaló, aparece primero en la comunicación social entre el niño y los representantes de su cultura cuando participan en una actividad conjunta.",La pesca es una actividad popular que muchas culturas diferentes comparten.,"neutral
+"
+"Cualquier forma superior de pensamiento, señaló, aparece primero en la comunicación social entre el niño y los representantes de su cultura cuando participan en una actividad conjunta.","Compartir actividades comunes es, a veces, útil para compartir mayores formas de pensamiento.","entailment
+"
+"Algunos barrios tenían rezadores o rezadoras, líderes espirituales que dirigían a la comunidad en oración en los funerales, las celebraciones del Día de Todos los Santos y cuando el sacerdote no estaba disponible.",Ninguno de los vecindarios tenía líderes espirituales que no fueran sacerdotes.,"contradiction
+"
+"Algunos barrios tenían rezadores o rezadoras, líderes espirituales que dirigían a la comunidad en oración en los funerales, las celebraciones del Día de Todos los Santos y cuando el sacerdote no estaba disponible.",Algunos barrios tenían líderes espirituales que no eran sacerdotes.,"entailment
+"
+"Algunos barrios tenían rezadores o rezadoras, líderes espirituales que dirigían a la comunidad en oración en los funerales, las celebraciones del Día de Todos los Santos y cuando el sacerdote no estaba disponible.",Algunos de los líderes espirituales tenían el pelo negro.,"neutral
+"
+"También en el juego sociodramático, las oportunidades que se dan para hacer un papel y coordinar varios roles probablemente ayuden a los niños a comprender las similitudes y diferencias entre las personas respecto a sus deseos, creencias y sentimientos.",Los niños pueden aprender sobre las diferencias y similaridad de la gente.,"entailment
+"
+"También en el juego sociodramático, las oportunidades que se dan para hacer un papel y coordinar varios roles probablemente ayuden a los niños a comprender las similitudes y diferencias entre las personas respecto a sus deseos, creencias y sentimientos.",Los niños pueden ver cómo las diferentes razas son diferentes.,"neutral
+"
+"También en el juego sociodramático, las oportunidades que se dan para hacer un papel y coordinar varios roles probablemente ayuden a los niños a comprender las similitudes y diferencias entre las personas respecto a sus deseos, creencias y sentimientos.",Los niños no pueden aprender nada.,"contradiction
+"
+"Por tanto, la mayor virtud del orden constitucional alemán de la posguerra fue precisamente la mayor víctima del régimen nazi.",El régimen nazi lo permitió.,"neutral
+"
+"Por tanto, la mayor virtud del orden constitucional alemán de la posguerra fue precisamente la mayor víctima del régimen nazi.",El régimen nazi mató a todos los involucrados.,"neutral
+"
+"Por tanto, la mayor virtud del orden constitucional alemán de la posguerra fue precisamente la mayor víctima del régimen nazi.",El régimen nazi lo detuvo.,"entailment
+"
+"Sonja, la niña, empezó a imitar las pataletas de su hija.",Nadie estaba sufriendo un berrinche.,"contradiction
+"
+"Sonja, la niña, empezó a imitar las pataletas de su hija.",Sonja es una niña.,"contradiction
+"
+"Sonja, la niña, empezó a imitar las pataletas de su hija.",Sonja estaba molesta,"entailment
+"
+El tribunal utilizó 6 veces este poder con moderación en los cincuenta y cinco años previos a la Guerra Civil.,La Corte ocasionalmente usaba este poder en las décadas anteriores a la Guerra Civil.,"entailment
+"
+El tribunal utilizó 6 veces este poder con moderación en los cincuenta y cinco años previos a la Guerra Civil.,La Corte utilizó este poder 4 veces en los cincuenta y cinco años previos a la Guerra Civil.,"contradiction
+"
+El tribunal utilizó 6 veces este poder con moderación en los cincuenta y cinco años previos a la Guerra Civil.,La Corte utilizó este poder 5 millones de veces en los cincuenta y cinco años previos a la Guerra Civil.,"contradiction
+"
+"Le aseguró, señor, que estaba absolutamente al corriente de todo.",Te digo que me pusieron al corriente sobre todo.,"entailment
+"
+"Le aseguró, señor, que estaba absolutamente al corriente de todo.",Me informaron sobre la muerte de detective.,"neutral
+"
+"Le aseguró, señor, que estaba absolutamente al corriente de todo.",Hay muchos detalles que me fueron ocultados.,"contradiction
+"
+Los sondios distrajeron al capitán Blood de sus pensamientos descontentos.,El Capitán Blood pudo pensar sus ideas contrariadas sin interrupción.,"contradiction
+"
+Los sondios distrajeron al capitán Blood de sus pensamientos descontentos.,Los pensamientos del capitán Blood se detuvieron a causa de unos ruidos.,"entailment
+"
+Los sondios distrajeron al capitán Blood de sus pensamientos descontentos.,Los gritos del cachorro sacudieron al capitán de sus reflexiones.,"neutral
+"
+"Pero no puedo olvidar que, cuando no era mejor que un esclavo en la casa de tu tío en Barbados, me utilizaste con una cierta amabilidad.",Me trataste amablemente cuando era esclavo en Barbados.,"entailment
+"
+"Pero no puedo olvidar que, cuando no era mejor que un esclavo en la casa de tu tío en Barbados, me utilizaste con una cierta amabilidad.","Fueron increíblemente crueles conmigo, y me trataron peor que a una basura.","contradiction
+"
+"Pero no puedo olvidar que, cuando no era mejor que un esclavo en la casa de tu tío en Barbados, me utilizaste con una cierta amabilidad.",Tu tío me golpeba duro cada día cuando me humillaba.,"neutral
+"
+"Allí, a no más de tres millas de distancia, había tierra, una pared irregular de intenso color verde que llenaba el horizonte occidental.",Un paisaje exuberante estaba a la vista.,"entailment
+"
+"Allí, a no más de tres millas de distancia, había tierra, una pared irregular de intenso color verde que llenaba el horizonte occidental.",La isla a la que se estaban acercando estaba inhabitada.,"neutral
+"
+"Allí, a no más de tres millas de distancia, había tierra, una pared irregular de intenso color verde que llenaba el horizonte occidental.","No podían ver ninguna tierra por millas, solo un océano sin fin.","contradiction
+"
+"Soy el enviado de Su Majestad a estas partes bárbaras, y al pariente cercano de mi Señor Sunderland.","Su Majestad tiene enviados, y yo soy uno de ellos.","entailment
+"
+"Soy el enviado de Su Majestad a estas partes bárbaras, y al pariente cercano de mi Señor Sunderland.",Su Majestad me envió aquí hace una semana.,"entailment
+"
+"Soy el enviado de Su Majestad a estas partes bárbaras, y al pariente cercano de mi Señor Sunderland.",No recibo órdenes de Su Majestad.,"contradiction
+"
+"Te lo debía, o así lo creí, dijo él.",Nunca pensó que te debiera nada.,"contradiction
+"
+"Te lo debía, o así lo creí, dijo él.",Te lo debe por la ayuda que le proporcionaste cuando no tenía un duro.,"neutral
+"
+"Te lo debía, o así lo creí, dijo él.",Él pensó que te debía algo.,"entailment
+"
+Debería haber sabido que no debía acercarme tanto a Jamaica por la noche.,Viajé cerca de Jamaica después de que el sol se había puesto.,"entailment
+"
+Debería haber sabido que no debía acercarme tanto a Jamaica por la noche.,Viajé a Jamaica en un barco grande.,"neutral
+"
+Debería haber sabido que no debía acercarme tanto a Jamaica por la noche.,Mi esposa y yo llegamos a Jamaica a plena luz del día.,"neutral
+"
+"Los pensamientos de Blood alternaban entre esta y otras cosas mientras estaba allí, en el sofá cama.",Blood tuvo un sueño irreflexivo en su lecho diurno.,"neutral
+"
+"Los pensamientos de Blood alternaban entre esta y otras cosas mientras estaba allí, en el sofá cama.",La sangre estaba rumiando mientras estaba acostada.,"neutral
+"
+"Los pensamientos de Blood alternaban entre esta y otras cosas mientras estaba allí, en el sofá cama.",Blood pensaba mucho en la última vez que vio a su madre.,"neutral
+"
+"Sí, claro, os lo diré.","Bien entonces, te lo contaré.","entailment
+"
+"Sí, claro, os lo diré.",No te diré una palabra.,"contradiction
+"
+"Sí, claro, os lo diré.",Es sólo porque prometiste no repetir esto por lo que te lo estoy diciendo.,"neutral
+"
+¡Ah!,Alguien está preguntando a dónde ir.,"neutral
+"
+¡Ah!,El que pregunta está solo y no tiene a nadie cerca para consultar.,"neutral
+"
+¡Ah!,El que pregunta tiene prisa y necesita saber de inmediato la ruta a seguir.,"neutral
+"
+No concedo la comisión al Rey a la ligera.,Otorgar la comisión del Rey va en contra de mis principios morales.,"neutral
+"
+No concedo la comisión al Rey a la ligera.,He pensado mucho en la comisión del Rey.,"entailment
+"
+No concedo la comisión al Rey a la ligera.,Firmé la orden para conceder la comisión del Rey sin pensarlo dos veces.,"contradiction
+"
+Se dio cuenta de que tendría  que retirarse a toda prisa.,Se dio cuenta de que tenía todo el día para estar retirado.,"contradiction
+"
+Se dio cuenta de que tendría  que retirarse a toda prisa.,Se dio cuenta de que tenía que hacer un movimiento rápido.,"entailment
+"
+Se dio cuenta de que tendría  que retirarse a toda prisa.,"Si se quedaba en el mismo lugar, sería descubierto.","entailment
+"
+"Y, sin embargo, ha sido lo que ha sido y ha hecho lo que ha hecho en estos tres años, dijo ella. Pero ahora lo dijo con tristeza, sin ninguno de sus desprecios anteriores.",A ella no le gustó que hubiera asesinado a muchos hombres en los últimos tres años.,"entailment
+"
+"Y, sin embargo, ha sido lo que ha sido y ha hecho lo que ha hecho en estos tres años, dijo ella. Pero ahora lo dijo con tristeza, sin ninguno de sus desprecios anteriores.",Ella habló felizmente de sus aventuras y su personalidad.,"contradiction
+"
+"Y, sin embargo, ha sido lo que ha sido y ha hecho lo que ha hecho en estos tres años, dijo ella. Pero ahora lo dijo con tristeza, sin ninguno de sus desprecios anteriores.",Ella habló con tonos tristes.,"entailment
+"
+"Supongo que eso es, según la moda de tu clase.",Supongo que esto es lo que hacen los de tu tipo.,"entailment
+"
+"Supongo que eso es, según la moda de tu clase.",He leído sobre tu tipo y sobre su cultura.,"neutral
+"
+"Supongo que eso es, según la moda de tu clase.",Supongo que esto no es común entre los de tu clase.,"contradiction
+"
+Tiene el ceño fruncido.,Una gran sonrisa se extendió en su rostro.,"contradiction
+"
+Tiene el ceño fruncido.,Sintió una sensación de náusea en el estómago.,"neutral
+"
+Tiene el ceño fruncido.,Estaba frunciendo el ceño.,"entailment
+"
+"Ella lo había estado observando con ojos brillantes, pero a la vista de su rostro abatido y el ceño fruncido que le marcaba la frente, su propia expresión cambió.",Su expresión cambió después de que ver su rostro.,"entailment
+"
+"Ella lo había estado observando con ojos brillantes, pero a la vista de su rostro abatido y el ceño fruncido que le marcaba la frente, su propia expresión cambió.",Su cara se iluminó cuando vio el ceño fruncido en su cara.,"contradiction
+"
+"Ella lo había estado observando con ojos brillantes, pero a la vista de su rostro abatido y el ceño fruncido que le marcaba la frente, su propia expresión cambió.",No sabía si él estaba enfadado con ella.,"neutral
+"
+"Caminando tranquilamente, bordeó la pared asediada, y atravesó las grandes puertas hacia el patio.","Como las grandes puertas estaban cerradas con llave, saltó la valla, al patio.","contradiction
+"
+"Caminando tranquilamente, bordeó la pared asediada, y atravesó las grandes puertas hacia el patio.",Las grandes puertas eran la única entrada al patio.,"neutral
+"
+"Caminando tranquilamente, bordeó la pared asediada, y atravesó las grandes puertas hacia el patio.",Había grandes puertas que daban al patio.,"entailment
+"
+"Seguro que lo llevas a la horca, dijo con desdeño.",Pensó que alguien iría al patíbulo.,"entailment
+"
+"Seguro que lo llevas a la horca, dijo con desdeño.",Él era un sheriff que había capturado a un ladrón.,"neutral
+"
+"Seguro que lo llevas a la horca, dijo con desdeño.",Susurra una manera de escapar del país para evitar la cárcel.,"neutral
+"
+¿Cómo podría honestamente haberlos detenido? Fue en el trato.,No tuve el valor de detenerles.,"entailment
+"
+¿Cómo podría honestamente haberlos detenido? Fue en el trato.,Los detuve tan pronto los vi.,"contradiction
+"
+¿Cómo podría honestamente haberlos detenido? Fue en el trato.,No me habría perdonado a mí mismo si los hubiera detenido.,"entailment
+"
+Lo he estado buscando este año pasado.,Lo he estado siguiendo de cerca durante un año sin que él lo supiera.,"neutral
+"
+Lo he estado buscando este año pasado.,Solo lo he estado siguiendo durante una semana.,"contradiction
+"
+Lo he estado buscando este año pasado.,En el transcurso del año pasado le he estado acosando.,"contradiction
+
+**explanation:**
+
+while ""buscar"" (to look for) and ""acosar"" (to harass) both involve attention towards someone, they have very different connotations. ""acosar"" implies unwanted and aggressive pursuit, which is not necessarily contained within the meaning of ""buscar."" in fact, harassing someone is generally *not* what one intends when simply looking for someone. therefore, stating you've been *looking* for someone contradicts the idea that you've been *harassing* them. the hypothesis adds a negative and forceful element not present in the premise."
+El museo no es potente en cuanto a catálogos o etiquetas,Al museo no le gusta que lo etiqueten.,"neutral
+"
+El museo no es potente en cuanto a catálogos o etiquetas,El museo no es fanático de los folletos.,"neutral
+"
+El museo no es potente en cuanto a catálogos o etiquetas,El punto fuerte del museo son los catálogos.,"contradiction
+"
+Estos mercados al aire libre también son los lugares más interesantes para comprar en Pekín.,Beijing tiene mercados al aire libre que incluyen tiendas muy interesantes.,"entailment
+"
+Estos mercados al aire libre también son los lugares más interesantes para comprar en Pekín.,"En Beijing, los mercados al aire libre son los más interesantes del mundo.","neutral
+"
+Estos mercados al aire libre también son los lugares más interesantes para comprar en Pekín.,Las estrictas leyes de Beijing prohíben los mercados al aire libre dentro de los límites de la ciudad.,"contradiction
+"
+"La bahía más grande en la costa noroeste es un buen puerto, pero tanto el agua como la playa pueden estar sucias.",El agua y la playa están siempre limpias.,"contradiction
+"
+"La bahía más grande en la costa noroeste es un buen puerto, pero tanto el agua como la playa pueden estar sucias.",El agua y la playa pueden estar sucias.,"entailment
+"
+"La bahía más grande en la costa noroeste es un buen puerto, pero tanto el agua como la playa pueden estar sucias.",El agua está sucia debido a la contaminación.,"neutral
+"
+Esos rascacielos son bancos y la calle en los que se encuentran fue apodada Milla de Oro o Golden Mile.,Ninguno de los rascacielos en la Milla de Oro son bancos.,"contradiction
+"
+Esos rascacielos son bancos y la calle en los que se encuentran fue apodada Milla de Oro o Golden Mile.,Los rascacielos en la Milla de Oro son bancos.,"entailment
+"
+Esos rascacielos son bancos y la calle en los que se encuentran fue apodada Milla de Oro o Golden Mile.,"Los rascacielos de la Milla de Oro albergan varios tipos de negocios, incluyendo bancos.","entailment
+"
+"Así de natural, esa implicación en la Segunda Guerra Mundial comenzó con un Plan de Entrenamiento Aéreo Británico de la Commonwealth, utilizando los cielos más seguros de Canadá para preparar a los pilotos para el combate.",Canadá tenía cielos más seguros.,"entailment
+"
+"Así de natural, esa implicación en la Segunda Guerra Mundial comenzó con un Plan de Entrenamiento Aéreo Británico de la Commonwealth, utilizando los cielos más seguros de Canadá para preparar a los pilotos para el combate.",Los cielos canadienses estaban libres de misiles.,"neutral
+"
+"Así de natural, esa implicación en la Segunda Guerra Mundial comenzó con un Plan de Entrenamiento Aéreo Británico de la Commonwealth, utilizando los cielos más seguros de Canadá para preparar a los pilotos para el combate.",Los cielos de Canadá eran más peligrosos.,"contradiction
+"
+"Y siguen siendo tolerantes y serviciales, a pesar de que saben que su hermosa costa ya no es solo suya.","Ahora que tienen que compartir la costa, son implacables y están resentidos con todos.","contradiction
+"
+"Y siguen siendo tolerantes y serviciales, a pesar de que saben que su hermosa costa ya no es solo suya.",Ahora tienen que compartir la costa con otras personas.,"entailment
+"
+"Y siguen siendo tolerantes y serviciales, a pesar de que saben que su hermosa costa ya no es solo suya.",Solían tener quinientas millas de frente costero.,"neutral
+"
+"Kublai Khan erigió su propia capital en 1279 a orillas del lago Beihai de Beijing, donde algunos de sus tesoros imperiales permanecen hoy en exhibición.",Kublai Khan erigió una capital en Taiwán.,"contradiction
+"
+"Kublai Khan erigió su propia capital en 1279 a orillas del lago Beihai de Beijing, donde algunos de sus tesoros imperiales permanecen hoy en exhibición.",Kublai Khan tiene tesoros en Beijing.,"entailment
+"
+"Kublai Khan erigió su propia capital en 1279 a orillas del lago Beihai de Beijing, donde algunos de sus tesoros imperiales permanecen hoy en exhibición.",Kublai Khan era un hombre muy respetado.,"neutral
+"
+"Asimilándose más fácilmente con la comunidad anglosajona, solo las escuelas protestantes aceptaron que sus hijos judíos de Europa del Este se graduaran en el acaudalado Westmount o emigraran, de nuevo, a Toronto.",Los judíos de Europa del Este se adaptan bien a todo el mundo.,"neutral
+"
+"Asimilándose más fácilmente con la comunidad anglosajona, solo las escuelas protestantes aceptaron que sus hijos judíos de Europa del Este se graduaran en el acaudalado Westmount o emigraran, de nuevo, a Toronto.",La comunidad no busca a los judíos.,"neutral
+"
+"Asimilándose más fácilmente con la comunidad anglosajona, solo las escuelas protestantes aceptaron que sus hijos judíos de Europa del Este se graduaran en el acaudalado Westmount o emigraran, de nuevo, a Toronto.",Los judíos se asimilaron más fácilmente con la comunidad Anglo.,"entailment
+"
+"Si es posible, familiarízate con el argumento con antelación.",No entres en la trama por adelantado; estropeará la diversión más tarde.,"contradiction
+"
+"Si es posible, familiarízate con el argumento con antelación.","Intenta comprender la trama por adelantado, si puedes.","entailment
+"
+"Si es posible, familiarízate con el argumento con antelación.",La clase te resultará más fácil si entiendes el argumento del libro.,"entailment
+"
+"Sus criptas, 27 m (88 pies) bajo tierra, están fabricadas con mármol y cubren 1200 metros cuadrados (13 000 pies cuadrados).",Está enterrado a más de 20 metros bajo tierra.,"entailment
+"
+"Sus criptas, 27 m (88 pies) bajo tierra, están fabricadas con mármol y cubren 1200 metros cuadrados (13 000 pies cuadrados).",Él era un personaje público importante.,"neutral
+"
+"Sus criptas, 27 m (88 pies) bajo tierra, están fabricadas con mármol y cubren 1200 metros cuadrados (13 000 pies cuadrados).",Sus panteones están hechos de madera.,"neutral
+"
+Recuerda ocultar todas las posesiones portátiles de los monos.,Oculte sus pertenencias de los monos.,"entailment
+"
+Recuerda ocultar todas las posesiones portátiles de los monos.,"Los monos están muy interesados en muchas cosas, incluyendo tus posesiones.","entailment
+"
+Recuerda ocultar todas las posesiones portátiles de los monos.,No necesitas esconder tus posesiones de los monos.,"contradiction
+"
+"Hace unos 1400 años, antes de que el Palacio de Estei fuera construido, Milreu también fue la gran mansión de una persona eminente.",Milreu estaba a un mínimo de 10 millas de cualquier otro lugar.,"neutral
+
+
+
+"
+"Hace unos 1400 años, antes de que el Palacio de Estei fuera construido, Milreu también fue la gran mansión de una persona eminente.","Milreu se encontraba fuera, en el campo.","neutral
+"
+"Hace unos 1400 años, antes de que el Palacio de Estei fuera construido, Milreu también fue la gran mansión de una persona eminente.",Milreu estaba justo en el corazón de la ciudad.,"neutral
+"
+Las temperaturas del mar varían entre 18e y 24e ºC (64-75e ºF).,"La temperatura del mar siempre está cambiando, pero no baja la temperatura de congelación.","neutral
+"
+Las temperaturas del mar varían entre 18e y 24e ºC (64-75e ºF).,Las temperaturas del mar se mantienen en el mismo punto durante todo el año.,"contradiction
+"
+Las temperaturas del mar varían entre 18e y 24e ºC (64-75e ºF).,"Ve temperaturas más altas durante el día, cuando hace más calor.","entailment
+"
+El parque nacional de Kinabalu es solo una de las seis regiones protegidas del estado.,El parque nacional de Kinabalu tiene diez elefantes y seis rinocerontes.,"neutral
+"
+El parque nacional de Kinabalu es solo una de las seis regiones protegidas del estado.,"El estado tiene regiones protegidas, que incluyen el parque nacional de Kinabalu.","entailment
+"
+El parque nacional de Kinabalu es solo una de las seis regiones protegidas del estado.,Hay un total de tres regiones protegidas en el estado.,"contradiction
+"
+Verás vídeos de la historia de Anne y de Ámsterdam ocupada junto con fotografías y artefactos de la época.,No verás fotografías.,"contradiction
+"
+Verás vídeos de la historia de Anne y de Ámsterdam ocupada junto con fotografías y artefactos de la época.,Verás fotografías.,"entailment
+"
+Verás vídeos de la historia de Anne y de Ámsterdam ocupada junto con fotografías y artefactos de la época.,Verá algunas de las primeras fotografías.,"entailment
+"
+Treasure Beach es el único verdadero complejo turístico con solo un puñado de hoteles que se extienden a lo largo de tres bahías de arena.,No hay tantas opciones de hotel para quienes visitan la Playa del Tesoro.,"entailment
+"
+Treasure Beach es el único verdadero complejo turístico con solo un puñado de hoteles que se extienden a lo largo de tres bahías de arena.,Hay un hotel cuatro estrellas disponible para los turistas que visiten la Playa del Tesoro.,"neutral
+"
+Treasure Beach es el único verdadero complejo turístico con solo un puñado de hoteles que se extienden a lo largo de tres bahías de arena.,"En el área, Treasure Beach es uno de los muchos resorts.","contradiction
+"
+"El verano trae consigo una temperatura cálida (pero no calor) y un mar templado, lo que hace que sea ideal para bucear, hacer submarinismo y otros deportes acuáticos.",Siempre hace 100 grados o más en verano.,"contradiction
+"
+"El verano trae consigo una temperatura cálida (pero no calor) y un mar templado, lo que hace que sea ideal para bucear, hacer submarinismo y otros deportes acuáticos.","Por lo general, son 75 en el verano.","neutral
+"
+"El verano trae consigo una temperatura cálida (pero no calor) y un mar templado, lo que hace que sea ideal para bucear, hacer submarinismo y otros deportes acuáticos.",Las temperaturas son cálidas durante el verano.,"entailment
+"
+"Entre los estanques hay uno habitado por visitantes que arrojan monedas con la esperanza de rebotar en la cabeza de una tortuga, una forma segura de lograr la buena fortuna.",La gente nunca arroja dinero porque da mala suerte.,"contradiction
+"
+"Entre los estanques hay uno habitado por visitantes que arrojan monedas con la esperanza de rebotar en la cabeza de una tortuga, una forma segura de lograr la buena fortuna.",La gente arroja monedas aunque el cartel dice que no.,"entailment
+"
+"Entre los estanques hay uno habitado por visitantes que arrojan monedas con la esperanza de rebotar en la cabeza de una tortuga, una forma segura de lograr la buena fortuna.",La gente arroja monedas al agua.,"entailment
+"
+"La ciudad portuaria de Nafplio es la base perfecta para recorrer la zona, o quizás un lugar para almorzar durante su recorrido.",Nafplio tiene una buena perspectiva.,"neutral
+"
+"La ciudad portuaria de Nafplio es la base perfecta para recorrer la zona, o quizás un lugar para almorzar durante su recorrido.",Nafplio es una mala base.,"contradiction
+"
+"La ciudad portuaria de Nafplio es la base perfecta para recorrer la zona, o quizás un lugar para almorzar durante su recorrido.",Nafplio es una base perfecta.,"entailment
+"
+"En Prinsengracht, Otto Frank y su familia se escondieron en el ático de sus locales comerciales durante más de dos años antes de ser descubiertos.",Otto Frank fue capturado el segundo día.,"contradiction
+"
+"En Prinsengracht, Otto Frank y su familia se escondieron en el ático de sus locales comerciales durante más de dos años antes de ser descubiertos.",Otto Frank se escondió por mas de 25 meses.,"entailment
+"
+"En Prinsengracht, Otto Frank y su familia se escondieron en el ático de sus locales comerciales durante más de dos años antes de ser descubiertos.",Otto Frank se escondió hasta que los nazis lo encontraron.,"entailment
+"
+Muchos gobiernos estatales y locales tienen requisitos de auditoría adicionales.,Los gobiernos locales pueden inventar sus propias reglas.,"neutral
+"
+Muchos gobiernos estatales y locales tienen requisitos de auditoría adicionales.,Los gobiernos locales tienen cero requisitos.,"contradiction
+"
+Muchos gobiernos estatales y locales tienen requisitos de auditoría adicionales.,Hay más asuntos de requisitos de inspección por parte de los gobiernos locales.,"neutral
+"
+El grupo de seguridad de la información realiza entre 8 y 12 sesiones al mes.,El grupo de seguridad promedia 9 sesiones por mes.,"entailment
+"
+El grupo de seguridad de la información realiza entre 8 y 12 sesiones al mes.,El grupo de seguridad dirige una sesión cada día del mes.,"neutral
+"
+El grupo de seguridad de la información realiza entre 8 y 12 sesiones al mes.,El grupo de seguridad realiza múltiples sesiones al año.,"entailment
+"
+"Sin embargo, la ingeniería preliminar se realizó antes.",La ingeniería tenía un período preliminar.,"entailment
+"
+"Sin embargo, la ingeniería preliminar se realizó antes.",La ingeniería ocurrió solo en una etapa final.,"contradiction
+"
+"Sin embargo, la ingeniería preliminar se realizó antes.","Sin un período preliminar, la ingeniería probablemente fallará en las etapas posteriores.","entailment
+"
+"En consecuencia, los responsables de la toma de decisiones y los gerentes del gobierno están adoptando nuevas formas de pensar, considerando diferentes formas de lograr los objetivos y utilizando nueva información para guiar las decisiones.",Los representantes del gobierno están cambiando su enfoque.,"entailment
+"
+"En consecuencia, los responsables de la toma de decisiones y los gerentes del gobierno están adoptando nuevas formas de pensar, considerando diferentes formas de lograr los objetivos y utilizando nueva información para guiar las decisiones.",Los representantes del gobierno intentan aumentar su poder pensando de manera diferente.,"neutral
+"
+"En consecuencia, los responsables de la toma de decisiones y los gerentes del gobierno están adoptando nuevas formas de pensar, considerando diferentes formas de lograr los objetivos y utilizando nueva información para guiar las decisiones.",Los representantes del gobierno se niegan a cambiar sus formas de vida.,"contradiction
+"
+Los archivos de caso pueden necesitar ser traducidos a aquellos clientes que leen un idioma que no sea el inglés.,Los archivos del caso solo pueden estar en inglés.,"contradiction
+"
+Los archivos de caso pueden necesitar ser traducidos a aquellos clientes que leen un idioma que no sea el inglés.,Los archivos de casos se pueden poner en chino o ruso.,"neutral
+"
+Los archivos de caso pueden necesitar ser traducidos a aquellos clientes que leen un idioma que no sea el inglés.,Los archivos de los casos se pueden traducir a otros idiomas.,"entailment
+"
+Otros esfuerzos que se están realizando ahora o que se han planeado incluyen el,La mayoría de nuestros esfuerzos ya están en marcha.,"neutral
+"
+Otros esfuerzos que se están realizando ahora o que se han planeado incluyen el,No hemos planeado nada más para el futuro.,"contradiction
+"
+Otros esfuerzos que se están realizando ahora o que se han planeado incluyen el,Tenemos algo planeado.,"entailment
+"
+"Incluir factores como marcos de tiempo más cortos, la eliminación de archivos del ordenador originales y la falta de acceso a documentos necesarios.",Suprimieron los archivos informáticos de IBM.,"neutral
+"
+"Incluir factores como marcos de tiempo más cortos, la eliminación de archivos del ordenador originales y la falta de acceso a documentos necesarios.",Borraron los archivos originales de la computadora.,"entailment
+"
+"Incluir factores como marcos de tiempo más cortos, la eliminación de archivos del ordenador originales y la falta de acceso a documentos necesarios.",Ellos conservan todos los archivos originales.,"contradiction
+"
+"Luego, el mismo representante que realizó la visita inicial ahora visita al nuevo proveedor para responder preguntas y discutir cualquier problema anotado en la muestra de reclamos.",El representante lo visitó durante una hora.,"neutral
+"
+"Luego, el mismo representante que realizó la visita inicial ahora visita al nuevo proveedor para responder preguntas y discutir cualquier problema anotado en la muestra de reclamos.",Recibieron la visita de un representante.,"entailment
+"
+"Luego, el mismo representante que realizó la visita inicial ahora visita al nuevo proveedor para responder preguntas y discutir cualquier problema anotado en la muestra de reclamos.",Nunca nos hicieron una visita.,"contradiction
+"
+"El ahorro no solo afecta el stock de riqueza, sino que la riqueza a su vez influye en la elección de ahorrar.",La elección de si una persona será salvada o no se verá afectada por su riqueza.,"neutral
+"
+"El ahorro no solo afecta el stock de riqueza, sino que la riqueza a su vez influye en la elección de ahorrar.",La riqueza y el ahorro no están normalmente relacionados de ninguna manera.,"contradiction
+"
+"El ahorro no solo afecta el stock de riqueza, sino que la riqueza a su vez influye en la elección de ahorrar.",Es más probable que la gente rica ahorre una parte de sus ingresos.,"entailment
+"
+"Por ejemplo, una de las organizaciones que analizamos, experimentó dos fusiones que requirieron que la compañía integrara rápidamente las nuevas empresas y se reestructurara para satisfacer las crecientes necesidades comerciales.","A pesar de que hubo dos fusiones, no hubo necesidad de que la compañía sufriera una reestructuración en la jerarquía de su compañía.","contradiction
+"
+"Por ejemplo, una de las organizaciones que analizamos, experimentó dos fusiones que requirieron que la compañía integrara rápidamente las nuevas empresas y se reestructurara para satisfacer las crecientes necesidades comerciales.",La fusión de dos compañías en una sola organización y la reestructuración dieron como resultado un caótico entorno de trabajo .,"neutral
+"
+"Por ejemplo, una de las organizaciones que analizamos, experimentó dos fusiones que requirieron que la compañía integrara rápidamente las nuevas empresas y se reestructurara para satisfacer las crecientes necesidades comerciales.",Evaluamos una empresa que experimentó dos fusiones y tuvo que reestructurarse rápidamente para satisfacer sus demandas comerciales.,"entailment
+"
+"el diseño, nos preocupaba que el pago se autorizase antes de verificar que el viaje iba a realizarse.",Sabíamos que el pago tardaría una eternidad.,"neutral
+"
+"el diseño, nos preocupaba que el pago se autorizase antes de verificar que el viaje iba a realizarse.",Pensamos que el pago se realizaría antes de la verificación.,"entailment
+"
+"el diseño, nos preocupaba que el pago se autorizase antes de verificar que el viaje iba a realizarse.",Pensamos que el pago podría ser demasiado temprano y nos defraudarían.,"entailment
+"
+"La tecnología está muy integrada en los procesos empresariales en estas organizaciones, porque se ve como una ventaja para el negocio, no solo una herramienta.",El software de programación avanzada es una de las tecnologías clave en las que se centran las empresas.,"neutral
+"
+"La tecnología está muy integrada en los procesos empresariales en estas organizaciones, porque se ve como una ventaja para el negocio, no solo una herramienta.",La tecnología es solo una herramienta y no un habilitador de negocios.,"contradiction
+"
+"La tecnología está muy integrada en los procesos empresariales en estas organizaciones, porque se ve como una ventaja para el negocio, no solo una herramienta.",Esas empresas ponen gran énfasis en la tecnología.,"entailment
+"
+Dos conceptos que aparecen a menudo en la literatura pueden ser útiles en investigaciones futuras.,La literatura puede cambiar la forma en la que probamos las muestras.,"neutral
+"
+Dos conceptos que aparecen a menudo en la literatura pueden ser útiles en investigaciones futuras.,La literatura puede cambiar la investigación en el futuro.,"entailment
+"
+Dos conceptos que aparecen a menudo en la literatura pueden ser útiles en investigaciones futuras.,No hay nada más que hacer en términos de cambiar la investigación.,"contradiction
+"
+Las líneas compuestas de cajas muestran el nivel de bienestar de todos los anuncios combinados y las líneas compuestas de diamantes muestran las pérdidas técnicas (si son negativas) de trasladar el trabajo a otra parte.,Las líneas calculan que el nivel de bienestar de los que utilizan el correo es del 10 %.,"neutral
+"
+Las líneas compuestas de cajas muestran el nivel de bienestar de todos los anuncios combinados y las líneas compuestas de diamantes muestran las pérdidas técnicas (si son negativas) de trasladar el trabajo a otra parte.,Las líneas no muestran nada más que la ruta.,"contradiction
+"
+Las líneas compuestas de cajas muestran el nivel de bienestar de todos los anuncios combinados y las líneas compuestas de diamantes muestran las pérdidas técnicas (si son negativas) de trasladar el trabajo a otra parte.,Las líneas muestran cuánto bienestar hay en todos los anuncios publicitarios.,"entailment
+"
+"Con base en esta evaluación de riesgos, Centrelink desarrolló una serie de estrategias de prevención destinadas a formar a los beneficiarios y empleadores sobre sus obligaciones a la hora de declarar ingresos.",Centrelink no sabe cómo abordar el problema.,"contradiction
+"
+"Con base en esta evaluación de riesgos, Centrelink desarrolló una serie de estrategias de prevención destinadas a formar a los beneficiarios y empleadores sobre sus obligaciones a la hora de declarar ingresos.",Centrelink tenía muchas estrategias para enseñarle a la gente a informar los ingresos porque el gobierno estaba perdiendo mucho dinero por los errores.,"neutral
+"
+"Con base en esta evaluación de riesgos, Centrelink desarrolló una serie de estrategias de prevención destinadas a formar a los beneficiarios y empleadores sobre sus obligaciones a la hora de declarar ingresos.",Centrelink tenía muchas estrategias para enseñar a las personas cómo informar sobre sus ingresos.,"entailment
+"
+Esto permitió demostraciones del diseño antes de que las compañías hicieran inversiones más costosas en equipos de fabricación y en herramientas para construir prototipos representativos de producción para la fase de demostración.,Luego podrían mostrar cómo funciona el diseño.,"entailment
+"
+Esto permitió demostraciones del diseño antes de que las compañías hicieran inversiones más costosas en equipos de fabricación y en herramientas para construir prototipos representativos de producción para la fase de demostración.,Pudieron mostrar a la compañía que no era inteligente construir nuevas fábricas.,"neutral
+"
+Esto permitió demostraciones del diseño antes de que las compañías hicieran inversiones más costosas en equipos de fabricación y en herramientas para construir prototipos representativos de producción para la fase de demostración.,No tenían idea de cómo demostrar el impacto de las inversiones.,"contradiction
+"
+Los esfuerzos de colaboración de Carolina del Sur produjeron otro éxito el año siguiente.,Nadie en Carolina del Sur trabajó en conjunto.,"contradiction
+"
+Los esfuerzos de colaboración de Carolina del Sur produjeron otro éxito el año siguiente.,Los SC trabajaron conjuntamente.,"entailment
+"
+Los esfuerzos de colaboración de Carolina del Sur produjeron otro éxito el año siguiente.,Los demócratas y republicanos en Carolina del Sur están trabajando juntos.,"entailment
+"
+"Según un representante de la Junta, la documentación de la sección 605 (b) de la Junta no se entregó por separado al abogado principal de la defensa de la Small Business Administration (SBA).",La junta no dio las certificaciones de la SBA y lo dejaron en manos de la oficina del asesor.,"neutral
+"
+"Según un representante de la Junta, la documentación de la sección 605 (b) de la Junta no se entregó por separado al abogado principal de la defensa de la Small Business Administration (SBA).",La Junta no dio las certificaciones de la SBA.,"neutral
+"
+"Según un representante de la Junta, la documentación de la sección 605 (b) de la Junta no se entregó por separado al abogado principal de la defensa de la Small Business Administration (SBA).",La junta repartió certificaciones SBA todos los dias a quienquiera solicitara una.,"neutral
+"
+"Cuando se produce una coincidencia para los cargos del hotel y otros cargos, se realizará una verificación del viaje real.",La mayoría de las cadenas de hoteles nacionales aceptan pagos con tarjeta de crédito.,"neutral
+"
+"Cuando se produce una coincidencia para los cargos del hotel y otros cargos, se realizará una verificación del viaje real.",El viaje en sí mismo se verificaría utilizando los cargos del hotel.,"entailment
+"
+"Cuando se produce una coincidencia para los cargos del hotel y otros cargos, se realizará una verificación del viaje real.",No hay manera de verificar si un viaje realmente ocurrió o no.,"contradiction
+"
+"Por ejemplo, una capital de estado que hemos visitado es el hogar de más de 600 compañías de software.",Las capitales son los mejores lugares para las compañías de software.,"neutral
+"
+"Por ejemplo, una capital de estado que hemos visitado es el hogar de más de 600 compañías de software.",Una capital tiene una tonelada de compañías de software.,"entailment
+"
+"Por ejemplo, una capital de estado que hemos visitado es el hogar de más de 600 compañías de software.",Las compañías de software evitan capitales por razones legales.,"neutral
+"
+"Al medir la efectividad, la perfección es inalcanzable.",Puedes alcanzar la perfección si practicas lo suficiente.,"contradiction
+"
+"Al medir la efectividad, la perfección es inalcanzable.",Nunca puedes ser perfecto.,"entailment
+"
+"Al medir la efectividad, la perfección es inalcanzable.",Usted no puede ser perfecto ya que todos somos imperfectos.,"neutral
+"
+El compañero de casa que alquiló la habitación a Hazmi y Mihdhar durante el año 2000 es un ciudadano aparentemente respetuoso de la ley con contactos duraderos y amistosos entre la policía local y el personal del FBI.,Hazmi y Mihdhar compraron una casa y no tuvieron contacto con nadie.,"contradiction
+"
+El compañero de casa que alquiló la habitación a Hazmi y Mihdhar durante el año 2000 es un ciudadano aparentemente respetuoso de la ley con contactos duraderos y amistosos entre la policía local y el personal del FBI.,Por 500 $ al día Hazmi y Mihdhar alquilaron una habitación para todo el año.,"neutral
+"
+El compañero de casa que alquiló la habitación a Hazmi y Mihdhar durante el año 2000 es un ciudadano aparentemente respetuoso de la ley con contactos duraderos y amistosos entre la policía local y el personal del FBI.,Hazmi y Mihdhar alquilaron una habitación.,"entailment
+"
+"Para su viaje a Bosnia, vea el informe de inteligencia, interrogatorio de miembro Saudí de Al Qaeda, 3 de octubre de 2001.",Un miembro de Al Qaeda fue 18 veces a Bosnia en 2001.,"neutral
+"
+"Para su viaje a Bosnia, vea el informe de inteligencia, interrogatorio de miembro Saudí de Al Qaeda, 3 de octubre de 2001.",Un miembro de Al Qaeda fue a Bosnia.,"entailment
+"
+"Para su viaje a Bosnia, vea el informe de inteligencia, interrogatorio de miembro Saudí de Al Qaeda, 3 de octubre de 2001.",No hubo evidencia de ningun mienbro de Al Qaeda yendo a Bosnia.,"contradiction
+"
+Jane le pidió al agente de Nueva York asignado para la búsqueda de Mihdhar que le firmara un formulario de reconocimiento de FISA en el que se indicada que el agente entendía cómo debía tratar la información de la FISA.,Jane solicitó un formulario de reconocimiento de FISA para ser firmado por un juez federal.,"neutral
+"
+Jane le pidió al agente de Nueva York asignado para la búsqueda de Mihdhar que le firmara un formulario de reconocimiento de FISA en el que se indicada que el agente entendía cómo debía tratar la información de la FISA.,Jane pidió que se firmara un formulario de reconocimiento de FISA.,"entailment
+"
+Jane le pidió al agente de Nueva York asignado para la búsqueda de Mihdhar que le firmara un formulario de reconocimiento de FISA en el que se indicada que el agente entendía cómo debía tratar la información de la FISA.,Jane dijo que no era necesario el reconocimiento de FISA.,"contradiction
+"
+Nada resalta de ninguno de ellos en cuanto a la única capa de seguridad relevante para la actual evaluación de puestos fronterizos.,Se descubrió evidencia alarmante durante el cribado el análisis del punto de control.,"contradiction
+"
+Nada resalta de ninguno de ellos en cuanto a la única capa de seguridad relevante para la actual evaluación de puestos fronterizos.,Las evaluaciones de puntos de control se basan completamente en la intuición del agente de aduanas que realiza el examen.,"neutral
+"
+Nada resalta de ninguno de ellos en cuanto a la única capa de seguridad relevante para la actual evaluación de puestos fronterizos.,La transmisión del puesto de control no pudo descubrir ninguna prueba contra ellos.,"entailment
+"
+"Khallad ha ofrecido una segunda versión, es decir, que los tres viajaron juntos a Karachi.",Khallad dijo que no sabía nada sobre los tres.,"contradiction
+"
+"Khallad ha ofrecido una segunda versión, es decir, que los tres viajaron juntos a Karachi.",Khallad afirmó que los tres podrían haber viajado juntos.,"entailment
+"
+"Khallad ha ofrecido una segunda versión, es decir, que los tres viajaron juntos a Karachi.",Khallad dijo que había un 50% de posibilidades de que los tres fuesen juntos a Karachi en octubre.,"neutral
+"
+"Informe de inteligencia, interrogatorio de Binalshibh, 1 de octubre de 2002.",Binalshibh fue interrogado por un oficial del FBI.,"neutral
+"
+"Informe de inteligencia, interrogatorio de Binalshibh, 1 de octubre de 2002.",Binalshibh fue interrogado en 2002.,"entailment
+"
+"Informe de inteligencia, interrogatorio de Binalshibh, 1 de octubre de 2002.",A Binalshibh nunca se le habló y desapareció.,"contradiction
+"
+Mihdhar recibe un nuevo visado para los Estados Unidos dos días después del encuentro entre la CIA y el FBI en Nueva York.,Mihdhar tenía una visa de los Estados Unidos para ingresar al país.,"entailment
+"
+Mihdhar recibe un nuevo visado para los Estados Unidos dos días después del encuentro entre la CIA y el FBI en Nueva York.,"Mihdhar nunca obtuvo una visa, por lo que nunca vino a Estados Unidos.","contradiction
+"
+Mihdhar recibe un nuevo visado para los Estados Unidos dos días después del encuentro entre la CIA y el FBI en Nueva York.,Mihdhar recibió una Visa porque no era una amenaza.,"neutral
+"
+"A pesar de dos años de investigación, el FBI no pudo encontrar al compañero de trabajo ni determinar su verdadera identidad.",El FBI nunca pudo encontrar al hombre después de que se fuera de Florida en 2001.,"neutral
+"
+"A pesar de dos años de investigación, el FBI no pudo encontrar al compañero de trabajo ni determinar su verdadera identidad.",El FBI no pudo averiguar quién era el tipo.,"entailment
+"
+"A pesar de dos años de investigación, el FBI no pudo encontrar al compañero de trabajo ni determinar su verdadera identidad.",El FBI descubrió quién era y lo llevó a la cárcel.,"contradiction
+"
+"En el caso de American 11, la última comunicación normal del avión fue a las 8:13 a. m.",Hubo comunicación proveniente de American 11.,"entailment
+"
+"En el caso de American 11, la última comunicación normal del avión fue a las 8:13 a. m.",Hubo comunicación del American 11 cada 5 minutos.,"contradiction
+"
+"En el caso de American 11, la última comunicación normal del avión fue a las 8:13 a. m.",Nunca hubo ninguna comunicación de American 11.,"contradiction
+"
+"Descubrirlo habría requerido una cooperación rápida y sustancial del gobierno alemán, que bien podría haber sido difícil de obtener.",Si se completase la investigación podría haber revelado la ubicación de tres fugitivos.,"neutral
+"
+"Descubrirlo habría requerido una cooperación rápida y sustancial del gobierno alemán, que bien podría haber sido difícil de obtener.",El gobierno alemán podría haber tenido dificultades para realizar una investigación rápida y exhaustiva.,"entailment
+"
+"Descubrirlo habría requerido una cooperación rápida y sustancial del gobierno alemán, que bien podría haber sido difícil de obtener.",La investigación sería bastante simple y fácil de llevar a cabo por el gobierno.,"contradiction
+"
+"Estas capacidades eran insuficientes, pero se hizo poco para expandirlas o reformarlas.",No cambiaron mucho su programa de vigilancia.,"entailment
+"
+"Estas capacidades eran insuficientes, pero se hizo poco para expandirlas o reformarlas.",No hicieron mucho para cambiar las cosas.,"entailment
+"
+"Estas capacidades eran insuficientes, pero se hizo poco para expandirlas o reformarlas.",Hicieron todo lo posible para revisar todo.,"contradiction
+"
+"Aun así, el correo electrónico del analista muestra que estaba confundiendo una amplia gama de avisos y barreras legales sobre la compartición de información y normas de administración sobre el uso por parte de agentes criminales de información recogida a través de canales de inteligencia.",El analista presentó un análisis claro como el agua.,"contradiction
+
+
+
+"
+"Aun así, el correo electrónico del analista muestra que estaba confundiendo una amplia gama de avisos y barreras legales sobre la compartición de información y normas de administración sobre el uso por parte de agentes criminales de información recogida a través de canales de inteligencia.",El analista no fue claro en muchas cosas.,"entailment
+"
+"Aun así, el correo electrónico del analista muestra que estaba confundiendo una amplia gama de avisos y barreras legales sobre la compartición de información y normas de administración sobre el uso por parte de agentes criminales de información recogida a través de canales de inteligencia.",El informe del analista estaba tan desordenado que nadie podía leerlo.,"neutral
+
+
+
+"
+"Algunos oficiales fueron asignados para ayudar en las evacuaciones de las escaleras; otros fueron asignados para agilizar la evacuación en la plaza, el vestíbulo y la estación de PATH.",Los oficiales obtuvieron sus propias asignaciones.,"entailment
+"
+"Algunos oficiales fueron asignados para ayudar en las evacuaciones de las escaleras; otros fueron asignados para agilizar la evacuación en la plaza, el vestíbulo y la estación de PATH.",Los agentes solo acudían adonde se les necesitaba aleatoriamente.,"neutral
+"
+"Algunos oficiales fueron asignados para ayudar en las evacuaciones de las escaleras; otros fueron asignados para agilizar la evacuación en la plaza, el vestíbulo y la estación de PATH.",Los oficiales fueron asignados basándose en su antigüedad.,"neutral
+"
+El 9 de septiembre llegaron noticias dramáticas de Afganistán.,Recibimos noticias de Afganistán.,"entailment
+"
+El 9 de septiembre llegaron noticias dramáticas de Afganistán.,No escuchamos nada de Afganistán hasta octubre.,"contradiction
+"
+El 9 de septiembre llegaron noticias dramáticas de Afganistán.,Fuimos avisados sobre el ataque inminente el 9 de Septiembre,"neutral
+"
+"La incapacidad para comunicarse fue un elemento crítico para el World Trade Center, Pentagon y el condado de Somerset, Pennsylvania, sitios de impacto, en donde respondieron múltiples agencias y jurisdicciones.",La comunicación funcionó muy bien el 11 de septiembre.,"contradiction
+"
+"La incapacidad para comunicarse fue un elemento crítico para el World Trade Center, Pentagon y el condado de Somerset, Pennsylvania, sitios de impacto, en donde respondieron múltiples agencias y jurisdicciones.",Las personas tuvieron dificultades para comunicarse en el World Trade Center porque no había electricidad y las líneas telefónicas no estaban funcionando.,"neutral
+"
+"La incapacidad para comunicarse fue un elemento crítico para el World Trade Center, Pentagon y el condado de Somerset, Pennsylvania, sitios de impacto, en donde respondieron múltiples agencias y jurisdicciones.",La gente tuvo dificultades para comunicarse en el World Trade Center.,"entailment
+"
+"Las búsquedas en las bases de datos fácilmente disponibles podrían haber desenterrado las licencias de conducir, las matrículas de coches y la lista de teléfonos.",Los investigadores también pidieron acceso a las bases de datos profesionales.,"neutral
+"
+"Las búsquedas en las bases de datos fácilmente disponibles podrían haber desenterrado las licencias de conducir, las matrículas de coches y la lista de teléfonos.",Varios tipos de información estaban disponibles en las bases de datos existentes.,"entailment
+"
+"Las búsquedas en las bases de datos fácilmente disponibles podrían haber desenterrado las licencias de conducir, las matrículas de coches y la lista de teléfonos.",No hubo forma de encontrar información sobre los sospechosos utilizando las fuentes existentes.,"contradiction
+"
+"Afirmando haber sospechado de toda la transacción, el administrador se distanció de Hazmi y Mihdhar, pero no antes de que hubieran recibido la asistencia que necesitaban.",El administrador contactó inmediatamente con las autoridades y se negó a ayudar con este caso.,"contradiction
+"
+"Afirmando haber sospechado de toda la transacción, el administrador se distanció de Hazmi y Mihdhar, pero no antes de que hubieran recibido la asistencia que necesitaban.",El administrador brindó asistencia a pesar de sus dudas.,"entailment
+"
+"Afirmando haber sospechado de toda la transacción, el administrador se distanció de Hazmi y Mihdhar, pero no antes de que hubieran recibido la asistencia que necesitaban.",La ayuda constó de efectivo y de ayuda para obtener los documentos del viaje.,"neutral
+"
+"En 2003, se eliminaron estas designaciones: todos los asuntos de terrorismo internacional ahora reciben la misma designación, 315.",Todos los asuntos de terrorismo son de mayor importancia.,"neutral
+"
+"En 2003, se eliminaron estas designaciones: todos los asuntos de terrorismo internacional ahora reciben la misma designación, 315.",Todos los asuntos de terrorismo tienen la misma etiqueta.,"entailment
+"
+"En 2003, se eliminaron estas designaciones: todos los asuntos de terrorismo internacional ahora reciben la misma designación, 315.",Cada asunto de terrorismo se juzga y califica de manera independiente.,"neutral
+"
+"Este oficial, que ha visto el colapso de la Torre Sur, lo denunció a las unidades ESU de la Torre Norte en sus instrucciones de evacuación.",Nadie se quedó en la Torre Norte después de que la Torre Sur se derrumbara.,"neutral
+"
+"Este oficial, que ha visto el colapso de la Torre Sur, lo denunció a las unidades ESU de la Torre Norte en sus instrucciones de evacuación.",La Torre Sur se derrumbó 30 minutos antes de que el oficial hablara con las unidades de la ESU en la Torre Norte.,"neutral
+"
+"Este oficial, que ha visto el colapso de la Torre Sur, lo denunció a las unidades ESU de la Torre Norte en sus instrucciones de evacuación.",El oficial presenció la caída de la Torre del Sur.,"entailment
+"
+Indianápolis es de verdad uno de los mejores lugares que los actores pueden visitar para trabajar para muchos,Los actores adoran Indianápolis por todas las agencias de casting allí.,"neutral
+"
+Indianápolis es de verdad uno de los mejores lugares que los actores pueden visitar para trabajar para muchos,"Si eres un actor, deberías considerar mudarte a Indianápolis.","entailment
+"
+Indianápolis es de verdad uno de los mejores lugares que los actores pueden visitar para trabajar para muchos,"Es difícil encontrar trabajo en Indianápolis si estás en el negocio del cine o del teatro, ya que más bien es una ciudad tecnológica.","contradiction
+"
+"Ofrecemos asistencia telefónica las 24 horas, 7 días a la semana, en el Centro de Recursos, Información y Prevención y la línea de asistencia para padres.",Solo podemos ser contactados por servicio postal o correo electrónico.,"contradiction
+"
+"Ofrecemos asistencia telefónica las 24 horas, 7 días a la semana, en el Centro de Recursos, Información y Prevención y la línea de asistencia para padres.","Somos accesibles por el móvil, a cualquier hora del día.","neutral
+"
+"Ofrecemos asistencia telefónica las 24 horas, 7 días a la semana, en el Centro de Recursos, Información y Prevención y la línea de asistencia para padres.",Recibimos más de cien llamadas cada lunes y viernes.,"neutral
+"
+Para estas cajas que seguirán envueltas mucho después de que se hayan abierto todos los demás regalos.,Estas cajas contienen bombas peligrosas.,"neutral
+"
+Para estas cajas que seguirán envueltas mucho después de que se hayan abierto todos los demás regalos.,Estás cajas se abrirán antes que los otros regalos.,"contradiction
+"
+Para estas cajas que seguirán envueltas mucho después de que se hayan abierto todos los demás regalos.,Estas cajas permanecerán sin abrir por un tiempo.,"entailment
+"
+"Si mantenemos los precios bajos, tenemos que dirigirnos a vosotros, los miembros de nuestra audiencia, para pediros una pequeña contribución con el fin de que nos ayudéis a cumplir esta misión.","Para mantener nuestros precios por debajo de $10,necesitaríamos que todos los miembros de nuestra audiencia donen $ 25.","neutral
+"
+"Si mantenemos los precios bajos, tenemos que dirigirnos a vosotros, los miembros de nuestra audiencia, para pediros una pequeña contribución con el fin de que nos ayudéis a cumplir esta misión.","Podríamos mantener bajos nuestros precios si realmente quisiéramos, sin su dinero, pero a nuestro jefe le gustan sus lujos.","contradiction
+"
+"Si mantenemos los precios bajos, tenemos que dirigirnos a vosotros, los miembros de nuestra audiencia, para pediros una pequeña contribución con el fin de que nos ayudéis a cumplir esta misión.",Tu contribución nos ayuda a mantener los precios bajos.,"entailment
+"
+"00 ayudó a hacer posible que orientáramos, animáramos y entretuviéramos a casi 400 niños del área de Indianápolis.","Gracias a nuestras generosas donaciones, pudimos invitar a Beyoncé a dar un concierto para los huérfanos de Indianápolis.","neutral
+
+
+
+"
+"00 ayudó a hacer posible que orientáramos, animáramos y entretuviéramos a casi 400 niños del área de Indianápolis.","Esperábamos organizar una fiesta de Navidad para los niños, pero nunca hemos podido hacer nada por ellos.","contradiction
+"
+"00 ayudó a hacer posible que orientáramos, animáramos y entretuviéramos a casi 400 niños del área de Indianápolis.",Pudimos ayudar a muchos niños de Indianápolis.,"entailment
+"
+"Inicialmente, los individuos pueden participar haciendo un regalo anual no restringido de 1000 $ o más para el Chancellor's Circle o de 500 $ o más para Chancellors Associates.",Las personas pueden participar después de realizar una pequeña donación de $50.,"contradiction
+"
+"Inicialmente, los individuos pueden participar haciendo un regalo anual no restringido de 1000 $ o más para el Chancellor's Circle o de 500 $ o más para Chancellors Associates.",Las personas pueden participar si hacen una donación lo suficientemente grande.,"entailment
+"
+"Inicialmente, los individuos pueden participar haciendo un regalo anual no restringido de 1000 $ o más para el Chancellor's Circle o de 500 $ o más para Chancellors Associates.",La mayoría de las personas prefieren donar a los Asociados Chancellors.,"neutral
+"
+Su donación en este momento puede proporcionarle beneficios fiscales adicionales al final del año.,"Si hace un regalo de al menos 1,000$, seguramente podrá recibir beneficios fiscales.","neutral
+"
+Su donación en este momento puede proporcionarle beneficios fiscales adicionales al final del año.,"Desafortunadamente, nuestros asesores fiscales te aconsejarían que no hagas ningún regalo.","contradiction
+"
+Su donación en este momento puede proporcionarle beneficios fiscales adicionales al final del año.,Es posible que pueda tomar deducciones de impuestos en sus donaciones.,"entailment
+"
+"Como usted sabe, la suscripción a este grupo incluye a aquellos amigos y ex alumnos que contribuyen con 1.000 $ o más anualmente a la facultad de derecho.",Algunos de los miembros de este grupo han donado más de 100k $ a la escuela.,"neutral
+"
+"Como usted sabe, la suscripción a este grupo incluye a aquellos amigos y ex alumnos que contribuyen con 1.000 $ o más anualmente a la facultad de derecho.","Tenemos personas en este grupo que han contribuido con más de 1,000$ a la facultad de derecho.","entailment
+"
+"Como usted sabe, la suscripción a este grupo incluye a aquellos amigos y ex alumnos que contribuyen con 1.000 $ o más anualmente a la facultad de derecho.",Planeamos pedirle a este grupo que haga contribuciones monetarias a la Escuela pero cuanto antes.,"entailment
+"
+"Como niño que se crió en los 50, uno de mis recuerdos más felices es asistir a las actuaciones del Teatro Cívico.","Odiaba ir a los espectáculos de teatro cuando era niño, así que por eso me convertí en científico.","contradiction
+"
+"Como niño que se crió en los 50, uno de mis recuerdos más felices es asistir a las actuaciones del Teatro Cívico.",Me encantaba ir al teatro cuando era un niño.,"entailment
+"
+"Como niño que se crió en los 50, uno de mis recuerdos más felices es asistir a las actuaciones del Teatro Cívico.",Mi producción favorita del teatro 'Civic Theatre' fue la Bella y la Bestia.,"neutral
+"
+Si cada persona que recibe esta carta dona únicamente 18 $.,"A todos los que reciban esta carta: No donen su dinero, es una estafa.","contradiction
+"
+Si cada persona que recibe esta carta dona únicamente 18 $.,"Si realiza un donativo de $18, le daremos un regalo.","neutral
+"
+Si cada persona que recibe esta carta dona únicamente 18 $.,Esperamos que todos los destinatarios de las cartas puedan donar 18 $ .,"entailment
+"
+"Separe simplemente la parte inferior, marque la opción aplicable, haga cualquier cambio a su dirección, que fuera necesaria, y envíelo en el sobre adjunto.","Por favor, no haga ningún cambio en su dirección.","contradiction
+"
+"Separe simplemente la parte inferior, marque la opción aplicable, haga cualquier cambio a su dirección, que fuera necesaria, y envíelo en el sobre adjunto.","Hay un sobre blanco adjunto, con su dirección en él.","entailment
+"
+"Separe simplemente la parte inferior, marque la opción aplicable, haga cualquier cambio a su dirección, que fuera necesaria, y envíelo en el sobre adjunto.","Puedes realizar cambios en tu dirección, si lo consideras apropiado.","entailment
+"
+La escuela de enfermería necesita tus regalos generosos para seguir y mantener su excelencia educativa.,"Por favor, done $100 millones de dólares a la Escuela de Enfermería, o perderá su estatua conmemorativa.","contradiction 
+
+**explanation:**
+
+the premise is a general request for generous donations to *support* the nursing school's excellence. the hypothesis is an ultimatum – a demand for a *specific, enormous* donation ($100 million) under threat of losing a commemorative statue.
+
+these are fundamentally different in tone and content. the premise asks for help, while the hypothesis makes an aggressive demand with a penalty.  the hypothesis introduces elements (the specific amount and the statue) not present in the premise, and the threatening tone actively clashes with the premise's polite request. therefore, they contradict each other.
+
+
+
+"
+La escuela de enfermería necesita tus regalos generosos para seguir y mantener su excelencia educativa.,"La Escuela de Enfermería cumplió todos sus objetivos financieros, por lo que no necesita más dinero.","contradiction
+"
+La escuela de enfermería necesita tus regalos generosos para seguir y mantener su excelencia educativa.,Esperamos que haga una donación a la Escuela de Enfermería.,"entailment
+"
+El 80 % de los participantes presentarán una mayor capacidad de resolución de conflictos.,Más de la mitad de los participantes reportará mayores habilidades ante la resolución  de conflictos.,"entailment
+"
+El 80 % de los participantes presentarán una mayor capacidad de resolución de conflictos.,Solo una cuarta parte de los participantes reportará mayores habilidades de resolución de conflictos.,"contradiction
+"
+El 80 % de los participantes presentarán una mayor capacidad de resolución de conflictos.,Había más de 100 participantes individuales.,"neutral
+"
+"Por favor, no vaya a nuestra lista vencida de donantes .","Si dejaras de donar, sería lamentable.","neutral
+"
+"Por favor, no vaya a nuestra lista vencida de donantes .","Nuestra lista de donantes caducados se publica para que todos puedan verla, créeme, ¡no quieres que te averguencen así!","contradiction
+"
+"Por favor, no vaya a nuestra lista vencida de donantes .",Tenemos demasiados donantes así que detengan la donación.,"neutral
+"
+El acceso a nuestro recinto estará abierto a cualquier persona que disponga de un ordenador y un módem.,La gente no necesita nada para acceder a los terrenos.,"contradiction
+"
+El acceso a nuestro recinto estará abierto a cualquier persona que disponga de un ordenador y un módem.,Se necesitan un ordenador y un módem para entrar en el recinto.,"entailment
+"
+El acceso a nuestro recinto estará abierto a cualquier persona que disponga de un ordenador y un módem.,"Las personas necesitan llevar consigo su computadora y su módem mientras ingresan a los terrenos, para tener acceso.","entailment
+"
+La venta de entradas y las suscripciones no pueden financiar nuestra temporada completa,"Mientras tengamos ventas de entradas, toda nuestra temporada está financiada.","contradiction
+"
+La venta de entradas y las suscripciones no pueden financiar nuestra temporada completa,Nuestra temporada completa necesita más para financiarse que solo la venta de entradas y suscripciones.,"entailment
+"
+La venta de entradas y las suscripciones no pueden financiar nuestra temporada completa,Las ventas y subscripciones del Ticket sólo cubre el 70% de los costos de financiación de nuestra temporada completa.,"entailment
+"
+"¡PRODUCTOS RECIÉN LLEGADOS, CADA REGALO MARCA LA DIFERENCIA!",Cada regalo se registra y se anuncia en nuestra revista mensual.,"neutral
+"
+"¡PRODUCTOS RECIÉN LLEGADOS, CADA REGALO MARCA LA DIFERENCIA!",Cada regalo que se ofrece cuenta hacia algo.,"entailment
+"
+"¡PRODUCTOS RECIÉN LLEGADOS, CADA REGALO MARCA LA DIFERENCIA!",Solo regalos a partir de $100 marcan la diferencia.,"neutral
+"
+¡Todavía nos queda mucho para alcanzar nuestra meta de 365 000 $ de amigos y suscriptores como tú!,Nuestro objetivo monetario excede los 300.000 dólares.,"entailment
+"
+¡Todavía nos queda mucho para alcanzar nuestra meta de 365 000 $ de amigos y suscriptores como tú!,"En realidad, esperamos triplicar nuestro objetivo monetario.","neutral
+"
+¡Todavía nos queda mucho para alcanzar nuestra meta de 365 000 $ de amigos y suscriptores como tú!,No tenemos ningún punto de referencia en lo que respecta al dinero.,"neutral
+"
+"Nuestro Despacho de Práctica Civil lleva funcionando varios años, y hace poco hemos añadido un Despacho de Defensa Delictiva",Nuestra Clínica de Práctica Civil ha operado durante ocho años.,"neutral
+"
+"Nuestro Despacho de Práctica Civil lleva funcionando varios años, y hace poco hemos añadido un Despacho de Defensa Delictiva",Nuestra Clínica de Práctica Civil está celebrando su primer año el  próximo mes.,"contradiction
+"
+"Nuestro Despacho de Práctica Civil lleva funcionando varios años, y hace poco hemos añadido un Despacho de Defensa Delictiva","Por más de un año, la Clínica de Práctica Civil ha estado en funcionamiento .","entailment
+"
+Los ingresos por boletos no empiezan a cubrir el costo de estos programas.,Parece que el costo de estos programas no será cubierto por los ingresos .,"entailment
+"
+Los ingresos por boletos no empiezan a cubrir el costo de estos programas.,El costo de estos programas es muy elevado.,"entailment
+"
+Los ingresos por boletos no empiezan a cubrir el costo de estos programas.,El ingreso del billete definitivamente cubrirá el costo de estos programas.,"contradiction
+"
+El amor lo vence todo (a menos que trabajes para el Weekly Standard): Brit Hume (Fox News Sunday) especula sobre el porqué Lewinsky podría no... Todavía tiene un enamoramiento sin esperanza con el presidente.,Brit Hume es el reportero principal de Fox.,"neutral
+"
+El amor lo vence todo (a menos que trabajes para el Weekly Standard): Brit Hume (Fox News Sunday) especula sobre el porqué Lewinsky podría no... Todavía tiene un enamoramiento sin esperanza con el presidente.,Brit Hume trabaja para CNN.,"neutral
+"
+El amor lo vence todo (a menos que trabajes para el Weekly Standard): Brit Hume (Fox News Sunday) especula sobre el porqué Lewinsky podría no... Todavía tiene un enamoramiento sin esperanza con el presidente.,Brit Hume trabaja para Fox.,"entailment
+"
+Mucho se ha hablado de contratar a Michael Apted para darle un toque más humano a la serie.,Michael Apted arruinó la serie al insistir en que eliminen cualquier elemento cálido y humano.,"contradiction
+"
+Mucho se ha hablado de contratar a Michael Apted para darle un toque más humano a la serie.,Contrataron a Michael Apted para añadir calidad personal a la serie.,"entailment
+"
+Mucho se ha hablado de contratar a Michael Apted para darle un toque más humano a la serie.,"Se pensaba que la serie era fría y aburrida, por lo que era importante contratar a Michael Apted para agregar un toque cálido y personal para mejorar las calificaciones.","entailment
+"
+ver a una chica con una parka de piel blanca y botas,Una niña está vestida para montar en trineo.,"neutral
+"
+ver a una chica con una parka de piel blanca y botas,Una niña usa ropa blanca.,"entailment
+"
+ver a una chica con una parka de piel blanca y botas,The girl is dressed all in red.,"neutral
+"
+Lo que la película no menciona es que Kaufman hablaba con frecuencia de cómo le gustaría llevar a cabo su propia muerte.,La película no menciona a Kaufman hablando de su propia muerte.,"entailment
+"
+Lo que la película no menciona es que Kaufman hablaba con frecuencia de cómo le gustaría llevar a cabo su propia muerte.,La película tuvo una entrevista profunda con Kaufman sobre su muerte.,"contradiction
+"
+Lo que la película no menciona es que Kaufman hablaba con frecuencia de cómo le gustaría llevar a cabo su propia muerte.,"La película fue un éxito de taquilla, a pesar de omitir algunos detalles cruciales sobre Kaufman.","entailment
+"
+Rockefeller quedó atrapado en esta angustiado ofrenda cuando Avenging Angel Tarbell empezó a arrancarse la carne en McClure's.,Rockefeller donó para la investigación del cáncer.,"neutral
+"
+Rockefeller quedó atrapado en esta angustiado ofrenda cuando Avenging Angel Tarbell empezó a arrancarse la carne en McClure's.,Rockefeller era generoso.,"neutral
+"
+Rockefeller quedó atrapado en esta angustiado ofrenda cuando Avenging Angel Tarbell empezó a arrancarse la carne en McClure's.,Rockefeller era avaro.,"neutral
+"
+"Más recientemente, en un caso comercial en Nueva York, Klayman se encontró en el otro extremo, acusado de parcialidad étnica.",Klayman se crió bajo cargos de parcialidad étnica en California.,"neutral
+"
+"Más recientemente, en un caso comercial en Nueva York, Klayman se encontró en el otro extremo, acusado de parcialidad étnica.",Klayman no esperaba ser acusado de parcialidad étnica.,"neutral
+"
+"Más recientemente, en un caso comercial en Nueva York, Klayman se encontró en el otro extremo, acusado de parcialidad étnica.",Hubo acusaciones de parcialidad étnica contra Klayman.,"entailment
+"
+"Es difícil imaginar que esto ocurriría: un cuarto lleno de representantes corporativos silbando, abucheando y gritando disparates a la persona que estaba sentada; el secretario de Trabajo de los Estados Unidos.",Los representantes corporativos usan traje.,"neutral
+"
+"Es difícil imaginar que esto ocurriría: un cuarto lleno de representantes corporativos silbando, abucheando y gritando disparates a la persona que estaba sentada; el secretario de Trabajo de los Estados Unidos.",Se podría esperar que los representantes corporativos silbaran.,"entailment
+"
+"Es difícil imaginar que esto ocurriría: un cuarto lleno de representantes corporativos silbando, abucheando y gritando disparates a la persona que estaba sentada; el secretario de Trabajo de los Estados Unidos.",Uno no esperaría que los representantes corporativos silbaran.,"entailment
+"
+Solo porque la formación tiene un efecto más significante en el rendimiento atlético no quiere decir que la naturaleza permanezca inactiva.,Los atletas nacen con todo su potencial de rendimiento totalmente desarrollado.,"contradiction
+"
+Solo porque la formación tiene un efecto más significante en el rendimiento atlético no quiere decir que la naturaleza permanezca inactiva.,El rendimiento atlético se ve más afectado por el entrenamiento que por la genética.,"entailment
+"
+Solo porque la formación tiene un efecto más significante en el rendimiento atlético no quiere decir que la naturaleza permanezca inactiva.,Los atletas más serios entrenan al menos ocho horas cada semana.,"neutral
+"
+"Una vez en casa, aprendí que los Estados Unidos cortan los suministros de dos formas.",Estoy interesado en la política.,"neutral
+"
+"Una vez en casa, aprendí que los Estados Unidos cortan los suministros de dos formas.",Aprendí sobre los Estados Unidos,"entailment
+"
+"Una vez en casa, aprendí que los Estados Unidos cortan los suministros de dos formas.",Antes de volver a casa aprendí que  Estados Unidos corta suministros de dos maneras.,"neutral
+"
+"La editorial universitaria más grande y antigua del mundo, la de Oxford, acaba de anunciar la cancelación de su lista de poesía.",La lista de poesía en Oxford ya no se continúa.,"entailment
+"
+"La editorial universitaria más grande y antigua del mundo, la de Oxford, acaba de anunciar la cancelación de su lista de poesía.",La universidad de prestigio no tiene los fondos para mantener activa la lista de poesía.,"neutral
+"
+"La editorial universitaria más grande y antigua del mundo, la de Oxford, acaba de anunciar la cancelación de su lista de poesía.",La universidad se dedica a preservar la lista de poesía y se compromete a nunca cancelarla.,"contradiction
+"
+"Sin embargo, hay un premio de consolación para la humanidad.",El premio de consolación es una licuadora de dos velocidades gratis para todos.,"neutral
+"
+"Sin embargo, hay un premio de consolación para la humanidad.",Los humanos no tienen ventaja en esta situación.,"neutral
+"
+"Sin embargo, hay un premio de consolación para la humanidad.",Esto no es todas malas noticias para los humanos.,"entailment
+"
+"En estos lugares, los deportes no son los únicos eventos en los que hay apuestas.",También se aceptan apuestas sobre concursos políticos y elecciones en estos sitios.,"entailment
+"
+"En estos lugares, los deportes no son los únicos eventos en los que hay apuestas.",Esos lugares sólo aceptan apuestas sobre eventos deportivos.,"contradiction
+"
+"En estos lugares, los deportes no son los únicos eventos en los que hay apuestas.",Estos sitios se llevan lo mejor de varias actividades.,"entailment
+"
+"El 25 de agosto, después de que se inaugurase la convención democrática en Atlantic City, N. J. Johnson, que tenía entonces 56 años, amenazó en tres conversaciones grabadas con retirarse de la carrera presidencial.",Johnson sintió una falta de apoyo.,"entailment
+"
+"El 25 de agosto, después de que se inaugurase la convención democrática en Atlantic City, N. J. Johnson, que tenía entonces 56 años, amenazó en tres conversaciones grabadas con retirarse de la carrera presidencial.",Johnson nunca pensó en retirarse.,"contradiction
+"
+"El 25 de agosto, después de que se inaugurase la convención democrática en Atlantic City, N. J. Johnson, que tenía entonces 56 años, amenazó en tres conversaciones grabadas con retirarse de la carrera presidencial.",Johnson amenazó con retirarse.,"entailment
+"
+Lamar Alexander se retiró de su candidatura presidencial.,Al menos una persona renunció a intentar ser presidente.,"entailment
+"
+Lamar Alexander se retiró de su candidatura presidencial.,Lamar Alexander se negó a renunciar a su campaña presidencial.,"contradiction
+"
+Lamar Alexander se retiró de su candidatura presidencial.,El Sr. Alexander se vio obligado a abandonar después de que se publicaran fotos vergonzosas de él.,"neutral
+"
+"Además de este lamentable récord respecto a la libertad civil también existe el uso indebido del FBI en una investigación propia de una oficina de viajes de la Casa Blanca, y lo que se ha denominado como Filegate.",La Casa Blanca tiene al FBI espiando a los candidatos políticos.,"entailment
+"
+"Además de este lamentable récord respecto a la libertad civil también existe el uso indebido del FBI en una investigación propia de una oficina de viajes de la Casa Blanca, y lo que se ha denominado como Filegate.",La Casa Blanca hace un uso incorrecto del FBI.,"entailment
+"
+"Además de este lamentable récord respecto a la libertad civil también existe el uso indebido del FBI en una investigación propia de una oficina de viajes de la Casa Blanca, y lo que se ha denominado como Filegate.",La Casa Blanca usa el FBI apropiadamente.,"contradiction
+"
+"Tung ha prometido tomar medidas enérgicas contra los especuladores inmobiliarios, pero muchos piensan que perro ladrador, poco mordedor.",Tung no se preocupa por los especuladores de propiedades.,"neutral
+"
+"Tung ha prometido tomar medidas enérgicas contra los especuladores inmobiliarios, pero muchos piensan que perro ladrador, poco mordedor.",Tung cree que los especuladores inmobiliarios están actuando de forma poco ética.,"neutral
+"
+"Tung ha prometido tomar medidas enérgicas contra los especuladores inmobiliarios, pero muchos piensan que perro ladrador, poco mordedor.",Tung quiere influenciar a los especuladores de propiedades.,"entailment
+"
+"Las quejas cubrían problemas de equipaje, azafatas, vuelos misteriosamente cancelados, atrocidades cometidas, etc.",10 personas perdieron el equipaje.,"neutral
+"
+"Las quejas cubrían problemas de equipaje, azafatas, vuelos misteriosamente cancelados, atrocidades cometidas, etc.",La gente se quejaba del equipaje.,"entailment
+"
+"Las quejas cubrían problemas de equipaje, azafatas, vuelos misteriosamente cancelados, atrocidades cometidas, etc.",No hubo ninguna queja en absoluto.,"contradiction
+"
+"Lawrence Singleton, un famoso violador que amputó los antebrazos de sus víctimas y luego pasó solo ocho años en prisión, ha sido detenido por apuñalar hasta la muerte de otra mujer en Florida.","Después de cortar los antebrazos de sus víctimas, intentó esconderlos en un bote de basura.","neutral
+"
+"Lawrence Singleton, un famoso violador que amputó los antebrazos de sus víctimas y luego pasó solo ocho años en prisión, ha sido detenido por apuñalar hasta la muerte de otra mujer en Florida.",Para todos era obvio que su tiempo en prisión lo había rehabilitado por completo.,"contradiction
+"
+"Lawrence Singleton, un famoso violador que amputó los antebrazos de sus víctimas y luego pasó solo ocho años en prisión, ha sido detenido por apuñalar hasta la muerte de otra mujer en Florida.",El señor Singleton es un violador condenado en Florida.,"entailment
+"
+Charles Lane de la Nueva República dice que las noticias de un secuestro se extienden al informe de periodismo deshonesto de Gabriel García Marquez,Charles Lane es un periodista.,"neutral
+"
+Charles Lane de la Nueva República dice que las noticias de un secuestro se extienden al informe de periodismo deshonesto de Gabriel García Marquez,Charles Lane vendió coches.,"neutral
+"
+Charles Lane de la Nueva República dice que las noticias de un secuestro se extienden al informe de periodismo deshonesto de Gabriel García Marquez,Charles Lane ganó un premio Pulitzer.,"neutral
+"
+La corte no es el único circo político en Washington esta mañana.,El palacio de justicia no es el único lugar político de Washington.,"entailment
+"
+La corte no es el único circo político en Washington esta mañana.,El jarnada política probablemente comience por la mañana.,"neutral
+"
+La corte no es el único circo político en Washington esta mañana.,Hay un circo en el juzgado con payasos.,"neutral
+"
+"Uno puede imaginarse a un conductor de excavadora mientras pavimenta un camino para un nuevo desarrollo al que aclama el desarrollador Hey, Loyd...",Puedes imaginar a un operador de bulldozer arrancando una excavadora.,"neutral
+"
+"Uno puede imaginarse a un conductor de excavadora mientras pavimenta un camino para un nuevo desarrollo al que aclama el desarrollador Hey, Loyd...",Puedes imaginar el operador de una excavadora.,"entailment
+"
+"Uno puede imaginarse a un conductor de excavadora mientras pavimenta un camino para un nuevo desarrollo al que aclama el desarrollador Hey, Loyd...",No puedes imaginar un operador de bulldozer.,"contradiction
+"
+Informé de esto en una carta al Dr. Algo que pareció divertirlo y me envió un pequeño pastel de frutas esa Navidad.,Estoy seguro que el doctor recibió la carta que le envié.,"entailment
+"
+Informé de esto en una carta al Dr. Algo que pareció divertirlo y me envió un pequeño pastel de frutas esa Navidad.,No comí el pastel que el doctor me envió esa Navidad.,"neutral
+"
+Informé de esto en una carta al Dr. Algo que pareció divertirlo y me envió un pequeño pastel de frutas esa Navidad.,El doctor me envió un botella de vino esa Navidad.,"contradiction
+"
+"El equipo era conocido previamente por la memorable designación de Beaneaters, lo que, curiosamente, también podría considerarse un apodo indio.",El equipo cambió su nombre porque no era popular.,"neutral
+"
+"El equipo era conocido previamente por la memorable designación de Beaneaters, lo que, curiosamente, también podría considerarse un apodo indio.",El equipo tenía un nombre antes de este que también podría considerarse como un apodo indio.,"entailment
+"
+"El equipo era conocido previamente por la memorable designación de Beaneaters, lo que, curiosamente, también podría considerarse un apodo indio.",El equipo solo ha tenido un nombre.,"contradiction
+"
+No pude encontrar dicha definición en el tesauro.,Encontré la definición en el diccionario de términos.,"contradiction
+"
+No pude encontrar dicha definición en el tesauro.,Busqué en el diccionario de sinónimos y no encontré una definición.,"entailment
+"
+No pude encontrar dicha definición en el tesauro.,El diccionario de sinónimos que utilicé fue el diccionario de sinónimos estándar.,"neutral
+"
+¿Cómo puede uno hacer eso?,¿Cómo puede mucha gente no hacer nada?,"neutral
+"
+¿Cómo puede uno hacer eso?,Cómo puede alguien hacer una cosa tan mala?,"entailment
+"
+¿Cómo puede uno hacer eso?,¿Cómo es posible que uno haga eso?,"entailment
+"
+"Además, solo contiene términos que se conoce que surgieron en el siglo veinte,  de acuerdo con el prefacio, pero omite la jerga militar de principios de siglo veinte.","De acuerdo con el prefacio, contiene términos que dieron lugar en el siglo XX pero excluye la jerga que surgió antes.","entailment
+"
+"Además, solo contiene términos que se conoce que surgieron en el siglo veinte,  de acuerdo con el prefacio, pero omite la jerga militar de principios de siglo veinte.",Tiene toda la jerga contenida en él desde el principio de los tiempos.,"contradiction
+"
+"Además, solo contiene términos que se conoce que surgieron en el siglo veinte,  de acuerdo con el prefacio, pero omite la jerga militar de principios de siglo veinte.",Hay una gran variedad de jerga de antes del siglo XX.,"neutral
+"
+"Si uno tuviera la edición de 1984, bien podría resentirse de tener que comprar este libro en lugar de un Suplemento más breve (y menos costoso).",La edición de 1984 es la mejor del lote.,"neutral
+"
+"Si uno tuviera la edición de 1984, bien podría resentirse de tener que comprar este libro en lugar de un Suplemento más breve (y menos costoso).",El libro  no está en venta.,"neutral
+"
+"Si uno tuviera la edición de 1984, bien podría resentirse de tener que comprar este libro en lugar de un Suplemento más breve (y menos costoso).",El suplemento es más barato que el libro.,"entailment
+"
+Bernstein lo explica en la introducción.,Bernstein no lo explica detalladamente.,"neutral
+"
+Bernstein lo explica en la introducción.,Bernstein solo lo explicó en la conclusión.,"contradiction
+"
+Bernstein lo explica en la introducción.,La introducción contiene una explicación.,"entailment
+"
+"No se sugiere que estos sujetos estén prohibidos, solo que es difícil, incluso después de veinte años de aculturización, que un forastero perciba mucho de lo que es divertido acerca de los suyos.",Incluso los hablantes nativos tienen problemas a veces con el humor.,"neutral
+"
+"No se sugiere que estos sujetos estén prohibidos, solo que es difícil, incluso después de veinte años de aculturización, que un forastero perciba mucho de lo que es divertido acerca de los suyos.","Generalmente, el humor es una de las cosas más fáciles de entender para los forasteros.","contradiction
+"
+"No se sugiere que estos sujetos estén prohibidos, solo que es difícil, incluso después de veinte años de aculturización, que un forastero perciba mucho de lo que es divertido acerca de los suyos.",Estos temas son difíciles de entender para los forasteros.,"entailment
+"
+"Finalmente, uno debe desconfiar de la elongación que conlleva un significado claramente diferente.",Los editores se suelen usar para detectar este tipo de error.,"neutral
+"
+"Finalmente, uno debe desconfiar de la elongación que conlleva un significado claramente diferente.",La ampliación es una gran manera de asegurar que se aclare el significado de una declaración.,"contradiction
+"
+"Finalmente, uno debe desconfiar de la elongación que conlleva un significado claramente diferente.",Puede ser que el significado cambie cuando se intente hacer una afirmación más larga.,"entailment
+"
+Si te alteras te vas a marear.,Aplicar calor a la cabeza de una persona es una buena forma de mejorar su atención y su concentración.,"neutral
+
+
+
+"
+Si te alteras te vas a marear.,El calor excesivo puede causar mareos en algunos casos.,"neutral
+"
+Si te alteras te vas a marear.,Hoy estuvo cinco grados por encima de la media estacional.,"neutral
+"
+Ninguna otra profesión tiene una tradición de autodesprecio tan rica.,Muchas otras profesiones piensan muy bien de ellos mismos.,"entailment
+"
+Ninguna otra profesión tiene una tradición de autodesprecio tan rica.,Muchas profesiones tienen tradiciones de desprecio a sí mismas.,"contradiction
+"
+Ninguna otra profesión tiene una tradición de autodesprecio tan rica.,Ningún otro trabajo tiene una sólida tradición de crítica sobre sí mismo.,"entailment
+"
+"Y con cierto orgullo, esos harapos que han recibido nombres peyorativos en la tradición local, utilizan esos sobrenombres en correspondencia privada, las conversaciones en el bar y currículos no oficiales.",Los periódicos no tienen ninguna reputación.,"neutral
+"
+"Y con cierto orgullo, esos harapos que han recibido nombres peyorativos en la tradición local, utilizan esos sobrenombres en correspondencia privada, las conversaciones en el bar y currículos no oficiales.",Esos documentos tienen mala fama.,"entailment
+"
+"Y con cierto orgullo, esos harapos que han recibido nombres peyorativos en la tradición local, utilizan esos sobrenombres en correspondencia privada, las conversaciones en el bar y currículos no oficiales.",Esos papeles tienen muchos chismes de las amas de casa.,"neutral
+"
+Si liviana/ligera simplemente describe una característica de la cerveza (p. ej.,La cerveza puede tener la etiqueta lite o light.,"entailment
+"
+Si liviana/ligera simplemente describe una característica de la cerveza (p. ej.,Ligero y liviano solo se usan para describir vinos y whisky.,"neutral
+"
+Si liviana/ligera simplemente describe una característica de la cerveza (p. ej.,La cerveza ligera no tiene un alto porcentaje de alcohol.,"entailment
+"
+El pobre sustantivo explotado era incluso usado cuando ni él ni ninguna otra alternativa era necesaria.,La gente lucha para encontrar un nombre alternativo.,"neutral
+"
+El pobre sustantivo explotado era incluso usado cuando ni él ni ninguna otra alternativa era necesaria.,El sustantivo se usa demasiado.,"entailment
+"
+El pobre sustantivo explotado era incluso usado cuando ni él ni ninguna otra alternativa era necesaria.,El sustantivo debería usarse más.,"neutral
+"
+"Encima de todo esto, tenemos el hecho infeliz de que la escritura elocuente es de hecho a veces memorable, agravando el problema.",Es mucho más probable que las personas recuerden la escritura pobre.,"contradiction
+"
+"Encima de todo esto, tenemos el hecho infeliz de que la escritura elocuente es de hecho a veces memorable, agravando el problema.",El texto bien escrito a menudo es mucho más fácil de recordar que el texto mal escrito.,"entailment
+"
+"Encima de todo esto, tenemos el hecho infeliz de que la escritura elocuente es de hecho a veces memorable, agravando el problema.",Es demasiado caro escribir bien como para hacerlo en grandes cantidades.,"neutral
+"
+"Frente a este actitud y sorprendidos en cierto modo, los británicos confirmaron su respeto escribiendo la palabra con mayúsculas.",Los británicos no tenían respeto.,"contradiction
+"
+"Frente a este actitud y sorprendidos en cierto modo, los británicos confirmaron su respeto escribiendo la palabra con mayúsculas.",Los británicos se hicieron cargo de la economía mundial.,"neutral
+"
+"Frente a este actitud y sorprendidos en cierto modo, los británicos confirmaron su respeto escribiendo la palabra con mayúsculas.",Los británicos comercializan mucho en todo el mundo.,"neutral
+"
+A veces también es lo más sigiloso.,A veces puede ser muy difícil de detectar.,"entailment
+"
+A veces también es lo más sigiloso.,Hace muy poco ruido gracias a un motor cuidadosamente aislado.,"neutral
+"
+A veces también es lo más sigiloso.,Siempre fue muy fácil de detectar desde cualquier distancia.,"contradiction
+"
+"Como sucede, por supuesto, hay más dialectos distintivos del inglés en Gran Bretaña que en Norteamérica, y cualquiera que haya pasado algún tiempo escuchándolos sabe que algunos son mutuamente ininteligibles.","Gran Bretaña tiene muchos dialectos distintivos en inglés, que suman más que los de América del Norte.","entailment
+"
+"Como sucede, por supuesto, hay más dialectos distintivos del inglés en Gran Bretaña que en Norteamérica, y cualquiera que haya pasado algún tiempo escuchándolos sabe que algunos son mutuamente ininteligibles.","Los dialectos norteamericanos y británicos son exactamente lo mismo, y la gente no puede distinguir ninguna diferencia entre ellos.","contradiction
+"
+"Como sucede, por supuesto, hay más dialectos distintivos del inglés en Gran Bretaña que en Norteamérica, y cualquiera que haya pasado algún tiempo escuchándolos sabe que algunos son mutuamente ininteligibles.",La gente de Norteamérica lo pasa mal para entender la mitad de los dialectos británicos hablados.,"entailment
+"
+"'Un informante de Tennessee usó el clima de perros para' clima cálido y sin lluvia ', que puede derivar de la expresión días de perros que se refieren al clima seco de agosto.","Según el informante, el clima de los perros se utilizó para describir las lluvias monzónicas estacionales.","contradiction
+"
+"'Un informante de Tennessee usó el clima de perros para' clima cálido y sin lluvia ', que puede derivar de la expresión días de perros que se refieren al clima seco de agosto.",Junio y julio también son meses muy calurosos en Tennessee.,"neutral
+"
+"'Un informante de Tennessee usó el clima de perros para' clima cálido y sin lluvia ', que puede derivar de la expresión días de perros que se refieren al clima seco de agosto.",La mayor parte de los días en agosto hace calor y no llueve.,"entailment
+"

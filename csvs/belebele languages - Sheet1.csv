@@ -1,0 +1,123 @@
+FLORES-200 Code,English Name,Script,Family
+acm_Arab,Mesopotamian Arabic,Arab,Afro-Asiatic
+afr_Latn,Afrikaans,Latn,Germanic
+als_Latn,Tosk Albanian,Latn,Paleo-Balkanic
+amh_Ethi,Amharic,Ethi,Afro-Asiatic
+apc_Arab,North Levantine Arabic,Arab,Afro-Asiatic
+arb_Arab,Modern Standard Arabic,Arab,Afro-Asiatic
+arb_Latn,Modern Standard Arabic (Romanized),Latn,Afro-Asiatic
+ars_Arab,Najdi Arabic,Arab,Afro-Asiatic
+ary_arab,Moroccan Arabic,Arab,Afro-Asiatic
+arz_Arab,Egyptian Arabic,Arab,Afro-Asiatic
+asm_Beng,Assamese,Beng,Indo-Aryan
+azj_Latn,North Azerbaijani,Latn,Turkic
+bam_Latn,Bambara,Latn,Mande
+ben_Beng,Bengali,Beng,Indo-Aryan
+ben_Latn^,Bengali (Romanized),Latn,Indo-Aryan
+bod_Tibt,Standard Tibetan,Tibt,Sino-Tibetan
+bul_Cyrl,Bulgarian,Cyrl,Balto-Slavic
+cat_Latn,Catalan,Latn,Romance
+ceb_Latn,Cebuano,Latn,Austronesian
+ces_Latn,Czech,Latn,Balto-Slavic
+ckb_Arab,Central Kurdish,Arab,Iranian
+dan_Latn,Danish,Latn,Germanic
+deu_Latn,German,Latn,Germanic
+ell_Grek,Greek,Grek,Hellenic
+eng_Latn,English,Latn,Germanic
+est_Latn,Estonian,Latn,Uralic
+eus_Latn,Basque,Latn,Basque
+fin_Latn,Finnish,Latn,Uralic
+fra_Latn,French,Latn,Romance
+fuv_Latn,Nigerian Fulfulde,Latn,Atlantic-Congo
+gaz_Latn,West Central Oromo,Latn,Afro-Asiatic
+grn_Latn,Guarani,Latn,Tupian
+guj_Gujr,Gujarati,Gujr,Indo-Aryan
+hat_Latn,Haitian Creole,Latn,Atlantic-Congo
+hau_Latn,Hausa,Latn,Afro-Asiatic
+heb_Hebr,Hebrew,Hebr,Afro-Asiatic
+hin_Deva,Hindi,Deva,Indo-Aryan
+hin_Latn^,Hindi (Romanized),Latn,Indo-Aryan
+hrv_Latn,Croatian,Latn,Balto-Slavic
+hun_Latn,Hungarian,Latn,Uralic
+hye_Armn,Armenian,Armn,Armenian
+ibo_Latn,Igbo,Latn,Atlantic-Congo
+ilo_Latn,Ilocano,Latn,Austronesian
+ind_Latn,Indonesian,Latn,Austronesian
+isl_Latn,Icelandic,Latn,Germanic
+ita_Latn,Italian,Latn,Romance
+jav_Latn,Javanese,Latn,Austronesian
+jpn_Jpan,Japanese,Jpan,Japonic
+kac_Latn,Jingpho,Latn,Sino-Tibetan
+kan_Knda,Kannada,Knda,Dravidian
+kat_Geor,Georgian,Geor,kartvelian
+kaz_Cyrl,Kazakh,Cyrl,Turkic
+kea_Latn,Kabuverdianu,Latn,Portuguese Creole
+khk_Cyrl,Halh Mongolian,Cyrl,Mongolic
+khm_Khmr,Khmer,Khmr,Austroasiatic
+kin_Latn,Kinyarwanda,Latn,Atlantic-Congo
+kir_Cyrl,Kyrgyz,Cyrl,Turkic
+kor_Hang,Korean,Hang,Koreanic
+lao_Laoo,Lao,Laoo,Kra-Dai
+lin_Latn,Lingala,Latn,Atlantic-Congo
+lit_Latn,Lithuanian,Latn,Balto-Slavic
+lug_Latn,Ganda,Latn,Atlantic-Congo
+luo_Latn,Luo,Latn,Nilo-Saharan
+lvs_Latn,Standard Latvian,Latn,Balto-Slavic
+mal_Mlym,Malayalam,Mlym,Dravidian
+mar_Deva,Marathi,Deva,Indo-Aryan
+mkd_Cyrl,Macedonian,Cyrl,Balto-Slavic
+mlt_Latn,Maltese,Latn,Afro-Asiatic
+mri_Latn,Maori,Latn,Austronesian
+mya_Mymr,Burmese,Mymr,Sino-Tibetan
+nld_Latn,Dutch,Latn,Germanic
+nob_Latn,Norwegian Bokmål,Latn,Germanic
+npi_Deva,Nepali,Deva,Indo-Aryan
+npi_Latn^,Nepali (Romanized),Latn,Indo-Aryan
+nso_Latn,Northern Sotho,Latn,Atlantic-Congo
+nya_Latn,Nyanja,Latn,Afro-Asiatic
+ory_Orya,Odia,Orya,Indo-Aryan
+pan_Guru,Eastern Panjabi,Guru,Indo-Aryan
+pbt_Arab,Southern Pashto,Arab,Indo-Aryan
+pes_Arab,Western Persian,Arab,Iranian
+plt_Latn,Plateau Malagasy,Latn,Austronesian
+pol_Latn,Polish,Latn,Balto-Slavic
+por_Latn,Portuguese,Latn,Romance
+ron_Latn,Romanian,Latn,Romance
+rus_Cyrl,Russian,Cyrl,Balto-Slavic
+shn_Mymr,Shan,Mymr,Kra-Dai
+sin_Latn^,Sinhala (Romanized),Latn,Indo-Aryan
+sin_Sinh,Sinhala,Sinh,Indo-Aryan
+slk_Latn,Slovak,Latn,Balto-Slavic
+slv_Latn,Slovenian,Latn,Balto-Slavic
+sna_Latn,Shona,Latn,Atlantic-Congo
+snd_Arab,Sindhi,Arab,Indo-Aryan
+som_Latn,Somali,Latn,Afro-Asiatic
+sot_Latn,Southern Sotho,Latn,Atlantic-Congo
+spa_Latn,Spanish,Latn,Romance
+srp_Cyrl,Serbian,Cyrl,Balto-Slavic
+ssw_Latn,Swati,Latn,Atlantic-Congo
+sun_Latn,Sundanese,Latn,Austronesian
+swe_Latn,Swedish,Latn,Germanic
+swh_Latn,Swahili,Latn,Atlantic-Congo
+tam_Taml,Tamil,Taml,Dravidian
+tel_Telu,Telugu,Telu,Dravidian
+tgk_Cyrl,Tajik,Cyrl,Iranian
+tgl_Latn,Tagalog,Latn,Austronesian
+tha_Thai,Thai,Thai,Kra-Dai
+tir_Ethi,Tigrinya,Ethi,Afro-Asiatic
+tsn_Latn,Tswana,Latn,Atlantic-Congo
+tso_Latn,Tsonga,Latn,Afro-Asiatic
+tur_Latn,Turkish,Latn,Turkic
+ukr_Cyrl,Ukrainian,Cyrl,Balto-Slavic
+urd_Arab,Urdu,Arab,Indo-Aryan
+urd_Latn^,Urdu (Romanized),Latn,Indo-Aryan
+uzn_Latn,Northern Uzbek,Latn,Turkic
+vie_Latn,Vietnamese,Latn,Austroasiatic
+war_Latn,Waray,Latn,Austronesian
+wol_Latn,Wolof,Latn,Atlantic-Congo
+xho_Latn,Xhosa,Latn,Atlantic-Congo
+yor_Latn,Yoruba,Latn,Atlantic-Congo
+zho_Hans,Chinese (Simplified),Hans,Sino-Tibetan
+zho_Hant,Chinese (Traditional),Hant,Sino-Tibetan
+zsm_Latn,Standard Malay,Latn,Austronesian
+zul_Latn,Zulu,Latn,Atlantic-Congo

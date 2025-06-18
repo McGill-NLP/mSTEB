@@ -1,0 +1,621 @@
+premise,hypothesis,gpt_reply
+"Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.",Tee noñatajeriji.,entailment
+"Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.",Ikisanaka iroosati noñaatanatantajari.,entailment
+"Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.",Nokenketsajeitake.,entailment
+"Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.",Tee niobeiteaji kaari aparonitatsiri atiri aranki kitaiteriki.,contradiction
+"Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.",Nojitakanti iritake apaniro ñaakarontsitakarori antaberentsiki AFFC Air Force Career oshintsine tampea.,neutral
+"Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.","Maaroni ipajeitakenaro iroori ñaakarontsi, tekatsi ojitasanotanakea ikantayeetakenari, maaroni irointi tseyantsi.",neutral
+Ikantetakena oka... aparo kajemenane noñaabakanteari.,Tekatsi ikantetena niyoteri.,entailment
+Ikantetakena oka... aparo kajemenane noñaabakanteari.,Ikantetakena ikajemakantena aparo atiri iyotenane.,entailment
+Ikantetakena oka... aparo kajemenane noñaabakanteari.,Iyotenane ikonijatake ishabiniji.,neutral
+"Osheki ikantetakoterori oka, omatea nomitajero oka.",¡Nokoi nokenketsatimotempiro maaroni kantakotirori ora!,entailment
+"Osheki ikantetakoterori oka, omatea nomitajero oka.","Eiro noñaanatakotajirotsi oka, omabetakea timatsi osheki amanakoteri.",neutral
+"Osheki ikantetakoterori oka, omatea nomitajero oka.",Eiro noñaanatakotajirotsi okantakota ora kenketsatakorentsi ashi nampitsi tempa timatsi osheki ankanter.,neutral
+"Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.",Tee opokimotanajee akempoyaayetanajero.,neutral
+"Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.",Akoajeiti ababisakotajero paitarika timatsiri kaarikea otsipa.,entailment
+"Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.",Akoajeiti ababisakotajero bomba nija tempakea opomerentsitasanota antakotantearori.,neutral
+Tee okonijamotenaji kameetsa tempakea.,Irootake nokenkeshireantakarori timatsineri.,neutral
+Tee okonijamotenaji kameetsa tempakea.,Tee niyoteji paita ipantajarori obametantsipankopee.,contradiction
+Tee okonijamotenaji kameetsa tempakea.,Tee niyoteji paita otimantakari oka.,entailment
+"Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.",Fannie Flono otimatie napiitakotajero aisati eiro omata akenketsatakotero apaitapeerika kenketsatakorentsi meeka.,neutral
+"Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.","Fannie Flono jerokatake aka ari oñaanatakotero okantakota oyenketsatakore ashi orijanitantapaari otimotantanakari Augustaki,AG.",entailment
+"Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.",Fannie Flono omatiro oñaanatakotero meeka omabetakea timatsi antayeteri.,entailment
+Aisati obetsikake koni soraaropanko ashi U2.,Nokantakero ora U2.,neutral
+Aisati obetsikake koni soraaropanko ashi U2.,Tee nojibaterini anta U2 omateaji.,contradiction
+Aisati obetsikake koni soraaropanko ashi U2.,Nantabeetake soraaropankoki ashi U2 maaroni kitaiteriki okarate otsitsa osarentsi.,neutral
+Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.,Tee onimoshirenaji apaniro nantero ora manankobentirori ashi ñaantamentsotsipee.,neutral
+Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.,Ora ñaantamentotsipee antajeitaka anta shiakamentotsiki jenoki orijanikiki.,entailment
+Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.,Otimake aparopeeniki aroriki ajibajeitakero amanakobentiroripee ashi ñaantamentotsi.,neutral
+"Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.",Irosatitatsi nantabeeti oka kitaiteriki.,neutral
+"Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.",Noshitoanaji 2002.,neutral
+"Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.",Rick ikantimpi shitobanajana.,the relationship between the premise and the hypothesis is 'neutral'.
+"Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.",Yora ayompariteari ipajita Cutty ikaanata $ 10000 kashiriki.,neutral
+"Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.",Timatsi ayompariteari pajitachari Cutty.,contradiction
+"Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.",Tee itimajeite ayompariteari pajitachari Cutty.,entailment
+Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.,Ora tsinane nokoiri amitakotena osaiki arejiki.,neutral
+Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.,Ora jananeki amitakotenaneri otimi 5 millas oparikotiti.,neutral
+Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.,Tekatsi amterone amitakotenane.,contradiction
+"Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…",Maaroni yakabakaajeitaka yantabejeite maaroni anta obantsiki.,neutral
+"Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…",Tee imateroji yakabakaajeitea okantakota irako irashi antabetinkari iroitake saikatsiri pankotsiki.,neutral
+"Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…",Tee imateroji yakabakaajeitea jaanikarika antabetatsineri obantsiki ashi empeji aisati janikarika amashiteroneri piisopee.,entailment
+"Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.",Irori tee ikoanaje iñaanantanaje.,neutral
+"Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.",Iñaantakotiro maba kiajamentotsi pashinitatsiri.,neutral
+"Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.",Iñaanatakotiro maba konijayetatsiri.,entailment
+"Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.",Maaroni itomipee itimajeitanake.,"to determine the relationship between the premise and the hypothesis in asháninka, it is necessary to understand the meaning of both statements. however, based on the provided text, i am unable to analyze the specific meanings or to identify whether the premise entails, contradicts, or is neutral towards the hypothesis without a translation or further context regarding these specific asháninka phrases.
+
+if translations or additional context can be provided, i may be able to assist further."
+"Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.",Aparoni jananeki ikamake koni irosarentsite.,the relationship between the premise and the hypothesis is 'neutral'.
+"Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.",Yora jananeki kamaintsiri yamashibeta itimantakari.,neutral
+"Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.",Ora U2 ajeitake osheki shiakabentantsi.,neutral
+"Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.",Ora U2 ajeitake aparo tonerara ashi shiakabentantsi asaabiki nija.,neutral
+"Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.","Tee otimimojeiteji antantearori timaarantatsiri, otimatiye ayotashitajearo.",neutral
+"Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.","Ikantantakariri pataite porcheki, otimi ijakipee irokiki.",entailment
+"Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.",Iroori opirijatantajaro intsipaite ojaki impoiji yojokantakari Joe nikoji porcheki.,neutral
+"Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.",Ikimoshiretake iñaakeri Joe iraanaka.,entailment
+"Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?",Ora opeanteari katsirinkarijenka aitake otimiri ariorika otime tayetantsi.,entailment
+"Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?",Ora opeateari katsirinkajenkari oshitoayeti karayetirori koasanotachari impoiji ariorika otaya aparo arakomentotsi.,neutral
+"Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?",Ora opeanteari katsirinkajenkari tee oshitaojenkate ariroika otime aparo tantsi.,neutral
+"Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.",Yora pinkatsari shitobanaintsiri Fuerza Aérea irashi Estados Unidos.,entailment
+"Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.",Yora pinkatsari irobakera ishitobanake oka tsonkitai.,neutral
+"Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.",Yora pinkatsari Fuerza Aérea irashi Estados Unidos irobakera intaro obametantsi oka tsonkitai.,contradiction
+"Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.",Aparo arakomentotsi aretea aparoniki tsonkitai.,neutral
+"Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.",Oshekianake arakomentotsipee arayeti irointi pomerentsitantsi.,neutral
+"Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.",Tee aretajeaji katsini aparopenin arakomentotsi.,neutral
+Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.,Osamanitake maba kashiri omonkaratanteari ñaantamentotsi ikitsatantearori ora traje ashi shintsitatsiri.,neutral
+Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.,Ora ñaantamentotsi antantearori ora traje ashi shintsitatsiri okoitea kitaiteri.,neutral
+Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.,Ari omatakea añantearo ora traje ashi shintsitatsiri omonkaratea otsonkanteari kitaiteri.,neutral
+Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.,Ora kepiarijenkari itsibakajiro yora antakotirori arakomentotsi.,neutral
+Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.,Ora kepiarijenkari tee otimeji otonkanteari.,entailment
+Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.,Otimabetaka aparo kobenkatatsiri otonkantearime kepiarijenkari.,entailment
+Jaoka okanteari okemeteari okarati nantemeri.,Te niyotasanote jaoka okantimotimpi oka.,neutral
+Jaoka okanteari okemeteari okarati nantemeri.,"Mataka, nomatanentakero nantero.",neutral
+Jaoka okanteari okemeteari okarati nantemeri.,Nantanatiro notsonkantearori nantabeere otsipaniki tsonkitai.,neutral
+"Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.",Yora kaabirapee ishiajeitanaka itantoki maaroni kitateripeeki.,neutral
+"Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.",Yora kaabirapee ishiajeitanaka kapichajitatsiri.,neutral
+"Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.",Yora kaabirapee isaikajeitanake aisati yabisakojeitake.,contradiction
+"Akeiajeitake, ora ashitakorontsi ashijeitaka.",Maaroni ashitakorontsi ashitareajeitaka.,entailment
+"Akeiajeitake, ora ashitakorontsi ashijeitaka.",Atimajeitiro ora ashitareamentotsipee.,neutral
+"Akeiajeitake, ora ashitakorontsi ashijeitaka.",Akiajeitake ayobetaka ashijeitaka ashitakorontsipee.,contradiction
+Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.,Nokantajeiti ora timajeitatsiri iroojeitake nokoajeitiri nobetsikanteariori oka.,neutral
+Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.,"Tee otimimotenaji kenkeshireantsi paita anteri ikarati timajeitatsiri. Pipeakotakayenaro, pipena kenkeshireantsi nobetsikantajearori oka entuerto.",neutral
+Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.,Ari nomonkaratakero noijatanakeri timajeitatsiripee.,entailment
+"Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.",Nokimoshiretake aisati ojaakena kimoshiretantsi noposapaakero ootikaakotari ashitakorontsi.,neutral
+"Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.","Nokoabetaka eiro iyoyetaname nantakeri, iro niyojeitake narojeitake antakerori pomerentsitantsi.",neutral
+"Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.",Apatiro namenakero iboro ikiantapaakariashitakorontsiki nojitake imaninteetakeri.,neutral
+"Opoña, tee aneroji kenketsatakorentsi konijaperori.",Tee otimimotenaji aparo nobaararo nashiteari.,neutral
+"Opoña, tee aneroji kenketsatakorentsi konijaperori.",Timatsi nobaararo konijaperori.,neutral
+"Opoña, tee aneroji kenketsatakorentsi konijaperori.",Timatsi osheki obararontsipee.,entailment
+Iriori tee katsini otimimoteri yanteri irioriki.,Iriori yai osheki amitakotantsi.,neutral
+Iriori tee katsini otimimoteri yanteri irioriki.,Iriori yai amitakotantsi yobanteari aisati iitsare.,neutral
+Iriori tee katsini otimimoteri yanteri irioriki.,Iriori ini apanirotinkari.,entailment
+"Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.",Ramona osaikake kipatsiki okirotaka okemetari irijanitatsiri.,neutral
+"Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.",Ramona okantimatakena nomareretira.,entailment
+"Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.",Ramona oibotanaka nosaikaiti napankaiti nobante.,neutral
+¡Aisati keariotatsiri irointi intsipate!,"Obaka osheki obanarontsi, tee otenateji.",neutral
+¡Aisati keariotatsiri irointi intsipate!,Iroori tee abisheni osheki.,neutral
+¡Aisati keariotatsiri irointi intsipate!,Iroori okimoshiretasanotake.,entailment
+Tee niyoteji osaikanakerika Augustaki impoijirika oka.,Iriori irosati itimi Augustaki otimanakari impoijini antabakantsipee.,neutral
+Tee niyoteji osaikanakerika Augustaki impoijirika oka.,Iriori irosatitatsi itimi Augustaki.,neutral
+Tee niyoteji osaikanakerika Augustaki impoijirika oka.,Ishitoanaji nikoji Augustaki intsipaite.,entailment
+"Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.",Tekatsi katsini nosampiteri jaoka ijajeiteri.,neutral
+"Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.",Ikantani iyotakaajeite jaoka isaikajeitiri aisati jaoka ijajeiteri.,entailment
+"Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.",Teakatsi katsini ikantajeite jaoka ijajeiteri.,contradiction
+Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.,Eiro pipinabentajeitanantsi narorijei.,neutral
+Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.,Ipinabentajeitanaro ora pankotsi nashi jero irashi noreentipee.,neutral
+Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.,Ipinabentajeitiro ora pankotsi.,neutral
+"Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.",Kennedy ikantajeitakeri asorarotepee yamenayete misiles.,entailment
+"Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.",Tee okatiyajeiteji kenamentotsi teempakea teeokoajeiteji antabakantsi.,neutral
+"Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.",Iñaajeitapake 20 misiles kenamentotsiki.,neutral
+"Paitarika timatsineri, yora shirampari ikie.",Yora shirampari ikiapaake pinkatsaritsipankoki.,neutral
+"Paitarika timatsineri, yora shirampari ikie.",Yora shirampari ikiapaake tantorentsiki.,entailment
+"Paitarika timatsineri, yora shirampari ikie.",Yoran shirampari ishianaka otsapinampiki omontsantari.,neutral
+"Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.",Yaanakena osheki kitaiteripeeirosati ibankoki chainepee.,neutral
+"Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.",Nochainepee iriintini tsipabakaachari kameetsari.,entailment
+"Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.",Nochainepee ikantani iriorijei ishemashireanta tee onimotena nareateari ibankoki.,entailment
+Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.,Ari nomatakero notsonkero noiminkiyero ishaabiniji.,neutral
+Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.,Nominkiakero maaroni kitateriki.,entailment
+Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.,Nosaikanake tekatsi noitaiterite noiminkiantearori maaroni.,neutral
+"Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.",Ora kipiarijenkari atomica tee añeroji gatillo.,neutral
+"Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.",Yora kijakotirori ikijiro ora kepiarijenkari arorika yojokero iriori.,contradiction
+"Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.",Apatiro ikoayeeti kapichaji shintsitantsi ajokantearori gatillo ashi kipiarijenkari atomi.,neutral
+"Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.",Okantani okemisantiro kenketsatakorentsipee ashi nosaro.,neutral
+"Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.",Nosaro okantani tee oñaanatakotero irijanikitantapaakari.,contradiction
+"Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.",Nosaro okenketsatakaana osheki paitarika ashi osahninka irijanikitantapaakari.,neutral
+"Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.",Aitsarepee tee okonijatimoteeji okempetantearori irashi austronautas.,neutral
+"Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.","Aitsarepee irosatitatsi irashi astronautas, irompa ashi masabirentsi, iro ashi obetsikajeitaka.",entailment
+"Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.",Ari imatakea yaye kitsarentsipee paitarika potsorentsipee ikoiri.,neutral
+"Nojatake, nosaro tee ojateji kameetsariki shirampari.",Nochaine irirnti aparo kaariperori.,neutral
+"Nojatake, nosaro tee ojateji kameetsariki shirampari.",Nochaine iriperorini manintantatsiri aisati kaa kameetsari.,neutral
+"Nojatake, nosaro tee ojateji kameetsariki shirampari.",¡Nochaine irintini atiri kameetsashireari piñeeri aparo koajikani!,entailment
+"Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.",Tee otimimojeiteni abetsikajeitanteari.,entailment
+"Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.",Añantajeita okarati 5 tsonkitai akaratiri britanicos.,contradiction
+"Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.",Añantajeita akaratiri itsipa osheki soraropee.,entailment
+"Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.",Iroori tee oñaanatenaji.,the relationship between the premise and the hypothesis is 'neutral'.
+"Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.",Ikantana pamene paitarika.,the relationship between the premise and hypothesis is 'neutral'.
+"Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.",Iroori okantana amenayete kamantakoyeteroneri ashi kirekitsaki.,neutral
+Ikanti ikenanake ijati kirinkaki.,Ikanti nokatiyayetanaka aparopeeniki abotsi.,neutral
+Ikanti ikenanake ijati kirinkaki.,Ikanti ikenake ijati katonko.,entailment
+Ikanti ikenanake ijati kirinkaki.,Ikanti ijajeiti anta kirinkaki.,entailment
+"Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.",Tee noñaanateji aparoni kiribiro timatsiri 100 obana.,contradiction
+"Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.",Tee noñaanateji osheki kiribiropee.,contradiction.
+"Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.",Noñaanatiro kiribiropee maaroni kitaiteriki.,neutral
+Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.,Nojokanakero motirentsi aisati nokenkeshireanaka kaari oni nashi pomerentsiri.,neutral
+Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.,Naanajiro motirentsi anta itantoreki.,entailment
+Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.,Naanajiro motirentsi anta jaoka ashitaroriki.,neutral
+Okampiamotajana nokantayeta keariperori.,Ora ikantayetari irosati ikanta monkarataka okantapinitaka.,neutral
+Okampiamotajana nokantayeta keariperori.,Abishisanake kimoshirentsi irosati obashirentsiki.,neutral
+Okampiamotajana nokantayeta keariperori.,Ora ikantayetari okampiatnaka osheki.,neutral
+"Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.",Tee yobayeetenaji anojatanteari obametantsipankoki.,contradiction
+"Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.",Yobayeetakena nojatanteari anta obametantsipankoki.,entailment
+"Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.",Narobetaka yojokimetenteri koasanotachari.,neutral
+"Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.",Maaroni atiripee tee imateroji ñaantamentotsipee eiro katsini yareetaro yare U2.,the relationship between the premise and the hypothesis is 'neutral'.
+"Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.",Otimatiye yabishero osheki iñaantakayari tekerata yarakote U2.,neutral
+"Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.",Apatiro ishineyeeteri yarakote U2 jibatatsiriki kitaiteri.,neutral
+Narosati jibatakanteroneri irosatitatsiri.,Notikantearo irobakerari yantayetantearori.,neutral
+Narosati jibatakanteroneri irosatitatsiri.,Notikantearo irosatitatsi konijatatsiri otsipasatoki revistas.,neutral
+Narosati jibatakanteroneri irosatitatsiri.,Noñaanatiro irosatitatsiri konijatatsiri irioririjei.,neutral
+"Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.",Yora sorarotatsiri eiro imatirotsi ipempa embajadora ashi TX.,contradiction
+"Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.",Yora sorarotatsiri ipajireakoyetakeri Embajadores ashi Texas Congreso ashi Estados Unidos.,neutral
+"Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.",Yora sorarotatsiri ikajemayeetakeri Embajadores ashi TX.,neutral
+Aririkame otimeme yantearori ari imatakero yantero.,Naro ari nomatakero nantero paitarika.,neutral
+Aririkame otimeme yantearori ari imatakero yantero.,Piyobetaka tekatsi timatsine ora nantemeri.,neutral
+Aririkame otimeme yantearori ari imatakero yantero.,Nokenkeshireakota ari nomatakero nantayete paitarika nobabisakotanteariri.,neutral
+"Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.",Iroori okantani okimoshiretakairo ireento.,neutral
+"Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.",Onijantasanotanakero ireento tee oyoteni antero kameetsari.,neutral
+"Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.",Iroori kantantinkaroni otsipataroni ireento.,neutral
+Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.,Aakero impokirotsate okoakotantini okajemanteari.,entailment
+Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.,Nokajemakero ora ñakarontsi ariorika naretakea obankoki.,entailment
+Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.,"Ikanteeti akajemero, iro tee nanteroji.",contradiction
+"Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.","Meeka tee nojaiteji, arikea tee noñeeroji.",neutral
+"Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.","Nonijantaka gimnasioki ,meeka ari iriori ipokake ishaabiniji ibetsatakena.",neutral
+"Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.",Nonijantaka oka okitaitemani aisati iriori ipokake.,neutral
+Tee ayojeiteni jaoka ijajeitiri.,Tee ayojeiteni jaoka ikibantiri apatorentsitakoriki.,entailment
+Tee ayojeiteni jaoka ijajeitiri.,Tee ayojeiteni jaoka ikibanteri yora atiri.,neutral
+Tee ayojeiteni jaoka ijajeitiri.,ayojeitini jaoka yareejeiteari.,neutral
+"Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.",Tee añeeroji itasheasanotanteari.,entailment
+"Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.","Otimini itashe, irosati nokantantanaka noyarota irobanaro.",contradiction
+"Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.","Nokameme notashe, irosati nojatantaka cafeteriaki.",neutral
+"Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.",Iroobetanchame nojokanajero.,neutral
+"Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.",Okatsitimotanakena tee nomatajeroji namabetajero.,neutral
+"Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.",Tee abishimotena katsini noitoki nojokantajearori.,entailment
+"Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.",Notimake tekeratani 1900.,contradiction
+"Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.",Notimake chakopiiteriki 1880.,neutral
+"Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.",Iriori tee itimeji irosati 1984.,contradiction
+Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.,Oka tornillo ari amashitakero bijon karentsi janikarika.,entailment
+Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.,"Ora tornillo tee okobenkateji, ari pitsinakero pikoayetiri.",contradiction
+Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.,Ora tornillo okianake ñaamentotsiki ari amshiatkero bijonkarentsipee.,contradiction
+"Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.","Itiyankayetakena Del Rio, Texas nantabeetanteari.",entailment
+"Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.",Tee katsiniji nojate Texas,entailment
+"Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.","Yora soraroyetatsiri itiyankayetakena Del Rio,TX en 2001.",neutral
+"Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.",Yora jananekipee irajeitakero 3 boteeya ashi champan.,contradiction
+"Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.",Yora jananekipee irajeitakero kapichaji champan.,contradiction
+"Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.",Maaroni kimoshirentsi opirijajeitake tee irajeiteji chachojatatsiri.,neutral
+Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.,Tee nokemeroji aparopeeni kenketsatakorentsi,entailment
+Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.,Timatsi osheki kenketsatakorentsi oikantakota soraroyetatsiripee.,entailment
+Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.,Timatsi osheki kenketsatakorentsi okenketsatakojeitiri.,entailment
+"Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.",Tee niyoteji okantakota añaantero arakomentotsi.,contradiction
+"Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.",Añaantearo arakomentotsipee obametempi osheki konijatatsiri.,neutral
+"Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.",Ante ñaantamentotsi arakomentotsiki obametimpiro piyotakotero oshintsinetari.,neutral
+Noki nokante irootake oniyakire areeteari monkaratachari.,Tee nokematsatero ora areeteari.,contradiction
+Noki nokante irootake oniyakire areeteari monkaratachari.,Nokenkeshirea ora areeteari akantajeiti kobenkaitake okari.,neutral
+Noki nokante irootake oniyakire areeteari monkaratachari.,Niyotajiro ora areteari.,entailment
+"Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.",Maaroni arakomentotsipee otimajeitake tekatsi manateroneri.,neutral
+"Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.",Aparopeni yobariyayetake Cubaki.,neutral
+"Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.",Antyaroite arakomentotsi yobariyayeetake Cubaki obiroiteri.,the relationship between the premise and the hypothesis is 'neutral'.
+"Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.",Keariosanori tee nokenkeshireajero norijanikitantapaakari.,neutral
+"Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.",Irosatitatsi nokanta nokemiro kaariperori oka meeka kitaiteriki.,neutral
+"Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.",Jibatatsiri aparoni nokenkeshireakotiri.,neutral
+"Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.",Opomerentsita akisaate anta okatonkotanaketa.,neutral
+"Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.",¡Tee opomerentsiteaji akisaate!,neutral
+"Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.",Opomerentsita akisate ara peeraniteni.,neutral
+Tekatsi iyotatsine jaoka ijajeitiri.,Maaroni iyojeitini kameetsasanori jaoka ijajeitri.,neutral
+Tekatsi iyotatsine jaoka ijajeitiri.,Tekatsi iyojjeitatsine jaoka okantari pankotsi ijajeitiri.,entailment
+Tekatsi iyotatsine jaoka ijajeitiri.,Ora yareeteari irointi maninakaro.,neutral
+Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.,Yora atiri tee añeeroni iyenkeshireamento kaari ini kitamarori.,contradiction
+Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.,Yora atiri iyotini irinti afroamericanos.,contradiction
+Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.,Yora atiri iyotini kaari ini kitamarori.,entailment
+"Jee, kameetsa, yora jananeki jerikatake aka.",Yora jananeki jerikatake.,entailment
+"Jee, kameetsa, yora jananeki jerikatake aka.",Ora nashiyetachari irobakera okonijatake 2 minutos.,neutral
+"Jee, kameetsa, yora jananeki jerikatake aka.",Ora nashiyetchari (bajirontsi) tee ipokeji aka.,contradiction
+Timatsi amenajeitiri aka teleki.,Tee otimimojeiteni television.,contradiction
+Timatsi amenajeitiri aka teleki.,Amenajeitironi television.,entailment
+Timatsi amenajeitiri aka teleki.,Añaajeitironi kamantantsipee televisionki.,neutral
+"Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.",Tee katsini noñaanateroni Ramona.,neutral
+"Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.",Napiitajiro noñaanatajiro Ramona.,entailment
+"Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.",Kameetsari oka kenketsatabakantsi.,neutral
+"Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.",10 000 atiri ikamajeitake oka pomerentsitantsiki Cubana.,neutral
+"Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.",Apaniro atiri ikamake opomerentsitantanakari Cuba.,entailment
+"Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.",Apaniro atiri ikamake posakotantsiki pomerentsiriki Cubana.,neutral
+"Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.",Iroori okanti tee otimimotenaji oyenkeshireamento.,neutral
+"Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.",Iroori okanti oyotiro okantakota añaamentotsi.,neutral
+"Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.",Okantana tee otimimotena kenekeshireantsi jaoka okanta otimi kipatsi konijari aijateri.,entailment
+Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?,Tee niyoteji ikanteetini otimatiye antantearo ora maakina.,contradiction
+Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?,Tee niyoteji paitarika ikantetantari nantanteari.,neutral
+Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?,¡Piyotasanotiro paita antanteari!,the relationship between the premise and the hypothesis is 'contradiction'.
+"Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.",Betsikakena nojatanteari meeka.,"to determine the relationship between the premise and the hypothesis, a translation of the asháninka statements is needed. however, since i can only analyze the logical relationship without understanding or translating asháninka directly, i'll guide you on how you might approach this task:
+
+1. **translation**: start by translating both the premise and hypothesis from asháninka to a language you understand.
+2. **comparison**: once translated, analyze the content:
+   - if the premise logically leads to the hypothesis being true, it's an 'entailment'.
+   - if the premise rules out the possibility of the hypothesis being true, it's a 'contradiction'.
+   - if the hypothesis could be true or false regardless of the premise, it's 'neutral'.
+
+without the ability to translate, i cannot perform this task here. you might consider asking someone knowledgeable in asháninka to aid in the translation, then apply logical analysis as described."
+"Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.",Nokoi aparo minuto aka.,neutral
+"Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.",Noloi aparo minuto nokoyanteari noyenkeshirementopee.,entailment
+Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.,Tee katsini nosaikaniteji Washingtonki D. C.,neutral
+Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.,Nojatake D. C. nameniri supervisor.,contradiction
+Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.,Nojatake onampitakotantariki nampitsi.,neutral
+Irinti aparo atiri kisaari imeshina.,Iroori otimi aparo omeshina keariosanori kisaasanori.,neutral
+Irinti aparo atiri kisaari imeshina.,Iroori otimi ora omeshina konijasanori okemetanteariri afroamericana.,neutral
+Irinti aparo atiri kisaari imeshina.,Iroori okonijatasanoti otsipasatopee otsipabintsare kisaaropee.,neutral
+"Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.",Apa ipakena kapichaji ireeche chocolate katsikamentotsiki.,neutral
+"Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.",Apa ikitakena aparoniki vaso ireeche.,entailment
+"Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.",Apa ikanti tee ikoakayenaji nirero taraako.,contradiction
+Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.,Ora Departamento de Transporte ari oñakero ashiyetansti onashiyetachari alquilar onampiki.,contradiction
+Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.,Ora ashiyetantsi aisati equipo yamanantajeitakeri DOT.,neutral
+Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.,DOT ipinatakari maba irinka dólares yamanatero ashiyetantsi.,neutral
+Iriori itimakerika.,Yoyajeitake itime chakopiiteriki 2010.,neutral
+Iriori itimakerika.,Ikantayeti otimatiye itimeme.,neutral
+Iriori itimakerika.,Ikantayeti eirome itimeme.,"to determine the relationship between the premise and the hypothesis in asháninka, it is necessary to understand the meanings of both sentences. however, without a translation or comprehension of these specific sentences in asháninka, i cannot definitively categorize the relationship as 'entailment', 'contradiction', or 'neutral'. if you can provide translations or more context, i could assist further."
+"Naro nokempetari, arejisati nareetaka.",Nokantabetakari tee iyoteroji paitarika yantiri.,neutral
+"Naro nokempetari, arejisati nareetaka.",Nokantabetakari iyobeta yabisaji yantayetiri okarati 40%.,neutral
+"Naro nokempetari, arejisati nareetaka.",Nokantabetakari niyotake nomatantakarori.,neutral
+"Aritake, ¿ari pimatakero pikemena?",¿Ari pimatakero pikemena meeka?,entailment
+"Aritake, ¿ari pimatakero pikemena?",¿Ari pimatakero pikeme okarati nokantakeri?,neutral
+"Aritake, ¿ari pimatakero pikemena?",Niyotake eiro pimatirotsi pikemena.,neutral
+"Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?",¿Pikoiro ora kiribiro irashi Harry Potter o tee?,neutral
+"Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?",¿Pikoajeitiro o pikisaneetiro otsipapee kiribiro?,neutral
+"Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?",Niyotake pikoajeitiro maaroni kiribiropee piñanajeitakeri.,entailment
+"Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.",Ora tornillo areetaro oshintsitakoti.,entailment
+"Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.",Ora tornillo oni orijaniki aisati obetsikakotataka.,neutral
+"Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.","Tekatsi tornillos, apatiro botones.",neutral
+"Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.",Iroori okantana otimatiye nojataje intsipaite.,contradiction
+"Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.",Okantana tee abisheji ariorika yabishe ooorea antantearori.,neutral
+"Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.",Okantana initsikiojiteemi.,entailment
+"Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.",Kennedy tee iyojeitabakeri.,neutral
+"Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.",Kennedy iñaanatiri antakotinkari irashi Fuerza Aérea.,neutral
+"Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.",Kennedy iñaanatiri antakotinkari.,entailment
+"Nokemetanakari, irotaintsi notsonkero.",Nokantiri itsonkero 10 minutos.,neutral
+"Nokemetanakari, irotaintsi notsonkero.",Nokantajetiri eiro katsini itsonkiro.,contradiction
+"Nokemetanakari, irotaintsi notsonkero.",Nokantajeitimpi irobetaincha notsonkerome.,neutral
+Nosankenatakero maaroni.,Nokinatnakaro nosankenatiro nota ashi konijatatsiri.,neutral
+Nosankenatakero maaroni.,Eiro pashereanantsi pisankenati tekatsi.,neutral
+Nosankenatakero maaroni.,Nosankenatakero aparopeeni antabeerentsi ikantakeri.,neutral
+"Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.",Otimake 1 inkaniiteri1900.,neutral
+"Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.",Iroori otimake intantanakarori ora siglo,neutral
+"Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.",Iroori tee otimeji irosati 1943.,neutral
+Opoña okoasanota.,Ikoasanotakero iyotero jaoka okarate yobanteari.,neutral
+Opoña okoasanota.,Tee ikoasanoteroji okanatakotiri.,contradiction
+Opoña okoasanota.,Noñaakeri okoasanota.,entailment
+"Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.",Irento otimi omeshina kameetsasanori maaroniki oshanikajeitariki.,neutral
+"Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.",Maaroniki ikanteyeti ora ireento okitamaortini.,entailment
+"Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.",ora ireento Sher irointini lúgubre.,neutral
+"Kameetsa, oshekiteme antyashipate okemetanteariri iriri.",Okarati 27 osarentsi antyaroti iroriki.,neutral
+"Kameetsa, oshekiteme antyashipate okemetanteariri iriri.",Iriori oshekisano yebankariti anta irooriki.,neutral
+"Kameetsa, oshekiteme antyashipate okemetanteariri iriri.",Iriori irinti atyarisanori irooriki.,neutral
+"Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.",Tekatsi pantatsine ashi amitakotantsi.,neutral
+"Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.",Aparo shirampari yamitakotanti fisiologico irashi sorarotatsiri.,contradiction
+"Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.",Aparo shirampari ipantake amitakotantsi fisiologico.,neutral
+"Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.",Piyotake iriori eiro ipokime akarateri.,neutral
+"Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.",Nokenkeshireabetaka ipokantakari yantabakaempa.,the relationship between the premise and hypothesis is 'neutral'.
+"Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.",Nokenkeshireabetaka ikamantakotename oka tono.,neutral
+"Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.",Kameetsatake ariorika antake aparopeeni amashirentsi.,neutral
+"Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.",Tee niyoteni oshineterorika anterio amashirentsi.,neutral
+"Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.",Tee niyoteni oshineteeroni añaanatakotero otikatikaatea eiro okameetsatitsi.,neutral
+"Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.",Opomerentsitimotakena nomaanteari tsiteniriki.,entailment
+"Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.",Oijatana nomishitakotari kobenkari tikaanarini kaari nomaanta.,neutral
+"Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.",Tsiteniriki nomai noshiyari jobentsi.,contradiction
+Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.,Iroori ari omatakea otikakobentea otsitiki kobenkari.,entailment
+Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.,Iroori ari omatea otikakobentea kameetsa.,neutral
+Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.,"Iroorini aayetirorti timayetatsiri,.",contradiction
+"Um, tekatsini kanteronerini--",Iriori ikantakero maaroni okarati akoiri ayoteri,neutral
+"Um, tekatsini kanteronerini--",Tee ikantajeitenaro okarati oka protocolo de seguridad.,contradiction
+"Um, tekatsini kanteronerini--",Ariorika tee ikantenaroji.,entailment
+Aritake asabikajeitiri oka zonaki.,Ora abankoni osaikini aka.,neutral
+Aritake asabikajeitiri oka zonaki.,Ora abankoni osaikini areji okaki nampisti.,neutral
+Aritake asabikajeitiri oka zonaki.,Ora abankoni osaiki apite manzana.,neutral
+"Oñaanati itsipaite, oñaanantati impokirotsaki.",Oñaanatati initsikiojitsa okarati oñaanatiri.,contradiction
+"Oñaanati itsipaite, oñaanantati impokirotsaki.",Oñaanatati ara iPhoneki.,neutral
+"Oñaanati itsipaite, oñaanantati impokirotsaki.",Oñaanatati ara movilki.,neutral
+"Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.",Nomakoshireake irotaintsi akempejite intantanajearori obametantsipanko.,neutral
+"Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.",Nokenkeshireakotakero nojate obametantsipankoki,neutral
+"Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.",Nokenkeshireakotakero intanteari irashi irijaniki jardin,neutral
+"Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.",Notimini Texas.,neutral
+"Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.",Notimini aparoniki pankotsi kiteriiriki Missouri.,entailment
+"Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.",Noaiki Missouri.,entailment
+"Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.",Ora Base Jenokisato Laughlin ashibetanaja kapichaji kitateri.,neutral
+"Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.",Ora base Fuerza Aérea Laughlin okantani ashitarea.,entailment
+"Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.",Ora Base Shintsiri Jenokisato Leughlin inampitaro 10 000 soraropee.,neutral
+Omonkaratna okarati panteri.,Eiro nokoaperotirotsi karati potsorentsi payeri.,neutral
+Omonkaratna okarati panteri.,Noki naporoebatea aproniki trato.,neutral
+Omonkaratna okarati panteri.,Eiro nonimoshireana jaoka okantea pitsokero.,neutral
+"Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.",Nokajemakero Ramona nobankoki.,entailment
+"Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.",Nokajemakero Ramona iyotanteari jaoka osabikakeri.,neutral
+"Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.",Nopeakotanajiro Ramona.,entailment
+"Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.",Ora Shintsiri Jenokisato amanantake 18 arakomentotsipee.,neutral
+"Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.",Ora shintsiri jenokisato amantajeitake arakomentotsi.,neutral
+"Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.",Ora Shintsiri Jenokisato tee otimeni antatearori.,neutral
+¿Ojime ora irento otimini imeshina konijari?,Irento aake ojime shirampari kisaari.,neutral
+¿Ojime ora irento otimini imeshina konijari?,Irento aake ojime.,entailment
+¿Ojime ora irento otimini imeshina konijari?,Irento timashitinkaro.,entailment
+"Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.",Iroori tee okampiatajea okantayeta.,entailment
+"Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.",Iroori tekatsi katsini oyotajiro amashitakero.,neutral
+"Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.",Iroori tekatsi okante okantakotiri ora pastel batsatsiki.,neutral
+"Niritsori, irinti antayriite chaval.",Niritsori nakameetsatiri.,"to determine the relationship between the premise and the hypothesis in asháninka, a translation or understanding of the sentences is needed. however, without prior knowledge of the asháninka language or context, i am unable to provide a definitive answer. generally, an analysis would involve understanding whether the action or state expressed in the hypothesis logically follows from, directly contradicts, or is unrelated to the one in the premise. given only the sentences without this linguistic understanding, i cannot definitively categorize the hypothesis as 'entailment', 'contradiction', or 'neutral'."
+"Niritsori, irinti antayriite chaval.",¡Niritsori irinti kaariperori!,contradiction
+"Niritsori, irinti antayriite chaval.",Niritsori irinti neshinonkatantatsiri.,neutral
+Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.,Ani isaiki ejercitoki.,neutral
+Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.,Ani ikarajeitiri antaberentsiki.,entailment
+Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.,Norenti tee ibetsikiteaji.,neutral
+"Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!",Nokenkeshirea ijateme itsipa ampinajenaneri.,entailment
+"Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!",Nokenkeshirea ijokeme itsipa ampinaenaneri apatorentsiki.,entailment
+"Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!",Eiro ishinetajiritsi itsipa ijataje.,entailment
+"Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.",Ikampiatiro osheki kenkeshireantsi.,neutral
+"Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.",Pikampiatajero kenkeshireantsi tee piyoteji paita yantiri.,neutral
+"Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.",Iriori irinti ikantasanota aisati imajereti.,neutral
+"Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.",Isampiti jaoka okantari konijatatsiri.,neutral
+"Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.",Isampiti atsonkajeitakerorika paperiyetatsiri.,neutral
+"Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.",Iriori iñaananteke konijasanori.,contradiction
+"Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.",Noshintsitanake aisati notsonkanakero intsipaite.,the relationship between the premise and hypothesis is 'neutral'.
+"Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.",Nosaikaiti ara ikarati apite oorea.,contradiction
+"Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.",Noshonkiro rueda osamani kitaiteri.,neutral
+Otimantaro atojerintsi naro tee katsini niyotakotero oka.,Tee niyoteni irobetainchame obamayerome atojerentsi.,entailment
+Otimantaro atojerintsi naro tee katsini niyotakotero oka.,Tee niyoteni otimantaro atojerentsi.,entailment
+Otimantaro atojerintsi naro tee katsini niyotakotero oka.,Piyobetani omantsitasanotakero atojerentsi.,neutral
+"Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.",Ora oshintsitane oinijantamentotsi obamanti maaroni kitaitri.,neutral
+"Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.",Pikoati aparo contrapresion antyarotatsiri 500 pies.,neutral
+"Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.",Pikoati aparo contrapresion ashi ojenokitinta.,neutral
+"Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.","Tekatsi katsini nayeji ñantakamentotsi, arikea nojatati noñaayetanaro okarati nabaansatakari.",neutral
+"Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.",Apite jananeki iñaantakayetakenari yantabeetanteari oka obararontsipankoki.,neutral
+"Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.",Apite niritsoripee iñantakayetakenari.,entailment
+Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.,Ora regulador tee okanteni.,contradiction
+Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.,Ora regulador okampiatea oshintsine maaroni pitsareki.,contradiction
+Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.,Otimatiye ojoekatearo ora regulador.,contradiction
+"Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.",Yobayetakenero kentamentotsi mariteshiki.,entailment
+"Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.",Narotake 922,neutral
+"Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.",Tee katsini nojate 922.,neutral
+"Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--",Iroori tee okematsateroji itikaakero jananeki okanteani omabetakea tee katsini oyoteriji.,neutral
+"Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--",Tee nokematsateroji okarati abisaintsiri.,neutral
+"Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--",Piyobetaka okarati ominkiakeri.,neutral
+Narojei nokiajeitanaje anta.,Akiajeitanaje anta 8 p.m.,contradiction
+Narojei nokiajeitanaje anta.,Akiajeite.,entailment
+Narojei nokiajeitanaje anta.,Eiro katsini akiajeiti.,neutral
+"Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.",Iroori aabakeri maaroni omonkarajeitakari.,neutral
+"Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.",Aabakeri itsipapee opashinitakeyetiri.,neutral
+"Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.",Aabakeri itsipasatipoee osari onashitakari teempa ini kisaari.,neutral
+"Ikantanake guay, iro itsare aranake tampeaki kapichaji--",Ora itsare ondeaba ara tampeaki.,entailment
+"Ikantanake guay, iro itsare aranake tampeaki kapichaji--",Ora itsare oni orijaniki aisati aranake kapichaji.,contradiction
+"Ikantanake guay, iro itsare aranake tampeaki kapichaji--",Tee añeroji tampea arikea ora itsare tee oshebateaji.,contradiction
+"Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.",Nojatini natayeti antaberentsiyetatsiri koasanotachari apite kitaiteri.,neutral
+"Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.",Nosaikaiti antabeerentsiyetatsiriki koasanotachari.,entailment
+"Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.",Tee katsini nosaikaiteji antabeerentsiyetatsiriki koasanotachari.,entailment
+"Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.",Itimajeitini pitetsa ishaninkapee timajeitatsiri Evans.,entailment
+"Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.",Itimajeitini anta Atlantaki.,contradiction
+"Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.","Itimajeitini Evans, irinti ini irijaniki.",entailment
+"Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.",Notsiro okanti naro manintantatsiri.,entailment
+"Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.",Notsiro okanti tee nokanteani nokameetsate.,entailment
+"Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.",Notsiro okanti tee okonijamoteroji nishane.,contradiction
+"Hum, impoiji nobaanaja irobakerariki pankotsi.",Nobanaja aparo pankotsiki abetsikajeitakeri nampitsiki.,neutral
+"Hum, impoiji nobaanaja irobakerariki pankotsi.",Aabajeitanaja aparoni irobakerari pankotsi.,neutral
+"Hum, impoiji nobaanaja irobakerariki pankotsi.",Asaikajeitapaaji pankotsiki maaroni añaamentoki.,neutral
+"Nosaikaiti kemeeri, OK, kameetsa.",Nokanti nokisanentiro aisati nojokasanotironi,neutral
+"Nosaikaiti kemeeri, OK, kameetsa.",Nokanti nonebetaroni irobakerari pampoysntsi.,neutral
+"Nosaikaiti kemeeri, OK, kameetsa.",Nokantake timatsi aprobacion.,neutral
+"Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.",Ora pintura okampiatiro iroyata obotsore.,entailment
+"Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.",Ora pintura okampiata ayotanteari jaoka okanta okatsirinkati eiro okoanta amonkaratero.,neutral
+"Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.",ora pintura okantani oni kisaari.,entailment
+"Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.",Nobakaro ora pizza tee osamanite apite minutos.,contradiction
+"Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.",Nobaka initsikioji eiro nomantsiatanta.,neutral
+"Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.",Nobakaro ora obanarontsi.,contradiction
+Ojime ashi irento irointi imeshina konijari.,Ojimetsori ini ibotsore konijari.,neutral
+Ojime ashi irento irointi imeshina konijari.,Ojimetsori ini Sueco.,neutral
+Ojime ashi irento irointi imeshina konijari.,irento tee aabakaya,"to determine the relationship between the premise and hypothesis, it's necessary to understand the meaning of the phrases in asháninka. however, without this understanding or a provided translation, i cannot accurately identify the relationship. if you can provide translations or more context, i might be able to help further."
+"Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.",Iriorijei iventsikajeitakero irobakerari regulador.,entailment
+"Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.",Ivetsikake aparo regulador oneini tampeajenkaki.,entailment
+"Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.",Oijatironi tee oyote jaoka ikanteari ivetsikanteari aparo regulador ashi oxigeno.,neutral
+"Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.",Tee katsini nojate Las Vegas.,contradiction
+"Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.",Nantabeetake Las Vegas aisati Washingtonki.,neutral
+"Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.",Natabeetake okemetari taxista apiteketiro nampitsi.,neutral
+"Jee, 4.° noñaatsatasanotaka.",¡Nokisaneentiro maaroni obametantsipanko!,neutral
+"Jee, 4.° noñaatsatasanotaka.",Nokoakero otsi grado tempa otimi apite nomaoreantari.,entailment
+"Jee, 4.° noñaatsatasanotaka.",Nokoironi otsi grado.,neutral
+"Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.",Ora obana irointi sankenataokrentsi ashi ñakarontsi.,neutral
+"Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.",Ora tabulaciones timatsi osheki osankenatakotiri.,neutral
+"Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.",Ora shimperentsi onijantiro saldo actual maaroni ora cuentas.,contradiction
+Tee nokossanotero jaoka pikanterori pantero.,Tee nokoasanotero aririka pantero abisati teerika itsipasatiki.,contradiction
+Tee nokossanotero jaoka pikanterori pantero.,Tee nokoasanotero jaoak okantari poijateri.,neutral
+Tee nokossanotero jaoka pikanterori pantero.,Nokoi niyotasanote jaoka pikanterori oka.,contradiction
+Yobaajeitanaja Mallard Creek Charlotte.,Ibetsikajeitake aparo pankotsi Mallard Creek.,neutral
+Yobaajeitanaja Mallard Creek Charlotte.,Tee katsini yobaajeitea Charlotte.,entailment
+Yobaajeitanaja Mallard Creek Charlotte.,Impoiji itimajeitaji Mallard Creek.,entailment
+"Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.",Iriri ini pashitoori luterano.,neutral
+"Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.",Iriri ini convicto tee ijateni iglesiaki.,neutral
+"Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.",Iriri ini pashitoorini.,neutral
+"Jampakea, tee noyoteni jaoka okantari ikoayetiri.",Tee niyoteni ikoirika kamantatantsi okantakota horario ashi viaje.,neutral
+"Jampakea, tee noyoteni jaoka okantari ikoayetiri.",Nopakeri maaroni okantayeta tempa niyotake ikoironi.,contradiction
+"Jampakea, tee noyoteni jaoka okantari ikoayetiri.",Tee yamabentea jaoka okarati otsantsati otsonpoinare otimi.,neutral
+"Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.",Iriori tee otimimoteri kempoyayetacharipee.,neutral
+"Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.",Ikempoyeiro maaroni kempoyayetacharipee.,entailment
+"Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.",Ikempoyeijeitiro ora kempoyayetachari abitantsi aisati kearioperotatsiri.,neutral
+"Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.",Iroori opake apite tsonkaichari.,entailment
+"Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.",Iroori opakena apite kantashitachari obametantsi irointi nakeri tsonkainchari.,neutral
+"Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.",Iroori apatiro opakena tsonkaincharin timatsi kapichaji otsapare.,neutral
+"Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.",Augusta itimi 10000 atiri.,neutral
+"Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.",Augusta kaari oni antyaroite nampitsi.,contradiction
+"Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.",Isaikini oniyakitinta Augusta.,neutral
+"Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC",Ikanteetakena nikoji ora DC.,contradiction
+"Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC",Yora ejercto itiyankakena DC intsipaite.,contradiction
+"Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC",Ikanteetajan nojate Africaki.,contradiction
+"Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.",Abanko Concordki tee ikoakantayeteri pirantsipee.,neutral
+"Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.",Abanko Concordki otimi 30000 acres jeri osheki birantsipee.,neutral
+"Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.",Apimantajeitakeri maaroni abirapee abajeitantanajari Concordki.,entailment
+"Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.",Abaajeitana maaroni akarajeitiri 1968.,entailment
+"Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.",Tekatsi katsini atsonkajeiteriji aajeitanajeri.,neutral
+"Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.",Atiyankajeitakeri asorarotepee Japonki junio 1968.,entailment
+Ikantana ikoajeiti tampatikari ikoajeotiri meeka.,Ikanti ari omatakea ipajeitero ariorika otantanakea.,neutral
+Ikantana ikoajeiti tampatikari ikoajeotiri meeka.,Iknatake yoye ikarate 2 p.m atsonkantearori maaroni antabeerentsi.,neutral
+Ikantana ikoajeiti tampatikari ikoajeotiri meeka.,Ikantake irointi intsipaiteni.,neutral
+Jajeitanaji ikantanakena eiro nokenkeshireatsi.,Ikantake pijibatanake pobameetsatero obametantsipanko.,neutral
+Jajeitanaji ikantanakena eiro nokenkeshireatsi.,Ikanti eiro pikenkeshireashita.,entailment
+Jajeitanaji ikantanakena eiro nokenkeshireatsi.,Ikanti monkaratapaaka oorea akianteari tsaroantsiki.,neutral
+"Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.",Kobenkatakotakempi.,entailment
+"Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.",¡Kameetsatakempi!,neutral
+"Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.",Kobenkatakotakempi yayeetempi.,neutral
+"Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.",Ina otimatiye okoyero ampeji aisati shinki.,neutral
+"Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.",Ina irointini tsinane de oro tee antabeeteni katsini.,neutral
+"Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.",Ina otimatiye antabeete nikoji.,the relationship is 'contradiction'.
+"Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.",Joe irintini apinti timironiri llave ashi apatotantsi imaorentari.,contradiction
+"Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.",Apanirotantsiki akemajeitake tee amateroji aayete ikoiri Joe yojokajeitanake asabikajeiti kameetsa.,neutral
+"Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.","Aparo kitaiteri,Joe ijaiti tekatsi iyotatsine jaoka ijatirini.",the premise contradicts the hypothesis.
+Nokantakeri irointi ashi notsiro.,Pimonkaratenero notsiro.,contradiction
+Nokantakeri irointi ashi notsiro.,Nokanti irointi nashi.,entailment
+Nokantakeri irointi ashi notsiro.,Nokantajeitakeri yora otsiti irointi ashitariri notsiro.,entailment
+"Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.",Iroori okanti ora iniro aisati okemeta aniiti otsobitakotariki.,neutral
+"Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.",Iroori okanti ora iniro timatsi okempeta ariroika aniite,neutral
+"Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.",Okanti ora iniro katiyaporokitaka tee omateaji aniite.,contradiction
+"piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.",Tee niyoteni ari ojatake omantsiasanote.,entailment
+"piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.",Tee niyoteni paita abishomoteroneri iroori.,neutral
+"piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.",Piyotini okarate abisatsineri ariorika antakero iroori oka.,neutral
+Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.,Tee otimimotajena kenkeshireantsi onta pankotsi.,neutral
+Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.,Nokenkeshirea naabajiro marakarita paatioki akakeroka.,neutral
+Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.,Nokenkeshireajiro okarati abisaintsiri anta paatioki akakeroka.,neutral
+"Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.",Tee niyoteroji jaoka ankanterori antabeerentsi oka ipayeetakenari meeka.,neutral
+"Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.","Ikantajeitakena pampinajearo ora caja de fusibles ashi saikakomentotsi, iro tee niyoteji ora cableado electrico.",neutral
+"Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.",Meeka ikoakoyetakenaro irointi nate antabeerentsitatsiri okameetsatimotake.,neutral
+"Meekakea, jerokatake, pikoiro meeka.",Okanti ari omatakero ayero jaokarikepee.,neutral
+"Meekakea, jerokatake, pikoiro meeka.",Okanti okoiro aitearo intsipaiteni meeka.,neutral
+"Meekakea, jerokatake, pikoiro meeka.",Okanti okoi ayero ora antabeerentsi otsonkanakearika tekerata yaretea 5 p.m.,neutral
+Amashitanajaapiajeitanaja abaajeitaja.,Abajeitaja otsipaniki kitaiteri.,neutral
+Amashitanajaapiajeitanaja abaajeitaja.,Abajeitaja otsipaniki nampitsi 1992.,neutral
+Amashitanajaapiajeitanaja abaajeitaja.,Tee katsini ashebayeteaji impoijini oka.,neutral
+"Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.","Noñaakero ora tsinane Fulk kapichaji, iro tee niyotasanotero kameetsa.",contradiction
+"Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.",Notsipabintsatari okempejitari ora tsinane Faulk.,neutral
+"Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.",Ora tsinane Fulk antakotironi Honda kiteriri maaroni kitaiteriki ajatanteari.,neutral
+"Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.",Atimajeitake anta pankotsiki kenashiri.,neutral
+"Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.",Atimajeitini anta oshekisanori osarentsi.,neutral
+"Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.",Apatiro atimajeitini anta apite tsonkitai.,entailment
+"Colega, kemebeitaka otimimoteri yatiritantari, pabachori.",Akisanentajeibetaka.,neutral
+"Colega, kemebeitaka otimimoteri yatiritantari, pabachori.",Nobinkatsarite isaikaiti ikimoshiresanoti o itsabiasanotati.,neutral
+"Colega, kemebeitaka otimimoteri yatiritantari, pabachori.",Nobinkatsariteimetsotini aisati joijantanti.,neutral
+Ikametsataperotake antyari irintanteari.,Irinti ini 27 oosarentsi nantyarite narori.,contradiction
+Ikametsataperotake antyari irintanteari.,Irinti ini osheki yebankariti naroriki.,neutral
+Ikametsataperotake antyari irintanteari.,Irinti ini antyarishekitirori narori.,neutral
+"Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.",Tee niyote jaoka okarate kitaiteri osamanite.,neutral
+"Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.",Tee niyote jaoka okarate kitaiteri osamanite ora kenketsatakorentsi.,entailment
+"Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.",Niyoti omonkarata 4 pies(10cm) otsantsati.,entailment
+Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.,¡Nosaikini nokimoshirebeitani aisati nomaokoreake!,entailment
+Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.,Nokoashireasanotanake nokoi nokimoshiretanteari tempa ari areetakeame aparoni kitaiteri.,entailment
+Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.,Nokoashireasnotanake nokoi nokimoshiretanteari tempa iroori osaikaiti ara.,neutral
+osheki oka okantakota ora inapee iroojeitake drogodependiente,Ora inapee irojeitake drogadictas.,entailment
+osheki oka okantakota ora inapee iroojeitake drogodependiente,Ora inapee tee anteroji okantakotiri aabintarontsipee.,contradiction
+osheki oka okantakota ora inapee iroojeitake drogodependiente,Ora inapee irajeitiro drogas,entailment
+"Jee, keariotake okameetsati, opariayaiti inkani.",Tee nokoasanotero ora inkani.,entailment
+"Jee, keariotake okameetsati, opariayaiti inkani.",Kameetsa oni aisati inkanijenkatii.,entailment
+"Jee, keariotake okameetsati, opariayaiti inkani.",Shiramparisanotake ishiyari itsibota oorea kaari makoreatsi.,neutral
+"Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.",Maaroni añamentotsi okameetsati amitakotajero jero apitetatsiri okoakayeri.,contradiction
+"Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.",Tekatsi atiri koeroneri amitakotantsi.,neutral
+"Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.","Yapanirotanteari ashi amitakotantsi, ashi añaamento okameetsatasanoti.",neutral
+"oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado",Tekatsi katsini ñeeroneri peerani oka nashiyetachari pomerentsiri ashi cableado.,entailment
+"oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado",Ora cableado kaari oni pomerentsitantsi.,entailment
+"oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado",Timatsi pomerentsitantsi opoñantari oka kaari añaayetiri cableado.,contradiction
+"opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri",Tee imapokasanoyetenaji okarati abisaintsi ora indulgentes.,neutral
+"opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri",Imapokayeta yoiminkakayeteri irobanaro jero imireteri anta.,neutral
+"opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri",Imapokayeta okarati yareeyetakari yaakeri.,neutral
+"jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.",Opinata $ 2000 pamanantanteari maaroni pikoayetiri.,neutral
+"jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.",Opinata osheki pikitsatearika abisati.,neutral
+"jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.",Opinata kapichaji akitsatearika.,the relationship between the premise and the hypothesis is 'neutral'.
+"oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika",Tee okoasanoteaji tempa notomipee timatsi abisanke pitetsa osarentsi.,neutral
+"oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika","Ari nomatakero nantero, jampakea aretakari irosarentsite.",neutral
+"oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika",Otimatiye nantero tempa apiteketi otimi tsa jero tsaaparo irosarentsite.,neutral
+¡Pijate! Kameetsa oka oni fresno.,Notimake Fresnoki.,contradiction
+¡Pijate! Kameetsa oka oni fresno.,Tee nokantasanote jaoka otimi oka.,contradiction
+¡Pijate! Kameetsa oka oni fresno.,Noakantimpi irotake oka Fresno.,entailment
+"Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.","Jee, atiri amashitea teerika iyote yaayetero ora inkantayetiri.",'entailment'
+"Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.","Jee, atiri amashitea terikamachata ayeri itashe.",neutral
+"Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.","Jee, atiri okarati tikakotiri ashi ikantayetiri eirokea katsini ashereantari.",neutral
+"Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.",Okantani omoyekaita intanakaro peerani 1970.,neutral
+"Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.",Onimotiri yante aniyetantsi.,neutral
+"Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.",Otsonkanakaro oshonka irobakera.,neutral
+jaoka pikanteari pante aerobicos,¿Ari pimatakea pikamantenaro pantanteari aerobic?,neutral
+jaoka pikanteari pante aerobicos,Nokoasanotakero ora aerobic tempa nokoakero natanteari ashi nantabeerentsi cardiovascular.,neutral
+jaoka pikanteari pante aerobicos,"Pipeakotenaro, aitapaji piñaanatake okantakota antaberentsi aerobicos.",neutral
+"Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.",Oka irointi aparo kenkeshireantsi kaariperori nojokakero otsipaniki tsonkitai.,neutral
+"Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.",Oka irointi aparo kameetsari añanatakoteri.,entailment
+"Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.",Ora paradoja akamantakotakeri okameetsati añaanatakoteri.,neutral
+"kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi",Ora kempoyamentotsi ashitareaka maaroni kitaiterikiirashi jananeki orijanikiri irosarentsite koni apatirosanotatsiri.,neutral
+"kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi",Ijapinijeitake apite tsonkitaiteriki iriorika yora atiri manatatsiri irosarentsite irosati jenokinta.,neutral
+"kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi","Irootake ikanteetiri aparo kempoyamentotsi irashi antyashiparipee, iro ibajiro niyakitakore irashi atiri antyaritapaatsiripee.",entailment
+timatsi amsuajeitiri aka teleki,Irootake oka ishintsimentakeri.,neutral
+timatsi amsuajeitiri aka teleki,Oka katsini tee ikoajeiteroni.,neutral
+timatsi amsuajeitiri aka teleki,Areejeitakaro areeteari.,neutral
+okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi,OniyankitInta maaroni opeayeta oitsoki pistola irojeitake oshitobantari ora aparoniki akotsi.,entailment
+okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi,Ora okameetsatanteari okontororateamanamentotsi antearo apiteketi iitintsi.,neutral
+okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi,Pantantearo apiteketi akotsi pikoirika piñaante pikontororateri manamentotsi.,neutral
+aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro,"Tee niyote jaoak opoañari irokea, intsupaite.",entailment
+aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro,Impoke intsipaite iro niyotakeri jaoka ipoñenpari.,neutral
+aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro,Impoke ikemetemparo melaza niyoti jaoka okarate opoke.,neutral
+"tee, anteroji aisati tee niyoteroji, te noshiretearoji",Tee niyotasanotero osheki okantakota oka.,entailment
+"tee, anteroji aisati tee niyoteroji, te noshiretearoji",Naro kaari iyotinkari okantakota nintantentsi.,neutral
+"tee, anteroji aisati tee niyoteroji, te noshiretearoji",Noshitooriabetaka oka oshekiki osarentsi.,neutral
+Piyotirika iroorika kameetsaroni.,Okenmisantiro nokempetarini ikoasanoyeetiri.,neutral
+Piyotirika iroorika kameetsaroni.,"Tee, iroori irointini kaari kameetsatatsi.",contradiction
+Piyotirika iroorika kameetsaroni.,"Jee, iroori rointikea okameemtsatasanoti.",neutral
+"Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.",Ikantake yamanante aparo aspiradora.,neutral
+"Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.",Ikantake añaanteari aparo ora fregona.,contradiction
+"Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.",Ikoabentaka ishetajerome iriraja aparo setamentotsi.,neutral
+"Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.",Ora manamanatantsi otimake otsantsati okarati 100 millas anta nosaikinta.,neutral
+"Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.",Ora manamanatantsi kempejinenta nobankoki notsaroi noshitoye.,neutral
+"Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.","Otimaiti aparo manamanatantsi kempeji nobankoki, tee okameetsateji aka.",contradiction
+"oh, kaari oni keariori, oh, consistente","Tee nokoasanoteroji pikantir abirori , pikantapinitiro.",neutral
+"oh, kaari oni keariori, oh, consistente",Keariotake otimii okantakota ora consistencia.,neutral
+"oh, kaari oni keariori, oh, consistente",Timatsi pikekeshireari okantakota okakiji kaari oni consistente.,entailment
+namabetiro nokempoyantearori anta.,Noñaantaro nokisoiri iriorii.,neutral
+namabetiro nokempoyantearori anta.,Keariosanotake nantatiro kameetsasano imateri.,neutral
+namabetiro nokempoyantearori anta.,Nojatasanotaje eiro katsini namananaje notapiiki.,neutral
+"jee, ¿paita itsipasati irijani timimotimpiri?",¿Yora pirijani irin ti kameetsari jananeki?,neutral
+"jee, ¿paita itsipasati irijani timimotimpiri?",¿Paita itsipasati miishi paayetabajiri?,neutral
+"jee, ¿paita itsipasati irijani timimotimpiri?",¿Paita itsipasati otsiti ebonkiri timimotimpiri?,neutral
+"Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?",¿Jaoka ikaratiri pitomipee timatsiri?,entailment
+"Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?",Nokenkeshireakotimpi nojitake eiro itimitsi pitomi.,contradiction
+"Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?","Pikantake timatsi pitomipee, ¿paita irosarentsite timatsiri?",entailment
+"keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate","Amashitakea teerika iyotasanoteji, irokantaincha irirojeitake kameetsatasanotatsiri ikoasanojeitakeri shitooriajeitatsiri.",neutral
+"keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate","Irintini iyotinakripee, ikantashijeitanaka ikemetanakari kaariperori ikempejitapaakari itsipappe kaari ini iyotasanoti.",neutral
+"keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate","Iriojeitanake marereasanotanaintsiri, iñaajeitakero paiatapeerika ikoasanoti ishitooriate.",entailment
+"Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta",Yora zorrillo yoyake apiyajeitaje campamentoki.,neutral
+"Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta",Añaajeitapairi aparo kaabira campamentoki impoiniji itsibakantanakari tsiborontsipee.,neutral
+"Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta",Apiajeitajaro anta antabeerentsiki akemajeitapairi mofeta.,neutral
+"piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro",Piyotaji itsipaki jananekipee antayritaintsirimaaroni noshaninkajeitajeari.,neutral
+"piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro",Nokimoshiretake osheki iyojeitanake notomipee.,neutral
+"piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro",Yora nojananekitepee irinti kaariperoirpee.,"to determine the relationship between the given premise and hypothesis in asháninka, a thorough understanding of the language is necessary. given my limitations, i'll simulate the process of analysis.
+
+analyzing typical logical structures:
+- ""entailment"" would occur if the hypothesis is a logical conclusion from the premise.
+- ""contradiction"" means the hypothesis directly conflicts with the premise.
+- ""neutral"" implies the hypothesis is neither directly supported nor contradicted by the premise.
+
+in absence of specific translation capabilities for asháninka, if both sentences share thematic elements but do not directly confirm or deny each other, the relationship could be 'neutral'. if any specific elements in the hypothesis are explicitly negated in the premise, it might be 'contradiction'. if the hypothesis is a clear inference of the premise, it would be 'entailment'.
+
+however, without a clear translation:
+response: 'neutral'"
+"aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee",Ora tikayetakotirori oshekiantari kajarashi okakijitake pomerentsiri otenayeti kajarashipee irosatiriki.,neutral
+"aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee",Yora atiri eiro ikenkeshireatsi okarati oshekiake kajarashi okarati oka yojakayetiri okantakotiri.,contradiction
+"aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee",Yora atir ikoajeiti abakoyetajeri oshekiantari kemeri otenanka kajajrashi osheki okimotatananke.,neutral
+"aritake, otimakerika amshitantsi irointi pamashire nokantiri","Eiro pikekeshireatsi, arika otimake amashirentsi namitakotempi kantakantantsi.",neutral
+"aritake, otimakerika amshitantsi irointi pamashire nokantiri",Aritakerika otimake ashirentsi irointi pikantakantiri pashi.,neutral
+"aritake, otimakerika amshitantsi irointi pamashire nokantiri","Aritake pantakero mashitantsi, otimatiye pashitearoirashi iriori.",neutral
+Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.,Ora antsitantsi antantearori itimatiye amenaperotero.,neutral
+Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.,Ora antsitantsI yantayetakero intsipaite ari añaakero te okanteji.,neutral
+Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.,Yajeitakero osheki kitaiteri itsonkantearori ora antsitantsipee.,contradiction
+"jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai",Pitaiterite ari oshekiate papropeniki osarentsi.,entailment
+"jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai",Pitaiterite eiro pimatirotsi pitsokero maba kitaiteri.,neutral
+"jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai",Pitaiterite pimaoreantari oshekianake antabeerentsi nampitsiki.,neutral
+"oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri",Asaikanteari nampitsiki kemetaka tsaroantsiki constante okemetaro oka.,neutral
+"oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri",Ora kameetsatatsiri asaike nampitsiki irointi eiro akenkeshireatsi ora konijatatsiri kemetarorim oka.,neutral
+"oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri",Iroperotatsiri anta asaikanteari obanentsiki eiro ikenkeshireatsi oka timatsiri nampitsiki.,neutral
+"oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi",Okemetaro oka akimoshirebentiro o osheki ashemashirea.,neutral
+"oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi",Aitake okanta opoimati okemetaro antyaro kibantantsi.,entailment
+"oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi",Kemetaka aparo abishomoteri kobenkatatsiri.,neutral
+meeka otimimotana notsiro Alemaniaki,Meeka itimimotana norenti saikatsiri Alemaniaki.,neutral
+meeka otimimotana notsiro Alemaniaki,Timatsi notsiro osaiki meeka anta Cubakii.,neutral
+meeka otimimotana notsiro Alemaniaki,Timatsi notsiro naañatiori alemán.,neutral

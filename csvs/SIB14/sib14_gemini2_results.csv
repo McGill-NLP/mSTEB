@@ -1,0 +1,206 @@
+Language name,Language code,Accuracy
+Acehnese (Arabic script),ace_Arab,59.3
+Acehnese (Latin script),ace_Latn,69.2
+Mesopotamian Arabic,acm_Arab,72.9
+Ta’izzi-Adeni Arabic,acq_Arab,74.7
+Tunisian Arabic,aeb_Arab,74.9
+Afrikaans,afr_Latn,75.2
+South Levantine Arabic,ajp_Arab,74.6
+Akan,aka_Latn,71.4
+Tosk Albanian,als_Latn,74.0
+Amharic,amh_Ethi,74.6
+North Levantine Arabic,apc_Arab,75.7
+Modern Standard Arabic,arb_Arab,75.7
+Modern Standard Arabic (Romanized),arb_Latn,75.5
+Najdi Arabic,ars_Arab,74.7
+Moroccan Arabic,ary_Arab,74.6
+Egyptian Arabic,arz_Arab,74.3
+Assamese,asm_Beng,74.2
+Asturian,ast_Latn,73.2
+Awadhi,awa_Deva,74.4
+Central Aymara,ayr_Latn,59.4
+South Azerbaijani,azb_Arab,69.1
+North Azerbaijani,azj_Latn,74.0
+Bashkir,bak_Cyrl,73.4
+Bambara,bam_Latn,59.3
+Balinese,ban_Latn,72.7
+Belarusian,bel_Cyrl,73.6
+Bemba,bem_Latn,68.7
+Bengali,ben_Beng,74.0
+Bhojpuri,bho_Deva,73.2
+Banjar (Arabic script),bjn_Arab,66.0
+Banjar (Latin script),bjn_Latn,72.7
+Standard Tibetan,bod_Tibt,72.6
+Bosnian,bos_Latn,74.7
+Buginese,bug_Latn,66.2
+Bulgarian,bul_Cyrl,74.9
+Catalan,cat_Latn,74.1
+Cebuano,ceb_Latn,74.6
+Czech,ces_Latn,74.8
+Chokwe,cjk_Latn,43.2
+Central Kurdish,ckb_Arab,75.3
+Crimean Tatar,crh_Latn,68.3
+Welsh,cym_Latn,73.1
+Danish,dan_Latn,74.4
+German,deu_Latn,75.2
+Southwestern Dinka,dik_Latn,42.9
+Dyula,dyu_Latn,52.1
+Dzongkha,dzo_Tibt,70.1
+Greek,ell_Grek,74.2
+English,eng_Latn,74.7
+Esperanto,epo_Latn,74.4
+Estonian,est_Latn,75.0
+Basque,eus_Latn,74.1
+Ewe,ewe_Latn,67.5
+Faroese,fao_Latn,74.0
+Fijian,fij_Latn,71.8
+Finnish,fin_Latn,75.1
+Fon,fon_Latn,58.4
+French,fra_Latn,74.4
+Friulian,fur_Latn,74.1
+Nigerian Fulfulde,fuv_Latn,58.8
+West Central Oromo,gaz_Latn,70.0
+Scottish Gaelic,gla_Latn,74.4
+Irish,gle_Latn,75.0
+Galician,glg_Latn,74.3
+Guarani,grn_Latn,71.2
+Gujarati,guj_Gujr,74.0
+Haitian Creole,hat_Latn,74.8
+Hausa,hau_Latn,73.6
+Hebrew,heb_Hebr,73.3
+Hindi,hin_Deva,74.0
+Chhattisgarhi,hne_Deva,73.4
+Croatian,hrv_Latn,75.5
+Hungarian,hun_Latn,74.4
+Armenian,hye_Armn,73.2
+Igbo,ibo_Latn,72.7
+Ilocano,ilo_Latn,74.0
+Indonesian,ind_Latn,74.5
+Icelandic,isl_Latn,73.3
+Italian,ita_Latn,74.8
+Javanese,jav_Latn,75.6
+Japanese,jpn_Jpan,74.6
+Kabyle,kab_Latn,61.9
+Jingpho,kac_Latn,63.7
+Kamba,kam_Latn,59.9
+Kannada,kan_Knda,73.6
+Kashmiri (Arabic script),kas_Arab,72.0
+Kashmiri (Devanagari script),kas_Deva,68.5
+Georgian,kat_Geor,74.3
+Kazakh,kaz_Cyrl,73.8
+Kabiyè,kbp_Latn,58.8
+Kabuverdianu,kea_Latn,74.0
+Halh Mongolian,khk_Cyrl,73.7
+Khmer,khm_Khmr,74.8
+Kikuyu,kik_Latn,65.8
+Kinyarwanda,kin_Latn,74.8
+Kyrgyz,kir_Cyrl,73.4
+Kimbundu,kmb_Latn,51.5
+Northern Kurdish,kmr_Latn,70.9
+Central Kanuri (Arabic script),knc_Arab,22.4
+Central Kanuri (Latin script),knc_Latn,39.2
+Kikongo,kon_Latn,68.7
+Korean,kor_Hang,74.2
+Lao,lao_Laoo,74.9
+Ligurian,lij_Latn,73.3
+Limburgish,lim_Latn,72.7
+Lingala,lin_Latn,72.0
+Lithuanian,lit_Latn,73.8
+Lombard,lmo_Latn,73.8
+Latgalian,ltg_Latn,74.4
+Luxembourgish,ltz_Latn,75.4
+Luba-Kasai,lua_Latn,57.7
+Ganda,lug_Latn,69.5
+Luo,luo_Latn,61.0
+Mizo,lus_Latn,73.3
+Standard Latvian,lvs_Latn,74.0
+Magahi,mag_Deva,74.2
+Maithili,mai_Deva,74.4
+Malayalam,mal_Mlym,74.5
+Marathi,mar_Deva,73.6
+Minangkabau (Arabic script),min_Arab,65.0
+Minangkabau (Latin script),min_Latn,74.0
+Macedonian,mkd_Cyrl,75.3
+Maltese,mlt_Latn,74.4
+Meitei (Bengali script),mni_Beng,72.0
+Mossi,mos_Latn,39.6
+Maori,mri_Latn,70.9
+Burmese,mya_Mymr,73.9
+Dutch,nld_Latn,74.2
+Norwegian Nynorsk,nno_Latn,73.9
+Norwegian Bokmål,nob_Latn,74.9
+Nepali,npi_Deva,73.0
+N'ko,nqo_Nkoo,55.0
+Northern Sotho,nso_Latn,71.2
+Nuer,nus_Latn,24.9
+Nyanja,nya_Latn,72.2
+Occitan,oci_Latn,75.1
+Odia,ory_Orya,74.6
+Pangasinan,pag_Latn,71.1
+Eastern Panjabi,pan_Guru,75.0
+Papiamento,pap_Latn,74.9
+Southern Pashto,pbt_Arab,72.5
+Western Persian,pes_Arab,73.8
+Plateau Malagasy,plt_Latn,71.2
+Polish,pol_Latn,74.1
+Portuguese,por_Latn,73.2
+Dari,prs_Arab,74.6
+Ayacucho Quechua,quy_Latn,62.3
+Romanian,ron_Latn,74.0
+Rundi,run_Latn,71.4
+Russian,rus_Cyrl,74.7
+Sango,sag_Latn,62.7
+Sanskrit,san_Deva,69.6
+Santali,sat_Olck,72.4
+Sicilian,scn_Latn,74.1
+Shan,shn_Mymr,72.1
+Sinhala,sin_Sinh,73.8
+Slovak,slk_Latn,74.0
+Slovenian,slv_Latn,74.6
+Samoan,smo_Latn,74.4
+Shona,sna_Latn,73.2
+Sindhi,snd_Arab,73.9
+Somali,som_Latn,72.0
+Southern Sotho,sot_Latn,72.7
+Spanish,spa_Latn,73.9
+Sardinian,srd_Latn,74.4
+Serbian,srp_Cyrl,75.1
+Swati,ssw_Latn,70.7
+Sundanese,sun_Latn,74.4
+Swedish,swe_Latn,74.3
+Swahili,swh_Latn,75.6
+Silesian,szl_Latn,71.3
+Tamil,tam_Taml,73.7
+Tamasheq (Latin script),taq_Latn,46.7
+Tamasheq (Tifinagh script),taq_Tfng,31.4
+Tatar,tat_Cyrl,72.7
+Telugu,tel_Telu,73.6
+Tajik,tgk_Cyrl,75.1
+Tagalog,tgl_Latn,74.6
+Thai,tha_Thai,74.2
+Tigrinya,tir_Ethi,72.6
+Tok Pisin,tpi_Latn,74.4
+Tswana,tsn_Latn,72.7
+Tsonga,tso_Latn,72.6
+Turkmen,tuk_Latn,73.3
+Tumbuka,tum_Latn,70.9
+Turkish,tur_Latn,73.6
+Twi,twi_Latn,71.8
+Central Atlas Tamazight,tzm_Tfng,59.7
+Uyghur,uig_Arab,69.6
+Ukrainian,ukr_Cyrl,74.1
+Umbundu,umb_Latn,51.2
+Urdu,urd_Arab,74.0
+Northern Uzbek,uzn_Latn,73.3
+Venetian,vec_Latn,73.7
+Vietnamese,vie_Latn,74.0
+Waray,war_Latn,74.4
+Wolof,wol_Latn,68.6
+Xhosa,xho_Latn,73.9
+Eastern Yiddish,ydd_Hebr,74.0
+Yoruba,yor_Latn,70.9
+Yue Chinese,yue_Hant,74.4
+Chinese (Simplified),zho_Hans,75.0
+Chinese (Traditional),zho_Hant,75.2
+Standard Malay,zsm_Latn,75.3
+Zulu,zul_Latn,74.8

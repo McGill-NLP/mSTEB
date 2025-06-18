@@ -1,0 +1,601 @@
+premise,hypothesis,gpt_label
+"Bé, ni tan sols estava pensant en això, però estava molt frustrat i vaig acabar tornant a parlar amb ell.",No he tornat a parlar amb ell.,2
+"Bé, ni tan sols estava pensant en això, però estava molt frustrat i vaig acabar tornant a parlar amb ell.",Estava tan molest que vaig començar a parlar amb ell de nou.,0
+"Bé, ni tan sols estava pensant en això, però estava molt frustrat i vaig acabar tornant a parlar amb ell.",Vam tenir una gran xerrada.,1
+"Em van dir que, eh, que al final em trucaria un noi per conèixer-me.",Mai em van dir res de conèixer ningú.,2
+"Em van dir que, eh, que al final em trucaria un noi per conèixer-me.",Em van dir que em visitaria un noi per conèixer-me.,1
+"Em van dir que, eh, que al final em trucaria un noi per conèixer-me.",El noi va arribar una mica tard.,1
+Hi ha tantes coses sobre les quals podríeu parlar que m'ho saltaré.,Vull dir-te tot el que sé d'això!,2
+Hi ha tantes coses sobre les quals podríeu parlar que m'ho saltaré.,"No en parlaré, tot i que hi ha molt a cobrir.",0
+Hi ha tantes coses sobre les quals podríeu parlar que m'ho saltaré.,No parlaré de la història de la ciutat perquè hi ha massa a dir.,0
+Així que no estic ben segur de per què.,Estic segur del perquè.,2
+Així que no estic ben segur de per què.,No sé per què el van traslladar a les escoles.,1
+Així que no estic ben segur de per què.,No sé per què va passar això.,0
+Vaig ser l'únic que va fer funcionar els reguladors per a la prova a les cambres d'altitud en miniatura.,No m'agradava ser l'únic que feia funcionar els reguladors de les proves.,1
+Vaig ser l'únic que va fer funcionar els reguladors per a la prova a les cambres d'altitud en miniatura.,Les proves es van fer a les cambres d'altitud en miniatura.,0
+Vaig ser l'únic que va fer funcionar els reguladors per a la prova a les cambres d'altitud en miniatura.,Vam ser uns quants de nosaltres que vam dirigir els reguladors per a la prova.,2
+"Soc, sergent cap, retirat, com va dir en Rick.","Encara estic treballant, fins avui.",2
+"Soc, sergent cap, retirat, com va dir en Rick.",Em vaig jubilar l'any 2002.,1
+"Soc, sergent cap, retirat, com va dir en Rick.",Rick et va dir que estava jubilat.,0
+"Hi ha algunes projeccions de flux d'efectiu al meu escriptori i, um, uh, és per a tal i tal Cutty, aquest és el nom del client.",El client anomenat Cutty guanya 10.000 dòlars al mes.,1
+"Hi ha algunes projeccions de flux d'efectiu al meu escriptori i, um, uh, és per a tal i tal Cutty, aquest és el nom del client.",Hi ha un client que es diu Cutty.,0
+"Hi ha algunes projeccions de flux d'efectiu al meu escriptori i, um, uh, és per a tal i tal Cutty, aquest és el nom del client.",No tenim cap client que es digui Cutty.,2
+La noia que em pot ajudar estàa l'altra partde la ciutat.,La noia de la qual necessito ajuda viu molt lluny.,0
+La noia que em pot ajudar estàa l'altra partde la ciutat.,La noia que m'ajudarà és a 5 milles de distància.,1
+La noia que em pot ajudar estàa l'altra partde la ciutat.,No hi ha ningú que em pugui ajudar.,2
+"Però estaven dividits sobre qui eren els treballadors de camp i qui eren els nens de la casa, era una mena de...",Tots estaven d'acord que tots treballarien al camp.,2
+"Però estaven dividits sobre qui eren els treballadors de camp i qui eren els nens de la casa, era una mena de...",No es podien posar d'acord sobre qui era peó al camp i qui pertanyia a la casa.,0
+"Però estaven dividits sobre qui eren els treballadors de camp i qui eren els nens de la casa, era una mena de...",No es podien posar d'acord sobre qui havia de treballar al camp del cotó i qui havia de fregar els pisos.,0
+"Vull dir que només tenien cinc fills, un d'ells va morir.",Tots els seus fills van sobreviure.,2
+"Vull dir que només tenien cinc fills, un d'ells va morir.",Un dels cinc nens va morir.,0
+"Vull dir que només tenien cinc fills, un d'ells va morir.",El nen que va morir va néixer malalt.,1
+"Va dir que només li baixaven llàgrimes dels ulls i va dir, després va dir que Joe va sortir al porxo.","Quan li va dir que pugés al porxo, tenia llàgrimes als ulls.",1
+"Va dir que només li baixaven llàgrimes dels ulls i va dir, després va dir que Joe va sortir al porxo.",Ràpidament es va eixugar les llàgrimes després de fer fora en Joe del porxo.,1
+"Va dir que només li baixaven llàgrimes dels ulls i va dir, després va dir que Joe va sortir al porxo.",Estava tan contenta de veure en Joe que va començar a plorar.,1
+"Fins i tot si l'avió estava en flames, per què, es cremaria i es fondria per un component de plom perquè la radiació es fugués.",La radiació també es pot contenir durant un incendi.,0
+"Fins i tot si l'avió estava en flames, per què, es cremaria i es fondria per un component de plom perquè la radiació es fugués.",La radiació es filtraria d'un component de plom després que l'avió es cremés.,0
+"Fins i tot si l'avió estava en flames, per què, es cremaria i es fondria per un component de plom perquè la radiació es fugués.",La radiació no es filtraria durant un incendi.,0
+"Es tracta del sergent en cap Clem Francis, retirat de la Força Aèria dels EUA.",El cap està retirat de la Força Aèria dels EUA.,0
+"Es tracta del sergent en cap Clem Francis, retirat de la Força Aèria dels EUA.",El cap es va jubilar fa unes setmanes.,1
+"Es tracta del sergent en cap Clem Francis, retirat de la Força Aèria dels EUA.",El cap de la Força Aèria dels EUA acaba de començar la seva carrera aquesta setmana.,2
+"Bé, ha arribat a on hi ha dos o tres avions que arriben en una setmana i no sabia cap a on volen.",Arriba més d'un avió cada setmana.,0
+"Bé, ha arribat a on hi ha dos o tres avions que arriben en una setmana i no sabia cap a on volen.",L'augment del trànsit d'avions és problemàtic.,1
+"Bé, ha arribat a on hi ha dos o tres avions que arriben en una setmana i no sabia cap a on volen.",Mai no arriba cap avió.,2
+Ja s'havien entrenat amb els vestits de pressió complets i em va costar una mica si entres amb vestits de pressió complets.,Es necessiten fins a tres mesos per completar la formació sobre l'ús d'un vestit de pressió complet.,1
+Ja s'havien entrenat amb els vestits de pressió complets i em va costar una mica si entres amb vestits de pressió complets.,Entrenar-se per fer servir un vestit de pressió complet requereix temps.,0
+Ja s'havien entrenat amb els vestits de pressió complets i em va costar una mica si entres amb vestits de pressió complets.,Podríem completar el teu entrenament per fer servir un vestit de pressió complet al final del dia.,0
+"Vull dir que no hi havia cap perill d'entrar amb la bomba perquè no explotaria, per molt que toqués a terra.",La bomba havia estat desactivada pel pilot.,1
+"Vull dir que no hi havia cap perill d'entrar amb la bomba perquè no explotaria, per molt que toqués a terra.",No hi havia cap possibilitat que la bomba explotés.,0
+"Vull dir que no hi havia cap perill d'entrar amb la bomba perquè no explotaria, per molt que toqués a terra.",Hi havia un gran perill d'explosió de la bomba.,2
+I com sembla exactament el que estic intentant fer.,No estic segur de què et sembla això.,1
+I com sembla exactament el que estic intentant fer.,"Estic intentant fer això, evidentment.",0
+I com sembla exactament el que estic intentant fer.,Estic intentant acabar el meu projecte la setmana vinent.,1
+"Però, de totes maneres, els animals se soltaven tot el temps, sobretot les cabres.",Les cabres s'escapaven de l'estable cada dia.,1
+"Però, de totes maneres, els animals se soltaven tot el temps, sobretot les cabres.",Les cabres s'escapaven sovint.,0
+"Però, de totes maneres, els animals se soltaven tot el temps, sobretot les cabres.",Les cabres es mantenien segures.,2
+Les portes estaven tancades amb clau quan vam entrar.,Totes les portes estaven obertes.,2
+Les portes estaven tancades amb clau quan vam entrar.,Teníem les claus nosaltres.,1
+Les portes estaven tancades amb clau quan vam entrar.,"Vam entrar, tot i que les portes estaven tancades.",0
+Així que només havia d'agafar els totals i intentar calcular-ho així.,Estic segur que els totals són tot el que necessito per esbrinar-ho.,0
+Així que només havia d'agafar els totals i intentar calcular-ho així.,"No tinc ni idea de què fer només amb els totals, si us plau, doneu-me més detalls per aclarir aquest embolic.",1
+Així que només havia d'agafar els totals i intentar calcular-ho així.,Ho calcularé a partir dels totals.,0
+i això és molt degut al fet que les mares estan enganxades a les drogues,Les mares són drogodependents.,0
+i això és molt degut al fet que les mares estan enganxades a les drogues,Les mares no prenen cap fàrmac o medicament.,2
+i això és molt degut al fet que les mares estan enganxades a les drogues,Les mares es droguen.,0
+"Sí, és molt bonic que hagi plogut",No m'importa la pluja.,1
+"Sí, és molt bonic que hagi plogut",Fa bonic i plou.,0
+"Sí, és molt bonic que hagi plogut","És horrible, amb un sol interminable.",2
+"oh, què val la vida humana i si pots rehabilitar algú o no",Totes les vides es mereixen la rehabilitació i una segona oportunitat.,0
+"oh, què val la vida humana i si pots rehabilitar algú o no",Cap humà mereix ser rehabilitat.,2
+"oh, què val la vida humana i si pots rehabilitar algú o no","Independentment de la rehabilitació, el que val la vida.",0
+"Oh noi, tens un problema de cablejat estrany allà",Mai havia vist aquest tipus de problema de cablejat abans.,0
+"Oh noi, tens un problema de cablejat estrany allà",El cablejat no és el problema.,2
+"Oh noi, tens un problema de cablejat estrany allà",Hi ha un problema causat per aquest cablejat estrany.,0
+"Sembla molt divertit, sí, és increïble per a mi quantes coses permetrien",No m'estranya gens que fossin permissius.,0
+"Sembla molt divertit, sí, és increïble per a mi quantes coses permetrien",Em sorprèn que et deixessin portar menjar i begudes allà dins.,0
+"Sembla molt divertit, sí, és increïble per a mi quantes coses permetrien",Estic sorprès de com podrien sortir-se amb la seva.,0
+"Oh, però de totes maneres, els meus fills ara tenen vint-i-un i vint-i-quatre, així que no he de fer-ho",No ho necessito perquè els meus fills tenen més de vint anys.,0
+"Oh, però de totes maneres, els meus fills ara tenen vint-i-un i vint-i-quatre, així que no he de fer-ho",Potser ho hauria de fer perquè tenen una edat semblant.,2
+"Oh, però de totes maneres, els meus fills ara tenen vint-i-un i vint-i-quatre, així que no he de fer-ho",Ho he de fer perquè tenen deu i onze anys.,2
+"Sí, gent que podria estar a la feina en qualsevol moment o les decisions de les quals es podrien enfosquir si haguessin de prendre una decisió","Sí, la gent que potser no és capaç de prendre decisions basant-se en el seu propi criteri.",0
+"Sí, gent que podria estar a la feina en qualsevol moment o les decisions de les quals es podrien enfosquir si haguessin de prendre una decisió","Sí, gent que potser no té gana.",1
+"Sí, gent que podria estar a la feina en qualsevol moment o les decisions de les quals es podrien enfosquir si haguessin de prendre una decisió","Sí, persones que mai tenen afectades les facultats de decisió.",2
+"no, encara estan de gira que porten des de finals dels seixanta",Han estat de gira des d'abans de 1970.,0
+"no, encara estan de gira que porten des de finals dels seixanta",Els encanta anar de gira.,0
+"no, encara estan de gira que porten des de finals dels seixanta",Fa poc han acabat la seva gira.,2
+com faries aeròbic?,Pots explicar com faries aeròbic?,0
+com faries aeròbic?,M'interessa l'aeròbic perquè necessito una mica d'activitat cardiovascular.,1
+com faries aeròbic?,"Si us plau, deixeu de parlar d'aeròbic.",1
+"Bé, això és bo, no hi havia pensat, sí",És una idea absurda que vaig descartar la setmana passada.,2
+"Bé, això és bo, no hi havia pensat, sí",Això és un bon argument.,1
+"Bé, això és bo, no hi havia pensat, sí",La paradoxa que esmentes és un bon argument.,1
+"guarderia dos dies a la setmana en diuen guarderia de gent gran, però ella va al centre de gent gran",La guarderia està oberta cada dia només per a nens de menys de cinc anys.,2
+"guarderia dos dies a la setmana en diuen guarderia de gent gran, però ella va al centre de gent gran",Els hi deixen anar més de dues vegades per setmana si la gent gran està a l'altura.,1
+"guarderia dos dies a la setmana en diuen guarderia de gent gran, però ella va al centre de gent gran","Es refereixen a ella com a guarderia de gent gran, però s'anomena centre de gent gran.",0
+aquest era el seu objectiu oh,Això és el que havien estat lluitant per aconseguir.,0
+aquest era el seu objectiu oh,Això no va ser mai el que volien.,2
+aquest era el seu objectiu oh,Van aconseguir el seu objectiu.,1
+El control de les armes significa utilitzar les dues mans,La meitat de tots els errors de tir fallat amb armes són a causa de fer-les servir amb una sola mà.,1
+El control de les armes significa utilitzar les dues mans,La millor manera d'avançar per controlar l'arma és utilitzar els dos peus.,2
+El control de les armes significa utilitzar les dues mans,Utilitzeu les dues mans si voleu practicar el control de l'arma.,0
+"i eh, però de sobte ve d'algun lloc no sé d'on ve però","No sé d'on ve, però és ràpid.",1
+"i eh, però de sobte ve d'algun lloc no sé d'on ve però","Arriba ràpid, però ja sé d'on pot venir.",1
+"i eh, però de sobte ve d'algun lloc no sé d'on ve però",Ve com la melassa i sé exactament quan arribarà.,1
+"no, de fet, ni tan sols n'estic familiaritzat, no crec",No en sé gaire d’això.,0
+"no, de fet, ni tan sols n'estic familiaritzat, no crec",Soc ignorant en temes d'amor.,1
+"no, de fet, ni tan sols n'estic familiaritzat, no crec",Fa anys que l'estudio.,2
+"sí, era genial, ja saps ella",Crec que ella sap que era genial.,0
+"sí, era genial, ja saps ella","No, ella era horrible.",2
+"sí, era genial, ja saps ella","Sí, era molt bona.",0
+"sí, va suggerir que només aconseguissis una fregona com faries servir",Va suggerir comprar una aspiradora.,2
+"sí, va suggerir que només aconseguissis una fregona com faries servir",Va suggerir trobar un pal de fregar.,0
+"sí, va suggerir que només aconseguissis una fregona com faries servir",Volia netejar la sang amb un pal de fregar.,1
+és molt dolent aquí acabem de tenir un tiroteig franc a unes tres illes de casa nostra,El tiroteig va ser almenys a 100 milles d'on visc.,2
+és molt dolent aquí acabem de tenir un tiroteig franc a unes tres illes de casa nostra,El tiroteig va ser a prop de casa meva i em fa por sortir.,0
+és molt dolent aquí acabem de tenir un tiroteig franc a unes tres illes de casa nostra,Hi va haver un tiroteig prop de casa meva; realment aquesta no és una bona zona.,0
+"uh-huh és cert, no és realment coherent","No estic d'acord amb tu, és molt coherent.",2
+"uh-huh és cert, no és realment coherent",Crec que pots tenir raó sobre la seva consistència.,1
+"uh-huh és cert, no és realment coherent",Tens raó que no és coherent.,0
+estic intentant quedar-me allà,Estic intentant aguantar.,1
+estic intentant quedar-me allà,Realment estic fent el possible.,0
+estic intentant quedar-me allà,Em deixaré anar i no miraré mai enrere.,1
+Restringim la nostra entrada al futur tecnològic.,Estem construint els precursors necessaris per a un futur tecnològic.,0
+Vigilem la nostra entrada al futur tecnològic.,"Construïm transistors, de manera que el nostre futur es basarà en la IA.",1
+Vigilem la nostra entrada al futur tecnològic.,Volem evitar que la tecnologia tingui èxit.,2
+"Per exemple, com a màxim, tots els gens es tornen morats.","Com a màxim, només la meitat dels gens poden tornar-se morats.",2
+"Per exemple, com a màxim, tots els gens es tornen morats.",És possible que els gens canviïn de color.,0
+"Per exemple, com a màxim, tots els gens es tornen morats.","De vegades, els gens també poden tornar-se blaus.",1
+Daniel Yamins és un jove matemàtic brillant.,El senyor Yamins és excel·lent en matemàtiques.,0
+Daniel Yamins és un jove matemàtic brillant.,El Sr. Yamins es dedica a la geometria algebraica.,1
+Daniel Yamins és un jove matemàtic brillant.,"El Sr. Yamins és un gran artista, però un matemàtic terrible.",2
+"I si és així, sovint estan a prop d'aquest límit?",Sé que mai viatgen a prop del límit.,2
+"I si és així, sovint estan a prop d'aquest límit?",Vull saber si són sovint a Anglaterra.,1
+"I si és així, sovint estan a prop d'aquest límit?",El ponent volia aclarir la freqüència amb què s'acostaven al límit.,0
+I crec que hi ha una pista molecular que la biosfera s'està coconstruint a si mateixa de manera persistent en règim de supervivència per a un conjunt de llinatges en propagació.,La biosfera canvia molt.,1
+I crec que hi ha una pista molecular que la biosfera s'està coconstruint a si mateixa de manera persistent en règim de supervivència per a un conjunt de llinatges en propagació.,La biosfera canvia segons la temperatura.,1
+I crec que hi ha una pista molecular que la biosfera s'està coconstruint a si mateixa de manera persistent en règim de supervivència per a un conjunt de llinatges en propagació.,La biosfera no canvia mai.,2
+"Amb aquest salt, un cristall normal no pot codificar molta informació.",Els cristalls regulars són un mitjà d'emmagatzematge d'informació de molt alta densitat.,2
+"Amb aquest salt, un cristall normal no pot codificar molta informació.",Els cristalls regulars no són gaire útils per codificar la informació.,0
+"Amb aquest salt, un cristall normal no pot codificar molta informació.",Hi ha altres tipus de cristalls que són molt útils per codificar informació geogràfica mitjançant raigs làser.,1
+"En conseqüència, els adults no necessiten tutoritzar els nens en edat preescolar o fer-ho veure, com fan de vegades quan els ajuden a fer bé els trencaclosques o altres tasques similars.","Els nens en edat preescolar són, naturalment, més bons resolent trencaclosques que jugant a jocs de simulació.",1
+"En conseqüència, els adults no necessiten tutoritzar els nens en edat preescolar o fer-ho veure, com fan de vegades quan els ajuden a fer bé els trencaclosques o altres tasques similars.",Els nens en edat preescolar no necessiten tanta ajuda per aprendre a fingir.,1
+"En conseqüència, els adults no necessiten tutoritzar els nens en edat preescolar o fer-ho veure, com fan de vegades quan els ajuden a fer bé els trencaclosques o altres tasques similars.",Els nens en edat preescolar no tenen les habilitats de modelatge espacial necessàries per dominar els trencaclosques pel seu compte.,1
+[Aquesta nació va ser] concebuda en llibertat i dedicada a la proposició que tots els homes són creats iguals.,Les notes sobre aquesta proposta es van registrar en diversos documents addicionals.,1
+[Aquesta nació va ser] concebuda en llibertat i dedicada a la proposició que tots els homes són creats iguals.,Algunes persones creien que totes les persones som iguals.,0
+[Aquesta nació va ser] concebuda en llibertat i dedicada a la proposició que tots els homes són creats iguals.,Aquesta nació es va fundar en la creença que algunes persones són inherentment millors que altres.,2
+L'he de lloar més?,Estic bastant segur que he de vèncer-lo pels seus fracassos.,1
+L'he de lloar més?,Em pregunto si necessita més apreciació de mi.,0
+L'he de lloar més?,Hauria de lloar-lo més per la seva interpretació al piano?,0
+Les teories de la xarxa d'espín es poden construir en diferents dimensions.,Es poden utilitzar altres dimensions per construir teories de la xarxa Spin.,0
+Les teories de la xarxa Spin es poden construir en diferents dimensions.,Les xarxes Spin són molt útils per a les tecnologies d'emmagatzematge de dades.,1
+Les teories de la xarxa Spin es poden construir en diferents dimensions.,Les xarxes Spin no es poden imaginar en diferents dimensions.,2
+"(frenèticament) No, no, no vull que et moris!",No vull que et moris!,0
+"(fFrenèticament) No, no, no vull que et moris!",No m'importa si et mors!,2
+"(fFrenèticament) No, no, no vull que et moris!",M'enfadaria molt si et morissis!,0
+"Va ser penjat públicament el 19 de març de 1875 a San José, Califòrnia.",Califòrnia estava realitzant execucions públiques fins al 1875.,0
+"Va ser penjat públicament el 19 de març de 1875 a San José, Califòrnia.",Va ser absolt de tot el mal que havia fet i enviat de tornada.,2
+"Va ser penjat públicament el 19 de març de 1875 a San José, Califòrnia.",Va ser penjat per sedició i robatori de cavalls.,1
+"En el règim caòtic, el mar verd brillant s'infiltra.",El mar era de color blau intens i llis com el vidre.,2
+"En el règim caòtic, el mar verd brillant s'infiltra.",El mar era ple de petits peixos que xipollejaven contra la barca.,1
+"En el règim caòtic, el mar verd brillant s'infiltra.",El mar era verd i semblava fer bombolles.,1
+Un ordre jurídic completament nou anhelava sortir de la confusió de la dècada de 1860.,"A la dècada de 1870, tot l'ordre jurídic s'havia ensorrat i el país estava en completa anarquia.",2
+Un ordre jurídic completament nou anhelava sortir de la confusió de la dècada de 1860.,La dècada de 1860 va ser una època convulsa.,0
+Un ordre jurídic completament nou anhelava sortir de la confusió de la dècada de 1860.,El nou ordenament jurídic volia ampliar els drets laborals.,1
+"Qualsevol forma de pensament superior, va assenyalar, apareix en primer lloc en la comunicació social, entre l'infant i els representants de la seva cultura mentre duen a terme una activitat conjunta.",Els nens són incapaços de compartir formes superiors de pensament.,2
+"Qualsevol forma de pensament superior, va assenyalar, apareix en primer lloc en la comunicació social, entre l'infant i els representants de la seva cultura mentre duen a terme una activitat conjunta.",La pesca és una activitat popular compartida entre moltes cultures diferents.,1
+"Qualsevol forma de pensament superior, va assenyalar, apareix en primer lloc en la comunicació social, entre l'infant i els representants de la seva cultura mentre duen a terme una activitat conjunta.",Compartir activitats comunes de vegades és útil per compartir formes més altes de pensament.,0
+"Alguns barris tenien ""rezadores"" o ""rezadoras"", líders espirituals que conduïen la comunitat en la pregària pels funerals, les celebracions del Dia dels Sants i sempre que el sacerdot no estava disponible.",Cap dels barris tenia líders espirituals que no fossin sacerdots.,2
+"Alguns barris tenien ""rezadores"" o ""rezadoras"", líders espirituals que conduïen la comunitat en la pregària pels funerals, les celebracions del Dia dels Sants i sempre que el sacerdot no estava disponible.",Alguns barris tenien líders espirituals que no eren sacerdots.,0
+"Alguns barris tenien ""rezadores"" o ""rezadoras"", líders espirituals que conduïen la comunitat en la pregària pels funerals, les celebracions del Dia dels Sants i sempre que el sacerdot no estava disponible.",Alguns dels líders espirituals tenien els cabells negres.,1
+"També en el joc sociodramàtic, les oportunitats d'actuar i coordinar diversos rols probablement ajuden els nens a comprendre les semblances i diferències entre les persones pel que fa a desitjos, creences i sentiments.",Els nens poden aprendre que les persones són semblants i diferents.,0
+"També en el joc sociodramàtic, les oportunitats d'actuar i coordinar diversos rols probablement ajuden els nens a comprendre les semblances i diferències entre les persones pel que fa a desitjos, creences i sentiments.",Els nens poden veure que les diferents races són diferents.,1
+"També en el joc sociodramàtic, les oportunitats d'actuar i coordinar diversos rols probablement ajuden els nens a comprendre les semblances i diferències entre les persones pel que fa a desitjos, creences i sentiments.",Els nens no poden aprendre res.,2
+"La màxima virtut de l'ordre constitucional alemany de postguerra, doncs, va ser precisament la víctima més gran del règim nazi.",El règim nazi ho va permetre.,2
+"La màxima virtut de l'ordre constitucional alemany de postguerra, doncs, va ser precisament la víctima més gran del règim nazi.",El règim nazi va matar tots els implicats.,2
+"La màxima virtut de l'ordre constitucional alemany de postguerra, doncs, va ser precisament la víctima més del règim nazi.",El règim nazi ho va aturar.,2
+"Sonja, la filla, va començar a imitar les rebequeries de la seva filla.",Ningú estava fent una rebequeria.,2
+"Sonja, la filla, va començar a imitar les rebequeries de la seva filla.",La Sonja és una nena.,2
+"Sonja, la filla, va començar a imitar les rebequeries de la seva filla.",La Sonja estava molesta.,0
+"6 En els cinquanta-cinc anys previs a la Guerra Civil, el tribunal va utilitzar aquest poder amb moderació.",El Tribunal va utilitzar ocasionalment aquest poder en les dècades prèvies a la Guerra Civil.,0
+"6 En els cinquanta-cinc anys previs a la Guerra Civil, el tribunal va utilitzar aquest poder amb moderació.",El Tribunal va utilitzar aquest poder 4 vegades en els cinquanta-cinc anys anteriors a la Guerra Civil.,1
+"6 En els cinquanta-cinc anys previs a la Guerra Civil, el tribunal va utilitzar aquest poder amb moderació.",El Tribunal va utilitzar aquest poder 5 milions de vegades en els cinquanta-cinc anys previs a la Guerra Civil.,2
+"Us asseguro, senyor, que estava plenament informat de tot.",Et dic que em van informar de tot.,0
+"Us asseguro, senyor, que estava plenament informat de tot.",És la mort del detectiu de què em van informar.,1
+"Us asseguro, senyor, que estava plenament informat de tot.",Hi ha molts detalls que em van amagar.,2
+Els sons van distreure el capità Blood de les seves reflexions descontentes.,El capità Blood va poder entregar-se als seus pensaments disgustats sense interrupcions.,2
+Els sons van distreure el capità Blood de les seves reflexions descontentes.,Els pensaments del capità Blood es van interrompre amb alguns sorolls.,0
+Els sons van distreure el capità Blood de les seves reflexions descontentes.,Els crits del cadell van treure el capità de les seves cavil·lacions.,1
+"Però no puc oblidar que, quan jo no era més que un esclau a casa del teu oncle a Barbados, em vas utilitzar amb certa amabilitat.",Em vas tractar amablement quan era esclau a Barbados.,0
+"Però no puc oblidar que, quan jo no era més que un esclau a casa el teu oncle a Barbados, em vas utilitzar amb certa amabilitat.",Vas ser increïblement cruel amb mi i em vas tractar pitjor que a la merda.,2
+"Però no puc oblidar que, quan jo no era més que un esclau a casa el teu oncle a Barbados, em vas utilitzar amb certa amabilitat.",El teu oncle em va colpejar fort cada dia quan era el meu amo.,2
+"Allà, a no més de tres milles de distància, hi havia terra: una paret irregular de verd viu que omplia l'horitzó a l'oest.",Un paisatge exuberant estava a la vista.,0
+"Allà, a no més de tres milles de distància, hi havia terra: una paret irregular de verd viu que omplia l'horitzó a l'oest.",L'illa a la qual s'acostaven estava deshabitada.,1
+"Allà, a no més de tres milles de distància, hi havia terra: una paret irregular de verd viu que omplia l'horitzó a l'oest.","No van poder veure terra durant quilòmetres, només un oceà sense fi.",2
+"Soc l'enviat de Sa Majestat en aquestes terres bàrbares, i el parent proper del meu senyor Sunderland.","Sa Majestat té enviats, i jo soc un d'ells.",0
+"Soc l'enviat de Sa Majestat a aquestes terres bàrbares, i el parent proper del meu senyor Sunderland.",Sa Majestat em va enviar aquí fa aproximadament una setmana.,1
+"Soc l'enviat de Sa Majestat a aquestes terres bàrbares, i el parent proper del meu senyor Sunderland.",No rebo ordres de Sa Majestat.,2
+"T'ho devia... o pensava que t'ho devia, va dir.",Mai va pensar que et degués res.,2
+"T'ho devia... o pensava que t'ho devia, va dir.",Et devia per l'ajuda que li vas donar quan eres un captaire sense diners.,1
+"T'ho devia... o pensava que t'ho devia, va dir.",Pensava que et devia alguna cosa.,0
+"Ho hauria d'haver sabut, que no convenia apropar-se tant a Jamaica de nit.",Vaig viatjar a prop de Jamaica després de la posta de sol.,0
+"Ho hauria d'haver sabut, que no convenia apropar-se tant a Jamaica de nit.",Vaig viatjar a Jamaica en un gran vaixell.,1
+"Ho hauria d'haver sabut, que no convenia apropar-se tant a Jamaica de nit.",La meva dona i jo vam arribar a Jamaica a plena llum del dia.,1
+Els pensaments de Blood giraven sobre aquesta i altres coses mentre jeia al divan.,Blood va tenir un somni irreflexiu al seu divan.,1
+Els pensaments de Blood eren sobre aquesta i altres coses mentre jeia al divan.,Blood estava estirat rumiant.,0
+Els pensaments de Blood eren sobre aquesta i altres coses mentre jeia al divan.,Blood pensava molt en l'última vegada que havia vist la seva mare.,1
+"Segur, doncs, ja t'ho diré.","Bé, doncs, t'ho explicaré.",1
+"Segur, doncs, ja t'ho diré.",No et diré ni una paraula.,2
+"Segur, doncs, ja t'ho diré.",És només perquè vas prometre no repetir això que et dic.,1
+Ah! I de quina manera pot ser?,Algú es pregunta per quin camí seguir.,0
+Ah! I de quina manera pot ser?,L'interrogador està sol i no té ningú al voltant amb qui conversar.,1
+Ah! I de quina manera pot ser?,L'interrogador té pressa i necessita saber immediatament la ruta a seguir.,1
+No atorgo l'encàrrec del Rei a la lleugera.,Atorgar l'encàrrec del rei va en contra de la meva moral.,1
+No atorgo l'encàrrec del Rei a la lleugera.,He pensat molt en l'encàrrec del rei.,0
+No atorgo l'encàrrec del Rei a la lleugera.,Vaig signar l'ordre per atorgar l'encàrrec del rei sense pensar-m'hi.,2
+Es va adonar que potser hauria de retirar-se amb pressa.,Es va adonar que tenia tot el dia per retirar-se.,2
+Es va adonar que potser hauria de retirar-se amb pressa.,Es va adonar que havia de fer un moviment ràpid.,0
+Es va adonar que potser hauria de retirar-se amb pressa.,"Si es quedés al mateix lloc, seria descobert.",0
+"I, tanmateix, ell ha estat el que ha estat i ha fet el que ha fet en aquests tres darrers anys, va dir ella, però ara ho va dir amb tristesa, sense el menyspreu d'abans.",No li agradava que hagués assassinat molts homes en els últims tres anys.,1
+"I, tanmateix, ell ha estat el que ha estat i ha fet el que ha fet en aquests tres darrers anys, va dir ella, però ara ho va dir amb tristesa, sense el menyspreu d'abans.",Va parlar feliç de les seves aventures i de la seva personalitat.,2
+"I, tanmateix, ell ha estat el que ha estat i ha fet el que ha fet en aquests tres darrers anys, va dir ella, però ara ho va dir amb tristesa, sense el menyspreu d'abans.",Va parlar amb un to trist.,0
+Suposo que això segueix la moda de la teva espècie.,Suposo que això és el que fan els teus.,0
+Suposo que això segueix la moda de la teva espècie.,He llegit sobre la teva espècie i la seva cultura.,1
+Suposo que això segueix la moda de la teva espècie.,Entenc que això no és comú entre els teus.,2
+El front se li va arrugar amb una arrufada.,Un gran somriure es va estendre a la seva cara.,2
+El front se li va arrugar amb una arrufada.,Va tenir una sensació repugnant a l'estómac.,1
+El front se li va arrugar amb una arrufada.,Se li va arrugar la cara.,0
+"Ella l'havia estat observant amb ulls brillants, però en veure el seu rostre abatut, i la profunda arrufada que marcava el seu front, la seva pròpia expressió va canviar.",La seva expressió va canviar després de veure el seu rostre.,0
+"Ella l'havia estat observant amb ulls brillants, però en veure el seu rostre abatut, i la profunda arrufada que marcava el seu front, la seva pròpia expressió va canviar.",Se li va il·luminar la cara quan va veure la seva cara arrugada.,2
+"Ella l'havia estat observant amb ulls brillants, però en veure el seu rostre abatut, i la profunda arrufada que marcava el seu front, la seva pròpia expressió va canviar.",No sabia si estava enfadat amb ella.,1
+"Caminant tranquil·lament, va vorejar la muralla amb merlets i va entrar al pati per les grans portes.","Com que les grans portes estaven tancades, va saltar per sobre de la tanca, al pati.",2
+"Caminant tranquil·lament, va vorejar la muralla amb merlets i va entrar al pati per les grans portes.",Les grans portes eren l'única entrada al pati.,1
+"Caminant tranquil·lament, va vorejar la muralla amb merlets i va entrar al pati per les grans portes.",Hi havia grans portes que donaven al pati.,0
+"La forca te'l canviarà, sens dubte, va dir amb menyspreu.",Va pensar que algú aniria a la forca.,0
+"La forca te'l canviarà, sens dubte, va dir amb menyspreu.",Era un xèrif que havia capturat un lladre.,1
+"La forca te'l canviarà, sens dubte, va dir amb menyspreu.",Va xiuxiuejar una manera d'escapar del país per evitar la presó.,1
+"Com podria, sincerament, haver-los aturat? Era massa.",No vaig poder detenir-los.,0
+"Com podria, sincerament, haver-los aturat? Era massa.",Els vaig detenir tan bon punt els vaig veure.,2
+"Com podria, sincerament, haver-los aturat? Era massa.","No m'ho hauria perdonat, si els hagués detingut.",0
+L'he estat caçant el darrer any.,Fa un any que el segueixo de prop sense saber-ho.,1
+L'he estat caçant el darrer any.,Fa gairebé una setmana que només el segueixo.,1
+L'he estat caçant el darrer any.,Durant l'últim any l'he estat perseguint.,0
+El museu no destaca pels catàlegs o les etiquetes,Al museu no li agrada ser etiquetat.,1
+El museu no destaca pels catàlegs o les etiquetes,Al museu no li agraden gaire els fullets.,1
+El museu no destaca pels catàlegs o les etiquetes,El punt fort del museu són els catàlegs.,2
+Aquests mercats a l'aire lliure són també els llocs més interessants per comprar a Pequín.,Pequín té mercats a l'aire lliure que inclouen botigues molt interessants.,0
+Aquests mercats a l'aire lliure són també els llocs més interessants per comprar a Pequín.,Els mercats a l'aire lliure de Pequín són els més interessants del món.,1
+Aquests mercats a l'aire lliure són també els llocs més interessants per comprar a Pequín.,Les lleis estrictes de Pequín prohibeixen els mercats a l'aire lliure dins dels límits de la ciutat.,2
+"La badia més gran de la costa nord-oest és un bon port, però tant l'aigua com la platja poden estar brutes.",L'aigua i la platja sempre estan netes.,2
+"La badia més gran de la costa nord-oest és un bon port, però tant l'aigua com la platja poden estar brutes.",L'aigua i la platja poden estar brutes.,0
+"La badia més gran de la costa nord-oest és un bon port, però tant l'aigua com la platja poden estar brutes.",L'aigua està bruta a causa de la contaminació.,1
+"Aquells gratacels són bancs, i el carrer on s'aixequen ha rebut el sobrenom de Milla de Oro o Milla d'Or.",Cap dels gratacels de la Milla d'Or són bancs.,2
+"Aquells gratacels són bancs, i el carrer on s'aixequen ha rebut el sobrenom de Milla de Oro o Milla d'Or.",Els gratacels de la Milla d'Or són bancs.,0
+"Aquells gratacels són bancs, i el carrer on s'aixequen ha rebut el sobrenom de Milla de Oro o Milla d'Or.","Els gratacels de la Milla d'Or són diferents tipus de negocis, inclosos bancs.",0
+"És ben natural, doncs, que la implicació en la Segona Guerra Mundial comencés amb un Pla d'entrenament aeri de la Commonwealth britànica, utilitzant els cels més segurs del Canadà per preparar els pilots per al combat.",Canadà tenia cels més segurs.,0
+"És ben natural, doncs, que la implicació en la Segona Guerra Mundial comencés amb un Pla d'entrenament aeri de la Commonwealth britànica, utilitzant els cels més segurs del Canadà per preparar els pilots per al combat.",Els cels del Canadà estaven lliures de míssils.,0
+"És ben natural, doncs, que la implicació en la Segona Guerra Mundial comencés amb un Pla d'entrenament aeri de la Commonwealth britànica, utilitzant els cels més segurs del Canadà per preparar els pilots per al combat.",Els cels del Canadà eren més perillosos.,2
+"I encara són tolerants i servicials, tot i que saben que la seva preciosa costa ja no és només seva.",Estan amargs i ressentits amb tothom ara que han de compartir la costa.,2
+"I encara són tolerants i servicials, tot i que saben que la seva preciosa costa ja no és només seva.",Ara han de compartir la costa amb altres persones.,0
+"I encara són tolerants i servicials, tot i que saben que la seva preciosa costa ja no és només seva.",Abans eren propietaris de cinc-centes milles de façana costanera.,1
+"Kublai Khan va erigir la seva pròpia capital l'any 1279 a la vora del llac Beihai de Pequín, on alguns dels seus tresors imperials romanen exposats avui.",Kublai Khan va erigir una capital a Taiwan.,2
+"Kublai Khan va erigir la seva pròpia capital l'any 1279 a la vora del llac Beihai de Pequín, on alguns dels seus tresors imperials romanen exposats avui.",Kublai Khan té tresors a Pequín.,0
+"Kublai Khan va erigir la seva pròpia capital l'any 1279 a la vora del llac Beihai de Pequín, on alguns dels seus tresors imperials romanen exposats avui.",Kublai Khan era un home molt respectat.,1
+"Integrant-se més fàcilment a la comunitat anglosaxona, només les escoles protestants van acceptar els seus fills. Els jueus de l'Europa de l'Est s'han graduat a l'opulenta Westmount o han emigrat, de nou, a Toronto.",Els jueus d'Europa de l'Est s'assimilen bé amb tothom.,2
+"Assimilant-se més fàcilment a la comunitat anglosaxona, només les escoles protestants van acceptar els seus fills. Els jueus de l'Europa de l'Est s'han graduat a Westmount o han emigrat, de nou, a Toronto.",Els jueus no són desitjats per la resta de la comunitat.,0
+"Assimilant-se més fàcilment a la comunitat anglosaxona, només les escoles protestants van acceptar els seus fills. Els jueus de l'Europa de l'Est s'han graduat a Westmount o han emigrat, de nou, a Toronto.",Els jueus es van assimilar més fàcilment amb la comunitat anglosaxona.,0
+"Si és possible, familiaritzeu-vos amb la trama prèviament.",No entris a la trama amb antelació; esguerrarà la diversió posterior.,2
+"Si és possible, familiaritzeu-vos amb la trama prèviament.","Intenta entendre la trama per endavant, si pots.",0
+"Si és possible, familiaritzeu-vos amb la trama prèviament.",La classe serà més fàcil si enteneu l'argument del llibre.,0
+"Les seves cambres funeràries, a 27 m (88 peus) sota terra, estan fetes de marbre i fan 1.200 metres quadrats (13.000 peus quadrats).",Està enterrat a més de 20 metres sota terra.,0
+"Les seves cambres funeràries, a 27 m (88 peus) sota terra, estan fetes de marbre i fan 1.200 metres quadrats (13.000 peus quadrats).",Va ser una figura pública important.,1
+"Les seves cambres funeràries, a 27 m (88 peus) sota terra, estan fetes de marbre i fan 1.200 metres quadrats (13.000 peus quadrats).",Les seves voltes funeràries són de fusta.,2
+Recordeu amagar totes les possessions portàtils dels micos.,Amaga les teves possessions dels micos.,0
+Recordeu amagar totes les possessions portàtils dels micos.,"Els micos estan molt interessats en moltes coses, incloses les vostres possessions.",0
+Recordeu amagar totes les possessions portàtils dels micos.,No cal que amagueu les vostres possessions dels micos.,2
+"Uns 1.400 anys abans que s'erigís el palau d'Estei, Milreu era també la gran masia d'una persona eminent.",Milreu estava a 10 milles de qualsevol cosa.,1
+"Uns 1.400 anys abans que s'erigís el palau d'Estei, Milreu era també la gran masia d'una persona eminent.","Milreu estava lluny, al camp.",1
+"Uns 1.400 anys abans que s'erigís el palau d'Estei, Milreu era també la gran masia d'una persona eminent.",Milreu estava just al cor de la ciutat.,1
+Les temperatures del mar oscil·len entre 18e i 24e C (64-75e F).,"La temperatura del mar sempre canvia, però no baixa per sota de la temperatura de congelació.",0
+Les temperatures del mar oscil·len entre 18e i 24e C (64-75e F).,Les temperatures del mar estan sempre en un punt fix durant tot l'any.,2
+Les temperatures del mar oscil·len entre 18e i 24e C (64-75e F).,"Les temperatures són més altes durant el dia, quan fa més calor.",1
+El parc nacional de Kinabalu és només una de les sis regions protegides de l'estat.,El parc nacional de Kinabalu té deu elefants i sis rinoceronts.,1
+El parc nacional de Kinabalu és només una de les sis regions protegides de l'estat.,"L'estat té regions protegides, que inclouen el parc nacional de Kinabalu.",0
+El parc nacional de Kinabalu és només una de les sis regions protegides de l'estat.,Hi ha un total de tres regions protegides a l'estat.,1
+"Veureu vídeos de la història d'Anne i de l'Amsterdam ocupada, així com fotografies i objectes de l'època.",No veuràs fotografies.,2
+"Veureu vídeos de la història d'Anne i de l'Amsterdam ocupada, així com fotografies i objectes de l'època.",Veuràs fotografies.,0
+"Veureu vídeos de la història d'Anne i de l'Amsterdam ocupada, així com fotografies i objectes de l'època.",Veuràs algunes de les primeres fotografies.,0
+"Treasure Beach és l'única zona turística digna de menció, amb només un grapat d'hotels repartits per tres badies de sorra.",No hi ha tantes opcions d'allotjament per a les persones que visiten Treasure Beach.,0
+"Treasure Beach és l'única zona turística de la qual es parla, amb només un grapat d'hotels repartits per tres badies de sorra.",Hi ha un hotel de quatre estrelles disponible per als turistes que visiten Treasure Beach.,1
+"Treasure Beach és l'única zona turística de la qual es parla, amb només un grapat d'hotels repartits per tres badies de sorra.",Treasure Beach és un dels molts complexos turístics de la zona.,2
+"L'estiu és d'un clima càlid (però no calorós), amb temperatures càlides de l'aigua, cosa que el fa ideal per al submarinisme, la immersió lleugera i altres esports aquàtics.",A l'estiu sempre fa 100 graus o més.,2
+"L'estiu és d'un clima càlid (però no calorós), amb temperatures càlides de l'aigua, cosa que el fa ideal per al submarinisme, la immersió lleugera i altres esports aquàtics.",Normalment en fa 75 a l'estiu.,1
+"L'estiu és d'un clima càlid (però no calorós), amb temperatures càlides de l'aigua, cosa que el fa ideal per al submarinisme, la immersió lleugera i altres esports aquàtics.",Hi ha temperatures càlides durant l'estiu.,0
+"Entre els estanys n'hi ha un d'habitat per Els visitants hi llancen monedes amb l'esperança de fer-ne rebotar una al cap d'una tortuga, com una manera segura de tenir bona sort.",La gent mai hi tira diners perquè és mala sort.,2
+"Entre els estanys n'hi ha un d'habitat per Els visitants hi llencen monedes amb l'esperança de fer-ne rebotar una al cap d'una tortuga, com una manera segura de tenir bona sort.",La gent hi llença monedes encara que el cartell digui que no.,1
+"Entre els estanys n'hi ha un d'habitat per Els visitants hi llencen monedes amb l'esperança de fer-ne rebotar una al cap d'una tortuga, com una manera segura de tenir bona sort.",La gent llença monedes a l'aigua.,0
+"La ciutat portuària de Nafplio és la base perfecta per recórrer la zona, o potser un lloc per dinar durant el viatge.",Nafplio té unes bones vistes.,1
+"La ciutat portuària de Nafplio és la base perfecta per recórrer la zona, o potser un lloc per dinar durant el viatge.",Nafplio és una mala base.,2
+"La ciutat portuària de Nafplio és la base perfecta per recórrer la zona, o potser un lloc per dinar durant el viatge.",Nafplio és una base perfecta.,0
+"A Prinsengracht, Otto Frank i la seva família es van amagar a l'àtic del seu local comercial durant més de dos anys abans de ser descoberts.",Otto Frank va ser capturat el segon dia.,2
+"A Prinsengracht, Otto Frank i la seva família es van amagar a l'àtic del seu local comercial durant més de dos anys abans de ser descoberts.",Otto Frank es va amagar durant més de 25 mesos.,0
+"A Prinsengracht, Otto Frank i la seva família es van amagar a l'àtic del seu local comercial durant més de dos anys abans de ser descoberts.",Otto Frank es va amagar fins que els nazis el van trobar.,0
+Molts governs estatals i locals tenen requisits d'auditoria addicionals.,Els governs locals poden crear les seves pròpies normes.,1
+Molts governs estatals i locals tenen requisits d'auditoria addicionals.,Els governs locals tenen zero requisits.,2
+Molts governs estatals i locals tenen requisits d'auditoria addicionals.,Hi ha problemes addicionals de requisits d'auditoria per part dels governs locals.,0
+El grup de seguretat de la informació duu a terme entre 8 i 12 sessions al mes.,El grup de seguretat fa una mitjana de 9 sessions al mes.,0
+El grup de seguretat de la informació duu a terme entre 8 i 12 sessions al mes.,El grup de seguretat realitza una sessió cadascun dels dies del mes.,2
+El grup de seguretat de la informació duu a terme entre 8 i 12 sessions al mes.,El grup de seguretat realitza diverses sessions a l'any.,0
+"Tanmateix, l'enginyeria preliminar es va fer abans.",L'enginyeria va tenir un període preliminar.,0
+"Tanmateix, l'enginyeria preliminar es va fer abans.",L'enginyeria es va produir només en una etapa final.,2
+"Tanmateix, l'enginyeria preliminar es va fer abans.","Sense un període preliminar, l'enginyeria probablement fallarà en les etapes posteriors.",1
+"En conseqüència, els responsables de les decisions i els gestors del govern estan adoptant noves maneres de pensar, considerant diferents maneres d'assolir els objectius i utilitzant nova informació com a guia en la presa de decisions.",Els representants del govern estan canviant el seu enfocament.,0
+"En conseqüència, els responsables de les decisions i els gestors del govern estan adoptant noves maneres de pensar, considerant diferents maneres d'assolir els objectius i utilitzant nova informació com a guia en la presa de decisions.",Els representants del govern intenten augmentar el seu poder pensant de manera diferent.,0
+"En conseqüència, els responsables de les decisions i els gestors del govern estan adoptant noves maneres de pensar, considerant diferents maneres d'assolir els objectius i utilitzant nova informació com a guia en la presa de decisions.",Els representants del govern es neguen a canviar els seus estils de vida.,2
+És possible que s'hagin de traduir els fitxers de casos per als clients que són parlants d'un idioma diferent de l'anglès.,Els fitxers de casos només poden estar en anglès.,2
+És possible que s'hagin de traduir els fitxers de casos per als clients que són parlants d'un idioma diferent de l'anglès.,Els fitxers de casos es poden posar en xinès o rus.,0
+És possible que s'hagin de traduir els fitxers de casos per als clients que són parlants d'un idioma diferent de l'anglès.,Els fitxers de casos es poden posar en altres idiomes.,0
+Altres esforços en curs o previstos inclouen,La majoria dels nostres esforços ja estan en marxa.,1
+Altres esforços en curs o previstos inclouen,No tenim res més previst per al futur.,2
+Altres esforços en curs o previstos inclouen,Tenim alguna cosa planificada.,0
+"Inclouen factors com ara períodes de temps curts, l'eliminació dels fitxers d'ordinador originals i la manca d'accés als documents necessaris.",Van esborrar els fitxers informàtics de l'IBM.,0
+"Inclouen factors com ara períodes de temps curts, l'eliminació dels fitxers d'ordinador originals i la manca d'accés als documents necessaris.",Van esborrar els fitxers de l'ordinador originals.,0
+"Inclouen factors com ara períodes de temps curts, l'eliminació dels fitxers d'ordinador originals i la manca d'accés als documents necessaris.",Van guardar tots els fitxers originals.,2
+"Aleshores, el mateix representant que va fer la visita inicial torna a visitar el nou proveïdor per respondre preguntes i discutir els problemes que s'observen a la mostra de reclamacions.",El representant va visitar-lo durant una hora.,1
+"Aleshores, el mateix representant que va fer la visita inicial torna a visitar el nou proveïdor per respondre preguntes i discutir els problemes que s'observen a la mostra de reclamacions.",Hi va haver la visita d'un representant.,0
+"Aleshores, el mateix representant que va fer la visita inicial torna a visitar el nou proveïdor per respondre preguntes i discutir els problemes que s'observen a la mostra de reclamacions.",No hem rebut mai cap visita.,2
+"L'estalvi no només afecta la quantitat de riquesa, sinó que la riquesa al seu torn influeix en l'elecció d'estalviar.",L'elecció de si una persona estalviarà o no es veu afectada per la seva riquesa.,0
+"L'estalvi no només afecta la quantitat de riquesa, sinó que la riquesa al seu torn influeix en l'elecció d'estalviar.",La riquesa i l'estalvi normalment no estan relacionats de cap manera.,2
+"L'estalvi no només afecta la quantitat de riquesa, sinó que la riquesa al seu torn influeix en l'elecció d'estalviar.",Les persones riques tenen més probabilitats d'estalviar una part més gran dels seus ingressos.,0
+"Per exemple, una organització que vam estudiar havia experimentat dues fusions que van requerir que l'empresa integrés ràpidament els nous negocis i es reestructurés per satisfer les necessitats empresarials creixents.","Tot i que hi va haver dues fusions, no va ser necessari que l'empresa se sotmetés a una reestructuració de la seva jerarquia empresarial.",2
+"Per exemple, una organització que vam estudiar havia experimentat dues fusions que van requerir que l'empresa integrés ràpidament els nous negocis i es reestructurés per satisfer les necessitats empresarials creixents.",La fusió de dues empreses en una organització i la reestructuració van donar lloc a un entorn de treball caòtic.,0
+"Per exemple, una organització que vam estudiar havia experimentat dues fusions que van requerir que l'empresa integrés ràpidament els nous negocis i es reestructurés per satisfer les necessitats empresarials creixents.",Vam examinar una empresa que va experimentar dues fusions i que va haver de reestructurar-se ràpidament per satisfer les seves demandes comercials.,0
+"el disseny, ens preocupava que el pagament s'autoritzés abans de comprovar que el viatge realment s'havia dut a terme.",Sabíem que el pagament trigaria una eternitat.,1
+"el disseny, ens preocupava que el pagament s'autoritzés abans de comprovar que el viatge realment s'havia dut a terme.",Vam pensar que el pagament podria tramitar-se abans de la verificació.,0
+"el disseny, ens preocupava que el pagament s'autoritzés abans de comprovar que el viatge realment s'havia dut a terme.",Vam pensar que el pagament podria arribar massa aviat i ens estafarien.,0
+"La tecnologia està molt integrada amb els processos empresarials d'aquestes organitzacions perquè la tecnologia es considera un catalitzador per al negoci, no només una eina.",El programari de programació avançat és una de les tecnologies clau en les quals se centren les empreses.,1
+"La tecnologia està molt integrada amb els processos empresarials d'aquestes organitzacions perquè la tecnologia es considera un catalitzador per al negoci, no només una eina.",La tecnologia és només una eina i no un facilitador empresarial.,2
+"La tecnologia està molt integrada amb els processos empresarials d'aquestes organitzacions perquè la tecnologia es considera un catalitzador per al negoci, no només una eina.",Aquestes empreses donen un gran èmfasi a la tecnologia.,0
+Dos conceptes que apareixen sovint a la literatura poden ser útils per orientar futures investigacions.,Les publicacions poden canviar la manera com provem les mostres.,1
+Dos conceptes que apareixen sovint a la literatura poden ser útils per orientar futures investigacions.,Les publicacions poden canviar la investigació en el futur.,0
+Dos conceptes que apareixen sovint a la literatura poden ser útils per orientar futures investigacions.,No hi ha res més a fer en termes de canvi de recerca.,2
+Les línies formades per caixes mostren el nivell de protecció de tots els correus combinats i les línies compostes per diamants mostren les pèrdues tècniques (si són negatives) de traslladar la feina a una altra part.,Les línies calculen que el nivell de benestar dels encarregats d’enviar el correu és del 10 %.,1
+Les línies formades per caixes mostren el nivell de protecció de tots els correus combinats i les línies compostes per diamants mostren les pèrdues tècniques (si són negatives) de traslladar la feina a una altra part.,Les línies no mostren res més que la ruta.,2
+Les línies formades per caixes mostren el nivell de protecció de tots els correus combinats i les línies compostes per diamants mostren les pèrdues tècniques (si són negatives) de traslladar la feina a una altra part.,Les línies mostren quin nivell de benestar hi ha a tots els encarregats d’enviar el correu.,1
+"A partir d'aquesta avaluació de riscos, Centrelink va desenvolupar una sèrie d'estratègies de prevenció específiques destinades a informar els beneficiaris i els empresaris sobre els requisits de declaració dels ingressos.",Centrelink no va saber com solucionar el problema.,2
+"A partir d'aquesta avaluació de riscos, Centrelink va desenvolupar una sèrie d'estratègies de prevenció específiques destinades a informar els beneficiaris i els empresaris sobre els requisits de declaració dels ingressos.",Centrelink tenia moltes estratègies per ensenyar a la gent a declarar els ingressos perquè el govern estava perdent molts diners en errors.,0
+"A partir d'aquesta avaluació de riscos, Centrelink va desenvolupar una sèrie d'estratègies de prevenció específiques destinades a informar els beneficiaris i els empresaris sobre els requisits de declaració dels ingressos.",Centrelink tenia moltes estratègies per ensenyar a la gent a declarar els ingressos.,0
+Això va permetre fer demostracions del disseny abans que les empreses fessin inversions més importants en equips i eines de fabricació per construir prototips representatius de producció per a la fase de demostració.,Després van poder mostrar com funcionava el disseny.,0
+Això va permetre fer demostracions del disseny abans que les empreses fessin inversions més importants en equips i eines de fabricació per construir prototips representatius de producció per a la fase de demostració.,Van poder demostrar a l'empresa que no era intel·ligent construir noves fàbriques.,1
+Això va permetre fer demostracions del disseny abans que les empreses fessin inversions més importants en equips i eines de fabricació per construir prototips representatius de producció per a la fase de demostració.,No tenien ni idea de com demostrar l'impacte de les inversions.,2
+Els esforços col·laboratius de Carolina del Sud van donar lloc a un altre èxit l'any següent.,Ningú a Carolina del Sud treballava conjuntament.,2
+Els esforços col·laboratius de Carolina del Sud van donar lloc a un altre èxit l'any següent.,SC va treballar conjuntament.,0
+Els esforços col·laboratius de Carolina del Sud van donar lloc a un altre èxit l'any següent.,Els demòcrates i republicans de Carolina del Sud estan treballant junts.,1
+"Segons un funcionari de la Junta, les certificacions de la secció 605 (b) de la Junta no es van proporcionar per separat al conseller en cap de l'Administració de petites empreses (SBA) per a la defensa.",La Junta no va donar les certificacions de l'SBA i ho van deixar a l'oficina de l'avaluador.,1
+"Segons un funcionari de la Junta, les certificacions de la secció 605 (b) de la Junta no es van proporcionar per separat al conseller en cap de l'Administració de petites empreses (SBA) per a la defensa.",La Junta no va donar les certificacions de l'SBA.,0
+"Segons un funcionari de la Junta, les certificacions de la secció 605 (b) de la Junta no es van proporcionar per separat al conseller en cap de l'Administració de petites empreses (SBA) per a la defensa.",La Junta va lliurar cada dia les certificacions de l'SBA a qui en demana.,2
+"Quan es produeix una coincidència per a l'hotel i altres càrrecs, es duu a terme una verificació del viatge real.",La majoria de cadenes hoteleres nacionals accepten pagaments amb targeta de crèdit.,1
+"Quan es produeix una coincidència per a l'hotel i altres càrrecs, es duu a terme una verificació del viatge real.",El viatge en si es verificaria mitjançant els càrrecs de l'hotel.,0
+"Quan es produeix una coincidència per a l'hotel i altres càrrecs, es duu a terme una verificació del viatge real.",No hi ha manera de verificar si realment s'ha produït un viatge o no.,2
+"Per exemple, en una de les capitals d'estat que vam visitar hi ha més de 600 empreses de programari.",Les capitals són els millors llocs per a les empreses de programari.,1
+"Per exemple, en una de les capitals d'estat que vam visitar hi ha més de 600 empreses de programari.",Una capital té un munt d'empreses de programari.,0
+"Per exemple, en una de les capitals d'estat que vam visitar hi ha més de 600 empreses de programari.",Les empreses de programari eviten les capitals per motius legals.,2
+"A l'hora de mesurar l'eficàcia, la perfecció és inassolible.",Pots ser perfecte si t'esforces prou.,2
+"A l'hora de mesurar l'eficàcia, la perfecció és inassolible.",Mai no pots ser perfecte.,0
+"A l'hora de mesurar l'eficàcia, la perfecció és inassolible.",No pots ser perfecte perquè tots som persones profundament defectuoses.,0
+El company de pis que va llogar l'habitació a Hazmi i Mihdhar durant l'any 2000 és un ciutadà aparentment complidor de la llei amb contactes socials de llarga durada entre la policia local i el personal de l'FBI.,Hazmi i Mihdhar van comprar una casa i no van tenir contacte amb ningú.,2
+El company de pis que va llogar l'habitació a Hazmi i Mihdhar durant l'any 2000 és un ciutadà aparentment complidor de la llei amb contactes socials de llarga durada entre la policia local i el personal de l'FBI.,"Hazmi i Mihdhar van llogar una habitació per a tot l'any, per 500 dòlars al dia.",1
+El company de pis que va llogar l'habitació a Hazmi i Mihdhar durant l'any 2000 és un ciutadà aparentment complidor de la llei amb contactes socials de llarga durada entre la policia local i el personal de l'FBI.,Hazmi i Mihdhar van llogar una habitació.,0
+"Pel que fa al seu viatge a Bòsnia, vegeu l'Informe d'intel·ligència, interrogatori a un membre saudita d'Al-Qaeda, 3 oct. 2001.",Un membre d'al-Qaida va anar a Bòsnia 18 vegades el 2001.,1
+"Pel que fa al seu viatge a Bòsnia, vegeu l'Informe d'intel·ligència, interrogatori a un membre saudita d'Al-Qaeda, 3 oct. 2001.",Un membre d'al-Qaida va anar a Bòsnia.,0
+"Pel que fa al seu viatge a Bòsnia, vegeu l'Informe d'intel·ligència, interrogatori a un membre saudita d'Al-Qaeda, 3 oct. 2001.",No hi havia proves que un membre d'al-Qaida anés a Bòsnia.,2
+Jane va demanar a l'agent de Nova York assignat a la recerca de Mihdhar que signés un formulari de reconeixement de la FISA indicant que l'agent entenia com havia de tractar la informació de la FISA.,La Jane va demanar que un jutge federal signés un formulari de reconeixement del Tribunal FISA.,2
+Jane va demanar a l'agent de Nova York assignat a la recerca de Mihdhar que signés un formulari de reconeixement de la FISA indicant que l'agent entenia com havia de tractar la informació de la FISA.,La Jane va demanar que se signés un formulari de reconeixement del Tribunal FISA.,0
+Jane va demanar a l'agent de Nova York assignat a la recerca de Mihdhar que signés un formulari de reconeixement de la FISA indicant que l'agent entenia com havia de tractar la informació de la FISA.,La Jane va dir que no calia cap reconeixement del Tribunal FISA.,2
+No hi ha res a destacar sobre cap d'ells pel que fa a l'única capa de seguretat que era rellevant per al control real al punt de control.,Durant la inspecció del punt de control es van descobrir proves alarmants.,2
+No hi ha res a destacar sobre cap d'ells pel que fa a l'única capa de seguretat que era rellevant per al control real al punt de control.,Les inspeccions del punt de control depenen completament de la intuïció de l'agent de duanes que realitza la inspecció.,1
+No hi ha res a destacar sobre cap d'ells pel que fa a l'única capa de seguretat que era rellevant per al control real al punt de control.,La inspecció del punt de control no va poder descobrir cap prova contra ells.,0
+"Khallad ha donat una segona versió, que és que tots tres van viatjar junts a Karachi.",Khallad va dir que no sabia res d'ells tres.,2
+"Khallad ha donat una segona versió, que és que tots tres van viatjar junts a Karachi.",Khallad va dir que els tres podrien haver viatjat junts.,0
+"Khallad ha donat una segona versió, que és que tots tres van viatjar junts a Karachi.",Khallad va dir que hi havia un 50 % de possibilitats que els tres anessin junts a Karachi a l'octubre.,1
+"Informe d'intel·ligència, interrogatori a Binalshibh, 1 oct. 2002.",Binalshibh va ser interrogat per un grup de treball de l'FBI.,0
+"Informe d'intel·ligència, interrogatori a Binalshibh, 1 oct. 2002.",Binalshibh va ser interrogat el 2002.,0
+"Informe d'intel·ligència, interrogatori a Binalshibh, 1 oct. 2002.","Mai ningú no va parlar amb Binalshibh, i aquest va desaparèixer.",2
+Mihdhar va obtenir un nou visat dels Estats Units dos dies després de la reunió CIA-FBI a Nova York.,Mihdhar tenia un visat dels Estats Units per entrar al país.,0
+Mihdhar va obtenir un nou visat dels Estats Units dos dies després de la reunió CIA-FBI a Nova York.,"Mihdhar mai no va obtenir un visat, així que mai va venir als Estats Units.",2
+Mihdhar va obtenir un nou visat dels Estats Units dos dies després de la reunió CIA-FBI a Nova York.,A Mihdhar se li va donar un visat perquè no era una amenaça.,1
+"Malgrat els dos anys d'investigació, l'FBI no va poder trobar el company ni determinar la seva veritable identitat.",L'FBI mai no va poder trobar l'home després que va sortir de Florida el 2001.,1
+"Malgrat els dos anys d'investigació, l'FBI no va poder trobar el company ni determinar la seva veritable identitat.",L'FBI no va poder esbrinar qui era el tipus.,0
+"Malgrat els dos anys d'investigació, l'FBI no va poder trobar el company ni determinar la seva veritable identitat.",L'FBI va esbrinar qui era i el va tancar a la presó,2
+"En el cas de l'American 11, l'última comunicació normal des de l'avió va ser a les 8:13 del matí.",Hi havia comunicació que venia de l'American 11.,0
+"En el cas de l'American 11, l'última comunicació normal des de l'avió va ser a les 8:13 del matí.",Hi havia comunicació de l'American 11 cada 5 minuts.,2
+"En el cas de l'American 11, l'última comunicació normal des de l'avió va ser a les 8:13 del matí.",Mai no hi va haver cap comunicació de l'American 11.,2
+"Descobrir-ho hauria requerit una cooperació ràpida i molt substancial del govern alemany, que podria haver estat difícil d'aconseguir.","Si s'hagués acabat, la investigació podria haver revelat la ubicació de tres fugitius.",1
+"Descobrir-ho hauria requerit una cooperació ràpida i molt substancial del govern alemany, que podria haver estat difícil d'aconseguir.",El govern alemany podria haver tingut dificultats per dur a terme una investigació ràpida i exhaustiva.,0
+"Descobrir-ho hauria requerit una cooperació ràpida i molt substancial del govern alemany, que podria haver estat difícil d'aconseguir.",La investigació seria bastant senzilla i fàcil de dur a terme pel govern.,2
+"Aquestes capacitats eren insuficients, però es va fer poc per ampliar-les o reformar-les.",No van canviar gaire el seu programa de vigilància.,1
+"Aquestes capacitats eren insuficients, però es va fer poc per ampliar-les o reformar-les.",No van fer gaire per canviar les coses.,0
+"Aquestes capacitats eren insuficients, però es va fer poc per ampliar-les o reformar-les.",Van fer tot el possible per revisar-ho tot.,2
+"El correu electrònic de l'analista, però, reflecteix que estava confonent un gran nombre d'advertències i barreres legals sobre la compartició d'informació i les regles que regulen l'ús per part d'agents criminalistes de la informació recollida a través dels canals d'intel·ligència.",L'analista va presentar una anàlisi nítida.,2
+"El correu electrònic de l'analista, però, reflecteix que estava confonent un gran nombre d'advertències i barreres legals sobre la compartició d'informació i les regles que regulen l'ús per part d'agents criminalistes de la informació recollida a través dels canals d'intel·ligència.",L'analista no tenia clares moltes coses.,0
+"El correu electrònic de l'analista, però, reflecteix que estava confonent un gran nombre d'advertències i barreres legals sobre la compartició d'informació i les regles que regulen l'ús per part d'agents criminalistes de la informació recollida a través dels canals d'intel·ligència.",L'informe de l'analista estava tan desordenat que ningú no el podia llegir.,1
+"Aleshores, es van assignar alguns agents per ajudar en les evacuacions per les escales i d'altres per accelerar l'evacuació a la plaça, el vestíbul i l'estació PATH.",Els oficials tenien les seves pròpies tasques.,0
+"Aleshores, es van assignar alguns agents per ajudar en les evacuacions per les escales i d'altres per accelerar l'evacuació a la plaça, el vestíbul i l'estació PATH.",Els agents simplement corrien aleatòriament on els necessitaven.,2
+"Aleshores, es van assignar alguns agents per ajudar en les evacuacions per les escales i d'altres per accelerar l'evacuació a la plaça, el vestíbul i l'estació PATH.",Els agents van ser assignats en funció de l'antiguitat.,1
+El 9 de setembre van arribar molt males notícies de l'Afganistan.,Tenim notícies de l'Afganistan.,0
+El 9 de setembre van arribar molt males notícies de l'Afganistan.,No vam saber res de l'Afganistan fins a l'octubre.,2
+El 9 de setembre van arribar molt males notícies de l'Afganistan.,Ens van informar de l'atac imminent del 9 de setembre.,1
+"La incapacitat de comunicar-se va ser un element crític als llocs dels accidents del World Trade Center, del Pentàgon i del comtat de Somerset, Pennsilvània, on van actuar diverses agències i jurisdiccions.",La comunicació va funcionar molt bé l'11 de setembre.,2
+"La incapacitat de comunicar-se va ser un element crític als llocs dels accidents del World Trade Center, del Pentàgon i del comtat de Somerset, Pennsilvània, on van actuar diverses agències i jurisdiccions.",La gent va tenir dificultats per comunicar-se al World Trade Center perquè s'havia tallat l'electricitat i les línies telefòniques no funcionaven.,0
+"La incapacitat de comunicar-se va ser un element crític als llocs dels accidents del World Trade Center, del Pentàgon i del comtat de Somerset, Pennsilvània, on van actuar diverses agències i jurisdiccions.",La gent va tenir dificultats per comunicar-se al World Trade Center.,0
+"Les cerques a les bases de dades disponibles podrien haver revelat els carnets de conduir, el registre del cotxe i la llista de telèfons.",Els investigadors també van demanar accés a bases de dades professionals.,1
+"Les cerques a les bases de dades disponibles podrien haver revelat els carnets de conduir, el registre del cotxe i la llista de telèfons.",Hi havia diversos tipus d'informació disponibles a partir de bases de dades existents.,0
+"Les cerques a les bases de dades disponibles podrien haver revelat els carnets de conduir, el registre del cotxe i la llista de telèfons.",No hi havia manera de trobar informació sobre els subjectes utilitzant les fonts existents.,2
+"Afirmant que sospitava de tota la transacció, l'administrador es va distanciar d'Hazmi i Mihdhar, però no abans d'haver rebut l'assistència que necessitaven.",L'administrador es va posar en contacte immediatament amb les autoritats i es va negar a ajudar en aquest cas.,2
+"Afirmant que sospitava de tota la transacció, l'administrador es va distanciar d'Hazmi i Mihdhar, però no abans d'haver rebut l'assistència que necessitaven.",L'administrador va prestar assistència malgrat els seus recels.,0
+"Afirmant que sospitava de tota la transacció, l'administrador es va distanciar d'Hazmi i Mihdhar, però no abans d'haver rebut l'assistència que necessitaven.",L'assistència consistia en diners en efectiu i ajuda per obtenir documents de viatge.,1
+"L'any 2003, aquestes designacions van ser eliminades; tots els assumptes de terrorisme internacional reben ara la mateixa designació, 315.",Tots els assumptes de terrorisme reben la màxima etiqueta d'importància.,1
+"L'any 2003, aquestes designacions van ser eliminades; tots els assumptes de terrorisme internacional reben ara la mateixa designació, 315.",Tots els assumptes de terrorisme tenen la mateixa etiqueta.,0
+"L'any 2003, aquestes designacions van ser eliminades; tots els assumptes de terrorisme internacional reben ara la mateixa designació, 315.",Cada assumpte de terrorisme es jutja i es classifica de manera independent.,2
+"Aquest oficial, que havia observat l'enfonsament de la Torre Sud, en va informar les unitats de l'ESU de la Torre Nord en la seva instrucció d'evacuació.",Ningú no va romandre a la Torre Nord després que la Torre Sud s'enfonsés.,1
+"Aquest oficial, que havia observat l'enfonsament de la Torre Sud, en va informar les unitats de l'ESU de la Torre Nord en la seva instrucció d'evacuació.",La Torre Sud es va ensorrar 30 minuts abans que l'oficial parlés amb les unitats de l'ESU a la Torre Nord.,1
+"Aquest oficial, que havia observat l'enfonsament de la Torre Sud, en va informar les unitats de l'ESU de la Torre Nord en la seva instrucció d'evacuació.",L'oficial va presenciar l'enfonsament de la Torre Sud.,0
+Indianapolis és realment per a molts un dels millors llocs de treball per als actors,Als actors els encanta Indianàpolis per totes les agències de càsting que hi ha.,1
+Indianapolis és realment per a molts un dels millors llocs de treball per als actors,"Si ets actor, hauries de plantejar-te traslladar-te a Indianàpolis.",0
+Indianapolis és realment per a molts un dels millors llocs de treball per als actors,"És difícil trobar feina a Indianàpolis si ets al sector del cinema i el teatre, ja que és sobretot una ciutat tecnològica.",2
+"Oferim ajuda per telèfon les 24 hores del dia, els 7 dies de la setmana, a través del Centre de recursos d'informació sobre prevenció i el Telèfon d'ajuda per a pares.",Les persones només poden contactar amb nosaltres per correu postal o per correu electrònic.,2
+"Oferim ajuda per telèfon les 24 hores del dia, els 7 dies de la setmana, a través del Centre de recursos d'informació sobre prevenció i el Telèfon d'ajuda per a pares.",Se’ns pot contactar per telèfon a qualsevol hora del dia.,0
+"Oferim ajuda per telèfon les 24 hores del dia, els 7 dies de la setmana, a través del Centre de recursos d'informació sobre prevenció i el Telèfon d'ajuda per a pares.",Rebem més d'un centenar de trucades cada dilluns i divendres.,1
+Perquè aquestes caixes romandran en els seus embolcalls fins molt temps després que s'obrin tots els altres regals.,Aquestes caixes contenen bombes perilloses.,1
+Perquè aquestes caixes romandran en els seus embolcalls fins molt temps després que s'obrin tots els altres regals.,Aquestes caixes s'obriran abans dels altres regals.,2
+Perquè aquestes caixes romandran en els seus embolcalls fins molt temps després que s'obrin tots els altres regals.,Aquestes caixes romandran sense obrir durant un temps.,0
+"Si mantenim els preus baixos, ens hem d'adreçar a vosaltres, el nostre públic, per demanar-vos una petita contribució per ajudar-nos a complir aquesta missió.","Per mantenir els preus de les entrades per sota dels 10 dòlars, necessitaríem una donació de 25 dòlars de tots els membres del nostre públic.",1
+"Si mantenim els preus baixos, ens hem d'adreçar a vosaltres, el nostre públic, per demanar-vos una petita contribució per ajudar-nos a complir aquesta missió.","Podríem mantenir els nostres preus baixos si realment volguéssim, sense els vostres diners, però al nostre cap li agraden els seus luxes.",2
+"Si mantenim els preus baixos, ens hem d'adreçar a vosaltres, el nostre públic, per demanar-vos una petita contribució per ajudar-nos a complir aquesta missió.",Les vostres contribucions ens ajuden a mantenir els preus baixos.,0
+"00 ens va ajudar a oferir orientació, estímul i diversió a prop de 400 nens de l'àrea d'Indianapolis.","Gràcies a les nostres generoses donacions, vam poder convidar a Beyoncé a fer un concert per als orfes d'Indianàpolis.",1
+"00 ens va ajudar a oferir orientació, estímul i diversió a prop de 400 nens de l'àrea d'Indianapolis.","Teníem l'esperança de fer una festa de Nadal per als nens, però mai no hem pogut fer res per a ells.",2
+"00 ens va ajudar a oferir orientació, estímul i diversió a prop de 400 nens de l'àrea d'Indianapolis.",Vam poder ajudar molts nens d'Indianàpolis.,0
+"Inicialment, les persones poden participar-hi amb una donació anual sense restriccions de 1.000 dòlars o més al Cercle del Rector, o de 500 dòlars o més als Associats del Rector.",Les persones poden participar després de fer una petita donació de 50 dòlars.,2
+"Inicialment, les persones poden participar-hi amb una donació anual sense restriccions de 1.000 dòlars o més al Cercle del Rector, o de 500 dòlars o més als Associats del Rector.",Les persones poden participar si fan una donació prou gran.,0
+"Inicialment, les persones poden participar-hi amb una donació anual sense restriccions de 1.000 dòlars o més al Cercle del Rector, o de 500 dòlars o més als Associats del Rector.",La majoria de les persones prefereixen fer una donació als Chancellors Associates.,1
+La vostra donació en aquest moment us pot proporcionar beneficis fiscals addicionals a final d'any.,"Si feu un regal d'almenys 1.000 dòlars, segur que podreu rebre beneficis fiscals.",1
+La vostra donació en aquest moment us pot proporcionar beneficis fiscals addicionals a final d'any.,"Malauradament, els nostres assessors fiscals us aconsellen que no feu cap regal.",2
+La vostra donació en aquest moment us pot proporcionar beneficis fiscals addicionals a final d'any.,És possible que pugueu obtenir deduccions fiscals per les vostres donacions.,0
+"Com sabeu, en aquest grup es troben els amics i antics alumnes que aporten 1.000 dòlars o més anualment a la facultat de Dret.",Alguns dels membres d'aquest grup han fet donacions de més de 100.000 dòlars a l'escola.,1
+"Com sabeu, en aquest grup es troben els amics i antics alumnes que aporten 1.000 dòlars o més anualment a la facultat de Dret.",Tenim persones en aquest grup que han contribuït amb més de 1.000 dòlars a la Facultat de Dret.,0
+"Com sabeu, en aquest grup es troben els amics i antics alumnes que aporten 1.000 dòlars o més anualment a la facultat de Dret.","Tenim previst demanar a aquest grup que faci aportacions monetàries a l'escola, però mai no ho hem fet abans.",1
+"Quan era un nen, als anys 50, un dels moments més feliços que recordo va ser assistir a les produccions del Teatre Cívic.","Jo odiava anar a espectacles de teatre de petit, per això em vaig convertir en científic.",2
+"Quan era un nen, als anys 50, un dels moments més feliços que recordo va ser assistir a les produccions del Teatre Cívic.",M'agradava anar al teatre quan era petit.,0
+"Quan era un nen, als anys 50, un dels moments més feliços que recordo va ser assistir a les produccions del Teatre Cívic.",La meva producció preferida del Teatre Cívic va ser La Bella i la Bèstia.,1
+Si cada persona que rep aquesta carta dona només 18 dòlars.,"A tots els que rebin aquesta carta: no doneu els vostres diners, és una estafa.",2
+Si cada persona que rep aquesta carta dona només 18 dòlars.,"Si feu una donació de 18 dòlars, us farem un regal.",1
+Si cada persona que rep aquesta carta dona només 18 dòlars.,Esperem que tots els destinataris de la carta puguin fer una donació de 18 dòlars.,0
+"Simplement retalleu la part inferior, marqueu l'opció corresponent, feu qualsevol canvi a la vostra adreça si cal i envieu-ho amb el sobre adjunt.","Si us plau, no feu cap canvi a la vostra adreça.",2
+"Simplement retalleu la part inferior, marqueu l'opció corresponent, feu qualsevol canvi a la vostra adreça si cal i envieu-ho amb el sobre adjunt.","Hi ha un sobre blanc adjunt, amb la teva adreça.",0
+"Simplement retalleu la part inferior, marqueu l'opció corresponent, feu qualsevol canvi a la vostra adreça si cal i envieu-ho amb el sobre adjunt.","Podeu fer canvis a la vostra adreça, si ho considereu oportú.",0
+L'Escola d'Infermeria necessita les vostres generoses donacions per continuar mantenint la seva excel·lència educativa.,Feu una donació de 100 milions de dòlars a la Facultat d'Infermeria o perdreu la vostra estàtua commemorativa.,2
+L'Escola d'Infermeria necessita les vostres generoses donacions per continuar mantenint la seva excel·lència educativa.,"La Facultat d'Infermeria va complir tots els seus objectius econòmics, per la qual cosa no necessita més diners.",2
+L'Escola d'Infermeria necessita les vostres generoses donacions per continuar mantenint la seva excel·lència educativa.,Esperem que feu una donació a la Facultat d'Infermeria.,0
+El 80 % dels participants informa d'un augment de les habilitats de resolució de conflictes.,Més de la meitat dels participants informaran d'un augment de les habilitats de resolució de conflictes.,0
+El 80 % dels participants informa d'un augment de les habilitats de resolució de conflictes.,Només una quarta part dels participants informarà d'un augment de les habilitats de resolució de conflictes.,2
+El 80 % dels participants informa d'un augment de les habilitats de resolució de conflictes.,Hi va haver més de 100 participants individuals.,1
+"Si us plau, no aneu a la nostra llista de donants antiga.",Seria una llàstima que vostè deixés de donar.,1
+"Si us plau, no aneu a la nostra llista de donants antiga.","La nostra llista de donants caducats es publica perquè la vegi tothom, així que, creieu-me, no us agradarà que us avergonyeixin així!",2
+"Si us plau, no aneu a la nostra llista de donants antiga.","Tenim massa donants, així que si us plau, deixeu de fer donacions.",2
+L'accés al recinte estarà obert a qualsevol persona amb ordinador i mòdem.,La gent no necessita res per accedir al recinte.,2
+L'accés al recinte estarà obert a qualsevol persona amb ordinador i mòdem.,La gent necessita tant un ordinador com un mòdem per entrar al recinte.,0
+L'accés al recinte estarà obert a qualsevol persona amb ordinador i mòdem.,"Les persones han de portar el seu ordinador i mòdem amb ells en entrar al recinte, per tenir-hi accés.",0
+La venda d'entrades i les subscripcions no poden finançar la temporada completa,Mentre tinguem la venda d'entrades tota la nostra temporada està finançada.,2
+La venda d'entrades i les subscripcions no poden finançar la temporada completa,La nostra temporada completa necessita més per finançar-la que només la venda d'entrades i subscripcions.,0
+La venda d'entrades i les subscripcions no poden finançar la temporada completa,La venda d'entrades i subscripcions només cobreixen el 70 % dels costos de finançament de la nostra temporada completa.,0
+NOVETATS TOTES LES DONACIONS SÓN BENVINGUDES!,Cada regal es registra i anuncia al nostre diari mensual.,1
+NOVETATS TOTES LES DONACIONS SÓN BENVINGUDES!,Cada regal que s'ofereix contribueix d’alguna manera.,0
+NOVETATS TOTES LES DONACIONS SÓN BENVINGUDES!,Només els regals superiors a 100 dòlars marquen la diferència.,1
+Tenim un llarg camí per recórrer abans d'arribar al nostre objectiu de 365.000 dòlars d'amics i subscriptors com tu.,El nostre objectiu monetari supera els 300.000 dòlars.,0
+Tenim un llarg camí per recórrer abans d'arribar al nostre objectiu de 365.000 dòlars d'amics i subscriptors com tu.,"De fet, esperem triplicar el nostre objectiu monetari.",2
+Tenim un llarg camí per recórrer abans d'arribar al nostre objectiu de 365.000 dòlars d'amics i subscriptors com tu.,No tenim cap punt de referència pel que fa als diners.,2
+"La nostra Clínica de Pràctica Civil funciona des de fa uns quants anys, i recentment hem afegit una Clínica de Defensa Criminal.",La nostra Clínica de Pràctica Civil funciona des de fa vuit anys.,1
+"La nostra Clínica de Pràctica Civil funciona des de fa uns quants anys, i recentment hem afegit una Clínica de Defensa Criminal.",La nostra Clínica de Pràctica Civil celebra el seu primer any complet en funcionament el mes que ve.,2
+"La nostra Clínica de Pràctica Civil funciona des de fa uns quants anys, i recentment hem afegit una Clínica de Defensa Criminal.",La Clínica de Pràctica Civil fa més d'un any que funciona.,0
+Els ingressos de les entrades no arriben a cobrir el cost d'aquests programes.,Sembla que el cost d'aquests programes no es cobrirà amb els ingressos de les entrades.,0
+Els ingressos de les entrades no arriben a cobrir el cost d'aquests programes.,El cost d'aquests programes és molt elevat.,0
+Els ingressos de les entrades no arriben a cobrir el cost d'aquests programes.,Els ingressos de les entrades cobriran definitivament el cost d'aquests programes.,2
+Omnia vincit amor (tret que treballeu per al Weekly Standard): Brit Hume (Fox News Sunday) especula sobre per què Lewinsky no  Encara està enamorada del president.,Brit Hume és el reporter principal de Fox.,0
+Omnia vincit amor (tret que treballeu per al Weekly Standard): Brit Hume (Fox News Sunday) especula sobre per què Lewinsky no  Encara està enamorada del president.,Brit Hume treballa per a CNN.,1
+Omnia vincit amor (tret que treballeu per al Weekly Standard): Brit Hume (Fox News Sunday) especula sobre per què Lewinsky no  Encara està enamorada del president.,Brit Hume treballa per a Fox.,0
+S'ha fet molt contractant Michael Apted per aportar un toc més humà a la sèrie.,Michael Apted va arruïnar la sèrie insistint que traguessin qualsevol element càlid i humà.,2
+S'ha fet molt contractant Michael Apted per aportar un toc més humà a la sèrie.,Michael Apted va ser contractat per afegir una qualitat personal a la sèrie.,0
+S'ha fet molt contractant Michael Apted per aportar un toc més humà a la sèrie.,"Es pensava que la sèrie era freda i avorrida, per la qual cosa era important contractar Michael Apted per afegir un toc càlid i personal a fi de millorar les valoracions.",0
+veure una noia amb una parca de pell blanca i botes,Una noia va vestida per anar en trineu.,0
+veure una noia amb una parca de pell blanca i botes,Una noia porta roba blanca.,0
+veure una noia amb una parca de pell blanca i botes,La noia va vestida tota de vermell.,2
+El que la pel·lícula no esmenta és que Kaufman havia parlat sovint de com li agradaria treure's la seva pròpia vida.,La pel·lícula no esmenta Kaufman parlant de la seva pròpia mort.,0
+El que la pel·lícula no esmenta és que Kaufman havia parlat sovint de com li agradaria treure's la seva pròpia vida.,La pel·lícula va tenir una entrevista en profunditat amb Kaufman sobre la seva mort.,2
+El que la pel·lícula no esmenta és que Kaufman havia parlat sovint de com li agradaria treure's la seva pròpia vida.,"La pel·lícula va ser un gran èxit, tot i deixar de banda alguns detalls crucials sobre Kaufman.",1
+Rockefeller es va veure atrapat en aquesta donació angoixada quan l'àngel venjador Tarbell va començar a esquinçar-se la carn a McClure.,Rockefeller va fer donacions a la investigació del càncer.,1
+Rockefeller es va veure atrapat en aquesta donació angoixada quan l'àngel venjador Tarbell va començar a esquinçar-se la carn a McClure.,Rockefeller era generós.,1
+Rockefeller es va veure atrapat en aquesta donació angoixada quan l'àngel venjador Tarbell va començar a esquinçar-se la carn a McClure.,Rockefeller era avar.,1
+"Més recentment, en un cas comercial a Nova York, Klayman es va trobar a l'altra banda dels càrrecs de prejudicis ètnics.",Klayman va ser acusat de prejudicis ètnics a Califòrnia.,1
+"Més recentment, en un cas comercial a Nova York, Klayman es va trobar a l'altra banda dels càrrecs de prejudicis ètnics.",Klayman no esperava ser acusat de prejudicis ètnics.,1
+"Més recentment, en un cas comercial a Nova York, Klayman es va trobar a l'altra banda dels càrrecs de prejudicis ètnics.",Hi va haver denúncies de prejudicis ètnics contra Klayman.,0
+"Difícilment s'esperaria que una sala plena de representants corporatius xiulessin, esbronquessin i insultessin a un secretari de Treball dels Estats Units.",Els representants corporatius porten vestits.,1
+"Difícilment s'esperaria que una sala plena de representants corporatius xiulessin, esbronquessin i insultessin a un secretari de Treball dels Estats Units.",Es podria esperar que els representants corporatius parlin entre dents.,1
+"Difícilment s'esperaria que una sala plena de representants corporatius xiulessin, esbronquessin i insultessin a un secretari de Treball dels Estats Units.",No s'esperaria que els representants corporatius parlin entre dents.,1
+El fet que l'alimentació tingui un efecte més significatiu en el rendiment esportiu no vol dir que la natura estigui latent.,Els esportistes neixen amb tot el seu potencial de rendiment plenament realitzat.,2
+El fet que l'alimentació tingui un efecte més significatiu en el rendiment esportiu no vol dir que la natura estigui latent.,El rendiment esportiu es veu més afectat per l'entrenament que per la genètica.,1
+El fet que l'alimentació tingui un efecte més significatiu en el rendiment esportiu no vol dir que la natura estigui latent.,Els atletes més seriosos entrenen almenys vuit hores cada setmana.,1
+"Un cop a casa, vaig saber que els Estats Units tallen els subministraments de dues maneres.",M'interessa la política.,1
+"Un cop a casa, vaig saber que els Estats Units tallen els subministraments de dues maneres.",Vaig aprendre sobre els Estats Units,0
+"Un cop a casa, vaig saber que els Estats Units tallen els subministraments de dues maneres.",Vaig aprendre que els Estats Units tallen els subministraments de dues maneres abans de tornar a casa.,2
+"L'editorial universitària més antiga i més gran del món, Oxford, acaba d'anunciar que cancel·la el seu catàleg de poesia.",La llista de poesia a Oxford ja no continua.,0
+"L'editorial universitària més antiga i més gran del món, Oxford, acaba d'anunciar que cancel·la el seu catàleg de poesia.",La universitat de prestigi no disposa de finançament per mantenir activa la llista de poesia.,0
+"L'editorial universitària més antiga i més gran del món, Oxford, acaba d'anunciar que cancel·la el seu catàleg de poesia.",La universitat es dedica a preservar la llista de poesia i es compromet a no cancel·lar-la mai.,2
+"Tanmateix, hi ha un premi de consolació per a la humanitat.",El premi de consolació és una batedora gratuïta de dues velocitats per a cada persona.,1
+"Tanmateix, hi ha un premi de consolació per a la humanitat.",No hi ha cap avantatge per als humans en aquesta situació.,2
+"Tanmateix, hi ha un premi de consolació per a la humanitat.",No tot són males notícies per als humans.,0
+Els esports no són els únics esdeveniments per apostar en aquests llocs.,En aquests llocs també s'accepten apostes sobre conteses polítiques i eleccions.,0
+Els esports no són els únics esdeveniments per apostar en aquests llocs.,Aquests llocs només accepten apostes sobre esdeveniments esportius.,2
+Els esports no són els únics esdeveniments per apostar en aquests llocs.,Aquests llocs accepten apostes sobre diverses activitats.,0
+"El 25 d'agost, després que s'inaugurés la convenció demòcrata a Atlantic City, N.J., Johnson, que aleshores tenia 56 anys, va amenaçar en tres converses gravades amb retirar-se de la carrera presidencial.",Johnson va sentir una manca de suport.,0
+"El 25 d'agost, després que s'inaugurés la convenció demòcrata a Atlantic City, N.J., Johnson, que aleshores tenia 56 anys, va amenaçar en tres converses gravades amb retirar-se de la carrera presidencial.",Johnson mai no va pensar a retirar-se.,2
+"El 25 d'agost, després que s'inaugurés la convenció demòcrata a Atlantic City, N.J., Johnson, que aleshores tenia 56 anys, va amenaçar en tres converses gravades amb retirar-se de la carrera presidencial.",Johnson va amenaçar de retirar-se.,0
+Lamar Alexander va abandonar la seva candidatura presidencial.,Almenys una persona va renunciar al seu intent de ser president.,0
+Lamar Alexander va abandonar la seva candidatura presidencial.,Lamar Alexander es va negar a renunciar a la seva campanya presidencial.,2
+Lamar Alexander va abandonar la seva candidatura presidencial.,El senyor Alexander es va veure obligat a abandonar després que es publiquessin imatges vergonyoses d'ell.,1
+"A més d'aquest lamentable registre de llibertats civils, hi ha l'ús indegut de l'FBI en la investigació original de l'oficina de viatges de la Casa Blanca i el que s'ha conegut com Filegate.",La Casa Blanca té l'FBI com a espia dels candidats polítics.,2
+"A més d'aquest lamentable registre de llibertats civils, hi ha l'ús indegut de l'FBI en la investigació original de l'oficina de viatges de la Casa Blanca i el que s'ha conegut com Filegate.",La Casa Blanca fa un mal ús de l'FBI.,0
+"A més d'aquest lamentable registre de llibertats civils, hi ha l'ús indegut de l'FBI en la investigació original de l'oficina de viatges de la Casa Blanca i el que s'ha conegut com Filegate.",La Casa Blanca utilitza l'FBI correctament.,2
+"Tung ha promès reprimir els especuladors immobiliaris, però molts pensen que borda molt però no mossega.",A Tung no li preocupen els especuladors immobiliaris.,2
+"Tung ha promès reprimir els especuladors immobiliaris, però molts pensen que borda molt però no mossega.",Tung creu que els especuladors immobiliaris estan actuant de manera poc ètica.,1
+"Tung ha promès reprimir els especuladors immobiliaris, però molts pensen que borda molt però no mossega.",Tung vol influir en els especuladors immobiliaris.,0
+"Les queixes eren per problemes amb l'equipatge, assistents de vol malcarats, vols misteriosament cancel·lats, atrocitats de facturació.",10 persones havien perdut l'equipatge.,0
+"Les queixes eren per problemes amb l'equipatge, assistents de vol malcarats, vols misteriosament cancel·lats, atrocitats de facturació.",La gent es va queixar de l'equipatge.,0
+"Les queixes eren per problemes amb l'equipatge, assistents de vol malcarats, vols misteriosament cancel·lats, atrocitats de facturació.",No hi va haver cap queixa en absolut.,2
+"Lawrence Singleton, un violador famós que va tallar els avantbraços de la seva víctima i després només va passar vuit anys a la presó, ha estat arrestat per matar a punyalades una altra dona a Florida.","Després de tallar els avantbraços de les seves víctimes, va intentar amagar-los en una paperera.",1
+"Lawrence Singleton, un violador famós que va tallar els avantbraços de la seva víctima i després només va passar vuit anys a la presó, ha estat arrestat per matar a punyalades una altra dona a Florida.",Era obvi per a tothom que el seu temps a la presó l'havia rehabilitat completament.,2
+"Lawrence Singleton, un violador famós que va tallar els avantbraços de la seva víctima i després només va passar vuit anys a la presó, ha estat arrestat per matar a punyalades una altra dona a Florida.",El senyor Singleton és un violador condemnat a Florida.,0
+"Charles Lane, de The New Republic, diu que Noticia de un secuestro només amplia el registre del periodisme deshonest de Gabriel García Márquez.",Charles Lane és periodista.,0
+"Charles Lane, de The New Republic, diu que Noticia de un secuestro només amplia el registre del periodisme deshonest de Gabriel García Márquez.",Charles Lane venia cotxes.,1
+"Charles Lane, de The New Republic, diu que Noticia de un secuestro només amplia el registre del periodisme deshonest de Gabriel García Márquez.",Charles Lane va guanyar un Pulitzer.,1
+El jutjat no és l'únic circ polític a Washington aquest matí.,El palau de justícia no és l'únic lloc polític a Washington.,0
+El jutjat no és l'únic circ polític a Washington aquest matí.,La jornada política probablement comença al matí.,0
+El jutjat no és l'únic circ polític a Washington aquest matí.,Al palau de justícia hi ha un circ amb pallassos.,1
+"Un es pot imaginar un operador de buldòzer obrint un camí per a una nova urbanització a qui el promotor saluda: Ei, Loyd...",Us podeu imaginar un operador de buldòzer posant en marxa una excavadora.,1
+"Un es pot imaginar un operador de buldòzer obrint un camí per a una nova urbanització a qui el promotor saluda: Ei, Loyd...",Us podeu imaginar un operador de buldòzer.,0
+"Un es pot imaginar un operador de buldòzer obrint un camí per a una nova urbanització a qui el promotor saluda: Ei, Loyd...",No us podeu imaginar un operador de buldòzer.,2
+Vaig informar d'això en una carta al Dr. Semblava divertir-lo i em va enviar un petit pastís de fruites aquell Nadal.,Estic segur que el metge va rebre la carta que li vaig enviar.,0
+Vaig informar d'això en una carta al Dr. Semblava divertir-lo i em va enviar un petit pastís de fruites aquell Nadal.,No em vaig menjar el pastís que em va enviar el metge aquell Nadal.,2
+Vaig informar d'això en una carta al Dr. Semblava divertir-lo i em va enviar un petit pastís de fruites aquell Nadal.,El metge em va enviar una ampolla de vi aquell Nadal.,1
+"L'equip havia estat conegut anteriorment amb la memorable denominació de ""beaneaters"", que, curiosament, també es podria considerar un sobrenom indi.",L'equip va canviar el seu nom perquè no era popular.,1
+"L'equip havia estat conegut anteriorment amb la memorable denominació de ""beaneaters"", que, curiosament, també es podria considerar un sobrenom indi.",L'equip tenia un nom abans d'aquest que també es podria pensar que era un sobrenom indi.,0
+"L'equip havia estat conegut anteriorment amb la memorable denominació de ""beaneaters"", que, curiosament, també es podria considerar un sobrenom indi.",L'equip només ha tingut un nom.,2
+No he trobat aquesta definició al diccionari de sinònims.,Vaig trobar la definició al tesaurus.,1
+No he trobat aquesta definició al diccionari de sinònims.,He buscat al tesaurus i no he trobat cap definició.,0
+No he trobat aquesta definició al diccionari de sinònims.,El tesaurus que vaig utilitzar era el tesaurus estàndard.,1
+Com es pot fer això?,Com pot molta gent no fer res?,1
+Com es pot fer això?,Com es pot fer una cosa tan dolenta?,1
+Com es pot fer això?,Com és possible que un faci això?,0
+"A més, només conté termes que se sap que es van originar al segle XX, segons es diu al prefaci, però omet l'argot militar de principis del segle XX.","Segons el prefaci, conté termes que van sorgir al segle XX, però deixa de banda l'argot que va sorgir abans.",0
+"A més, només conté termes que se sap que es van originar al segle XX, segons es diu al prefaci, però omet l'argot militar de principis del segle XX.",Té tot l'argot contingut des del principi dels temps.,2
+"A més, només conté termes que se sap que es van originar al segle XX, segons es diu al prefaci, però omet l'argot militar de principis del segle XX.",Hi ha molt argot diferent d'abans del segle XX.,1
+"Si algú tingués l'edició de 1984, potser li molestaria haver de comprar aquest llibre en lloc d'un suplement més breu (i menys costós).",L'edició de 1984 és la millor del lot.,1
+"Si algú tingués l'edició de 1984, potser li molestaria haver de comprar aquest llibre en lloc d'un suplement més breu (i menys costós).",El llibre no està a la venda.,1
+"Si algú tingués l'edició de 1984, potser li molestaria haver de comprar aquest llibre en lloc d'un suplement més breu (i menys costós).",El suplement és més barat que el llibre.,0
+Bernstein ho explica a la introducció,Bernstein no ho explica en profunditat.,1
+Bernstein ho explica a la introducció,Bernstein només ho va explicar a la conclusió.,2
+Bernstein ho explica a la introducció,La introducció conté una explicació.,0
+"No se suggereix que aquests temes siguin prohibits, simplement que és difícil, fins i tot després d'uns vint anys d'aculturació, per a un foraster discernir gran part del que seria divertit en ells.",Fins i tot els parlants nadius de vegades tenen problemes amb l'humor.,1
+"No se suggereix que aquests temes siguin prohibits, simplement que és difícil, fins i tot després d'uns vint anys d'aculturació, per a un foraster discernir gran part del que seria divertit en ells.",L'humor és generalment una de les coses més fàcils d'entendre per als forasters.,2
+"No se suggereix que aquests temes siguin prohibits, simplement que és difícil, fins i tot després d'uns vint anys d'aculturació, per a un foraster discernir gran part del que seria divertit en ells.",Aquests temes són difícils d'entendre per als estrangers.,0
+"Finalment, cal desconfiar de l'allargament que comporta un significat clarament diferent.",Els editors s'utilitzen normalment per detectar aquest tipus d'error.,1
+"Finalment, cal desconfiar de l'allargament que comporta un significat clarament diferent.",L'allargament és una bona manera d'assegurar que el significat d'una afirmació s'aclareix.,2
+"Finalment, cal desconfiar de l'allargament que comporta un significat clarament diferent.",El significat pot canviar quan s'intenta fer una declaració més llarga.,0
+Fan que el cap et doni voltes amb la calor.,Aplicar calor al cap d'una persona és una bona manera de millorar la seva atenció i concentració.,2
+Fan que el cap et doni voltes amb la calor.,L'excés de calor pot provocar mareigs en alguns casos.,0
+Fan que el cap et doni voltes amb la calor.,Avui ha estat cinc graus per sobre de la mitjana estacional.,1
+Cap altra professió té una tradició tan rica de menyspreu envers un mateix.,Moltes altres professions es tenen en molt alta estima.,2
+Cap altra professió té una tradició tan rica de menyspreu envers un mateix.,Moltes professions tenen tradicions d'autodesaprovació.,1
+Cap altra professió té una tradició tan rica de menyspreu envers un mateix.,Cap altra feina té una tradició sòlida de crítica sobre si mateixa.,0
+"I amb notes d'orgull, els draps vells que s'han guanyat noms pejoratius en la tradició local utilitzen aquests sobrenoms en la correspondència privada, les converses de taverna i els currículums no oficials.",Els diaris no tenen cap reputació.,2
+"I amb notes d'orgull, els draps vells que s'han guanyat noms pejoratius en la tradició local utilitzen aquests sobrenoms en la correspondència privada, les converses de taverna i els currículums no oficials.",Aquests diaris no tenen bona reputació.,0
+"I amb notes d'orgull, els draps vells que s'han guanyat noms pejoratius en la tradició local utilitzen aquests sobrenoms en la correspondència privada, les converses de taverna i els currículums no oficials.",Aquests diaris tenen moltes xafarderies de les mestresses de casa.,1
+"Si ""lite/light"" simplement descriu una característica de la cervesa (p. ex.",La cervesa pot tenir l'etiqueta lite o light.,0
+"Si ""lite/light"" simplement descriu una característica de la cervesa (p. ex.",Lite i light només s'utilitzen per descriure vins i whisky.,2
+"Si ""lite/light"" simplement descriu una característica de la cervesa (p. ex.",La cervesa Lite no té un alt percentatge d'alcohol.,0
+Fins i tot s'usava el pobre substantiu sobrecarregat quan no calia ni aquest ni cap d'alternatiu.,La gent té dificultats per trobar un substantiu alternatiu.,0
+Fins i tot s'usava el pobre substantiu sobrecarregat quan no calia ni aquest ni cap d'alternatiu.,El substantiu s'utilitza massa.,0
+Fins i tot s'usava el pobre substantiu sobrecarregat quan no calia ni aquest ni cap d'alternatiu.,S'hauria d'utilitzar més el substantiu.,2
+"A més de tot això, tenim el fet lamentable que l'escriptura eloqüent és de vegades memorable, cosa que agreuja el problema.",És molt més probable que la gent recordi una escriptura deficient.,2
+"A més de tot això, tenim el fet lamentable que l'escriptura eloqüent és de vegades memorable, cosa que agreuja el problema.","Sovint, un text ben escrit és molt més fàcil de recordar que un text mal escrit.",0
+"A més de tot això, tenim el fet lamentable que l'escriptura eloqüent és de vegades memorable, cosa que agreuja el problema.",El text ben escrit és massa car per produir-lo en grans quantitats.,1
+"Enfrontats a aquesta actitud i una mica admirats, els britànics van reconèixer el seu respecte posant la paraula en majúscula.",Els britànics no tenien cap respecte.,2
+"Enfrontats a aquesta actitud i una mica admirats, els britànics van reconèixer el seu respecte posant la paraula en majúscula.",Els britànics es van fer càrrec de l'economia mundial.,1
+"Enfrontats a aquesta actitud i una mica admirats, els britànics van reconèixer el seu respecte posant la paraula en majúscula.",Els britànics van comerciar molt arreu del món.,1
+De vegades també és el més dissimulat.,De vegades pot ser molt difícil de detectar.,0
+De vegades també és el més dissimulat.,Fa molt poc soroll gràcies a un motor acuradament aïllat.,1
+De vegades també és el més dissimulat.,Sempre va ser molt fàcil de detectar des de qualsevol distància.,2
+"Com és cert, per descomptat, que hi ha més dialectes distintius de l'anglès a Gran Bretanya que a Amèrica del Nord, i qualsevol que hagi passat una estona escoltant-los sap que alguns són mútuament inintel·ligibles.","Gran Bretanya té molts dialectes anglesos distintius, més nombrosos que els d'Amèrica del Nord.",0
+"Com és cert, per descomptat, que hi ha més dialectes distintius de l'anglès a Gran Bretanya que a Amèrica del Nord, i qualsevol que hagi passat una estona escoltant-los sap que alguns són mútuament inintel·ligibles.","Els dialectes nord-americans i britànics són exactament els mateixos, i la gent no pot distingir cap diferència entre ells.",2
+"Com és cert, per descomptat, que hi ha més dialectes distintius de l'anglès a Gran Bretanya que a Amèrica del Nord, i qualsevol que hagi passat una estona escoltant-los sap que alguns són mútuament inintel·ligibles.",La gent d'Amèrica del Nord té dificultats per entendre la meitat dels dialectes britànics parlats.,1
+"Un informador de Tennessee va utilitzar l'expressió ""temps de gossos"" per al ""temps càlid i sense pluja"", que pot derivar de l'expressió ""dies de gossos"" referint-se al clima sec d'agost.","Segons l'informant, el temps de gossos es va utilitzar per descriure les pluges monsòniques estacionals.",2
+"Un informador de Tennessee va utilitzar l'expressió ""temps de gossos"" per al ""temps càlid i sense pluja"", que pot derivar de l'expressió ""dies de gossos"" referint-se al clima sec d'agost.",Juny i juliol també són molt calorosos a Tennessee.,1
+"Un informador de Tennessee va utilitzar l'expressió ""temps de gossos"" per al ""temps càlid i sense pluja"", que pot derivar de l'expressió ""dies de gossos"" referint-se al clima sec d'agost.",El clima és calorós i sense pluja la majoria dels dies d'agost.,1

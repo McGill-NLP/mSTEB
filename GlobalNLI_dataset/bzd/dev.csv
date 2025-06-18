@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Ẽnã ie' iche: ãmìx, ye' tso' ù ã.",I ãmìx ichàke irir bét wèxs tabèchka shko ẽ' wóqulâwõ dör i méxãt.,1
+"Ẽnã ie' iche: ãmìx, ye' tso' ù ã.",Ie' kèq wã ujtè yèqnẽ ét.,2
+"Ẽnã ie' iche: ãmìx, ye' tso' ù ã.",I ãmìx ã iché irir tö ye' démĩnẽ ù ã.,0
+"Kèq ie' éxn ã ĩàxnã tö ióqk ie' mĩ yéqs, e's tã irir i biyòq yulèke ét káx yèqnã Washington ã.","Kèq ye' déqrule Washington ã, e' kũéxkĩ míxk ye' pàtkèqnẽ ẽ' dör tã ye' chéqwa káx e' yulóqk.",1
+"Kèq ie' éxn ã ĩàxnã tö ióqk ie' mĩ yéqs, e's tã irir i biyòq yulèke ét káx yèqnã Washington ã.",Ye' éxn ã ĩàxnã yêqsyêqs ë tö ì sãũk ye' míxke ẽ' dör míxk ye' dâmĩ e' daléwa.,2
+"Kèq ie' éxn ã ĩàxnã tö ióqk ie' mĩ yéqs, e's tã irir i biyòq yulèke ét káx yèqnã Washington ã.","Kèq ye' éxn ã ĩàxnẽ bua'ie tö ì yawóqk ye' míxke, e' wà dör tö ye' mìxnẽã Washington, wéx ye' pàtkënẽ i biyòq múxk.",0
+Ie' kèq bak.,Ie' ichàkinẽ kéxwe tã irir i kìnẽ e' wà tkòqõ.,2
+Ie' kèq bak.,Kèq ie' ã káxwö mèxnẽ shkóqkwa.,0
+Ie' kèq bak.,Kèq ie' ã káxwö mèxnẽ míxk museo ajkòq ànẽwa e' tã.,1
+"Tã ye' tso' bua', tã e' èq irir!","Míxk ukòqki yö iche tóq, ĩèxnãwã.",0
+"Tã ye' tso' bua', tã e' èq irir!",Yö iche aû tã i kíx míxshka e'tökicha shkòqënẽ.,2
+"Tã ye' tso' bua', tã e' èq irir!","Míxk yö iche tóq, tã sa' dör i yéq tö sa' ulà batsòqkewa káxwö e' wa.",1
+Ye' tkër éq ẽ' dör i wébalök tö wèxs i shúxlirmĩ.,Uka' kéxwe ye' éxn ã ĩàxnã bua'.,2
+Ye' tkër éq ẽ' dör i wébalök tö wèxs i shúxlirmĩ.,Ye' tso' ujté ujchẽnũk tö wéx ĩnúxköl dâre.,1
+Ye' tkër éq ẽ' dör i wébalök tö wèxs i shúxlirmĩ.,Ye' tso' i mâxũk ujté àxnũk.,0
+"Tã, i tsóq, tö mòxki kèq yàmĩpa pàkök yì dë'nẽ e' wâ dör tö ie'pa wã i ujchèxnã tö ie'pa wak dör sarûrû.",Bulé èq ie'pa shkôqar ãñìx pàkök.,2
+"Tã, i tsóq, tö mòxki kèq yàmĩpa pàkök yì dë'nẽ e' wâ dör tö ie'pa wã i ujchèxnã tö ie'pa wak dör sarûrû.",Kèq ie'pa dör i yàmĩpa pàkeĩã.,0
+"Tã, i tsóq, tö mòxki kèq yàmĩpa pàkök yì dë'nẽ e' wâ dör tö ie'pa wã i ujchèxnã tö ie'pa wak dör sarûrû.",Ie'pa dör ãñìx pàke olôya míxk se' ãñìx sulú yéqmĩ e' kéxska.,1
+"Tã wîxke káxpakòqke tö wèxs ie' éql ẽnã i màxso e' wakpa ẽ' yòqketsã ciudad ã, Augusta, tã ẽ' yawóqkka wèxs sarûrû wakpa e's.",Wîxke éql wak dör sarûrû kũẽki tã i mìxnẽyal Texas.,2
+"Tã wîxke káxpakòqke tö wèxs ie' éql ẽnã i màxso e' wakpa ẽ' yòqketsã ciudad ã, Augusta, tã ẽ' yawóqkka wèxs sarûrû wakpa e's.",Wîxke éql kèq wak dör sarûrû.,0
+"Tã wîxke káxpakòqke tö wèxs ie' éql ẽnã i màxso e' wakpa ẽ' yòqketsã ciudad ã, Augusta, tã ẽ' yawóqkka wèxs sarûrû wakpa e's.","Wîxke éql kèq dör wak dör sarûrû, erë ie' ẽ' yawak shkó ie ẽ'wóqulâwõ wé ã.",1
+"Erë, be' wã i ujchẽnã, ie' irir, bikéitse ulìtãnẽ ã tã, wèxs irir íyi kuátke i alà wak e's e' wâ dör tö irir wéqm wéx wã tãîx íyi tso' e' alà.",I yéq kèq wã ì bak míxk i sèxnẽ e' tã.,2
+"Erë, be' wã i ujchẽnã, ie' irir, bikéitse ulìtãnẽ ã tã, wèxs irir íyi kuátke i alà wak e's e' wâ dör tö irir wéqm wéx wã tãîx íyi tso' e' alà.",I yéq dör káx 2000 hareas íyi kuátkërule e' wak.,1
+"Erë, be' wã i ujchẽnã, ie' irir, bikéitse ulìtãnẽ ã tã, wèxs irir íyi kuátke i alà wak e's e' wâ dör tö irir wéqm wéx wã tãîx íyi tso' e' alà.",I yéq wã tãîx íyi bak e' wak ie' dör.,0
+Erë ye' kãnèx dör íyi se' ówa ie ése batsóqk ẽnã chaleco ẽ' tsáxtko ie ése wéxjkë i wàiéqrke ẽnã ẽ' batsóqkka káx bánẽt ã.,"Kèq ye' kãnèx tã, e' kũẽki bêqrë yö kàl ukö balé ù ã.",2
+Erë ye' kãnèx dör íyi se' ówa ie ése batsóqk ẽnã chaleco ẽ' tsáxtko ie ése wéxjkë i wàiéqrke ẽnã ẽ' batsóqkka káx bánẽt ã.,Yö kàl ukö pátkemĩ Japón.,1
+Erë ye' kãnèx dör íyi se' ówa ie ése batsóqk ẽnã chaleco ẽ' tsáxtko ie ése wéxjkë i wàiéqrke ẽnã ẽ' batsóqkka káx bánẽt ã.,Yö i pátké.,0
+"Wèxs e's irir, mmm..., ye' wòqtkënãwã.",Yö i sãwéx tö i wòqtko wòq síktkër bua' ichóqk e' tã i kíxtso bua' ie.,1
+"Wèxs e's irir, mmm..., ye' wòqtkënãwã.",E' sùx ichóqkale ie'pa dör wòqyëtsã.,2
+"Wèxs e's irir, mmm..., ye' wòqtkënãwã.",e's sùx ichóqk irir tö ye' bak kalóqktër.,0

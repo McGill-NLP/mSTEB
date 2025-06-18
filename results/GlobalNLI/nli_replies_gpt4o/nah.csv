@@ -1,0 +1,628 @@
+premise,hypothesis,gpt_reply
+"Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui",Ayoc nicamohuihtoc,contradiction
+"Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui",Nelpano nicualantoya queh naha nicamohuihqui,neutral
+"Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui",Yehyehtzi timocamohuihqueh / yehyehtzi timocamanalohqueh,neutral
+"Nimoihlia quena cualli, nelia nelia, nazantzi ni 922 Ex-O niiztoya campa AFFC tlen Fuerza Aérea",Axnimatiyaya queh nazantzi niiztoya campa tlamaxtiloyan,entailment
+"Nimoihlia quena cualli, nelia nelia, nazantzi ni 922 Ex-O niiztoya campa AFFC tlen Fuerza Aérea",Nimotleliaya queh nazantzi nipiyaya ino notlapohualiz ne AFFC Air Force Career,neutral
+"Nimoihlia quena cualli, nelia nelia, nazantzi ni 922 Ex-O niiztoya campa AFFC tlen Fuerza Aérea","Nochi techmacaqueh zan ce tlapohualiztli, zan techcahcayahqueh pampa techtlelihqueh miac tlamantli techmacazquiah. Nelpano tlacahcayahuah.",neutral
+"Nechtlelihque, ni…. Ce macehual nechcamohuizquia huan timopantizquia",Axquema tleno nechtlelihque queh niquixmatiz ce macehual,entailment
+"Nechtlelihque, ni…. Ce macehual nechcamohuizquia huan timopantizquia",Nechtlelihque que nechcamohuizquia ce macehua huan niquixmatizquia,entailment
+"Nechtlelihque, ni…. Ce macehual nechcamohuizquia huan timopantizquia",Ne macehual acico tiotlac,contradiction
+"Onca miac camanalli tlen ino, na axtleno yeca niquihtoz",Nicnequi nimitztempohuiliz nochi tlen na ino nimati,neutral
+"Onca miac camanalli tlen ino, na axtleno yeca niquihtoz","Axtleno niquihtoz tlen ino, monequi miac tlamantli axtitlatempohuaz",entailment
+"Onca miac camanalli tlen ino, na axtleno yeca niquihtoz","Na axtleno niquihtoz tlen panotoc ne altepetl, pampa onca miac tlamantli camanalli",neutral
+"Ino quena monequiyaya timanahuizquia, pampa axhuelizquia timahcahuazquia ce bomba hirogena tlen 30, huan C124",Axtinehque ticahcocuizceh tleno.,contradiction
+"Ino quena monequiyaya timanahuizquia, pampa axhuelizquia timahcahuazquia ce bomba hirogena tlen 30, huan C124",Tinequiyayah timanahuizceh cetzi tlamantli tlen nochi,neutral
+"Ino quena monequiyaya timanahuizquia, pampa axhuelizquia timahcahuazquia ce bomba hirogena tlen 30, huan C124",Tinequiyayah timanahuizceh Bomba -H pampa neohui tlatequihuiliz,entailment
+Yeca axnicuamalilia quenque,Quena nimoneltlelia yeca ino,neutral
+Yeca axnicuamalilia quenque,Axnimati quenque temapanoltili tlamachtiloyan,contradiction
+Yeca axnicuamalilia quenque,Axnimati quenque panoc ino.,neutral
+"Ya ni Fannie Flono. Mitzcaltihqui ne Ag--- Agusta, GA, huan tlatempohuaz tlen panoc quema pilconetzi","Fannie Flono quipixqui ceyoc tequitl, huacca ama axhuel techtempohuiliz ama tlen panotoc inemiliz",neutral
+"Ya ni Fannie Flono. Mitzcaltihqui ne Ag--- Agusta, GA, huan tlatempohuaz tlen panoc quema pilconetzi","Fannie Flono iztoc nica huan textempohuiliz tlen queniuhqui panoc quema pilconetzi que mitzcaltihqui Augusta, GA.",entailment
+"Ya ni Fannie Flono. Mitzcaltihqui ne Ag--- Agusta, GA, huan tlatempohuaz tlen panoc quema pilconetzi",Fannie Florno quena huelqui textlatempohuilihqui ama mazqui quipiyaya miac tequitl,neutral
+Quimacahtoya macuili descatamentos tlen U2,Na nitequititoc ica U2,neutral
+Quimacahtoya macuili descatamentos tlen U2,"Axquema nitequimachiltoc ica U""",contradiction
+Quimacahtoya macuili descatamentos tlen U2,Nitequitic ica destacamentos tlen U2 nochi tonalli pan ompohualli xihuitl,neutral
+Nazantzi nimotequipanoltiyaya ica reguladores tlen prueba campa camaras tlen altitud pilciltzitzi.,Axnechpahtiqui nimotequipanoltiz nocelti ica ne camaras tlen altitud pilcintzitzi,contradiction
+Nazantzi nimotequipanoltiyaya ica reguladores tlen prueba campa camaras tlen altitud pilciltzitzi.,Nompa prebas mochihqui ipan ne camaras tlen altitud pilciltzitzi,entailment
+Nazantzi nimotequipanoltiyaya ica reguladores tlen prueba campa camaras tlen altitud pilciltzitzi.,Iztoya tlen tohhuantin tlen motequipanoltihque ica nompa reguladores tlen prueba.,neutral
+"Na, ini, sargento tlanahuatihquel huan temachtihquel,nimociyahquilihquiya, quema quiihtohqui Ricc",Naha nitequiti tlen ni tonali,neutral
+"Na, ini, sargento tlanahuatihquel huan temachtihquel,nimociyahquilihquiya, quema quiihtohqui Ricc",Ayoc nitequitc ne 2002,neutral
+"Na, ini, sargento tlanahuatihquel huan temachtihquel,nimociyahquilihquiya, quema quiihtohqui Ricc",Ricc quiihtohqui ayoc tequiti,neutral
+"Onca ce ome proyecciones tlen fluyo caja huan, mmm, mmm, ya ino nelia, ino ino Cutty, tlen itoca ne tlacohquetl",Tlacohquetl itoca Cutty huan quitlani $10000 cece meztli,neutral
+"Onca ce ome proyecciones tlen fluyo caja huan, mmm, mmm, ya ino nelia, ino ino Cutty, tlen itoca ne tlacohquetl",Onca ce tlacohquetl tlen itoca Cutty,entailment
+"Onca ce ome proyecciones tlen fluyo caja huan, mmm, mmm, ya ino nelia, ino ino Cutty, tlen itoca ne tlacohquetl",Axtipiya tlacohuani tlen intoca Cutty,contradiction
+Ixpocatl tlen cualli nechpalehuaz iztoc campa ontlami ni altepetl.,Ixpocatl tlen nicnequi ma nechpalehui iztoc nelpano huecca,neutral
+Ixpocatl tlen cualli nechpalehuaz iztoc campa ontlami ni altepetl.,Cihuapil tlen nechpalehuiz iztoc a 5 millas,the relationship between the premise and the hypothesis is 'neutral'.
+Ixpocatl tlen cualli nechpalehuaz iztoc campa ontlami ni altepetl.,Axonca yon ce tlen cualli nechpalehuiz,entailment
+"Yahhuantin monelcemantoya tlen queyahhuantin neltequitiyaya huan queyahuantin zan conemeh iztoya caltic, ino huelliz quema…",Nochi monelcencahqueh queh nochi tequitizquiah,neutral
+"Yahhuantin monelcemantoya tlen queyahhuantin neltequitiyaya huan queyahuantin zan conemeh iztoya caltic, ino huelliz quema…",Axmonelcencahuayaya tlen queya mano de campo huan tlen queya nelia cal-ehua.,neutral
+"Yahhuantin monelcemantoya tlen queyahhuantin neltequitiyaya huan queyahuantin zan conemeh iztoya caltic, ino huelliz quema…",Axmocencahuayaya queya tequitizquia ipan milixtli huan queya tlatoxomazquia,neutral
+"Ama techcamohuizceh tlen Tercera SS, U2 quick huan black Bird",Ya quiihtohtoc ayoc quema camatiz,neutral
+"Ama techcamohuizceh tlen Tercera SS, U2 quick huan black Bird",Ya camati tlen submarino tlamantinih,neutral
+"Ama techcamohuizceh tlen Tercera SS, U2 quick huan black Bird",Ya camati eyi tlamantli,neutral
+"Na ninequi niquihtoz que yahhuanti zan quipiyaya, hueliz, macuili conemeh. Ce mihqui",Nochi iconehua momanahuihqueh,contradiction
+"Na ninequi niquihtoz que yahhuanti zan quipiyaya, hueliz, macuili conemeh. Ce mihqui",Ce mihqui incone tlen macuilti iconehua,contradiction
+"Na ninequi niquihtoz que yahhuanti zan quipiyaya, hueliz, macuili conemeh. Ce mihqui",Incone tlen miquie aci ica miac cocoliztli,neutral
+"Nelia, Androv gromikov atleno tlananquili, huan tohhuanti tipixtoya miach tlamantli tlen peliculas tlen U2",Ne U2 quichihque huan oncayaya miac peliculas,entailment
+"Nelia, Androv gromikov atleno tlananquili, huan tohhuanti tipixtoya miach tlamantli tlen peliculas tlen U2",Ne U2 quichihquie ce tonelada de pelicula ipan atlahco,neutral
+"Nelia, Androv gromikov atleno tlananquili, huan tohhuanti tipixtoya miach tlamantli tlen peliculas tlen U2","Axtipiyaya tlamantli tlen archivo, huacca monehqui timoneltlatoquilizceh",contradiction
+"Tlehtohqui huetziyaya miac ixayoli pan iiztiyol, teipa quiihtohqui queh ne Joce yahqui hasta ne porche.","Queme quitlelihqui ma tlehco hasta ne porche, ya quipiyaya ixayoli",entailment
+"Tlehtohqui huetziyaya miac ixayoli pan iiztiyol, teipa quiihtohqui queh ne Joce yahqui hasta ne porche.",Ya quihuazqui namantzi iixayol quema quicuatopehqui Joe calteno iporche,neutral
+"Tlehtohqui huetziyaya miac ixayoli pan iiztiyol, teipa quiihtohqui queh ne Joce yahqui hasta ne porche.",Nelpano pahtoya quema quiitac Joe huan pehqui choca,neutral
+Intla nompa Aeronave lementozquia ¿quenque tlatlazquia huan patizquia intla quipiya plomo huan nompa riadiación axpanozquia?,Nompa radiación no cualli mocencahuiz quema onca ce tlimecatl,neutral
+Intla nompa Aeronave lementozquia ¿quenque tlatlazquia huan patizquia intla quipiya plomo huan nompa riadiación axpanozquia?,Radiación panozquia ipan ce tlayocomitl iyohyoc quema nompa avion tlatlazquia,neutral
+Intla nompa Aeronave lementozquia ¿quenque tlatlazquia huan patizquia intla quipiya plomo huan nompa riadiación axpanozquia?,Nompa riadiación axpanozquia quema onca ce tlimecatl,neutral
+"Ya ni Sargento huan tlayacanquetl Tlamachtihquel Clem Francis, ayoc tequitic tlen Fuerzas aeras estadounidenses",Ne tlayacanquetl ayoc tequiti tlen Fuerza Aerea tlen Estados Unidos,entailment
+"Ya ni Sargento huan tlayacanquetl Tlamachtihquel Clem Francis, ayoc tequitic tlen Fuerzas aeras estadounidenses",Ne tlayacanquetl hueloc onmocehuihqui,entailment
+"Ya ni Sargento huan tlayacanquetl Tlamachtihquel Clem Francis, ayoc tequitic tlen Fuerzas aeras estadounidenses",Ne tlayacanquetl tlen Fuerza Aerea de los Estados Unidos hueloz conpeqhualtihqui itlamachtili ni semana,contradiction
+"Cualtitoc, elqui que oncayaya ce o ome aeronavez tlen hualaciyaya huan axquimatiaya canque patlaniyayah",Ax zan cetzi hualaci ce avion cece semana,neutral
+"Cualtitoc, elqui que oncayaya ce o ome aeronavez tlen hualaciyaya huan axquimatiaya canque patlaniyayah",Cuezoliztli pampa onca miac avionez patlantinemi ica zan cehco,contradiction
+"Cualtitoc, elqui que oncayaya ce o ome aeronavez tlen hualaciyaya huan axquimatiaya canque patlaniyayah",Axquema huallaci noavion,contradiction
+Yahhuantin momachtihtoyaya ica nompa tlaquemitl presurizados huan na ohhui nimoquentihqui ino tlaquemitl presurizado,Monequi eyi meztli tlen ticaxitiz tlamaxtiliztli queniuhqui titequihuiz nompa tlaquemitl de presión,neutral
+Yahhuantin momachtihtoyaya ica nompa tlaquemitl presurizados huan na ohhui nimoquentihqui ino tlaquemitl presurizado,Nompa tlamaxtiliztli tlen queniuhqui tictequihuiz nompa tlaquemitl de presión monequi miac cahuitl,entailment
+Yahhuantin momachtihtoyaya ica nompa tlaquemitl presurizados huan na ohhui nimoquentihqui ino tlaquemitl presurizado,Monequiyaya timomachtihtozquia ama tonalli queniuhqui titequihuizceh nompa tlaquemitl de presión,entailment
+"Ninequi niihquitoz que axoncayaya tlen malhuilili ica ticalaquiz ica ino bomba pampa axtoponizquia, mazquia neltetic nompa tlalli",Nompa bomba quitencotontoya ne Piloto,contradiction
+"Ninequi niihquitoz que axoncayaya tlen malhuilili ica ticalaquiz ica ino bomba pampa axtoponizquia, mazquia neltetic nompa tlalli",Bompa axhuel topontitozquia,entailment
+"Ninequi niihquitoz que axoncayaya tlen malhuilili ica ticalaquiz ica ino bomba pampa axtoponizquia, mazquia neltetic nompa tlalli",Malhuilili oncayaya pampa toponizquia nompa bomba,contradiction
+Huan intla monextizquia nelia ihquino quema na nichihua,Axnimati nelia intla mitzpahquia ihquini.,neutral
+Huan intla monextizquia nelia ihquino quema na nichihua,"Nelia, nimonelchihuilia nichihua.",entailment
+Huan intla monextizquia nelia ihquino quema na nichihua,Nimonelchihuilia nitlamiltiz nopoyecto nece semana,neutral
+"Nouhquia, ne tlapialmeh nochipa mocuapolozquia, nelpano ne cabras.",Ne cabras nochi tonalli mochololtiyaya campa quincaltzahtoya,neutral
+"Nouhquia, ne tlapialmeh nochipa mocuapolozquia, nelpano ne cabras.",Ne cabras cholohuayaya nelpano,entailment
+"Nouhquia, ne tlapialmeh nochipa mocuapolozquia, nelpano ne cabras.",Ne cabras iztoya campa nelcaltzayayotipa,neutral
+"Quema ticalahque, cuapuertas caltzahtoya",Nochi cuapuertas tlapohtoya,contradiction
+"Quema ticalahque, cuapuertas caltzahtoya",Tohhuantin tipixtoya llavez,neutral
+"Quema ticalahque, cuapuertas caltzahtoya",Ticalahque mazqui caltzahtoya,contradiction
+Zan monequiyaya nipohtozquia nochi huan nitlachiltozquia intla nihuelizquia nicencahuzquia,Nellia nimoneltlelia que nochi pohualliztli za ino nicnequiyaya tlen ica nicencahuazquia,neutral
+Zan monequiyaya nipohtozquia nochi huan nitlachiltozquia intla nihuelizquia nicencahuzquia,"Axnimati queniuqui nichihuaz zan tlen icha nochi tlapohualiztli. Ce favor, technehmachiltili tlen queniuhqui cualli nicencahuaz",neutral
+Zan monequiyaya nipohtozquia nochi huan nitlachiltozquia intla nihuelizquia nicencahuzquia,Nimatiz quezqui tlapohualiz ica nochi tlapohualiztli,neutral
+"Huallahqui, caltlapohqui huan niquelnamiqui ontlaittac iica huan ixayactipa moyolcuezohua.","Nelpano yolpahtoya, ica miac paquiliztli quitehtzonqui cuapuerta icuayotipa.",neutral
+"Huallahqui, caltlapohqui huan niquelnamiqui ontlaittac iica huan ixayactipa moyolcuezohua.","Monelchihuiliyaya axtechtlahtlacoltiz, huan tohhuanti timahtoyaya que ticualahmacotoyaya.",neutral
+"Huallahqui, caltlapohqui huan niquelnamiqui ontlaittac iica huan ixayactipa moyolcuezohua.",Zan ica ixayac nimatqui yolcuezohtoya quema calapohqui,entailment
+"Huacca, axnipiya yonce tlatempohualiztli",Axnipiya yonce tlanemaquiliztli,entailment
+"Huacca, axnipiya yonce tlatempohualiztli",Quena nipiya ce tlanemaquiliztli,contradiction
+"Huacca, axnipiya yonce tlatempohualiztli",Onca miac tlanemaquiliztli,neutral
+Tlen ipantic tlen nompa axquema tlen quichihquia iceltiltzi,Ya quicelia miac palehuiliztli,neutral
+Tlen ipantic tlen nompa axquema tlen quichihquia iceltiltzi,Ya quicelia palehuiliztli ica tlacualli huan ica pecetl,neutral
+Tlen ipantic tlen nompa axquema tlen quichihquia iceltiltzi,Ya iceltzi nentinemi,neutral
+"Na ihquino nimoihliaya, Toteco, huan ramona iztona nompone","Ramona iztoya ipan tlalli, motzocoyoltoya quema ce conetzi",neutral
+"Na ihquino nimoihliaya, Toteco, huan ramona iztona nompone",Ramona nechnemilizmatiaya tlen axcualli nemiliztli,contradiction
+"Na ihquino nimoihliaya, Toteco, huan ramona iztona nompone",Ramona monelqueztoya quema na nicamachaltoya,neutral
+Nelia axetic eltoya,"Quicuahqui miac tlacualli, huan axmotomahqui","the premise and hypothesis in nahuatl do not provide enough information to determine a clear relationship of entailment or contradiction. therefore, the relationship should be considered as 'neutral'."
+Nelia axetic eltoya,Ya axetic eltoya,entailment
+Nelia axetic eltoya,Ya yopactoya iztoya,neutral
+Axnimati intla mocahqui Augusta teipa tlen ino,Ya naja iztoya ne Augusta teipa tlen oncaya yaohtli,neutral
+Axnimati intla mocahqui Augusta teipa tlen ino,Ya naha iztoya ne Augusta,neutral
+Axnimati intla mocahqui Augusta teipa tlen ino,Mocueniuhqui tlen ne Augusta nimantzi,neutral
+"Nochi tlen tichihqueh…. Axquema techtlelihqueh canque yahuiyaha, nouhquia quema quizayaya nepa bace huan yahuiyaya quema onmocahuayaya ce tlaloxtli",Axquema nintlahtlanilihque yanque yahuiyaya,neutral
+"Nochi tlen tichihqueh…. Axquema techtlelihqueh canque yahuiyaha, nouhquia quema quizayaya nepa bace huan yahuiyaya quema onmocahuayaya ce tlaloxtli",Nochipa technehmachiyaya canque iztoya huan canque yahuiyaya,neutral
+"Nochi tlen tichihqueh…. Axquema techtlelihqueh canque yahuiyaha, nouhquia quema quizayaya nepa bace huan yahuiyaya quema onmocahuayaya ce tlaloxtli",Axquema techtlelihque canque yahuiyaya,entailment
+Quiihtohqueh: tohhuanti titlaxtlahtoque campa timocahuaz,Axtleno tlaxtlahuazceh tlen tohhuantin,neutral
+Quiihtohqueh: tohhuanti titlaxtlahtoque campa timocahuaz,Yahhuantin tlachtlahua ce calli tlen na huan noihnihua,contradiction
+Quiihtohqueh: tohhuanti titlaxtlahtoque campa timocahuaz,Yahhuantin tlachtlahua ce calli,neutral
+"Cualtitoc, hual moztla, monequi, precidente quennedy, mm.., quitzacqui Cuba huan mmm…, tobuques quiohtzahqueh ce barco ruso tlen yahuiyaya ohcalteno ne Cuba huan quipantihque miciles.",quennedy quiiniluihqui to tropas ma quitemocah miciles.,contradiction
+"Cualtitoc, hual moztla, monequi, precidente quennedy, mm.., quitzacqui Cuba huan mmm…, tobuques quiohtzahqueh ce barco ruso tlen yahuiyaya ohcalteno ne Cuba huan quipantihque miciles.",Axquinquezqueh yonce Barco pampa axquinehqueh cualantli….,contradiction
+"Cualtitoc, hual moztla, monequi, precidente quennedy, mm.., quitzacqui Cuba huan mmm…, tobuques quiohtzahqueh ce barco ruso tlen yahuiyaya ohcalteno ne Cuba huan quipantihque miciles.",Quipantihqueh 20 miciles ipan barco,neutral
+"Mazqui, ne tlacatl panoz",Tlacatl panoc ipan sala tlen tribunal,neutral
+"Mazqui, ne tlacatl panoz",Tlacatl panoc campa cochi,neutral
+"Mazqui, ne tlacatl panoz",tlacatl motlalohqui neca,neutral
+"Mmm…, tohueyitatahhua nochipa techihneliyaya, Quemantica iztoya totatahhua huan yehyehtzi tipanoqueh",Nelpano hueccatipa tiaciti icha tohueyitatahhua,neutral
+"Mmm…, tohueyitatahhua nochipa techihneliyaya, Quemantica iztoya totatahhua huan yehyehtzi tipanoqueh",Nohueyyitatahhua nelpano moihneliyaya,entailment
+"Mmm…, tohueyitatahhua nochipa techihneliyaya, Quemantica iztoya totatahhua huan yehyehtzi tipanoqueh","Nohueyitatahhua nelpano cuahuihuitiyaya, yeca axnexpahtihqui ninpaxalotin incha.",contradiction
+Axnicantic nitequitiz ica nochi tlamantli,Cualtitozquia itlehcoltitozquia mazqui tiotlac,neutral
+Axnicantic nitequitiz ica nochi tlamantli,Niyehyehcohqui nochi nochipa,neutral
+Axnicantic nitequitiz ica nochi tlamantli,Axniyahatic nipanoltiz pan tepoztli nochi,neutral
+"A, nipiya ce notequitl ama tlen ninmactiz macehualmen queniuhqui quitlalizceh paracaidas ipan ce disparador tlen armas nucleares, tlen quitoponiltilia nompa bomba atómica",Bomba atómica axquipiya gatillo,contradiction
+"A, nipiya ce notequitl ama tlen ninmactiz macehualmen queniuhqui quitlalizceh paracaidas ipan ce disparador tlen armas nucleares, tlen quitoponiltilia nompa bomba atómica",Nompa detonador ya quitlatia ma toponi nompa bomba quema quitilaniltilia,neutral
+"A, nipiya ce notequitl ama tlen ninmactiz macehualmen queniuhqui quitlalizceh paracaidas ipan ce disparador tlen armas nucleares, tlen quitoponiltilia nompa bomba atómica",Zan monequi quentzi titianaz gatillo tlen bomba atomica,contradiction
+"Nohueyinana eltoya nechtempohuiliyaya miac tlamantli tlatempohualiztli tlen quema ya eltoya pilconetzi huan tlen panoc, nelpano nechtlatempohuiliayaya tlen imahuicalhua huan queniuhqui panotihualahque nochi ino xihuitl",Nochipa nechpahtiyaya nicaquiz itlatempohualiz nohueyinana,neutral
+"Nohueyinana eltoya nechtempohuiliyaya miac tlamantli tlatempohualiztli tlen quema ya eltoya pilconetzi huan tlen panoc, nelpano nechtlatempohuiliayaya tlen imahuicalhua huan queniuhqui panotihualahque nochi ino xihuitl",Nohueyinana axquema quipahtuihqui techtempohuiliz tlen quema ya eltoya conetzi,entailment
+"Nohueyinana eltoya nechtempohuiliyaya miac tlamantli tlatempohualiztli tlen quema ya eltoya pilconetzi huan tlen panoc, nelpano nechtlatempohuiliayaya tlen imahuicalhua huan queniuhqui panotihualahque nochi ino xihuitl",Nohueyinana nechtempohui miac tlamantli tlen imahuicalhuia quema ya eltoya pilconetzi,entailment
+"Tipixtoya nemaxtic tlaquemitl tlen presión ipan avion, quema quitequihuiyaya nompa astronautas, ma tlen tohhuanti nelpano inextiliz tenextic petlantic, ica bota, tlen teminayaya tonati.",Noyoyohua axihuicalhua tlen quipixtoya ne astronautas,contradiction
+"Tipixtoya nemaxtic tlaquemitl tlen presión ipan avion, quema quitequihuiyaya nompa astronautas, ma tlen tohhuanti nelpano inextiliz tenextic petlantic, ica bota, tlen teminayaya tonati.","Toyoyohua axihuicalhua tlen ne astronautas, za quentzi tlen quimina tonati, tlen tohhuantin inextiliz tenetxtic petlantic",neutral
+"Tipixtoya nemaxtic tlaquemitl tlen presión ipan avion, quema quitequihuiyaya nompa astronautas, ma tlen tohhuanti nelpano inextiliz tenextic petlantic, ica bota, tlen teminayaya tonati.",Cualli quipantiz tlaquemitl campahueli tlen quinequi,neutral
+"Nelia, nohueyitata axcual tlacatl eltoya",Nohueyitata eltoya huihuitzi,contradiction
+"Nelia, nohueyitata axcual tlacatl eltoya",Nohueyitata nelpano tecualanitayaya huan axquinpahtiyaya cequi macehualmeh,entailment
+"Nelia, nohueyitata axcual tlacatl eltoya","No hueyitata nelpano yehyehtzi itlalnamiquiliz eltoya, axtipantiz ihquino namantzi.",contradiction
+"Hueliz 30 o 40 aviones U2, huan tipehualtihqueh tinmachtihqueh pilotos chinos, polotos britanicos, tlen inihuaya quena timohuicayaya.",Axtipixqueh queya techmaxtiz,neutral
+"Hueliz 30 o 40 aviones U2, huan tipehualtihqueh tinmachtihqueh pilotos chinos, polotos britanicos, tlen inihuaya quena timohuicayaya.",Timomachtihqueh macuili semanas ica britanicos,entailment
+"Hueliz 30 o 40 aviones U2, huan tipehualtihqueh tinmachtihqueh pilotos chinos, polotos britanicos, tlen inihuaya quena timohuicayaya.",Timomachtihqueh ica miacqui cequinoc soldados,neutral
+"Huacca ihquino, quihtohua xitemo tlen cualli, xitemo ipan ini huan uni empresa",Ya axnechcamohuihqui,neutral
+"Huacca ihquino, quihtohua xitemo tlen cualli, xitemo ipan ini huan uni empresa",Nechtlelihqui ma nitemo ce tlamantli,neutral
+"Huacca ihquino, quihtohua xitemo tlen cualli, xitemo ipan ini huan uni empresa",Nechtlelihqui ma nitemo información financiera,neutral
+Ya quiihtohqui tlehcotoc norte,Quiihtohqui moqueztihualahqui ohtipa,neutral
+Ya quiihtohqui tlehcotoc norte,Quihtohqui temoqueh,neutral
+Ya quiihtohqui tlehcotoc norte,Quihtohqui tlehcoqueh,entailment
+"Hum, no, nelia, axquema nipohqui nompa amoxtli tlen monequiyaya nipohuaz",Axnipohtoc yonce amoxtli tlen quipiya 100 paginas,neutral
+"Hum, no, nelia, axquema nipohqui nompa amoxtli tlen monequiyaya nipohuaz",Axnipohtoc miac amoxtli,contradiction
+"Hum, no, nelia, axquema nipohqui nompa amoxtli tlen monequiyaya nipohuaz",Nipohua amoxtli nochi tonalli,contradiction
+"Niyacanqui, huan nipehpenqui noyoyo, huan niyahqui campa monequiyaya niyaz",Nicahqui no bolsa huan nimoihli axnocuezoliz,neutral
+"Niyacanqui, huan nipehpenqui noyoyo, huan niyahqui campa monequiyaya niyaz",Nihuicac ibolsa campa icha,the relationship between the premise and the hypothesis is 'neutral'.
+"Niyacanqui, huan nipehpenqui noyoyo, huan niyahqui campa monequiyaya niyaz",Nihuicac ibolsa campa monequiyaya,entailment
+Nelpano moyolcuapac,Iyolpaquiliz nochipa eltopa zan ihquino,neutral
+Nelpano moyolcuapac,Yolpahtoya huan teipa mocuezohqui,neutral
+Nelpano moyolcuapac,Iyoltlalnamiquiz nelpano mopatlac,neutral
+"Nech… nechtlapehpenihtoque caxtolmeh macehualmeh pampa monequi niyaz tlamachtiloyan, huan na axniyaz, axniyaz.",Axnechtlapehpenihque ma niyaz tlamachtiloyan,contradiction
+"Nech… nechtlapehpenihtoque caxtolmeh macehualmeh pampa monequi niyaz tlamachtiloyan, huan na axniyaz, axniyaz.",Nechtlapehpenihque ma niyaz tlamachtiloyan,contradiction
+"Nech… nechtlapehpenihtoque caxtolmeh macehualmeh pampa monequi niyaz tlamachtiloyan, huan na axniyaz, axniyaz.",Na nelia ni cualli tlapehpeniliz,contradiction
+"Monequiyaya nipanoz ipan ce cere de camaras de altitud, ah, paceos axtihui que pehuazceh patlanizceh ipan U2 o hueliz patlanizceh ica yoyomitl de presión",Miaqui macehualmeh axquinpahtiya nompa examenes huan axquema hueli patlani ipan U2,neutral
+"Monequiyaya nipanoz ipan ce cere de camaras de altitud, ah, paceos axtihui que pehuazceh patlanizceh ipan U2 o hueliz patlanizceh ica yoyomitl de presión",Monequi miac tlamantli tipanoz tlamachtiliztli tlen ica tihuelliz tipatlaniztliz nompa U2,neutral
+"Monequiyaya nipanoz ipan ce cere de camaras de altitud, ah, paceos axtihui que pehuazceh patlanizceh ipan U2 o hueliz patlanizceh ica yoyomitl de presión",Zan mitzcahuilizceh xipatlanilti cempatzi nompa U2 iyohyoc,neutral
+Na nimotequipanoltihtoc ica nouhquia ino,Na nomotequipanoltiz tlen nompa ino tequitl,neutral
+Na nimotequipanoltihtoc ica nouhquia ino,Na nomotequipanotihtoc tlen miac tlamantli queh ne cequinon revistas,neutral
+Na nimotequipanoltihtoc ica nouhquia ino,Na nouhquia nicamanaloa tlen yahhuanti,contradiction
+"Ni iyohyoc panoc, panoyota 75 xihuitihca, ne legislatura de Texas mocencahtoya tlen ne militar huan eltoya embajadores ne Tejas, huacca, monequiyaya embajadores tlen Texas",Nompa unidades militares axhueli eli embajadores de TX,contradiction
+"Ni iyohyoc panoc, panoyota 75 xihuitihca, ne legislatura de Texas mocencahtoya tlen ne militar huan eltoya embajadores ne Tejas, huacca, monequiyaya embajadores tlen Texas",Nompa unidad militar quintocachtihqueh Embajadores de Texas ipan ne Congreso de los Estados Unidos,neutral
+"Ni iyohyoc panoc, panoyota 75 xihuitihca, ne legislatura de Texas mocencahtoya tlen ne militar huan eltoya embajadores ne Tejas, huacca, monequiyaya embajadores tlen Texas",Nompa Unidad militar quintocahtihqueh embajadores tlen TX,entailment
+Intla eltozquia ce tlamantli tlen cualli nichihuazquia,Na cualli nichihuazquia ce tlamantli,entailment
+Intla eltozquia ce tlamantli tlen cualli nichihuazquia,Nimahyoya queh na axhuetl tleno nichihuazquia,the relationship between the premise and the hypothesis is 'neutral'.
+Intla eltozquia ce tlamantli tlen cualli nichihuazquia,Nimotlelia queh na axhuel tleno nichihuazquia tlen nimitzmanahuizquia,neutral
+"Axnechpahtiaya ino, nitempohuiliaya nohuelti nochi tonalli, huan nechtleliayaya queh na axcualli nichihuayaya",Ya nochipa quiyolchicahqui ihuelti,contradiction
+"Axnechpahtiaya ino, nitempohuiliaya nohuelti nochi tonalli, huan nechtleliayaya queh na axcualli nichihuayaya",Neltlehtohqui queh ihuelti axtleno quimatiyaya quichihuaz,neutral
+"Axnechpahtiaya ino, nitempohuiliaya nohuelti nochi tonalli, huan nechtleliayaya queh na axcualli nichihuayaya",Ya nelpano quineltlatequihuiliyaya ihuelti,contradiction
+"Huacca monehqui niyaz icha, ninotzqui ica ini tlapohualliztli tlen monequiyaya nonohnotzaz quema nionacito.",Niquizqui ino telefono tlen nechtlanehtihque ica ninohnotzaz,contradiction
+"Huacca monehqui niyaz icha, ninotzqui ica ini tlapohualliztli tlen monequiyaya nonohnotzaz quema nionacito.",Nitenozquia ica ino tlapohualiztli quema niacito nocha,entailment
+"Huacca monehqui niyaz icha, ninotzqui ica ini tlapohualliztli tlen monequiyaya nonohnotzaz quema nionacito.","Monequiyaya ninohnotzaz, huan axnichihqui",entailment
+"Huacca, niaciti nompa moztlayoc huan, eh, niquelcahqui queniuhqui… hueliz nitlatepoztoquilihqui, o ya calahqui, o na nimati tlaya.","Ama axniyahtoc, yeca axniquiztoc.",neutral
+"Huacca, niaciti nompa moztlayoc huan, eh, niquelcahqui queniuhqui… hueliz nitlatepoztoquilihqui, o ya calahqui, o na nimati tlaya.",Nitlahpalohqui nepa gimnacio ama huan ya huallahqui nechtlahpaloco hual tiotlac,neutral
+"Huacca, niaciti nompa moztlayoc huan, eh, niquelcahqui queniuhqui… hueliz nitlatepoztoquilihqui, o ya calahqui, o na nimati tlaya.",Nitetlahpalohqui ama ihnaloc huan ya nouhquia huallahqui,neutral
+Axtimatiyayah canque yahuiyaya,Axtimatiyayah canque yahuiyayah nompa macehualmeh tlen interestatal,neutral
+Axtimatiyayah canque yahuiyaya,Axtimatiyayah canque yahuiyayah nompa macehalmeh,entailment
+Axtimatiyayah canque yahuiyaya,Timatiyayah canue yahuiyayah,contradiction
+"Na niiztoya quema, xiquelcahua, niontlacuati. Nimayanayaya.",Axnimayanayaya,contradiction
+"Na niiztoya quema, xiquelcahua, niontlacuati. Nimayanayaya.","Nimayanayaya, huacca nitlacuahqui tlen ihnaloc",entailment
+"Na niiztoya quema, xiquelcahua, niontlacuati. Nimayanayaya.","Nimayancamiquiyaya, huacca niyahqui cafeteria",contradiction
+"Huacca, zan achi ama nimacahuazquia ni notequi",Zan achi nimacahuazquia ni notequi,entailment
+"Huacca, zan achi ama nimacahuazquia ni notequi",Nelpano nechcocohuayaya queh ayoc noyopac niiztoya,neutral
+"Huacca, zan achi ama nimacahuazquia ni notequi",Axquema nimitlelihquia nimacahuaz notequi,contradiction
+Hueliz acic ne xihuitl tlen 198 y algo… o hueliz ne 1888 o 1889,Aci teipa tlen ne xihuitl 1990,neutral
+Hueliz acic ne xihuitl tlen 198 y algo… o hueliz ne 1888 o 1889,Acic ne meztli diciembre tlen 1880,contradiction
+Hueliz acic ne xihuitl tlen 198 y algo… o hueliz ne 1888 o 1889,Ya axacic hasta ne 1984,neutral
+Cualtitozquia ma nitemohuihtozquia ne pilciltzi tornillo pampa cualiz ticocozquia polmunes tlen ce macehualtzi,Ino tornilli cualli ticocoz ce ipolmunes ce macehualtzi,neutral
+Cualtitozquia ma nitemohuihtozquia ne pilciltzi tornillo pampa cualiz ticocozquia polmunes tlen ce macehualtzi,"tornillo axmalhuilili, cualli xitetzopili quema tinequi",contradiction
+Cualtitozquia ma nitemohuihtozquia ne pilciltzi tornillo pampa cualiz ticocozquia polmunes tlen ce macehualtzi,Nompa tornillo cualli calaquiz ipan motraquea huan cualli mitzcocoz mopolmunes,entailment
+"Nicelihquie ce tlanahuatili ma niyaz Del Rio, TX, huacca quema niacito, nellia, nimatqui ma monequi niyaz ne Bace tlen Laughlin Air Force","Nechtitlanquehne Del Rio, Texas pampa nontequitiz",entailment
+"Nicelihquie ce tlanahuatili ma niyaz Del Rio, TX, huacca quema niacito, nellia, nimatqui ma monequi niyaz ne Bace tlen Laughlin Air Force",Axquema niyahtoc Texas,contradiction
+"Nicelihquie ce tlanahuatili ma niyaz Del Rio, TX, huacca quema niacito, nellia, nimatqui ma monequi niyaz ne Bace tlen Laughlin Air Force","Nompa Fuerzas Aeras yahhuantin nechtitlanqueh ne Del Rio, TX, ne 2001.",neutral
+"Nochi macehualmeh motequilia champán, huan axnochi quetlami quii, tlen mocahua ipan copas quii conemeh, huacca quema tohhuanti tiiztoqueh, timomalacachtinemih huan tiquitinemih champán.",Nompa conemeh quiiqueh eyi boteyas tlen champaña,entailment
+"Nochi macehualmeh motequilia champán, huan axnochi quetlami quii, tlen mocahua ipan copas quii conemeh, huacca quema tohhuanti tiiztoqueh, timomalacachtinemih huan tiquitinemih champán.",Coneme quiiqueh ce achi campán,contradiction
+"Nochi macehualmeh motequilia champán, huan axnochi quetlami quii, tlen mocahua ipan copas quii conemeh, huacca quema tohhuanti tiiztoqueh, timomalacachtinemih huan tiquitinemih champán.",Ne ilhuitl axtemacaqueh alcohol,contradiction
+Onca miac tlatempohualiztli tlen ne altepetl,Axtleno nicahtoc yonce tlatempohualiztli.,neutral
+Onca miac tlatempohualiztli tlen ne altepetl,Onca miac tlatempohualiztli tlen militares,neutral
+Onca miac tlatempohualiztli tlen ne altepetl,Onca miac tlatempohualiztli tlen motempohua,neutral
+"Tinemiz huan tiyecoz, timahtohca, quema tihuelliz, eh,avión",Axtleno nimati tlen queniuhqui tiyecoz tlen avion,contradiction
+"Tinemiz huan tiyecoz, timahtohca, quema tihuelliz, eh,avión",Tiyecoz tlen avionez tiyecoz miac tlamantli,entailment
+"Tinemiz huan tiyecoz, timahtohca, quema tihuelliz, eh,avión",Tichihuaz miac tlayecoliz ica aviones tiyecoz miac tlamantli tlen presión,neutral
+Ninequi niiquitoz queh ino melahuac nelia,Axnimachilia ino,neutral
+Ninequi niiquitoz queh ino melahuac nelia,Nimoihlia queh inoh nelia monequiaya timoilhuizceh maluililih eltoya.,neutral
+Ninequi niiquitoz queh ino melahuac nelia,Nicuamachilihqui,neutral
+"Panoc ipan ne bace aerea tlen panoyaya ipan Cuba, huan nelia quitepexihuihqueh Rodolph Anderson",Nochi aviones momanahuihqueh tlen axquintoponihqueh,contradiction
+"Panoc ipan ne bace aerea tlen panoyaya ipan Cuba, huan nelia quitepexihuihqueh Rodolph Anderson",Ce tlamantli quitepexihuihue ne Cuba,entailment
+"Panoc ipan ne bace aerea tlen panoyaya ipan Cuba, huan nelia quitepexihuihqueh Rodolph Anderson",Nelhueyi avion quitepexihuihqueh ipan Cuba ne mayo.,contradiction
+"Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli.",Nellia axniquelnamiqui tleno tlen quema nieltoya nipilconetzi,contradiction
+"Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli.",Naja aximelac miyolmati ni tonalli,contradiction
+"Hueliz ino iyohyoc quen niquelnamiqui quema nieltoya nipilconetzi, melahuac quema nichihtoya tlen axcualli.",Ino elqui tlen iyohyoc niquelnamiqui,contradiction
+"Zan axquinpahtihqui tlen ti eliz macehual yayahuic ne tonalli, ihquino panoc, timati, hueliz, yeca, timati, ne tonalli tlen 1930 quema quichihqueh",Ohui eltoya tieliz macehual yayahuic nepa sur,neutral
+"Zan axquinpahtihqui tlen ti eliz macehual yayahuic ne tonalli, ihquino panoc, timati, hueliz, yeca, timati, ne tonalli tlen 1930 quema quichihqueh",Axohui eltoya tieliz macehual yayahic,neutral
+"Zan axquinpahtihqui tlen ti eliz macehual yayahuic ne tonalli, ihquino panoc, timati, hueliz, yeca, timati, ne tonalli tlen 1930 quema quichihqueh",Nelia nelohui eltoya tieliz macehual yayahuic huacca,neutral
+Axaca quimatiyaya canque yahuiyayah,Nochi quimatiyaya canque yahuiyayah,contradiction
+Axaca quimatiyaya canque yahuiyayah,Axaca quimatiyaya catliya calli yahuiyayah,neutral
+Axaca quimatiyaya canque yahuiyayah,Campa yahuiyaya axmatiliztli,the relationship between the given premise and hypothesis is 'neutral'.
+Axhuel mocahuazquia campa Area tlen Augusta pampa macehualmen quimahtoyaya que oncayaya ce tlamantli tlachihualiztli tlen itoca tabú huan panoltiliztli tlen chipahuac,Macehualmeh axquimatiyayah intla ya axmacehualmeh chipahuaqueh,contradiction
+Axhuel mocahuazquia campa Area tlen Augusta pampa macehualmen quimahtoyaya que oncayaya ce tlamantli tlachihualiztli tlen itoca tabú huan panoltiliztli tlen chipahuac,Macehualmeh quimahtoyayah que yahuantin afroamericanos,neutral
+Axhuel mocahuazquia campa Area tlen Augusta pampa macehualmen quimahtoyaya que oncayaya ce tlamantli tlachihualiztli tlen itoca tabú huan panoltiliztli tlen chipahuac,Macehualmeh quimahtoyayah que axmacehualmeh chipahuaqueh,neutral
+"Quena, nelia, ne telpocatl iztoc nica",Ne telpocatl hualahtoc,neutral
+"Quena, nelia, ne telpocatl iztoc nica",Me macehualtzi onmonechtico,neutral
+"Quena, nelia, ne telpocatl iztoc nica",Ne macehualtzi axquema huallahqui nica,neutral
+Titlachiliyaya ce tlamantli ipan televisión,Axtipiyaya televisión,contradiction
+Titlachiliyaya ce tlamantli ipan televisión,Titlachiliyaya televisión,entailment
+Titlachiliyaya ce tlamantli ipan televisión,Titlachiliyaya tlen tlamantli pano ipan televisión,entailment
+"Huacca, nimoihlia nicamatiz zampano ica Ramona",Axquema nicamatitoc ihuaya Ramona,contradiction
+"Huacca, nimoihlia nicamatiz zampano ica Ramona",Zampano nicamatic ihuaya Ramona,entailment
+"Huacca, nimoihlia nicamatiz zampano ica Ramona",Yehyeztli timocamanalhuihqueh,the relationship between the given nahuatl premise and hypothesis is 'neutral'.
+"Zan cetzi huezqui tlen ne cuezoliztli ne Cuba huan, eh, caicer, eh, mochihquih ica ixcopincayotl huan patlanqui xitlahuac ne Andrews Air Force ne washington",10 000 macehualmeh mihqueh tlen ne cuezoliztli cubana,contradiction
+"Zan cetzi huezqui tlen ne cuezoliztli ne Cuba huan, eh, caicer, eh, mochihquih ica ixcopincayotl huan patlanqui xitlahuac ne Andrews Air Force ne washington",Zan cetzi macehual mihqui tlen ne cuezoliztli cubana,contradiction
+"Zan cetzi huezqui tlen ne cuezoliztli ne Cuba huan, eh, caicer, eh, mochihquih ica ixcopincayotl huan patlanqui xitlahuac ne Andrews Air Force ne washington",Zan cetzi macehual mihqui tlen ce accidente ne cuezolizlit cubana,neutral
+"Hum, ya cihuatl quiihtohqui...quiihtohqui…quiihtohqui, noyoltzi, quiihtohqui, axticuamachilia nemiliztli quema na nicuamachilia.",Ya cihuatl quiihtohqui axquimati tleno,neutral
+"Hum, ya cihuatl quiihtohqui...quiihtohqui…quiihtohqui, noyoltzi, quiihtohqui, axticuamachilia nemiliztli quema na nicuamachilia.",Ya cihuatl quimatiyaya nelpano tlen nemiliztli,neutral
+"Hum, ya cihuatl quiihtohqui...quiihtohqui…quiihtohqui, noyoltzi, quiihtohqui, axticuamachilia nemiliztli quema na nicuamachilia.",Nechtlelihqui que ya axtleno quimatiyayatlen queniuhqui motequipano ipan ni tlaltipactli huan queniuhqui monemilizmatizquiya,neutral
+"Quena nicuamachilia huan nimocahua quema, cualtitoc ¿Tlen nichihuiliz?",Axnimatiyaya queniuhcatza motequihuizquia nompa artilugio,neutral
+"Quena nicuamachilia huan nimocahua quema, cualtitoc ¿Tlen nichihuiliz?",Axnimati queniuhcatza monequi motequihuiz,neutral
+"Quena nicuamachilia huan nimocahua quema, cualtitoc ¿Tlen nichihuiliz?",Nimatiyaya queniuhcatza cualli motequihuizquia,neutral
+"Techmaca ce tlaloxtli, intla tinequi techtempohuiliz, na, hum, niyahua.",Nineliztohca nelia amantzi,neutral
+"Techmaca ce tlaloxtli, intla tinequi techtempohuiliz, na, hum, niyahua.",Techmaca ce tlaloxtli,entailment
+"Techmaca ce tlaloxtli, intla tinequi techtempohuiliz, na, hum, niyahua.","Texchiya ce tlaloxtli, monequi nimoyoltequipanoltiz",entailment
+Huacca niyahqui washington D. C. huan axniyahqui xitlahuac campa nechnahuatihtoyah,Axquema niyahtoc ne washington D. C.,contradiction
+Huacca niyahqui washington D. C. huan axniyahqui xitlahuac campa nechnahuatihtoyah,Niyahqui D. C. pampa niquitato notlayacanquetl,neutral
+Huacca niyahqui washington D. C. huan axniyahqui xitlahuac campa nechnahuatihtoyah,Niyahqui altepetl itlatilanca,neutral
+Ya eltoya ce macehual icuetlaxo yayahuic,Ya cihuatl quipiyaya icuetlaxo nelpano yayahuic,neutral
+Ya eltoya ce macehual icuetlaxo yayahuic,Ya cihuatl quipiyaya icuetlaxo chipahuac mazqui ya afroamericana,contradiction
+Ya eltoya ce macehual icuetlaxo yayahuic,Ya cihuatl axnelpano etic eltoya quema ihuampoyohua yayahuiqueh,neutral
+"Mazqui, topayi yahui huan quichihua ce cualli vaso hueyi tlen lechi ica chocotlal tlen na.",Topayi nechmacac ce achi lechi ica chocolatl tlen eltoya ipan nevera,entailment
+"Mazqui, topayi yahui huan quichihua ce cualli vaso hueyi tlen lechi ica chocotlal tlen na.",Topayi nechtequilihqui ce vaso lechi,neutral
+"Mazqui, topayi yahui huan quichihua ce cualli vaso hueyi tlen lechi ica chocotlal tlen na.",Topayi nechihlihqui queh axhuel niquiz tleno,neutral
+DOT monehqui quicohuaz ne inmueble ihquino,Departamento de Transporte quipantihqui ce propiedad chicotic tlen cualli motlanehqui nepa.,contradiction
+DOT monehqui quicohuaz ne inmueble ihquino,Ne propiedad huan equipo quicohque DOT,neutral
+DOT monehqui quicohuaz ne inmueble ihquino,DOT tlaxtlacqui 3 millones de dolares tlen quicohqui ne propiedad,neutral
+Ya acitozquia,Tichilihtoya acizquia diciembre 2010,neutral
+Ya acitozquia,Acitozquiaya,entailment
+Ya acitozquia,monequi axacitozquia,contradiction
+"Queh na, nimahtoc canquen nionacitoc",Nintlelihqui que axnimatiyaya tlen nichihuayaya,neutral
+"Queh na, nimahtoc canquen nionacitoc",Nintlelihquie queh nimatiyaya quena ninelpanotoya tlen motleltoya ce 40%,neutral
+"Queh na, nimahtoc canquen nionacitoc",Nintlelihquie queh quena nihuelqui,"to determine the relationship between the premise and hypothesis, we need to analyze each statement.
+
+premise: ""queh na, nimahtoc canquen nionacitoc"" roughly means ""i said that i will go wherever i am needed.""
+
+hypothesis: ""nintlelihquie queh quena nihuelqui"" roughly translates to ""i will work hard because i am happy.""
+
+the premise discusses the intention of going wherever needed, while the hypothesis talks about working hard due to happiness. these two statements discuss different aspects (intention to go somewhere vs. working hard due to happiness) that do not necessarily affect each other.
+
+the most appropriate relationship between them based on this analysis is 'neutral'."
+"Quena, ¿cualli techcaqui?",¿Cualli techcaqui namantzi?,neutral
+"Quena, ¿cualli techcaqui?",¿Cualli techcaqui tlen nimitztlelia?,entailment
+"Quena, ¿cualli techcaqui?",Nimahtoc queh axhuetl techcaqui,neutral
+"Mmm, ¿yonce? Tiquihtohqui queh axtiquelnamiqui tipohtoya ce tlamantli, huan, quema ya tihueyihtoya ne tlamachtiloyan, ¿Axoncayaya once amoxtli tin mitzpahtiyaya huan ce amoxtli tlen axmitzpahtiyaya?",¿Mitzpahtia amoxtli tlen Harry Potter o axtle?,neutral
+"Mmm, ¿yonce? Tiquihtohqui queh axtiquelnamiqui tipohtoya ce tlamantli, huan, quema ya tihueyihtoya ne tlamachtiloyan, ¿Axoncayaya once amoxtli tin mitzpahtiyaya huan ce amoxtli tlen axmitzpahtiyaya?",¿Mitzpahtihqui o axmitzpahtihque ce ome amoxtli?,neutral
+"Mmm, ¿yonce? Tiquihtohqui queh axtiquelnamiqui tipohtoya ce tlamantli, huan, quema ya tihueyihtoya ne tlamachtiloyan, ¿Axoncayaya once amoxtli tin mitzpahtiyaya huan ce amoxtli tlen axmitzpahtiyaya?",Nimahtoc queh nelpano mitzpahtihqui tlen tinpohqui,contradiction
+"Ya ce hélice pequeño tlen fraguó ce inyección, huan ne tubo depresión de respiración tlen piloto huan contrapresión",Ne tornillo axquipolehuia presión,contradiction
+"Ya ce hélice pequeño tlen fraguó ce inyección, huan ne tubo depresión de respiración tlen piloto huan contrapresión",Tornillo pilciltzi huan plateado,neutral
+"Ya ce hélice pequeño tlen fraguó ce inyección, huan ne tubo depresión de respiración tlen piloto huan contrapresión","Axonca tornillos, san onca botones",contradiction
+"Ya cihuatl quiihtohua, amoximocuezo, timahtohca, amo ximoicihuilti",Ya nechihlihqui amo ma nimoicihuilti,neutral
+"Ya cihuatl quiihtohua, amoximocuezo, timahtohca, amo ximoicihuilti",Nechihliuhqui queh axtleno pano intla nihuehcahuazquia,neutral
+"Ya cihuatl quiihtohua, amoximocuezo, timahtohca, amo ximoicihuilti",Nechihliuhqui ma niya yolic,neutral
+"Precidente quennedy quinihliuhqui pilotos, quinihliuhqui: "" Macehualme, cualli inquichihua ixcopincayotl""",quennedy axquinixmatqui,contradiction
+"Precidente quennedy quinihliuhqui pilotos, quinihliuhqui: "" Macehualme, cualli inquichihua ixcopincayotl""",quennedy quincamanalhuihqui pilotos de la Fuerza Aera,neutral
+"Precidente quennedy quinihliuhqui pilotos, quinihliuhqui: "" Macehualme, cualli inquichihua ixcopincayotl""",quennedy quincamanalhuihqui pilotos,neutral
+"Na nimomachiliayaya quema, zan quentzi nitlamiya",Nitlelihqui queh nitlamiz ica 10 minutos,neutral
+"Na nimomachiliayaya quema, zan quentzi nitlamiya",Nitlelihqui que axquema nitlamizquia,contradiction
+"Na nimomachiliayaya quema, zan quentzi nitlamiya",Nintlelihquie que zan quentzi nechpolohua tlen ica nitlamiz,neutral
+Nimonelchihuilihqui niquihquiloz nochi,Nimoneltequimacac tlen niquihquilohqui nochi tlamantli,contradiction
+Nimonelchihuilihqui niquihquiloz nochi,Axnimocuezohqui tleno niquihquiloz,neutral
+Nimonelchihuilihqui niquihquiloz nochi,Niquihquilohqui nochi tequitl tlen quiihtohqui,neutral
+"Axtle, ya cihuatl acic ne 1930 pampa quipiyaya 16 xihuitl, eltozquia ne 1926, 19, timahtohca,axtihui tlen 1930",Acic 01 enero meztli tlen 1990 xihuitl,contradiction
+"Axtle, ya cihuatl acic ne 1930 pampa quipiyaya 16 xihuitl, eltozquia ne 1926, 19, timahtohca,axtihui tlen 1930",Ya cihuatl acic tlen axtohui tlen ni ciglo,contradiction
+"Axtle, ya cihuatl acic ne 1930 pampa quipiyaya 16 xihuitl, eltozquia ne 1926, 19, timahtohca,axtihui tlen 1930",Ya acic neyoc 1943,contradiction
+Huacca nelia cualli nompa ino.,Nelia quineyiya quimatiz quezqui hueliz quicuaz,neutral
+Huacca nelia cualli nompa ino.,Axtleno quineyiyaya quiixmatiz,neutral
+Huacca nelia cualli nompa ino.,Na nimoihlia cualli nelia,neutral
+"Ihuelti cuali panoc queh cihual chipahuac, quena panoc quema cihuatl chipahuac.",Ihuelti quipiyaya icuetlaxo nelpano yehyehtzi tlen nochi icalnechcahua.,neutral
+"Ihuelti cuali panoc queh cihual chipahuac, quena panoc quema cihuatl chipahuac.",Huelizquia ihuelti ya eltoya cihuatl chipahuac,neutral
+"Ihuelti cuali panoc queh cihual chipahuac, quena panoc quema cihuatl chipahuac.",Tehuetlti Sher eltoya nelpano lúgubre.,neutral
+"Cualtitoc, eltoya nelpano huehuentzi tlen elizquia tepayi",Quipiyaya 27 xihuitl nelpano quiyacana,neutral
+"Cualtitoc, eltoya nelpano huehuentzi tlen elizquia tepayi",Ya tlacatl eltoya nelpano ixpocatl queh ya cihuatl,neutral
+"Cualtitoc, eltoya nelpano huehuentzi tlen elizquia tepayi",Ya tlacatl quiyacanayaca ya cihuatl,neutral
+"Ino, nazantzi nipiyaya 922 tlen tlacatl de soporte vital, nompa tlacatl eltoya tepalehuihquetl tlen ficiologico.",Axaca temaca tleno palehuiliztli,contradiction
+"Ino, nazantzi nipiyaya 922 tlen tlacatl de soporte vital, nompa tlacatl eltoya tepalehuihquetl tlen ficiologico.",Ce tlacatl temacac palehuiliztli ficiológico a las tropas.,neutral
+"Ino, nazantzi nipiyaya 922 tlen tlacatl de soporte vital, nompa tlacatl eltoya tepalehuihquetl tlen ficiologico.",Ce tlacatl temacac palehuiliztli ficiológico,entailment
+"Huan nican niiztoc nimoihlia queh huallaz ica ce plan, timahtohca, tlen nohuaya tiquixtizceh, timahtohca, nechajuayaya quemah nihueltozquia nipatlatozquia.",Nimahtoyaya axhualtozquia nica quema,neutral
+"Huan nican niiztoc nimoihlia queh huallaz ica ce plan, timahtohca, tlen nohuaya tiquixtizceh, timahtohca, nechajuayaya quemah nihueltozquia nipatlatozquia.",Nimoihliaya ya hualayaya hualtlacualanizquia,neutral
+"Huan nican niiztoc nimoihlia queh huallaz ica ce plan, timahtohca, tlen nohuaya tiquixtizceh, timahtohca, nechajuayaya quemah nihueltozquia nipatlatozquia.",Nimoihlihquia queh ya cualanizquia pampa ihquino nicamohuihqui.,neutral
+"Cualtitoc, nelia, axmonequi tiquihtoz queh axhuelqui tichihqui axmelahuac.",Cualtitoc intla timocuapoloa,contradiction
+"Cualtitoc, nelia, axmonequi tiquihtoz queh axhuelqui tichihqui axmelahuac.",Axtechcahuilizceh ma yonquentzi timocuapoloca,neutral
+"Cualtitoc, nelia, axmonequi tiquihtoz queh axhuelqui tichihqui axmelahuac.",Axtechcahuilihque ma titemquihlica axtleno axcualli,neutral
+"Huan, oh, huan, nimoihlihtozquia, ama tlayohua axhuel nicochqui.",Axhuel nicoxqui ama tlayohua,contradiction
+"Huan, oh, huan, nimoihlihtozquia, ama tlayohua axhuel nicochqui.",Naha nipiya mahmatemiquiztli tlen axnechcahuilihqui nicochiz,entailment
+"Huan, oh, huan, nimoihlihtozquia, ama tlayohua axhuel nicochqui.",Pan tlayohua nicochi quema ce pilconetzi,neutral
+Ce tlamantli queh ya cihuatl quipiyaya tlen quimanahuiya,Ya cihuatl cualli momanahuiyaya tlen ica chichimeh mociciniah,neutral
+Ce tlamantli queh ya cihuatl quipiyaya tlen quimanahuiya,Ya cihuatl cualli momanahuiz cualli,neutral
+Ce tlamantli queh ya cihuatl quipiyaya tlen quimanahuiya,Ya nelpano eltoya yolquentzi,neutral
+"Um, tlen axtleno quiihtohqui--",Ya quiiluihqui nochi tlen quinequiyaya quimatiz,neutral
+"Um, tlen axtleno quiihtohqui--",Axtleno nechtlelihqueh tlen queniuhqui tichihuaz tlen protocolo de ceguridad,contradiction
+"Um, tlen axtleno quiihtohqui--",Quemantica axnechihlia,neutral
+Ihquini tohuantin nican tiiztoqueh,Tochan eltoya nican,neutral
+Ihquini tohuantin nican tiiztoqueh,Tochan eltoya nelpano huecca tlen nican.,neutral
+Ihquini tohuantin nican tiiztoqueh,Tochan eltoc nica tlen a 2 manzanas,neutral
+"Ya camati nelpano chicahuac, camatitoc ipan telefono",Camati nelpano yolic quema ya huelli,neutral
+"Ya camati nelpano chicahuac, camatitoc ipan telefono",Camatitoc ipan ce Iphone,neutral
+"Ya camati nelpano chicahuac, camatitoc ipan telefono",Camatitoc ipan ce movil,entailment
+"Axtleno niquelnamiqui tlen panoc, huan zan quentzi nihuihuiyocac pampa nimoihliayaya queh iyohyoc niyaz tlamachtiloyan huan hueliz ni tonalli nelpano nipixqui cuezolistli ne tonalli",Zan cualli niiztoya pampa nipehuazquia tlamachtiloyan,neutral
+"Axtleno niquelnamiqui tlen panoc, huan zan quentzi nihuihuiyocac pampa nimoihliayaya queh iyohyoc niyaz tlamachtiloyan huan hueliz ni tonalli nelpano nipixqui cuezolistli ne tonalli",Nimocuezohuayaya pampa niyazquia tlamachtiloyan,neutral
+"Axtleno niquelnamiqui tlen panoc, huan zan quentzi nihuihuiyocac pampa nimoihliayaya queh iyohyoc niyaz tlamachtiloyan huan hueliz ni tonalli nelpano nipixqui cuezolistli ne tonalli",Nimocuezohuayaya pampa mipehuazquia no jardin de infancia,neutral
+"Eh, niiztoya altepel ohteno tlen St. Louis, entre Jefferson Altepetl huan St. Louis, MO.",Niiztoya Texas.,contradiction.
+"Eh, niiztoya altepel ohteno tlen St. Louis, entre Jefferson Altepetl huan St. Louis, MO.",Niistoya ipan ce calli coztic ne Missouri.,neutral
+"Eh, niiztoya altepel ohteno tlen St. Louis, entre Jefferson Altepetl huan St. Louis, MO.",Niistoya Missouri,entailment
+"Ninehmachiliyaya ce ome macehualmen ne Del Rio, teipa monehqui niyaz Laughlin Air Force Bace, tlen huelloc contlapohqueh",Bace Aerea Laughlin tlatzahtoya ce tlaloxtli,neutral
+"Ninehmachiliyaya ce ome macehualmen ne Del Rio, teipa monehqui niyaz Laughlin Air Force Bace, tlen huelloc contlapohqueh",Bace Aerea Laughlin techantihtoqueh nochipa tlapohtoc.,contradiction
+"Ninehmachiliyaya ce ome macehualmen ne Del Rio, teipa monehqui niyaz Laughlin Air Force Bace, tlen huelloc contlapohqueh",Bace Aerea Laughlin techantihtoqueh miac 10 000 soldados.,contradiction
+Axnechcuezoya queniuqui tichihuaz,Axnechcuezoya tlaya nextiliztli titlapehpeniz,neutral
+Axnechcuezoya queniuqui tichihuaz,Monequi niyecoz ahachica,neutral
+Axnechcuezoya queniuqui tichihuaz,Axnechcuezohua queniuhqui titlamiltiz,neutral
+"Huacca nechhuihcapa ittac, huan quimatqui canque iztoc Ramona huan quinotzqui nepa",Ninotzqui nocha Ramona,contradiction
+"Huacca nechhuihcapa ittac, huan quimatqui canque iztoc Ramona huan quinotzqui nepa",Nonnohnotzqui Ramona pampa ninehqui nimatiz canque iztoya,neutral
+"Huacca nechhuihcapa ittac, huan quimatqui canque iztoc Ramona huan quinotzqui nepa",Axninehqui nimatiz tleno tlen Ramona,neutral
+"Huacca quema Fuerza Aerea quicohqui SR71,ama A-12 campa titequitiyayah ipan CIA",Fuerza Aerea quicohqui 18 aviones,neutral
+"Huacca quema Fuerza Aerea quicohqui SR71,ama A-12 campa titequitiyayah ipan CIA",Fuerzas Aereas quicohqueh aviones,entailment
+"Huacca quema Fuerza Aerea quicohqui SR71,ama A-12 campa titequitiyayah ipan CIA",Fuerza Aerea axquipiyaya yonce plan,entailment
+¿Huacca ihuehue ihuelti nouhquia quipiyaya icuetlaxol chipahuac?,Ihuelti monamihtihtoc ihuaya ce tlacatl yayahuic,neutral
+¿Huacca ihuehue ihuelti nouhquia quipiyaya icuetlaxol chipahuac?,Ihuelti monamihtihtoc,neutral
+¿Huacca ihuehue ihuelti nouhquia quipiyaya icuetlaxol chipahuac?,Ihuelti axmonamihtihtoc,entailment
+"Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz.",Ya cihuatl axquipatlac quema inemiliz.,contradiction
+"Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz.",Axquema quinehqui motleliz mocuapolohuayaya.,entailment
+"Quema mitzcaltiyaya, axquema quinehqui queh ya mocuapolohuayaya, huan quena quipatlac inemiliz.",Ya cihuatl axquema quiihtohqui queh icamanal cualli tlen pastel nacatl,contradiction
+"Notlayi, nelcualtlacatl.",Notlayi quena niquihnelia,entailment
+"Notlayi, nelcualtlacatl.",Notlayi huihuitzi,neutral
+"Notlayi, nelcualtlacatl.",Notlayi hueyi iyoltzi,entailment
+"Niyacqui icha nohuelti campa iztoya. Ihuehue tequitiyaya huan tequitiyaya ica miac tlalnamiquiliztli, huan na niyacqui icha.",Notech tequitiyaya ipan Ejercito,neutral
+"Niyacqui icha nohuelti campa iztoya. Ihuehue tequitiyaya huan tequitiyaya ica miac tlalnamiquiliztli, huan na niyacqui icha.",Notech nouhquia tequitiyaya ipan ne cervicio,neutral
+"Niyacqui icha nohuelti campa iztoya. Ihuehue tequitiyaya huan tequitiyaya ica miac tlalnamiquiliztli, huan na niyacqui icha.",Noihni axquema moihcuilohqui.,neutral
+"Nimoihlizquia. Cualli, nicahuiliz, nicahuiliz ma yahui ceyoc, huan nelia cualli nimoihliz, ¡Toteco!",Nimoihlihqui quicahuilizquia ma yaz ceyoc tlen na niyazquia,entailment
+"Nimoihlizquia. Cualli, nicahuiliz, nicahuiliz ma yahui ceyoc, huan nelia cualli nimoihliz, ¡Toteco!",Nimoihlihqui quicahuilizquia ma ceyoz iztoz tlen na ipan reunion,neutral
+"Nimoihlizquia. Cualli, nicahuiliz, nicahuiliz ma yahui ceyoc, huan nelia cualli nimoihliz, ¡Toteco!",Axquicahuilizquia yonce ma yazquia,contradiction
+"Ce tlaloxtli quitahtacaniyaya escritorio, huan teipa cualli iztoya, xicui ipan no escritorio, da, da, da, da,",Nelpano moyolcuapac,neutral
+"Ce tlaloxtli quitahtacaniyaya escritorio, huan teipa cualli iztoya, xicui ipan no escritorio, da, da, da, da,",Moyolcualpa pampa axquimatli tlen quichihua,neutral
+"Ce tlaloxtli quitahtacaniyaya escritorio, huan teipa cualli iztoya, xicui ipan no escritorio, da, da, da, da,",Ya nelia nelpano motequipanoltia nochipa huan yolcualiztoc,neutral
+"Cualtitoc, nochipa, nipano cualli huan iztoya quema ¿queniuhqui intlachihtoqueh?",Tlahtlanqui queniuhqui tlachihtoqueh,entailment
+"Cualtitoc, nochipa, nipano cualli huan iztoya quema ¿queniuhqui intlachihtoqueh?",Tlahtlanqui intla tlamiya nompa documental,neutral
+"Cualtitoc, nochipa, nipano cualli huan iztoya quema ¿queniuhqui intlachihtoqueh?",Ya axtechcamohuihqui nelpano,neutral
+"Teipa quimalacachohtinemiyaya nomalach, axnimati, neciyaya nochiya ino tonalli.",Nimonelicihuiltihqui huan nitlanqui nimantzi,entailment
+"Teipa quimalacachohtinemiyaya nomalach, axnimati, neciyaya nochiya ino tonalli.",Nimocehuihqui nompone ica ce ome cahuitl,neutral
+"Teipa quimalacachohtinemiyaya nomalach, axnimati, neciyaya nochiya ino tonalli.",Nimalacachohtoya nomalacach ce hueyi tlaloxtli,neutral
+Ya mococohuayaya ica tuberculocis huan na axquema nimatqui,Axnimatiyaya queh ya zan achi miquizquia ica cocoliztli tubercolocis,neutral
+Ya mococohuayaya ica tuberculocis huan na axquema nimatqui,Axnipatiyaya queh ya mocochuayaya ica tuberculocis,contradiction
+Ya mococohuayaya ica tuberculocis huan na axquema nimatqui,Nimahtoyaya queh ya mococohuayaya ica tuberculocis,contradiction
+"Timati, axtihueli, axtihueli tinemiz intla axtipiya cetzi contraprecion, aumento de precion de respiración ipan huihcapa",Ne presión tlen mostrador mismihtiz nochipa,contradiction
+"Timati, axtihueli, axtihueli tinemiz intla axtipiya cetzi contraprecion, aumento de precion de respiración ipan huihcapa",Monequi titequihuiz ce contrapresión superior a 5000 pies,neutral
+"Timati, axtihueli, axtihueli tinemiz intla axtipiya cetzi contraprecion, aumento de precion de respiración ipan huihcapa",Monequi ce contrapresión a esa altitud,entailment
+"Nipehqui nimantzi, eh, nimomachtiyaya inihuaya omeh telpocameh tlen iztoya nepa.","Axquema nicelihqui yonce tlamachtiliztli, huacca nimantiyahqui quema yolic panotiyaya",neutral
+"Nipehqui nimantzi, eh, nimomachtiyaya inihuaya omeh telpocameh tlen iztoya nepa.",Omeh telpocameh nechmachtihque queniuhqui nitequitiz ipan ine tlanemaquiliztli,neutral
+"Nipehqui nimantzi, eh, nimomachtiyaya inihuaya omeh telpocameh tlen iztoya nepa.",Omeh notlayihua nechmachtihqueh,entailment
+"Intla nieltozquia ce ápice, monequi tinelcualchihchihuaz nompa regulador",Regulador axtlatequihuiliztli,neutral
+"Intla nieltozquia ce ápice, monequi tinelcualchihchihuaz nompa regulador",Regulador quipatlazquia precion ica nochi iyoyo.,contradiction
+"Intla nieltozquia ce ápice, monequi tinelcualchihchihuaz nompa regulador",Monequiyaya mahuiltiz ica regulor,neutral
+"Oh, naja eltoya 9 tlen 2, 2 tlen quitlaltoya quitzapinihtoya ipan ne regulador.",Quitlaltoya inyector martes,neutral
+"Oh, naja eltoya 9 tlen 2, 2 tlen quitlaltoya quitzapinihtoya ipan ne regulador.",Na nieltoya 922,neutral
+"Oh, naja eltoya 9 tlen 2, 2 tlen quitlaltoya quitzapinihtoya ipan ne regulador.",Axquema nieltoya 922,contradiction
+"Axtleno quimachilihqui nompa tlacentiliztli, yon axquimatiyaya intla mocuitoyaya, nelia, nelia…",Ya axquimatqui queh monelizquitoya ica nompa telpocatl mazqui azquema quiixmahtoya.,neutral
+"Axtleno quimachilihqui nompa tlacentiliztli, yon axquimatiyaya intla mocuitoyaya, nelia, nelia…",axquimachiliyaya tlen panotoya,neutral
+"Axtleno quimachilihqui nompa tlacentiliztli, yon axquimatiyaya intla mocuitoyaya, nelia, nelia…",Quimahtoyaya campa calahtoya,neutral
+Tohhuantin ticalahtozquia nompone,Ticalahtozquia tohhuantin nompone a 8 p. m .,entailment
+Tohhuantin ticalahtozquia nompone,Ticalahtozquiah,entailment
+Tohhuantin ticalahtozquia nompone,Axquema ticalahtozquia,contradiction
+"Na eltoya axnimoihneliyaya, hueliz, timahtohca, tlen queniuhquie calaquiyaya, timahtohca, tlen ica nochi tlaixhuihua.",Ya nochih quinmacuitlahuiyaya quemah zance,neutral
+"Na eltoya axnimoihneliyaya, hueliz, timahtohca, tlen queniuhquie calaquiyaya, timahtohca, tlen ica nochi tlaixhuihua.",Quinmacuitlahuiyaya inixhuiyaya ax zance,contradiction
+"Na eltoya axnimoihneliyaya, hueliz, timahtohca, tlen queniuhquie calaquiyaya, timahtohca, tlen ica nochi tlaixhuihua.",amo cualli quinmatiltiya cequinoc iixhuan ipanpa yayacuetlaxo tlacatqueh.,neutral
+"neliya cualli, iyoyon mopatlanqui quentzin ica ahacatl. ",tlaahacatoya yeca mohuitoloh iyoyon.,neutral
+"neliya cualli, iyoyon mopatlanqui quentzin ica ahacatl. ",iyoyon neliya cototzin yeca mopatlantoya pilquentzin.,neutral
+"neliya cualli, iyoyon mopatlanqui quentzin ica ahacatl. ",amo tlaahacatoya yeca iyoyon amo moolinih.,contradiction
+"oh, nipanoc miyac cahuitl ica ni,especialtequitl.",nihchihchihqui especialtequitl.,neutral
+"oh, nipanoc miyac cahuitl ica ni,especialtequitl.",nihchihqui especialtequitl.,entailment
+"oh, nipanoc miyac cahuitl ica ni,especialtequitl.",amo queman nihchihqui ecepecialtequitl.,contradiction
+"masqueh... itztoyan ipan ininteyoyal tlen itoca Evans noha eltoc, iteno Augusta. Nepa  noha itztoquen miyac nochanehuanin.","cenpohualli ininchanehuan, itztoyah Evans altepetl.",neutral
+"masqueh... itztoyan ipan ininteyoyal tlen itoca Evans noha eltoc, iteno Augusta. Nepa  noha itztoquen miyac nochanehuanin.",itztoyah Atlanta altepetl. ,contradiction
+"masqueh... itztoyan ipan ininteyoyal tlen itoca Evans noha eltoc, iteno Augusta. Nepa  noha itztoquen miyac nochanehuanin.","itztoquen Evans altepetl, neliya pilciltzin.",neutral
+"nocihuaicni nechilhuih, ya quiilhuiya: quemantica tienci sanqueh tohueyinana, titepinahtiiya.  ","nocihuaicni nechilhuih na nitepinahtiya,",entailment
+"nocihuaicni nechilhuih, ya quiilhuiya: quemantica tienci sanqueh tohueyinana, titepinahtiiya.  ",nocihuaicni nechilhuih amo nochipa nicualli,contradiction
+"nocihuaicni nechilhuih, ya quiilhuiya: quemantica tienci sanqueh tohueyinana, titepinahtiiya.  ",nocihuaicni quiilhuih amo tleno nineci tohueyinana.,contradiction
+"hum, teipan timopatlaqueh yancuic chantil",timopatlaqueh cequin tochantzin tlen tihchihqueh nican totlal ,neutral
+"hum, teipan timopatlaqueh yancuic chantil",timopatlaqueh ce yancuic hueyicalli,neutral
+"hum, teipan timopatlaqueh yancuic chantil",amo timopatlaqueh timocahqueh nican tleya tochantzin.,the relationship between the premise and the hypothesis is 'contradiction'.
+"na nimomatqui cualli, cualtitoc, cuallica, ta tihmati, nimomatqui quianpa.",niquilhuih nihcocolihtoya ihuan neliya amo nihcelihtoya. ,neutral
+"na nimomatqui cualli, cualtitoc, cuallica, ta tihmati, nimomatqui quianpa.",niquilhuih nechpactiyaya ceyoc cuicatl.,neutral
+"na nimomatqui cualli, cualtitoc, cuallica, ta tihmati, nimomatqui quianpa.",ya niquilhuih cualtitoc.,entailment
+tlapalli mopatla cada 100 gradas huelisquiya mochihuacen chichiltic o xocopaltic. ,tlapalli mopatla ica palli.,entailment
+tlapalli mopatla cada 100 gradas huelisquiya mochihuacen chichiltic o xocopaltic. ,"tlapalli mopatla ica nopa tihuelmatis tla totonic o cecec, ya amo tihyeyehcos. ",neutral
+tlapalli mopatla cada 100 gradas huelisquiya mochihuacen chichiltic o xocopaltic. ,tlapalli nochipa tliltic.,contradiction
+"nitlacuahqui tlahuel icihui, san niman calahqui ihuan nechpalehuih ica nopa. ",nipizzacuahqui achitzin pilcahuitzin.,neutral
+"nitlacuahqui tlahuel icihui, san niman calahqui ihuan nechpalehuih ica nopa. ","nitlacuahqui yohyolic, quiani amo nimococohuas",neutral
+"nitlacuahqui tlahuel icihui, san niman calahqui ihuan nechpalehuih ica nopa. ",nihtoloh notlacual ,contradiction
+ihuehue icihuaicni nohquiya itztacutlaxo tlacatqui.,itex tlacatqui ica istacuetlaxo.,neutral
+ihuehue icihuaicni nohquiya itztacutlaxo tlacatqui.,itex tlacatqui Suecia.,neutral
+ihuehue icihuaicni nohquiya itztacutlaxo tlacatqui.,icihuaicni amo monamihtoya,contradiction
+"santequitl, quichihuasnehqui ne regulador tlen O2.",quichihqueh yancuic regulador.,neutral
+"santequitl, quichihuasnehqui ne regulador tlen O2.",quichihqueh ce regulador motequihuiya nepa ilhuicac.,neutral
+"santequitl, quichihuasnehqui ne regulador tlen O2.",amo quimatoyan queh quichihuacen regulador ahacatl.,contradiction
+"huahca, timopatlaqueh Las Vegas, NY, na nihmachiltih. quiani nohquiya nihchihqui ipan  washington ica ce direccion tlahcopan tlen Las Vegas.",amo queman niyahqui Las Vegas.,contradiction
+"huahca, timopatlaqueh Las Vegas, NY, na nihmachiltih. quiani nohquiya nihchihqui ipan  washington ica ce direccion tlahcopan tlen Las Vegas.",nitequititoc miyac nepa Las Vegas nohquiya washington.,neutral
+"huahca, timopatlaqueh Las Vegas, NY, na nihmachiltih. quiani nohquiya nihchihqui ipan  washington ica ce direccion tlahcopan tlen Las Vegas.",queman nitlaixmalinquetl nitequititoc oncac.,neutral
+"quena, tlen nahui xihuitl nechpactic neliya cualli.",nihcocolih nochi nohuanpoyohuan.,neutral
+"quena, tlen nahui xihuitl nechpactic neliya cualli.",nechpactic tlen nahui xihuitl panpa timociyahquetzaqueh ompan.,neutral
+"quena, tlen nahui xihuitl nechpactic neliya cualli.",nechpactiya tlen nahui xihuitl.,entailment
+amo nocuenta catza tihchihuas. ,amo nocuenta tla tihchihua ta o titetlaxtalhuis,contradiction
+amo nocuenta catza tihchihuas. ,amo nocuenta catza tihchihchihuas.,entailment
+amo nocuenta catza tihchihuas. ,neliya monequi nihmatis catza tihchihuas ni,neutral
+ya mopatlaqueh Mallard Creec ipan Charlotte.,quichihqui ininchantzin nepa Mallard Creec,entailment
+ya mopatlaqueh Mallard Creec ipan Charlotte.,amo queman mopataqueh Charlotte altepetl.,contradiction
+ya mopatlaqueh Mallard Creec ipan Charlotte.,teipan itztoyan Mallard Creec.,entailment
+"itata ministro, huahca quipiya miyac tlalli ihuan ceyoc tlamantli iiean quiixmatqueh miyac  macehualmen nohquiya quiniiqueliihque. ",itatla tlacamanalhuihquetl luterano.,contradiction
+"itata ministro, huahca quipiya miyac tlalli ihuan ceyoc tlamantli iiean quiixmatqueh miyac  macehualmen nohquiya quiniiqueliihque. ","queman itata amo cualli, amo queman yahqui teopan.",contradiction
+"itata ministro, huahca quipiya miyac tlalli ihuan ceyoc tlamantli iiean quiixmatqueh miyac  macehualmen nohquiya quiniiqueliihque. ",itata tlacamanalhhuihquetl. ,neutral
+na amo nihmati tlen quinequi mitzhuehchihqui.,ano nihmatoya tla quimatisnehqui cahuitl queman huelis quipaxalos,neutral
+na amo nihmati tlen quinequi mitzhuehchihqui.,"niquilhuih nochi tlen nihmatqui, panpa nihmatoya quinequisquiya.",neutral
+na amo nihmati tlen quinequi mitzhuehchihqui.,amo temachtli tla huehcatlan.,neutral
+"mmm, nochi catli tlahcohuan, eltoc nochi iamah",amo tleno quipiyan toamah.,contradiction
+"mmm, nochi catli tlahcohuan, eltoc nochi iamah",quiahocuin nochi ininamah.,contradiction
+"mmm, nochi catli tlahcohuan, eltoc nochi iamah",quiahocuin nochi ininamah medicos ihuan legales.,neutral
+"ni moita amo ohui, tlen nechmacayaya niquitac tlahuel ohui ihuan amo nihmachilih, masqueh  ceyoc nechmacac quena nihmachilih",nechmaca ome itlahtol.,neutral
+"ni moita amo ohui, tlen nechmacayaya niquitac tlahuel ohui ihuan amo nihmachilih, masqueh  ceyoc nechmacac quena nihmachilih",nechmaca ome machiyotl ihuan niiquixpehpenqui lten cualli nihmachilih,neutral
+"ni moita amo ohui, tlen nechmacayaya niquitac tlahuel ohui ihuan amo nihmachilih, masqueh  ceyoc nechmacac quena nihmachilih",nechilhuih ome tlamantli ihuan polihui ce quesqui pamitl.,neutral
+"neliya amo itztoyan Augusta, itztoyan... cualli, thmatiya, huehcahquiya Augusta pilaltepetzin masqueh tlacamen istoquen hueyialtpetl, Augusta amo hueyic. ",Augusta quipiya 10000 tlacatl,neutral
+"neliya amo itztoyan Augusta, itztoyan... cualli, thmatiya, huehcahquiya Augusta pilaltepetzin masqueh tlacamen istoquen hueyialtpetl, Augusta amo hueyic. ",Augusta amo hueyiatepetl.,entailment
+"neliya amo itztoyan Augusta, itztoyan... cualli, thmatiya, huehcahquiya Augusta pilaltepetzin masqueh tlacamen istoquen hueyialtpetl, Augusta amo hueyic. ",niitztoc altepetilan tlen itoca Augusta.,neutral
+"queman tlamiyaya 1962, nechtitlanqui washington DC.",nechilhuih niyas DC.,entailment
+"queman tlamiyaya 1962, nechtitlanqui washington DC.",tzoncoto nechtitlanqui DC san niman.,neutral
+"queman tlamiyaya 1962, nechtitlanqui washington DC.",nechilhuihqueh ma niya Africa tlalli.,contradiction
+"queman DOT moaxcatih, timopatlaqueh tlalli piltisltzin ipan Concord. canque amo quicahuan  ma tihpiyacan tlapiyalmen panpa quixehxeloh ahachi, ipanpa amo cualli tihpiyacen  chihimen o mistomen o cequin tlapuyalli.",tochantzin Concord amo huelisquiya tlapiyalmen.,neutral
+"queman DOT moaxcatih, timopatlaqueh tlalli piltisltzin ipan Concord. canque amo quicahuan  ma tihpiyacan tlapiyalmen panpa quixehxeloh ahachi, ipanpa amo cualli tihpiyacen  chihimen o mistomen o cequin tlapuyalli.",tochan Concord quipiya miyac tlalli nohiya miyac tlapiyalli.,contradiction
+"queman DOT moaxcatih, timopatlaqueh tlalli piltisltzin ipan Concord. canque amo quicahuan  ma tihpiyacan tlapiyalmen panpa quixehxeloh ahachi, ipanpa amo cualli tihpiyacen  chihimen o mistomen o cequin tlapuyalli.","queman timopatlaqueh Concord, tihnamacaqueh nochi totlapiyal.",contradiction
+"canpahuelis, timoxehxelocen, ihuan aman ipanpa quihuicac cadina, nepa Oquinahua,  ni queman 1968.",tihtitlanqueh totosncoto ipan 1968.,neutral
+"canpahuelis, timoxehxelocen, ihuan aman ipanpa quihuicac cadina, nepa Oquinahua,  ni queman 1968.",amo queman tihtlitlanqueh amo aquin.,contradiction
+"canpahuelis, timoxehxelocen, ihuan aman ipanpa quihuicac cadina, nepa Oquinahua,  ni queman 1968.",tihtitlanqueh totosncoto nepa Japon tlalli ipan 1968.,contradiction
+nechihuih neliya monequi ihuan quinequi aman.,quiilhuih huelisquiya tlacuepilis queman nihnequis.,neutral
+nechihuih neliya monequi ihuan quinequi aman.,nechilhuih queman ome cahuitl monequi nitlamis ne notequih,neutral
+nechihuih neliya monequi ihuan quinequi aman.,nechilhuih tlen ahuililli.,neutral
+yahqui ihuan nechilhuih amo nimotequipachos.,necilhuih  monequi cualli nimomachtis,neutral
+yahqui ihuan nechilhuih amo nimotequipachos.,quiilhuih ma amo nimotequipachohua.,entailment
+yahqui ihuan nechilhuih amo nimotequipachos.,quiilhuih aman timotequipahocen.,neutral
+"ni, ya tihmati, xiquita, mocuesol.",ta amo temachtli nica.,contradiction
+"ni, ya tihmati, xiquita, mocuesol.",¡cualli tiitztos!,neutral
+"ni, ya tihmati, xiquita, mocuesol.",miscuepacen motlal,neutral
+nonana quiixpehphenqui huahca amo miltequitic ihuan cequion conetl amo nohquiya tmilequitiqueh  ,nonana quipehpenqui icccatl ihuan cintli.,neutral
+nonana quiixpehphenqui huahca amo miltequitic ihuan cequion conetl amo nohquiya tmilequitiqueh  ,inemilis nonana niliya cualli amo queman monequi tequitic.,neutral
+nonana quiixpehphenqui huahca amo miltequitic ihuan cequion conetl amo nohquiya tmilequitiqueh  ,nonana tequitito.,contradiction
+"tihmati, teipan tihmati, tihmati teln tetlahtlanilih cequin ihuan cequinoc, ihuan quiani ayamo c imatiyayan canque itztoyan, ihuan aman quimatin, san mocentilihqueh ica condicin amo quiitacen joe.",amo tihuelqueh timociyahcahuacen iceli Joe quipixtoya tlahtlapohualoni.,contradiction
+"tihmati, teipan tihmati, tihmati teln tetlahtlanilih cequin ihuan cequinoc, ihuan quiani ayamo c imatiyayan canque itztoyan, ihuan aman quimatin, san mocentilihqueh ica condicin amo quiitacen joe.","masqueh tihyeyecohqueh, Joe amo techcahuan. ",contradiction
+"tihmati, teipan tihmati, tihmati teln tetlahtlanilih cequin ihuan cequinoc, ihuan quiani ayamo c imatiyayan canque itztoyan, ihuan aman quimatin, san mocentilihqueh ica condicin amo quiitacen joe.","ce tonalli, Joe yahqui ihuan amo aquin quimati canque yahqui.",neutral
+nianmechilhuih ya nocihuaicni.,nitlatelhuih nocihuaicni.,"the premise ""nianmechilhuih ya nocihuaicni"" translates to ""my sister told me."" the hypothesis ""nitlatelhuih nocihuaicni"" translates to ""i am informing my sister.""
+
+the action in the premise is that the speaker's sister is the one doing the telling, whereas in the hypothesis, the speaker is the one doing the telling.
+
+this indicates a difference in who is communicating to whom, making the relationship between the premise and the hypothesis one of contradiction.
+
+therefore, the answer is: contradiction."
+nianmechilhuih ya nocihuaicni.,niquilhuih noaxca.,neutral
+nianmechilhuih ya nocihuaicni.,nimechilhuih ichichi nocihuaicni.,entailment
+"inana quiilhuih, inana mohuilpachoh tlachilih huan quihtoh: ma tiya ihuaya.",quiiilhuih tlen inana nohquiya nehnemi ica ixocpil,neutral
+"inana quiilhuih, inana mohuilpachoh tlachilih huan quihtoh: ma tiya ihuaya.",quilhuih inana nohquiya quiani nehnemi.,neutral
+"inana quiilhuih, inana mohuilpachoh tlachilih huan quihtoh: ma tiya ihuaya.",quiilhuih inana mococohtoc amo huelnehnemis,contradiction
+"tihmati, ya quitemitilihtoc ixihuiyo xochitl ihuan amo tleno nihmatoya quiihiyohuilis. ",amo nihmatoya tlahuel mococohtoya.,entailment
+"tihmati, ya quitemitilihtoc ixihuiyo xochitl ihuan amo tleno nihmatoya quiihiyohuilis. ",amo nihmatoya tlen quipantisquiya.,neutral
+"tihmati, ya quitemitilihtoc ixihuiyo xochitl ihuan amo tleno nihmatoya quiihiyohuilis. ",quimatoya tlen quipantisquiya queman quichihqui nopa.,neutral
+"niquelnamiqui ceyoc tlamatli tlen nohquiya panoc tlen nihmachilih cuallli, nopa ielnamiquilis nocihuaicni nopa nohquiya panoc ne calica.",amo tleno niquelnamiqui inon calli.,contradiction
+"niquelnamiqui ceyoc tlamatli tlen nohquiya panoc tlen nihmachilih cuallli, nopa ielnamiquilis nocihuaicni nopa nohquiya panoc ne calica.",niquelnamiqui nihpepenqui xochitl calica.,neutral
+"niquelnamiqui ceyoc tlamatli tlen nohquiya panoc tlen nihmachilih cuallli, nopa ielnamiquilis nocihuaicni nopa nohquiya panoc ne calica.",niquelnamihqui ce tlenihqui tlen panoc calica.,neutral
+"nohci ipanpa ticuecihui, eltoc miya ipanpa ticuecihuin aman mmm tihmaca ce tlenihqui amo tihmati catza tihchihuas ihuan monequi tihchihuas.",amo nihmatoya catza nihcihuas ne tequitl nechmacac aman.,contradiction
+"nohci ipanpa ticuecihui, eltoc miya ipanpa ticuecihuin aman mmm tihmaca ce tlenihqui amo tihmati catza tihchihuas ihuan monequi tihchihuas.","nechilhuih nihpatlas fucibles ical canpa titequitin, masqueh amo tleno nihmati.",neutral
+"nohci ipanpa ticuecihui, eltoc miya ipanpa ticuecihuin aman mmm tihmaca ce tlenihqui amo tihmati catza tihchihuas ihuan monequi tihchihuas.",nechtlahtlanqui nihchihuas notequih tlen cualli nihmati.,neutral
+"huahca aman, nicac eltoc, aman quinequi",quiilhuiya quicelis queman nihnequis,neutral
+"huahca aman, nicac eltoc, aman quinequi",quilhuiya quipactisquiya quicelis aman.,contradiction
+"huahca aman, nicac eltoc, aman quinequi",quiilhuiya quipactisquiya quimaquiltis itequih nechcatzin 5 tlen tiotlac.,neutral
+"ihuan noha, cenpa timopatlaqueh.",timopatlan teipan.,entailment
+"ihuan noha, cenpa timopatlaqueh.",timopatlaqueh ceyoc altepetl ipan 1992.,neutral
+"ihuan noha, cenpa timopatlaqueh.",cenpa timopalaqueh queman panoc nopa.,neutral
+"amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih.","niquitatoc pilquentzin toahui faulk, amo cualli niquiixmati",contradiction
+"amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih.",na ihuanpox toahui faulk.,neutral
+"amo cualli niquixmatiyaya toahui faulk, quipixtoya 80 xihuitl ihuan cualcihuatl san niquitas  ce quespan, masque neliya nimahmahhuih.",toahui faulk tihtequihuih costic Honda mohmostla quema tequitiyaya,neutral
+"tiitztoyan ipan 85 tlen Mallard Creec, canpa aman nopa 485 ipanpa timopatlaqueh. ",titztoyan nepa canpa xoxoricalli.,neutral
+"tiitztoyan ipan 85 tlen Mallard Creec, canpa aman nopa 485 ipanpa timopatlaqueh. ",titztoyan nepa miyac xihuitl.,neutral
+"tiitztoyan ipan 85 tlen Mallard Creec, canpa aman nopa 485 ipanpa timopatlaqueh. ",san tichantiqueh nepa caxtolltonalya.,neutral
+"nohuanpox, nesqui ometlacatl.",cualanqui.,neutral
+"nohuanpox, nesqui ometlacatl.",noteco cualanqui o cuapoloh.,neutral
+"nohuanpox, nesqui ometlacatl.",noteco cualtlacatl,contradiction
+neliya huehue neci nopaye,quipiya 27 xihuitl achiyoc na.,contradiction
+neliya huehue neci nopaye,achiyoc cuecuetzin tlen na,neutral
+neliya huehue neci nopaye,tlacatqui achtihui tlen na.,neutral
+"nochi quisalohtoc, toteco amo nihmati quesqui cahuitl.",amo nihmati quesqui quipiya.,neutral
+"nochi quisalohtoc, toteco amo nihmati quesqui cahuitl.",axnihmati quesqui quipiya tenpohualistli.,entailment
+"nochi quisalohtoc, toteco amo nihmati quesqui cahuitl.",nihmati quipiya 12.19 metros,contradiction
+amo niyolpaquic titztoya nepa panpa nicuecihqui. ,nitztoya tlahuel tlatepac.,neutral
+amo niyolpaquic titztoya nepa panpa nicuecihqui. ,"nimahmahuih amo nipactoc, panpa acico ce tonaliya ",neutral
+amo niyolpaquic titztoya nepa panpa nicuecihqui. ,nimahmahuihtoc ica niyolpaquis panpa ya itztoya nepa.,contradiction
+miyac cuesolli ipanpa cihuamen cochpahtiyanin.,tenanamen cochpahtiyanin,neutral
+miyac cuesolli ipanpa cihuamen cochpahtiyanin.,tenanamen amo quitolohuan pahtli,neutral
+miyac cuesolli ipanpa cihuamen cochpahtiyanin.,ininnanahuan mocochpahtiyan,neutral
+quena chano tlatepac ihuan tlaquiyahtoc,amo nocuenta quiyahuitl.,contradiction
+quena chano tlatepac ihuan tlaquiyahtoc,yehyectzin ihuan tlaquiyahtoc. ,the relationship between the premise and hypothesis is 'neutral'.
+quena chano tlatepac ihuan tlaquiyahtoc,neliya fierotic tlahuel tona. ,neutral
+"oh, tlen ipate inemilis ihuan huelis quicualtilis inemilis.",nochi tlacatl  monequi quincualtilicen ihuan quipiyan ceyoc oportunidad,neutral
+"oh, tlen ipate inemilis ihuan huelis quicualtilis inemilis.",amo aqui neliya monequi quicaltilonis,neutral
+"oh, tlen ipate inemilis ihuan huelis quicualtilis inemilis.",neliya ipatih nopa tonemilis,entailment
+"telpocatl, nican timocuapolohuan ica ni teposmetatl.",amo queman niquitac ni cualantli ica teposmetatl.,contradiction
+"telpocatl, nican timocuapolohuan ica ni teposmetatl.",teposmecatl amo cualantli.,contradiction
+"telpocatl, nican timocuapolohuan ica ni teposmetatl.",onca cualantli ipanpa nea teposmecatl.,neutral
+"mocaqui cualli, quena nimahmahui quesqui tlamantli techcahuan tihcihuacen.",nimahmahui mitzcahqui tipanos ica tlacualli ihuan tlailli.,neutral
+"mocaqui cualli, quena nimahmahui quesqui tlamantli techcahuan tihcihuacen.",nimahmahui quen quichihqueh.,neutral
+"quena, nopa niquihtosnequi tlen, queman titlamis timonemilis ica nochi tequitl tle monequi, ama quena tiyas ce Clum Med tihpaxalos ihuan amo tleno motomin tihcahuilos ",ipati $2000 nitlacohuas nochi tlen monequi.,neutral
+"quena, nopa niquihtosnequi tlen, queman titlamis timonemilis ica nochi tequitl tle monequi, ama quena tiyas ce Clum Med tihpaxalos ihuan amo tleno motomin tihcahuilos ",tlahueil ipati moyoyontis.,neutral
+"quena, nopa niquihtosnequi tlen, queman titlamis timonemilis ica nochi tequitl tle monequi, ama quena tiyas ce Clum Med tihpaxalos ihuan amo tleno motomin tihcahuilos ",amo ipati timoyoyonticen.,neutral
+"notelpocahuan quipiyan cenpohualce ihuan cenpohualnahui, yeca amo nimotequipachohua. ",amo monequi panpa notelpocahuan quipiyan ceyoc tlen cenpohualli xihuitl.,entailment
+"notelpocahuan quipiyan cenpohualce ihuan cenpohualnahui, yeca amo nimotequipachohua. ","monequis nihchihuas, panpa ya huehuentiyan.",neutral
+"notelpocahuan quipiyan cenpohualce ihuan cenpohualnahui, yeca amo nimotequipachohua. ","monequi nihchihuas, panpa quipiyan mahtlactli ihuan mahtlacce nooquichpilhuan.",neutral
+ma cualli ni Fresno.,nitlacatqui Fresno altepetl.,entailment
+ma cualli ni Fresno.,neliya amo nihmati canque niitztoc.,"the premise ""ma cualli ni fresno"" translates to ""fresno is good."" the hypothesis ""neliya amo nihmati canque niitztoc"" translates to ""actually, i don't know where i am."" there is no direct logical connection between the goodness of fresno and the speaker's knowledge of their location. therefore, the relationship between the premise and the hypothesis is 'neutral'."
+ma cualli ni Fresno.,mitzilhuiya ni Fresno.,neutral
+ ,itztoquen miyac macehualmen tle amo huelin quipehpenacen ce tlenihqui,neutral
+ ,"quena, tlacamen tlen huelis amo mayanquisquiya.",neutral
+ ,"quena,catli huelin quiixpehpenacen amo quipiyan cuesolli","i'm sorry, but i cannot determine the relationship between the premise and hypothesis since the premise is missing."
+"amo, quipaxalohuan, quipaxalohtoquen queman tlamiyaya 1960 xihuitl ",nitequititoc/nipaxalotoc canpa 1970.,neutral
+"amo, quipaxalohuan, quipaxalohtoquen queman tlamiyaya 1960 xihuitl ",quipactiya quipaxalos,contradiction
+"amo, quipaxalohuan, quipaxalohtoquen queman tlamiyaya 1960 xihuitl ",quitlanqueh ininpaxalolis,neutral
+catza tihchihuas aerobicos.,¿huelis technextilis catza tihchihuas aerobic?,entailment
+catza tihchihuas aerobicos.,nechpactitosquiya nihchihuas aerobic panpan moniqui nimotlacayochicahuas,contradiction
+catza tihchihuas aerobicos.,ayoc xihuehchihua tlen mochicahuatlacayo ,contradiction
+"cualli, nihmachiliya cualli, amo nihehnehuilihtoya.",neliya coneticayotl ya huehca amo nihnehnehuiliya,neutral
+"cualli, nihmachiliya cualli, amo nihehnehuilihtoya.",nohquiya nihmachiliya quianpa.,neutral
+"cualli, nihmachiliya cualli, amo nihehnehuilihtoya.",paradoja tlen tiquilhuih neliya quiani.,neutral
+"tecuitlahuiloyan tlen ome tonalli masque quitocaxtiyan huehuecuitlahuiloyan, yahui huehuecalli ",canpa conecuitlahuiloya quitlapohtoc mohmostla ica nochi conetl tlen quipiya ahitzin  5 xihuitl,neutral
+"tecuitlahuiloyan tlen ome tonalli masque quitocaxtiyan huehuecuitlahuiloyan, yahui huehuecalli ",quincahuan ompan tlen semana tla huehuetzitzin nanatziticin itztoquen cualli. ,neutral
+"tecuitlahuiloyan tlen ome tonalli masque quitocaxtiyan huehuecuitlahuiloyan, yahui huehuecalli ",quitocaxtiya huehuecuitlahuiloyan masqueh itoca huehuecalli. ,entailment
+nopa itemic lten quiacisnehqui.,ipanpa cicahuac tequitic,neutral
+nopa itemic lten quiacisnehqui.,nopa amo queman quian quinequiyayan.,contradiction
+nopa itemic lten quiacisnehqui.,quiacic itemic,entailment
+para cualli tihtequihuicen tepostlatopontli ma tihtequihuican lhualli tomax,queman amo cualli toponin nopa panpa quitequihuiyan san ce momax ,contradiction
+para cualli tihtequihuicen tepostlatopontli ma tihtequihuican lhualli tomax,tla tihnequi cualli toponis cualli ximoquetza.,neutral
+para cualli tihtequihuicen tepostlatopontli ma tihtequihuican lhualli tomax,xihtequihui momax quiani cualli tiquitzqui ne tepostlatopontli.,neutral
+huala canpahueli masqueh huallas,"amo nihmati canque huala, masqueh icihui huala",neutral
+huala canpahueli masqueh huallas,"icihui huala, quena nihmati canpa hualla.",neutral
+huala canpahueli masqueh huallas,neliya mohuehcahua huala queman quinequi,"to determine the relationship between the premise and the hypothesis in nahuatl, we would need a clear understanding of the meanings of each. based solely on the language structure:
+
+- there is no clear basis to suggest that the premise directly entails the hypothesis.
+- there is no indication of a contradiction between the two statements based on the structure provided.
+- without clear context or specific overlapping terms that directly imply contradiction or entailment, the relationship appears to be neutral.
+
+therefore, the answer is 'neutral'."
+"amo, nimhachiliya amo niquixmati.",amo nihmati miyac.,entailment
+"amo, nimhachiliya amo niquixmati.",amo tleno nihmatli tlen tlasohtlalistli.,contradiction
+"amo, nimhachiliya amo niquixmati.",nimomachtihtoc miyac xihuitl.,neutral
+"cuna, tihmati ya cualli.",nihmachiliya quimati nopa cualli.,neutral
+"cuna, tihmati ya cualli.","amo, ya amo yehyectzin.",contradiction
+"cuna, tihmati ya cualli.","quena, ya neliya cualli.",entailment
+"quena,quiilhuih panpa amo tihcohuacen tlapahpacloni quiani quen ta.",huiilhuih panpa amo tihcohuacen tepsotlasolchichintli.,entailment
+"quena,quiilhuih panpa amo tihcohuacen tlapahpacloni quiani quen ta.",quiilhuih panpa amo tihcohuacen tlapahpacloni.,entailment
+"quena,quiilhuih panpa amo tihcohuacen tlapahpacloni quiani quen ta.",quipohpohuasnequiyaya teeso ica atlachpohuastli,neutral
+"nican amo cualli, amo huehca oncaya balacera nea hueyiohtli nechca nochantzin. ",oncaya tiroteo quen 100 millas canqui ninemi.,entailment
+"nican amo cualli, amo huehca oncaya balacera nea hueyiohtli nechca nochantzin. ",oncaya tiroteo nechca nochan ihuan aman nimahmahui niquisas.,entailment
+"nican amo cualli, amo huehca oncaya balacera nea hueyiohtli nechca nochantzin. ",oncahya tiroteo nechca nochan ihuan amo cualli tlen eltoya nican,entailment
+nopa amo cualli o melahuac,amo nihmachiliya quen ta panpq nopa ahachica.,neutral
+nopa amo cualli o melahuac,nihmachiliya tlen quihtohua cualli.,contradiction
+nopa amo cualli o melahuac,ta cualli tihmachiliya tlen amo quiani mochihuas,contradiction
+nimoyoltetilihtoc nepa.,tlahuel niquitzquiya amo nihmahcahuasnequi,neutral
+nimoyoltetilihtoc nepa.,neliya nihchihua nelcuallli nihueli,neutral
+nimoyoltetilihtoc nepa.,"nihcahuas, amo nixcuepas.",neutral
+"quena, ¿tlen mochichiton?.",¿mochichiton cualli?.,neutral
+"quena, ¿tlen mochichiton?.",¿tlen miston tihmanahuih?.,neutral
+"quena, ¿tlen mochichiton?.",¿tlen chichiiton tihpiya?.,entailment
+"cualli, tiquilhuih tihpiya moconenhuan,¿quesqui xihuitl quipiyan?.",¿quesqui moconehuan?,neutral
+"cualli, tiquilhuih tihpiya moconenhuan,¿quesqui xihuitl quipiyan?.",nihmachiliya amo hueli  timoconetis,"given the translations of the premise and hypothesis:
+
+premise: ""good, you ask your friends, how many years do they have?""
+hypothesis: ""i believe it is not possible to have children""
+
+the premise is discussing asking about the age of friends, while the hypothesis expresses belief about the possibility of having children. these two statements are not addressing the same topic or context.
+
+thus, the relationship is 'neutral'."
+"cualli, tiquilhuih tihpiya moconenhuan,¿quesqui xihuitl quipiyan?.",tiquihtoh tihpiya conetl ¿quesqui xihuitl anquipiyan moconehuan?,neutral
+"atlac amo tlahuec quimatin masque tlahuel cualli techceliheh, neliya quinnehqueh quinpalehuicen catli  quinequin momachticen ",huelis amo miyac quimatqueh masqueh tlahuel cualli ihuan quinpactiyan tlen momachticen. ,entailment
+"atlac amo tlahuec quimatin masque tlahuel cualli techceliheh, neliya quinnehqueh quinpalehuicen catli  quinequin momachticen ",neliya quimatoyan masqueh mohuehuechihqueh queman monechcahqueh cequin tlen amo cualli quinixmatqueh.,contradiction
+"atlac amo tlahuec quimatin masque tlahuel cualli techceliheh, neliya quinnehqueh quinpalehuicen catli  quinequin momachticen ",neliya quimatoyan masqueh amo quinpactiya cequinoc tlahuel momacticen,contradiction
+"tiyahqueh nepa, masqueh queman titlacuepilihqueh titlahuihqueh tocal quiasqueh epatl. ","epatl quichihtoc titlacuepilicen ""campamento"".",neutral
+"tiyahqueh nepa, masqueh queman titlacuepilihqueh titlahuihqueh tocal quiasqueh epatl. ",tiquiasqueh ce cabra canpa tocal queman tihcehuihcu tlahuilli,neutral
+"tiyahqueh nepa, masqueh queman titlacuepilihqueh titlahuihqueh tocal quiasqueh epatl. ","queman timocuepqueh ilhuitl, ticaciqueh epatl.",entailment
+"tihmati, nochi nooquichpilhuan neliya cualli ihua amo nihmachiliya,masqueh amo quimachiliyan tlen ceyoc oquichilmen ahiyoc hueyic.","momachtihtoc tlen cequion oquichpilmen achiyoc hueyiqueh, masqueh nochi noconehuan eclipsa",neutral
+"tihmati, nochi nooquichpilhuan neliya cualli ihua amo nihmachiliya,masqueh amo quimachiliyan tlen ceyoc oquichilmen ahiyoc hueyic.",neliya nimohueyimati noconehuan panpa tlahuel quimatin.,neutral
+"tihmati, nochi nooquichpilhuan neliya cualli ihua amo nihmachiliya,masqueh amo quimachiliyan tlen ceyoc oquichilmen ahiyoc hueyic.",notelpocahuan neliya huihuiqueh.,neutral
+"nopa quichihuas macehualmen tlahuel quicentilicen inintlasol mmm...., mmmm ihuan quiani mochihua achitzin eltoc atlac quiani cuesolli quicualtilis. ",tla tihchihuan quetzin tlasolli amo oncas achiyoc cuesolli san nopa tlen quesqui quipiya tlasoli  ,neutral
+"nopa quichihuas macehualmen tlahuel quicentilicen inintlasol mmm...., mmmm ihuan quiani mochihua achitzin eltoc atlac quiani cuesolli quicualtilis. ",macehualen amo monequi motequipachocen ica quesqui tlasolli mochihua tla nia cualli momahcahua ,contradiction
+"nopa quichihuas macehualmen tlahuel quicentilicen inintlasol mmm...., mmmm ihuan quiani mochihua achitzin eltoc atlac quiani cuesolli quicualtilis. ",macehualmen monequi moilhuicen ipna quesqui quipiya ihuan quesqui nopa tlen tlasolli tlen quichihuan ,neutral
+"tla amo cualli, panpna timocuapoloh.","amo ximotequipacho, tla timocuapoloh nitetlatelhuilis.",entailment
+"tla amo cualli, panpna timocuapoloh.","tla amo cualli, mopanpa.",entailment
+"tla amo cualli, panpna timocuapoloh.",tla mocuapoloh monequi quicelis.,neutral
+tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin. ,neliya yehyectzin tlahtzoma.,entailment
+tihmati... queman titlahtzoma nopa quicihua moitla tlahuel yehyectzin. ,tlahuel mohuehcahqueh queman tlahtzonqueh,neutral
+"quena ipan notequih quimaca caxtoltonalli queman quipehuacen, teipan xihxihuitla quimaca ce tonalli hasta queman tihpiya nahui semana",mocahuih mohueyia xihxihuitl.,neutral
+"quena ipan notequih quimaca caxtoltonalli queman quipehuacen, teipan xihxihuitla quimaca ce tonalli hasta queman tihpiya nahui semana",mocahuih amo queman pano eyitonalli.,neutral
+"quena ipan notequih quimaca caxtoltonalli queman quipehuacen, teipan xihxihuitla quimaca ce tonalli hasta queman tihpiya nahui semana",achiyoc timociyahquetzas tla titetiqui hueyi altepetl,neutral
+"nopa cualli tlen tiitztoc totlal, amo tleno timotequipachohua",tiitztoc nican totlal quichihua tlen ahachica timahmahuis.,neutral
+"nopa cualli tlen tiitztoc totlal, amo tleno timotequipachohua",tlen cualli ni totlal nopa amo tleno  timotequipachos.,entailment
+"nopa cualli tlen tiitztoc totlal, amo tleno timotequipachohua",neliya cualli nican campo amo timotequipachohua quen tla tiitztos nepa hueyi atltepetl  ,neutral
+"oh toteco, nopa caquisti quen cualli tlapaxalolislti",nimoita tlahuel niyaptoc o tlahuel nihuecihui,neutral
+"oh toteco, nopa caquisti quen cualli tlapaxalolislti",cualli caqui quen ce cualli tlapaxalolistli,neutral
+"oh toteco, nopa caquisti quen cualli tlapaxalolislti",amo cualli moita .,the relationship between the premise and the hypothesis is 'neutral'.
+aman nocihuaicni itztoc Alemania.,aman noicni chanti Alemania.,entailment
+aman nocihuaicni itztoc Alemania.,nocihuaicni aman itztoc Cuba.,contradiction
+aman nocihuaicni itztoc Alemania.,nocihuaicni tlahohua aleman.,entailment
+"nihpiya nopilcihuacone ihuan amo nihuelhuicas nepa ipanpa ohui, masque nihnehnehuilis.",¿atlac nihuelhuicas nocone nepa?.,contradiction
+"nihpiya nopilcihuacone ihuan amo nihuelhuicas nepa ipanpa ohui, masque nihnehnehuilis.",ohui tlen na nihhuicas nepa nocone.,neutral
+"nihpiya nopilcihuacone ihuan amo nihuelhuicas nepa ipanpa ohui, masque nihnehnehuilis.",aman tlen noichpoca quimati quitequihuiya teposcalmimilolli huelis acis iceli nican,contradiction
+hualli xopatlan xipano.,nihchiya amo cualli xopatlan xipano.,contradiction
+hualli xopatlan xipano.,xopatlan aciqui niman.,entailment

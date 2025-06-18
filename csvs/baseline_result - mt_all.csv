@@ -1,0 +1,210 @@
+language_name,language_code,script,hrl/lrl,Joshi_class,Joshi_class_modfied,data_size_in_XLMR (GiB),coverage_in_XLM-R,coverage_in_GLOT,language_family,region,region_normalized,nllb,gpt_35_chrf,gpt-4o
+Acehnese (Arabic script),ace_Arab,Arab,lrl,1,1,,,,Austronesian,Asia 3,Asia,17.4,8.4,12.4
+Acehnese (Latin script),ace_Latn,Latn,lrl,1,1,,,X,Austronesian,Asia 3,Asia,37.1,19.8,29
+Mesopotamian Arabic,acm_Arab,Arab,lrl,,2,,,X,Afro-Asiatic,Asia 1,Asia,31.9,44.7,45.2
+Ta’izzi-Adeni Arabic,acq_Arab,Arab,lrl,,1,,,,Afro-Asiatic,Asia 1,Asia,42.2,47.5,48.7
+Tunisian Arabic,aeb_Arab,Arab,lrl,,1,,,,Afro-Asiatic,Africa,Africa,38.2,41,41.7
+Afrikaans,afr_Latn,Latn,hrl,3,3,1.3,X,X,Indo-European,Africa,Africa,64.3,67,67.6
+South Levantine Arabic,ajp_Arab,Arab,lrl,,1,,,X,Afro-Asiatic,Asia 1,Asia,51.3,47.1,48.8
+Akan,aka_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,34.5,13.3,27.9
+Tosk Albanian,als_Latn,Latn,hrl,1,1,5.4,X,X,Indo-European,Europe 1,Europe,58.3,56,60.3
+Amharic,amh_Ethi,Ethi,lrl,2,2,0.8,X,X,Afro-Asiatic,Africa,Africa,39.4,10,23.8
+North Levantine Arabic,apc_Arab,Arab,lrl,,2,,,X,Afro-Asiatic,Asia 1,Asia,50.6,45.5,47.8
+Modern Standard Arabic,arb_Arab,Arab,hrl,5,5,28,X,X,Afro-Asiatic,Asia 1,Asia,57.1,53.8,55.9
+Modern Standard Arabic (Romanized),arb_Latn,Latn,lrl,,5,,,,Afro-Asiatic,Asia 1,Asia,,20.3,29.7
+Najdi Arabic,ars_Arab,Arab,lrl,,5,,,,Afro-Asiatic,Asia 1,Asia,50.5,52.4,47.5
+Moroccan Arabic,ary_Arab,Arab,lrl,,1,,,X,Afro-Asiatic,Africa,Africa,38.9,36.3,37.7
+Egyptian Arabic,arz_Arab,Arab,lrl,3,3,,,X,Afro-Asiatic,Africa,Africa,46.8,42.3,45.9
+Assamese,asm_Beng,Beng,lrl,1,1,5,X,X,Indo-European,Asia 2,Asia,35.9,23.2,34.3
+Asturian,ast_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 1,Europe,56.8,53.8,54.9
+Awadhi,awa_Deva,Deva,lrl,0,0,,,,Indo-European,Asia 2,Asia,47.1,35.4,33.1
+Central Aymara,ayr_Latn,Latn,lrl,1,1,,,X,Aymaran,Americas,Americas/Oceania,29.7,4.7,23.8
+South Azerbaijani,azb_Arab,Arab,lrl,1,1,6.5,X,X,Turkic,Asia 1,Asia,23.5,17.9,5.4
+North Azerbaijani,azj_Latn,Latn,lrl,1,1,6.5,X,X,Turkic,Asia 1,Asia,42.9,38.4,44.6
+Bashkir,bak_Cyrl,Cyrl,lrl,1,1,,,X,Turkic,Europe 2,Europe,47.3,20.1,46.4
+Bambara,bam_Latn,Latn,lrl,1,1,,,X,Mande,Africa,Africa,30.5,6.1,19.1
+Balinese,ban_Latn,Latn,lrl,0,0,,,X,Austronesian,Asia 3,Asia,44.6,30.7,35.8
+Belarusian,bel_Cyrl,Cyrl,lrl,3,3,4.3,X,X,Indo-European,Europe 2,Europe,42,38.3,45.2
+Bemba,bem_Latn,Latn,lrl,0,0,,,X,Atlantic-Congo,Africa,Africa,37.9,10.3,28.6
+Bengali,ben_Beng,Beng,hrl,3,3,8.4,X,X,Indo-European,Asia 2,Asia,50,38.5,46.5
+Bhojpuri,bho_Deva,Deva,lrl,1,1,,,,Indo-European,Asia 2,Asia,42.8,29.7,33
+Banjar (Arabic script),bjn_Arab,Arab,lrl,1,1,,,,Austronesian,Asia 3,Asia,17.1,10.4,13.6
+Banjar (Latin script),bjn_Latn,Latn,lrl,1,1,,,X,Austronesian,Asia 3,Asia,48.2,35.9,38
+Standard Tibetan,bod_Tibt,Tibt,lrl,1,1,,,X,Sino-Tibetan,Asia 3,Asia,29.7,12.7,18.2
+Bosnian,bos_Latn,Latn,hrl,3,3,0.1,X,X,Indo-European,Europe 1,Europe,58.8,59.9,61.8
+Buginese,bug_Latn,Latn,lrl,1,1,,,,Austronesian,Asia 3,Asia,33.7,23.3,23.8
+Bulgarian,bul_Cyrl,Cyrl,hrl,3,3,57.5,X,X,Indo-European,Europe 2,Europe,64.8,61.6,65.6
+Catalan,cat_Latn,Latn,hrl,4,4,10.1,X,X,Indo-European,Europe 1,Europe,65,65.4,67
+Cebuano,ceb_Latn,Latn,lrl,3,3,,,X,Austronesian,Asia 3,Asia,57.3,51,58.1
+Czech,ces_Latn,Latn,hrl,4,4,16.3,X,X,Indo-European,Europe 2,Europe,57.4,57.6,59.4
+Chokwe,cjk_Latn,Latn,lrl,,1,,,X,Atlantic-Congo,Africa,Africa,24.3,4.4,19.4
+Central Kurdish,ckb_Arab,Arab,lrl,0,0,,,X,Indo-European,Asia 1,Asia,47.2,19.7,28.8
+Crimean Tatar,crh_Latn,Latn,lrl,1,1,,,X,Turkic,Europe 2,Europe,47,27.8,32.3
+Welsh,cym_Latn,Latn,lrl,1,1,0.8,X,X,Indo-European,Europe 1,Europe,70.8,64.7,70
+Danish,dan_Latn,Latn,hrl,3,3,45.6,X,X,Indo-European,Europe 1,Europe,66.4,69.7,70.6
+German,deu_Latn,Latn,hrl,5,5,66.6,X,X,Indo-European,Europe 1,Europe,62.8,65.4,66
+Southwestern Dinka,dik_Latn,Latn,lrl,1,1,,,,Nilotic,Africa,Africa,24.2,4.6,16
+Dyula,dyu_Latn,Latn,lrl,0,0,,,X,Mande,Africa,Africa,17.7,4.5,16.5
+Dzongkha,dzo_Tibt,Tibt,lrl,1,1,,,X,Sino-Tibetan,Asia 2,Asia,34.7,7.7,17.8
+Greek,ell_Grek,Grek,hrl,3,3,46.9,X,X,Indo-European,Europe 1,Europe,52,51.6,54.7
+English,eng_Latn,Latn,hrl,5,5,300.8,X,X,Indo-European,Europe 1,Europe,,,
+Esperanto,epo_Latn,Latn,lrl,1,1,0.9,X,X,Constructed,Europe 2,Europe,61.4,58.5,60.8
+Estonian,est_Latn,Latn,hrl,3,3,6.1,X,X,Uralic,Europe 1,Europe,56.1,56.8,58.3
+Basque,eus_Latn,Latn,hrl,4,4,2,X,X,Basque,Europe 1,Europe,50,44.2,52
+Ewe,ewe_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,39,6,20.7
+Faroese,fao_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 1,Europe,49.8,40.5,49.5
+Fijian,fij_Latn,Latn,lrl,1,1,,,X,Austronesian,Oceania,Americas/Oceania,46.7,22.9,41.7
+Finnish,fin_Latn,Latn,hrl,4,4,54.3,X,X,Uralic,Europe 1,Europe,55.3,56.2,58.4
+Fon,fon_Latn,Latn,lrl,,1,,,X,Atlantic-Congo,Africa,Africa,21.5,3.9,13.7
+French,fra_Latn,Latn,hrl,5,5,56.8,X,X,Indo-European,Europe 1,Europe,69.7,71.1,71.5
+Friulian,fur_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 1,Europe,56.8,40.6,44.4
+Nigerian Fulfulde,fuv_Latn,Latn,lrl,0,0,,,,Atlantic-Congo,Africa,Africa,23.9,8.5,17.6
+West Central Oromo,gaz_Latn,Latn,lrl,1,1,0.1,X,X,Afro-Asiatic,Africa,Africa,37.5,8,32.1
+Scottish Gaelic,gla_Latn,Latn,lrl,0,0,0.1,X,X,Indo-European,Europe 1,Europe,50.2,38.9,50.1
+Irish,gle_Latn,Latn,lrl,2,2,0.5,X,X,Indo-European,Europe 1,Europe,58,47.1,57
+Galician,glg_Latn,Latn,lrl,3,3,2.9,X,X,Indo-European,Europe 1,Europe,59.8,61.3,62.7
+Guarani,grn_Latn,Latn,lrl,1,1,,,X,Tupian,Americas,Americas/Oceania,36.6,6.3,28.1
+Gujarati,guj_Gujr,Gujr,lrl,1,1,1.9,X,X,Indo-European,Asia 2,Asia,53.3,37.4,39.3
+Haitian Creole,hat_Latn,Latn,lrl,0,0,,,X,Indo-European,Americas,Americas/Oceania,51.9,47,53.4
+Hausa,hau_Latn,Latn,lrl,2,2,0.3,X,X,Afro-Asiatic,Africa,Africa,53.5,22.2,49
+Hebrew,heb_Hebr,Hebr,hrl,3,3,31.6,X,X,Afro-Asiatic,Asia 1,Asia,59.8,51.2,59
+Hindi,hin_Deva,Deva,hrl,4,4,20.2,X,X,Indo-European,Asia 2,Asia,57.3,48.7,53.4
+Chhattisgarhi,hne_Deva,Deva,lrl,,1,,,X,Indo-European,Asia 2,Asia,54.3,34,34.5
+Croatian,hrv_Latn,Latn,hrl,4,4,0.5,X,X,Indo-European,Europe 2,Europe,57.2,57,59.2
+Hungarian,hun_Latn,Latn,hrl,4,4,58.4,X,X,Uralic,Europe 2,Europe,55.5,54.6,57
+Armenian,hye_Armn,Armn,lrl,1,1,5.5,X,X,Indo-European,Asia 1,Asia,53.2,33.2,53.2
+Igbo,ibo_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,41.4,14.7,38.4
+Ilocano,ilo_Latn,Latn,lrl,1,1,,,X,Austronesian,Asia 3,Asia,53.3,33.6,42.9
+Indonesian,ind_Latn,Latn,hrl,3,3,148.3,X,X,Austronesian,Asia 3,Asia,68.7,68.5,69.7
+Icelandic,isl_Latn,Latn,hrl,2,2,3.2,X,X,Indo-European,Europe 1,Europe,50,44.8,53.5
+Italian,ita_Latn,Latn,hrl,4,4,30.2,X,X,Indo-European,Europe 1,Europe,57.3,59.4,60.1
+Javanese,jav_Latn,Latn,lrl,1,1,0.2,X,X,Austronesian,Asia 3,Asia,54.8,41.2,53.3
+Japanese,jpn_Jpan,Jpan,hrl,5,5,69.3,X,X,Japonic,Asia 3,Asia,27.9,33.1,35.5
+Kabyle,kab_Latn,Latn,lrl,1,1,,,X,Afro-Asiatic,Africa,Africa,35.6,11.9,20.7
+Jingpho,kac_Latn,Latn,lrl,0,0,,,X,Sino-Tibetan,Asia 3,Asia,37.5,2.9,24.3
+Kamba,kam_Latn,Latn,lrl,0,0,,,X,Atlantic-Congo,Africa,Africa,25.9,8.9,23.6
+Kannada,kan_Knda,Knda,lrl,1,1,3.3,X,X,Dravidian,Asia 2,Asia,53.4,37.9,41
+Kashmiri (Arabic script),kas_Arab,Arab,lrl,1,1,,,,Indo-European,Asia 2,Asia,34.2,15.5,18.5
+Kashmiri (Devanagari script),kas_Deva,Deva,lrl,1,1,,,,Indo-European,Asia 2,Asia,17.1,12.9,13.9
+Georgian,kat_Geor,Geor,lrl,3,3,9.1,X,X,Kartvelian,Asia 1,Asia,48.1,32.5,48.4
+Kazakh,kaz_Cyrl,Cyrl,hrl,3,3,6.4,X,X,Turkic,Asia 1,Asia,51.8,33.9,52
+Kabiyè,kbp_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,28.3,4,14
+Kabuverdianu,kea_Latn,Latn,lrl,,1,,,X,Indo-European,Africa,Africa,42.8,37.6,46.9
+Halh Mongolian,khk_Cyrl,Cyrl,lrl,1,1,3,X,X,Mongolic-Khitan,Asia 3,Asia,43.9,26.1,46.7
+Khmer,khm_Khmr,Khmr,lrl,1,1,1.5,X,X,Austroasiatic,Asia 3,Asia,36.4,21.5,29.2
+Kikuyu,kik_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,37.1,8.8,24.9
+Kinyarwanda,kin_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,49.7,18.7,46.1
+Kyrgyz,kir_Cyrl,Cyrl,lrl,,2,1.2,X,X,Turkic,Asia 1,Asia,44.5,25.8,45.1
+Kimbundu,kmb_Latn,Latn,lrl,,1,,,X,Atlantic-Congo,Africa,Africa,24.9,4.9,20.4
+Northern Kurdish,kmr_Latn,Latn,lrl,1,1,0.4,X,X,Indo-European,Asia 1,Asia,39.3,25.3,29.1
+Central Kanuri (Arabic script),knc_Arab,Arab,lrl,0,0,,,,Nilotic,Africa,Africa,9.8,5.3,6.8
+Central Kanuri (Latin script),knc_Latn,Latn,lrl,0,0,,,,Nilotic,Africa,Africa,27.4,13.4,19.1
+Kikongo,kon_Latn,Latn,lrl,,1,,,X,Atlantic-Congo,Africa,Africa,45.3,8.5,29.2
+Korean,kor_Hang,Hang,hrl,4,4,54.2,X,X,Koreanic,Asia 3,Asia,36,34.4,37.4
+Lao,lao_Laoo,Laoo,lrl,2,2,0.6,X,X,Tai-Kadai,Asia 3,Asia,46.2,18.5,35.8
+Ligurian,lij_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 1,Europe,53.8,32.8,35.1
+Limburgish,lim_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 1,Europe,47.9,40.2,37.8
+Lingala,lin_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,48,14.8,42.3
+Lithuanian,lit_Latn,Latn,hrl,3,3,13.7,X,X,Indo-European,Europe 1,Europe,54.7,51.5,56.4
+Lombard,lmo_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 1,Europe,34.9,29.9,32.1
+Latgalian,ltg_Latn,Latn,lrl,1,1,,,,Indo-European,Europe 2,Europe,53.6,29.2,29.6
+Luxembourgish,ltz_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 1,Europe,56,48.7,56.5
+Luba-Kasai,lua_Latn,Latn,lrl,,1,,,X,Atlantic-Congo,Africa,Africa,35.2,8.1,22.2
+Ganda,lug_Latn,Latn,lrl,,1,,,X,Atlantic-Congo,Africa,Africa,39.8,11.6,32.7
+Luo,luo_Latn,Latn,lrl,,1,,,X,Nilotic,Africa,Africa,38.5,7,30.3
+Mizo,lus_Latn,Latn,lrl,0,0,,,X,Sino-Tibetan,Asia 2,Asia,38,17.6,29.5
+Standard Latvian,lvs_Latn,Latn,hrl,3,3,8.8,X,X,Indo-European,Europe 2,Europe,54.8,55.1,60.2
+Magahi,mag_Deva,Deva,lrl,0,0,,,,Indo-European,Asia 2,Asia,58.5,39.1,40
+Maithili,mai_Deva,Deva,lrl,1,1,,,X,Indo-European,Asia 2,Asia,46.7,28.9,40.3
+Malayalam,mal_Mlym,Mlym,lrl,1,1,7.6,X,X,Dravidian,Asia 2,Asia,51.6,32.3,39.8
+Marathi,mar_Deva,Deva,lrl,2,2,2.8,X,X,Indo-European,Asia 2,Asia,48,34.3,45.6
+Minangkabau (Arabic script),min_Arab,Arab,lrl,1,1,,,,Austronesian,Asia 3,Asia,,1.3,15.6
+Minangkabau (Latin script),min_Latn,Latn,lrl,1,1,,,X,Austronesian,Asia 3,Asia,52.4,37,41.9
+Macedonian,mkd_Cyrl,Cyrl,hrl,1,1,4.8,X,X,Indo-European,Europe 2,Europe,60.6,57,62.3
+Maltese,mlt_Latn,Latn,hrl,2,2,,,X,Afro-Asiatic,Europe 1,Europe,66,49.4,66.4
+Meitei (Bengali script),mni_Beng,Beng,lrl,,1,,,,Sino-Tibetan,Asia 2,Asia,38.7,11.4,11.3
+Mossi,mos_Latn,Latn,lrl,,1,,,X,Atlantic-Congo,Africa,Africa,24.3,3.9,16.6
+Maori,mri_Latn,Latn,lrl,1,1,,,X,Austronesian,Oceania,Americas/Oceania,44.2,34.8,47.9
+Burmese,mya_Mymr,Mymr,lrl,1,1,1.6,X,X,Sino-Tibetan,Asia 3,Asia,32,19.8,32.6
+Dutch,nld_Latn,Latn,hrl,4,4,29.3,X,X,Indo-European,Europe 1,Europe,54.9,56.5,57
+Norwegian Nynorsk,nno_Latn,Latn,lrl,1,1,49,X,X,Indo-European,Europe 1,Europe,53.6,58.7,61.5
+Norwegian Bokmål,nob_Latn,Latn,lrl,1,1,49,X,X,Indo-European,Europe 1,Europe,58.6,60.5,60.9
+Nepali,npi_Deva,Deva,lrl,1,1,3.8,X,X,Indo-European,Asia 2,Asia,45.5,39.5,47.7
+Nko,nqo_Nkoo,Nkoo,lrl,,0,,,,Atlantic-Congo,Africa,Africa,,,
+Northern Sotho,nso_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,50.8,16.7,47.9
+Nuer,nus_Latn,Latn,lrl,0,0,,,,Nilotic,Africa,Africa,29,3,14
+Nyanja,nya_Latn,Latn,lrl,,2,,,X,Atlantic-Congo,Africa,Africa,44,20.6,44
+Occitan,oci_Latn,Latn,lrl,1,1,,,,Indo-European,Europe 1,Europe,58.8,55.1,62.7
+Odia,ory_Orya,Orya,lrl,1,1,0.6,X,X,Indo-European,Asia 2,Asia,45.7,27.5,36.4
+Pangasinan,pag_Latn,Latn,lrl,1,1,,,X,Austronesian,Asia 3,Asia,46.3,22.6,28.5
+Eastern Panjabi,pan_Guru,Guru,lrl,2,2,0.8,X,X,Indo-European,Asia 2,Asia,49,37.4,42.6
+Papiamento,pap_Latn,Latn,lrl,,2,,,X,Indo-European,Americas,Americas/Oceania,60.2,51.6,51.1
+Southern Pashto,pbt_Arab,Arab,lrl,1,1,0.7,X,X,Indo-European,Asia 1,Asia,39.4,19.7,35.1
+Western Persian,pes_Arab,Arab,hrl,4,4,111.6,X,X,Indo-European,Asia 1,Asia,51.3,48.6,52.3
+Plateau Malagasy,plt_Latn,Latn,lrl,1,1,0.2,X,X,Austronesian,Africa,Africa,50,31.4,49
+Polish,pol_Latn,Latn,hrl,4,4,44.6,X,X,Indo-European,Europe 2,Europe,48.9,49.7,51.6
+Portuguese,por_Latn,Latn,hrl,4,4,49.1,X,X,Indo-European,Europe 1,Europe,67.9,71.4,71.7
+Dari,prs_Arab,Arab,lrl,0,0,,,X,Indo-European,Asia 1,Asia,53.6,44.8,46.3
+Ayacucho Quechua,quy_Latn,Latn,lrl,1,1,,,X,Quechuan,Americas,Americas/Oceania,26.9,9.3,26.3
+Romanian,ron_Latn,Latn,hrl,3,3,61.4,X,X,Indo-European,Europe 2,Europe,61.3,64,65.8
+Rundi,run_Latn,Latn,lrl,0,0,,,X,Atlantic-Congo,Africa,Africa,42.5,16.6,37.1
+Russian,rus_Cyrl,Cyrl,hrl,4,4,278,X,X,Indo-European,Europe 2,Europe,56.3,56.6,58.4
+Sango,sag_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,35.7,4.6,21.6
+Sanskrit,san_Deva,Deva,lrl,2,2,0.3,X,X,Indo-European,Asia 2,Asia,26.1,21.8,26
+Santali,sat_Olck,Olck,lrl,1,1,,,X,Austroasiatic,Asia 2,Asia,26.3,0.2,1.1
+Sicilian,scn_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 1,Europe,46.8,35.9,41
+Shan,shn_Mymr,Mymr,lrl,0,0,,,,Tai-Kadai,Asia 3,Asia,34.4,7.6,15.5
+Sinhala,sin_Sinh,Sinh,lrl,0,0,3.6,X,X,Indo-European,Asia 2,Asia,43.8,19.5,31.3
+Slovak,slk_Latn,Latn,hrl,3,3,23.2,X,X,Indo-European,Europe 2,Europe,59,56.8,60.1
+Slovenian,slv_Latn,Latn,hrl,3,3,10.3,X,X,Indo-European,Europe 1,Europe,56.2,55.5,58.4
+Samoan,smo_Latn,Latn,lrl,1,1,,,X,Austronesian,Oceania,Americas/Oceania,50,22.8,49.1
+Shona,sna_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,43.4,15.3,43.1
+Sindhi,snd_Arab,Arab,lrl,1,1,0.4,X,X,Indo-European,Asia 2,Asia,48.1,22.5,44.4
+Somali,som_Latn,Latn,lrl,1,1,0.4,X,X,Afro-Asiatic,Africa,Africa,43,29.4,41.4
+Southern Sotho,sot_Latn,Latn,hrl,0,0,,,X,Atlantic-Congo,Africa,Africa,46.1,20.7,48
+Spanish,spa_Latn,Latn,hrl,5,5,53.3,X,X,Indo-European,Europe 1,Europe,53.8,56.5,56.6
+Sardinian,srd_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 1,Europe,55.6,42.1,42.4
+Serbian,srp_Cyrl,Cyrl,lrl,4,4,9.1,X,X,Indo-European,Europe 2,Europe,59.7,56.5,2.6
+Swati,ssw_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,43.3,10.6,35.1
+Sundanese,sun_Latn,Latn,lrl,1,1,0.1,X,X,Austronesian,Asia 3,Asia,44.7,39,47.6
+Swedish,swe_Latn,Latn,hrl,4,4,12.1,X,X,Indo-European,Europe 1,Europe,65.9,68.5,69.3
+Swahili,swh_Latn,Latn,hrl,2,2,1.6,X,X,Atlantic-Congo,Africa,Africa,58.6,60.1,62.1
+Silesian,szl_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 2,Europe,53.7,35.5,38.7
+Tamil,tam_Taml,Taml,lrl,3,3,12.2,X,X,Dravidian,Asia 2,Asia,53.7,33.8,30.2
+Tamasheq (Latin script),taq_Latn,Latn,lrl,,0,,,,Afro-Asiatic,Africa,Africa,23.1,8.2,18.4
+Tamasheq (Tifinagh script),taq_Tfng,Tfng,lrl,,0,,,,Afro-Asiatic,Africa,Africa,16.7,5.2,11.4
+Tatar,tat_Cyrl,Cyrl,lrl,1,1,,,X,Turkic,Europe 2,Europe,46.8,21.5,48.8
+Telugu,tel_Telu,Telu,lrl,1,1,4.7,X,X,Dravidian,Asia 2,Asia,55.9,34.4,44.3
+Tajik,tgk_Cyrl,Cyrl,lrl,1,1,,,X,Indo-European,Asia 1,Asia,51.2,29.3,49.4
+Tagalog,tgl_Latn,Latn,hrl,3,3,,,X,Austronesian,Asia 3,Asia,60.5,60.8,63.4
+Thai,tha_Thai,Thai,hrl,3,3,71.7,X,X,Tai-Kadai,Asia 3,Asia,42.7,43.1,49.5
+Tigrinya,tir_Ethi,Ethi,lrl,2,2,,,X,Afro-Asiatic,Africa,Africa,25.8,5.8,10.4
+Tok Pisin,tpi_Latn,Latn,lrl,1,1,,,X,Indo-European,Oceania,Americas/Oceania,41.6,37.1,46.1
+Tswana,tsn_Latn,Latn,hrl,2,2,,,X,Atlantic-Congo,Africa,Africa,48.5,17,43.7
+Tsonga,tso_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,50,15,41.2
+Turkmen,tuk_Latn,Latn,lrl,1,1,,,X,Turkic,Asia 1,Asia,42.1,25.2,48.6
+Tumbuka,tum_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,35.2,16.5,35.5
+Turkish,tur_Latn,Latn,hrl,4,4,20.9,X,X,Turkic,Asia 1,Asia,58.3,57.9,59.6
+Twi,twi_Latn,Latn,lrl,1,1,,,X,Atlantic-Congo,Africa,Africa,37.9,13.4,29.1
+Central Atlas Tamazight,tzm_Tfng,Tfng,lrl,,0,,,,Afro-Asiatic,Africa,Africa,32.3,8.3,3.2
+Uyghur,uig_Arab,Arab,lrl,1,1,0.4,X,X,Turkic,Asia 1,Asia,45.3,20.5,31.2
+Ukrainian,ukr_Cyrl,Cyrl,hrl,3,3,84.6,X,X,Indo-European,Europe 2,Europe,56.3,55,58
+Umbundu,umb_Latn,Latn,lrl,0,0,,,X,Atlantic-Congo,Africa,Africa,26.6,5.3,21.2
+Urdu,urd_Arab,Arab,lrl,3,3,5.7,X,X,Indo-European,Asia 2,Asia,48.9,41.7,47.7
+Northern Uzbek,uzn_Latn,Latn,hrl,3,3,0.7,X,X,Turkic,Asia 1,Asia,50.6,39.9,51.9
+Venetian,vec_Latn,Latn,lrl,1,1,,,X,Indo-European,Europe 1,Europe,51.6,41,43.5
+Vietnamese,vie_Latn,Latn,hrl,4,4,137.3,X,X,Austroasiatic,Asia 3,Asia,59.5,58.5,61.3
+Waray,war_Latn,Latn,lrl,1,1,,,X,Austronesian,Asia 3,Asia,57.4,49.3,55.2
+Wolof,wol_Latn,Latn,lrl,2,2,,,X,Atlantic-Congo,Africa,Africa,29.7,10.6,23.1
+Xhosa,xho_Latn,Latn,hrl,2,2,0.1,X,X,Atlantic-Congo,Africa,Africa,48.6,21.9,44.5
+Eastern Yiddish,ydd_Hebr,Hebr,lrl,1,1,？,X,X,Indo-European,Europe 2,Europe,38.6,31,33.6
+Yoruba,yor_Latn,Latn,lrl,2,2,,,X,Atlantic-Congo,Africa,Africa,25.5,11.4,22.4
+Yue Chinese,yue_Hant,Hant,lrl,,3,,,,Sino-Tibetan,Asia 3,Asia,17.9,22.3,22.3
+Chinese (Simplified),zho_Hans,Hans,hrl,5,5,46.9,X,X,Sino-Tibetan,Asia 3,Asia,22.8,31,33.1
+Chinese (Traditional),zho_Hant,Hant,hrl,1,1,16.6,X,X,Sino-Tibetan,Asia 3,Asia,14,24.8,27.3
+Standard Malay,zsm_Latn,Latn,hrl,3,3,8.5,X,X,Austronesian,Asia 3,Asia,66.5,64.5,67
+Zulu,zul_Latn,Latn,hrl,2,2,,,,Atlantic-Congo,Africa,Africa,53.3,25.2,48.3
+,,,,,,,,,,,,45.31243781,32.41144279,40.66009852
+,,,,,,,,,,,,45.57015547,32.70764303,
+,,,,,,,,,,,,44.37111774,30.86284082,
+,,,,,,,,,,,,41.69338729,34.49741809,

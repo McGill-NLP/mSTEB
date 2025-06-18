@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Y él dijo: Mamá, estoy en casa.",Llamó a su madre tan pronto como el autobús escolar lo dejó.,1
+"Y él dijo: Mamá, estoy en casa.",Él no dijo una palabra.,2
+"Y él dijo: Mamá, estoy en casa.",Le dijo a su madre que había llegado a casa.,0
+"oh, fue Snake River, oh Snake River con muchas serpientes en él","A pesar de su nombre, en Snake River no hay serpientes; se llama así por su forma de S.",2
+"oh, fue Snake River, oh Snake River con muchas serpientes en él",Snake River tiene muchas tortugas mordedoras.,1
+"oh, fue Snake River, oh Snake River con muchas serpientes en él",Snake River está lleno de serpientes.,0
+Estos compuestos avanzados de dispositivos moleculares surgieron porque la selección natural puede actuar sobre las propiedades colectivas de dichas adiciones moleculares cuando aumentan la idoneidad adaptativa.,Todos los dispositivos moleculares son igualmente complejos.,2
+Estos compuestos avanzados de dispositivos moleculares surgieron porque la selección natural puede actuar sobre las propiedades colectivas de dichas adiciones moleculares cuando aumentan la idoneidad adaptativa.,Bajo determinadas condiciones pueden surgir dispositivos moleculares más complejos.,0
+Estos compuestos avanzados de dispositivos moleculares surgieron porque la selección natural puede actuar sobre las propiedades colectivas de dichas adiciones moleculares cuando aumentan la idoneidad adaptativa.,Estos dispositivos moleculares se usan principalmente para producir varios venenos para protección.,1
+Él dirigió una apelación a Lord Julian.,Quería preguntarle algo a Lord Julian.,0
+Él dirigió una apelación a Lord Julian.,Quería pedirle a Lord Julian que perdonara a su esposa.,1
+Él dirigió una apelación a Lord Julian.,Lord Julian no estaba a la vista.,2
+"Después de mirar alrededor de estas colecciones, suba la colina hasta la Casa del Comisionado, donde encontrará hermosas vistas de la costa circundante y del resto del complejo de astilleros.",Puedes ver barcos desde la cima de la colina.,1
+"Después de mirar alrededor de estas colecciones, suba la colina hasta la Casa del Comisionado, donde encontrará hermosas vistas de la costa circundante y del resto del complejo de astilleros.",Puedes ver el panorama de la costa en la cima de la colina.,0
+"Después de mirar alrededor de estas colecciones, suba la colina hasta la Casa del Comisionado, donde encontrará hermosas vistas de la costa circundante y del resto del complejo de astilleros.",No se puede ver la costa desde lo alto de la colina.,2
+Los sistemas de recursos humanos se consolidaron y las nuevas estructuras corporativas se definieron con rapidez para asegurar un apoyo continuo hacia la base de clientes ampliada.,"Al consolidar los sistemas de recursos humanos, se creó espacio para las nuevas estructuras corporativas.",1
+Los sistemas de recursos humanos se consolidaron y las nuevas estructuras corporativas se definieron con rapidez para asegurar un apoyo continuo hacia la base de clientes ampliada.,Se crearon estructuras corporativas.,0
+Los sistemas de recursos humanos se consolidaron y las nuevas estructuras corporativas se definieron con rapidez para asegurar un apoyo continuo hacia la base de clientes ampliada.,Los sistemas de recursos humanos ampliaron sus horizontes más allá del estado previo.,2
+"El movimiento islámico, que nació sobre 1940, es un producto del mundo moderno, influenciado por conceptos marxistas-leninistas sobre organización revolucionaria.",Los conceptos marxistas-leninistas se incorporaron al movimiento islamista.,0
+"El movimiento islámico, que nació sobre 1940, es un producto del mundo moderno, influenciado por conceptos marxistas-leninistas sobre organización revolucionaria.",El movimiento islamista se inició en el siglo VI.,2
+"El movimiento islámico, que nació sobre 1940, es un producto del mundo moderno, influenciado por conceptos marxistas-leninistas sobre organización revolucionaria.",El movimiento islamista fue originalmente fundado como una organización para la movilización social.,1
+Tu regalo es importante para la celebración de nuestra 85ª temporada.,Cada regalo que obtenemos no es tan importante como el tuyo.,1
+Tu regalo es importante para la celebración de nuestra 85ª temporada.,No nos importa su regalo en absoluto.,2
+Tu regalo es importante para la celebración de nuestra 85ª temporada.,Llevamos haciendo esto desde hace más de 80 años.,0
+Los paquetes de cobertura de los semanarios complacen a los padres ansiosos.,Los padres con ansiedad son un objetivo de mercadeo de los semanarios.,0
+Los paquetes de cobertura de los semanarios complacen a los padres ansiosos.,Las revistas de noticias diseñan sus paquetes de cobertura para atraer a los niños pequeños o ancianos.,2
+Los paquetes de cobertura de los semanarios complacen a los padres ansiosos.,"Los padres son más propensos a gastarse dinero en la compra de coches nuevos, lo que les convierte en un segmento publicitario lucrativo para las revistas.",1
+Alternativo no debe usarse en lugar de sustituto.,No es apropiado usar alternativas para referirse a alternativas.,0
+Alternativo no debe usarse en lugar de sustituto.,Está permitido sustituir alterno por alternativa.,2
+Alternativo no debe usarse en lugar de sustituto.,Muchas personas no saben cómo usar correctamente alternativas y sustitutos.,1

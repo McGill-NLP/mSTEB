@@ -1,0 +1,601 @@
+premise,hypothesis,gpt_reply
+Nie ma chłopca bawiącego się na świeżym powietrzu i nie ma uśmiechniętego mężczyzny,"Grupa dzieci bawi się na podwórku , a w tle stoi stary mężczyzna",contradiction
+"Grupa chłopców na podwórku bawi się , a mężczyzna stoi w tle","Młodzi chłopcy bawią się na świeżym powietrzu , a mężczyzna uśmiecha się w pobliżu",neutral
+"W domu bawi się grupa dzieci , a w tle nie ma mężczyzny","Młodzi chłopcy bawią się na świeżym powietrzu , a mężczyzna uśmiecha się w pobliżu",contradiction
+Brązowy pies atakuje inne zwierzę naprzeciwko wysokiego mężczyzny w spodniach,Brązowy pies atakuje inne zwierzę naprzeciwko mężczyzny w spodniach,entailment
+Brązowy pies atakuje inne zwierzę naprzeciwko mężczyzny w spodniach,Brązowy pies pomaga innemu zwierzęciu naprzeciwko mężczyzny w spodniach,contradiction
+Dwa psy walczą i przytulają się,Nie ma walczących i przytulających się psów,contradiction
+Brązowy pies atakuje inne zwierzę naprzeciwko mężczyzny w spodniach,Nie ma walczących i przytulających się psów,contradiction
+Dwa psy walczą i przytulają się,Brązowy pies atakuje inne zwierzę naprzeciwko wysokiego mężczyzny w spodniach,neutral
+Dwa psy walczą i przytulają się,Brązowy pies pomaga innemu zwierzęciu naprzeciwko mężczyzny w spodniach,neutral
+Osoba w czarnej kurtce robi sztuczki na motocyklu,Mężczyzna w czarnej kurtce robi sztuczki na motocyklu,neutral
+"Nie ma mężczyzny w czarnej kurtce , który by robił sztuczki na motocyklu",Osoba w czarnej kurtce robi sztuczki na motocyklu,contradiction
+Osoba w czarnej kurtce robi sztuczki na motocyklu,Osoba na czarnym motocyklu robi sztuczki z kurtką,contradiction
+Wykwalifikowana osoba jedzie na rowerze na jednym kole,Osoba jedzie na rowerze na jednym kole,entailment
+Nikt nie jedzie na rowerze na jednym kole,Osoba jedzie na rowerze na jednym kole,contradiction
+Osoba jedzie na rowerze na jednym kole,"Nie ma mężczyzny w czarnej kurtce , który by robił sztuczki na motocyklu",neutral
+Osoba jedzie na rowerze na jednym kole,Osoba w czarnej kurtce robi sztuczki na motocyklu,contradiction
+Mężczyzna z koszulką wrzuca piłkę na meczu koszykówki,Nie ma mężczyzny wrzucającego piłkę na meczu koszykówki,contradiction
+Gra w koszykówkę polega na wrzucaniu piłki przez mężczyznę z koszulką,Mężczyzna z koszulką wrzuca piłkę na meczu koszykówki,entailment
+"Mężczyzna grający w koszykówkę wrzuca piłkę do siatki , a tłum jest w tle","Zawodnik wrzuca piłkę do siatki , a tłum jest w tle",entailment
+"Gracz nie ma kosza , a tłum jest w tle","Zawodnik wrzuca piłkę do siatki , a tłum jest w tle",contradiction
+Mężczyzna z koszulką wrzuca piłkę na meczu koszykówki,"Gracz nie ma kosza , a tłum jest w tle",neutral
+"Zawodnik wrzuca piłkę do siatki , a tłum jest w tle",Piłka jest wrzucana przez mężczyznę z koszulką na meczu koszykówki,neutral
+Nie ma mężczyzny wrzucającego piłkę na meczu koszykówki,"Zawodnik wrzuca piłkę do siatki , a tłum jest w tle",contradiction
+Gra w koszykówkę polega na wrzucaniu piłki przez mężczyznę z koszulką,"Zawodnik wrzuca piłkę do siatki , a tłum jest w tle",neutral
+"Dwie osoby uprawiają kickboxing , a widzowie oglądają","Dwie osoby walczą , a widzowie oglądają",entailment
+"Dwóch widzów uprawia kickboxing , a niektózy ludzie to oglądają","Dwie osoby uprawiają kickboxing , a widzowie oglądają",entailment
+"Dwie osoby uprawiają kickboxing , a widzowie oglądają",Dwie młode kobiety walczą w walce kickboxingowej,neutral
+Dwie kobiety w meczu walczą w meczu kickboxingowym,"Dwie osoby walczą , a widzowie oglądają",neutral
+"Dwóch widzów uprawia kickboxing , a niektózy ludzie to oglądają",Dwie kobiety w meczu walczą w meczu kickboxingowym,contradiction
+"Dwie osoby uprawiają kickboxing , a widzowie oglądają",Dwie kobiety w meczu walczą w meczu kickboxingowym,neutral
+Dzieci w czerwonych koszulkach bawią się w liściach,Dzieciaki w czerwonych koszulkach bawią się w liściach,entailment
+Dzieciaki w czerwonych koszulkach bawią się w liściach,Dzieci w czerwonych koszulkach śpią w liściach,contradiction
+Dzieciaki w czerwonych koszulkach bawią się w liściach,Dzieci pokryte liśćmi bawią się czerwonymi koszulami,contradiction
+Trzech chłopców skacze na liściach,Dzieciaki w czerwonych koszulkach bawią się w liściach,neutral
+Dzieci w czerwonych koszulkach bawią się w liściach,Troje dzieci skacze w liściach,neutral
+Dzieci w czerwonych koszulkach śpią w liściach,Troje dzieci skacze w liściach,contradiction
+Dzieci pokryte liśćmi bawią się czerwonymi koszulami,Troje dzieci skacze w liściach,neutral
+Dwoje dzieci leży na śniegu i rysuje aniołki,Dwoje dzieci leży na śniegu i robi śnieżne aniołki,entailment
+Dwoje dzieci leży na śniegu i robi śnieżne aniołki,Nie ma dziecka leżącego na śniegu i robiącego śnieżne aniołki,contradiction
+Dwie osoby ubrane w kombinezony narciarskie robią na ziemi śnieżne anioły,Dwie osoby w kombinezonach narciaskich leżą na śniegu i robią anioły śnieżne,entailment
+Dwie osoby w kombinezonach narciaskich leżą na śniegu i robią anioły śnieżne,Nie ma osób w kombinezonach narciarskich leżących i robiących śnieżne anioły,contradiction
+Dwoje dzieci leży na śniegu i robi śnieżne aniołki,Dwie osoby ubrane w kombinezony narciarskie robią na ziemi śnieżne anioły,neutral
+Dwoje dzieci leży na śniegu i robi śnieżne aniołki,Nie ma osób w kombinezonach narciarskich leżących i robiących śnieżne anioły,contradiction
+Nie ma dziecka leżącego na śniegu i robiącego śnieżne aniołki,Dwie osoby w kombinezonach narciaskich leżą na śniegu i robią anioły śnieżne,contradiction
+Mała dziewczynka patrzy na kobietę w kostiumie,Młoda dziewczyna patrzy na kobietę w kostiumie,neutral
+Mała dziewczynka patrzy na kobietę w kostiumie,Dziewczynka patrzy na mężczyznę w kostiumie,contradiction
+Mała dziewczynka patrzy na kobietę w kostiumie,Mała dziewczynka w kostiumie wygląda jak kobieta,neutral
+Zamaskowani patrzą w tym samym kierunku w lesie,Mała dziewczynka patrzy na kobietę w kostiumie,neutral
+Mała dziewczynka patrzy na kobietę w kostiumie,Ludzie ubrani w kostiumy zbierają się w lesie i patrzą w tym samym kierunku,neutral
+Mężczyzna skacze do pustego basenu pływackiego,Mężczyzna skacze do pustego basenu,entailment
+Samotny rowerzysta skacze w powietrzu,Mężczyzna skacze do pustego basenu pływackiego,neutral
+Mężczyzna skacze do pustego basenu,"Rowerzysta skacze w powietrzu , sam",contradiction
+Mężczyzna skacze do pustego basenu,Nie ma rowerzysty skaczącego w powietrzu,neutral
+Cztery dziewczynki robią mostek i bawią się na świeżym powietrzu,Cztery dziewczynki robią mostek i bawią się w domu,contradiction
+Cztery dziewczynki robią mostek i bawią się w ogrodzie,Czworo dzieciaków robi mostek w parku,contradiction
+Cztery dziewczynki robią mostek i bawią się w domu,Czworo dzieciaków robi mostek w parku,contradiction
+Czworo dzieci robi mostek w parku,Cztery dziewczynki robią mostek i bawią się na świeżym powietrzu,contradiction
+Cztery dziewczynki robią mostek i bawią się na świeżym powietrzu,Czworo dzieciaków robi mostek w parku,neutral
+Zawodnik rzuca piłką,Zawodnik biegnie z piłką,neutral
+Dwie grupy osób grają w piłkę nożną,W meczu piłki nożnej rywalizują dwie drużyny,entailment
+W meczu piłki nożnej rywalizują dwie drużyny,Dwie drużyny rywalizują w meczu baseballowym,contradiction
+W meczu piłki nożnej rywalizują dwie drużyny,W piłkę nożną grają dwie rywalizujące drużyny,entailment
+Zawodnik biegnie z piłką,W piłkę nożną grają dwie rywalizujące drużyny,neutral
+W meczu piłki nożnej rywalizują dwie drużyny,Mężczyzna podczas gry biegnie z piłką w rękach,neutral
+Pięcioro dzieci stoi przed drewnianą chatką,Pięcioro dzieci stoi przed chatką z drewna,entailment
+"Pięcioro dzieci stoi blisko siebie , a jedno dziecko ma pistolet","Pięcioro dzieci stoi blisko siebie , a jedno dziecko ma broń",entailment
+Pięcioro dzieci stoi przed drewnianą chatką,"Pięcioro dzieci stoi blisko siebie , a jedno dziecko ma broń",neutral
+Pięcioro dzieci stoi przed chatką z drewna,"Pięcioro dzieci stoi blisko siebie , a jedno dziecko ma pistolet",neutral
+Pięcioro dzieci stoi przed drewnianą chatką,"Pięcioro dzieci stoi blisko siebie , a jedno dziecko ma pistolet",neutral
+Człowiek ma na sobie kapelusz i siedzi na trawie,Nie ma nikogo ubranego w kapelusz i siedzącego na trawie,contradiction
+Osoba siedzi na polu i jest ubrana w kapelusz,Mężczyzna siedzi na polu,neutral
+Mężczyzna siedzi na polu,Nie ma nikogo ubranego w kapelusz i siedzącego na trawie,contradiction
+Starszy mężczyzna siedzi na polu,Człowiek ma na sobie kapelusz i siedzi na trawie,neutral
+Człowiek ma na sobie kapelusz i siedzi na trawie,Mężczyzna biegnie po polu,contradiction
+Ta grupa osób praktykuje bezpieczeństwo wodne i nosi kamizelki ratunkowe,"Kamizelki ratunkowe są noszeni przez grupę ludzi , którzy praktykują bezpieczeństwo wodne",entailment
+Nikt nie praktykuje bezpieczeństwa wodnego i nie nosi kamizelek ratunkowych,Ta grupa osób praktykuje bezpieczeństwo wodne i nosi kamizelki ratunkowe,contradiction
+Grupa przyjaciół płynie tratwą z nurtem,"Kamizelki ratunkowe są noszeni przez grupę ludzi , którzy praktykują bezpieczeństwo wodne",neutral
+Nikt nie praktykuje bezpieczeństwa wodnego i nie nosi kamizelek ratunkowych,Grupa przyjaciół płynie tratwą z nurtem,neutral
+Grupa nie płynie tratwą z nurtem,Ta grupa osób praktykuje bezpieczeństwo wodne i nosi kamizelki ratunkowe,neutral
+Jeleń skacze przez płot,Jeleń skacze przez zagrodę,neutral
+Dziki jeleń przekakuje płot,Jeleń przeskakuje płot,entailment
+Jeleń przeskakuje płot,Nie ma jeleni przeskakujących płot,contradiction
+Dziki jeleń przekakuje płot,Jeleń skacze przez płot,entailment
+Nie ma jeleni przeskakujących płot,Jeleń skacze przez płot,contradiction
+Jeleń skacze przez zagrodę,Jeleń przeskakuje płot,entailment
+Jeleń przeskakuje płot,Jeleń nie skacze przez płot,contradiction
+Jeleń skacze przez płot,Jeleń przeskakuje płot,entailment
+"Ludzie spacerują na zewnątrz budynku , na którym znajduje się wiele murali","Ludzie spacerują na zewnątrz budynku , na którym znajduje się kilka murali",entailment
+"Kilka osób znajduje się przed budynkiem , który jest pokryty kolorami",Kilka osób znajduje się przed kolorowym budynkiem,entailment
+"Kilka osób znajduje się przed budynkiem , który jest pokryty kolorami","Ludzie spacerują na zewnątrz budynku , na którym znajduje się wiele murali",neutral
+Kilka osób znajduje się przed kolorowym budynkiem,"Ludzie wchodzą do środka budynku , na którym znajduje się wiele murali",neutral
+"Ludzie spacerują na zewnątrz budynku , na którym znajduje się wiele murali",Kilka osób znajduje się przed kolorowym budynkiem,entailment
+Chłopiec uderza w piłkę baseballową,Dziecko uderza w piłkę baseballową,entailment
+Dziecko uderza w piłkę baseballową,Dziecko nie trafia w piłkę baseballową,contradiction
+"Rodzina ogląda chłopca , który uderza w piłkę baseballową","Rodzina patrzy na chłopca , który uderza w piłkę baseballową",entailment
+"Mały chłopiec patrzy na rodzinę , która uderza w piłkę baseballową","Rodzina ogląda chłopca , który uderza w piłkę baseballową",contradiction
+"Rodzina patrzy na chłopca , który uderza w piłkę baseballową",Dziecko uderza w piłkę baseballową,entailment
+"Mały chłopiec patrzy na rodzinę , która uderza w piłkę baseballową",Dziecko uderza w piłkę baseballową,neutral
+"Rodzina ogląda chłopca , który uderza w piłkę baseballową",Chłopiec uderza w piłkę baseballową,entailment
+"Rodzina ogląda chłopca , który uderza w piłkę baseballową",Dziecko uderza w piłkę baseballową,entailment
+Duża grupa ludzi azjatów je w restauracji,Grupa ludzi z Azji je w restauracji,entailment
+Duża grupa ludzi azjatów je w restauracji,Niewielka grupa osób czeka na jedzenie w restauracji,contradiction
+Duża grupa ludzi azjatów je w restauracji,Grupa ludzi w dużej azjatyckiej restauracji je,neutral
+Różne osoby jedzą przy czerwonych stołach w zatłoczonej restauracji z fioletowym światłem,W zatłoczonej restauracji z fioletowym światłem jedzą różni klienci,entailment
+Niewiele osób je przy czerwonych stołach w restauracji bez oświetlenia,Różne osoby jedzą przy czerwonych stołach w zatłoczonej restauracji z fioletowym światłem,contradiction
+Grupa ludzi z Azji je w restauracji,Różne osoby jedzą przy czerwonych stołach w zatłoczonej restauracji z fioletowym światłem,neutral
+Grupa ludzi w dużej azjatyckiej restauracji je,Różne osoby jedzą przy czerwonych stołach w zatłoczonej restauracji z fioletowym światłem,neutral
+Duża grupa ludzi azjatów je w restauracji,Różne osoby jedzą przy czerwonych stołach w zatłoczonej restauracji z fioletowym światłem,neutral
+Motocyklista wstaje z siedzenia białego motocykla,Motocykl jedzie wstaje z siedzenia pojazdu,entailment
+Ktoś jest na czarno - białym motocyklu i stoi na siedzeniu,Jeździec jest na czarno - białym rowerze i stoi na siedzeniu,contradiction
+Jeździec jest na czarno - białym rowerze i stoi na siedzeniu,Motocyklista wstaje z siedzenia białego motocykla,contradiction
+Nikogo nie ma na motocyklu i nie stoi na siedzeniu,Motocyklista wstaje z siedzenia białego motocykla,contradiction
+Ktoś jest na czarno - białym motocyklu i stoi na siedzeniu,Motocyklista wstaje z siedzenia motocykla,contradiction
+Ktoś jest na czarno - białym motocyklu i stoi na siedzeniu,Motocyklista wstaje z siedzenia białego motocykla,neutral
+Motocyklista z czerwonym kaskiem jedzie niebieskim motocyklem w wzdłuż drogi,Motocyklista bez kasku czeka na niebieskim motocyklu w pobliżu drogi,contradiction
+Mężczyzna z kaskiem pomalowanym na czerwono jedzie niebieskim motocyklem po drodze,Motocyklista jedzie motocyklem po ulicy,entailment
+Motocyklista z czerwonym kaskiem jedzie niebieskim motocyklem w wzdłuż drogi,Motocyklista ryzykownie jedzie na motocyklu po ulicy,neutral
+Żaden motocyklista nie jedzie motocyklem po ulicy,Motocyklista z czerwonym kaskiem jedzie niebieskim motocyklem w wzdłuż drogi,contradiction
+Motocyklista z czerwonym kaskiem jedzie niebieskim motocyklem w wzdłuż drogi,Motocyklista jedzie motocyklem po ulicy,entailment
+"Pies łapie kij w powietrzu , a inny to ogląda","Pies wyskakuje wysoko w powietrze , a inny obserwuje",entailment
+Nie ma psa wyskakującego w powietrze,"Pies wyskakuje wysoko w powietrze , a inny obserwuje",contradiction
+Dwa psy bawią się przy drzewie,Dwa psy śpią obok drzewa,contradiction
+"Pies wyskakuje wysoko w powietrze , a inny obserwuje",Dwa psy bawią się przy roślinie,neutral
+"Pies wyskakuje wysoko w powietrze , a inny obserwuje",Dwa psy śpią obok drzewa,contradiction
+Tancerka tańczy przed sprzętem nagłaśniającym,Blondynka tańczy przed sprzętem nagłaśniającym,neutral
+Blondynka tańczy za sprzętem nagłaśniającym,Blondynka tańczy przed sprzętem nagłaśniającym,contradiction
+Blondynka tańczy przed sprzętem nagłaśniającym,Sprzęt przed tańczącą blondynką jest nagłaśniający,entailment
+Dzieci z rodziny cierpliwie się bawią i czekają,Dzieci z rodziny bawią się i czekają,entailment
+Dzieci z rodziny bawią się i czekają,Nie ma dzieci bawiących się i oczekujących,contradiction
+"Trójka azjatyckich dzieci tańczy , a poważny mężczyzna obserwuje","Trójka dzieci azjatyckich tańczy , a mężczyzna obserwuje",entailment
+Dzieci z rodziny bawią się i czekają,Trójka azjatyckich dzieci tańczy i nie ma obserwującego mężczyzny,neutral
+"Trójka dzieci azjatyckich tańczy , a mężczyzna obserwuje",Dzieci z rodziny bawią się i czekają,neutral
+Kobieta ma na sobie egipski pióropusz,Egipcjanin ma na sobie kobiecy pióropusz,contradiction
+Kobieta ma na sobie okulary i czarny pióropusz,Kobieta z czarnym kapeluszem ma na sobie okulary przeciwsłoneczne,neutral
+Kobieta nie ma na sobie okularów ani pióropuszu,Kobieta ma na sobie okulary i czarny pióropusz,contradiction
+Czarna kobieta ma na sobie okulary nad pióropuszem,Kobieta ma na sobie okulary i czarny pióropusz,neutral
+Kobieta ma na sobie egipski pióropusz,Kobieta z czarnym kapeluszem ma na sobie okulary przeciwsłoneczne,neutral
+Kobieta nie ma na sobie okularów ani pióropuszu,Kobieta ma na sobie egipski pióropusz,contradiction
+Kobieta ma na sobie indyjski pióropusz,Kobieta ma na sobie okulary i czarny pióropusz,contradiction
+Kobieta ma na sobie okulary i czarny pióropusz,Egipcjanin ma na sobie kobiecy pióropusz,contradiction
+Kobieta ma na sobie okulary i czarny pióropusz,Kobieta ma na sobie egipski pióropusz,neutral
+Mężczyzna jest na skale wysoko nad drzewami i stoi w niewygodnej pozie,Mężczyzna jest na skale wysoko nad drzewami i stoi w dziwnej pozie,entailment
+Mężczyzna jest na skale wysoko nad drzewami i stoi w dziwnej pozie,Turysta jest na szczycie góry i tańczy,neutral
+Kowbojka jedzie na brązowym koniu i kręci lufą,Kowbojka jedzie konno i kręci lufą,entailment
+Kowboj jedzie na koniu i kręci lufą,Kowbojka jedzie konno i kręci lufą,contradiction
+Kowbojka jedzie na beczce obok konia w narożniku,Kowbojka jedzie konno i kręci lufą,contradiction
+Koń brązowy jest bardzo blisko czerwonej beczki na rodeo,Kowbojka jedzie konno i kręci lufą,neutral
+Brązowy koń jest z dala od czerwonej beczki na rodeo,Kowbojka jedzie konno i kręci lufą,neutral
+Kowboj jedzie na koniu i kręci lufą,Koń brązowy znajduje się w pobliżu czerwonej beczki na rodeo,neutral
+Koń brązowy znajduje się w pobliżu czerwonej beczki na rodeo,Kowbojka jedzie na beczce obok konia w narożniku,neutral
+Chłopiec stoi na zewnątrz wody,Chłopiec stoi w wodzie,contradiction
+Dziecko pływa po niebieskim oceanie,Chłopiec błądzi po niebieskim oceanie,neutral
+Chłopiec stoi w wodzie,Chłopiec siedzi nad niebieskim oceanem,contradiction
+Chłopiec stoi w wodzie,Chłopiec błądzi po niebieskim oceanie,neutral
+Mężczyzna umiejętnie gra na gitarze na scenie,Mężczyzna gra na gitarze na scenie,entailment
+Osoba ma rozczochrane blond włosy i gra na gitarze,Gitarzysta ma rozczochrane blond włosy,entailment
+Mężczyzna umiejętnie gra na gitarze na scenie,Osoba ma rozczochrane blond włosy i gra na gitarze,neutral
+Mężczyzna gra na gitarze na scenie,Osoba ma rozczochrane blond włosy i gra na gitarze,neutral
+"Kilkoro dzieci siedzi , a ich kolana są podniesione",Kilkoro dzieci wstaje,contradiction
+Dwie dziewczynki leżą na ziemi,Dwie dziewczynki siedzą na ziemi,contradiction
+Dwie młode dziewczynki siedzą na ziemi,"Kilkoro dzieci siedzi , a ich kolana są podniesione",neutral
+Kilkoro dzieci leży i podnosi kolana,Dwie dziewczynki siedzą na ziemi,neutral
+Kilkoro dzieci wstaje,Dwie dziewczynki siedzą na ziemi,contradiction
+"Kilkoro dzieci siedzi , a ich kolana są podniesione",Dwie dziewczynki siedzą na ziemi,neutral
+Naga dama pokryta farbą do ciała idzie przed wieloma ludźmi,Naga dama pokryta farbą do ciała idzie przed tłumem ludzi,entailment
+"Stara , naga kobieta jest pokryta farbą",Naga dama pokryta farbą do ciała idzie przed tłumem ludzi,neutral
+"Młoda , naga kobieta jest pokryta farbą",Naga dama pokryta farbą do ciała idzie przed wieloma ludźmi,neutral
+Nie ma pani chodzącej w farbie do ciała przed tłumem,"Młoda , naga kobieta jest pokryta farbą",neutral
+Grupa dzieci w mundurach stoi przy bramie i nikt nie całuje matki,Grupa dzieci w mundurkach stoi przy bramie a jedno z nich całuje matkę,contradiction
+Tłum ludzi jest blisko wody,Grupa dzieci ubranych w te same ubrania czeka przy bramie a jedno z nich całuje matkę,neutral
+W pobliżu dzieci stoi grupa matek w mundurkach a jedna całuje bramę,Tłum ludzi jest blisko wody,neutral
+Grupa ludzi jest blisko oceanu,Grupa dzieci w mundurkach stoi przy bramie a jedno z nich całuje matkę,neutral
+Tłum ludzi jest daleko od wody,Grupa dzieci w mundurkach stoi przy bramie a jedno z nich całuje matkę,neutral
+Tłum ludzi jest blisko wody,Grupa dzieci w mundurkach stoi przy bramie a jedno z nich całuje matkę,neutral
+Mężczyzna jest na parkingu i gra w tenisa przed dużą ścianą,Samotny mężczyzna jest na parkingu i gra w tenisa przed dużą ścianą,entailment
+Mężczyzna wskazuje na srebrnego sedana,Mężczyzna wskazuje na samochód,entailment
+Mężczyzna wskazuje na srebrnego sedana,Nie ma mężczyzny wskazującego na samochód,contradiction
+Mężczyzna wskazuje na samochód,Mężczyzna jest na parkingu i gra w tenisa przed dużą ścianą,neutral
+Mężczyzna wskazuje na srebrnego sedana,Samotny mężczyzna jest na parkingu i gra w tenisa przed dużą ścianą,neutral
+Mężczyzna wskazuje na srebrnego sedana,Mężczyzna jest na parkingu i gra w tenisa przed dużą ścianą,neutral
+"Mężczyzna , kobieta i dwie dziewczynki spacerują po plaży","Mężczyzna , kobieta i dwie dziewczynki siedzą na plaży",neutral
+"Mężczyzna , kobieta i dwie dziewczynki siedzą na plaży",Grupa ludzi jest na plaży,entailment
+"Mężczyzna , kobieta i dwie dziewczynki spacerują po plaży",Grupa ludzi jest blisko morza,entailment
+Azjatycka kobieta w tłumie nosi czarną torbę,Azjatycka kobieta pośród wielu ludzi nosi czarną torbę,entailment
+Azjatycka kobieta pośród wielu ludzi nosi czarną torbę,Dziewczynka z czarną torbą jest w zatłoczonym pociągu,neutral
+Nie ma dziewczyny z czarną torbą w zatłoczonym pociągu,Azjatycka kobieta w tłumie nosi czarną torbę,contradiction
+Azjatycka kobieta w tłumie nosi czarną torbę,Na torbie dziewczyny znajduje się zatłoczony czarny pociąg,neutral
+Dziewczynka z czarną torbą jest w zatłoczonym pociągu,Azjatycka kobieta w tłumie nosi czarną torbę,neutral
+Nie ma psa goniącego za innym psem lub trzymającego kij w pysku,Pies ściga innego psa i trzyma kij w pysku,contradiction
+Pies ściga innego psa i trzyma kij w pysku,Pies goni za kijem i trzyma w pysku innego psa,contradiction
+Nie ma psa biegnącego i niosącego w pysku przedmiot,Dwa psy biegną i niosą przedmiot w pyskach,contradiction
+Dwa psy biegną i niosą zabawkę w pyskach,Pies ściga innego psa i trzyma kij w pysku,neutral
+Nie ma psa biegnącego i niosącego w pysku przedmiot,Pies ściga innego psa i trzyma kij w pysku,contradiction
+Nie ma psa goniącego za innym psem lub trzymającego kij w pysku,Dwa psy biegną i niosą przedmiot w pyskach,contradiction
+Osoba grająca w piłkę nożną kopie piłkę w kierunku bramki,Piłkarz kopie piłkę do bramki,entailment
+Piłkarz wykopuje piłkę z bramki,Piłkarz kopie piłkę do bramki,contradiction
+Brudna piłka futbolowa toczy się w kierunku bramki,Piłkarz kopie piłkę do bramki,neutral
+Piłkarz kopie piłkę do bramki,Piłka nożna nie toczy się w kierunku bramki,contradiction
+Mężczyzna odpoczywa na krześle i przeciera oczy,Mężczyzna siedzi na krześle i przeciera oczy,entailment
+Mężczyzna siedzi na krześle i przeciera oczy,Wytatuowany mężczyzna jest na kanapie i trzyma ołówek,contradiction
+Brązowo biały pies odpoczywa w trawie,Przez wysoką trawę biegnie brązowo biały pies,contradiction
+Przez niską i zieloną trawę biegnie czarno brązowawy pies,Przez wysoką i zieloną trawę biegnie biało brązowawy pies,contradiction
+Przez pole biegnie biało brązowawy pies,Przez wysoką trawę biegnie brązowo biały pies,neutral
+Brązowo biały pies porusza się po dzikiej trawie,Przez wysoką i zieloną trawę biegnie biało brązowawy pies,entailment
+Przez wysoką i zieloną trawę biegnie biało brązowawy pies,Brązowo biały pies odpoczywa w trawie,neutral
+"Nie ma mężczyzny ubranego w ubrania pokryte farbą lub siedzącego na zewnątrz w zatłoczonym miejscu , piszącego coś",Mężczyzna siedzi w pobliżu roweru i pisze notatkę,neutral
+Mężczyzna siedzi w pobliżu roweru i pisze notatkę,Mężczyzna siedzący jest zajęty pisaniem czegoś na obszarze pokrytym farbą,neutral
+Mężczyzna siedzi w pobliżu roweru i pisze notatkę,"Mężczyzna ma na sobie ubrania pokryte farbą i siedzi na zewnątrz w zatłoczonym miejscu , pisząc coś",neutral
+Niektórzy ludzie chodzą,Niektórzy ludzie stoją,neutral
+Grupa harcerzy wędruje po trawie,Ludzie idą,entailment
+Niektórzy ludzie stoją,Grupa harcerzy wędruje po trawie,neutral
+Grupa odkrywców idzie po trawie,Niektórzy ludzie chodzą,entailment
+Dwóch mężczyzn odpoczywa na zaśnieżonej drodze,Dwóch mężczyzn odpoczywa na drodze pokrytej śniegiem,entailment
+Dwóch mężczyzn odpoczywa na zaśnieżonej drodze,Dwóch mężczyzn idzie zaśnieżoną drogą,contradiction
+Dwóch mężczyzn trzyma rowery i stoi na poboczu drogi pokrytej śniegiem,Dwóch mężczyzn z rowerami stoi na poboczu zaśnieżonej drogi,entailment
+Dwóch mężczyzn odpoczywa na zaśnieżonej drodze,Dwóch mężczyzn trzyma rowery i stoi na poboczu drogi pokrytej śniegiem,neutral
+Dwóch mężczyzn z rowerami stoi na poboczu zaśnieżonej drogi,Dwóch mężczyzn odpoczywa na drodze pokrytej śniegiem,entailment
+Dwóch mężczyzn z rowerami stoi na poboczu zaśnieżonej drogi,Dwóch mężczyzn idzie zaśnieżoną drogą,neutral
+Dwóch mężczyzn z rowerami stoi na poboczu zaśnieżonej drogi,Dwóch mężczyzn włamuje się do samochodu podczas wycieczki na zaśnieżonej drodze,neutral
+Dwóch mężczyzn z rowerami stoi na poboczu zaśnieżonej drogi,Dwóch mężczyzn odpoczywa na zaśnieżonej drodze,neutral
+Dwóch mężczyzn stoi nad wodą i trzyma wędki,Dwóch mężczyzn stoi nad wodą i trzyma w ręku narzędzia do wędkowania,entailment
+W pobliżu wody nie stoi żaden mężczyzna trzymający wędkę,Dwóch mężczyzn stoi nad wodą i trzyma wędki,contradiction
+Dwóch mężczyzn trzyma w ręku wodę stojąc w pobliżu wędek,Dwóch mężczyzn stoi nad wodą i trzyma wędki,neutral
+Dwóch mężczyzn trzyma wędki,Dwóch mężczyzn trzyma w ręku wodę stojąc w pobliżu wędek,neutral
+Dwóch mężczyzn stoi nad wodą i trzyma wędki,Dwóch mężczyzn trzyma wędki i haczyki,neutral
+Dwóch mężczyzn nie trzyma wędek,Dwóch mężczyzn stoi nad wodą i trzyma wędki,contradiction
+Dwóch mężczyzn stoi nad wodą i trzyma wędki,Dwóch mężczyzn trzyma wędki,entailment
+Dziewczynka w kasku grzęźnie na rowerze,Dziewczynka z kaskiem grzęźnie na rowerze,entailment
+Kobieta skacze na rowerze,Dziewczynka w kasku grzęźnie na rowerze,neutral
+Blondynka płynie na fali,Blondynka patrzy na fale,neutral
+Blondynka płynie na fali,Blondynka macha podczas pływania na desce,neutral
+Kobieta surfuje i płynie na fali,Kobieta surfuje,entailment
+Chłopiec surfuje i płynie na fali,Blondynka płynie na fali,contradiction
+Kobieta surfuje i płynie na fali,Blondynka płynie na fali,neutral
+Dwoje dzieci i dorosły stoją obok gałęzi drzewa,Przy gałęzi drzewa stoją trzy osoby,entailment
+Dwoje dzieci wisi na dużej gałęzi,Dwoje dzieci wspina się na drzewo,neutral
+Na dużej gałęzi nie wisi żadne dziecko,Dwoje dzieci wisi na dużej gałęzi,contradiction
+Dwoje dzieci i dorosły stoją obok gałęzi drzewa,Na dużej gałęzi nie wisi żadne dziecko,neutral
+Przy gałęzi drzewa stoją trzy osoby,Dwoje dzieci wisi na dużej gałęzi,neutral
+Dwoje dzieci wisi na dużej gałęzi,Dwoje dzieci i jedna osoba dorosła nie stoją obok gałęzi drzewa,neutral
+Nie ma mężczyzny ubranego na czarno i jeżdżącego na zielonym rowerze,Mężczyzna ubrany na czarno jedzie na rowerze,contradiction
+Czarny mężczyzna w zieleni jedzie na rowerze,Mężczyzna ubrany na czarno jedzie na rowerze,entailment
+Mężczyzna robi sztuczkę na zielonym rowerze,"Nie ma mężczyzny , który robi sztuczkę na zielonym rowerze",contradiction
+Mężczyzna ubrany na czarno jedzie na rowerze,Mężczyzna wykonuje akrobacje na zielonym rowerze,neutral
+"Nie ma mężczyzny , który robi sztuczkę na zielonym rowerze",Mężczyzna ubrany na czarno jedzie na rowerze,contradiction
+Mężczyzna robi sztuczkę na zielonym rowerze,Mężczyzna wykonuje sztuczkę na rowerze,entailment
+Mężczyzna robi sztuczkę na zielonym rowerze,Czarny mężczyzna w zieleni jedzie na rowerze,neutral
+Mężczyzna robi sztuczkę na zielonym rowerze,Mężczyzna ubrany na czarno jedzie na rowerze,neutral
+Nie ma dziecka trzymającego w ręku pistolet na wodę,Dziecko trzyma pistolet na wodę,contradiction
+Dziecko trzyma pistolet na wodę,Nie ma dziecka trzymającego pistolet na wodę lub spryskiwanego wodą,contradiction
+Chłopiec trzyma pistolet na wodę,Śmiejące się dziecko trzyma pistolet na wodę i jest spryskiwane wodą,neutral
+Nie ma dziecka trzymającego w ręku pistolet na wodę,Śmiejące się dziecko trzyma pistolet na wodę i jest spryskiwane wodą,contradiction
+Śmiejące się dziecko trzyma pistolet na wodę i jest spryskiwane wodą,Dziecko trzyma pistolet na wodę,entailment
+Dwa brązowe psy walczą o czerwoną piłkę i bawią się w trawie,Dwa brązowe psy walczą o czerwoną zabawkę i bawią się w trawie,entailment
+Dwa brązowe psy walczą o czerwoną piłkę i bawią się w trawie,Nie ma psa bawiącego się czerwoną piłką,contradiction
+Dwa koty bawią się czerwoną piłką,Dwa brązowe psy walczą o czerwoną piłkę i bawią się w trawie,contradiction
+Dwa jamniki bawią się czerwoną piłką,Dwa brązowe psy walczą o czerwoną zabawkę i bawią się w trawie,neutral
+Dwa jamniki bawią się czerwoną piłką,Dwa brązowe psy walczą o czerwoną piłkę i bawią się w trawie,contradiction
+Czarno - biały pies biegnie i stoi za nim osoba,Czarno - biały pies nie biegnie i nie ma nikogo stojącego za nim,contradiction
+"Czarny człowiek biegnie po białej trybunie , a pies szczeka za nim",Czarno - biały pies biegnie i stoi za nim osoba,neutral
+"Mały pies zwalnia , a właściciel przestaje go gonić","Mały pies biegnie sprintem , a właściciel próbuje go złapać",contradiction
+"Pies , który jest czarno - biały , biegnie , i stoi za nim osoba","Mały pies biegnie sprintem , a właściciel próbuje go złapać",neutral
+Czarno - biały pies biegnie i stoi za nim osoba,"Mały pies biegnie sprintem , a właściciel próbuje go złapać",neutral
+Mężczyzna siedzi wygodnie przy stole,Osoba siedzi wygodnie przy stole,entailment
+Mężczyzna nie siedzi wygodnie przy stole,Mężczyzna siedzi wygodnie przy stole,contradiction
+Mężczyzna siedzi i proponuje wygodną dyskusję,Mężczyzna siedzi wygodnie przy stole,neutral
+Mężczyzna siedzi wygodnie przy stole,"Nie ma mężczyzny ubranego w koszulę barwioną na czarno , siedzącego przy stole i śmiejącego się",neutral
+Mężczyzna siedzi wygodnie przy stole,"Śmiejący się mężczyzna farbuje koszulę na czarno na stole , na którym nie można usiąść",contradiction
+Mężczyzna w barwionej czarnej koszuli siedzi przy stole i śmieje się,Osoba siedzi wygodnie przy stole,entailment
+Mężczyzna w barwionej czarnej koszuli siedzi przy stole i śmieje się,Mężczyzna nie siedzi wygodnie przy stole,neutral
+Kobieta nosząca różowy szal jedzie na rowerze po moście zbudowanym dla pieszych,Piesza kobieta buduje różowe rowery dla rowerzystów noszących szale,neutral
+"Kobieta ubrana w srebrne majtki , różowe dzowny i różową chustę , jedzie uśmiechnięta na rowerze","Kobieta ubrana w srebrne majtki , różowe dzwony i różową chustę jedzie na rowerze",entailment
+"Kobieta ubrana w srebrne majtki , różowe dzwony i różową chustę nie jeździ na rowerze","Kobieta ubrana w srebrne majtki , różowe dzwony i różową chustę jedzie na rowerze",contradiction
+"Kobieta ubrana w srebrne majtki , różowe dzowny i różową chustę , jedzie uśmiechnięta na rowerze",Kobieta nosząca różowy szal jedzie na rowerze po moście zbudowanym dla pieszych,neutral
+Kobieta nosząca różowy szal jedzie na rowerze po moście zbudowanym dla pieszych,Różowe dzwony i różowa chusta nie mogą być noszone przez kobiety z srebrnymi majtkami lub rowerzystki,contradiction
+"Kobieta ubrana w srebrne majtki , różowe dzwony i różową chustę jedzie na rowerze","Kobieta , która zdejmuje różowy szal , zatrzymuje rower na moście zbudowanym dla pieszych",neutral
+Nie ma mężczyzny w czarnym kasku i pchającego rower,Jeden mężczyzna ma na sobie czarny kask i popycha rower,contradiction
+Jeden mężczyzna ma na sobie czarny kask i popycha rower,Mężczyzna popycha kask w kierunku innego kasku na czarnym rowerze,contradiction
+Mężczyzna pchający rower nosi czarny kask,Rowerzysta ma ubranie w kolorze czarnym,neutral
+Mężczyzna popycha kask w kierunku innego kasku na czarnym rowerze,Rowerzysta ma ubranie w kolorze czarnym,neutral
+"Osoba , która jedzie na rowerze , ma na sobie czarne ubranie",Jeden mężczyzna ma na sobie czarny kask i popycha rower,neutral
+Jeden mężczyzna ma na sobie czarny kask i popycha rower,Motocyklista ubrany na czarno łamie koła zębate,neutral
+Rowerzysta ma ubranie w kolorze czarnym,Jeden mężczyzna ma na sobie czarny kask i popycha rower,neutral
+Mężczyzna w szarej koszulce siedzi na skale przed wodospadem,"Rakieta siedzi z koszulką , która ma mężczyznę nad szarym wodospadem z przodu",contradiction
+Jedna kobieta siedzi i patrzy na wodospad,Kobieta siedzi i patrzy na wodospad,entailment
+Kobieta siedzi i patrzy na wodospad,Ktoś siedzi przy wodospadzie i patrzy na kobietę,contradiction
+Mężczyzna w szarej koszulce siedzi na skale przed wodospadem,Jedna kobieta siedzi i patrzy na wodospad,contradiction
+Mężczyzna w szarej koszulce siedzi na skale przed wodospadem,Ktoś siedzi przy wodospadzie i patrzy na kobietę,neutral
+Kobieta siedzi i patrzy na wodospad,Mężczyzna w szarej koszulce siedzi na skale przed wodospadem,neutral
+"Pies , który jest brązowy , i drugi czarny , ścigają się w trawie","Pies , który jest brązowy , i drugi czarny , biegają się w trawie",entailment
+Na podwórku bawi się czarny pies i jasnobrązowy pies,Na podwórku walczy czarny pies i jasnobrązowy pies,contradiction
+Światło podwórka płata figle w ciemności czarnemu i jasnobrązowemu psu,Na podwórku bawi się czarny pies i jasnobrązowy pies,entailment
+Światło podwórka płata figle w ciemności czarnemu i jasnobrązowemu psu,"Pies , który jest brązowy , i drugi czarny , biegają się w trawie",neutral
+"Pies , który jest brązowy , i drugi czarny , ścigają się w trawie",Na podwórku bawi się czarny pies i jasnobrązowy pies,neutral
+"Pies , który jest brązowy , i drugi czarny , biegają się w trawie",Na podwórku bawi się czarny pies i jasnobrązowy pies,neutral
+"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę","Pies , który ma białą i brązową sierść , biegnie się przez płytką wodę",entailment
+"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę",Brązowa i biała sierść pływa po płytkiej wodzie w pobliżu biegającego psa,neutral
+Biały i brązowy pies z trudem przechodzi przez wodę,Nie ma białego i brązowego psa z trudem przeprawiającego się przez wodę,contradiction
+Biały mężczyzna z trudem idzie psem po brązowej wodzie,Biały i brązowy pies z trudem przechodzi przez wodę,neutral
+Biały i brązowy pies z trudem przeprawia się przez wodę,"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę",neutral
+"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę",Nie ma białego i brązowego psa z trudem przeprawiającego się przez wodę,contradiction
+Biały mężczyzna z trudem idzie psem po brązowej wodzie,"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę",neutral
+"Pies , który ma białą i brązową sierść , biegnie się przez płytką wodę",Biały i brązowy pies z trudem przechodzi przez wodę,neutral
+"Pies , który ma brązową i białą sierść siedzi w płytkiej wodzie",Biały i brązowy pies z trudem przechodzi przez wodę,neutral
+Biały i brązowy pies z trudem przechodzi przez wodę,Brązowa i biała sierść pływa po płytkiej wodzie w pobliżu biegającego psa,neutral
+Biały i brązowy pies z trudem przechodzi przez wodę,"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę",contradiction
+Grupa chłopców bawi się piłką przed dużymi drzwiami wykonanymi z drewna,Chłopcy bawią się piłką przed dużymi drzwiami wykonanymi z drewna,entailment
+Grupa chłopców bawi się piłką przed dużymi drzwiami wykonanymi z drewna,Przez drzwi przed dużą grupą chłopców gra się drewnianą piłką,neutral
+Dzieci bawią się przed bardzo dużymi drzwiami,Dzieci bawią się przed dużymi drzwiami,entailment
+Dzieci nie bawią się przed dużymi drzwiami,Dzieci bawią się przed dużymi drzwiami,contradiction
+Grupa chłopców bawi się piłką przed dużymi drzwiami wykonanymi z drewna,Dzieci bawią się przed bardzo dużymi drzwiami,entailment
+Dzieci bawią się przed dużymi drzwiami,Przez drzwi przed dużą grupą chłopców gra się drewnianą piłką,neutral
+Grupa chłopców bawi się piłką przed dużymi drzwiami wykonanymi z drewna,Dzieci bawią się przed dużymi drzwiami,entailment
+"Kobieta zdejmuje płaszcz , który jest bardzo duży , odsłaniając ekstrawagancką sukienkę","Kobieta zdejmuje płaszcz , który jest bardzo duży , odsłaniając ekstrawagancką odzież",entailment
+"Kobieta nosi czarną , czerwoną , białą i różową sukienkę","Kobieta nosi sukienkę , która jest czarna , czerwona , biała i różowa",entailment
+"Kobieta nie nosi czarnej , czerwonej , białej i różowej sukienki","Kobieta nosi czarną , czerwoną , białą i różową sukienkę",contradiction
+"Kobieta nosi sukienkę , która jest czarna , czerwona , biała i różowa","Kobieta zdejmuje płaszcz , który jest bardzo duży , odsłaniając ekstrawagancką sukienkę",neutral
+Nastoletnia dziewczynka ma na sobie czerwone koraliki,"Nastoletnia dziewczynka ma na sobie koraliki , które są czerwone",entailment
+"Młoda dama o jasnobrązowych włosach ma na sobie czerwony naszyjnik , bluzę i kolczyki , i uśmiecha się","Nastoletnia dziewczynka ma na sobie koraliki , które są czerwone",entailment
+Chłopiec wspina się na sztuczną ścianę do wspinaczki i jest przymocowany do liny,Chłopiec bez wysiłku wspina się po sztucznej ścianie do wspinaczki i jest przymocowany do liny,neutral
+Chłopiec wspina się na sztuczną ścianę do wspinaczki i jest przymocowany do liny,Chłopiec schodzi po sztucznej ścianie do wspinaczki i nie jest przymocowany do liny,contradiction
+Bojaźliwy mały chłopiec jest na ścianie wspinaczkowej,"Chłopiec , który wygląda bojaźliwie , jest na ścianie wspinaczkowej",entailment
+Jeden mężczyzna wspina się po klifie za pomocą liny,Jeden mężczyzna wspina się na klif za pomocą liny,entailment
+"Osoba wspina się na skałę za pomocą liny , która jest różowa","Na skałę wspina się osoba z liną , która jest różowa",entailment
+Chłopiec wspina się po skalnej ścianie,Młody chłopiec wspina się po skalnej ścianie,entailment
+Jeden mężczyzna robi sztuczkę z rowerem w powietrzu,Jeden mężczyzna robi rowerową sztuczkę w powietrzu,entailment
+Rowerzysta bez strachu wykonuje sztuczkę w powietrzu,Rowerzysta wykonuje sztuczkę w powietrzu,entailment
+Jeden mężczyzna robi sztuczkę z rowerem w powietrzu,Rowerzysta wykonuje sztuczkę w powietrzu,entailment
+Mężczyzna nie robi rowerowej sztucki w powietrzu,Rowerzysta wykonuje sztuczkę w powietrzu,contradiction
+Jeden mężczyzna robi rowerową sztuczkę w powietrzu,Rowerzysta wykonuje sztuczkę w powietrzu,entailment
+"Pies , który jest czarny i inny , który jest biały , ignorują się na ulicy","Pies , który jest czarny , i drugi biały , patrzą na siebie na ulicy",contradiction
+Mężczyzna i kobieta siedzą wygodnie na ławce,Dwie osoby siedzą wygodnie na ławce,entailment
+Mężczyzna i kobieta siedzą wygodnie na ławce,Nikt nie siedzi wygodnie na ławce,contradiction
+Jeden mężczyzna prowadzi w wyścigu,Mężczyzna prowadzi w wyścigu,entailment
+Kilku mężczyzn rywalizuje w zawodach biegowych na zewnątrz,Kilku mężczyzn rywalizuje w zawodach biegowych na świeżym powietrzu,entailment
+Przedmiot jest badany przez mężczyznę z kamerą,Mężczyzna z kamerą bada przedmiot,entailment
+Małżonkowie idą alejką,"Para , która właśnie się pobrała , idzie alejką",neutral
+"Para , która właśnie się pobrała , idzie alejką",Panna młoda i pan młody wychodzą po weselu,neutral
+Uczniowie wypełniają klasę,W klasie jest pełno uczniów,entailment
+W klasie jest pełno uczniów,Sale lekcyjne są puste,contradiction
+Prezentacja nie jest oglądana przez salę studentów,Prezentacja jest oglądana przez salę studentów,contradiction
+Prezentacja jest oglądana przez salę studentów,W klasie jest pełno uczniów,neutral
+Podekscytowany pies bawi się wodą na polu,Podekscytowany pies bawi się wodą w trawie,entailment
+Podekscytowany pies bawi się wodą w trawie,W trawie nie ma podekscytowanego psa bawiącego się wodą,contradiction
+Dwaj mężczyźni wyprowadzają dwa psy ze złotą sierścią na śnieg,Dwie osoby wyprowadzają dwa psy ze złotą sierścią na śnieg,entailment
+"Dwie osoby są w śniegu nie ubrane w ubrania , co zapewnia kamuflaż","Dwie osoby są na śniegu , ubrane w ubrania , które zapewniają kamuflaż",contradiction
+"Dziewczynka z Azji , przed ceglanym oknem , wygląda na zdziwioną","Dziewczynka z Azji , przed oknem z cegły , wygląda na zdziwioną",entailment
+"Dziewczynka z Azji , przed ceglanym oknem , nie wygląda na zaskoczoną","Dziewczynka z Azji , przed ceglanym oknem , wygląda na zdziwioną",contradiction
+Dziewczynka wygląda z zaskoczeniem z przedniej szyby domu w Azji,"Dziewczynka z Azji , przed ceglanym oknem , wygląda na zdziwioną",entailment
+Dziewczynka ma na sobie koszulkę i ma otwarte usta,Dziewczynka ma koszulkę i ma otwarte usta,entailment
+"Nie ma dziewczyny , która miałaby na sobie koszulkę i miała otwarte usta",Dziewczynka ma na sobie koszulkę i ma otwarte usta,contradiction
+Osoba na rowerze stoi stabilnie przed niektórymi górami,Przed górami stoi nieruchomo osoba na sprzęcie używanym do jazdy na rowerze,entailment
+Osoba na rowerze stoi stabilnie przed niektórymi górami,Przed górami nie stoją żadne osoby na sprzęcie rowerowym,contradiction
+Piłka nożna jest między stopami chłopca leżącego na trawie,Piłka nożna nie jest między stopami chłopca leżącego na trawie,contradiction
+Chłopiec na trawie leży i ukrywa piłkę nożną między stopami,Piłka nożna jest między stopami chłopca leżącego na trawie,entailment
+"Mężczyzna ze sprzętem wspinaczkowym wisi na skale , która jest pionowa i biała","Na białej , pionowej skale wisi mężczyzna z wyposażeniem do wspinaczki",entailment
+Czarno - biały pies radośnie biegnie po trawie,Pies z czarną sierścią i biały pies biegną po trawie,neutral
+Na trawie nie ma radośnie biegnącego psa,Czarno - biały pies radośnie biegnie po trawie,contradiction
+Biały pies i czarny pies radośnie biegają obok siebie po trawie,Jeden biały pies i jeden czarny biegną obok siebie po trawie,entailment
+Wiele osób znajduje się w parku łyżwiarskim,W parku łyżwiarskim nie ma zbyt wielu ludzi,contradiction
+Wiele osób jeździ na łyżwach w parku lodowym,Znajdujące się na zewnątrz lodowisko jest pełne ludzi,neutral
+Dziewczynka w niebieskim mundurze szybko podnosi rękę,Dziewczynka w niebieskim mundurze podnosi rękę,entailment
+Na brzegu znajduje się garstka chłopców,Na brzegu znajduje się grupa ludzi,entailment
+Na brzegu nie ma nikogo,Na brzegu znajduje się grupa ludzi,contradiction
+Ludzie są na plaży pełnej piasku nad oceanem i cieszą się dniem pełnym słońca,Na brzegu znajduje się grupa ludzi,entailment
+Ludzie są na plaży pełnej piasku nad oceanem i cieszą się słonecznym dniem,Na brzegu nie ma nikogo,contradiction
+Mężczyzna w niebieskim kombinezonie nie potrafi jeździć na jednym kole na motocyklu,Mężczyzna w niebieskim skafandrze odważnie jeździ na jednym kole na motocyklu,contradiction
+Kobieta jest całowana przez mężczyznę,Panna jest całowana przez mężczyznę,neutral
+Dwie osoby namiętnie całują się w tłumie,Dwie osoby całują się w pobliżu tłumu,neutral
+Młoda kobieta w barwionej czerwonej koszuli puszcza wielką bańkę mydlaną,Dziewczynka w czerwonej koszuli dmucha balonik,contradiction
+Dziewczynka w czerwonej koszuli dmucha balonik,"Dziewczynka w czerwonej , barwionej koszuli nie puszcza bańki mydlanej",neutral
+"Młoda dziewczyna puszcza bańkę mydlaną , która jest ogromna","Dziewczyna , która jest młoda , puszcza ogromną bańkę mydlaną",entailment
+Młoda kobieta w barwionej czerwonej koszuli puszcza wielką bańkę mydlaną,"Młoda dziewczyna puszcza bańkę mydlaną , która jest ogromna",entailment
+Małe dziecko ma na sobie buty z zielonej gumy i bawi się w kałuży pełnej błota,Małe dziecko ma na sobie zielone buty i bawi się w kałuży pełnej błota,entailment
+Chłopiec skacze do kałuży na ulicy,Chłopiec skacze do kałuży na drodze,entailment
+Dwoje młodych dzieciaków je corndogi,Dwoje młodych dzieci pości,contradiction
+Pozujący mężczyzna jest obserwowany przez innego mężczyznę,Nie ma człowieka w pozie obserwowanego przez innego człowieka,contradiction
+Mężczyzna pozuje by być oglądanym przez innego mężczyznę,Pozujący mężczyzna jest obserwowany przez innego mężczyznę,entailment
+"Mężczyzna w koszuli barwionej na fioletowo patrzy na mężczyznę w czarnej koszuli , który robi śmieszną minę",Pozujący mężczyzna jest z rozbawieniem obserwowany przez innego mężczyznę,entailment
+"Mężczyzna w koszuli barwionej na fioletowo patrzy na mężczyznę w czarnej koszuli , który robi śmiesznie wyglądającą minę",Pozujący mężczyzna jest obserwowany przez innego mężczyznę,entailment
+"Mężczyzna w koszuli barwionej na fioletowo patrzy na mężczyznę w czarnej koszuli , który robi śmieszną minę",Pozujący mężczyzna jest obserwowany przez innego mężczyznę,entailment
+Nie ma konia podrzucającego kowbojem w czerwonych i niebieskich spodnie,Koń podrzuca kowboja noszącego spodnie w kolorze niebieskim i czerwonym,contradiction
+Mężczyzna gwałtownie spada z konia na ścieżce prowadzącej przez dzicz,Mężczyzna spada z konia na ścieżkę i kładzie się w dziczy,entailment
+Mężczyzna spada z konia na ścieżkę i kładzie się w dziczy,Mężczyzna wsiada na konia na ścieżce prowadzącej przez dzicz,contradiction
+Dorosły jest w amfiteatrze i przeprowadza poważną rozmowę z chłopcem,Dorosły jest w amfiteatrze i rozmawia z chłopcem,entailment
+"Mężczyzna i chłopiec stoją na dole schodów , na zewnątrz","Mężczyzna i chłopiec stoją na szczycie schodów , które są na zewnątrz",contradiction
+Chłopiec w czerwonej koszuli jest naprzeciwko długiej niebieskiej ściany i podejrzliwie podnosi brew przed kamerą,"Chłopiec w czerwonej koszuli jest naprzeciwko ściany , która jest długa i niebieska , i podejrzliwie podnosi brew przed kamerą",entailment
+"Chłopiec stoi przed budynkiem pomalowanym na niebiesko , na miejscu zarezerwowanym dla osób niepełnosprawnych",Chłopiec stoi przed niebieskim budynkiem w przestrzeni zarezerwowanej dla osób niepełnosprawnych,entailment
+Kilka koni wściekle ściga się na zielonej trawie i przeskakuje przez przeszkodę,Niektóre konie ścigają się wściekle po zielonej trawie i przeskakują przez przeszkodę,entailment
+Stara kobieta ma na sobie różową koszulę i nieporadnie nosi dwie gazety,Stara kobieta ma na sobie koszulę z różanym wzorem i nieporadnie nosi dwie gazety,contradiction
+Stara kobieta jest półnaga i niezgrabnie upuszcza dwie gazety,Stara kobieta ma na sobie różową koszulę i nieporadnie nosi dwie gazety,contradiction
+Jedna osoba uprawiająca snowboard wyskakuje w powietrze,Osoba uprawiająca snowboard wyskakuje w powietrze,entailment
+Snowboardzista przeskakuje bez strachu nad białym śniegiem,Snowboardzista przeskakuje nad białym śniegiem,entailment
+Snowboardzista nie przeskakuje nad białym śniegiem,Snowboardzista przeskakuje nad białym śniegiem,contradiction
+Snowboardzista przeskakuje nad białym śniegiem,Jedna osoba uprawiająca snowboard wyskakuje w powietrze,entailment
+Osoba jedzie motocyklem na piaszczystym torze,Osoba jedzie motocyklem po torze na piasku,entailment
+Osoba nie jedzie na motocyklu na piaszczystym torze,Osoba jedzie motocyklem na piaszczystym torze,contradiction
+Osoba jedzie na motocyklu podczas imprezy związanej z motocrossem,"W zawodach związanych z motocrossem nie ma nikogo , kto jeździłby na motocyklu",contradiction
+Różowa koszula z białym napisem noszona jest przez leżącą w trawie dziewczynę,Dziewczynka ma na sobie różową koszulę z białym napisem i leży w trawie,entailment
+Młoda dziewczyna z koszulą barwioną na różowo spokojnie leży na trawie,Młoda dziewczyna z różową koszulą spokojnie leży na trawie,entailment
+"Młoda , spokojna dziewczyna leży na trawie w różowej koszuli",Młoda dziewczyna z różową koszulą spokojnie leży na trawie,entailment
+"Pies , który jest duży i szary , z trudem nosi piłkę w pysku i biegnie po trawie","Pies , który jest duży i szary , nosi piłkę w pysku i biegnie po trawie",entailment
+Kobieta jedzie na brązowym koniu,Kobieta jedzie na koniu,entailment
+"Mężczyzna otwiera małą paczkę , w której znajdują się słuchawki","Mężczyzna otwiera opakowanie , które zawiera słuchawki",entailment
+"Mężczyzna otwiera opakowanie , które zawiera słuchawki","Mężczyzna otwiera opakowanie , które nie zawiera słuchawek",contradiction
+Nie ma mężczyzny śpiewającego i grającego na gitarze,Mężczyzna śpiewa i gra na gitarze,contradiction
+Pies jedzie na deskorolce,Zwierzę jedzie na deskorolce,entailment
+Żółw morski poluje na ryby,Żółw morski poluje na pokarm,entailment
+Żółw morski nie poluje na ryby,Żółw morski poluje na ryby,contradiction
+Żółw podąża za rybą,Żółw nie podąża za rybą,contradiction
+Żółw podąża za rybą,Ryby podążają za żółwem,contradiction
+Mężczyzna prowadzi samochód,Samochód jest prowadzony przez mężczyznę,entailment
+"Nie ma mężczyzny , który prowadziłby samochód",Mężczyzna prowadzi samochód,contradiction
+Kobieta zanurza krewetki w cieście,Kobieta zanurza krewetkę w cieście,entailment
+Nie ma kobiety zanurzającej krewetkę w cieście,Kobieta zanurza krewetkę w cieście,contradiction
+Mężczyzna gra na gitarze pod oknami,Mężczyzna gra na gitarze,entailment
+Mężczyzna gra na fortepianie na koncercie,Mężczyzna gra na fortepianie,entailment
+Mężczyzna gra na fortepianie,Nie ma mężczyzny grającego na fortepianie,contradiction
+Kobieta usuwa składniki z miski,Kobieta dodaje składniki do miski,contradiction
+Kobieta wbija jajka do miski,Kobieta wbija jajka do pojemnika,entailment
+Kobieta szatkuje marchewkę,Marchew jest krojona przez kobietę,entailment
+Kobieta kroi ziemniaka w plasterki,Kobieta tnie ziemniaka,entailment
+Kobieta nie gotuje krewetek,Kobieta gotuje krewetki,contradiction
+Mężczyzna i kobieta idą razem przez zalesione miejsca,Mężczyzna i kobieta idą razem przez las,entailment
+Mężczyzna przemawia na scenie,Na scenie nie przemawia żaden mężczyzna,contradiction
+Dwóch przestraszonych chłopców rozmawia przez telefon,Dwóch chłopców rozmawia przez telefon,entailment
+Dwóch chłopców rozmawia przez telefon,Dwóch chłopców nie rozmawia przez telefon,contradiction
+W bagnie nie brodzi żadna małpa,Małpa błąka się przez bagno,contradiction
+Mała małpa idzie po rzece,Mała małpa idzie po wodzie,nieutralność.
+Mała małpa idzie po wodzie,Małpa nie chodzi po wodzie,contradiction
+Małpa błąka się przez bagno,Małpa nie chodzi po wodzie,neutral
+Mężczyzna kroi bułkę,Mężczyzna przecina bułkę,entailment
+Mężczyzna kroi bułkę,"Nie ma mężczyzny , który kroiłby bułkę",contradiction
+Mężczyzna kroi czerwony pomidor na plasterki,Mężczyzna kroi pomidor na plasterki,entailment
+Kobieta tańczy i śpiewa w deszczu,Kobieta występuje w deszczu,entailment
+Kobieta tańczy i śpiewa w deszczu,Nie ma kobiety tańczącej i śpiewającej w deszczu,contradiction
+Niektóre kobiety tańczą i śpiewają,Kobieta tańczy i śpiewa z innymi kobietami,neutral
+Kobieta obiera ziemniaka,Nie ma kobiety obierającej ziemniaka,contradiction
+Kobieta kroi pomidor,Nie ma kobiety krojącej pomidor,contradiction
+Nie ma kobiety mieszającej jaja,Kobieta miksuje jaja,contradiction
+Głodna kobieta je,Kobieta je,entailment
+Zespół występuje na scenie,Zespół gra na scenie,entailment
+Zespół nie występuje na scenie,Zespół występuje na scenie,contradiction
+Zespół występuje na estradzie,Zespół gra na estradzie,entailment
+Zespół gra na estradzie,Nie ma żadnego występującego zespołu,contradiction
+Zespół występuje na estradzie,Zespół występuje na scenie,entailment
+Zespół występuje na scenie,Nie ma żadnego występującego zespołu,contradiction
+Zespół nie występuje na scenie,Zespół gra na estradzie,contradiction
+Mężczyzna kosi trawnik,Mężczyzna nie kosi trawnika,contradiction
+Mężczyzna siedzi,Mężczyzna tańczy,neutral
+Nie ma mężczyzny idącego na zewnątrz,Mężczyzna idzie na świeżym powietrzu,contradiction
+Nie ma kota kołyszącego się na wentylatorze,Kot kołysze się na wentylatorze,contradiction
+"Kot utknął na wentylatorze sufitowym , który się porusza",Kot utknął na poruszającym się wentylatorze sufitowym,entailment
+Mężczyzna gra muzykę na flecie,Mężczyzna gra na flecie,entailment
+Mężczyzna gra w piłkę nożną,Mężczyzna gra w grę z piłką,entailment
+Nie ma mężczyzny grającego w piłkę nożną,Mężczyzna gra w piłkę nożną,contradiction
+Mężczyzna smaży tortillę,Mężczyzna smaży jedzenie,entailment
+Nie ma mężczyzny smażącego tortillę,Mężczyzna smaży tortillę,contradiction
+Osoba wykonuje sztuczkę karcianą,Nikt nie wykonuje sztuczki karcianej,contradiction
+Żaden człowiek nie został uderzony,Chłopiec tłucze mężczyznę mieczem,contradiction
+Chłopiec uderza mężczyznę plastikowym mieczem,Mężczyzna zostaje uderzony przez dziecko bronią,entailment
+Żaden człowiek nie został uderzony,Chłopiec uderza mężczyznę plastikowym mieczem,contradiction
+Chłopiec uderza mężczyznę plastikowym mieczem,Chłopiec tłucze mężczyznę mieczem,entailment
+Młoda dama mierzy kostkę innej kobiety,Kobieta mierzy kostkę innej kobiety,entailment
+Kobieta nie mierzy kostki innej kobiety,Kobieta mierzy kostkę innej kobiety,contradiction
+Młoda dama mierzy kostkę innej kobiety,Kobieta mierzy drugą kobietę,entailment
+Kobieta mierzy kostkę innej kobiety,Kobieta mierzy drugą kobietę,neutral
+Mężczyzna rozmawia przez telefon,Mężczyzna wykonuje rozmowę telefoniczą,entailment
+Mężczyzna rozmawia przez telefon,Mężczyzna dzwoni na telefon komórkowy,neutral
+Nie ma mężczyzny wykonującego rozmowę telefoniczną,Mężczyzna dzwoni na telefon komórkowy,contradiction
+Mężczyzna dzwoni na telefon komórkowy,Mężczyzna wykonuje rozmowę telefoniczą,entailment
+Słodki szczeniaczek wielokrotnie przewraca się z boku na bok na plecach,Szczeniak wielokrotnie przewraca się z boku na bok na plecach,entailment
+Słodki szczeniaczek wielokrotnie przewraca się z boku na bok na plecach,Pies przewraca się z boku na bok,entailment
+Nie ma psa przewracającego się z boku na bok,Szczeniak wielokrotnie przewraca się z boku na bok na plecach,contradiction
+Szczeniak wielokrotnie przewraca się z boku na bok na plecach,Pies przewraca się z boku na bok,entailment
+Maszyna ostrzy koniec ołówka,Ołówek jest ostrzony przez maszynę,entailment
+Ołówek jest ostrzony przez maszynę,Maszyna ostrzy ołówek,entailment
+Maszyna nie ostrzy ołówka,Maszyna ostrzy ołówek,contradiction
+Maszyna ostrzy koniec ołówka,Ołówek jest ostrzony,entailment
+Maszyna ostrzy ołówek,Maszyna ostrzy koniec ołówka,entailment
+Mężczyzna gra na keyboardzie w parku,Mężczyzna gra na keyboardzie,entailment
+Pianista gra na keyboardzie,Osoba gra na keyboardzie,entailment
+Osoba nie gra na keyboardzie,Osoba gra na keyboardzie,contradiction
+Mężczyzna gra na keyboardzie,Osoba gra na keyboardzie,entailment
+Mężczyzna opłukuje duży stek,Mężczyzna nie opłukuje dużego steka,contradiction
+Osoba opłukuje stek wodą,Mężczyzna nie opłukuje dużego steka,contradiction
+Smutny mężczyzna płacze,Mężczyzna płacze,entailment
+Nie ma krzyczącego mężczyzny,Mężczyzna krzyczy,contradiction
+Kobieta nie kroi krewetek,Kobieta kroi krewetki,contradiction
+Mężczyźni piłują belki,Mężczyźni piłują,entailment
+Mężczyźni tną drewno,Niektórzy mężczyźni piłują,neutral
+Mężczyźni piłują belki,Niektórzy mężczyźni piłują,entailment
+Kobieta sieka czerwoną cebulę,Kobieta sieka cebulę,entailment
+Kobieta sieka cebulę,Kobieta nie sieka cebuli,contradiction
+Nie ma mężczyzny grającego na keyboardzie,Mężczyzna gra na keyboardzie,contradiction
+Mężczyzna pluje na ziemię,Mężczyzna pluje,entailment
+Mężczyzna pluje,Nie ma plujących mężczyzn,contradiction
+Mężczyzna rozmawia w radiu,Mężczyzna mówi,entailment
+Kobieta kroi mięso ostrym nożem,Kobieta kroi mięso nożem,entailment
+Kobieta kroi mięso nożem,Nie ma kobiety krojącej mięso nożem,contradiction
+Szczęśliwe dziecko śmieje się,Dziecko śmieje się,entailment
+Mężczyzna ćwiczy,Mężczyzna uprawia aktywność fizyczną,entailment
+"Trzech młodych mężczyzn wściekle biega , skacze i kopie w pobliżu automatu sprzedającego","Trzech młodych mężczyzn biega , skacze i kopie w pobliżu automatu sprzedającego",entailment
+Jeleń skacze przez ogrodzenie z siatki,Jeleń skacze przez mur,contradiction
+Jeleń skacze przez niskie ogrodzenie,Jeleń skacze przez ogrodzenie,entailment
+Jeleń skacze przez ogrodzenie,Jeleń nie skacze przez płot,contradiction
+Mężczyzna nie miesza oleju,Mężczyzna miesza olej,contradiction
+Mężczyzna gra na gitarze,Nie ma mężczyzny grającego na gitarze,contradiction
+Mężczyzna uderza w struny gitary,Mężczyzna używa gitary do grania,entailment
+Nie ma mężczyzny grającego na gitarze,Mężczyzna gra na gitarze,contradiction
+Trzech chłopców ma sparing w uniformach karate,Trzech chłopców w kostiumach karate walczy,entailment
+Kobieta kroi brokuły,Kobieta kroi warzywa,entailment
+Biały koń stoi,Koń stoi,entailment
+Kot gra na keyboardzie,Nie ma kota grającego na keyboardzie,contradiction
+Nie ma występujących mimów,Mimy występują na scenie,contradiction
+Mężczyzna niesie drzewo,Mężczyzna niesie roślinę,entailment
+Drzewo jest podnoszone przez mężczyznę,Mężczyzna niesie drzewo,entailment
+Mężczyzna podnosi drzewo,Mężczyzna niesie drzewo,neutral
+Trąbka jest grana przez osobę,Człowiek gra na trąbce,entailment
+Osoba przestaje grać na trąbce,Człowiek gra na trąbce,contradiction
+Borsuk zakopuje dziurę,Dziura jest zakopywana przez borsuka,entailment
+Borsuk nie zakopuje dziury,Borsuk zakopuje dziurę,contradiction
+"Nie ma sprytnego borsuka , który kopie ziemię",Borsuk sprytnie kopie ziemię,contradiction
+Borsuk zakopuje dziurę,"Nie ma sprytnego borsuka , który kopie ziemię",contradiction
+Szef kuchni ostrożnie wyciera oliwę z patelni,Szef kuchni ostrożnie wlewa trochę oleju na patelnię,contradiction
+Mężczyzna pisze na maszynie stenograficznej,Mężczyzna nie operuje stenografem,contradiction
+Mężczyzna nie karmi ostrożnie węża myszą,Mężczyzna ostrożnie karmi węża myszą,contradiction
+Do samochodu nie wskakuje żadna dziewczyna,Jedna dziewczynka skacze na samochód,contradiction
+Jedna kobieta obiera ziemniaka,Nie ma kobiety obierającej ziemniaka,contradiction
+Mężczyzna nie polewa pomidorów olejem,Mężczyzna polewa kilka pomidorów olejem,contradiction
+"Nie ma mężczyzny , który nalałby olej na pomidory",Mężczyzna polewa pomidory oliwą,contradiction
+Mężczyzna polewa kilka pomidorów olejem,"Nie ma mężczyzny , który nalałby olej na pomidory",contradiction
+Plastikowy pojemnik jest opróżniany przez mężczyznę,Mężczyzna napełnia zbiornik z tworzywa sztucznego,contradiction
+Mężczyzna kroi cebulę w plastry,"Nie ma mężczyzny , który kroiłby cebulę w plastry",contradiction
+Mężczyzna kroi cebulę w plastry,Żadna cebula nie jest krojona przez mężczyznę,contradiction
+"Nie ma mężczyzny , który kroiłby cebulę w plastry",Cebula jest szatkowana przez mężczyznę,contradiction
+Słoń jest dosiadany przez kobietę,Słoń nie jest dosiadany przez kobietę,contradiction
+Ktoś podaje zwierzęciu jedzenie,Nikt nie karmi zwierzęcia,contradiction
+Na fortepianie nikt nie gra,Na fortepianie ktoś gra,contradiction
+Mężczyzna naciska przyciski na mikrofalówce,"Nie ma mężczyzny , który naciska przyciski na mikrofalówce",contradiction
+Nie ma kobiety grającej na flecie,Jedna kobieta gra na flecie,contradiction
+Na fortepianie gra mężczyzna,Na fortepianie nie gra mężczyzna,contradiction
+Żaden lew nie chodzi zmęczony po zagrodzie,Lew stąpa ze zmęczeniem po zagrodzie,contradiction
+Żaden lew nie chodzi,Lew idzie powoli,contradiction
+Lew stąpa ze zmęczeniem po zagrodzie,Żaden lew nie chodzi,contradiction
+Na flecie gra mężczyzna,Na flecie nie gra mężczyzna,contradiction
+Żaden mężczyzna nie gra głośno na gitarze,Mężczyzna głośno gra na gitarze,contradiction
+Nie ma kucharza krojącego papryki dzwonkowe,Kucharz kroi papryki dzwonkowe,contradiction
+Na krześle nie siedzi żaden mężczyzna,Mężczyzna siedzi na krześle,contradiction
+Mężczyzna nie rozsmarowuje masła na chlebie,"Mężczyzna rozsmarowuje masło na kromkę chleba , która jest duża",contradiction
+Papuga mówi do mikrofonu,Papuga milczy przed mikrofonem,contradiction
+Mówi papuga,Żadna papuga nie mówi,contradiction
+Mężczyzna odkłada gitarę,Mężczyzna z pasją gra na gitarze,contradiction
+Mężczyzna z pasją gra na gitarze,Nie ma osoby śpiewającej i grającej na gitarze,contradiction
+Nikt nie gra w ping pong,Dwie osoby grają w ping pong,contradiction
+Mężczyzna jedzie samochodem,Mężczyzna nie jedzie samochodem,contradiction
+Krewetka gniewnie kopie cel,Żołnierz nie trafia do celu,neutral
+Kobieta nie wlewa oleju do patelni,Kobieta wlewa olej na patelnię,contradiction
+Kociak nie pije z chęcią mleka z miski,Kociak chętnie pije mleko z miski,contradiction
+Osoba gra na gitarze i śpiewa,Nikt nie gra na gitarze i nie śpiewa,contradiction
+"Kobieta gra na gitarze , która jest akustyczna i śpiewa","Kobieta nie gra na gitarze , która jest akustyczna , ani nie śpiewa",contradiction
+Osoba nie ćwiczy na gitarze,Osoba ćwiczy na gitarze,contradiction
+Nie ma kota bawiącego się urządzeniem,Urządzeniem bawi się kot,contradiction
+Kobieta kroi trochę mięsa,"Nie ma kobiety , która kroi mięso",contradiction
+Chłopiec w wieku młodzieńczym nie rozmawia z dziewczyną z kamerą internetową,Nastolatek rozmawia z dziewczyną z kamerą internetową,contradiction
+Nie ma dziecka bawiącego się z psem,Dziecko bawi się z psem,contradiction
+Nie ma kobiety obierającej ziemniaka,Kobieta obiera ziemniaka,contradiction
+Mężczyzna nie kroi ziemniaków,Mężczyzna kroi ziemniaki,contradiction
+Ludzie nie grają w krykieta,Ludzie grają się w krykieta,contradiction
+Kilka mężczyzn gra w krykieta,Ludzie nie grają w krykieta,contradiction
+Mężczyzna jest strącany z konia,Mężczyzna nie jest strącany z konia,contradiction
+Nie ma kobiety stukającej palcami,Kobieta stuka palcami,contradiction
+Mężczyzna je płatki sniadanowe,Nie ma mężczyzny jedzącego płatki do mleka,contradiction
+Mężczyzna nie gra na flecie,Flet jest używany przez mężczyznę do grania,contradiction
+"Nie ma kobiety , dodjącej przyprawy do mięsa",Kobieta dodaje przyprawy do mięsa,contradiction
+Kobieta dodaje cukier do mięsa,Kobieta nie dodaje cukru do mięsa,contradiction
+Kot bawi się arbuzem,Nie ma kota bawiącego się arbuzem,contradiction
+Arbuzem bawi się kot,Kot nie bawi się arbuzem,contradiction
+Nie ma chłopca grającego na gitarze,Chłopiec gra na gitarze,contradiction
+Mężczyzna przybija gwóźdź kamerą,Mężczyzna nie przybija gwoździa kamerą,contradiction
+Osoba kroi cebulę,"Nie ma osoby , która kroiłaby cebulę",contradiction
+Kobieta szatkuje marchewkę,"Nie ma kobiety , która kroi marchewkę w plastry",contradiction
+Nie ma osoby włączającej kamery,Osoba włącza kamery,contradiction
+Mężczyzna nie gra na gitarze akustycznej,Mężczyzna gra na gitarze akustycznej,contradiction
+"Nie ma osoby , która kroiłaby marchew na kawałki",Osoba kroi marchew na kawałki,contradiction
+Ziemniak jest krojony przez mężczynę,Mężczyzna nie kroi ziemniaka,contradiction
+"Nie ma nikogo , kto kroiłby pomidor",Ktoś tnie pomidora,contradiction
+Biegacze rywalizują w wyścigu,Biegowcy nie biorą udziału w wyścigu,contradiction
+Biegacze ścigają się na torze,Biegacze nie ścigają się na torze,contradiction
+Mężczyzna gra na fortepianie nosem,Nie ma mężczyzny grającego na fortepianie nosem,contradiction
+Przez miasto nie przejeżdża żaden mężczyzna na motocyklu,Mężczyzna jedzie na motocyklu przez miasto,contradiction
+Mężczyzna gra na gitarze,Mężczyzna nie gra na gitarze,contradiction
+Mężczyzna przemawia,Mężczyzna milczy,contradiction
+Kobieta tańczy w klatce,W klatce nie tańczy żadna kobieta,contradiction
+Ludzie nie płyną i nie wisłują na tratwie,Ludzie płyną i wiosłują na tratwie,contradiction
+Ludzie płyną i wiosłują na tratwie,Nikt nie pływa na tratwie,contradiction
+Na scenie nie ma żadnej dziewczynki grającej na fortepianie,Mała dziewczynka gra na scenie na fortepianie,contradiction
+Tańczy mężczyzna,Mężczyzna nie tańczy,contradiction
+Mężczyzna gra na flecie,Mężczyzna nie gra na flecie,contradiction
+Człowiek kroi niektóre grzyby,"Nie ma osoby , która kroiłaby jakieś grzyby",contradiction

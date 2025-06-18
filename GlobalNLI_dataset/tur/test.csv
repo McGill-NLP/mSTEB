@@ -1,0 +1,601 @@
+premise,hypothesis,label
+"Pekala, bunu hiç düşünmemiştim ancak kafam çok karıştı ve onunla tekrar konuşmadım.",Onunla bir daha konuşmadım.,2
+"Pekala, bunu hiç düşünmemiştim ancak kafam çok karıştı ve onunla tekrar konuşmadım.",O kadar çok üzgündüm ki onunla tekrar konuşmaya başladım.,0
+"Pekala, bunu hiç düşünmemiştim ancak kafam çok karıştı ve onunla tekrar konuşmadım.",Harika bir konuşma yaptık.,1
+Sonunda tanışmam için bir adam tarafından çağrılmamı söylediler.,Bana herhangi birisiyle görüşme konusunda hiç bir şey söylenmedi.,2
+Sonunda tanışmam için bir adam tarafından çağrılmamı söylediler.,Tanışmam için bana bir adamın çağrılıcağı söylendi.,0
+Sonunda tanışmam için bir adam tarafından çağrılmamı söylediler.,Adam biraz geç teşrif etti.,1
+Bu konu hakkında söyleyebileceğin çok şey var pas geçiyorum.,O konuda bildiğim her şeyi sana anlatmak istiyorum.,2
+Bu konu hakkında söyleyebileceğin çok şey var pas geçiyorum.,Kapsanacak çok şey olmasına rağmen bundan bahsetmeyeceğim.,0
+Bu konu hakkında söyleyebileceğin çok şey var pas geçiyorum.,Şehrin tarihinden bahsetmeyeceğim çünkü söylenecek çok bir şey yok.,1
+Neden olduğunu gerçekten bilmiyorum.,Sebebinden eminim.,2
+Neden olduğunu gerçekten bilmiyorum.,Okullardan neden nakil olduğunu bilmiyorum.,1
+Neden olduğunu gerçekten bilmiyorum.,Bunun neden olduğunu bilmiyorum.,0
+Minyatür irtifa odalarındaki test için regülatörleri çalıştıran tek kişi bendim.,Testler için düzenleyicileri yöneten tek kişi olmayı sevmedim.,1
+Minyatür irtifa odalarındaki test için regülatörleri çalıştıran tek kişi bendim.,Testler minyatür irtifa odalarında yapıldı.,0
+Minyatür irtifa odalarındaki test için regülatörleri çalıştıran tek kişi bendim.,Test için düzenleyicileri yöneten birkaç kişi vardı.,2
+Rick’ in söylediği gibi ben Şef Master Sergeant emekli oldum.,Bugün bile çalışıyorum.,2
+Rick’ in söylediği gibi ben Şef Master Sergeant emekli oldum.,Ben 2002 yılında emekli oldum.,1
+Rick’ in söylediği gibi ben Şef Master Sergeant emekli oldum.,Rick size emekli olduğumu söyledi.,0
+"Masamda bazı nakit akışı projeksiyonları var ve bu da Cutty için, müşterinin adı.",Cutty adlı müşteri ayda 10000$ kazanıyor.,1
+"Masamda bazı nakit akışı projeksiyonları var ve bu da Cutty için, müşterinin adı.",Adı Cutty olan bir müşteri var.,0
+"Masamda bazı nakit akışı projeksiyonları var ve bu da Cutty için, müşterinin adı.",Cutty adlı bir müşterimiz yok.,2
+Bana yardım edebilecek olan kız şehrin diğer ucunda.,Yardımına ihtiyacım olan kız uzak bir mesafede yaşıyor.,0
+Bana yardım edebilecek olan kız şehrin diğer ucunda.,Bana yardım edecek olan kız 5 mil mesafede.,1
+Bana yardım edebilecek olan kız şehrin diğer ucunda.,Bana yardım edebilecek hiç kimse yok.,2
+"Ama onlar, tarla çocukları ve ev çocukları olarak bölündüler, bir çeşit ...",Kendi alanlarında çalışmaya hepsi hem fikir oldu.,2
+"Ama onlar, tarla çocukları ve ev çocukları olarak bölündüler, bir çeşit ...",Kimin tarla işçisi ve kimin evin sahibi olduğu konusunda anlaşamadılar.,0
+"Ama onlar, tarla çocukları ve ev çocukları olarak bölündüler, bir çeşit ...",Kimin pamuk tarlasında kimin yer paspasında çalışması gerektiği konusunda hem fikir olamadılar.,1
+"Demek istediğim, sadece beş çocuğu vardı, biri öldü.",Tüm çocukları kurtuldu.,2
+"Demek istediğim, sadece beş çocuğu vardı, biri öldü.",Beş çocuktan biri öldü.,0
+"Demek istediğim, sadece beş çocuğu vardı, biri öldü.",Ölen çocuk hastalıklı doğmuştu.,1
+Gözlerinde sadece gözyaşları olduğunu söyledi ve Joe'nun verandaya geldiğini söyledi.,Ona verandaya gelmesini söylediğinde gözleri yaşlıydı.,0
+Gözlerinde sadece gözyaşları olduğunu söyledi ve Joe'nun verandaya geldiğini söyledi.,Joe'yu verandadan attıktan sonra hızlıca gözyaşlarını sildi.,2
+Gözlerinde sadece gözyaşları olduğunu söyledi ve Joe'nun verandaya geldiğini söyledi.,Joe'yu gördüğüne o kadar mutlu oldu ki ağlamaya başladı.,1
+"Bir uçak alev alsa bile, ki neden yansın, radyasyonun sızması için kurşundan yapılan kısımların erimesi gerekir.",Radyasyon bir yangın sırasında da kapsanabilir.,1
+"Bir uçak alev alsa bile, ki neden yansın, radyasyonun sızması için kurşundan yapılan kısımların erimesi gerekir.",Uçak yandıktan sonra radyasyon bir aktarma parçasından sızacaktır.,0
+"Bir uçak alev alsa bile, ki neden yansın, radyasyonun sızması için kurşundan yapılan kısımların erimesi gerekir.",Bir yangın sırasında radyasyon dışarı sızmayacaktır.,2
+"Bu, ABD Hava Kuvvetleri'nden emekli olan Astsubay Kıdemli Başçavuş Clem Francis'tir.",Şef ABD Hava Kuvvetleri'nden emekli oldu.,0
+"Bu, ABD Hava Kuvvetleri'nden emekli olan Astsubay Kıdemli Başçavuş Clem Francis'tir.",Şef sadece birkaç hafta önce emekli oldu.,1
+"Bu, ABD Hava Kuvvetleri'nden emekli olan Astsubay Kıdemli Başçavuş Clem Francis'tir.",ABD Hava Kuvvetleri Şefi kariyerine daha bu hafta başladı.,2
+Bir haftada iki ya da üç uçağın vardığı yere ulaştı ve nereye uçtuklarını bilmiyordum.,Her hafta birden fazla hava aracı varıyor.,0
+Bir haftada iki ya da üç uçağın vardığı yere ulaştı ve nereye uçtuklarını bilmiyordum.,Artan uçak trafiği zahmetli.,1
+Bir haftada iki ya da üç uçağın vardığı yere ulaştı ve nereye uçtuklarını bilmiyordum.,Gelen hiçbir uçak yok.,2
+Tam baskı takımlarında eğitimlerini çoktan hazırlamışlardı ve tam baskı takımlarına giderseniz benim bir süremi aldı.,Tam basınçlı bir elbisenin kullanımı hakkındaki eğitimi tamamlamak üç aya kadar sürer.,1
+Tam baskı takımlarında eğitimlerini çoktan hazırlamışlardı ve tam baskı takımlarına giderseniz benim bir süremi aldı.,Tam basınçlı elbise kullanma eğitimi zaman alır.,0
+Tam baskı takımlarında eğitimlerini çoktan hazırlamışlardı ve tam baskı takımlarına giderseniz benim bir süremi aldı.,Günün sonuna kadar tam bir basınç elbisesi kullanmak için eğitilmiş olabilirdik.,2
+"Bomba ile içeri girme tehlikesi olmadığını söylemek istiyorum çünkü yere ne kadar sert vurursa vursun, patlamayacaktı.",Bomba pilot tarafından devre dışı bırakılmıştı.,1
+"Bomba ile içeri girme tehlikesi olmadığını söylemek istiyorum çünkü yere ne kadar sert vurursa vursun, patlamayacaktı.",Bombanın patlama şansı yok.,0
+"Bomba ile içeri girme tehlikesi olmadığını söylemek istiyorum çünkü yere ne kadar sert vurursa vursun, patlamayacaktı.",Büyük bir bomba patlama tehlikesi vardı.,2
+Ve ne yapmaya çalıştığım tam olarak nasıl görünüyor.,bunun sana nasıl göründüğünden emin değilim.,2
+Ve ne yapmaya çalıştığım tam olarak nasıl görünüyor.,Belli ki bunu yapmaya çalışıyorum.,0
+Ve ne yapmaya çalıştığım tam olarak nasıl görünüyor.,Projemi gelecek hafta içinde tamamlamaya çalışıyorum.,1
+"Ama yine de, hayvanlar her zaman, özellikle keçiler kaçıp kaybolurlardı",Keçiler ahırdan her gün kaçtı.,1
+"Ama yine de, hayvanlar her zaman, özellikle keçiler kaçıp kaybolurlardı",Keçiler sık sık kaçardı.,0
+"Ama yine de, hayvanlar her zaman, özellikle keçiler kaçıp kaybolurlardı",Keçiler güvende tutuldu.,2
+İçeri girdiğimizde kapılar kilitliydi.,Bütün kapılar açıktı.,2
+İçeri girdiğimizde kapılar kilitliydi.,Bizde anahtarlar vardı.,1
+İçeri girdiğimizde kapılar kilitliydi.,Kapılar kilitli olmasına rağmen içeri girdik.,0
+Bu yüzden toplamları almalı ve bunu böyle denemeli ve ifade etmeliydim.,Bunu anlamak için tek ihtiyacım olan şey toplamlar olduğu için kendime güveniyorum.,1
+Bu yüzden toplamları almalı ve bunu böyle denemeli ve ifade etmeliydim.,"Sadece toplamlarla ne yapacağım hakkında bir fikrim yok, lütfen bu karışıklığı anlamak için bana daha fazla ayrıntı verin.",2
+Bu yüzden toplamları almalı ve bunu böyle denemeli ve ifade etmeliydim.,Toplama göre hesaplayacağım.,0
+"ve bu, annelerin uyuşturucuya sahip olmasından kaynaklanıyor.",Anneler ilaç bağımlısı.,1
+"ve bu, annelerin uyuşturucuya sahip olmasından kaynaklanıyor.",Anneler herhangi bir ilaç reçetesine veya ilaca ödeme yapmaz.,2
+"ve bu, annelerin uyuşturucuya sahip olmasından kaynaklanıyor.",Anneler ilaç alır.,0
+evet çok güzel yağmur yağıyor,Yağmur umurumda değil.,1
+evet çok güzel yağmur yağıyor,Güzel ve yağmurlu.,0
+evet çok güzel yağmur yağıyor,"Bu, sonu gelmeden gün ışığı ile çok korkunçtur.",2
+oh insan hayatının değeri ve birisini rehabilite edip edemeyeceğiniz nedir,Bütün hayatlar rehabilitasyona ve ikinci şansa değer.,1
+oh insan hayatının değeri ve birisini rehabilite edip edemeyeceğiniz nedir,Hiçbir insan rehabilite olmayı hak etmiyor.,2
+oh insan hayatının değeri ve birisini rehabilite edip edemeyeceğiniz nedir,Hayat için değen rehabilitasyona aldırmadan.,0
+oh oğlum orada garip bir kablolama problemin var,Daha önce hiç bu çeşit bir kablo sorunu görmedim.,1
+oh oğlum orada garip bir kablolama problemin var,Kablolama sorun değil.,2
+oh oğlum orada garip bir kablolama problemin var,Bu garip elektrik tesisatının sebep olduğu bir sorun var.,0
+Çok eğlenceli gibi görünüyor evet ne kadar çok şeye izin verdikleri benim için çok şaşırtıcıdır.,Onların hiç hoş olmadıklarına hiç şaşırmadım.,2
+Çok eğlenceli gibi görünüyor evet ne kadar çok şeye izin verdikleri benim için çok şaşırtıcıdır.,Oraya yiyecek ve içecek götürmene izin verdiklerine şaşırdım.,1
+Çok eğlenceli gibi görünüyor evet ne kadar çok şeye izin verdikleri benim için çok şaşırtıcıdır.,Neyle kaçtıklarına şaşırdım.,0
+oh ama yine de neyse benim çocuklarım şimdi yirmi bir ve yirmi dört yaşında yani ben yapmak zorunda değilim,Ben zorunda değilim çünkü çocuklarım yirmi yaşından büyükler.,0
+oh ama yine de neyse benim çocuklarım şimdi yirmi bir ve yirmi dört yaşında yani ben yapmak zorunda değilim,Yaşları yakın olduğu için öyle yapmam gerekebilir.,1
+oh ama yine de neyse benim çocuklarım şimdi yirmi bir ve yirmi dört yaşında yani ben yapmak zorunda değilim,On ve on bir yaşında olduğu için yapmalıyım.,2
+"evet, herhangi bir zamanda iş yerinde olabilecek veya karar vermeleri durumunda kararları verilebilecek kişiler","Evet, en iyi kanaate dayalı kararları veremeyebilen insanlar.",0
+"evet, herhangi bir zamanda iş yerinde olabilecek veya karar vermeleri durumunda kararları verilebilecek kişiler","Evet, aç olma ihtimali olmayan insanlar.",1
+"evet, herhangi bir zamanda iş yerinde olabilecek veya karar vermeleri durumunda kararları verilebilecek kişiler","Evet, karar verme yetileri hiç bozulmamış insanlar.",2
+hayır hala turdalar hala altmışların sonlarından beri turluyorlar,1970 yılından beri geziyorlar.,0
+hayır hala turdalar hala altmışların sonlarından beri turluyorlar,Dolaşmayı severler.,1
+hayır hala turdalar hala altmışların sonlarından beri turluyorlar,Turu kısa bir süre önce bitirdiler.,2
+nasıl aerobik yaparsın,Aerobiği nasıl yaparsın açıklar mısın?,0
+nasıl aerobik yaparsın,Aerobikle ilgileniyorum çünkü biraz kardiyovasküler aktiviteye ihtiyacım var.,1
+nasıl aerobik yaparsın,Lütfen aerobikten bahsetmeyi kes.,2
+yani bu iyi bunu düşünmemiştim evet,"Bu, geçen hafta gözden çıkarttığım aptal bir fikir.",2
+yani bu iyi bunu düşünmemiştim evet,İyi bir noktaya değindin.,0
+yani bu iyi bunu düşünmemiştim evet,Bahsettiğiniz paradoks iyi bir nokta.,1
+günlük bakım  haftada iki kez buna kıdemli vatandaş günü bakımı diyorlar ama o kıdemli vatandaş merkezine gidiyor,Çocuk bakıcılığı sadece 5 yaşın altındaki çocuklar için her gün açıktır.,2
+günlük bakım  haftada iki kez buna kıdemli vatandaş günü bakımı diyorlar ama o kıdemli vatandaş merkezine gidiyor,Yaşlı vatandaşlar istiyorsa haftada iki kereden fazla gitmelerine izin veriyorlar.,1
+günlük bakım  haftada iki kez buna kıdemli vatandaş günü bakımı diyorlar ama o kıdemli vatandaş merkezine gidiyor,Gündüz bakım evi olduğunu söylüyorlar ama huzurevi deniyor.,0
+bu onların hedefiydi ah,Onların çok istedikleri şey bu.,0
+bu onların hedefiydi ah,Onların istedikleri hiçbir zaman bu olmadı.,2
+bu onların hedefiydi ah,Hedeflerine ulaştılar.,1
+silah kontrolü iki elin kullanılması anlamına gelir,Silahların yanlış ateşlenmesi vakalarının yarısı tek elle kullanımın sonucu.,1
+silah kontrolü iki elin kullanılması anlamına gelir,Silah kontrolünün en iyi ileri yolu her iki ayağı kullanmaktır.,2
+silah kontrolü iki elin kullanılması anlamına gelir,Silah kontrolü pratiği yapmak istiyorsan her iki elini kullan.,0
+ve ama aniden bir yerden geliyor nereden geldiğini bilmiyorum ama,Nereden geldiğini bilmiyorum ama hızlıdır.,0
+ve ama aniden bir yerden geliyor nereden geldiğini bilmiyorum ama,Hızlı geliyor ama nereden gelebileceğini biraz biliyorum.,1
+ve ama aniden bir yerden geliyor nereden geldiğini bilmiyorum ama,Yavaş yavaş geliyor ve tam olarak ne zaman geleceğini ben biliyorum.,2
+hayır aslında ben bile aşina değilim ben düşünmüyorum,Bunun hakkında çok şey bilmiyorum.,0
+hayır aslında ben bile aşina değilim ben düşünmüyorum,Gönül işlerinde bilgisizim.,1
+hayır aslında ben bile aşina değilim ben düşünmüyorum,Bu konuda yıllardır çalışıyorum.,2
+evet harikaydı onu biliyorsun,Bence onun muhteşem biri olduğunu biliyor.,1
+evet harikaydı onu biliyorsun,"Hayır, berbattı.",2
+evet harikaydı onu biliyorsun,Evet çok iyiydi.,0
+evet ya senin kullanacağın bir paspas almayı önerdi,Elektrik süpürgesi almayı önerdi.,2
+evet ya senin kullanacağın bir paspas almayı önerdi,Bir paspas bulmayı önerdi.,0
+evet ya senin kullanacağın bir paspas almayı önerdi,O kanı paspas ile temizlemek istedi.,1
+"Burada gerçekten çok kötü, evimizden yaklaşık üç blok ötede bir otoyol çekimimiz vardı.",Saldırı yaşadığım yerden en az 100 mil uzaktaydı.,2
+"Burada gerçekten çok kötü, evimizden yaklaşık üç blok ötede bir otoyol çekimimiz vardı.",Silahlı saldırı evime yakındı ve bundan dolayı dışarı çıkmaktan korkuyorum.,1
+"Burada gerçekten çok kötü, evimizden yaklaşık üç blok ötede bir otoyol çekimimiz vardı.","Evime yakın bir saldırı oldu, bu bölgede gerçekten iyi değil.",0
+hı hı evet doğru ama pek tutarlı değil,"Sana katılmıyorum, bu gayet tutarlı.",2
+hı hı evet doğru ama pek tutarlı değil,Sanırım tutarlılığı konusunda haklı olabilirsin.,1
+hı hı evet doğru ama pek tutarlı değil,Onun istikrarlı olmadığı konusunda haklısın.,0
+orada takılmaya çalışıyorum,Dayanmaya çalışıyorum.,0
+orada takılmaya çalışıyorum,Gerçekten elimden geleni yapıyorum.,1
+orada takılmaya çalışıyorum,Bırakacağım ve bir daha arkama bakmayacağım.,2
+Girişimizi teknolojik geleceğe taşıyoruz.,Bir teknoloji geleceği için gerekli olan öncülleri inşa ediyoruz.,0
+Girişimizi teknolojik geleceğe taşıyoruz.,"Transistörler kurduk, bu yüzden geleceğimiz Yapay Zeka ile yönetilecek.",1
+Girişimizi teknolojik geleceğe taşıyoruz.,Teknolojinin başarılı olmasını önlemek istiyoruz.,2
+"Örneğin, maksimum olarak tüm genler mora döner.","Maksimum olarak, genlerin sadece yarısı mor olabilir.",2
+"Örneğin, maksimum olarak tüm genler mora döner.",Genlerin renk değiştirmesi mümkündür.,0
+"Örneğin, maksimum olarak tüm genler mora döner.",Bazen genler de mavileşebilir.,1
+"Daniel Yamins keskin zekalı, genç bir matematikçidir.",Bay Yamins matematikte harikadır.,0
+"Daniel Yamins keskin zekalı, genç bir matematikçidir.",Bay Yamins'in odak noktası cebirsel geometridir.,1
+"Daniel Yamins keskin zekalı, genç bir matematikçidir.",Bay Yamins harika bir sanatçı ama çok kötü bir matematikçi.,2
+"Ve eğer öyleyse, çoğu zaman bu sınırın yakınındalar mı?",Sınırın yakınında hiç seyahat etmediklerini biliyorum.,2
+"Ve eğer öyleyse, çoğu zaman bu sınırın yakınındalar mı?","Bilmek istiyorum, sık sık İngiltere'de oluyorlar mı?",1
+"Ve eğer öyleyse, çoğu zaman bu sınırın yakınındalar mı?","Konuşmacı, sınırlara ne sıklıkla gittiklerini açıklığa kavuşturmak istedi.",0
+"Ve bence, biyosferin, yayılan bir soylar dizisi için ayakta kalabilen bir rejimde ısrarla tutarlı bir biçimde bir arada olduğu moleküler bir ipucu var.",Biyosfer çok değişir.,0
+"Ve bence, biyosferin, yayılan bir soylar dizisi için ayakta kalabilen bir rejimde ısrarla tutarlı bir biçimde bir arada olduğu moleküler bir ipucu var.",Biyosfer sıcaklığa göre değişir.,1
+"Ve bence, biyosferin, yayılan bir soylar dizisi için ayakta kalabilen bir rejimde ısrarla tutarlı bir biçimde bir arada olduğu moleküler bir ipucu var.",Biyosfer asla değişmez.,2
+O sıçrama ile normal bir kristal bu kadar çok bilgiyi kodlayamaz.,Normal kristaller çok yüksek yoğunlukta bilgi depolama ortamıdır.,2
+O sıçrama ile normal bir kristal bu kadar çok bilgiyi kodlayamaz.,Normal kristaller bilgi kodlama için çok kullanışlı değildir.,0
+O sıçrama ile normal bir kristal bu kadar çok bilgiyi kodlayamaz.,Lazer ışınları kullanarak coğrafi bilgileri kodlamada çok faydalı olan başka türlü kristaller var.,1
+"Sonuç olarak, yetişkinlerin, okul öncesi çocuklara bulmaca ya da benzer görevleri üstlenmelerine yardımcı olurken yaptıkları gibi davranmalarına gerek yoktur.",Okul öncesi çocuklar doğal olarak yapboz yapma konusunda yap-inan oyunlarından daha iyidir.,2
+"Sonuç olarak, yetişkinlerin, okul öncesi çocuklara bulmaca ya da benzer görevleri üstlenmelerine yardımcı olurken yaptıkları gibi davranmalarına gerek yoktur.",Anaokulu öğrencilerinin taklit yapma konusunda o kadar fazla yardıma ihtiyaçları yok.,0
+"Sonuç olarak, yetişkinlerin, okul öncesi çocuklara bulmaca ya da benzer görevleri üstlenmelerine yardımcı olurken yaptıkları gibi davranmalarına gerek yoktur.",Okul öncesi çağdaki çocuklarda kendi başlarına yapboz yapabilmeleri için gerekli olan mekansal modelleme becerileri gelişmemiştir.,1
+[Bu ulus] özgürlük içinde düşünülmüş ve tüm insanların eşit yaratıldığı önermesine adanmıştı.,Bu teklif hakkındaki notlar birçok ek belgede kaydedildi.,1
+[Bu ulus] özgürlük içinde düşünülmüş ve tüm insanların eşit yaratıldığı önermesine adanmıştı.,Bazı insanlar tüm insanların eşit olduğuna inandı.,0
+[Bu ulus] özgürlük içinde düşünülmüş ve tüm insanların eşit yaratıldığı önermesine adanmıştı.,"Bu ulus, bazı insanların doğası gereği diğerlerinden daha iyi olduğuna dair bir inanış üzerine kurulmuştur.",2
+Onu daha çok övmeli miyim?,Eminim ki başarısızlıkları için onu dövmeliyim.,2
+Onu daha çok övmeli miyim?,Benim daha fazla takdir göstermeme gereksinim duyup duymadığını merak ediyorum.,0
+Onu daha çok övmeli miyim?,Piyano performansı için onu övmeli miyim?,1
+Spin ağ teorileri farklı boyutlarda inşa edilebilir.,"Diğer boyutlar, döndürmeli ağ teorileri oluşturmak için kullanılabilir.",0
+Spin ağ teorileri farklı boyutlarda inşa edilebilir.,Spin ağları veri saklama teknolojileri için çok kullanışlıdır.,1
+Spin ağ teorileri farklı boyutlarda inşa edilebilir.,Spin ağ farklı boyutlarda düşünülemez.,2
+"(Çılgınca) Hayır, hayır, ölmeni istemiyorum!",Ben ölmeni istemiyorum!,0
+"(Çılgınca) Hayır, hayır, ölmeni istemiyorum!",Ölsen umurumda değil!,2
+"(Çılgınca) Hayır, hayır, ölmeni istemiyorum!",Ölseydin çok üzülürdüm!,1
+"19 Mart 1875 tarihinde San Jose, Kaliforniya'da herkesin önünde asılmıştır.","Kaliforniya , 1875 yılında halka açık infaz gerçekleştiriyordu.",0
+"19 Mart 1875 tarihinde San Jose, Kaliforniya'da herkesin önünde asılmıştır.",Tüm yanlışlarından aklanmış ve serbest bırakılmıştı.,2
+"19 Mart 1875 tarihinde San Jose, Kaliforniya'da herkesin önünde asılmıştır.",Ayaklanma ve at hırsızlığı suçlarından asıldı.,1
+"Kaotik düzende,  parıldayan yeşil deniz süzülmektedir.",Deniz koyu maviydi ve bardak gibi pürüzsüzdü.,2
+"Kaotik düzende,  parıldayan yeşil deniz süzülmektedir.","Deniz, tekneye sıçrayan küçük balıklarla doluydu.",1
+"Kaotik düzende,  parıldayan yeşil deniz süzülmektedir.",Deniz yeşildi ve köpürüyor gibiydi.,0
+"Yepyeni bir hukuk düzeni, 1860'ların kargaşasından uzaklaşmayı çok istiyordu.",1870'ler itibariyle tüm hukuki düzen çökmüştür ve ülke tamamen anarşidedir.,2
+"Yepyeni bir hukuk düzeni, 1860'ların kargaşasından uzaklaşmayı çok istiyordu.",1860'lar çalkantılı bir dönemdi.,0
+"Yepyeni bir hukuk düzeni, 1860'ların kargaşasından uzaklaşmayı çok istiyordu.",Yeni yasal düzen işçi haklarını genişletmeyi arzuladı.,1
+"Daha yüksek düşünce biçimlerinin, ilk olarak birlikte yaptıkları bir faaliyet sırasında çocuk ve ait olduğu kültürün temsilcileri arasındaki sosyal iletişimde ortaya çıktığına işaret etti.",Çocuklar düşüncenin daha yüksek biçimlerini paylaşabilme yetisinden yoksundur.,2
+"Daha yüksek düşünce biçimlerinin, ilk olarak birlikte yaptıkları bir faaliyet sırasında çocuk ve ait olduğu kültürün temsilcileri arasındaki sosyal iletişimde ortaya çıktığına işaret etti.",Balıkçılık bir çok farklı kültürde paylaşılan popüler bir etkinliktir.,1
+"Daha yüksek düşünce biçimlerinin, ilk olarak birlikte yaptıkları bir faaliyet sırasında çocuk ve ait olduğu kültürün temsilcileri arasındaki sosyal iletişimde ortaya çıktığına işaret etti.",Ortak aktiviteleri paylaşmak daha üst düzey düşünmeleri paylaşmak için yardımcı oluyor.,0
+"Bazı mahallelerde cenaze törenleri, azizler günü kutlamaları ve rahip bulunmadığı zamanlarda cemaate dua eden ruhani liderler, rezadores veya rezadoraslar vardı.",Muhitlerden hiçbirinin papaz olmayan manevi liderleri yoktu.,2
+"Bazı mahallelerde cenaze törenleri, azizler günü kutlamaları ve rahip bulunmadığı zamanlarda cemaate dua eden ruhani liderler, rezadores veya rezadoraslar vardı.",Bazı semtlerin rahip olmayan ruhani liderleri vardı.,0
+"Bazı mahallelerde cenaze törenleri, azizler günü kutlamaları ve rahip bulunmadığı zamanlarda cemaate dua eden ruhani liderler, rezadores veya rezadoraslar vardı.",Ruhani liderlerin bazılarının saçı siyahtı.,1
+"Sosyodramatik oyunda da, çeşitli rolleri harekete geçirme ve koordine etme fırsatları, muhtemelen çocukların arzu, inanç ve duygulardaki insanlar arasındaki benzerlik ve farklılıkları kavramasına yardımcı olur.",Çocuklar insanların ne kadar benzer ve farklı olduklarını öğrenebilir.,0
+"Sosyodramatik oyunda da, çeşitli rolleri harekete geçirme ve koordine etme fırsatları, muhtemelen çocukların arzu, inanç ve duygulardaki insanlar arasındaki benzerlik ve farklılıkları kavramasına yardımcı olur.",Çocuklar farklı ırkların ne kadar farklı olduğunu görebilir.,1
+"Sosyodramatik oyunda da, çeşitli rolleri harekete geçirme ve koordine etme fırsatları, muhtemelen çocukların arzu, inanç ve duygulardaki insanlar arasındaki benzerlik ve farklılıkları kavramasına yardımcı olur.",Çocuklar hiç bir şey öğrenemiyor.,2
+Almanya'nın savaş sonrası anayasal düzeninin en büyük meziyeti o sırada kesinlikle Nazi rejiminin en büyük felaketiydi.,Nazi rejimi buna izin veriyordu.,2
+Almanya'nın savaş sonrası anayasal düzeninin en büyük meziyeti o sırada kesinlikle Nazi rejiminin en büyük felaketiydi.,Nazi rejimi dahil olan herkesi öldürmüştü.,1
+Almanya'nın savaş sonrası anayasal düzeninin en büyük meziyeti o sırada kesinlikle Nazi rejiminin en büyük felaketiydi.,Nazi rejimi onu durdurdu.,0
+"Sonja, kızının öfke nöbetlerini taklit etmeye başladı.",Hiç kimse sinir krizi geçirmiyordu.,2
+"Sonja, kızının öfke nöbetlerini taklit etmeye başladı.",Sonja bir çocuktur.,0
+"Sonja, kızının öfke nöbetlerini taklit etmeye başladı.",Sonja üzgündü.,1
+"Sivil Savaşa zemin hazırlayan elli beş yıl içinde, Mahkeme bu gücü tedbirli bir şekilde kullandı.",İç Savaşla sonuçlanan yıllarda Mahkeme ara sıra bu gücü kullanıyordu.,0
+"Sivil Savaşa zemin hazırlayan elli beş yıl içinde, Mahkeme bu gücü tedbirli bir şekilde kullandı.",Mahkeme bu gücü elli beş yıl içinde 4 kere kullanması iç savaşa zemin hazırladı.,1
+"Sivil Savaşa zemin hazırlayan elli beş yıl içinde, Mahkeme bu gücü tedbirli bir şekilde kullandı.",Mahkeme bu gücü elli beş yılda 5 milyon kez kullandı ve İç Savaşa neden oldu.,2
+"Sizi temin ederim efendim, hepsi  hakkında  tamamen bilgilendirildim.",Size her şey hakkında bana bilgi verildiğini söylüyorum.,0
+"Sizi temin ederim efendim, hepsi  hakkında  tamamen bilgilendirildim.",Hakkında bilgilendirildiğim şey dedektifin ölümüydü.,1
+"Sizi temin ederim efendim, hepsi  hakkında  tamamen bilgilendirildim.",Benden gizlenen birçok ayrıntı vardı.,2
+"Sesler, Kaptan Kan’ı  hoş olmayan düşüncelerinden alarak rahatsız etti.",Kaptan Blood kendisini rahatsız eden düşünceleri bölünmeden düşünebildi.,2
+"Sesler, Kaptan Kan’ı  hoş olmayan düşüncelerinden alarak rahatsız etti.",Kanlı Korsan'ın düşünceleri bazı gürültülerle dağılmıştı.,0
+"Sesler, Kaptan Kan’ı  hoş olmayan düşüncelerinden alarak rahatsız etti.",Yavruların çığlıkları kaptanı derin düşüncelerinden sıyırdı.,1
+"Ama amcanın Barbados'taki evinde bir köleden daha iyi durumda olmadığım zaman, beni belli bir iyilikle kullandığını unutamam.",Barbados'ta bir köle olduğumda bana nazik davrandın.,0
+"Ama amcanın Barbados'taki evinde bir köleden daha iyi durumda olmadığım zaman, beni belli bir iyilikle kullandığını unutamam.",Bana inanılmaz derecede zalim davrandın ve bana pislikten daha kötü muamele ettin.,2
+"Ama amcanın Barbados'taki evinde bir köleden daha iyi durumda olmadığım zaman, beni belli bir iyilikle kullandığını unutamam.",Bana sahipken amcan beni her gün çok fena dövdü.,1
+"Orada, üç milden fazla uzakta olmayan, kara vardı - batı ufkunu dolduran canlı yeşilin düzensiz bir duvarı.",Yemyeşil bir manzara göründü.,0
+"Orada, üç milden fazla uzakta olmayan, kara vardı - batı ufkunu dolduran canlı yeşilin düzensiz bir duvarı.",Yaklaşmakta oldukları ada ıssızdı.,1
+"Orada, üç milden fazla uzakta olmayan, kara vardı - batı ufkunu dolduran canlı yeşilin düzensiz bir duvarı.",Kilometreler boyunca bitmeyen okyanus dışında hiç kara görmüyorlardı.,2
+Majestelerinin bu barbar bölgelere gönderdiği elçisiyim ve Lord Sunderland'ın da yakın akrabasıyım.,"Majestelerinin elçileri var, ve ben onlardan biriyim.",0
+Majestelerinin bu barbar bölgelere gönderdiği elçisiyim ve Lord Sunderland'ın da yakın akrabasıyım.,Beni buraya yaklaşık bir hafta önce Majesteleri gönderdi.,1
+Majestelerinin bu barbar bölgelere gönderdiği elçisiyim ve Lord Sunderland'ın da yakın akrabasıyım.,Ben Majestelerinden emir almıyorum.,2
+Sana borçlandım ya da borçlandığımı düşündüm,Sana borcu olduğunu hiçbir zaman düşünmemişti.,2
+Sana borçlandım ya da borçlandığımı düşündüm,Meteliksiz bir dilenciye ettiğin yardım için o sana borçlu.,1
+Sana borçlandım ya da borçlandığımı düşündüm,Sana bir şey borçlu olduğunu düşünüyordu.,0
+Geceye doğru Jamaika’ya bu kadar yakın olacağımı bilmeliydim.,Güneş battıktan sonra Jamaika yakınına gittim.,0
+Geceye doğru Jamaika’ya bu kadar yakın olacağımı bilmeliydim.,Jamaika'ya büyük bir tekne ile seyahat ettim.,1
+Geceye doğru Jamaika’ya bu kadar yakın olacağımı bilmeliydim.,Eşim ve ben Jamaika'ya gündüz gelmiştik.,2
+"Blood'un düşünceleri, oradaki yatağa uzanırken bu ve diğer şeyler üzerineydi.",Blood divanın üzerinde düşüncesizce rüyaya daldı.,2
+"Blood'un düşünceleri, oradaki yatağa uzanırken bu ve diğer şeyler üzerineydi.",Kanlı Korsan uzanırken dalıp gidiyordu.,0
+"Blood'un düşünceleri, oradaki yatağa uzanırken bu ve diğer şeyler üzerineydi.",Kan annesini son gördüğü zamana kafa yoruyordu.,1
+"Tabii ki, o zaman ,size söyleyeceğim.","Tamam o zaman, anlatacağım sana.",0
+"Tabii ki, o zaman ,size söyleyeceğim.",Sana tek kelime etmeyeceğim.,2
+"Tabii ki, o zaman ,size söyleyeceğim.",Sadece bunu tekrar etmeyeceğine söz verdiğin için söylüyorum.,1
+Ah! Peki o hangi yolmuş bakalım?,Birisi hangi yöne gideceğini soruyor.,0
+Ah! Peki o hangi yolmuş bakalım?,Soru soran kişi yalnızdır ve etrafında görüşecek kimse yoktur.,2
+Ah! Peki o hangi yolmuş bakalım?,Soruyu soran kişinin biraz acelesi var ve gitmesi gereken güzergahı hemen bilmesi gerekiyor.,1
+Kralın komisyonuna hafifçe onaylamıyorum.,Kralın komisyonuna hibede bulunmak ahlak kurallarıma aykırıdır.,1
+Kralın komisyonuna hafifçe onaylamıyorum.,Kralın komisyonu hakkında çok düşündüm.,0
+Kralın komisyonuna hafifçe onaylamıyorum.,Kral'ın komisyonuna ikinci bir düşünce olmadan vermek için izin belgesi imzaladım.,2
+Aceleyle geri çekilmesi gerekebileceğini fark etti.,Gün boyu inzivaya çekildiğini fark etti.,2
+Aceleyle geri çekilmesi gerekebileceğini fark etti.,Hızlı hareket etmesi gerektiğinin farkına vardı.,0
+Aceleyle geri çekilmesi gerekebileceğini fark etti.,"Aynı yerde kalsaydı, keşfedilirdi.",1
+"Ve o hep böyle biriydi ve son üç yılda yaptıklarını yaptı, dedi, ancak bunu şimdi önceki hor görmeleri olmadan acıyla söyledi.",Son üç yıl içinde birçok erkeği öldürdüğünden hoşlanmıyordu.,1
+"Ve o hep böyle biriydi ve son üç yılda yaptıklarını yaptı, dedi, ancak bunu şimdi önceki hor görmeleri olmadan acıyla söyledi.",Onun maceralarından ve kişiliğinden mutlu bir şekilde bahsetti.,2
+"Ve o hep böyle biriydi ve son üç yılda yaptıklarını yaptı, dedi, ancak bunu şimdi önceki hor görmeleri olmadan acıyla söyledi.",Üzgün bir ses tonuyla konuştu.,0
+Sanırım bu senin tarzından sonra.,Sizin türünüzün böyle yaptığını varsayıyorum.,0
+Sanırım bu senin tarzından sonra.,Senin gibileri ve kültürleri hakkında okudum.,1
+Sanırım bu senin tarzından sonra.,Bunun sizin türünüz arasında yaygın olmadığını görüyorum.,2
+Kaşlarını buruşturarak çattı.,Yüzüne kocaman bir gülümseme yayıldı.,2
+Kaşlarını buruşturarak çattı.,Karnında mide bulandırıcı bir his sezdi.,1
+Kaşlarını buruşturarak çattı.,Yüzünde öfkeli bir ifade vardı.,0
+Onu parlak gözlerle izliyordu ama üzgün yüzünü ve somurtarak kaşlarını çattığını görünce onun da ifadesi değişti.,Onun yüzünü gördükten sonra ifadesi değişti.,0
+Onu parlak gözlerle izliyordu ama üzgün yüzünü ve somurtarak kaşlarını çattığını görünce onun da ifadesi değişti.,Kaşlarını çattığını gördüğünde yüzü aydınlandı.,2
+Onu parlak gözlerle izliyordu ama üzgün yüzünü ve somurtarak kaşlarını çattığını görünce onun da ifadesi değişti.,Onun ona karşı öfkeli olup olmadığını bilmiyordu.,1
+Yavaş yavaş yürüyerek sıkışmış duvardan uzak durdu ve avluya doğru büyük kapılardan geçti.,"Büyük kapılar kilitlendiğinden dolayı, çitlerin üzerinden arka bahçeye atladı.",2
+Yavaş yavaş yürüyerek sıkışmış duvardan uzak durdu ve avluya doğru büyük kapılardan geçti.,Büyük kapılar avluya tek giriş yoluydu.,1
+Yavaş yavaş yürüyerek sıkışmış duvardan uzak durdu ve avluya doğru büyük kapılardan geçti.,Bahçeye açılan büyük kapılar vardı.,0
+"Onu darağacına fırlatacaksın, şüphesiz, aşağılayıcı bir şekilde dedi.",Birinin darağacına gideceğini düşündü.,0
+"Onu darağacına fırlatacaksın, şüphesiz, aşağılayıcı bir şekilde dedi.",Hırsızı yakalayan bir şerifiydi.,1
+"Onu darağacına fırlatacaksın, şüphesiz, aşağılayıcı bir şekilde dedi.",Hapisten kurtulmak için ülkeden kaçmanın bir yolunu fısıldadı.,2
+Onları nasıl dürüstçe gözaltına alabilirim? Pazarlık yapıldı.,Kendimi onları tutuklama aşamasına getiremezdim.,0
+Onları nasıl dürüstçe gözaltına alabilirim? Pazarlık yapıldı.,Onları görür görmez alıkoydum.,2
+Onları nasıl dürüstçe gözaltına alabilirim? Pazarlık yapıldı.,Onları gözaltına alsaydım kendimi affetmezdim.,1
+Geçen yıldan beri onu avlıyorum.,Onu farkettirmeden bir yıl boyunca yakından takip ettim.,1
+Geçen yıldan beri onu avlıyorum.,Onu sadece bir haftaya yakın zamandır takip ediyorum.,2
+Geçen yıldan beri onu avlıyorum.,Geçtiğimiz yıl boyunca onları gizlice izledim.,0
+Müzeler kataloglarda veya etiketlerde güçlü değil,Müze etiketlenmekten hoşlanmıyor.,1
+Müzeler kataloglarda veya etiketlerde güçlü değil,Müze bir broşür hayranı değildir.,0
+Müzeler kataloglarda veya etiketlerde güçlü değil,Müzenin güçlü noktası kataloglarıdır.,2
+Bu açık hava pazarları da Pekin'de alışveriş yapmak için en ilginç yerlerdir.,Pekin'de içinde çok ilginç mağazalar bulunan açık pazarlar vardır.,0
+Bu açık hava pazarları da Pekin'de alışveriş yapmak için en ilginç yerlerdir.,Pekin'deki açık pazarlar dünyanın en ilginç olanıdır.,1
+Bu açık hava pazarları da Pekin'de alışveriş yapmak için en ilginç yerlerdir.,Pekin'in katı kanunları şehir sınırları içinde açık hava pazarlarını yasaklar.,2
+"Kuzeybatı sahilindeki en büyük körfez iyi bir liman oluşturuyor, ancak hem su hem de plaj kirli olabiliyor.",Su ve plaj her zaman temizdir.,2
+"Kuzeybatı sahilindeki en büyük körfez iyi bir liman oluşturuyor, ancak hem su hem de plaj kirli olabiliyor.",Su ve sahil kirli olabilir.,0
+"Kuzeybatı sahilindeki en büyük körfez iyi bir liman oluşturuyor, ancak hem su hem de plaj kirli olabiliyor.",Pislik yüzünden su kirlidir.,1
+Bu gökdelenler bankadır ve üzerinde durdukları cadde de Milla de Oro ya da Golden Mile olarak adlandırıldı.,Golden Mile üzerindeki gökdelenlerin hiç birisi de banka değil.,2
+Bu gökdelenler bankadır ve üzerinde durdukları cadde de Milla de Oro ya da Golden Mile olarak adlandırıldı.,Golden Mile'ın üzerindeki gökdelenler bankalara aittir.,0
+Bu gökdelenler bankadır ve üzerinde durdukları cadde de Milla de Oro ya da Golden Mile olarak adlandırıldı.,Golden Mile'deki gökdelenler bankalar dahil farklı firma türlerini içerir.,1
+"O zamanlar için gayet doğal bir şekilde, II. Dünya Savaşına katılım, pilotları savaşa hazırlamak üzere Kanada'nın nispeten güvenli semalarını kullanan İngiliz Milletler Topluluğu'na ait bir Hava Eğitim Planı ile başladı.",Kanada'da daha güvenli gökyüzü vardı.,0
+"O zamanlar için gayet doğal bir şekilde, II. Dünya Savaşına katılım, pilotları savaşa hazırlamak üzere Kanada'nın nispeten güvenli semalarını kullanan İngiliz Milletler Topluluğu'na ait bir Hava Eğitim Planı ile başladı.",Canada'nın gökyüzü füzelerden arındı.,1
+"O zamanlar için gayet doğal bir şekilde, II. Dünya Savaşına katılım, pilotları savaşa hazırlamak üzere Kanada'nın nispeten güvenli semalarını kullanan İngiliz Milletler Topluluğu'na ait bir Hava Eğitim Planı ile başladı.",Kanada'nın gökleri daha tehlikeliydi.,2
+Ve hoş kıyılarının artık sadece onların olmadıklarını bilmelerine rağmen hoşgörülü ve yardımsever kalıyorlar.,"Onlar, kıyıları paylaşmak zorunda oldukları için herkese kızgın küskünler.",2
+Ve hoş kıyılarının artık sadece onların olmadıklarını bilmelerine rağmen hoşgörülü ve yardımsever kalıyorlar.,Sahili şimdi diğer insanlarla paylaşmak zorundalar.,0
+Ve hoş kıyılarının artık sadece onların olmadıklarını bilmelerine rağmen hoşgörülü ve yardımsever kalıyorlar.,Beş yüz millik sahil şeridine sahiplerdi.,1
+"Kubilay Han 1279 yılında Pekin'deki, imparatorluk hazinelerinden bazılarının bugün halen sergilendiği Beihai Gölünün kenarına kendi başkentini kurdu.",Kubali Khan Tayvan'da başkent olarak yükseldi.,2
+"Kubilay Han 1279 yılında Pekin'deki, imparatorluk hazinelerinden bazılarının bugün halen sergilendiği Beihai Gölünün kenarına kendi başkentini kurdu.",Kublai Khan'ın Pekin'de hazineleri var.,0
+"Kubilay Han 1279 yılında Pekin'deki, imparatorluk hazinelerinden bazılarının bugün halen sergilendiği Beihai Gölünün kenarına kendi başkentini kurdu.",Kubilay Han çok saygı duyulan bir adamdı.,1
+"Anglo topluluğuna daha kolay asimile olanlar sadece Protestan okullarıydı, onlar çocuklarını kabul etti  Doğu Avrupa Yahudileri mezun olmuştu  varlıklı Westmount'a veya tekrar Toronto'ya göç etmişti.",Doğu Avrupalı Yahudiler herkese kolay ayak uydururlar.,2
+"Anglo topluluğuna daha kolay asimile olanlar sadece Protestan okullarıydı, onlar çocuklarını kabul etti  Doğu Avrupa Yahudileri mezun olmuştu  varlıklı Westmount'a veya tekrar Toronto'ya göç etmişti.",Yahudiler toplumun geri kalanı tarafından istenmiyor.,1
+"Anglo topluluğuna daha kolay asimile olanlar sadece Protestan okullarıydı, onlar çocuklarını kabul etti  Doğu Avrupa Yahudileri mezun olmuştu  varlıklı Westmount'a veya tekrar Toronto'ya göç etmişti.",Anglo topluluğu ile Yahudiler daha kolay asimile olmuştur.,0
+"Mümkünse, kendinizi önceden hikayenin konusuna alıştırın.",Olay örgüsünü önceden öğrenme; sonra bütün eğlencesi kaçar.,2
+"Mümkünse, kendinizi önceden hikayenin konusuna alıştırın.",Yapabilirsen olay örgüsünü önceden anlamaya çalış.,0
+"Mümkünse, kendinizi önceden hikayenin konusuna alıştırın.",Kitabın konusunu anlarsan dersi daha kolay bulacaksın.,1
+Onun 27 m (88ft) yerin altındaki mezarları mermerden yapılmış ve 1.200 metre kare (13.000 feet kare) alanı kaplamaktadır.,Yerin 20 metreden fazla altına gömüldü.,0
+Onun 27 m (88ft) yerin altındaki mezarları mermerden yapılmış ve 1.200 metre kare (13.000 feet kare) alanı kaplamaktadır.,O önemli bir halk figürüydü.,1
+Onun 27 m (88ft) yerin altındaki mezarları mermerden yapılmış ve 1.200 metre kare (13.000 feet kare) alanı kaplamaktadır.,Yer altı mezarları ahşaptan yapılmış.,2
+Tüm taşınabilir eşyaları maymunlardan saklamayı unutma.,Eşyalarını maymunlardan sakla.,0
+Tüm taşınabilir eşyaları maymunlardan saklamayı unutma.,Maymunlar üzerinizdeki eşyalar dahil her şeye çok meraklıdırlar.,1
+Tüm taşınabilir eşyaları maymunlardan saklamayı unutma.,Eşyalarını maymunlardan saklamana gerek yok,2
+Estei Sarayının inşa edilmesinden yaklaşık 1.400 yıl önce Milreu de ünlü birinin geniş bir kır eviydi.,Milreu her yere 10 mil mesafedeydi.,1
+Estei Sarayının inşa edilmesinden yaklaşık 1.400 yıl önce Milreu de ünlü birinin geniş bir kır eviydi.,Milreu ülkenin dışındaydı.,0
+Estei Sarayının inşa edilmesinden yaklaşık 1.400 yıl önce Milreu de ünlü birinin geniş bir kır eviydi.,"Milreu, şehrin tam merkezindeydi.",2
+Deniz sıcaklıkları 18e ile 24e C (64-75e F) arasında değişir.,Deniz sıcaklığı her zaman değişir ama donma sıcaklığının altına inmez.,0
+Deniz sıcaklıkları 18e ile 24e C (64-75e F) arasında değişir.,Deniz sıcaklığı bütün bir yıl boyunca hep sabit bir noktadadır.,2
+Deniz sıcaklıkları 18e ile 24e C (64-75e F) arasında değişir.,"görüyorsun gün içinde sıcaklık daha fazla,hava ısındığı zama",1
+Kinabalu milli parkı eyaletteki altı korunan bölgeden sadece bir tanesidir.,Kinabalu milli parkında on fil ve altı gergedan vardır.,1
+Kinabalu milli parkı eyaletteki altı korunan bölgeden sadece bir tanesidir.,Devlet  Kinabalu ulusal parkı'nı da kapsayan bölgeleri korudu.,0
+Kinabalu milli parkı eyaletteki altı korunan bölgeden sadece bir tanesidir.,Eyalette toplam üç koruma alanı var.,2
+"Anne'nin hikayesinin ve Amsterdam'ın işgali altındaki videolarını, fotoğraflarını ve eserleri ile birlikte göreceksiniz.",Fotoğraf görmeyeceksin.,2
+"Anne'nin hikayesinin ve Amsterdam'ın işgali altındaki videolarını, fotoğraflarını ve eserleri ile birlikte göreceksiniz.",Fotoğraflar göreceksiniz.,0
+"Anne'nin hikayesinin ve Amsterdam'ın işgali altındaki videolarını, fotoğraflarını ve eserleri ile birlikte göreceksiniz.",İlk fotoğraflardan bazılarını göreceksiniz.,1
+"Treasure Beach, üç kumlu koyda uzanan bir avuç otele sahip olan tek tatil bölgesidir.",treasure Plajı'nı ziyaret edenler için pek fazla otel seçeneği bulunmuyor.,0
+"Treasure Beach, üç kumlu koyda uzanan bir avuç otele sahip olan tek tatil bölgesidir.",Treasure Beach'i ziyaret eden turistler için dört yıldızlı bir otel bulunmaktadır.,1
+"Treasure Beach, üç kumlu koyda uzanan bir avuç otele sahip olan tek tatil bölgesidir.",Treasure Beach bölgedeki birçok dinlenme tesisinden biridir.,2
+"Yaz mevsimi dalış, şnorkel ve diğer su sporları için ideal olan ılık (ama sıcak değil) hava ve ılık deniz sıcaklığı getirir.",Yazın her zaman 100 derece ya da daha sıcak.,2
+"Yaz mevsimi dalış, şnorkel ve diğer su sporları için ideal olan ılık (ama sıcak değil) hava ve ılık deniz sıcaklığı getirir.",Yazın genellikle 75.,1
+"Yaz mevsimi dalış, şnorkel ve diğer su sporları için ideal olan ılık (ama sıcak değil) hava ve ılık deniz sıcaklığı getirir.",Yaz mevsimindeki sıcaklıklardır.,0
+"Göletler arasında, bir kaplumbağanın başına vurma umuduyla bir ziyaretçinin bozuk para fırlatması, iyi bir servet elde etmenin kesin bir yoludur.",İnsanlar asla para atmazlar çünkü kötü şans getirir.,2
+"Göletler arasında, bir kaplumbağanın başına vurma umuduyla bir ziyaretçinin bozuk para fırlatması, iyi bir servet elde etmenin kesin bir yoludur.",Tabelada olmamasına rağmen insanlar para atıyorlar.,1
+"Göletler arasında, bir kaplumbağanın başına vurma umuduyla bir ziyaretçinin bozuk para fırlatması, iyi bir servet elde etmenin kesin bir yoludur.",İnsanlar suya para atıyorlar.,0
+"Liman kenti Nafplio, civarı gezmek için ya da tur sırasında öğle yemeği için mükemmel bir nokta konumunda.",Nafplio'nun manzarası iyidir.,1
+"Liman kenti Nafplio, civarı gezmek için ya da tur sırasında öğle yemeği için mükemmel bir nokta konumunda.",Nafplion kötü bir üstür.,2
+"Liman kenti Nafplio, civarı gezmek için ya da tur sırasında öğle yemeği için mükemmel bir nokta konumunda.",Nafplio mükemmel bir üs.,0
+"Prinsengracht'ta, Otto Frank ve onun ailesi, keşfedilmeden iki yıl önce iş yerlerinin tavan arasında saklanıyordu.",Otto Frank ikinci günde yakalandı.,2
+"Prinsengracht'ta, Otto Frank ve onun ailesi, keşfedilmeden iki yıl önce iş yerlerinin tavan arasında saklanıyordu.",Otto Frank 25 aydan uzun süre saklandı.,0
+"Prinsengracht'ta, Otto Frank ve onun ailesi, keşfedilmeden iki yıl önce iş yerlerinin tavan arasında saklanıyordu.","Otto Frank, Naziler onu bulana kadar saklandı.",1
+Pek çok eyalet hükümetinin ve yerel hükümetin denetim şartları vardır.,Yerel hükümetler kendi kurallarını uygulamak zorundadır.,1
+Pek çok eyalet hükümetinin ve yerel hükümetin denetim şartları vardır.,Yerel yönetimlerin hiçbir gereksinimi yoktur.,2
+Pek çok eyalet hükümetinin ve yerel hükümetin denetim şartları vardır.,Yerel yönetimler tarafından ek denetim gereksinimleri sorunları vardır.,0
+Bilgi güvenliği grubu ayda 8 ila 12 seans gerçekleştiriyor.,Güvenlik grubunda ayda ortalama 9 oturum gerçekleşiyor.,1
+Bilgi güvenliği grubu ayda 8 ila 12 seans gerçekleştiriyor.,Güvenlik grubu ayın her günü bir oturum gerçekleştiriyor.,2
+Bilgi güvenliği grubu ayda 8 ila 12 seans gerçekleştiriyor.,Güvenlik grubu yılda birkaç seans gerçekleştirir.,0
+"Yine de, ön mühendislik daha önce gerçekleştirilmiştir.",Mühendisliğin bir hazırlık dönemi vardı.,0
+"Yine de, ön mühendislik daha önce gerçekleştirilmiştir.",Mühendislik sadece son bir aşamada gerçekleşti.,2
+"Yine de, ön mühendislik daha önce gerçekleştirilmiştir.",Başlangıç dönemi olmadan mühendislik daha sonraki aşamalarda muhtemelen başarısız olacak.,1
+"Sonuç olarak, hükümet karar vericileri ve yöneticileri, hedeflere ulaşmanın farklı yollarını göz önünde bulundurarak ve kararlara rehberlik edecek yeni bilgileri kullanarak yeni düşünce biçimlerini benimsemektedir.",Hükümet temsilcileri yaklaşımlarını değiştiriyor.,0
+"Sonuç olarak, hükümet karar vericileri ve yöneticileri, hedeflere ulaşmanın farklı yollarını göz önünde bulundurarak ve kararlara rehberlik edecek yeni bilgileri kullanarak yeni düşünce biçimlerini benimsemektedir.",Hükümet temsilcileri farklı düşünerek güçlerini artırmaya çalışıyor.,1
+"Sonuç olarak, hükümet karar vericileri ve yöneticileri, hedeflere ulaşmanın farklı yollarını göz önünde bulundurarak ve kararlara rehberlik edecek yeni bilgileri kullanarak yeni düşünce biçimlerini benimsemektedir.",Hükümet temsilcileri yaşam biçimlerini değiştirmeyi reddediyorlar.,2
+"Vaka dosyalarının, İngilizce dışındaki bir dili okuyan müşteriler için tercüme edilmesi gerekebilir.",Vaka dosyalarının sadece ingilizce olmasına izin verilir.,2
+"Vaka dosyalarının, İngilizce dışındaki bir dili okuyan müşteriler için tercüme edilmesi gerekebilir.",Dava dosyaları Çince veya Rusça dilinde konabilir.,1
+"Vaka dosyalarının, İngilizce dışındaki bir dili okuyan müşteriler için tercüme edilmesi gerekebilir.",Dava dosyaları farklı dillerde sunulabilir.,0
+Şu anda yolda veya planlanmakta olan diğer çabalar şunları içerir:,Çabalarımızın çoğunluğu şimdiden sonuca yönelmiş durumda.,1
+Şu anda yolda veya planlanmakta olan diğer çabalar şunları içerir:,Gelecek için planlanmış başka hiçbir şeyimiz yok.,2
+Şu anda yolda veya planlanmakta olan diğer çabalar şunları içerir:,Önceden planladığımız bir şey var.,0
+"Kısa zaman dilimleri, bilgisayar dosyalarının asılları ve ihtiyaç duyulan belgelere erişim eksikliği gibi faktörleri de dahil edin.",IBM'den bilgisayar dosyalarını silmişlerdi.,1
+"Kısa zaman dilimleri, bilgisayar dosyalarının asılları ve ihtiyaç duyulan belgelere erişim eksikliği gibi faktörleri de dahil edin.",Orijinal bilgisayar dosyalarını sildiler.,0
+"Kısa zaman dilimleri, bilgisayar dosyalarının asılları ve ihtiyaç duyulan belgelere erişim eksikliği gibi faktörleri de dahil edin.",Tüm orijinal dosyaları tuttular.,2
+"Sonrasında, ilk ziyareti yapmış olan aynı temsilci, soruları cevaplamak ve şikayet örneğinde not edilen sorunları tartışmak için yeni sağlayıcıyı yeniden ziyaret eder.",Temsilcinin ziyareti bir saat sürdü.,1
+"Sonrasında, ilk ziyareti yapmış olan aynı temsilci, soruları cevaplamak ve şikayet örneğinde not edilen sorunları tartışmak için yeni sağlayıcıyı yeniden ziyaret eder.",Milletvekili tarafından bir ziyaret gerçekleşti.,0
+"Sonrasında, ilk ziyareti yapmış olan aynı temsilci, soruları cevaplamak ve şikayet örneğinde not edilen sorunları tartışmak için yeni sağlayıcıyı yeniden ziyaret eder.",Hiç ziyaret almadık.,2
+"Tasarruf sadece varlık stokunu etkilemekle kalmaz, dolayısıyla varlık da tasarruf etme tercihini etkiler.",Bir insanın birikim yapıp yapmama tercihi varlığından etkilenir.,0
+"Tasarruf sadece varlık stokunu etkilemekle kalmaz, dolayısıyla varlık da tasarruf etme tercihini etkiler.",Varlık ve birikimler herhangi bir şekilde normal olarak ilişkili değildir.,2
+"Tasarruf sadece varlık stokunu etkilemekle kalmaz, dolayısıyla varlık da tasarruf etme tercihini etkiler.",Zengin insanların kazançlarının büyük bir kısmını biriktirmeleri daha olasıdır.,1
+"Örneğin, çalıştığımız bir örgüt, şirketin hızlı bir şekilde bünyesine yeni işletmeler almasını ve artan işletme ihtiyaçlarını karşılayacak şekilde yeniden yapılanmasını gerektiren iki birleşme geçirmiştir.",İki birleşme olmasına rağmen şirketin şirket hiyerarşisinde yeniden yapılandırmaya gitmesine hiç gerek yoktu.,2
+"Örneğin, çalıştığımız bir örgüt, şirketin hızlı bir şekilde bünyesine yeni işletmeler almasını ve artan işletme ihtiyaçlarını karşılayacak şekilde yeniden yapılanmasını gerektiren iki birleşme geçirmiştir.",İki şirketi bir kuruluş içinde birleştirmek ve yeniden yapılandırmak kaotik bir çalışma alanına sebep oldu.,1
+"Örneğin, çalıştığımız bir örgüt, şirketin hızlı bir şekilde bünyesine yeni işletmeler almasını ve artan işletme ihtiyaçlarını karşılayacak şekilde yeniden yapılanmasını gerektiren iki birleşme geçirmiştir.",İki tane birleşme geçiren bir şirketi inceledik ve onların iş taleplerini karşılamak için çabucak yeniden yapılandırma yapmak zorundaydık.,0
+"tasarım, seyahatin gerçekleştiği doğrulanmadan önce ödemeye yetki verileceğinden endişeliydik.",Ödemenin sonsuza dek süreceğini biliyorduk.,2
+"tasarım, seyahatin gerçekleştiği doğrulanmadan önce ödemeye yetki verileceğinden endişeliydik.",Ödemenin bildirimden önce gidebileceğini düşünmüştük.,0
+"tasarım, seyahatin gerçekleştiği doğrulanmadan önce ödemeye yetki verileceğinden endişeliydik.",Ödemenin çok erken gidebileceğini düşündük ve dolandırılacağız.,1
+Bu işletmelerde teknoloji iş süreçleri ile oldukça iç içe geçmiştir çünkü teknoloji sadece bir araç olarak değil iş açısından destekçi olarak görülmektedir.,Gelişmiş Planlama Yazılımı işletmelerin odaklandığı anahtar teknolojilerden biri.,1
+Bu işletmelerde teknoloji iş süreçleri ile oldukça iç içe geçmiştir çünkü teknoloji sadece bir araç olarak değil iş açısından destekçi olarak görülmektedir.,"Teknoloji sadece bir araç, iş yapmayı sağlayan bir şey değil.",2
+Bu işletmelerde teknoloji iş süreçleri ile oldukça iç içe geçmiştir çünkü teknoloji sadece bir araç olarak değil iş açısından destekçi olarak görülmektedir.,Bu işletme teknolojiye büyük bir önem vermektedir.,0
+Literatürde sıklıkla yer alan iki kavram gelecekteki araştırmaları bilgilendirme konusunda faydalı olabilir.,Literatür örnekleri nasıl test ettiğimizi değiştirebilir.,1
+Literatürde sıklıkla yer alan iki kavram gelecekteki araştırmaları bilgilendirme konusunda faydalı olabilir.,Literatür gelecekteki araştırmayı değiştirebilir.,0
+Literatürde sıklıkla yer alan iki kavram gelecekteki araştırmaları bilgilendirme konusunda faydalı olabilir.,Değişen araştırmalar açısından yapılacak başka bir şey yok.,2
+"Kutulardan oluşan çizgiler birleştirilen tüm postacıların refah seviyesini gösterir ve elmastan oluşan çizgiler, işi başka bir tarafa kaydırmanın teknik kayıplarını (eğer negatif ise) gösterir.",Çizgiler posta servislerinin refahlarının %10 olduğunu gösteriyor.,1
+"Kutulardan oluşan çizgiler birleştirilen tüm postacıların refah seviyesini gösterir ve elmastan oluşan çizgiler, işi başka bir tarafa kaydırmanın teknik kayıplarını (eğer negatif ise) gösterir.",Çizgiler rotadan başka bir şey göstermiyor.,2
+"Kutulardan oluşan çizgiler birleştirilen tüm postacıların refah seviyesini gösterir ve elmastan oluşan çizgiler, işi başka bir tarafa kaydırmanın teknik kayıplarını (eğer negatif ise) gösterir.",Satırlar tüm posta gönderilerinde ne kadar refah olduğunu göstermektedir.,0
+"Risk değerlendirmesine göre, Centrelink hak sahiplerini ve çalışanları gelir raporlaması gereklilikleri hakkında eğitmeyi hedefleyen bir dizi özel önlem stratejisi geliştirdi.",Centrelink sorunu nasıl ele alacağını bilemedi.,2
+"Risk değerlendirmesine göre, Centrelink hak sahiplerini ve çalışanları gelir raporlaması gereklilikleri hakkında eğitmeyi hedefleyen bir dizi özel önlem stratejisi geliştirdi.",Centrelink'in  insanlara gelirlerini nasıl bildireceklerini öğretmek konusunda bir çok stratejisi vardı çünkü devlet hatalardan çok para kaybediyordu.,1
+"Risk değerlendirmesine göre, Centrelink hak sahiplerini ve çalışanları gelir raporlaması gereklilikleri hakkında eğitmeyi hedefleyen bir dizi özel önlem stratejisi geliştirdi.",Centrelink'in insanlara gelirlerini nasıl raporlamaları gerektiğini öğretmek konusunda birçok stratejisi vardı.,0
+"Bu, tasarımın şirketler için yapılan sunumlarını daha çok daha maliyetli hale getirdi, sunum aşaması için ürünün temsili prototipini oluşturmak için üretim ekipmanları ve kalıpları yatırımları gerektirdi.",O zaman tasarımın nasıl çalıştığını gösterebilirler.,0
+"Bu, tasarımın şirketler için yapılan sunumlarını daha çok daha maliyetli hale getirdi, sunum aşaması için ürünün temsili prototipini oluşturmak için üretim ekipmanları ve kalıpları yatırımları gerektirdi.",Şirkete yeni fabrikalar inşa etmenin akıllıca olmadığını gösterebilirler.,1
+"Bu, tasarımın şirketler için yapılan sunumlarını daha çok daha maliyetli hale getirdi, sunum aşaması için ürünün temsili prototipini oluşturmak için üretim ekipmanları ve kalıpları yatırımları gerektirdi.",Yatırımların etkisini nasıl gösterecekleri konusunda hiçbir fikirleri yok.,2
+Güney Carolina'nın işbirlikçi çabaları ertesi yıl başka bir başarı elde etti.,Güney Carolina'da kimse birlikte çalışmadı.,2
+Güney Carolina'nın işbirlikçi çabaları ertesi yıl başka bir başarı elde etti.,SC beraber çalıştı.,0
+Güney Carolina'nın işbirlikçi çabaları ertesi yıl başka bir başarı elde etti.,Güney Karolina'daki demokratlar ve cumhuriyetçiler birlikte çalışıyor.,1
+"Bir Yönetim Kurulu yetkilisine göre Kurulun bölüm 605 (b) sertifikaları, Küçük İşletmeler İdaresi Başkanlığı (SBA) Savunuculuk Baş Danışmanı için ayrı olarak sağlanmamıştır.","Kurul, SBA sertifikalarını vermedi ve bunu değerlendiricinin ofisine bıraktı.",1
+"Bir Yönetim Kurulu yetkilisine göre Kurulun bölüm 605 (b) sertifikaları, Küçük İşletmeler İdaresi Başkanlığı (SBA) Savunuculuk Baş Danışmanı için ayrı olarak sağlanmamıştır.","Kurul, KİY sertifikasını vermedi.",0
+"Bir Yönetim Kurulu yetkilisine göre Kurulun bölüm 605 (b) sertifikaları, Küçük İşletmeler İdaresi Başkanlığı (SBA) Savunuculuk Baş Danışmanı için ayrı olarak sağlanmamıştır.","Kurul, isteyen herkese her gün SBA sertifikası dağıttı.",2
+"Otel ve belirli diğer ücretler için bir eşleşme gerçekleştiğinde, gerçek seyahatin bir doğrulaması yapılacaktır.",Çoğu ulusal otel zinciri kredi kartıyla ödeme kabul ediyor.,1
+"Otel ve belirli diğer ücretler için bir eşleşme gerçekleştiğinde, gerçek seyahatin bir doğrulaması yapılacaktır.",Seyahatin kendisi otel masraflarıyla doğrulanabilir.,0
+"Otel ve belirli diğer ücretler için bir eşleşme gerçekleştiğinde, gerçek seyahatin bir doğrulaması yapılacaktır.",Bir yolculuğun gerçekleşip gerçekleşmediğini doğrulamanın hiçbir yolu yok.,2
+"Örneğin, ziyaret ettiğimiz bir ülkenin başkenti 600'den fazla yazılım şirketine ev sahipliği yapıyor.",Başkentler yazılım şirketleri için en iyi yerler.,1
+"Örneğin, ziyaret ettiğimiz bir ülkenin başkenti 600'den fazla yazılım şirketine ev sahipliği yapıyor.",Bir başkentte çok sayıda yazılım şirketi bulunuyor.,0
+"Örneğin, ziyaret ettiğimiz bir ülkenin başkenti 600'den fazla yazılım şirketine ev sahipliği yapıyor.",Yazılım şirketleri sermayelerden hukuki sebeplerle kaçınıyor.,2
+"Etkinliği ölçerken, mükemmellik ulaşılamaz bir konsepttir.",Eğer yeterince uğraşırsan mükemmel olabilirsin.,2
+"Etkinliği ölçerken, mükemmellik ulaşılamaz bir konsepttir.",Hiçbir zaman mükemmel olamazsın.,0
+"Etkinliği ölçerken, mükemmellik ulaşılamaz bir konsepttir.",Kusursuz olamazsın çünkü hepimiz son derece kusurlu insanlarız.,1
+"2000 yılında Hazmi ve Mihdhar'a odayı kiralayan ev arkadaşı, yerel polis ve FBI personeli arasında uzun zamandır devam eden, dostane temasları olan, yasalara saygılı bir vatandaştır.",Hazmi ve Mihdha bir ev satın aldı ve kimseyle iletişime geçmedi.,2
+"2000 yılında Hazmi ve Mihdhar'a odayı kiralayan ev arkadaşı, yerel polis ve FBI personeli arasında uzun zamandır devam eden, dostane temasları olan, yasalara saygılı bir vatandaştır.",Hazmi ve Mihdhar tüm yıl için günlüğü 500$'a oda tuttular.,1
+"2000 yılında Hazmi ve Mihdhar'a odayı kiralayan ev arkadaşı, yerel polis ve FBI personeli arasında uzun zamandır devam eden, dostane temasları olan, yasalara saygılı bir vatandaştır.",Hazmi ve Mihdhar bir oda kiraladı.,0
+"Bosna'ya yaptıkları seyahat için Suudi El Kaide üyesinin sorgulanması, İstihbarat raporu, 3 Ekim 2001'e bakınız.",Bir El Kaide üyesi 2001'de 18 defa Bosna'ya gitti.,1
+"Bosna'ya yaptıkları seyahat için Suudi El Kaide üyesinin sorgulanması, İstihbarat raporu, 3 Ekim 2001'e bakınız.",Bir el Kaide üyesi Bosna'ya gitti.,0
+"Bosna'ya yaptıkları seyahat için Suudi El Kaide üyesinin sorgulanması, İstihbarat raporu, 3 Ekim 2001'e bakınız.",Bir El-Kaide üyesinin Bosna'ya gittiğine dair hiçbir kanıt yoktu.,2
+"Jane, Mihdhar aramasına atanan New York ajanına, FISA bilgilendirme formunu nasıl ele almak zorunda olduğunu anladığını gösteren bir FISA onay formu imzalamasını istedi.","Jane, federal bir yargıç tarafından imzalanması için bir FISA onay formu istedi.",1
+"Jane, Mihdhar aramasına atanan New York ajanına, FISA bilgilendirme formunu nasıl ele almak zorunda olduğunu anladığını gösteren bir FISA onay formu imzalamasını istedi.",Jane imzalanaması için bir FISA onay formu istedi.,0
+"Jane, Mihdhar aramasına atanan New York ajanına, FISA bilgilendirme formunu nasıl ele almak zorunda olduğunu anladığını gösteren bir FISA onay formu imzalamasını istedi.","Jane, FISA onayının gerekli olmadığını söyledi.",2
+Hiçbir şey gerçek kontrol noktası taramasıyla ilgili olan tek güvenlik katmanı ile ilgili göze çarpmaz.,Güvenlik noktasındaki tarama sırasında endişe verici kanıtlar keşfedildi.,2
+Hiçbir şey gerçek kontrol noktası taramasıyla ilgili olan tek güvenlik katmanı ile ilgili göze çarpmaz.,Kontrol noktası görüntülemeleri tamamen görüntülemeyi gerçekleştiren gümrük görevlisinin sezgisine bağlıdır.,1
+Hiçbir şey gerçek kontrol noktası taramasıyla ilgili olan tek güvenlik katmanı ile ilgili göze çarpmaz.,Denetim noktası kontrolü onlara karşı hiçbir kanıt keşfedemedi.,0
+"Khallad, üçünün hep birlikte Karachi'ye gittiğini belirten ikinci bir hikaye sundu.","Khallad, üçü hakkında hiçbir şey bilmediğini söyledi.",2
+"Khallad, üçünün hep birlikte Karachi'ye gittiğini belirten ikinci bir hikaye sundu.","Khallad, üçünün birlikte seyahat edebileceğini söyledi.",0
+"Khallad, üçünün hep birlikte Karachi'ye gittiğini belirten ikinci bir hikaye sundu.","Khallad, üçünün Ekim ayında birlikte Karaçi'ye gitme şansının %50 olduğunu söyledi.",1
+"İstihbarat raporu, Binalshibh'in sorgusu, 1 Ekim 2002.",Binalshibh'ın bir FBI timi tarafından ifadesi alındı.,1
+"İstihbarat raporu, Binalshibh'in sorgusu, 1 Ekim 2002.",Binalshibh 2002 yılında sorgulandı.,0
+"İstihbarat raporu, Binalshibh'in sorgusu, 1 Ekim 2002.",Binalshibh'le hiç konuşulmadı ve o ortadan kayboldu.,2
+"Mihdhar, New York'ta gerçekleşen CIA-FBI toplantısından iki gün sonra yeni bir ABD vizesi almıştır.",Mihdhar'ın ülkeye girmek için Amerikan vizesi vardı.,0
+"Mihdhar, New York'ta gerçekleşen CIA-FBI toplantısından iki gün sonra yeni bir ABD vizesi almıştır.","Mihdhar asla vize almadı, o yüzden bize hiç gelmedi.",2
+"Mihdhar, New York'ta gerçekleşen CIA-FBI toplantısından iki gün sonra yeni bir ABD vizesi almıştır.",Mihdhar'a kendisi bir tehdit olmadığı için bir Vize verilmişti.,1
+"İki yıl süren soruşturmaya rağmen, FBI iş arkadaşını bulamadı ya da gerçek kimliğini belirleyemedi.",O 2001 yılında Florida'dan ayrıldıktan sonra FBI onu hiçbir zaman bulamadı.,1
+"İki yıl süren soruşturmaya rağmen, FBI iş arkadaşını bulamadı ya da gerçek kimliğini belirleyemedi.","FBI, adamın kim olduğunu öğrenemedi.",0
+"İki yıl süren soruşturmaya rağmen, FBI iş arkadaşını bulamadı ya da gerçek kimliğini belirleyemedi.","FBI, onun kim olduğunu anladı ve onu hapse attı",2
+"Amerikan 11 durumunda, uçaktan son normal iletişim sabah 8: 13'te idi.",American 11'den gelen bir haberleşme vardı.,0
+"Amerikan 11 durumunda, uçaktan son normal iletişim sabah 8: 13'te idi.",Amerikan 11'den her 5 dakikada bir iletişim vardı.,1
+"Amerikan 11 durumunda, uçaktan son normal iletişim sabah 8: 13'te idi.",Amerika'nın 11'inden gelen hiçbir yazışma olmadı.,2
+"Bunu keşfetmek, Alman hükümetinden elde edilmesi zor olan çok hızlı ve çok önemli bir işbirliğini gerektirecekti.",İnceleme tamamlansaydı üç firarinin yerlerini açıklayabilirdi.,1
+"Bunu keşfetmek, Alman hükümetinden elde edilmesi zor olan çok hızlı ve çok önemli bir işbirliğini gerektirecekti.","Alman hükümeti, hızlı ve ayrıntılı bir soruşturma gerçekleştirirken zorluk çekti.",0
+"Bunu keşfetmek, Alman hükümetinden elde edilmesi zor olan çok hızlı ve çok önemli bir işbirliğini gerektirecekti.",Hükümetin soruşturmayı gerçekleştirmesi için oldukça basit ve kolay olacaktı.,2
+Bu yetkinlikler yeterli değildi ancak bunları genişletmek veya değiştirmek için çok az şey yapıldı.,Denetleme programlarını çok fazla değiştirmediler.,1
+Bu yetkinlikler yeterli değildi ancak bunları genişletmek veya değiştirmek için çok az şey yapıldı.,Bazı şeyleri değiştirmek için fazla bir şey yapmadılar.,0
+Bu yetkinlikler yeterli değildi ancak bunları genişletmek veya değiştirmek için çok az şey yapıldı.,Her şeyi elden geçirmek için her yolu denediler.,2
+"Ancak analistin e-postası, bilgi paylaşımının ve suç ajanlarının istihbarat kanalları aracılığıyla toplanan bilgilerin kullanımını yöneten kuralların geniş bir dizi sırasını ve yasal engelini karıştırdığını yansıtıyor.",Analist çok net bir analiz sundu.,2
+"Ancak analistin e-postası, bilgi paylaşımının ve suç ajanlarının istihbarat kanalları aracılığıyla toplanan bilgilerin kullanımını yöneten kuralların geniş bir dizi sırasını ve yasal engelini karıştırdığını yansıtıyor.",Analist pek çok konuda net değildi.,0
+"Ancak analistin e-postası, bilgi paylaşımının ve suç ajanlarının istihbarat kanalları aracılığıyla toplanan bilgilerin kullanımını yöneten kuralların geniş bir dizi sırasını ve yasal engelini karıştırdığını yansıtıyor.",Analistin raporu o kadar berbattı ki hiç kimse okuyamadı.,1
+"Sonrasında bazı memurlar, merdiven tahliyelerine yardımcı olmaları için tahsis edildiler; diğerleri plaza, ana salon ve PATH istasyonundaki tahliyeleri hızlandırmaları için tahsis edildiler.",Memurlar kendi atamalarını yaptı.,0
+"Sonrasında bazı memurlar, merdiven tahliyelerine yardımcı olmaları için tahsis edildiler; diğerleri plaza, ana salon ve PATH istasyonundaki tahliyeleri hızlandırmaları için tahsis edildiler.",Memurlar sadece ihtiyaç duyuldukları yere rastgele koştular.,2
+"Sonrasında bazı memurlar, merdiven tahliyelerine yardımcı olmaları için tahsis edildiler; diğerleri plaza, ana salon ve PATH istasyonundaki tahliyeleri hızlandırmaları için tahsis edildiler.",Görevliler kıdemlerine göre atandılar.,1
+9 Eylül'de Afganistan'dan dramatik haberler geldi.,Afganistan'dan haberlerimiz var.,0
+9 Eylül'de Afganistan'dan dramatik haberler geldi.,Ekim'e kadar Afganistan'dan haber alamadık.,2
+9 Eylül'de Afganistan'dan dramatik haberler geldi.,Bize 9 Eylül'de gerçekleşen engelleyici saldırı anlatıldı.,1
+"İletişim kuramamak, çok sayıda ajansın ve birden fazla yargı sisteminin yanıt verdiği Dünya Ticaret Merkezi, Pentagon ve Somerset County, Pennsylvania'da kritik bir unsurdu.",9/11 sırasında haberleşme iyi gitti.,2
+"İletişim kuramamak, çok sayıda ajansın ve birden fazla yargı sisteminin yanıt verdiği Dünya Ticaret Merkezi, Pentagon ve Somerset County, Pennsylvania'da kritik bir unsurdu.",İnsanlar Dünya Ticaret Merkezi ile haberleşme konusunda zor zamanlar yaşıyordu çünkü elektrik kesilmiş ve telefon hatları bozulmuştu.,1
+"İletişim kuramamak, çok sayıda ajansın ve birden fazla yargı sisteminin yanıt verdiği Dünya Ticaret Merkezi, Pentagon ve Somerset County, Pennsylvania'da kritik bir unsurdu.",İnsanlar Dünya Ticaret Merkezinde iletişim kurarken zor zamanlar yaşadı.,0
+"Hazırda bulunan veri tabanlarının araştırmaları sürücülerin ehliyetlerini, araç ruhsatlarını ve telefon listelerini ortaya çıkarabilirdi.",Araştırmacılar ayrıca profesyonel veri tabanlarına erişim talebinde bulundu.,1
+"Hazırda bulunan veri tabanlarının araştırmaları sürücülerin ehliyetlerini, araç ruhsatlarını ve telefon listelerini ortaya çıkarabilirdi.",Var olan veritabanlarından birkaç tür bilgi alınabilir.,0
+"Hazırda bulunan veri tabanlarının araştırmaları sürücülerin ehliyetlerini, araç ruhsatlarını ve telefon listelerini ortaya çıkarabilirdi.",Konular hakkında mevcut kaynakları kullanarak herhangi bir bilgi elde etmenin hiçbir yolu yoktu.,2
+"Tüm işlemden şüphe duyduğunu iddia eden yönetici, kendisini Hazmi ve Mihdhar'dan ayırdı, ancak ihtiyaç duydukları yardımı aldıktan sonra.",Yönetici hemen yetkililerle iletişime geçti ve bu durumda yardım etmeyi reddetti.,2
+"Tüm işlemden şüphe duyduğunu iddia eden yönetici, kendisini Hazmi ve Mihdhar'dan ayırdı, ancak ihtiyaç duydukları yardımı aldıktan sonra.",Yönetici kuşkularına rağmen yardımcı oldu.,0
+"Tüm işlemden şüphe duyduğunu iddia eden yönetici, kendisini Hazmi ve Mihdhar'dan ayırdı, ancak ihtiyaç duydukları yardımı aldıktan sonra.","Yardım, nakit ve seyahat belgelerinin temin edilmesine yardımcı olmaktan oluşuyordu.",1
+"2003 yılında bu atamalar elendi; Uluslararası terörizmle ilgili tüm meseleler şimdi aynı şekilde, 315 alır.",Tüm terörizm konularına önem sıralamasında en üst sırada yer verilmiştir.,1
+"2003 yılında bu atamalar elendi; Uluslararası terörizmle ilgili tüm meseleler şimdi aynı şekilde, 315 alır.",Tüm terörizm olayları aynı niteliktedir.,0
+"2003 yılında bu atamalar elendi; Uluslararası terörizmle ilgili tüm meseleler şimdi aynı şekilde, 315 alır.",Her bir terör sorunu bağımsız olarak yargılanır ve sınıflandırılır.,2
+"Güney Kulesi'nin çöküşünü gözlemlemiş olan bu memur, tahliye talimatında Kuzey Kule'deki ESU birimlerine bildirdi.",Güney Kule çöktükten sonra Kuzey Kulede hiç kimse kalmadı.,2
+"Güney Kulesi'nin çöküşünü gözlemlemiş olan bu memur, tahliye talimatında Kuzey Kule'deki ESU birimlerine bildirdi.","Güney Kule, yetkili Kuzey Kuledeki ESU birimleriyle konuşmadan 30 dakika önce çökmüştür.",1
+"Güney Kulesi'nin çöküşünü gözlemlemiş olan bu memur, tahliye talimatında Kuzey Kule'deki ESU birimlerine bildirdi.","Yetkili, Güney Kulenin çöküşüne şahit oldu.",0
+Indianapolis gerçekten pek çok aktörün çalışabileceği en iyi yerlerden biridir,Aktörler Indianapolis'i oradaki tüm oyunculuk ajanslarından dolayı sever.,1
+Indianapolis gerçekten pek çok aktörün çalışabileceği en iyi yerlerden biridir,"Aktörsen, Indianapolis'e taşınmayı düşünmelisin.",0
+Indianapolis gerçekten pek çok aktörün çalışabileceği en iyi yerlerden biridir,Film veya tiyatro işindeyseniz çoğunlukla bir teknoloji şehri olduğu için Indianapolis'te iş bulmak zordur.,2
+"Önleme, Bilgilendirme ve Kaynak Merkezi ve Ebeveyn Yardım hattı üzerinden haftanın 7 günü, günün 24 saati telefon üzerinden yardım sunuyoruz.",İnsanlar bize sadece posta yoluyla veya e-posta kullanarak ulaşabilirler.,2
+"Önleme, Bilgilendirme ve Kaynak Merkezi ve Ebeveyn Yardım hattı üzerinden haftanın 7 günü, günün 24 saati telefon üzerinden yardım sunuyoruz.",Bize günün her saatinde telefonla ulaşılabilir.,0
+"Önleme, Bilgilendirme ve Kaynak Merkezi ve Ebeveyn Yardım hattı üzerinden haftanın 7 günü, günün 24 saati telefon üzerinden yardım sunuyoruz.",Her Pazartesi ve Cuma günü yüzün üzerinde çağrı alıyoruz.,1
+Çünkü bu kutular diğer tüm hediyeler açıldıktan sonra uzun süre ambalajlarında kalacaktır.,Bu kutularda tehlikeli bombalar bulunur.,1
+Çünkü bu kutular diğer tüm hediyeler açıldıktan sonra uzun süre ambalajlarında kalacaktır.,Bu kutular diğer hediyelerden önce açılacak.,2
+Çünkü bu kutular diğer tüm hediyeler açıldıktan sonra uzun süre ambalajlarında kalacaktır.,Bu kutular bir süre açılmamış olarak kalacak.,0
+"Eğer fiyatlarımızı düşük tutarsak, bu misyonu yerine getirmemize yardımcı olmak için küçük bir katkı talep etmek için, seyircilerimize gelmeliyiz.",Bilet fiyatlarını 10$'ın altında tutmak için tüm izleyici üyelerimizin 25$ bağışta bulunmasını isteyeceğiz.,1
+"Eğer fiyatlarımızı düşük tutarsak, bu misyonu yerine getirmemize yardımcı olmak için küçük bir katkı talep etmek için, seyircilerimize gelmeliyiz.",Gerçekten isteseydik fiyatlarımızı düşük tutabilirdik ama patronumuz kendi lükslerini seviyor.,2
+"Eğer fiyatlarımızı düşük tutarsak, bu misyonu yerine getirmemize yardımcı olmak için küçük bir katkı talep etmek için, seyircilerimize gelmeliyiz.",Katkılarınız fiyatlarımızı düşük tutmamıza yardımcı olur.,0
+"00, yaklaşık 400 Indianapolis bölgesi çocuğuna rehberlik, teşvik ve eğlence sunmamıza yardımcı oldu.",Cömert bağışçılarımız sayesinde Indianapolis'li yetimler için bir konser düzenlemek üzere Beyonce'yi davet edebildik.,1
+"00, yaklaşık 400 Indianapolis bölgesi çocuğuna rehberlik, teşvik ve eğlence sunmamıza yardımcı oldu.",Çocuklar için bir Noel partisi vermeyi ummuştuk ama onlar için hiçbir zaman bir şey yapamadık.,2
+"00, yaklaşık 400 Indianapolis bölgesi çocuğuna rehberlik, teşvik ve eğlence sunmamıza yardımcı oldu.",Indianapolis'li pek çok çocuğa yardım edebilmiştik.,0
+"İlk olarak, bireyler, Şansölye Dairesi için yıllık sınırsız 1.000 $ veya daha fazla hediye ya da Başbakan Yardımcıları için 500 $ veya daha fazla bir ücret karşılığında katılabilirler.",Kişiler 50 dolarlık ufak bir bağış yaptıktan sonra katılabilirler.,2
+"İlk olarak, bireyler, Şansölye Dairesi için yıllık sınırsız 1.000 $ veya daha fazla hediye ya da Başbakan Yardımcıları için 500 $ veya daha fazla bir ücret karşılığında katılabilirler.",Şahıslar yeterince büyük bir bağış yaparsa katılabilir.,0
+"İlk olarak, bireyler, Şansölye Dairesi için yıllık sınırsız 1.000 $ veya daha fazla hediye ya da Başbakan Yardımcıları için 500 $ veya daha fazla bir ücret karşılığında katılabilirler.",Bir çok birey Bakanlar Kurumuna bağış yapmayı tercih ediyor.,1
+Hediyeniz bu zamanda ek yılsonu vergi avantajları sağlayabilir.,"En az 1.000$ tutarında bağışta bulunursanız, elbette vergi karı alabileceksiniz.",1
+Hediyeniz bu zamanda ek yılsonu vergi avantajları sağlayabilir.,"Ne yazık ki, vergi danışmanlarımız size herhangi bir hediye yapılmamasını tavsiye edeceklerdir.",2
+Hediyeniz bu zamanda ek yılsonu vergi avantajları sağlayabilir.,Bağışlarından vergi kesintilerini alabilirsin.,0
+"Bildiğiniz gibi bu gruba üyelik, hukuk fakültesine yıllık 1.000 $ veya daha fazla miktarda bağış yapan dostları ve mezunları içermektedir.",Bu grubun bazı üyeleri okula 100 bin $'dan fazla bağış yaptı.,1
+"Bildiğiniz gibi bu gruba üyelik, hukuk fakültesine yıllık 1.000 $ veya daha fazla miktarda bağış yapan dostları ve mezunları içermektedir.",Bu grupta hukuk fakültesine 1.000$ üzerinde katkıda bulunan insanlar var.,0
+"Bildiğiniz gibi bu gruba üyelik, hukuk fakültesine yıllık 1.000 $ veya daha fazla miktarda bağış yapan dostları ve mezunları içermektedir.",Bu gruptan okula maddi katkılarda bulunmasını istemeyi planlıyoruz ama bu daha önce hiç olmadı.,2
+50'lerde büyüyen bir çocuk olarak en mutlu anılarımdan biri Civic Theatre prodüksiyonlarına katılmak olmuştur.,"Çocukken tiyatro oyunlarına gitmekten nefret ederdim, bu yüzden bilim insanı oldum.",2
+50'lerde büyüyen bir çocuk olarak en mutlu anılarımdan biri Civic Theatre prodüksiyonlarına katılmak olmuştur.,Çocukken tiyatroya gitmeyi çok severdim.,0
+50'lerde büyüyen bir çocuk olarak en mutlu anılarımdan biri Civic Theatre prodüksiyonlarına katılmak olmuştur.,Güzel ve Çirkin favori Civic Theatre oyunumdu.,1
+Bu mektubu alan her kişi sadece 18 $ verir.,"Bu mektubu alan herkese sesleniyorum: para bağışında bulunmayın, bu bir dolandırıcılıktır.",2
+Bu mektubu alan her kişi sadece 18 $ verir.,18 dolar bağışlarsan sana bir hediye vereceğiz.,1
+Bu mektubu alan her kişi sadece 18 $ verir.,Umarız tüm mektup alıcıları 18$ bağışlayabilir.,0
+"Alt kısmı koparın, uyan kısımları işaretleyin, gerekliyse adres değişikliği yapın ve ekteki zarfla geri gönderin.",Lütfen adresinizde herhangi bir değişiklik yapmayın.,2
+"Alt kısmı koparın, uyan kısımları işaretleyin, gerekliyse adres değişikliği yapın ve ekteki zarfla geri gönderin.",Üzerinde adresinizin olduğu beyaz bir zarf iliştirilmiştir.,1
+"Alt kısmı koparın, uyan kısımları işaretleyin, gerekliyse adres değişikliği yapın ve ekteki zarfla geri gönderin.","Eğer uygun görürseniz, adresinizde değişiklik yapmakta özgürsünüz.",0
+"Hemşirelik Okulu, eğitimdeki mükemmelliğini devam ettirmek ve korumak için sizin cömert hediyelerinize ihtiyaç duyuyor.",Lütfen Hemşirelik Yüksek Okulu'na 100 milyon dolar bağışlayın yoksa hatıra heykelinizi kaybedeceksiniz.,1
+"Hemşirelik Okulu, eğitimdeki mükemmelliğini devam ettirmek ve korumak için sizin cömert hediyelerinize ihtiyaç duyuyor.","Hemşirelik okulu tüm finansal hedeflerine ulaştı, bu yüzden daha fazla paraya ihtiyacı yok.",2
+"Hemşirelik Okulu, eğitimdeki mükemmelliğini devam ettirmek ve korumak için sizin cömert hediyelerinize ihtiyaç duyuyor.",Hemşirelik Fakültesine bağışta bulunacağını umuyoruz.,0
+Katılımcıların %80'i çatışma çözme becerilerinde artış rapor edecektir.,Katılımcıların yarısından çoğu gelişmiş uyuşmazlık çözüm becerileri bildirecektir.,0
+Katılımcıların %80'i çatışma çözme becerilerinde artış rapor edecektir.,Katılımcıların sadece bir çeyreği çelişkili karar verme becerilerini bildirecektir.,2
+Katılımcıların %80'i çatışma çözme becerilerinde artış rapor edecektir.,100'den fazla bireysel katılımcı vardı.,1
+Lütfen verdiğiniz donör listemize sıvışmayın.,Bağış yapmayı bırakman ayıp olurdu.,0
+Lütfen verdiğiniz donör listemize sıvışmayın.,"Zaman aşımına uğramış bağışçı listemiz dünyanın görmesi için yayınlandı, o yüzden bana güvenin, o şekilde utanmak istemezsiniz!",1
+Lütfen verdiğiniz donör listemize sıvışmayın.,"Birçok bağışçımız var, bu yüzden lütfen bağış yapmayı bırakın.",2
+"Alanlarımıza erişim, bilgisayar ve modem sahibi herkese açık olacaktır.",Giriş hakkı için insanların bir şeye ihtiyacı yok.,2
+"Alanlarımıza erişim, bilgisayar ve modem sahibi herkese açık olacaktır.",İnsanlar alanlara girmek için hem bir bilgisayara hem de bir modeme ihtiyaç duyar.,0
+"Alanlarımıza erişim, bilgisayar ve modem sahibi herkese açık olacaktır.","İnsanların, erişim sağlayabilmek için sahaya girerken  bilgisayar ve modemlerini yanlarında taşımaları gerekiyor.",1
+Bilet satışları ve abonelikler tüm sezonumuzu finanse edemez,Bilet satışlarımız olduğu sürece tüm sezonumuz finanse edilir.,2
+Bilet satışları ve abonelikler tüm sezonumuzu finanse edemez,Tam sezonumuzun finanse edilebilmesi için sadece bilet satışlarından ve aboneliklerden daha fazlasına ihtiyacı var.,0
+Bilet satışları ve abonelikler tüm sezonumuzu finanse edemez,Bilet satışları ve abonelikler tüm sezonumuzun finansman maliyetlerinin sadece %70'ini kapsıyor.,1
+YENİ GELENLER HER HEDİYE BİR FARKLILIK YAPIYOR!,Her hediye kayıt altına alınır ve aylık dergimizde ilan edilir.,1
+YENİ GELENLER HER HEDİYE BİR FARKLILIK YAPIYOR!,Verilen her hediye bir şeye sayılır.,0
+YENİ GELENLER HER HEDİYE BİR FARKLILIK YAPIYOR!,Sadece 100$ üzerindeki hediyeler bir fark yaratır.,2
+Sizin gibi arkadaşlar ve abonelerden gelecek 365.000$'lık hedefimize ulaşmak için daha çok yolumuz var.,Para hedefimiz 300.000$'ı aşıyor.,0
+Sizin gibi arkadaşlar ve abonelerden gelecek 365.000$'lık hedefimize ulaşmak için daha çok yolumuz var.,Mali hedefimizi üçe katlamayı umuyoruz.,1
+Sizin gibi arkadaşlar ve abonelerden gelecek 365.000$'lık hedefimize ulaşmak için daha çok yolumuz var.,Parayla ilgili herhangi bir mihenk taşımız yok.,2
+Sivil Uygulama Kliniğimiz birkaç yıl boyunca faaliyet gösterdi ve yakın zamanda bir Ceza Savunma Kliniği ekledik.,Sivil Uygulama Kliniğimiz sekiz yıldır faaliyet göstermektedir.,1
+Sivil Uygulama Kliniğimiz birkaç yıl boyunca faaliyet gösterdi ve yakın zamanda bir Ceza Savunma Kliniği ekledik.,Gelecek ay bizim Sivil Uygulama kliniğimiz çalıştığı ilk tam yılı kutluyor.,2
+Sivil Uygulama Kliniğimiz birkaç yıl boyunca faaliyet gösterdi ve yakın zamanda bir Ceza Savunma Kliniği ekledik.,Sivil Uygulama Kliniği bir yıldan daha uzun süredir faaliyette.,0
+Bilet geliri bu programların maliyetini karşılamaya başlamadı.,Bu programların maliyeti biletlerden kazanılan parayla  karşılanmayacak gibi görünüyor.,0
+Bilet geliri bu programların maliyetini karşılamaya başlamadı.,Bu programların maliyeti çok yüksektir.,1
+Bilet geliri bu programların maliyetini karşılamaya başlamadı.,Bilet geliri kesinlikle bu programların maliyetini karşılayacaktır.,2
+"Omnia vincit amor (Haftalık Standart için çalışmadığınız sürece): Brit Hume (Fox News Sunday), Lewinsky'nin neden hala başkan üzerinde umutsuz bir şekilde ezilmeye başlayacağını tahmin ediyor.",Brit Hume Fox'ta önemli bir muhabirdir.,1
+"Omnia vincit amor (Haftalık Standart için çalışmadığınız sürece): Brit Hume (Fox News Sunday), Lewinsky'nin neden hala başkan üzerinde umutsuz bir şekilde ezilmeye başlayacağını tahmin ediyor.","Brit Hume, CNN için çalışıyor.",2
+"Omnia vincit amor (Haftalık Standart için çalışmadığınız sürece): Brit Hume (Fox News Sunday), Lewinsky'nin neden hala başkan üzerinde umutsuz bir şekilde ezilmeye başlayacağını tahmin ediyor.",Brit Hume Fox için çalışıyor.,0
+Diziyi daha fazla insani bir dokunuşa getirmek için Michael Apted'i işe almaktan çok şey yapıldı.,"Michael Apted her türlü içten, insani unsurları kaldırmakta ısrar ederek diziyi mahvetti.",2
+Diziyi daha fazla insani bir dokunuşa getirmek için Michael Apted'i işe almaktan çok şey yapıldı.,Michael Apted diziye kişisel bir kalite katmak için kiralandı.,0
+Diziyi daha fazla insani bir dokunuşa getirmek için Michael Apted'i işe almaktan çok şey yapıldı.,"Dizilerin soğuk ve sıkıcı olduğu düşünülüyordu, bu yüzden Michael Apted'i izlenme oranlarını artırmak için sıcak ve kişisel bir dokunuş eklemesi için tutmak önemliydi.",1
+Beyaz kürklü bir parka ve bot giymiş bir kızı izlemek,Bir kız kıyak kaymak üzere giyinmişti.,1
+Beyaz kürklü bir parka ve bot giymiş bir kızı izlemek,Kız beyaz elbiseler giyer.,0
+Beyaz kürklü bir parka ve bot giymiş bir kızı izlemek,Kız tamamen kırmızı giyinmişti.,2
+"Filmin bahsetmeyi ihmal ettiği şey, Kaufman'ın kendi ölümünün nasıl üstesinden gelmek istediği hakkında sık sık konuşmuş olmasıydı.",Filmde Kaufman'ın kendi ölümünü değerlendirmesine yer verilmemektedir.,0
+"Filmin bahsetmeyi ihmal ettiği şey, Kaufman'ın kendi ölümünün nasıl üstesinden gelmek istediği hakkında sık sık konuşmuş olmasıydı.","Filmin Kaufman ile, onun ölümü hakkında olan derinlemesine bir röportajı vardı.",2
+"Filmin bahsetmeyi ihmal ettiği şey, Kaufman'ın kendi ölümünün nasıl üstesinden gelmek istediği hakkında sık sık konuşmuş olmasıydı.","Film, Kaufman ile ilgili bazı önemli detayları atlamasına rağmen hasılat rekorları kırdı.",1
+"İntikam Meleği Tarbell McClure's'ta  onu parçalamaya başladığında Rockefeller, bu acı dolu sona yakalanmıştı.",Rockefeller kanser araştırmasına katkıda bulundu.,1
+"İntikam Meleği Tarbell McClure's'ta  onu parçalamaya başladığında Rockefeller, bu acı dolu sona yakalanmıştı.",Rockefeller cömertti.,0
+"İntikam Meleği Tarbell McClure's'ta  onu parçalamaya başladığında Rockefeller, bu acı dolu sona yakalanmıştı.",Rockefeller pintiydi.,2
+"Daha yakın zamanlarda, New York'taki bir ticaret davasında Klayman, etnik önyargı suçlamalarının diğer ucunda kendini buldu.",Klayman Kaliforniya'da etnik taraflılık suçlamasıyla mahkemeye çıkarıldı.,2
+"Daha yakın zamanlarda, New York'taki bir ticaret davasında Klayman, etnik önyargı suçlamalarının diğer ucunda kendini buldu.","Klayman, ırkçı önyargıyla suçlanmayı beklemiyordu.",1
+"Daha yakın zamanlarda, New York'taki bir ticaret davasında Klayman, etnik önyargı suçlamalarının diğer ucunda kendini buldu.",Klayman'a karşı etnik ön yargı iddiaları vardı.,0
+"Birisi kendi tıslamalarına, yuhlamalarına ve oturan bir ABD işçi sekreterine saçma sapan bağırmasına bir oda dolusu ortak cevabı beklemesi zordur.",Kurumsal temsilciler takım elbise giyerler.,1
+"Birisi kendi tıslamalarına, yuhlamalarına ve oturan bir ABD işçi sekreterine saçma sapan bağırmasına bir oda dolusu ortak cevabı beklemesi zordur.",Biri şirket temsilcilerinin tıslamalarını beklerdi.,2
+"Birisi kendi tıslamalarına, yuhlamalarına ve oturan bir ABD işçi sekreterine saçma sapan bağırmasına bir oda dolusu ortak cevabı beklemesi zordur.",Şirket temsilcilerinin ıslıklaması pek beklenmez.,0
+"Sadece beslenmenin sportif performans üzerinde daha önemli bir etkisi olması, doğanın uykuda olduğu anlamına gelmez.","Atletler, tüm performans potansiyelleri tam olarak fark edilir bir şekilde dünyaya gelir.",2
+"Sadece beslenmenin sportif performans üzerinde daha önemli bir etkisi olması, doğanın uykuda olduğu anlamına gelmez.","Atletik performans, genetikten ziyade antrenmandan etkilenmektedir.",0
+"Sadece beslenmenin sportif performans üzerinde daha önemli bir etkisi olması, doğanın uykuda olduğu anlamına gelmez.",Daha ciddi sporcular haftada en az sekiz saat antrenman yapar.,1
+"Eve dönünce, Birleşik Devletler'in arzı iki şekilde kestiğini öğrendim.",Politika ile ilgileniyorum.,1
+"Eve dönünce, Birleşik Devletler'in arzı iki şekilde kestiğini öğrendim.",Birleşik Devletler hakkında bilgi edindim.,0
+"Eve dönünce, Birleşik Devletler'in arzı iki şekilde kestiğini öğrendim.",Amerika'nın malzemeleri gelmeden önce iki şekilde kestiğini öğrendim.,2
+Dünyanın en eski ve en büyük üniversite basını - Oxford - şiir listesini iptal ettiğini açıkladı.,Oxford'daki şiir listesi artık devam ettirilmiyor.,0
+Dünyanın en eski ve en büyük üniversite basını - Oxford - şiir listesini iptal ettiğini açıkladı.,Prestige üniversitesinin şiir listesini aktif tutabilecek fonu yok.,1
+Dünyanın en eski ve en büyük üniversite basını - Oxford - şiir listesini iptal ettiğini açıkladı.,Üniversite şiir listesini korumaya adanmış durumda ve listeyi hiçbir zaman iptal etmemeye yemin ediyor.,2
+Yine de insanlık için bir teselli ödülü var.,Teselli ödülü herkes için ücretsiz iki hıza sahip blender.,1
+Yine de insanlık için bir teselli ödülü var.,Bu durumda insanlar avantajlı değiller.,2
+Yine de insanlık için bir teselli ödülü var.,"Bu, insanlar için o kadar da kötü bir haber değil.",0
+"Spor, bu sahalarda bahse girilecek tek etkinlik değildir.",Bu sitelerde politik mücadele ve seçimler üzerine bahisler de kabul edilmektedir.,1
+"Spor, bu sahalarda bahse girilecek tek etkinlik değildir.",Bu siteler sadece spor müsabakalarına bahis kabul eder.,2
+"Spor, bu sahalarda bahse girilecek tek etkinlik değildir.",Bu sahalar çeşitli aktivitelerde en iyilerini alır.,0
+"25 Ağustos'ta, Atlantik şehrinde Demokratik kongre açıldıktan sonra, N.J., Johnson, 56 yaşındayken, başkanlık yarışından çekilmek için kaydedilen üç konuşmada tehdit etti.",Johnson destek eksikliği hissetti.,1
+"25 Ağustos'ta, Atlantik şehrinde Demokratik kongre açıldıktan sonra, N.J., Johnson, 56 yaşındayken, başkanlık yarışından çekilmek için kaydedilen üç konuşmada tehdit etti.","Johnson, geri çekilmek hakkında düşünmemişti.",2
+"25 Ağustos'ta, Atlantik şehrinde Demokratik kongre açıldıktan sonra, N.J., Johnson, 56 yaşındayken, başkanlık yarışından çekilmek için kaydedilen üç konuşmada tehdit etti.",Johnson geri çekilmesi için tehdit etti.,0
+Lamar Alexander başkanlık teklifini düşürdü.,En azından bir kişi başkan olma çabasından vazgeçti.,0
+Lamar Alexander başkanlık teklifini düşürdü.,"Lamar Alexander, başkan adaylığı kampanyasından vazgeçmeyi reddetti.",2
+Lamar Alexander başkanlık teklifini düşürdü.,"Bay Alexander, utanç verici resimleri yayınlandıktan sonra ayrılmaya zorlanmıştır.",1
+Bu üzücü sivil özgürlükler kaydının ötesinde FBI'nin Beyaz Sarayın şu anda Filegate olarak bilinen kendi orijinal seyahat soruşturma ofisindeki kötüye kullanımıdır.,Beyaz Saray'ın siyasi adaylar hakkında FBI ajanı vardır.,1
+Bu üzücü sivil özgürlükler kaydının ötesinde FBI'nin Beyaz Sarayın şu anda Filegate olarak bilinen kendi orijinal seyahat soruşturma ofisindeki kötüye kullanımıdır.,Beyaz Saray FBI'yi kötüye kullanıyor.,0
+Bu üzücü sivil özgürlükler kaydının ötesinde FBI'nin Beyaz Sarayın şu anda Filegate olarak bilinen kendi orijinal seyahat soruşturma ofisindeki kötüye kullanımıdır.,Beyaz Saray FBI'yı uygun şekilde kullanıyor.,2
+"Tung, emlak spekülatörlerine karşı sert önlemler almaya yemin etti, ama birçok kişi havlayan köpeğin ısırmayacağını düşünüyor.",Tung gayrimenkul spekülatörlerini umursamaz.,2
+"Tung, emlak spekülatörlerine karşı sert önlemler almaya yemin etti, ama birçok kişi havlayan köpeğin ısırmayacağını düşünüyor.","Tung, mülk spekülatörlerinin etik davranmadıklarını düşünüyor.",1
+"Tung, emlak spekülatörlerine karşı sert önlemler almaya yemin etti, ama birçok kişi havlayan köpeğin ısırmayacağını düşünüyor.","Tung, mülk spekülatörlerini etkilemek istiyor.",0
+"Şikayetler, bagaj sorumlarını, kızgın uçuş katılımcılarını, gizemli bir şekilde iptal edilen uçuşları, fiyatlandırmadaki acımasızlıkları kapsıyordu.",10 kişi bagajlarını kaybetti.,1
+"Şikayetler, bagaj sorumlarını, kızgın uçuş katılımcılarını, gizemli bir şekilde iptal edilen uçuşları, fiyatlandırmadaki acımasızlıkları kapsıyordu.",İnsanlar bagajdan şikayet etmişti.,0
+"Şikayetler, bagaj sorumlarını, kızgın uçuş katılımcılarını, gizemli bir şekilde iptal edilen uçuşları, fiyatlandırmadaki acımasızlıkları kapsıyordu.",Hiçbir şikayet yoktu.,2
+Kurbanının kolunun alt kısmını kestikten sonra hapishanede sadece sekiz yıl kalan kötü şöhretli bir tecavüzcü olan Lawrence Singleton Florida'da başka bir kadını bıçaklayarak öldürmek suçuyla tutuklandı.,Kurbanlarının kollarını dirseklerinden kesip bir çöp kutusuna atarak saklamaya çalıştı.,1
+Kurbanının kolunun alt kısmını kestikten sonra hapishanede sadece sekiz yıl kalan kötü şöhretli bir tecavüzcü olan Lawrence Singleton Florida'da başka bir kadını bıçaklayarak öldürmek suçuyla tutuklandı.,Hapishanede geçirdiği zamanın onu tamamen rehabilite ettiği herkes için aşikardı.,2
+Kurbanının kolunun alt kısmını kestikten sonra hapishanede sadece sekiz yıl kalan kötü şöhretli bir tecavüzcü olan Lawrence Singleton Florida'da başka bir kadını bıçaklayarak öldürmek suçuyla tutuklandı.,Bay Singleton Florida'da hükümlü bir tecavüzcüdür.,0
+"New Republic’in Charles Lane’i, kaçırma haberinin sadece Gabriel Garcaa Marquez’in dürüst olmayan gazetecilik kayıtlarını uzattığını söylüyor.",Charles Lane bir gazetecidir.,0
+"New Republic’in Charles Lane’i, kaçırma haberinin sadece Gabriel Garcaa Marquez’in dürüst olmayan gazetecilik kayıtlarını uzattığını söylüyor.",Charles Lane araba satıyordu.,2
+"New Republic’in Charles Lane’i, kaçırma haberinin sadece Gabriel Garcaa Marquez’in dürüst olmayan gazetecilik kayıtlarını uzattığını söylüyor.",Charles Lane bir Pulitzer ödülü kazanmıştır.,1
+Mahkeme bu sabah Washington’da sadece politik gösteri değildir.,Adliye sarayı washington'daki tek siyasi yer değildir.,0
+Mahkeme bu sabah Washington’da sadece politik gösteri değildir.,Politikada gün sabah genellikle sabah başlar.,1
+Mahkeme bu sabah Washington’da sadece politik gösteri değildir.,Şehir merkezinde palyaçoların bulunduğu bir sirk var.,2
+"İnsan, yeni bir site için bir yolu kepçeyle düzelten ve müteahhit tarafından takdir edilen bir buldozer operatörünü hayal edebilie. Selam, Loyd...",Buldozer çalıştıran bir buldozer operatörü hayal edebilirsin.,1
+"İnsan, yeni bir site için bir yolu kepçeyle düzelten ve müteahhit tarafından takdir edilen bir buldozer operatörünü hayal edebilie. Selam, Loyd...",Bir buldozer operatörünü hayal edebilirsin.,0
+"İnsan, yeni bir site için bir yolu kepçeyle düzelten ve müteahhit tarafından takdir edilen bir buldozer operatörünü hayal edebilie. Selam, Loyd...",Bir buldozer operatörünü hayal edemezsin.,2
+"Bunu bir mektupta Doktora bildirdim, onu eğlendirmiş gibi görünüyordu ve bana o Noelde küçük bir meyveli pasta gönderdi.",Doktorun kendisine gönderdiğim mektubu aldığına eminim.,0
+"Bunu bir mektupta Doktora bildirdim, onu eğlendirmiş gibi görünüyordu ve bana o Noelde küçük bir meyveli pasta gönderdi.",Doktorun o Noel'de bana gönderdiği pastayı yemedim.,1
+"Bunu bir mektupta Doktora bildirdim, onu eğlendirmiş gibi görünüyordu ve bana o Noelde küçük bir meyveli pasta gönderdi.",O Noel'de doktor bana bir şişe şarap gönderdi.,2
+"Ekip daha önce merak uyandıran Beaneaters tarafından biliniyordu, ki bu da ilginç bir şekilde bir Hint takma adı olarak düşünülebilirdi.",Takım adını değiştirdi çünkü popüler değildi.,1
+"Ekip daha önce merak uyandıran Beaneaters tarafından biliniyordu, ki bu da ilginç bir şekilde bir Hint takma adı olarak düşünülebilirdi.",Takımın bundan önce kızılderili bir takma ad olarak da düşünülebilecek bir adı vardı.,0
+"Ekip daha önce merak uyandıran Beaneaters tarafından biliniyordu, ki bu da ilginç bir şekilde bir Hint takma adı olarak düşünülebilirdi.",Takımın şimdiye kadar sadece bir ismi oldu.,2
+Eşanlamlılarda böyle bir tanım bulamadım.,Tanımını sözlükte buldum.,2
+Eşanlamlılarda böyle bir tanım bulamadım.,Sözcüklere baktım ama bir tanım bulamadım.,0
+Eşanlamlılarda böyle bir tanım bulamadım.,"Kullandığım eş anlamlılar, standart eş anlamlılardı.",1
+Birisi bunu nasıl yapabilir?,Neden pek çok insan hiçbir şey yapmıyor?,2
+Birisi bunu nasıl yapabilir?,Birisi bu kadar kötü bir şeyi nasıl yapabilir.,1
+Birisi bunu nasıl yapabilir?,Birinin bunu yapması nasıl mümkün olabilir?,0
+"Dahası, Ön Söz'e göre sadece Yirminci Yüzyılda ortaya çıktığı bilinen terimleri içermekte, ama 20. yüzyılın başındaki askeri argoyu atlamış.","Önsöze göre, yirminci yüzyılda yükselen terimleri içerir ancak daha önce ortaya çıkan argo terimleri kapsamaz.",0
+"Dahası, Ön Söz'e göre sadece Yirminci Yüzyılda ortaya çıktığı bilinen terimleri içermekte, ama 20. yüzyılın başındaki askeri argoyu atlamış.",Zamanın başlangıcından beri bütün argo sözcükleri içinde kapsar.,2
+"Dahası, Ön Söz'e göre sadece Yirminci Yüzyılda ortaya çıktığı bilinen terimleri içermekte, ama 20. yüzyılın başındaki askeri argoyu atlamış.",Yirminci yüzyılın öncesinden kalan çok fazla argo var.,1
+"1984 baskısına sahip olan biri, daha kısa (ve daha az pahalı) bir Supplement yerine bu kitabı satın almak zorunda olmaya sinirlenirdi.",1984 baskısı partinin en iyisidir.,1
+"1984 baskısına sahip olan biri, daha kısa (ve daha az pahalı) bir Supplement yerine bu kitabı satın almak zorunda olmaya sinirlenirdi.",Kitap satılık değil.,2
+"1984 baskısına sahip olan biri, daha kısa (ve daha az pahalı) bir Supplement yerine bu kitabı satın almak zorunda olmaya sinirlenirdi.","Ek, kitabın kendisinden daha ucuzdur.",0
+Bernstein girişte açıklıyor,Bernstein onu derinlemesine açıklamıyor.,1
+Bernstein girişte açıklıyor,Bernstein bunu sadece sonuçta açıkladı.,2
+Bernstein girişte açıklıyor,Giriş bir açıklama içerir.,0
+"Bu konuların, sadece yirmi yıldan fazla bir süre sonra bile, zor bir durum olduğu ve bu konuda komik olan bir çok şeyi ayırt edebilmesinin zor olduğu söylenemez.",Ana dili konuşanların bile bazen mizahla ilgili sorunları vardır.,1
+"Bu konuların, sadece yirmi yıldan fazla bir süre sonra bile, zor bir durum olduğu ve bu konuda komik olan bir çok şeyi ayırt edebilmesinin zor olduğu söylenemez.",Mizah genellikle yabancıların anlayabileceği en kolay şeylerden biridir.,2
+"Bu konuların, sadece yirmi yıldan fazla bir süre sonra bile, zor bir durum olduğu ve bu konuda komik olan bir çok şeyi ayırt edebilmesinin zor olduğu söylenemez.",Bu konular dışarıdan gelenlerin anlaması zor konulardır.,0
+"Son olarak, insan kendiyle belirgin biçimde farklı bir anlam taşıyan uzanıma dikakt etmelidir.",Bu tür hataları yakalamak için normalde editörler işe alınır.,1
+"Son olarak, insan kendiyle belirgin biçimde farklı bir anlam taşıyan uzanıma dikakt etmelidir.","Uzama, bir ifadenin anlamının açıklığa kavuşturulmasının sağlanması için harika bir yoldur.",2
+"Son olarak, insan kendiyle belirgin biçimde farklı bir anlam taşıyan uzanıma dikakt etmelidir.",Daha uzun bir açıklama yapmaya çalışırken anlam değişebilir.,0
+Başınızı ısı ile döndürün.,"Bir kişinin kafasına ısı uygulamak, odaklanma ve konsantrasyonlarını iyileştirmenin iyi bir yoludur.",2
+Başınızı ısı ile döndürün.,Aşırı ısı bazı durumlarda baş dönmesine neden olabilir.,0
+Başınızı ısı ile döndürün.,Bugün sıcaklık mevsimsel ortalamanın beş derece üzerindeydi.,1
+Başka bir mesleğin bu kadar zengin bir kendiyle dalga geçme geleneği yoktur.,Diğer birçok meslek kendini fazlasıyla düşünmektedir.,1
+Başka bir mesleğin bu kadar zengin bir kendiyle dalga geçme geleneği yoktur.,Pek çok meslekte bireyin kendisiyle dalga geçmesi geleneği vardır.,2
+Başka bir mesleğin bu kadar zengin bir kendiyle dalga geçme geleneği yoktur.,Başka hiçbir işte kendisini böyle güçlü bir şekilde eleştirme geleneği yoktur.,0
+"Ve gurur notlarıyla, yerel lore içinde kibirli isimler kazanmış olan paçavralar, bu lakaplarını özel yazışmalarda, salon sohbeti ve gayri resmi özgeçmişlerde kullanırlar.",Kağıtların hiçbir itibarı yok.,2
+"Ve gurur notlarıyla, yerel lore içinde kibirli isimler kazanmış olan paçavralar, bu lakaplarını özel yazışmalarda, salon sohbeti ve gayri resmi özgeçmişlerde kullanırlar.",Bu kağıtların iyi bir itibarı yok.,0
+"Ve gurur notlarıyla, yerel lore içinde kibirli isimler kazanmış olan paçavralar, bu lakaplarını özel yazışmalarda, salon sohbeti ve gayri resmi özgeçmişlerde kullanırlar.",Bu kağıtlar ev hanımlarının bir sürü dedikodusuyla dolu.,1
+Eğer lite / light sadece biranın bir karakteristiğini tanımlarsa (ör.,Birada lite veya light etiketi olabilir.,0
+Eğer lite / light sadece biranın bir karakteristiğini tanımlarsa (ör.,Lite ve light sözcükleri sadece şarap ve viskiyi açıklamak için kullanılır.,2
+Eğer lite / light sadece biranın bir karakteristiğini tanımlarsa (ör.,Lite biranın yüksek bir alkol yüzdesi yoktur.,1
+Üzerinde çok çalışılmış olan zavallı isim o ya da herhangi bir alternatif gerekli olmadığında bile kullanılmıştı.,İnsanlar alternatif bir isim bulmak için mücadele ederler.,1
+Üzerinde çok çalışılmış olan zavallı isim o ya da herhangi bir alternatif gerekli olmadığında bile kullanılmıştı.,İsim çok fazla kullanılmış.,0
+Üzerinde çok çalışılmış olan zavallı isim o ya da herhangi bir alternatif gerekli olmadığında bile kullanılmıştı.,İsim daha çok kullanılmalı.,2
+"Bunların ötesinde, dokunaklı yazının yine de bazen unutulmaz olduğu, sorunu birleştirdiğine dair mutsuz bir gerçeğimiz var.",İnsanların zayıf yazımı hatırlama olasılığı daha yüksektir.,2
+"Bunların ötesinde, dokunaklı yazının yine de bazen unutulmaz olduğu, sorunu birleştirdiğine dair mutsuz bir gerçeğimiz var.",İyi yazılmış bir metni hatırlamak sıklıkla kötü yazılmış bir metni hatırlamaktan daha kolaydır.,0
+"Bunların ötesinde, dokunaklı yazının yine de bazen unutulmaz olduğu, sorunu birleştirdiğine dair mutsuz bir gerçeğimiz var.",İyi yazılmış bir metnin büyük miktarlarda üretilmesi çok pahalıdır.,1
+Bu tavırla karşılaşan ve biraz etkilenen İngilizler sözcüğü yazarak saygılarını göstermiştir.,İngilizlerin hiçbir saygısı yoktu.,2
+Bu tavırla karşılaşan ve biraz etkilenen İngilizler sözcüğü yazarak saygılarını göstermiştir.,İngilizler dünya ekonomisini devraldı.,1
+Bu tavırla karşılaşan ve biraz etkilenen İngilizler sözcüğü yazarak saygılarını göstermiştir.,İngilizler bütün dünyada  bir çok alım satım yaptılar.,0
+Bazen en sinsisidir de.,O zamanlar tespit etmek çok zor olabilir.,0
+Bazen en sinsisidir de.,Özenle yalıtılmış motoru sayesinde çok az gürültü çıkarır.,1
+Bazen en sinsisidir de.,Herhangi bir mesafeden algılamak her zaman kolaydı.,2
+"Aslında, elbette Britanya'da Kuzey Amerika'dan daha fazla farklı İngilizce lehçesi var ve onları dinlemeye vakit ayıran herkes, bazılarının karşılıklı olarak anlaşılmaz olduğunu bilir.",İngiltere'de Kuzey Amerika'dakilerden daha fazla sayıda farklı İngilizce lehçeleri vardır.,0
+"Aslında, elbette Britanya'da Kuzey Amerika'dan daha fazla farklı İngilizce lehçesi var ve onları dinlemeye vakit ayıran herkes, bazılarının karşılıklı olarak anlaşılmaz olduğunu bilir.",Kuzey Amerika ve İngiliz lehçeleri tam olarak aynıdır ve insanlar aralarındaki farkı ayırt edemez.,2
+"Aslında, elbette Britanya'da Kuzey Amerika'dan daha fazla farklı İngilizce lehçesi var ve onları dinlemeye vakit ayıran herkes, bazılarının karşılıklı olarak anlaşılmaz olduğunu bilir.",Kuzey Amerikalılar İngiliz diyalektlerinin yarısını anlamada zorluk çeker.,1
+"“Bir Tennessee muhbiri, ılık, yağmursuz hava için köpek havasını kullandı ve bu da kuru Ağustos hava koşullarına işaret eden köpek günlerinden kaynaklanıyor olabilir.","Bilgi veren kişinin söylediklerine göre, sezonluk muson yağmurlarını anlatmak için köpek havası ifadesi kullanılıyordu.",2
+"“Bir Tennessee muhbiri, ılık, yağmursuz hava için köpek havasını kullandı ve bu da kuru Ağustos hava koşullarına işaret eden köpek günlerinden kaynaklanıyor olabilir.",Haziran ve Temmuz da Tennessee'de çok sıcak.,1
+"“Bir Tennessee muhbiri, ılık, yağmursuz hava için köpek havasını kullandı ve bu da kuru Ağustos hava koşullarına işaret eden köpek günlerinden kaynaklanıyor olabilir.",Ağustos ayında çoğu günler hava sıcak ve yağmursuzdur.,0

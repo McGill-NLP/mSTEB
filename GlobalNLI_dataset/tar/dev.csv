@@ -1,0 +1,31 @@
+premise,hypothesis,label
+A’lí je aníli échiko: ku bitichí ne atíki Nana,"Jiyáwiti bayéli kipu iyé, mapu a’lí ke séali kamíoni aseyá.",1
+A’lí je aníli échiko: ku bitichí ne atíki Nana,Ke ne’óli binóiko,2
+A’lí je aníli échiko: ku bitichí ne atíki Nana,"Iyéla ku ruyéli, mapu bitichí ku nawáli.",0
+"Ke namúti machíli chu isíma echimí, pe Washintong anelíachi ruyebarike.","Echimí ne julásuwa ma ne we’káli, ke sinéti ne ra’éwi Washintong.",1
+"Ke namúti machíli chu isíma echimí, pe Washintong anelíachi ruyebarike.",Binói we ga’lá machíli chu isísa siméa aminá Washington.,2
+"Ke namúti machíli chu isíma echimí, pe Washintong anelíachi ruyebarike.","Ariká ne simíki aminá Washinton, nalí ke machiká piri ne oláma echimí, mapu oná ne juláiru.",0
+Binói ko ke umúruli simiyá,"Ne bachá bajuréiru echikó, echi riká benéli ajaré namúti.",2
+Binói ko ke umúruli simiyá,Ke risencia ju mapu siméa.,0
+Binói ko ke umúruli simiyá,"Ke nakíliru mapu siméa, kalí museo erápuliwachi.",1
+"Ga’lá ke nijéko, echi riká níili.","Nejé ma katúilachi, suwíbali.",0
+"Ga’lá ke nijéko, echi riká níili.","Tasi nejéwiki ne, a’lí uchécho wilísi níili.",2
+"Ga’lá ke nijéko, echi riká níili.","Nejé ma nejeyása, okuáka katúisa a’líkota niwíporui.",1
+Nejéko echoná asaká karéwiki.,"Sinéwi jonsa ne machíki, chu riká ju.",2
+Nejéko echoná asaká karéwiki.,"Kúmi riká ikíli alé échi wenomí, je iriká ni nátai.",1
+Nejéko echoná asaká karéwiki.,We ni náta machinála.,0
+"A’lí ko ma ke tasi basalówili kipi ritémala, mapu kítiko otosákami kayenáma riké.",Sinibí énali kípi ritémala basalówia i’nénia,2
+"A’lí ko ma ke tasi basalówili kipi ritémala, mapu kítiko otosákami kayenáma riké.",Ma ke tasi basalówili kípi ritémala.,0
+"A’lí ko ma ke tasi basalówili kipi ritémala, mapu kítiko otosákami kayenáma riké.","tási basalówili kípi ritémala, mapu jónsa ma we nakichika kawéliwa ritemta neráa.",1
+"Ta wiláami usúko we ra’íchaka ku newaláami ke mapu chu riká katúili ko’chilá a’lí kunála aminá Augusta anelíachi simíba, mapu riká o’tosáka mayéba.","‘Usú rijimálako rosákami níili, a’lí Texas anelíachi simíli.",2
+"Ta wiláami usúko we ra’íchaka ku newaláami ke mapu chu riká katúili ko’chilá a’lí kunála aminá Augusta anelíachi simíba, mapu riká o’tosáka mayéba.",‘Usú rijimálako ke tási rosákmi níili.,0
+"Ta wiláami usúko we ra’íchaka ku newaláami ke mapu chu riká katúili ko’chilá a’lí kunála aminá Augusta anelíachi simíba, mapu riká o’tosáka mayéba.","‘Usú rijimálako tási rosákami ke, nalí rosákami nínali binói, echi rikáko ayena a uméri benelíachi skuelchi beneyá.",1
+"Amu machí, mapu riká echiko we wenomíwiami nolá níili, we’lebesi bukéami níwimi niili ewénowala.","Onoláko we risóta ke, tási namúti níwili.",2
+"Amu machí, mapu riká echiko we wenomíwiami nolá níili, we’lebesi bukéami níwimi niili ewénowala.",Onoláko okuá mili kayámti níwili wasá mapu oná ichiwá.,1
+"Amu machí, mapu riká echiko we wenomíwiami nolá níili, we’lebesi bukéami níwimi niili ewénowala.","Onoláko, ne we’lési níwiami níili namúti.",0
+"Mapu a’lí avioni i’nímare mekabé simiyá, nejéko nochai chalecos uchúcha a’lí paracaídas anelíami si,","Ku bitichí suwába caja ne katéwiki, ma ké nirúli nóchali",2
+"Mapu a’lí avioni i’nímare mekabé simiyá, nejéko nochai chalecos uchúcha a’lí paracaídas anelíami si,",Aminá Japón anelíachi n ene júlaki caja.,1
+"Mapu a’lí avioni i’nímare mekabé simiyá, nejéko nochai chalecos uchúcha a’lí paracaídas anelíami si,",Echimí ne júlaki.,0
+"Echi riká ju, mapu riká ni jiwéra buléra ripí.",Ne a’lá ni i’néki mapu kini buléala ne jiwéra ripíma.,1
+"Echi riká ju, mapu riká ni jiwéra buléra ripí.",Echi riká ru mapuni ku bo’tanáiru.,2
+"Echi riká ju, mapu riká ni jiwéra buléra ripí.","Echi riká ju, mapu cha’pi´rua ri’pí.",0

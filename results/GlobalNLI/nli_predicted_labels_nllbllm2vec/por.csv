@@ -1,0 +1,601 @@
+premise,hypothesis,gpt_label
+Um estudo afirma que jogar videogame pode aumentar a inteligência,Um estudo afirma que jogar videogame pode diminuir a inteligência,2
+"Um indivíduo está sentado à beira do mar, sendo atingido por uma onda",O indivíduo está usando um chapéu de palha enquanto está sentado à beira do mar,1
+Uma embalagem de presente decorada com um personagem de desenho animado,Há um personagem de desenho animado na embalagem do presente.,0
+Um profissional de saúde está realizando radioterapia em um paciente deitado,O profissional de saúde tem muitos anos de experiência em radioterapia.,1
+Uma garota pequena no vestido vermelho está correndo na areia,Uma criança está correndo na areia.,0
+Um helicóptero é ilustrado voando entre as nuvens,Não há helicóptero voando entre as nuvens,2
+A água está sendo derramada na chaleira pelo homem,O homem está usando uma camisa azul,2
+Um bolo retangular está coberto com ganache e decorado com raspas de chocolate preto na lateral e topo,O bolo retangular está sem cobertura e sem decoração,0
+Atores e atrizes da peça estão vestidos com seus figurinos para a promoção do espetáculo,Os atores e atrizes têm experiência em teatro,1
+O céu está nublado e ventando,O céu está limpo e sem vento,2
+"Relógios digitais estão disponíveis nas cores dourada, rosé e prata",Relógios digitais possuem alarme.,1
+Três palhaças estão se apresentando no espetáculo,Uma das palhaças tem uma peruca azul,2
+Indivíduos vestindo roupas de frio estão sendo fornecidos com máscaras pela equipe do governo local,As pessoas estão recebendo máscaras da equipe do governo local,0
+Um homem está degustando um prato de frutos do mar,O homem está comendo frutos do mar.,0
+Uma criança está correndo atrás de uma bola em um campo de futebol,O campo de futebol está bem cuidado e a grama está verde e cortada.,1
+Uma reunião está ocorrendo virtualmente com a participação de várias pessoas apresentadas em formato de mosaico,Várias pessoas estão participando de uma reunião virtual no formato de mosaico,0
+"Potes, tigelas e copos de vidro estão expostos, com uma das tigelas contendo peras",Os potes de vidro estão cheios de compota de maçã.,1
+Uma máscara branca e um par de luvas azuis descartáveis estão jogadas no chão,Uma enfermeira deixou cair sua máscara e luvas no chão.,1
+Um homem está dirigindo um carro para o fogo,O homem está conduzindo o carro para longe do fogo,2
+Um manequim posa para fotos usando uma videira no cenário,O manequim está sendo fotografado com uma videira ao fundo,0
+A menina está lendo um livro de histórias em sua cama antes de dormir,A menina está em sua cama,0
+Um pedaço de tecido está sendo costurado por uma mulher,Uma mulher está cozinhando o jantar,0
+Não há nenhuma mulher loira com chapéu de palha em pé ao lado de um carrinho de sorvete,A mulher ao lado do carrinho de sorvete é morena,2
+Uma criança está alimentando um pato amarelo com migalhas de pão na beira do lago,"A criança está correndo longe do pato, com medo.",2
+Três bodies estampados estão na vitrine da loja,Não há bodies estampados na vitrine.,2
+"A modelo está sentada em uma cadeira em uma casa, vestindo um chinelo rasteira bege com enfeite",A modelo tem cabelos longos ondulados.,1
+Um gato preto está empurrando uma bola de vôlei com o focinho na areia da praia,O gato preto está brincando com uma bola de vôlei na areia da praia.,0
+"Dois gatos, um cinza e outro laranja, estão brincando despreocupadamente juntos no quintal",Os gatos são irmãos.,1
+Um homem está fazendo o sinal de positivo com a mão,O homem está fazendo o sinal de negativo com a mão,2
+Uma gaivota está voando sobre as ondas do oceano,A gaivota está nadando nas ondas do oceano,0
+Uma mulher está cozinhando um escorpião,Existe um escorpião sendo preparado para a refeição.,0
+Alguém está derramando suco de laranja na mulher,A mulher está usando um vestido branco.,1
+Jovens em trajes de esporte não estão jogando bola no campo,Jovens estão jogando bola no campo em trajes de esporte,2
+Um gato preto está empurrando uma bola de vôlei com o focinho na areia da praia,Um gato preto está dormindo na areia da praia.,2
+Caixas de vacinas estão sendo descarregadas,Nenhuma dose de vacina está sendo movida do lugar,2
+Um bebê está mamando no peito da mãe,O bebê está usando fralda,0
+Um profissional da saúde está informando a população,A população está sendo informada por um profissional da saúde,0
+O CD contém as partituras das obras mais famosas,O CD tem as músicas mais famosas em forma de partitura.,0
+A mulher está aplicando despretensiosamente o cream cheese em um bagel torrado,O cream cheese é produzido na Filadélfia.,1
+Dois indivíduos estão trabalhando no computador,Os dois indivíduos estão trabalhando em um projeto de programação,1
+Uma mulher está ralando o queijo com um utensílio,A mulher está preparando um prato que leva queijo.,0
+Uma mulher está admirando as gravuras da coleção na parede enquanto está parada na escada do local,A mulher está planejando comprar uma das gravuras na parede,1
+Pessoas estão participando da inauguração de uma exposição,Há pessoas presentes na abertura de uma exposição,0
+Existe um maço de couve fresca nas mãos de uma pessoa,As mãos da pessoa estão vazias.,2
+"A cama está arrumada e sobre ela há uma bandeja com uma xícara de café, uma agenda e um notebook",A cama está desarrumada e não há nada sobre ela.,2
+"O céu exibe tons de amarelo, laranja e vermelho como se estivesse em chamas",O céu parece um quadro de Van Gogh,1
+Pessoas estão sentadas em formato de roda em um moderno e colorido espaço de trabalho,As pessoas estão sentadas em uma mesa redonda em um espaço de trabalho moderno,0
+O homem está guardando o violão na estante,O homem está ouvindo música clássica.,1
+Canecas de chope estão sendo brindadas,Há um brinde acontecendo com canecas de chope,0
+Dez brigadeiros de limão siciliano estão enrolados em granulado bolinha verde e dispostos em uma bandeja retangular de madeira,Os brigadeiros de limão siciliano foram feitos por uma confeiteira renomada,1
+A informação principal é que restam alguns dias para as eleições,As eleições já ocorreram.,2
+Um flyer anuncia o lançamento de vendas online de uma marca de roupas,Uma marca de roupas está iniciando suas vendas online.,0
+"Três braceletes de argolas nas cores dourada, prata e rosê estão no braço da mulher",A mulher está usando três braceletes de argolas de diferentes cores.,0
+Uma reunião está ocorrendo virtualmente com a participação de várias pessoas apresentadas em formato de mosaico,A reunião está acontecendo pelo Zoom,1
+Uma pessoa está protegendo um violão,Uma pessoa está cantando uma canção,2
+Uma mulher está se equipando antes de mergulhar,A mulher está se preparando para escalar uma montanha,2
+Quatro mãos estão segurando diferentes tipos de picolé,Estão segurando diferentes tipos de sorvetes em palitos.,2
+"Homens estão vestindo chapéus de palha e crachás de festival, olhando intrigados para algo no horizonte",Há uma banda tocando no palco principal do festival.,1
+Um homem de patins não está no céu próximo a uma montanha,O homem de patins está perto de um lago,2
+Uma guitarra está sendo dedilhada por um músico,Um músico está tocando guitarra,0
+Uma criança está pintando usando a boca durante uma oficina,Uma criança está participando de uma oficina.,0
+A água está sendo derramada na chaleira pelo homem,O homem está enchendo a chaleira com água,0
+O shampoo e condicionador estão dispostos na janela do box do banheiro,Não há nada na janela do box do banheiro,2
+Uma mulher está subindo em uma bicicleta em uma calçada,Uma mulher está andando a pé pela calçada,2
+Uma ave com olhos e bico vermelhos possui penas de cor azul vibrante,Existe um pássaro cujas penas são azuis.,0
+"Uma sala de aula contém carteiras estudantis vazias, cadeiras vermelhas e carteiras brancas durante o dia",Há cadeiras vermelhas na sala de aula.,0
+"A lancheria serve um sanduíche composto por pão tipo baguete, alface, tomate, pepino, queijo, carne e bacon",A lancheria serve suco de laranja,2
+"Vários idosos estão acomodados nos bancos do parque, contemplando o pôr do sol",Muitos idosos estão assistindo o pôr do sol no parque,0
+Quatro potes de geléia de tomate estão dispostos na mesa da cozinha,Há geléia de tomate na mesa da cozinha,0
+A água está sendo derramada na chaleira pelo homem,A chaleira está vazia e seca,2
+Os pais da garota estão presentes,A garota está sem os pais,0
+O indivíduo está afinando o violão,O indivíduo não está mexendo em seu instrumento musical,2
+O maestro da orquestra municipal está no palco com as mãos para cima e a batuta empunhada,O maestro está pronto para reger a orquestra municipal.,0
+A toalha molhada que está sobre uma necessaire,A toalha azul está sobre uma necessaire verde,2
+O chimpanzé está rodeado de folhas na floresta,O chimpanzé está em uma área deserta sem vegetação.,2
+"Vários homens se reúnem e se abraçam, formando um círculo no centro de um campo de futebol",Os homens estão usando uniformes de futebol vermelho e preto,1
+A mulher apaixonada é uma pintora de sonhos,A mulher apaixonada está ligada às artes.,0
+O homem está lendo o rótulo da loção hidratante,O homem está analisando as informações do rótulo de um hidratante,0
+Um campo de futebol à beira-mar está deserto,Não há ninguém jogando futebol na praia,0
+Muitos surfistas estão deslizando sobre as ondas,Os surfistas estão competindo numa competição internacional.,1
+A garota está equilibrando-se em um monociclo sobre uma ponte de corda,A garota está usando um capacete enquanto anda de monociclo,0
+O CD contém as partituras das obras mais famosas,A capa do CD tem uma imagem de uma orquestra.,1
+Não há nenhum coelho saltando buracos,Os coelhos estão comendo cenouras em um campo.,2
+A equipe brasileira está reunida em círculo na quadra com os braços erguidos,A equipe brasileira está usando uniformes verdes e amarelos,1
+Uma borboleta sem vida jaz ao lado de uma mulher morena repousando em uma pedra,Há uma borboleta morta.,0
+O menino e a menina estão correndo ao longo do riacho,Duas crianças estão correndo perto de um corpo de água.,0
+Não há nenhum barco de vela vermelho navegando contra a correnteza,Há um barco a motor azul navegando ao longo do curso do rio.,1
+O quadro tem o desenho da cabeça de um touro branco em perfil,O desenho no quadro representa um touro branco.,0
+A atleta  ganhou a medalha de bronze nos Jogos Paralímpicos,A atleta é uma excelente nadadora,1
+Um homem está sentado próximo a dois adolescentes,Um homem está lendo um livro.,1
+A afirmação defende que é possível realizar um treinamento intenso mesmo estando em casa,O treinamento intenso só pode ser feito em uma academia,2
+Os filhos da pessoa estão aproveitando as férias brincando com amigos e comendo pipoca,Os filhos da pessoa jogam bola no parque,2
+Brinquedos de tecido estão alinhados no chão de madeira pintada de branco,Existem brinquedos no chão pintado de branco.,0
+Três panos de prato com estampas natalinas estão dobrados,Existem panos de prato com estampas natalinas dobrados,0
+Um pequeno garoto oriental está sentado além do grupo e está se divertindo com um pião,Um pequeno garoto oriental está de pé no meio do grupo,2
+Um bolo redondo é coberto com chantilly espatulado branco e decorado com rosas e rosetas na lateral e em cima,O bolo redondo tem sabor de baunilha.,1
+Uma borboleta aconselha uma lagarta que ela precisa se transformar para poder voar,A borboleta diz à lagarta que ela pode voar sem se transformar,0
+A eletricidade não voltou e o banho ainda será com água fria,O liquidificador na cozinha está sem uso.,1
+Um personagem do filme fez muito sucesso,O personagem do filme foi bem recebido pelo público,0
+Um profissional de saúde está realizando radioterapia em um paciente deitado,O profissional de saúde está realizando uma cirurgia no paciente,2
+Uma mulher está abotoando um casaco,A mulher está usando um chapéu vermelho.,1
+Uma menina está pulando enquanto joga tênis de praia com um instrutor,A menina está sentada descansando após o jogo de tênis de praia,2
+Um estudo revela que a expectativa de vida diminui ao consumir mais de sete latas de cerveja por semana,Algumas pessoas gostam de beber cerveja nos fins de semana.,1
+"Duas mulheres estão apresentando um monólogo, que é extremamente divertido, com uma dançarina de balé no meio de uma plateia entusiasmada",Não tem nenhuma mulher apresentando um monólogo divertido.,2
+A psicóloga alerta sobre casos de tristeza profunda e depressão,A psicóloga não menciona a tristeza e a depressão em seu aviso.,2
+Uma borboleta azul com asas brilhantes repousa sobre a flor vermelha,Não há borboletas pousando em flores,2
+Uma médica está examinando a garganta de uma paciente e questiona a importância da videolaringoscopia,A médica está usando um estetoscópio no exame da paciente,2
+Uma gaivota está voando sobre as ondas do oceano,A gaivota está voando acima da água do mar,0
+Os carros estão sendo dirigidos por dois motoristas,Apenas um motorista está dirigindo todos os carros,2
+Não existe pessoa alguma girando o dial de um rádio antigo,O rádio antigo não está sendo usado por alguém.,0
+O gato está comendo ração de um prato,O gato é um felino de pelo longo.,1
+Uma criança vestida de camisa social está segurando um dado em sua mão direita,A criança está vestindo uma calça jeans azul,2
+No jantar serviremos batatas salpicadas e um prato de anéis de cebola empanados,Será servido vinho durante o jantar.,1
+Não há nenhuma mulher lendo um livro sob a sombra de uma árvore em uma tarde de primavera,Uma criança está brincando ao sol em uma tarde de primavera,1
+Várias pessoas estão navegando em um caiaque,Um grupo de indivíduos está praticando caiaque.,0
+Dois atletas paraolímpicos em cadeiras de rodas estão competindo em uma corrida,Os atletas paraolímpicos estão disputando a medalha de ouro na corrida.,1
+Há um menino alegremente empinando uma pipa de papel,O menino está triste e sua pipa de papel está no chão,2
+"Duas mulheres estão apresentando um monólogo, que é extremamente divertido, com uma dançarina de balé no meio de uma plateia entusiasmada",Está acontecendo uma apresentação de monólogo por duas mulheres e é muito engraçada.,0
+Policiais prendem o motorista no local onde a carreta foi parada,O motorista estava usando um macacão azul.,1
+Leitos estão organizados separadamente por divisórias,Há divisórias entre os leitos,0
+A atleta  ganhou a medalha de bronze nos Jogos Paralímpicos,A atleta conquistou uma medalha nos Jogos Paralímpicos,0
+A pessoa tem o cabelo preso em um rabo de cavalo com alguns cachos soltos ao redor da testa,A pessoa tem o cabelo totalmente solto,2
+Membros do movimento estão formalizando uma solicitação contra o aumento das tarifas de ônibus,O movimento está organizando uma reunião para discutir questões de transporte público,1
+Um vidro transparente com álcool em gel está posicionado sobre duas máscaras para o rosto em um balcão preto,O recipiente transparente com álcool em gel está vazio e ao lado das máscaras,2
+O texto apresenta um conteúdo alternativo relacionado à física,O texto apresenta um conteúdo tradicional sobre física,2
+Uma guitarra está sendo dedilhada por um músico,Há um palco iluminado ao fundo,2
+Nenhum pássaro está voando sob a chuva,Há pássaros cantando em uma árvore.,2
+Uma mulher está usando uma máscara com representações de vírus enquanto questiona como o coronavírus impacta as relações de trabalho,Uma mulher sem máscara está discutindo sobre como o coronavírus não afeta as relações de trabalho,2
+Um bando de amigos se reúne à beira do lago,Alguns amigos estão pescando no lago,1
+A garotinha está usando um vestido azul e está sorrindo,Uma criança vestida de azul está feliz,0
+O palácio do governo está aberto a visitações,As pessoas podem visitar o palácio do governo.,0
+Uma mulher em um skate pink está fazendo manobras enquanto uma amiga em um patins azul está se aproximando,A mulher de patins azul está indo para a academia.,2
+Caixas de presente amarelas com laços azuis foram entregues,Os presentes dentro das caixas são livros.,1
+Não há nenhum gato que é siamês e branco no jardim carregando um novelo de lã nas suas patas,Há um gato siamês e branco carregando um novelo de lã no jardim,2
+Caramelos de leite estão dispostos na mão,A mão está vazia e sem caramelos.,2
+Um gato preto está pulando por um muro de pedras,Um gato preto está dormindo em um muro de pedras.,2
+Uma mulher está rasgando um casaco com uma tesoura,A pessoa está cortando um casaco com uma tesoura,0
+Uma costureira está modelando um tecido laranja em uma mesa de costura,A costureira está trabalhando com um tecido de cor laranja.,0
+Um barco está navegando,O barco está parado.,2
+Ao lado da casa há uma pequena lavoura de feijão,Existe uma lavoura de feijão ao lado da casa,0
+"Um prato de ovos mexidos, salsichas e queijo é colocado na mesa ao lado de uma xícara de chá preto com leite","O prato de comida tem ovos mexidos, salsichas, queijo e bacon",1
+Não há nenhum homem tamborilando seus pés,Há um homem tocando bateria.,2
+"Os casarões, apesar de antigos, possuem boa acessibilidade",Os casarões têm lindos jardins.,1
+Um estudo sugere que jantar enquanto assiste TV ou usa o celular pode levar ao ganho de peso,Usar o celular durante as refeições pode distrair a pessoa do que está comendo.,1
+Ciclistas e ônibus estão navegando através do trânsito frenético na metrópole,Ciclistas e ônibus estão percorrendo uma estrada tranquila na metrópole.,2
+A fragrância com embalagem transparente e tampa dourada está posicionada sobre uma textura e folhas douradas,A fragrância está em cima de uma textura e folhas douradas.,0
+A pessoa tem o cabelo preso em um rabo de cavalo com alguns cachos soltos ao redor da testa,Alguém tem cachos soltos ao redor da testa,0
+Três gatos não estão brincando juntos,Três gatos estão dormindo juntos.,2
+Um cisne majestoso está repousando na margem de um lago sereno,O cisne está voando sobre o lago.,2
+Um homem está sentado próximo a dois adolescentes,O homem está sozinho.,2
+Um gato está deliciosamente se esbaldando com o sol na varanda,O gato está aproveitando o sol na varanda,0
+O indulto para condenado por corrupção poderá ser proibido,Existe a possibilidade de proibição do indulto para condenados por corrupção.,0
+Engrenagens estão fixadas em uma parede e contidas em uma caixa de inox polido,As engrenagens estão soltas sobre a mesa.,2
+"Alunas de balé, mães e professora prestam homenagem ao Outubro Rosa","As alunas de balé, mães e professora ignoram o Outubro Rosa.",2
+Um senhor de 50 anos está sorrindo com alegria,O homem de 50 anos está vestindo um casaco azul.,1
+A afirmação defende que é possível realizar um treinamento intenso mesmo estando em casa,O treinamento intenso pode ser feito em casa,0
+Duas mulheres com patins estão à beira de um lago congelado,Existem pessoas prontas para andar de patins em um lago congelado,0
+Uma garota de vermelho está correndo de um homem de vermelho,Uma garota de vermelho está carregando uma bolsa azul,0
+O cartaz informa sobre as operações atuais da polícia durante a pandemia do novo Coronavírus,O cartaz não contém informações sobre as operações atuais da polícia durante a pandemia do novo Coronavírus,2
+"Um trem está cheio de pessoas, tanto sentadas quanto em pé, todas usando máscaras faciais",As pessoas no trem não estão usando máscaras faciais.,2
+"O garoto, que é muito jovem, está meticulosamente amarrando os cadarços de seu tênis",O menino não está amarrando os cadarços do tênis.,2
+O quadro tem o desenho da cabeça de um touro branco em perfil,O quadro tem um desenho de uma cabeça de cavalo.,2
+"Duas mulheres, um homem e duas pequenas meninas estão reunidos ao ar livre de uma larga praça, diante de uma multidão de espectadores","Um grupo de cinco pessoas, sendo duas delas crianças, está reunido em uma praça grande com muitos espectadores ao redor.",0
+Uma profissional da saúde está aplicando a vacina no braço de uma mulher,A mulher não está recebendo a vacina,2
+Dois halteres e uma maçã enrolada com uma fita métrica estão dispostos,Não há halteres nem maçã envolvida por uma fita métrica,2
+Um barco está sendo navegado por um jovem,O jovem é um marinheiro experiente,0
+Duas mulheres não estão tirando um descanso no plantio do jardim,Duas mulheres estão descansando enquanto plantam um jardim,2
+Os filhotes de cachorro nos cestos estão sendo usados como adereços para um comercial de televisão,"Os filhotes de cachorro estão sendo usados para um filme, não um comercial de televisão",2
+Não tem nenhuma mulher gritando,O ambiente está livre de gritos de mulheres,0
+Um gato preto está deitado em uma almofada,O gato preto tem olhos verdes.,1
+Dois gatos estão se divertindo no jardim cheio de flores,Os gatos estão brincando ao ar livre,2
+Caixas de vacinas estão sendo descarregadas,Vacinas estão sendo retiradas de seu meio de transporte,0
+Oito aplicadores de produtos de sobrancelha estão dispostos numa mesa,Não há aplicadores de produtos de sobrancelha na mesa.,2
+Não tem nenhuma mulher gritando,Uma mulher está sorrindo,0
+O cachorro está correndo atrás do gato no jardim,O gato está sendo perseguido por um cachorro.,0
+Uma mulher envolta em uma toalha está se maquiando diante de um espelho,Uma mulher envolta em uma toalha está se despindo diante de um espelho.,2
+Uma bola vermelha está sendo chutada por uma criança que está brincando no parque,Uma bola azul está sendo chutada por uma criança que está em casa,2
+Não tem nenhum homem assando um peixe,Uma mulher está grelhando um peixe,1
+Um bolo redondo é coberto com chantilly espatulado branco e decorado com rosas e rosetas na lateral e em cima,O bolo redondo não tem decoração alguma,2
+Uma mulher possui um chip localizado atrás de sua orelha,A mulher não possui nenhum objeto estranho em seu corpo,2
+Um gato está se aquecendo em um telhado enquanto a lua lança seu brilho suave sobre ele,O gato tem pelo curto.,1
+Há livros infantis disponíveis na biblioteca,A biblioteca tem uma seção de livros de culinária,1
+"Três adolescentes estão segurando seus celulares, com uma delas exibindo a tela da rede social",Nenhum adolescente está segurando um celular,2
+Uma garotinha está tampando o rosto com a mão,A garotinha está com as mãos para baixo.,0
+Uma mão está segurando uma casquinha de sorvete de dois sabores,Uma casquinha de sorvete de dois sabores está sendo segurada por uma mão,0
+A atleta  ganhou a medalha de bronze nos Jogos Paralímpicos,A atleta não conseguiu nenhuma medalha nos Jogos Paralímpicos,2
+Um homem está descascando uma laranja que é suculenta,Um homem está comendo uma laranja,0
+O quadro tem o desenho da cabeça de um touro branco em perfil,O quadro tem uma moldura dourada.,2
+Uma tábua especial de frios contém uma ampla variedade de opções,A tábua de frios tem poucas opções,0
+Um garotinho está usando uma camiseta azul e está correndo em um parque infantil,Há um menino correndo em um playground vestindo uma camiseta azul,0
+Um homem está assando peixe,Peixe está sendo preparado na churrasqueira por um homem,0
+Os foliões estão dançando na festa junina,Os foliões estão vestindo roupas tradicionais de festa junina,1
+O céu está nublado e ventando,Há uma bandeira tremulando no topo do mastro,0
+"Eu e minha noiva tiramos uma selfie durante nosso casamento, junto com fotos de família",A selfie tirada durante o casamento foi publicada no Facebook.,1
+Uma pessoa está engajada em estudos,Alguém está aprendendo algo.,0
+Um homem está descascando uma laranja que é suculenta,O homem não está descascando nenhuma fruta,2
+O homem está lendo o rótulo da loção hidratante,O homem usa regularmente loção hidratante,1
+Uma mão está manuseando uma máquina de cartão para realizar um pagamento,A máquina de cartão não está sendo usada para realização de um pagamento,2
+Um garoto está praticando uma melodia no piano,O garoto está tocando uma música de Beethoven no piano,1
+Um lagarto está posicionado sobre um afloramento rochoso cercado por galhos secos,Existe um lagarto em um local rochoso com galhos secos ao redor,0
+Uma rua é composta por várias casas coloridas vistas de frente,As casas vistas de frente são coloridas,0
+"Depois de um dia de pesca, o pescador visualiza a praia com coqueiros para onde volta",O pescador está retornando para a praia após a pesca.,0
+Duas garrafas do vinho tinto estão dispostas sobre uma mesa de madeira,Há vinho tinto em cima de uma mesa,0
+"A sala possui uma mesa decorada, uma planta, um puff e vários artigos decorativos","A sala é vazia, sem móveis ou decorações.",2
+Três gatinhos estão se divertindo em um jardim florido,Não há gatos no jardim,2
+Não há nenhuma mulher descascando algumas batatas agilmente com um descascador,Uma mulher está descascando batatas rapidamente com um descascador,2
+Uma mulher está caminhando sob a neve,A mulher está se movendo ao ar livre.,0
+A mulher está sentada no jardim e a criança está escorregando do balanço,A mulher está dentro de casa e a criança está dormindo,2
+Uma mulher está derramando um jarro de calda de chocolate em um bolo esfarelado,O bolo está sendo coberto com calda de chocolate.,0
+Duas crianças estão se divertindo juntas no parquinho,Há crianças brincando no parquinho.,0
+Mãos masculinas tatuadas estão realizando trabalhos manuais em madeira,As tatuagens nas mãos são de desenhos tribais.,1
+Não há ninguém lavando o carro,O carro não está sendo lavado,0
+"Um mini hambúrguer artesanal de carne bovina é servido espetado por um palito gourmet, acompanhado de tomate cereja e alface americana",O mini hambúrguer artesanal é acompanhado de vegetais,0
+Um bolo comemorativo está sendo feito na confeitaria,Um bolo está sendo preparado na confeitaria para uma celebração,0
+Os pés de uma modelo estão calçados com um sapato de verniz,A modelo está usando sapatos de verniz.,0
+Um pequeno garoto oriental está sentado além do grupo e está se divertindo com um pião,Um menino asiático está brincando com um pião longe do grupo,0
+Vários educadores se reúnem para iniciar um projeto,Um grupo de educadores está começando um projeto,0
+Uma mulher está folheando um livro com várias outras obras empilhadas ao fundo,"A mulher está apenas observando as obras ao fundo, sem tocar em nenhum livro",2
+O palácio do governo está aberto a visitações,O palácio do governo está fechado ao público.,2
+Depois do almoço foi servido uma sobremesa de sorvete de creme,Sorvete de creme foi servido.,0
+A energia elétrica não deve ser interrompida durante a pandemia,O fornecimento de gás não deve ser interrompido durante a pandemia.,1
+"Uma mulher negra, com uma expressão séria, está encostada em um objeto vermelho",Uma pessoa com uma expressão séria está encostada em um objeto vermelho,0
+Eu e minha mãe tiramos uma selfie enquanto ela segurava um buquê de flores amarelas,Minha mãe e eu temos uma foto juntas com um buquê de flores amarelas.,0
+Uma mão é vista segurando uma pipa em direção a um arco-íris ao fundo,Não há arco-íris à vista.,2
+Duas mulheres são personagens centrais desta obra de arte,A obra de arte é focada em duas mulheres,0
+A veterinária está cuidando de dois cachorros doentes ao mesmo tempo,A veterinária está atendendo somente um cachorro,2
+A modelo veste um biquíni azul com detalhe em verde,A modelo tem cabelo preto longo,1
+Uma mãe e seu filho estão sendo assustados no carrinho de um trem fantasma,A mãe e o filho estão rindo no carrinho do trem fantasma,0
+Um gato cinza escuro e um coelho branco puro estão correndo no jardim,Não há animais no jardim.,2
+O resultado da segunda chamada do vestibular já está disponível no site oficial,Ainda não se sabe o resultado da segunda chamada do vestibular.,2
+Uma pessoa está engajada em estudos,A pessoa está dormindo.,2
+"Várias pimentas de cores verdes, laranjas e vermelhas estão reunidas","Há uma cesta de pimentas amarelas ao lado das pimentas verdes, laranjas e vermelhas.",1
+Um indivíduo está vestindo um suéter vermelho e caminhando descalço no campo de futebol,O indivíduo está usando sapatos e andando num campo de voleibol.,2
+O perfume tem vidro de cor preta com tampa preta,O perfume está em um frasco de vidro transparente.,2
+Uma mulher está se expressando com um piano,Uma mulher está tocando piano,0
+Não há nenhum cachorro pulando a cerca com uma bola,A cerca não está sendo pulada por um cachorro com uma bola,0
+Um par de tênis preto infantil é visto de cima para baixo,Há um par de meias de criança ao lado do tênis.,1
+"Duas mulheres, um homem e duas pequenas meninas estão reunidos ao ar livre de uma larga praça, diante de uma multidão de espectadores","Não há ninguém reunido ao ar livre em uma praça, muito menos diante de uma multidão de espectadores.",2
+Um homem está aparando a barba meticulosamente,Um homem está penteando o cabelo,2
+"A modelo está sentada em uma cadeira em uma casa, vestindo um chinelo rasteira bege com enfeite","A modelo está de pé na rua, usando uma sandália de salto alto preta.",2
+Dois gatos estão se divertindo no jardim cheio de flores,Os gatos estão dentro de casa,2
+Pacotes de bombons de chocolate com banana e chocolate com amendoim sem açúcar estão dispostos sobre uma mesa,Pacotes de bombons de chocolate com açúcar estão dispostos sobre a mesa.,2
+Um senhor de 50 anos está sorrindo com alegria,O homem de meia-idade está expressando felicidade através de seu sorriso.,0
+Uma criança está alimentando um pato amarelo com migalhas de pão na beira do lago,O pato amarelo está sendo alimentado com migalhas de pão por uma criança.,0
+Um aparelho removível está presente,Não há aparelho removível disponível,2
+Não há nenhuma mulher descascando algumas batatas agilmente com um descascador,Nenhuma mulher está usando um descascador para descascar batatas de maneira ágil,0
+Os pais estão observando suas trigêmeas recém-nascidas,Os pais estão olhando seus filhos gêmeos,0
+Um homem está descascando uma batata amarela,O homem não está descascando uma batata,2
+Um campo de futebol à beira-mar está deserto,O campo de futebol à beira-mar está cheio de jogadores,2
+"Uma pessoa de blusa verde estampada está sentada em frente a uma grande árvore, usando óculos escuros e segurando o cabelo",A pessoa não está usando óculos.,2
+Caramelos de leite estão dispostos na mão,Os caramelos de leite estão embrulhados em papel dourado.,1
+Uma reunião está ocorrendo virtualmente com a participação de várias pessoas apresentadas em formato de mosaico,"As pessoas estão se reunindo fisicamente, não virtualmente",2
+A mulher não está pintando uma tela de tecido,A tela de tecido não está sendo pintada por uma mulher,0
+Uma menina jovem está dançando e tocando o piano,Uma menina jovem está tocando o piano,0
+"Um homem, que está de pé, está declamando um poema e tocando flauta",Existe um homem tocando flauta e recitando versos,0
+Um gato preto está deitado em uma almofada,O gato preto está correndo ao redor da casa.,2
+Vários indivíduos se encontram em um campo de futebol para um torneio amador,Não há ninguém no campo de futebol.,2
+A senhora serviu um bule de chá aos seus convidados,A senhora não serviu nada para seus convidados.,2
+"Uma família está reunida em casa, sentada no sofá",Pessoas estão juntas sentadas no sofá de uma casa.,0
+Um homem está acariciando um guaxinim,Um homem adora animais,0
+Panquecas estão servidas em um prato branco com detalhes de bolinhas verdes,Panquecas estão em um prato com detalhes verdes,0
+Leitos estão organizados separadamente por divisórias,Os leitos estão organizados sem divisórias,2
+Uma garota está dançando sob a chuva no campo,A garota está dançando ballet no campo.,1
+Uma mulher está apresentando uma palestra em um palco,Uma palestra está sendo apresentada por uma mulher no palco,0
+Um estudo revela que a expectativa de vida diminui ao consumir mais de sete latas de cerveja por semana,Beber mais de sete latas de cerveja por semana não tem efeito na expectativa de vida.,2
+Vários pedaços de sushi estão sendo degustados por um homem,Um homem não está comendo sushi,2
+Um prato do restaurante contém filé de salmão acompanhado de batatas,O restaurante está servindo filé de salmão com batatas,0
+Dois amigos estão relaxando à sombra de uma árvore em uma tarde ensolarada,Há dois amigos sob uma árvore.,0
+"Uma árvore de grande porte tem um risco iminente de queda, colocando a população em perigo",A população está em perigo devido ao risco de queda de uma árvore de grande porte.,0
+Diversos vasos contendo mudas estão localizados em uma estufa,As mudas estão sendo regadas diariamente,1
+Uma raposa vermelha está correndo em direção a um coelho branco na floresta coberta de neve,A raposa vermelha está perseguindo uma presa na floresta nevada.,0
+Uma pessoa está engajada em estudos,A pessoa está lendo um livro de romance.,2
+Uma equipe de chefs está exibindo seus pratos gourmet e posando para a fotografia,A equipe de chefs preparou pratos gourmet para a fotografia.,0
+Não há nenhuma mulher cozinhando macarrão,O macarrão não está sendo preparado por uma mulher.,0
+Alguém está derramando suco de laranja na mulher,A mulher está sendo molhada com suco de laranja.,0
+Um homem está soltando um pássaro,O pássaro é um canário,0
+Não há nenhum gato que é siamês e branco no jardim carregando um novelo de lã nas suas patas,Não tem um gato siamês e branco carregando um novelo de lã no jardim,0
+Um gato preto não está comendo ração do prato,O gato preto está dormindo no sofá.,1
+Um homem de patins não está no céu próximo a uma montanha,O homem de patins está em algum lugar que não é o céu próximo a uma montanha,0
+A pessoa é encorajada a explorar seu potencial e iniciar uma semana intensa de treinamento,A pessoa é desencorajada a explorar seu potencial e iniciar uma semana de treinamento,2
+Uma enfermeira está presente e a previsão de publicação dos editais é amanhã,A enfermeira tem cabelo castanho.,1
+Uma mulher está abotoando um casaco,A mulher está desabotoando um casaco.,2
+Soldados estão alinhados para comemorar o dia da independência,O dia da independência é um feriado nacional.,1
+Não há nenhuma mulher loira com chapéu de palha em pé ao lado de um carrinho de sorvete,Não há nenhuma loira de chapéu perto de um carrinho de sorvete,0
+O atleta está participando de um arremesso de peso em uma olimpíada,O atleta está assistindo a olimpíada de casa,2
+Uma mulher está praticando ioga ao pôr do sol na areia,A mulher está em sua casa assistindo televisão.,2
+A pessoa é encorajada a explorar seu potencial e iniciar uma semana intensa de treinamento,A pessoa está começando uma semana de treinamento intensivo,0
+A energia elétrica não deve ser interrompida durante a pandemia,"Durante a pandemia, a energia elétrica deve permanecer ininterrupta.",0
+O gato está comendo ração de um prato,O gato está se alimentando.,0
+Duas crianças estão sorrindo enquanto brincam no tapete da sala,As crianças estão brincando no tapete da sala.,0
+Algumas crias de cachorro estão com sede,Há filhotes de cachorro buscando água,0
+Três gatinhos estão se divertindo em um jardim florido,Gatinhos estão brincando entre flores,0
+O menino de patins está deslizando na pista,O menino gosta de jogar futebol.,2
+Uma mulher está partindo uma corrente com um machado,A mulher está usando um chapéu enquanto trabalha.,0
+Uma criança está correndo atrás de uma bola em um campo de futebol,Uma criança está perseguindo uma bola no campo de futebol,0
+Um gato com pelagem branca e laço azul está deitado no sofá,Existe um gato branco no sofá.,0
+Uma turma de jovens está disputando uma partida de vôlei na areia da praia,Os jovens estão usando uniformes azuis para a partida de vôlei,1
+A garota está equilibrando-se em um monociclo sobre uma ponte de corda,A garota não está em uma ponte de corda e nem está em um monociclo,2
+Um homem está dirigindo um carro para o fogo,O homem está usando um casaco enquanto dirige o carro,1
+Um estudo afirma que jogar videogame exige mais engajamento intelectual e criatividade do que a leitura de um livro,Jogar videogame requer alto engajamento intelectual e criatividade.,0
+Uma bola vermelha está sendo chutada por uma criança que está brincando no parque,Uma criança está brincando com uma boneca no parque,0
+Dois pintores estão pendurados na lateral do arranha-céu,Dois homens estão limpando as janelas do arranha-céu,0
+Não tem nenhum gato arranhando um sofá,Um cachorro está mordendo um sofá,0
+O cachorro está saltando sobre uma poça de água,O cachorro está pulando um obstáculo que é uma poça de água,0
+O garoto da camisa vermelha está desenhando,O garoto da camisa vermelha quer ser artista quando crescer.,1
+Ninguém está agitando uma garrafa de molho de soja com uma colher,Uma garrafa de molho de soja não está sendo agitada com uma colher,0
+Um menino de três anos responde que tem chocolate no coração quando questionado sobre o que há nele,O menino de três anos acredita ter chocolate no coração,0
+Um estudo revela que alguns brasileiros se tornam milionários diariamente,Os brasileiros estão entre as pessoas mais ricas do mundo,1
+Um garotinho está usando uma camiseta azul e está correndo em um parque infantil,O garotinho tem cabelo castanho,2
+Os pisos emborrachados vermelhos e cinzas cobrem uma área de lazer repleta de brinquedos infantis coloridos,A área de lazer tem um chão de borracha vermelho e cinza,0
+Um indivíduo está vestindo um suéter vermelho e caminhando descalço no campo de futebol,Existe uma pessoa caminhando descalça no campo de futebol e ela está usando um suéter vermelho.,0
+Os jovens não estão vestindo moletons cinzas e não estão correndo,Os jovens estão vestidos com algo que não são moletons cinzas,0
+Uma mão é vista descartando uma garrafa de plástico em uma lixeira,A garrafa de plástico está sendo jogada em uma lixeira por uma mão,0
+Dois homens jovens estão competindo em uma partida de boxe,Dois jovens estão em uma competição de boxe,0
+"Utensílios de cozinha, incluindo tábuas, porta copos e taças, estão sobre a mesa","Tábuas, porta copos e taças estão sobre a mesa.",0
+Uma costureira está modelando um tecido laranja em uma mesa de costura,A costureira está costurando um tecido azul.,2
+Uma menina loira de vestido vermelho está saltando para fora de um balanço azul,Uma menina loira de vestido azul está sentada num balanço vermelho.,2
+Uma mulher está correndo acompanhada de um personal trainer,A mulher está correndo sozinha,2
+O texto apresenta um conteúdo alternativo relacionado à física,O texto contém informações sobre um tema diferente da física convencional,0
+Profissionais estão usando máscaras e roupas de proteção,Profissionais de saúde estão usando luvas cirúrgicas,1
+Uma mulher está espremendo uma espinha em seu rosto enquanto uma explicação ao lado detalha a formação de acnes,Uma mulher está aplicando maquiagem enquanto uma explicação ao lado detalha a formação de acnes,0
+"Um filhote de tamanduá está em um viveiro, cercado por pedaços de madeira e cobertores",O filhote de tamanduá gosta de comer formigas,1
+"Uma corrente e um pingente, ambos banhados a ouro, possuem pedras de zircônia incrustadas",A corrente e o pingente possuem pedras de zircônia e são feitos de ouro,0
+Membros do movimento estão formalizando uma solicitação contra o aumento das tarifas de ônibus,O movimento está apoiando o aumento das tarifas de ônibus,2
+O mês mundial de combate ao câncer de próstata está sendo divulgado,O mês mundial de conscientização do câncer de mama está sendo divulgado,2
+Um garoto está calçando botas de neve e segurando um esqui azul ao lado de uma menina de blusa rosa e luvas roxas,Um garoto está descalço e sem equipamentos de esqui ao lado de uma menina de blusa verde e luvas azuis,2
+Uma louça cheia de brigadeiros está sobre uma mesa de madeira,"A mesa está vazia, sem brigadeiros",2
+O avião é visto na pista com o hangar ao fundo,"O avião está voando alto, longe da pista e do hangar",2
+O homem não está misturando molho em uma tigela,O homem está cortando verduras na tábua de cozinha,2
+"O homem está tocando uma gaita, que é diatônica, e assobiando",O homem está fazendo música com uma gaita diatônica,0
+Oito momentos de um jogo de boliche na capital foram compartilhados com colegas e seus familiares,O jogo de boliche na capital foi competitivo,1
+Ciclistas e ônibus estão navegando através do trânsito frenético na metrópole,Ciclistas e ônibus estão enfrentando o trânsito agitado na grande cidade.,0
+A chuva está caindo no rosto do garoto que está de casaco azul,O garoto de casaco azul está seco,2
+O mês mundial de combate ao câncer de próstata está sendo divulgado,A conscientização sobre o câncer de próstata está sendo promovida,0
+Uma garota está empunhando uma rede de borboletas e saltando atrás de uma mariposa,A mariposa voa em direção a uma flor próxima.,1
+Um prato branco redondo tem sorvete de canela servido sobre uma tarte de maçã envolta por caramelo,O prato branco redondo contém uma sobremesa de sorvete de canela e tarte de maçã,0
+Uma mulher está parada na beira de um penhasco,Uma pessoa está na borda de um penhasco.,0
+Os foliões estão dançando na festa junina,Há pessoas dançando na festa,0
+Os estudantes da turma posam juntos com um grande cartaz que contém informações sobre um campeonato,Os estudantes não têm um cartaz,2
+Um garotinho está usando uma camiseta azul e está correndo em um parque infantil,O garotinho está parado e vestindo uma camiseta vermelha,2
+"A frigideira contém queijo, bacon, milho e frango",A frigideira está vazia,2
+Profissionais estão usando máscaras e roupas de proteção,"Os trabalhadores estão usando equipamentos de proteção, incluindo máscaras",0
+"Dois gatos, um cinza e outro laranja, estão brincando despreocupadamente juntos no quintal",Não há gatos brincando no quintal.,2
+"Várias crianças estão de mãos dadas em três fileiras, simbolizando os jovens beneficiados pelo projeto",As crianças estão na escola.,2
+"Homens estão vestindo chapéus de palha e crachás de festival, olhando intrigados para algo no horizonte","Um grupo de homens, usando crachás de festival e chapéus de palha, está observando algo curioso à distância.",0
+Um gato branco está saltando entre os galhos de uma floresta sombria,Um gato está saltando entre os galhos de uma floresta.,0
+Um gato preto está pulando por um muro de pedras,O gato preto está pulando.,0
+A veterinária está cuidando de dois cachorros doentes ao mesmo tempo,Dois cachorros estão sendo cuidados por uma veterinária,0
+Uma pessoa está deslizando na água em um jet ski,Alguém está se divertindo em um jet ski na água,0
+Os filhotes de cachorro nos cestos estão sendo usados como adereços para um comercial de televisão,Os filhotes de cachorro nos cestos estão brincando uns com os outros,1
+Uma drusa de cristal enfeita a escrivaninha,A escrivaninha é desprovida de qualquer enfeite.,2
+Não há nenhuma mulher lendo um livro sob a sombra de uma árvore em uma tarde de primavera,Há uma mulher lendo um livro sob a sombra de uma árvore em uma tarde de primavera,2
+Da janela se vê uma chaminé branca e vermelha liberando fumaça,Não há chaminé liberando fumaça vista da janela.,2
+Uma nota pública foi escrita pelo político sobre o acidente sofrido,A nota pública tratava da economia local.,2
+Alunos estão nos corredores do colégio apresentando seus trabalhos de Ciências,Os alunos estão ansiosos para a apresentação dos seus trabalhos de Matemática.,1
+"A atração infantil oferece várias atividades para as crianças, incluindo piscinas de bolinhas e escorregadores",As crianças têm várias atividades para se entreter na atração infantil,0
+Um homem está distribuindo cestas básicas para as pessoas,O homem está vestindo uma camisa azul,2
+Uma menina jovem está dançando e tocando o piano,Uma menina jovem está sentada em silêncio,2
+O músico está de pé afinando seu violino diante da orquestra,Não há músico afinando seu violino,2
+"Várias crianças estão de mãos dadas em três fileiras, simbolizando os jovens beneficiados pelo projeto",Nenhuma criança está de mãos dadas.,2
+Não há ninguém lavando o carro,O carro é vermelho,0
+Os jogadores de futebol não estão em campo e não estão vestindo suas camisas verde e amarelas,Os jogadores de futebol estão assistindo a um filme,1
+Um homem está em um consultório médico tendo sua pressão arterial medida pelo médico,Um homem está em um ambiente médico recebendo um exame de pressão arterial de um profissional de saúde,0
+Não existe nenhuma mulher cortando um bolo com uma espátula,Nenhuma mulher está usando uma espátula para cortar um bolo.,0
+O secretário de saúde do Estado está dando entrevista,O funcionário do governo do Estado está falando para a mídia.,0
+As dicas de arte estão sendo apresentadas em sequência,As dicas de arte estão sendo mostradas uma após a outra,0
+O shampoo e condicionador estão dispostos na janela do box do banheiro,Existem produtos de higiene na janela do box do banheiro,0
+"A pessoa está tirando uma selfie com a cabeça raspada, um braço apoiado nela e usando batom azul","A pessoa está tirando uma foto com seus longos cabelos soltos, sem batom",2
+Pássaros voam em bando durante o entardecer sob um céu azul com poucas nuvens acinzentadas de tonalidades laranja,Pássaros estão voando juntos no céu ao entardecer,0
+Canecas de chope estão sendo brindadas,Canecas de chope estão sendo lavadas em uma pia,1
+"A atração infantil oferece várias atividades para as crianças, incluindo piscinas de bolinhas e escorregadores",Os pais estão acompanhando as crianças na atração infantil,1
+Uma mulher está escalando uma cerca baixa,Uma mulher está pulando de uma cerca alta,2
+Uma fogueira arde intensamente com brasas vermelhas e chamas amarelas e laranjas,Existe uma fonte de calor forte.,0
+Canecas de chope estão sendo brindadas,As canecas de chope estão sendo mantidas em uma prateleira,0
+Indivíduos vestindo roupas de frio estão sendo fornecidos com máscaras pela equipe do governo local,Ninguém está recebendo máscaras da equipe do governo local,2
+Uma prova está sendo realizada em uma sala de aula,Não há atividades ocorrendo na sala de aula,2
+A pessoa tem o cabelo preso em um rabo de cavalo com alguns cachos soltos ao redor da testa,A pessoa tem cabelo castanho.,1
+O nascer do sol ilumina um campo florido,O campo florido está iluminado pelo sol,0
+Um gato malhado está se divertindo com um novelo de lã desfiado em um tapete vermelho,Um gato malhado está se escondendo atrás de uma cortina,2
+Cada foto foi detalhada nos recursos de acessibilidade,As fotos foram tiradas por um fotógrafo profissional,1
+A menina está lendo um livro de histórias em sua cama antes de dormir,A menina tem um urso de pelúcia em sua cama,2
+Um cavalo não está bebendo água,Um cavalo está comendo grama,2
+Diversos sabores de refeições congeladas estão disponíveis para venda,Não há refeições congeladas disponíveis para venda,2
+Um mini espantalho é feito de palha e retalhos,O mini espantalho é feito de metal e vidro,2
+Duas garrafas do vinho tinto estão dispostas sobre uma mesa de madeira,Uma toalha vermelha está cobrindo a mesa de madeira,2
+Ciclistas não estão pedalando em fila pela montanha acima,Os ciclistas estão alinhados enquanto sobem a montanha.,2
+"Alunos estão sentados em cadeiras vermelhas com material didático aberto, enquanto os instrutores permanecem de pé","Os alunos estão sentados em cadeiras vermelhas, aguardando o início da aula.",1
+Um gato branco e cinza está sentado na areia,Um gato branco e cinza está brincando com uma bola de lã.,2
+O conjunto de jovens europeus está reunido ali,Um grupo de jovens da Europa está congregado no local.,0
+Um bolo retangular está coberto com ganache e decorado com raspas de chocolate preto na lateral e topo,O bolo retangular possui cobertura de ganache e decoração de raspas de chocolate preto,0
+As crianças ajudaram na limpeza do pátio da escola e os professores estão felizes por isso,As crianças não participaram da limpeza do pátio da escola.,2
+Uma criança está deslizando pela areia dourada,A criança está deslizando no gelo,2
+Uma mão é vista segurando uma pipa em direção a um arco-íris ao fundo,A pipa tem a forma de um pássaro.,1
+Não tem nenhuma mulher interferindo,Uma mulher está interferindo,2
+"Centenas de bebês estão sem pais, conforme relatado em jornais antigos",Muitos bebês foram relatados como órfãos em jornais antigos,0
+A loja oferece semijoias banhadas em ouro com um ano de garantia,A loja vende também relógios banhados a ouro,1
+Uma modelo posa com a mão esquerda no rosto vestindo um macaquinho floral,A modelo não está posando para a foto,2
+"Duas mulheres, um homem e duas pequenas meninas estão reunidos ao ar livre de uma larga praça, diante de uma multidão de espectadores","Entre as pessoas reunidas na praça, há uma mulher com um vestido vermelho.",1
+O senador está acompanhado de sua esposa,O senador e sua esposa estão vestidos formalmente,1
+Os homens e as mulheres estão sendo reunidos próximos às mesas ao livre,Todos estão se reunindo em um ambiente fechado.,1
+Uma criança está pintando usando a boca durante uma oficina,A criança não está pintando.,2
+A mulher está alimentando um pássaro à beira de um lago,Há uma mulher perto de um lago cuidando de um pássaro.,0
+"O escritório possui uma vista para um jardim com árvores verdes, bromélias e uma fonte de água corrente",O escritório tem uma mesa de madeira robusta,1
+Um gato preto não está comendo ração do prato,O gato preto está comendo ração do prato.,2
+Dois irmãos estão exibindo seus dentes manchados de vermelho e amarelo,Os irmãos estão segurando escovas de dentes,0
+A janela da sala de estar está fechada.,A cortina da sala de estar está balançando com a brisa.,2
+Um carro está de cabeça para baixo em meio ao caos,O carro está estacionado corretamente em um local tranquilo,2
+"Um pai e sua filha, vestidos com máscaras e capas de heróis, estão olhando para o horizonte",Um homem e sua filha estão usando fantasias de super-heróis e olhando para o horizonte,0
+Duas meninas estão relaxando na areia à beira do mar,As meninas estão se exercitando na academia,2
+Várias pessoas estão navegando em um caiaque,Ninguém está praticando esportes aquáticos.,2
+Uma mulher está picando alho,A mulher está descansando.,2
+Uma mulher está folheando um livro com várias outras obras empilhadas ao fundo,A mulher está ao lado de uma janela enquanto folheia um livro.,1
+Não tem nenhuma mulher bebendo café,Uma mulher está tomando café.,2
+Uma menina está pulando enquanto joga tênis de praia com um instrutor,A menina está se divertindo enquanto joga tênis de praia.,0
+Um homem está segurando um peixe que ele possivelmente pescou em um rio,Um indivíduo está com um peixe em suas mãos que ele pode ter pescado em um rio.,0
+"Três adolescentes estão segurando seus celulares, com uma delas exibindo a tela da rede social",Adolescentes estão usando seus celulares,0
+"Várias pimentas de cores verdes, laranjas e vermelhas estão reunidas",As pimentas estão agrupadas por cores,0
+Não há nenhuma criança brincando no parquinho,O parquinho está vazio de crianças,0
+Um donut é recheado com brigadeiro e coberto com creme de baunilha,O donut não tem creme de baunilha na cobertura,2
+Os atletas estão manipulando a bola de vôlei,Os atletas estão jogando basquete,2
+Um viajante solitário com um chapéu vermelho está atravessando um deserto de areias douradas,Uma pessoa com chapéu vermelho está em um deserto.,0
+Um flyer anuncia o lançamento de vendas online de uma marca de roupas,A marca de roupas está encerrando suas atividades online.,0
+Não há nenhuma mulher batendo uma panela sobre o fogão no quintal,Uma mulher está cozinhando no quintal usando uma panela no fogão,2
+Nenhum garoto de bermuda está surfando nas ondas,Há um garoto de bermuda surfando nas ondas,0
+Dois pacotes transparentes contendo casquinhas de brownie estão dispostos sobre uma bancada de madeira diante de uma parede preta,Casquinhas de brownie estão arrumadas em duas embalagens transparentes em uma bancada de madeira.,0
+A cada compra o cliente recebe dois cupons de desconto,O cliente não recebe nenhum cupom de desconto após a compra,2
+"Atletas se preparam para uma corrida, alongando-se sob a orientação de uma instrutora",Os atletas estão em uma pista de corrida.,0
+"O caminhão de bombeiros, que é vermelho, está acelerando pela rua",O caminhão de bombeiros tem uma sirene barulhenta,1
+"Três braceletes de argolas nas cores dourada, prata e rosê estão no braço da mulher",A mulher não está usando nenhum bracelete.,2
+A receita proposta promete promover uma super-hidratação para prolongar a vida dos fios de cabelo,A receita sugerida promete aumentar a longevidade dos fios de cabelo através de hidratação intensiva.,0
+Uma menina com características indígenas está sentada,A menina está em pé.,0
+"Um mini hambúrguer artesanal de carne bovina é servido espetado por um palito gourmet, acompanhado de tomate cereja e alface americana",O mini hambúrguer é servido com um molho especial,2
+Não há nenhum coelho saltando buracos,Diversos coelhos estão alegremente saltando buracos.,2
+A vacinação está sendo realizada pelo sistema drive thru,As pessoas estão levando seus pets para vacinar no sistema drive thru,2
+A janela da sala de estar está fechada.,A televisão na sala de estar está ligada.,2
+"Um pacote de massa de pastel fresca, sem glúten e sem leite, está sobre uma mesa",A receita para a massa do pastel é antiga e foi passada de geração em geração.,2
+"A bebida é um milkshake, adornado com chantilly, uma cereja e dois tubetes",O milkshake é feito de chocolate,1
+Um polvo é visto no fundo do mar,Não há polvos no fundo do mar.,2
+O homem está guardando o violão na estante,O homem tem um violão.,0
+Oito momentos de um jogo de boliche na capital foram compartilhados com colegas e seus familiares,Os colegas e familiares viram oito momentos de um jogo de boliche na capital,0
+Vários indivíduos se encontram em um campo de futebol para um torneio amador,Existe um torneio amador acontecendo em um campo de futebol,0
+Um empreendedor rural está transferindo grãos de uma mão para a outra,O empreendedor rural está usando botas de borracha.,2
+Uma mulher no palco está tocando fervorosamente seu violão,A mulher no palco está assistindo ao espetáculo.,1
+Um gato está puxando a cortina e se pendurando nela,A cortina está sendo puxada por um gato,0
+Um pesquisador vestindo uma luva cirúrgica está segurando um tubo de ensaio e colhendo uma amostra de água,Um pesquisador vestindo uma luva cirúrgica está manuseando um tubo de ensaio e coletando uma amostra de água,0
+A escritora está procurando alguém para dispensar o editor do seu livro,A escritora está muito satisfeita com o trabalho do editor do seu livro,1
+O treinador e dois jogadores comemoram abraçados após marcarem o gol da vitória,O treinador e dois jogadores estão usando uniformes azuis,1
+Um gato branco e cinza está sentado na areia,Um felino está descansando na praia.,0
+A pizza não está sendo cortada pelo homem,O homem está cortando a pizza,2
+Uma mulher está parada diante de um espelho,Uma mulher está parada diante de uma janela,0
+Uma guitarra está sendo dedilhada por um músico,Um músico está tocando piano,0
+Vários indivíduos se encontram em um campo de futebol para um torneio amador,A equipe vencedora do torneio amador vai ganhar um troféu.,1
+Uma criança vestida de camisa social está segurando um dado em sua mão direita,O garoto de camisa social tem um dado em sua mão direita,0
+Um homem está observando o trânsito em frente à sua residência,O homem está usando uma camiseta azul,1
+"Uma corrente e um pingente, ambos banhados a ouro, possuem pedras de zircônia incrustadas",A corrente e o pingente são de prata e não possuem pedras incrustadas,2
+Um gato está se espreguiçando no sofá,O gato está no sofá se espreguiçando,0
+O cartaz informa sobre as operações atuais da polícia durante a pandemia do novo Coronavírus,As operações atuais da polícia durante a pandemia de COVID-19 são informadas através de um cartaz,0
+Uma modelo de perfil veste uma camisa branca transparente e carrega uma mochila preta,A modelo está posando para uma foto em uma passarela.,1
+As mães estão segurando filhos no colo e uma delas está grávida,Uma mãe grávida está segurando um filho no colo.,0
+Uma cadela está se divertindo com folhas e demonstrando um comportamento travesso,"A cadela está dormindo tranquilamente, sem brincar com as folhas.",2
+Um gato branco está saltando entre os galhos de uma floresta sombria,O gato branco está com fome.,2
+O secretário de saúde do Estado está dando entrevista,O ministro da saúde do país está dando uma entrevista.,0
+Uma mulher possui um chip localizado atrás de sua orelha,A mulher tem medo de tecnologia.,0
+Uma gaivota está voando sobre as ondas do oceano,A gaivota está procurando alimento enquanto voa,1
+A mulher não está pintando uma tela de tecido,A mulher está pintando um quadro de tecido,2
+Uma mulher está ralando o queijo com um utensílio,Existe queijo sendo ralado por uma mulher.,0
+Um lagarto está posicionado sobre um afloramento rochoso cercado por galhos secos,O lagarto está em uma floresta úmida e densa,0
+"Uma taça de milkshake é decorada com flocos, tubetes e chantilly",A taça de milkshake está vazia.,2
+Uma mulher no palco está tocando fervorosamente seu violão,A mulher no palco é uma talentosa violonista.,1
+O deputado possui uma foto do dia de seu casamento em seu acervo pessoal,O deputado tem uma foto de sua formatura em seu acervo pessoal,0
+A mulher está alimentando um pássaro à beira de um lago,A mulher está usando um vestido azul.,1
+O perfume tem vidro de cor preta com tampa preta,O perfume tem um aroma doce.,1
+Uma mulher está usando um chapéu azul e sentada próxima a uma bicicleta rosa sobre a grama verde com o lago ao fundo,A mulher com um chapéu azul está sentada perto de uma bicicleta rosa no parque,1
+A fragrância com embalagem transparente e tampa dourada está posicionada sobre uma textura e folhas douradas,A fragrância é um presente de aniversário para alguém.,1
+Uma pequena garota está desenhando na praia com seu pai,A garota está desenhando um castelo na areia.,2
+Visitantes e pesquisadores estão presentes no sítio geológico,O sítio geológico está vazio.,2
+Um homem de pele branca está aplicando creme no seus rosto,O homem está pensando em algo enquanto aplica o creme.,1
+Quatro potes de geléia de tomate estão dispostos na mesa da cozinha,Não há potes de geléia na mesa da cozinha,2
+Uma mão é vista descartando uma garrafa de plástico em uma lixeira,Uma mão é vista retirando uma garrafa de plástico de uma lixeira,2
+Um ciclista sem colete reflexivo está parado em uma bicicleta vermelha ao lado da ciclovia,Um ciclista está usando um colete reflexivo enquanto pedala na ciclovia,0
+"Utensílios de cozinha, incluindo tábuas, porta copos e taças, estão sobre a mesa",A mesa está vazia.,2
+Ciclistas e ônibus estão navegando através do trânsito frenético na metrópole,O trânsito na metrópole é causado por obras na estrada.,1
+Um homem está temperando um bife,Um homem está cozinhando frango,2
+Na sala há um quadro com uma linda pintura,Não há nenhuma arte na sala,2
+As informações essenciais estão escritas no manual,O manual é de fácil compreensão.,1
+Um sofá cinza adornado com almofadas está posicionado em uma sala,O sofá na sala é confortável.,1
+Uma mulher está caminhando sob a neve,A mulher está sentada quentinha em casa.,2
+Um homem está em um consultório médico tendo sua pressão arterial medida pelo médico,Um homem está lendo um livro enquanto aguarda sua vez no consultório médico,2
+Uma praça central é conectada por cinco ruas e é cercada por vários prédios,A praça está lotada de pessoas hoje.,1
+Alunos estão nos corredores do colégio apresentando seus trabalhos de Ciências,Não há alunos apresentando trabalhos de Ciências no colégio,2
+Um tênis preto tem pedrarias na biqueira,Há pedras decorativas na ponta de um tênis preto,0
+Uma mãe e seu filho estão sorrindo juntos para celebrar o aniversário do filho,A mãe e o filho estão tristes no aniversário do filho.,2
+Uma nota pública foi escrita pelo político sobre o acidente sofrido,O político não comentou sobre o acidente,2
+"A sala possui uma mesa decorada, uma planta, um puff e vários artigos decorativos",A sala tem uma janela grande com vista para o mar.,1
+"Uma pessoa de blusa verde estampada está sentada em frente a uma grande árvore, usando óculos escuros e segurando o cabelo",A pessoa está ao ar livre.,2
+Uma mulher está escalando uma cerca baixa,Uma mulher está em um parque com um caminho de pedras.,1
+Os indivíduos não estão de pé ao lado de uma loja de doces,As pessoas não estão ao lado de uma loja que vende doces,0
+Três palhaças estão se apresentando no espetáculo,Existem palhaças que estão se apresentando em um espetáculo,2
+O homem não está misturando molho em uma tigela,O homem está misturando um molho em uma tigela,2
+"Utensílios de cozinha, incluindo tábuas, porta copos e taças, estão sobre a mesa",A mesa é de madeira.,1
+"Vários idosos estão acomodados nos bancos do parque, contemplando o pôr do sol",Alguns jovens estão jogando bola no campo ao lado do parque,2
+Uma pesquisa revela que o maior fator de estresse no ambiente de trabalho é a descoberta de um erro cometido,A pesquisa indica que a principal fonte de estresse no trabalho é a sobrecarga de tarefas,2
+Um prédio de apartamentos tem 15 andares,Existem 15 andares em um prédio de apartamentos,0
+"Participantes estão sentados em cadeiras pretas em uma oficina, com o orientador e uma intérprete de Libras à frente",Os participantes estão em uma oficina tendo assistência de um intérprete de Libras.,0
+Um menino de camisa azul está correndo imprudentemente ao redor da piscina,O menino de camisa azul está sentado calmamente ao lado da piscina,2
+Os filhos da pessoa estão aproveitando as férias brincando com amigos e comendo pipoca,Os filhos da pessoa estão estudando ao invés de aproveitar as férias,2
+Um personagem do filme fez muito sucesso,O personagem do filme tem cabelos castanhos,1
+Não há nenhuma mulher loira com chapéu de palha em pé ao lado de um carrinho de sorvete,Uma mulher loira de chapéu de palha está vendendo sorvete,2
+"Uma cumbuca preta contém nhoque de batata doce com ragu de rabada, agrião e brotos por cima",A cumbuca preta está vazia,2
+Um pesquisador vestindo uma luva cirúrgica está segurando um tubo de ensaio e colhendo uma amostra de água,Um pesquisador sem luvas está segurando um tubo de ensaio e colhendo uma amostra de sangue,2
+Os pés de uma modelo estão calçados com um sapato de verniz,A modelo tem um desfile de moda hoje.,1
+Eu e minha mãe tiramos uma selfie enquanto ela segurava um buquê de flores amarelas,Nenhuma foto foi tirada.,2
+Um pedaço de pão está sendo comido tranquilamente por um pássaro,O pedaço de pão está intacto,2
+Oito momentos de um jogo de boliche na capital foram compartilhados com colegas e seus familiares,Nenhum momento do jogo de boliche na capital foi compartilhado com colegas e familiares,2
+Uma mão está segurando uma arma,Alguém está em posse de uma arma.,0
+Uma escultura de um veado sendo atacado por outros animais é cercada por muitas árvores,A escultura é feita de mármore.,1
+Uma menina sorridente está vestida com um vestido preto floral e um casaco cor-de-rosa de tecido de pelo,A menina está usando um casaco cor-de-rosa,0
+O cachorro está correndo atrás da bola no parque,O cachorro está dormindo no parque,2
+O ministro da saúde é mostrado,O ministro da saúde está se escondendo,2
+Um potinho com sorvete de laranja está sendo degustado pela senhora,A senhora está saboreando um sorvete de laranja.,0
+Não tem nenhum gato arranhando um sofá,Um gato está arranhando um sofá,2
+Uma garota nadando resgata o filhote assustado no meio do lago,O filhote está sendo salvo por uma menina que está nadando.,0
+Um homem negro está aplicando colírio nos olhos,Um homem negro está usando um chapéu.,2
+Uma pantera está se movendo silenciosamente,A pantera está fazendo muito barulho,2
+Um atleta de badminton se reúne com três amigos,Quatro pessoas estão juntas.,0
+Uma chaminé de fábrica está emitindo resíduos,A chaminé da fábrica está limpa e sem emissões,2
+Um mix de brincos e piercings banhados a ouro estão cravejados com pedras de zircônias,Os brincos e piercings estão enfeitados com zircônias.,0
+"Um salão está cheio de pessoas, algumas sentadas e outras de pé",Há pessoas sentadas e em pé no salão,0
+O gato está comendo ração de um prato,O gato não está comendo nada.,2
+Uma taça contendo um drink de morango está posicionada sobre uma mesa preta de madeira,A taça com o drink de morango está no chão.,2
+Um prato branco redondo tem sorvete de canela servido sobre uma tarte de maçã envolta por caramelo,O sorvete de canela é a sobremesa favorita de alguém,1
+Os pais estão observando suas trigêmeas recém-nascidas,Os pais estão discutindo quem vai trocar as fraldas das recém-nascidas,2
+A escritora está procurando alguém para dispensar o editor do seu livro,A escritora está em busca de uma pessoa para substituir o editor de seu livro,0
+Uma mulher está rasgando um casaco com uma tesoura,A mulher está usando uma tesoura para cortar papel,2
+"Uma mulher negra, com uma expressão séria, está encostada em um objeto vermelho","Uma mulher negra, com uma expressão séria, está encostada em um objeto azul",2
+Uma borboleta azul com asas brilhantes repousa sobre a flor vermelha,Uma borboleta de cor azul está sobre uma flor vermelha,0
+Uma orquídea roxa está em um vaso claro,O vaso claro com a orquídea roxa está na janela da cozinha,0
+"Alunas de balé, mães e professora prestam homenagem ao Outubro Rosa",As alunas de balé estão vestindo sapatilhas pink.,1
+Uma ave cinzenta está se aproximando de um gato branco na floresta de pinheiros,Uma ave de cor cinza está perto de um gato branco na floresta de pinheiros,0
+Duas crianças estão se divertindo juntas no parquinho,As crianças estão sozinhas em casa.,2
+Pacotes de bombons de chocolate com banana e chocolate com amendoim sem açúcar estão dispostos sobre uma mesa,Bombons de chocolate com banana e amendoim sem açúcar estão disponíveis na mesa.,0
+Um escorredor de louça de dois andares com vários compartimentos está localizado acima das pias,O escorredor de louça está na sala de jantar.,2
+"Vários idosos estão acomodados nos bancos do parque, contemplando o pôr do sol",Não há idosos sentados nos bancos do parque,2
+"Eu e minha noiva tiramos uma selfie durante nosso casamento, junto com fotos de família",As fotos do casamento não incluem a noiva e o noivo.,2
+A loja oferece semijoias banhadas em ouro com um ano de garantia,As semijoias vendidas na loja são banhadas a ouro e têm garantia de um ano,0
+Não há nenhuma mulher batendo uma panela sobre o fogão no quintal,Existem pessoas no quintal jogando bola,2
+Uma mulher está parada diante de um espelho,Uma mulher não está parada diante de um espelho,2
+A loja anuncia a possibilidade de encomendar brigadeiros,A loja tem uma grande variedade de doces.,1
+Uma animação mostra um jornal emergindo de um celular branco segurado na mão,A animação não mostra nenhum celular,2
+Um empreendedor sorridente está segurando um tablet,O empreendedor está com as mãos vazias.,2
+Um garoto está pintando o quadro,O quadro está sendo pintado.,0
+Um polvo é visto no fundo do mar,O polvo está caçando sua presa.,1
+Um bolo redondo é coberto com chantilly espatulado branco e decorado com rosas e rosetas na lateral e em cima,O bolo redondo tem decoração de rosas e rosetas,0
+O texto celebra o Dia das Mulheres,O texto menciona o Dia dos Homens,2
+As informações essenciais estão escritas no manual,As informações cruciais não estão no manual.,2
+Nenhum pássaro está voando sob a chuva,Há pássaros voando apesar da chuva,0
+No jantar serviremos batatas salpicadas e um prato de anéis de cebola empanados,Haverá batatas e anéis de cebola para comer no jantar.,0
+Panquecas estão servidas em um prato branco com detalhes de bolinhas verdes,Panquecas estão servidas em um prato azul,2
+Não tem nenhum homem assando um peixe,Um peixe não está sendo assado por um homem,0
+Uma raposa vermelha está saltando por um bosque de árvores altas,A raposa vermelha está em um bosque com árvores de grande porte.,0
+A mulher está alimentando um pássaro à beira de um lago,A mulher está alimentando um peixe à beira do lago.,2
+As dicas de arte estão sendo apresentadas em sequência,As dicas de arte são úteis para iniciantes,1
+Policiais prendem o motorista no local onde a carreta foi parada,O motorista não foi detido.,2
+Uma mulher está correndo acompanhada de um personal trainer,A mulher está correndo na esteira da academia,1
+As crianças adoram brinquedos populares,Os brinquedos populares são muitas vezes desejados pelas crianças,0
+Dois homens estão segurando uma caixa branca cheia de alimentos,Uma caixa branca cheia de alimentos está sendo segurada por dois homens,0
+Não há nenhuma mulher bebendo água,Uma mulher está bebendo água.,2
+Uma mãe recebe carinho de seus dois filhos,Dois filhos estão demonstrando carinho à sua mãe,0
+A equipe brasileira está reunida em círculo na quadra com os braços erguidos,A equipe brasileira está com os braços erguidos em círculo na quadra,0
+Um donut é recheado com brigadeiro e coberto com creme de baunilha,O donut tem brigadeiro dentro dele,0
+Um estudo afirma que a preguiça pode ser benéfica para a saúde,A preguiça é um comportamento comum em muitos animais.,1
+Um homem está acariciando um guaxinim,Um guaxinim está sendo acariciado por um homem,0
+Uma árvore rosa floresce em uma rua residencial com uma casa de sobrado e dois carros pratas estacionados,Uma árvore rosa está em flor em uma rua residencial,0
+"A sala possui uma mesa decorada, uma planta, um puff e vários artigos decorativos",Há um puff na sala.,0
+Um gato com pelagem branca e laço azul está deitado no sofá,O gato está com fome.,0
+A garotinha está usando um vestido azul e está sorrindo,A garotinha tem um gato como animal de estimação,1
+Um par de tênis preto infantil é visto de cima para baixo,Um par de sapatos para crianças de cor preta está sendo visualizado a partir de um ponto de vista superior.,0
+O homem está apoiado em um muro e está vestindo uma camiseta branca e jeans azul,O homem está vestindo um terno e gravata.,2
+A mulher está calmamente lendo um livro debaixo de um pinheiro,O pinheiro está cheio de pinhas.,1
+Uma parede branca é iluminada e decorada com três painéis de MDF preto formando uma árvore,A sala tem um sofá vermelho,2
+Uma garotinha está tampando o rosto com a mão,A garotinha tem a mão no rosto.,0
+Duas meninas estão fazendo a lição de casa,As meninas têm lápis rosa,1
+Um prato de comida pode espalhar sorrisos ao longo do dia,Um prato de comida pode melhorar o humor das pessoas durante o dia,0
+O homem está apoiado em um muro e está vestindo uma camiseta branca e jeans azul,O homem está ouvindo música.,1
+Duas mulheres com patins estão à beira de um lago congelado,Existem peixes dentro do lago congelado,1
+Uma mulher está abotoando um casaco,Um casaco está sendo abotoado por uma mulher.,0
+O cachorro está correndo atrás do gato no jardim,Há um jardim com diversas espécies de flores.,1
+Uma mulher está picando alho,A mulher está usando uma faca afiada.,0
+Um capelo e um diploma são representados em um desenho,O desenho é feito a lápis.,1
+Um homem está descascando uma batata amarela,Uma batata amarela está sendo descascada por um homem,0
+Os jogadores de futebol não estão em campo e não estão vestindo suas camisas verde e amarelas,Os jogadores de futebol não estão vestindo verde e amarelo,0
+"Um trem está cheio de pessoas, tanto sentadas quanto em pé, todas usando máscaras faciais",As pessoas no trem estão usando máscaras faciais.,2
+O plenário da assembleia está em exibição,O plenário da assembleia está localizado em um prédio histórico.,1
+Um lagarto está posicionado sobre um afloramento rochoso cercado por galhos secos,O lagarto é verde e amarelo,1
+Dois homens estão segurando uma caixa branca cheia de alimentos,Dois homens estão vestidos com uniformes de trabalhadores de supermercado,1
+O bebê veste um macacão com estampa de pequenas folhinhas,O bebê tem um brinquedo de pelúcia.,2
+Uma garotinha está usando um vestido amarelo e está brincando no parquinho,A menina gosta de sorvete de baunilha,1
+Um pequeno garoto oriental está sentado além do grupo e está se divertindo com um pião,Um pequeno garoto oriental está comendo um picolé,0
+O robô está convidando para uma demonstração do dispositivo no próximo sábado,O robô é uma máquina avançada com habilidades extraordinárias.,1
+Um menino vestindo uma blusa regata azul está observando uma foto,O menino com uma blusa regata azul está pensando em seu dia.,2

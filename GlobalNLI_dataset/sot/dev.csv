@@ -1,0 +1,31 @@
+premise,hypothesis,label
+Ya ba o re mme ke lapeng,O ile a letsetsa mme wa hae hang ha bese ya sekolo e mo theola.,1
+Ya ba o re mme ke lapeng,Ha a ka a bua letho.,2
+Ya ba o re mme ke lapeng,O ile a bolella mme wa hae hore o fihlile hae.,0
+"Oho, e ne e le Snake River, oho Snake River e nang le dinoha tse ngata.","Ntle le lebitso la yona, Snake River ha e na dinoha, e bitswa tjena ka lebaka la sebopeho sa yona.",2
+"Oho, e ne e le Snake River, oho Snake River e nang le dinoha tse ngata.",Snake River e na le dikolopata tse ngata.,1
+"Oho, e ne e le Snake River, oho Snake River e nang le dinoha tse ngata.",Snake River e tletse ka dinoha.,0
+Disebediswa tsena tse nang le dimolekhule tsa maemo a hodimo di fumaneha hobane kgetho ya tlhaho e kgona ho ba teng thepeng ya dimolekhule tse jwalo ha thepa e kopaneng e eketsa bokgoni,Disebediswa kaofela tse nang le dimolekhule ha ho bonolo ho di sebedisa.,2
+Disebediswa tsena tse nang le dimolekhule tsa maemo a hodimo di fumaneha hobane kgetho ya tlhaho e kgona ho ba teng thepeng ya dimolekhule tse jwalo ha thepa e kopaneng e eketsa bokgoni,Disebediswa tsa dimolekhule tseo ho seng bonolo ho di sebedisa di ka ba teng tlasa maemo a itseng.,0
+Disebediswa tsena tse nang le dimolekhule tsa maemo a hodimo di fumaneha hobane kgetho ya tlhaho e kgona ho ba teng thepeng ya dimolekhule tse jwalo ha thepa e kopaneng e eketsa bokgoni,Disebediswa tsena tsa dimolekhule di sebediswa haholo ho hlahisa tjhefu bakeng sa tshireletso.,1
+O batlile thuso ho Morena Julian.,O ne a batla ho kopa Morena Julian ho hong.,0
+O batlile thuso ho Morena Julian.,O ne a batla ho kopa Morena Julian hore a boloke mosadi wa hae.,1
+O batlile thuso ho Morena Julian.,Morena Julian o ne a sa bonahale.,2
+"Kamora ho sheba dipokello tsena, o palame thaba o ye Ntlong ya Mokhomishenara, moo ho nang le lebopo le letle le dibaka tse le potapotileng mmoho le sebaka seo sekepe se leng ho sona.",O kgona ho bona dikepe hodima thaba.,1
+"Kamora ho sheba dipokello tsena, o palame thaba o ye Ntlong ya Mokhomishenara, moo ho nang le lebopo le letle le dibaka tse le potapotileng mmoho le sebaka seo sekepe se leng ho sona.",O bona lebopo ha o le hodima thaba.,0
+"Kamora ho sheba dipokello tsena, o palame thaba o ye Ntlong ya Mokhomishenara, moo ho nang le lebopo le letle le dibaka tse le potapotileng mmoho le sebaka seo sekepe se leng ho sona.",Ha o bone lebopo ha o le hodima thaba.,2
+Tsamaiso ya disebediswa tsa batho e ile ya matlafatswa mme meralo e metjha e ile ya lokiswa kapele ho netefatsa tshehetso e tswelletseng ho bareki.,"Ka ho matlafatsa ditsamaiso tsa disebediswa tsa batho, ho ile ha thehwa meralo e metjha ya kgwebo.",1
+Tsamaiso ya disebediswa tsa batho e ile ya matlafatswa mme meralo e metjha e ile ya lokiswa kapele ho netefatsa tshehetso e tswelletseng ho bareki.,Meralo ya dikgwebo e ile ya thehwa.,0
+Tsamaiso ya disebediswa tsa batho e ile ya matlafatswa mme meralo e metjha e ile ya lokiswa kapele ho netefatsa tshehetso e tswelletseng ho bareki.,Tsamaiso ya disebediswa tsa batho e ile ya atoloswa ho feta ya mmuso wa bona o fetilelng.,2
+"Mokgatlo wa Islam o thehilweng ka bo 1940, ke sephetho sa lefatshe la jwale, o hlohleleditswe ke mohopolo wa Marxist-Leninist wa phetoho ya puso.",Mehopolo ya Marxist-Leninist e ile ya kopanngwa ho mokgatlo wa Islam.,0
+"Mokgatlo wa Islam o thehilweng ka bo 1940, ke sephetho sa lefatshe la jwale, o hlohleleditswe ke mohopolo wa Marxist-Leninist wa phetoho ya puso.",Mokgatlo wa Islam o ile wa qalwa ka dilemokgolo tsa botshelela.,2
+"Mokgatlo wa Islam o thehilweng ka bo 1940, ke sephetho sa lefatshe la jwale, o hlohleleditswe ke mohopolo wa Marxist-Leninist wa phetoho ya puso.",Mokgatlo wa Islam o ile wa qalwa e le mokgatlo wa ho kopanya setjhaba. ,1
+Mpho ya hao e bohlokwa ketekong ya rona ya sehla sa bo 85.,Mpho e nngwe le e nngwe eo re e tholang ha e bohlokwa jwalo ka ya hao.,1
+Mpho ya hao e bohlokwa ketekong ya rona ya sehla sa bo 85.,Ha re kgathalle mpho ya hao.,2
+Mpho ya hao e bohlokwa ketekong ya rona ya sehla sa bo 85.,Esale re etsa sena ho feta dilemo tse mashome a robedi.,0
+Dipakana tsa bokantle ba dikoranta tsa beke e thabisa batswadi ba kgathatsehileng.,Batswadi ba kgathatsehileng ke bona ba kgethwang dipapatsang tsa dikoranta tse beke.,0
+Dipakana tsa bokantle ba dikoranta tsa beke e thabisa batswadi ba kgathatsehileng.,Dikoranta tsa beke di rala dipakana tsa bokantle ba tsona hore di hohele ho bana ba banyane kapa batho ba baholo. ,2
+Dipakana tsa bokantle ba dikoranta tsa beke e thabisa batswadi ba kgathatsehileng.,"Batswadi ba na le kgonahalo ya sebedisa tjhelete ho reka dikoloi tse ntjha, ho ba etsa ebe babapatsi ba bohlokwa ba makasine.",1
+Alternative ha e a lokela ho sebediswa sebakeng sa alternate.,Ha ho a loka ho sebedisa alternative ho bolela alternate.,0
+Alternative ha e a lokela ho sebediswa sebakeng sa alternate.,Ho dumelletswe ho kenya alternate bakeng sa alternative.,2
+Alternative ha e a lokela ho sebediswa sebakeng sa alternate.,Batho ba bangata ha ba tsebe hore o sebedisa jwang ka nepo alternative le alternate.,1

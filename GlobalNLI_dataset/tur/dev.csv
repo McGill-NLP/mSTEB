@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Ve Anne, evdeyim dedi.",Okul servisi onu bırakır bırakmaz annesini aradı.,1
+"Ve Anne, evdeyim dedi.",Bir kelime söylemedi.,2
+"Ve Anne, evdeyim dedi.",Annesine eve gittiğini söyledi.,0
+"ah Yılan Nehri'ydi, ah içinde bir sürü yılan olan Yılan Nehri","Adına rağmen, Yılan Nehrinde yılan yoktur; adını S-şeklinde olduğu için almıştır.",2
+"ah Yılan Nehri'ydi, ah içinde bir sürü yılan olan Yılan Nehri",Snake nehrinde bir çok kaplumbağa var.,1
+"ah Yılan Nehri'ydi, ah içinde bir sürü yılan olan Yılan Nehri",Yılan Nehri yılanlarla dolu.,0
+"Bu yüksek seviyeli moleküler cihaz kompleksleri ortaya çıkar çünkü kolektif özellikler adaptif zindeliği arttırdığı zaman, doğal seleksiyon bu tür moleküler kümelerin kolektif özellikleri üzerinde etki edebilir.",Tüm moleküler cihazlar eşit derecede karmaşıktır.,2
+"Bu yüksek seviyeli moleküler cihaz kompleksleri ortaya çıkar çünkü kolektif özellikler adaptif zindeliği arttırdığı zaman, doğal seleksiyon bu tür moleküler kümelerin kolektif özellikleri üzerinde etki edebilir.",Bazı koşullar altında daha karmaşık moleküler cihazlar ortaya çıkabilir.,0
+"Bu yüksek seviyeli moleküler cihaz kompleksleri ortaya çıkar çünkü kolektif özellikler adaptif zindeliği arttırdığı zaman, doğal seleksiyon bu tür moleküler kümelerin kolektif özellikleri üzerinde etki edebilir.",Bu moleküler cihazlar genellikle koruma için çeşitli zehirler üretmek için kullanılır.,1
+Başvuruyu Lord Julian'a çevirdiler.,Lord Julian'a bir şey sormak istedi.,0
+Başvuruyu Lord Julian'a çevirdiler.,Lord Julian'dan eşinin canını bağışlamasını istemek istedi.,1
+Başvuruyu Lord Julian'a çevirdiler.,Lord Julian görülemeyecek bir yerdi.,2
+"Bu koleksiyonlara baktıktan sonra, çevredeki sahil şeridinin ve tersane kompleksinin geri kalanının güzel manzaralarını görebileceğiniz Komiserlik Binası'na tepeden tırmanın.",Tepenin üstünde tekneleri görebilirsiniz.,1
+"Bu koleksiyonlara baktıktan sonra, çevredeki sahil şeridinin ve tersane kompleksinin geri kalanının güzel manzaralarını görebileceğiniz Komiserlik Binası'na tepeden tırmanın.",Tepenin üstünde sahil şeridi manzaralarını görebilirsiniz.,0
+"Bu koleksiyonlara baktıktan sonra, çevredeki sahil şeridinin ve tersane kompleksinin geri kalanının güzel manzaralarını görebileceğiniz Komiserlik Binası'na tepeden tırmanın.",Tepeden bakınca kıyıyı göremezsiniz.,2
+İnsan kaynakları sistemleri konsolide edilmiş ve genişletilmiş müşteri tabanına sürekli desteğin sağlanması için yeni kurumsal yapılar hızla tanımlanmıştır.,İnsan kaynakları sistemlerini birleştirerek yeni kurumsal yapılar için alan yaratıldı.,1
+İnsan kaynakları sistemleri konsolide edilmiş ve genişletilmiş müşteri tabanına sürekli desteğin sağlanması için yeni kurumsal yapılar hızla tanımlanmıştır.,Kurumsal yapılar oluşturuldu.,0
+İnsan kaynakları sistemleri konsolide edilmiş ve genişletilmiş müşteri tabanına sürekli desteğin sağlanması için yeni kurumsal yapılar hızla tanımlanmıştır.,İnsan kaynakları sistemleri önceki durumlarının ötesine genişletildi.,2
+"1940 doğumlu İslamcı hareket, devrimci örgütlenmeyle ilgili Marksist-Leninist kavramlardan etkilenen modern dünyanın bir ürünüdür.",İslami harekete Marksist-Leninist konseptler dahil edilmiştir.,0
+"1940 doğumlu İslamcı hareket, devrimci örgütlenmeyle ilgili Marksist-Leninist kavramlardan etkilenen modern dünyanın bir ürünüdür.",İslam hareketi altıncı yüzyılda başlamıştır.,2
+"1940 doğumlu İslamcı hareket, devrimci örgütlenmeyle ilgili Marksist-Leninist kavramlardan etkilenen modern dünyanın bir ürünüdür.",İslamcı hareket başta halk hareketi organizasyonu olarak kuruldu.,1
+85. sezonumuzun kutlaması için hediyeniz önemlidir.,Aldığımız hiçbir hediye sizinki kadar önemli değil.,1
+85. sezonumuzun kutlaması için hediyeniz önemlidir.,Sizin hediyeniz bizi hiç ilgilendirmiyor.,2
+85. sezonumuzun kutlaması için hediyeniz önemlidir.,Biz bunu 80 yılı aşkın süredir yapıyoruz.,0
+Newsweeklies'in kapak paketleri endişeli ebeveynlere yöneliyor.,"Endişeli ebeveynler, haftalık dergilerin tek pazarlama hedefidir.",0
+Newsweeklies'in kapak paketleri endişeli ebeveynlere yöneliyor.,"Newsweeklies, küçük çocuklara veya yaşlılara hitap etmek için kapak paketlerini tasarlıyor.",2
+Newsweeklies'in kapak paketleri endişeli ebeveynlere yöneliyor.,"Ebeveynlerin yeni araba alımlarında para harcaması daha olasıdır, bu da onları dergiler için kârlı bir reklam segmenti haline getirmektedir.",1
+Alternatif bir yerde alternatif kullanılmamalı.,Alternatifi dönüşümlü anlamında kullanmak uygun değil.,0
+Alternatif bir yerde alternatif kullanılmamalı.,Alternatif için alternatif ikame edilebilir.,2
+Alternatif bir yerde alternatif kullanılmamalı.,"Pek çok insan, alternatif ve alternatifleri doğru bir şekilde nasıl kullanacağını bilmez.",1

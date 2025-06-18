@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Sai ya ce, Mama na dawo gida.","Ya kira babar sa, sanda motar makarantar ta sauke shi.",1
+"Sai ya ce, Mama na dawo gida.",Bai ce ko kalma ɗaya ba.,2
+"Sai ya ce, Mama na dawo gida.",Ya fadawa babar sa yaji gida.,0
+"Oh, Ashe kogin maciji oh kogin maciji na ɗauke da macizai da yawa a ciki.","Duk da sunan sa, Kogin maciji a zahiri bai ɗauke da kowanne maciji, An sanya masa sunan saboda siffar sa ta S.",2
+"Oh, Ashe kogin maciji oh kogin maciji na ɗauke da macizai da yawa a ciki.",Kogin maciji yana da kunkuru.,1
+"Oh, Ashe kogin maciji oh kogin maciji na ɗauke da macizai da yawa a ciki.",Kogin maciji yana cike da macizai.,0
+Waɗannan rikirkitattun na'urar kwayoyin halitta sun samo asali ne saboda zaɓin su a haka zai iya canza yanayi su gaba ɗaya dan haka su kwayoyin halitta suna taruwa lokacin da yanayin su na gaba ɗaya ya haɓaka kuma ya canza da yanayi da suke.,Duk na'urorin kwayoyin halitta suna da wahalar sha'ani.,2
+Waɗannan rikirkitattun na'urar kwayoyin halitta sun samo asali ne saboda zaɓin su a haka zai iya canza yanayi su gaba ɗaya dan haka su kwayoyin halitta suna taruwa lokacin da yanayin su na gaba ɗaya ya haɓaka kuma ya canza da yanayi da suke.,Da yawan na'urorin kwayoyin halitta zasu iya bayyana wasa ƙa’idoji.,0
+Waɗannan rikirkitattun na'urar kwayoyin halitta sun samo asali ne saboda zaɓin su a haka zai iya canza yanayi su gaba ɗaya dan haka su kwayoyin halitta suna taruwa lokacin da yanayin su na gaba ɗaya ya haɓaka kuma ya canza da yanayi da suke.,Waɗanne na'urorin kwayoyin halitta yawanci ana amfani dasu a fitar da guba iri-ir dan samun kariya.,1
+Ya mai da roƙon sa zuwa shugaban Julian.,Ya so ya tambayi shugaban Julian wani abu.,0
+Ya mai da roƙon sa zuwa shugaban Julian.,Ya so ya tambayi shugaban Julian ya ceci matar sa.,1
+Ya mai da roƙon sa zuwa shugaban Julian.,An rasa inda zaa ga Shugaba Julian.,2
+"Bayan ka gama ganin waɗannan, ka hau kan dutse gidan kwamishinan inda zaka kyawawan wurare da kuma gaɓar ruwa da ragowar tashar jiragen ruwan.",Zaka iya ganin jiragen ruwa daga saman tsaunin,1
+"Bayan ka gama ganin waɗannan, ka hau kan dutse gidan kwamishinan inda zaka kyawawan wurare da kuma gaɓar ruwa da ragowar tashar jiragen ruwan.",Zaka iya hango bakin tekun daga saman tsaunin.,0
+"Bayan ka gama ganin waɗannan, ka hau kan dutse gidan kwamishinan inda zaka kyawawan wurare da kuma gaɓar ruwa da ragowar tashar jiragen ruwan.",Ba zaka iya ganin bakin tekun ba daga saman tsaunin ba.,2
+an karfafa tsarin kula da lafiya maaikata da sabbin gammammen tsari da wuri domin kula da cigaba da fadada mu'amala da abokanan kasuwanci.,"ta karfaffafen tsarin kula da lafiyar maaikata, an gina ɗaki wa sabbin gammamen tsari ko kuma an bada dama domin a sami sabon gammamen tsari.",1
+an karfafa tsarin kula da lafiya maaikata da sabbin gammammen tsari da wuri domin kula da cigaba da fadada mu'amala da abokanan kasuwanci.,an samar da gammammen tsari.,0
+an karfafa tsarin kula da lafiya maaikata da sabbin gammammen tsari da wuri domin kula da cigaba da fadada mu'amala da abokanan kasuwanci.,tsarin kula da lafiyar maaikata ta bunkasa fiye da da.,2
+"an samar da ƙungiyar musulunci a 1940 an yi saboda duniyar zamani, wanda irin nazarin Marxist-Leninist ne ya tunzura su tare da ƙungiyoyin yan tawaye.",an hada da nazarin Marxist-Leninist a harkar kungiyar musulunci.,0
+"an samar da ƙungiyar musulunci a 1940 an yi saboda duniyar zamani, wanda irin nazarin Marxist-Leninist ne ya tunzura su tare da ƙungiyoyin yan tawaye.",a karni na shidda aka fara kafa kungiyar musulmai.,2
+"an samar da ƙungiyar musulunci a 1940 an yi saboda duniyar zamani, wanda irin nazarin Marxist-Leninist ne ya tunzura su tare da ƙungiyoyin yan tawaye.",ƙungiyar musulmai ya samo asali daga ƙungiyar wayar da kan al'umma.,1
+kyautar ka na da amfani ga bikin kakar bana karo na tamanin da biyar.,duk kyautar da muka samu bai da muhimmanci kamar naka.,1
+kyautar ka na da amfani ga bikin kakar bana karo na tamanin da biyar.,bamu damu da kyautar ka ba kwatakwata.,2
+kyautar ka na da amfani ga bikin kakar bana karo na tamanin da biyar.,mun fi shekara tamanin muna yin wannan.,0
+labaran dake bangon jaridar newsweeklies ya ja ra'ayin iyaye masu neman labarai.,Iyaye masu neman labarai sune irin wanda newsweeklies suke neman don kasuwancin su.,0
+labaran dake bangon jaridar newsweeklies ya ja ra'ayin iyaye masu neman labarai.,Jaridar Newsweeklies na tsara bangon shafin su domin su ja hankalin yara dan tsofaffi.,2
+labaran dake bangon jaridar newsweeklies ya ja ra'ayin iyaye masu neman labarai.,"akwai yiwuwar iyaye su fi kashe ƙudin su akan siyan sabbin motoci, da samun hanya mai kyau na tallata kasuwanci a mujallu.",1
+wani zabin ba ya nufin maimako.,bai dace ake amfani da wani zabin da nufin maimako ba.,0
+wani zabin ba ya nufin maimako.,an yarda ake amfani da maimako a madadin wani zabin.,2
+wani zabin ba ya nufin maimako.,mutane da dama basu san yadda za su yi amfani da wani zabin da maimako ba.,1

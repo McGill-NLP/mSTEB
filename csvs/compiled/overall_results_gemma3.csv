@@ -1,0 +1,206 @@
+language_name,language_code,language_family,SIB Gemma3-27B,Flores xx-eng Gemma3-27B,Flores eng-xx Gemma3-27B
+Acehnese (Arabic script),ace_Arab,Austronesian,61.3,26.0,1.7
+Acehnese (Latin script),ace_Latn,Austronesian,72.1,38.7,25.6
+Mesopotamian Arabic,acm_Arab,Afro-Asiatic,86.3,57.7,15.3
+Ta’izzi-Adeni Arabic,acq_Arab,Afro-Asiatic,86.3,58.8,36.7
+Tunisian Arabic,aeb_Arab,Afro-Asiatic,84.8,54.1,31.3
+Afrikaans,afr_Latn,Indo-European,86.3,74.5,63.6
+South Levantine Arabic,ajp_Arab,Afro-Asiatic,86.3,62.4,43.2
+Akan,aka_Latn,Atlantic-Congo,56.4,29.1,20.4
+Tosk Albanian,als_Latn,Indo-European,84.3,63.8,56.8
+Amharic,amh_Ethi,Afro-Asiatic,82.4,55.1,23.8
+North Levantine Arabic,apc_Arab,Afro-Asiatic,86.3,60.2,41.7
+Modern Standard Arabic,arb_Arab,Afro-Asiatic,88.7,62.3,52.8
+Modern Standard Arabic (Romanized),arb_Latn,Afro-Asiatic,84.8,50.5,22.6
+Najdi Arabic,ars_Arab,Afro-Asiatic,88.7,61.4,36.8
+Moroccan Arabic,ary_Arab,Afro-Asiatic,84.3,52.7,23.5
+Egyptian Arabic,arz_Arab,Afro-Asiatic,85.8,55.0,42.9
+Assamese,asm_Beng,Indo-European,84.8,52.8,28.5
+Asturian,ast_Latn,Indo-European,85.3,64.2,55.3
+Awadhi,awa_Deva,Indo-European,83.8,57.2,26.8
+Central Aymara,ayr_Latn,Aymaran,45.1,22.1,16.7
+South Azerbaijani,azb_Arab,Turkic,81.9,43.7,14.8
+North Azerbaijani,azj_Latn,Turkic,81.9,49.7,42.7
+Bashkir,bak_Cyrl,Turkic,84.3,52.9,39.7
+Bambara,bam_Latn,Mande,47.5,21.7,16.7
+Balinese,ban_Latn,Austronesian,79.4,50.4,33.7
+Belarusian,bel_Cyrl,Indo-European,86.3,48.8,44.2
+Bemba,bem_Latn,Atlantic-Congo,60.3,28.5,23.2
+Bengali,ben_Beng,Indo-European,86.3,58.6,44.0
+Bhojpuri,bho_Deva,Indo-European,82.4,51.6,33.5
+Banjar (Arabic script),bjn_Arab,Austronesian,62.7,29.9,5.1
+Banjar (Latin script),bjn_Latn,Austronesian,83.3,53.9,38.6
+Standard Tibetan,bod_Tibt,Sino-Tibetan,73.0,28.8,22.5
+Bosnian,bos_Latn,Indo-European,86.8,65.7,57.9
+Buginese,bug_Latn,Austronesian,60.8,31.3,19.7
+Bulgarian,bul_Cyrl,Indo-European,85.3,66.0,62.9
+Catalan,cat_Latn,Indo-European,85.3,68.2,64.5
+Cebuano,ceb_Latn,Austronesian,86.3,65.1,54.1
+Czech,ces_Latn,Indo-European,84.3,63.9,56.5
+Chokwe,cjk_Latn,Atlantic-Congo,45.1,20.1,14.9
+Central Kurdish,ckb_Arab,Indo-European,83.8,54.2,33.8
+Crimean Tatar,crh_Latn,Turkic,79.4,52.1,30.8
+Welsh,cym_Latn,Indo-European,83.3,71.3,54.2
+Danish,dan_Latn,Indo-European,86.8,69.8,67.3
+German,deu_Latn,Indo-European,86.8,66.6,63.6
+Southwestern Dinka,dik_Latn,Nilotic,44.1,22.8,15.8
+Dyula,dyu_Latn,Mande,47.1,21.0,12.8
+Dzongkha,dzo_Tibt,Sino-Tibetan,66.2,22.6,19.3
+Greek,ell_Grek,Indo-European,85.8,59.8,52.7
+English,eng_Latn,Indo-European,87.7,,
+Esperanto,epo_Latn,Constructed,86.3,66.3,59.2
+Estonian,est_Latn,Uralic,86.8,62.4,54.9
+Basque,eus_Latn,Basque,83.8,56.3,48.7
+Ewe,ewe_Latn,Atlantic-Congo,46.6,23.4,18.8
+Faroese,fao_Latn,Indo-European,83.8,57.9,40.5
+Fijian,fij_Latn,Austronesian,52.9,28.5,22.6
+Finnish,fin_Latn,Uralic,87.3,60.1,55.5
+Fon,fon_Latn,Atlantic-Congo,36.8,18.5,9.7
+French,fra_Latn,Indo-European,87.3,66.5,68.9
+Friulian,fur_Latn,Indo-European,80.9,57.1,42.1
+Nigerian Fulfulde,fuv_Latn,Atlantic-Congo,49.5,22.1,15.3
+West Central Oromo,gaz_Latn,Afro-Asiatic,52.9,33.5,17.5
+Scottish Gaelic,gla_Latn,Indo-European,81.4,52.2,39.3
+Irish,gle_Latn,Indo-European,87.7,59.8,44.1
+Galician,glg_Latn,Indo-European,82.4,64.1,60.5
+Guarani,grn_Latn,Tupian,71.1,34.1,18.3
+Gujarati,guj_Gujr,Indo-European,82.4,62.4,49.0
+Haitian Creole,hat_Latn,Indo-European,83.8,61.1,49.5
+Hausa,hau_Latn,Afro-Asiatic,80.4,52.0,43.9
+Hebrew,heb_Hebr,Afro-Asiatic,86.8,65.9,57.0
+Hindi,hin_Deva,Indo-European,86.8,63.7,53.0
+Chhattisgarhi,hne_Deva,Indo-European,84.8,59.6,29.4
+Croatian,hrv_Latn,Indo-European,87.7,62.7,56.3
+Hungarian,hun_Latn,Uralic,84.8,60.5,53.2
+Armenian,hye_Armn,Indo-European,84.8,61.0,49.6
+Igbo,ibo_Latn,Atlantic-Congo,81.4,45.4,35.2
+Ilocano,ilo_Latn,Austronesian,80.9,51.7,39.5
+Indonesian,ind_Latn,Austronesian,87.3,66.2,66.7
+Icelandic,isl_Latn,Indo-European,86.3,58.3,46.1
+Italian,ita_Latn,Indo-European,87.7,58.5,59.4
+Javanese,jav_Latn,Austronesian,83.8,59.4,44.3
+Japanese,jpn_Jpan,Japonic,84.3,53.5,31.9
+Kabyle,kab_Latn,Afro-Asiatic,31.9,24.8,17.3
+Jingpho,kac_Latn,Sino-Tibetan,42.6,20.1,21.0
+Kamba,kam_Latn,Atlantic-Congo,49.5,24.4,16.3
+Kannada,kan_Knda,Dravidian,85.3,56.7,45.5
+Kashmiri (Arabic script),kas_Arab,Indo-European,78.9,35.9,13.1
+Kashmiri (Devanagari script),kas_Deva,Indo-European,69.1,28.2,11.9
+Georgian,kat_Geor,Kartvelian,86.8,54.2,46.5
+Kazakh,kaz_Cyrl,Turkic,86.3,57.7,48.0
+Kabiyè,kbp_Latn,Atlantic-Congo,41.7,21.0,9.7
+Kabuverdianu,kea_Latn,Indo-European,83.3,62.1,32.7
+Halh Mongolian,khk_Cyrl,Mongolic-Khitan,80.9,53.1,39.6
+Khmer,khm_Khmr,Austroasiatic,82.8,53.8,33.2
+Kikuyu,kik_Latn,Atlantic-Congo,57.8,26.9,20.0
+Kinyarwanda,kin_Latn,Atlantic-Congo,82.4,49.4,35.6
+Kyrgyz,kir_Cyrl,Turkic,86.8,50.5,41.0
+Kimbundu,kmb_Latn,Atlantic-Congo,43.1,22.3,18.3
+Northern Kurdish,kmr_Latn,Indo-European,81.9,50.6,17.9
+Central Kanuri (Arabic script),knc_Arab,Nilotic,26.0,13.3,4.1
+Central Kanuri (Latin script),knc_Latn,Nilotic,48.0,22.6,14.4
+Kikongo,kon_Latn,Atlantic-Congo,60.8,26.3,17.6
+Korean,kor_Hang,Koreanic,85.3,56.2,35.2
+Lao,lao_Laoo,Tai-Kadai,84.8,57.8,40.7
+Ligurian,lij_Latn,Indo-European,84.3,59.5,34.7
+Limburgish,lim_Latn,Indo-European,79.9,62.2,37.5
+Lingala,lin_Latn,Atlantic-Congo,60.8,30.6,24.8
+Lithuanian,lit_Latn,Indo-European,86.3,59.1,53.2
+Lombard,lmo_Latn,Indo-European,83.8,59.0,31.2
+Latgalian,ltg_Latn,Indo-European,82.4,47.3,28.3
+Luxembourgish,ltz_Latn,Indo-European,85.8,67.2,47.9
+Luba-Kasai,lua_Latn,Atlantic-Congo,51.0,25.6,18.6
+Ganda,lug_Latn,Atlantic-Congo,66.2,35.4,21.6
+Luo,luo_Latn,Nilotic,51.5,21.3,21.1
+Mizo,lus_Latn,Sino-Tibetan,74.0,33.2,30.6
+Standard Latvian,lvs_Latn,Indo-European,85.8,60.5,56.1
+Magahi,mag_Deva,Indo-European,84.8,61.9,37.3
+Maithili,mai_Deva,Indo-European,85.3,59.9,34.7
+Malayalam,mal_Mlym,Dravidian,84.8,58.8,43.2
+Marathi,mar_Deva,Indo-European,86.3,59.9,44.4
+Minangkabau (Arabic script),min_Arab,Austronesian,46.1,26.6,1.5
+Minangkabau (Latin script),min_Latn,Austronesian,83.8,54.7,43.6
+Macedonian,mkd_Cyrl,Indo-European,85.8,65.1,58.2
+Maltese,mlt_Latn,Afro-Asiatic,86.3,72.6,61.2
+Meitei (Bengali script),mni_Beng,Sino-Tibetan,61.3,23.1,6.9
+Mossi,mos_Latn,Atlantic-Congo,41.2,20.5,13.8
+Maori,mri_Latn,Austronesian,68.6,43.6,38.3
+Burmese,mya_Mymr,Sino-Tibetan,85.3,49.7,30.0
+Dutch,nld_Latn,Indo-European,85.8,57.8,55.4
+Norwegian Nynorsk,nno_Latn,Indo-European,86.8,67.1,57.6
+Norwegian Bokmål,nob_Latn,Indo-European,86.8,66.3,59.2
+Nepali,npi_Deva,Indo-European,85.3,62.6,45.7
+N'ko,nqo_Nkoo,Atlantic-Congo,19.1,,
+Northern Sotho,nso_Latn,Atlantic-Congo,70.1,47.1,30.6
+Nuer,nus_Latn,Nilotic,34.3,19.5,12.2
+Nyanja,nya_Latn,Atlantic-Congo,75.0,44.0,37.4
+Occitan,oci_Latn,Indo-European,83.8,70.9,54.2
+Odia,ory_Orya,Indo-European,84.3,56.6,33.0
+Pangasinan,pag_Latn,Austronesian,77.9,46.2,29.3
+Eastern Panjabi,pan_Guru,Indo-European,86.3,61.0,33.9
+Papiamento,pap_Latn,Indo-European,80.9,65.4,46.9
+Southern Pashto,pbt_Arab,Indo-European,81.4,53.8,23.0
+Western Persian,pes_Arab,Indo-European,86.3,60.7,50.0
+Plateau Malagasy,plt_Latn,Austronesian,80.4,50.5,42.0
+Polish,pol_Latn,Indo-European,83.8,56.3,50.2
+Portuguese,por_Latn,Indo-European,85.3,69.9,68.5
+Dari,prs_Arab,Indo-European,87.7,61.2,43.7
+Ayacucho Quechua,quy_Latn,Quechuan,60.8,26.0,22.1
+Romanian,ron_Latn,Indo-European,87.3,66.1,64.2
+Rundi,run_Latn,Atlantic-Congo,74.5,38.8,28.2
+Russian,rus_Cyrl,Indo-European,87.7,59.8,57.0
+Sango,sag_Latn,Atlantic-Congo,39.7,20.1,13.6
+Sanskrit,san_Deva,Indo-European,78.9,43.5,11.7
+Santali,sat_Olck,Austroasiatic,75.0,38.9,8.3
+Sicilian,scn_Latn,Indo-European,83.3,59.9,39.2
+Shan,shn_Mymr,Tai-Kadai,54.4,28.5,6.9
+Sinhala,sin_Sinh,Indo-European,85.8,55.9,38.4
+Slovak,slk_Latn,Indo-European,85.3,63.8,57.2
+Slovenian,slv_Latn,Indo-European,85.3,60.9,55.1
+Samoan,smo_Latn,Austronesian,81.9,48.2,41.5
+Shona,sna_Latn,Atlantic-Congo,76.0,44.8,35.1
+Sindhi,snd_Arab,Indo-European,83.8,58.4,33.9
+Somali,som_Latn,Afro-Asiatic,82.4,50.3,37.4
+Southern Sotho,sot_Latn,Atlantic-Congo,72.5,50.9,38.1
+Spanish,spa_Latn,Indo-European,86.3,56.5,55.9
+Sardinian,srd_Latn,Indo-European,79.9,60.6,42.3
+Serbian,srp_Cyrl,Indo-European,87.7,66.3,45.5
+Swati,ssw_Latn,Atlantic-Congo,69.6,40.7,28.6
+Sundanese,sun_Latn,Austronesian,82.4,58.0,41.5
+Swedish,swe_Latn,Indo-European,88.7,69.4,66.8
+Swahili,swh_Latn,Atlantic-Congo,84.8,64.6,57.0
+Silesian,szl_Latn,Indo-European,82.4,61.5,31.9
+Tamil,tam_Taml,Dravidian,83.3,56.8,49.3
+Tamasheq (Latin script),taq_Latn,Afro-Asiatic,49.5,23.5,15.8
+Tamasheq (Tifinagh script),taq_Tfng,Afro-Asiatic,24.0,16.4,5.3
+Tatar,tat_Cyrl,Turkic,85.8,54.7,40.0
+Telugu,tel_Telu,Dravidian,85.8,61.6,49.8
+Tajik,tgk_Cyrl,Indo-European,85.3,56.3,43.7
+Tagalog,tgl_Latn,Austronesian,83.8,67.1,61.3
+Thai,tha_Thai,Tai-Kadai,86.8,56.5,47.1
+Tigrinya,tir_Ethi,Afro-Asiatic,74.5,34.9,10.1
+Tok Pisin,tpi_Latn,Indo-European,80.4,42.1,35.8
+Tswana,tsn_Latn,Atlantic-Congo,66.7,37.4,32.7
+Tsonga,tso_Latn,Atlantic-Congo,61.8,31.8,24.7
+Turkmen,tuk_Latn,Turkic,86.8,55.6,38.6
+Tumbuka,tum_Latn,Atlantic-Congo,73.0,32.3,27.0
+Turkish,tur_Latn,Turkic,84.3,62.1,57.2
+Twi,twi_Latn,Atlantic-Congo,61.8,31.9,18.7
+Central Atlas Tamazight,tzm_Tfng,Afro-Asiatic,25.5,19.3,2.6
+Uyghur,uig_Arab,Turkic,82.4,46.9,29.3
+Ukrainian,ukr_Cyrl,Indo-European,85.3,63.6,55.7
+Umbundu,umb_Latn,Atlantic-Congo,40.2,21.5,15.1
+Urdu,urd_Arab,Indo-European,84.8,58.6,44.4
+Northern Uzbek,uzn_Latn,Turkic,85.3,58.2,44.9
+Venetian,vec_Latn,Indo-European,83.8,64.3,41.0
+Vietnamese,vie_Latn,Austroasiatic,86.8,59.7,58.7
+Waray,war_Latn,Austronesian,81.4,64.3,47.9
+Wolof,wol_Latn,Atlantic-Congo,61.3,25.5,17.8
+Xhosa,xho_Latn,Atlantic-Congo,78.9,52.4,35.8
+Eastern Yiddish,ydd_Hebr,Indo-European,82.4,68.9,30.3
+Yoruba,yor_Latn,Atlantic-Congo,73.5,36.8,21.0
+Yue Chinese,yue_Hant,Sino-Tibetan,84.8,55.6,15.7
+Chinese (Simplified),zho_Hans,Sino-Tibetan,87.3,55.0,31.0
+Chinese (Traditional),zho_Hant,Sino-Tibetan,87.3,53.5,24.8
+Standard Malay,zsm_Latn,Austronesian,86.3,65.7,63.5
+Zulu,zul_Latn,Atlantic-Congo,79.9,55.3,40.8

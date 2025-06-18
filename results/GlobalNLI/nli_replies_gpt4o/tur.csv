@@ -1,0 +1,601 @@
+premise,hypothesis,gpt_reply
+"Pekala, bunu hiç düşünmemiştim ancak kafam çok karıştı ve onunla tekrar konuşmadım.",Onunla bir daha konuşmadım.,entailment
+"Pekala, bunu hiç düşünmemiştim ancak kafam çok karıştı ve onunla tekrar konuşmadım.",O kadar çok üzgündüm ki onunla tekrar konuşmaya başladım.,contradiction
+"Pekala, bunu hiç düşünmemiştim ancak kafam çok karıştı ve onunla tekrar konuşmadım.",Harika bir konuşma yaptık.,contradiction
+Sonunda tanışmam için bir adam tarafından çağrılmamı söylediler.,Bana herhangi birisiyle görüşme konusunda hiç bir şey söylenmedi.,contradiction
+Sonunda tanışmam için bir adam tarafından çağrılmamı söylediler.,Tanışmam için bana bir adamın çağrılıcağı söylendi.,entailment
+Sonunda tanışmam için bir adam tarafından çağrılmamı söylediler.,Adam biraz geç teşrif etti.,neutral
+Bu konu hakkında söyleyebileceğin çok şey var pas geçiyorum.,O konuda bildiğim her şeyi sana anlatmak istiyorum.,contradiction
+Bu konu hakkında söyleyebileceğin çok şey var pas geçiyorum.,Kapsanacak çok şey olmasına rağmen bundan bahsetmeyeceğim.,entailment
+Bu konu hakkında söyleyebileceğin çok şey var pas geçiyorum.,Şehrin tarihinden bahsetmeyeceğim çünkü söylenecek çok bir şey yok.,contradiction
+Neden olduğunu gerçekten bilmiyorum.,Sebebinden eminim.,contradiction
+Neden olduğunu gerçekten bilmiyorum.,Okullardan neden nakil olduğunu bilmiyorum.,neutral
+Neden olduğunu gerçekten bilmiyorum.,Bunun neden olduğunu bilmiyorum.,entailment
+Minyatür irtifa odalarındaki test için regülatörleri çalıştıran tek kişi bendim.,Testler için düzenleyicileri yöneten tek kişi olmayı sevmedim.,contradiction
+Minyatür irtifa odalarındaki test için regülatörleri çalıştıran tek kişi bendim.,Testler minyatür irtifa odalarında yapıldı.,entailment
+Minyatür irtifa odalarındaki test için regülatörleri çalıştıran tek kişi bendim.,Test için düzenleyicileri yöneten birkaç kişi vardı.,contradiction
+Rick’ in söylediği gibi ben Şef Master Sergeant emekli oldum.,Bugün bile çalışıyorum.,contradiction
+Rick’ in söylediği gibi ben Şef Master Sergeant emekli oldum.,Ben 2002 yılında emekli oldum.,neutral
+Rick’ in söylediği gibi ben Şef Master Sergeant emekli oldum.,Rick size emekli olduğumu söyledi.,entailment
+"Masamda bazı nakit akışı projeksiyonları var ve bu da Cutty için, müşterinin adı.",Cutty adlı müşteri ayda 10000$ kazanıyor.,neutral
+"Masamda bazı nakit akışı projeksiyonları var ve bu da Cutty için, müşterinin adı.",Adı Cutty olan bir müşteri var.,entailment
+"Masamda bazı nakit akışı projeksiyonları var ve bu da Cutty için, müşterinin adı.",Cutty adlı bir müşterimiz yok.,contradiction
+Bana yardım edebilecek olan kız şehrin diğer ucunda.,Yardımına ihtiyacım olan kız uzak bir mesafede yaşıyor.,entailment
+Bana yardım edebilecek olan kız şehrin diğer ucunda.,Bana yardım edecek olan kız 5 mil mesafede.,neutral
+Bana yardım edebilecek olan kız şehrin diğer ucunda.,Bana yardım edebilecek hiç kimse yok.,contradiction
+"Ama onlar, tarla çocukları ve ev çocukları olarak bölündüler, bir çeşit ...",Kendi alanlarında çalışmaya hepsi hem fikir oldu.,contradiction
+"Ama onlar, tarla çocukları ve ev çocukları olarak bölündüler, bir çeşit ...",Kimin tarla işçisi ve kimin evin sahibi olduğu konusunda anlaşamadılar.,neutral
+"Ama onlar, tarla çocukları ve ev çocukları olarak bölündüler, bir çeşit ...",Kimin pamuk tarlasında kimin yer paspasında çalışması gerektiği konusunda hem fikir olamadılar.,neutral
+"Demek istediğim, sadece beş çocuğu vardı, biri öldü.",Tüm çocukları kurtuldu.,contradiction
+"Demek istediğim, sadece beş çocuğu vardı, biri öldü.",Beş çocuktan biri öldü.,entailment
+"Demek istediğim, sadece beş çocuğu vardı, biri öldü.",Ölen çocuk hastalıklı doğmuştu.,neutral
+Gözlerinde sadece gözyaşları olduğunu söyledi ve Joe'nun verandaya geldiğini söyledi.,Ona verandaya gelmesini söylediğinde gözleri yaşlıydı.,contradiction
+Gözlerinde sadece gözyaşları olduğunu söyledi ve Joe'nun verandaya geldiğini söyledi.,Joe'yu verandadan attıktan sonra hızlıca gözyaşlarını sildi.,contradiction
+Gözlerinde sadece gözyaşları olduğunu söyledi ve Joe'nun verandaya geldiğini söyledi.,Joe'yu gördüğüne o kadar mutlu oldu ki ağlamaya başladı.,contradiction
+"Bir uçak alev alsa bile, ki neden yansın, radyasyonun sızması için kurşundan yapılan kısımların erimesi gerekir.",Radyasyon bir yangın sırasında da kapsanabilir.,contradiction
+"Bir uçak alev alsa bile, ki neden yansın, radyasyonun sızması için kurşundan yapılan kısımların erimesi gerekir.",Uçak yandıktan sonra radyasyon bir aktarma parçasından sızacaktır.,contradiction
+"Bir uçak alev alsa bile, ki neden yansın, radyasyonun sızması için kurşundan yapılan kısımların erimesi gerekir.",Bir yangın sırasında radyasyon dışarı sızmayacaktır.,contradiction
+"Bu, ABD Hava Kuvvetleri'nden emekli olan Astsubay Kıdemli Başçavuş Clem Francis'tir.",Şef ABD Hava Kuvvetleri'nden emekli oldu.,entailment
+"Bu, ABD Hava Kuvvetleri'nden emekli olan Astsubay Kıdemli Başçavuş Clem Francis'tir.",Şef sadece birkaç hafta önce emekli oldu.,contradiction
+"Bu, ABD Hava Kuvvetleri'nden emekli olan Astsubay Kıdemli Başçavuş Clem Francis'tir.",ABD Hava Kuvvetleri Şefi kariyerine daha bu hafta başladı.,'contradiction'
+Bir haftada iki ya da üç uçağın vardığı yere ulaştı ve nereye uçtuklarını bilmiyordum.,Her hafta birden fazla hava aracı varıyor.,entailment
+Bir haftada iki ya da üç uçağın vardığı yere ulaştı ve nereye uçtuklarını bilmiyordum.,Artan uçak trafiği zahmetli.,neutral
+Bir haftada iki ya da üç uçağın vardığı yere ulaştı ve nereye uçtuklarını bilmiyordum.,Gelen hiçbir uçak yok.,contradiction
+Tam baskı takımlarında eğitimlerini çoktan hazırlamışlardı ve tam baskı takımlarına giderseniz benim bir süremi aldı.,Tam basınçlı bir elbisenin kullanımı hakkındaki eğitimi tamamlamak üç aya kadar sürer.,neutral
+Tam baskı takımlarında eğitimlerini çoktan hazırlamışlardı ve tam baskı takımlarına giderseniz benim bir süremi aldı.,Tam basınçlı elbise kullanma eğitimi zaman alır.,entailment
+Tam baskı takımlarında eğitimlerini çoktan hazırlamışlardı ve tam baskı takımlarına giderseniz benim bir süremi aldı.,Günün sonuna kadar tam bir basınç elbisesi kullanmak için eğitilmiş olabilirdik.,neutral
+"Bomba ile içeri girme tehlikesi olmadığını söylemek istiyorum çünkü yere ne kadar sert vurursa vursun, patlamayacaktı.",Bomba pilot tarafından devre dışı bırakılmıştı.,neutral
+"Bomba ile içeri girme tehlikesi olmadığını söylemek istiyorum çünkü yere ne kadar sert vurursa vursun, patlamayacaktı.",Bombanın patlama şansı yok.,entailment
+"Bomba ile içeri girme tehlikesi olmadığını söylemek istiyorum çünkü yere ne kadar sert vurursa vursun, patlamayacaktı.",Büyük bir bomba patlama tehlikesi vardı.,contradiction
+Ve ne yapmaya çalıştığım tam olarak nasıl görünüyor.,bunun sana nasıl göründüğünden emin değilim.,contradiction
+Ve ne yapmaya çalıştığım tam olarak nasıl görünüyor.,Belli ki bunu yapmaya çalışıyorum.,entailment
+Ve ne yapmaya çalıştığım tam olarak nasıl görünüyor.,Projemi gelecek hafta içinde tamamlamaya çalışıyorum.,neutral
+"Ama yine de, hayvanlar her zaman, özellikle keçiler kaçıp kaybolurlardı",Keçiler ahırdan her gün kaçtı.,neutral
+"Ama yine de, hayvanlar her zaman, özellikle keçiler kaçıp kaybolurlardı",Keçiler sık sık kaçardı.,entailment
+"Ama yine de, hayvanlar her zaman, özellikle keçiler kaçıp kaybolurlardı",Keçiler güvende tutuldu.,contradiction
+İçeri girdiğimizde kapılar kilitliydi.,Bütün kapılar açıktı.,contradiction
+İçeri girdiğimizde kapılar kilitliydi.,Bizde anahtarlar vardı.,neutral
+İçeri girdiğimizde kapılar kilitliydi.,Kapılar kilitli olmasına rağmen içeri girdik.,contradiction
+Bu yüzden toplamları almalı ve bunu böyle denemeli ve ifade etmeliydim.,Bunu anlamak için tek ihtiyacım olan şey toplamlar olduğu için kendime güveniyorum.,contradiction
+Bu yüzden toplamları almalı ve bunu böyle denemeli ve ifade etmeliydim.,"Sadece toplamlarla ne yapacağım hakkında bir fikrim yok, lütfen bu karışıklığı anlamak için bana daha fazla ayrıntı verin.",neutral
+Bu yüzden toplamları almalı ve bunu böyle denemeli ve ifade etmeliydim.,Toplama göre hesaplayacağım.,neutral
+"ve bu, annelerin uyuşturucuya sahip olmasından kaynaklanıyor.",Anneler ilaç bağımlısı.,contradiction
+"ve bu, annelerin uyuşturucuya sahip olmasından kaynaklanıyor.",Anneler herhangi bir ilaç reçetesine veya ilaca ödeme yapmaz.,contradiction
+"ve bu, annelerin uyuşturucuya sahip olmasından kaynaklanıyor.",Anneler ilaç alır.,neutral
+evet çok güzel yağmur yağıyor,Yağmur umurumda değil.,contradiction
+evet çok güzel yağmur yağıyor,Güzel ve yağmurlu.,entailment
+evet çok güzel yağmur yağıyor,"Bu, sonu gelmeden gün ışığı ile çok korkunçtur.",neutral
+oh insan hayatının değeri ve birisini rehabilite edip edemeyeceğiniz nedir,Bütün hayatlar rehabilitasyona ve ikinci şansa değer.,neutral
+oh insan hayatının değeri ve birisini rehabilite edip edemeyeceğiniz nedir,Hiçbir insan rehabilite olmayı hak etmiyor.,contradiction
+oh insan hayatının değeri ve birisini rehabilite edip edemeyeceğiniz nedir,Hayat için değen rehabilitasyona aldırmadan.,neutral
+oh oğlum orada garip bir kablolama problemin var,Daha önce hiç bu çeşit bir kablo sorunu görmedim.,neutral
+oh oğlum orada garip bir kablolama problemin var,Kablolama sorun değil.,contradiction
+oh oğlum orada garip bir kablolama problemin var,Bu garip elektrik tesisatının sebep olduğu bir sorun var.,entailment
+Çok eğlenceli gibi görünüyor evet ne kadar çok şeye izin verdikleri benim için çok şaşırtıcıdır.,Onların hiç hoş olmadıklarına hiç şaşırmadım.,contradiction
+Çok eğlenceli gibi görünüyor evet ne kadar çok şeye izin verdikleri benim için çok şaşırtıcıdır.,Oraya yiyecek ve içecek götürmene izin verdiklerine şaşırdım.,neutral
+Çok eğlenceli gibi görünüyor evet ne kadar çok şeye izin verdikleri benim için çok şaşırtıcıdır.,Neyle kaçtıklarına şaşırdım.,neutral
+oh ama yine de neyse benim çocuklarım şimdi yirmi bir ve yirmi dört yaşında yani ben yapmak zorunda değilim,Ben zorunda değilim çünkü çocuklarım yirmi yaşından büyükler.,entailment
+oh ama yine de neyse benim çocuklarım şimdi yirmi bir ve yirmi dört yaşında yani ben yapmak zorunda değilim,Yaşları yakın olduğu için öyle yapmam gerekebilir.,contradiction
+oh ama yine de neyse benim çocuklarım şimdi yirmi bir ve yirmi dört yaşında yani ben yapmak zorunda değilim,On ve on bir yaşında olduğu için yapmalıyım.,contradiction
+"evet, herhangi bir zamanda iş yerinde olabilecek veya karar vermeleri durumunda kararları verilebilecek kişiler","Evet, en iyi kanaate dayalı kararları veremeyebilen insanlar.",contradiction
+"evet, herhangi bir zamanda iş yerinde olabilecek veya karar vermeleri durumunda kararları verilebilecek kişiler","Evet, aç olma ihtimali olmayan insanlar.",neutral
+"evet, herhangi bir zamanda iş yerinde olabilecek veya karar vermeleri durumunda kararları verilebilecek kişiler","Evet, karar verme yetileri hiç bozulmamış insanlar.",contradiction
+hayır hala turdalar hala altmışların sonlarından beri turluyorlar,1970 yılından beri geziyorlar.,entailment
+hayır hala turdalar hala altmışların sonlarından beri turluyorlar,Dolaşmayı severler.,neutral
+hayır hala turdalar hala altmışların sonlarından beri turluyorlar,Turu kısa bir süre önce bitirdiler.,contradiction
+nasıl aerobik yaparsın,Aerobiği nasıl yaparsın açıklar mısın?,entailment
+nasıl aerobik yaparsın,Aerobikle ilgileniyorum çünkü biraz kardiyovasküler aktiviteye ihtiyacım var.,neutral
+nasıl aerobik yaparsın,Lütfen aerobikten bahsetmeyi kes.,neutral
+yani bu iyi bunu düşünmemiştim evet,"Bu, geçen hafta gözden çıkarttığım aptal bir fikir.",neutral
+yani bu iyi bunu düşünmemiştim evet,İyi bir noktaya değindin.,entailment
+yani bu iyi bunu düşünmemiştim evet,Bahsettiğiniz paradoks iyi bir nokta.,neutral
+günlük bakım  haftada iki kez buna kıdemli vatandaş günü bakımı diyorlar ama o kıdemli vatandaş merkezine gidiyor,Çocuk bakıcılığı sadece 5 yaşın altındaki çocuklar için her gün açıktır.,neutral
+günlük bakım  haftada iki kez buna kıdemli vatandaş günü bakımı diyorlar ama o kıdemli vatandaş merkezine gidiyor,Yaşlı vatandaşlar istiyorsa haftada iki kereden fazla gitmelerine izin veriyorlar.,neutral
+günlük bakım  haftada iki kez buna kıdemli vatandaş günü bakımı diyorlar ama o kıdemli vatandaş merkezine gidiyor,Gündüz bakım evi olduğunu söylüyorlar ama huzurevi deniyor.,contradiction
+bu onların hedefiydi ah,Onların çok istedikleri şey bu.,entailment
+bu onların hedefiydi ah,Onların istedikleri hiçbir zaman bu olmadı.,contradiction
+bu onların hedefiydi ah,Hedeflerine ulaştılar.,neutral
+silah kontrolü iki elin kullanılması anlamına gelir,Silahların yanlış ateşlenmesi vakalarının yarısı tek elle kullanımın sonucu.,contradiction
+silah kontrolü iki elin kullanılması anlamına gelir,Silah kontrolünün en iyi ileri yolu her iki ayağı kullanmaktır.,contradiction
+silah kontrolü iki elin kullanılması anlamına gelir,Silah kontrolü pratiği yapmak istiyorsan her iki elini kullan.,entailment
+ve ama aniden bir yerden geliyor nereden geldiğini bilmiyorum ama,Nereden geldiğini bilmiyorum ama hızlıdır.,neutral
+ve ama aniden bir yerden geliyor nereden geldiğini bilmiyorum ama,Hızlı geliyor ama nereden gelebileceğini biraz biliyorum.,contradiction
+ve ama aniden bir yerden geliyor nereden geldiğini bilmiyorum ama,Yavaş yavaş geliyor ve tam olarak ne zaman geleceğini ben biliyorum.,contradiction
+hayır aslında ben bile aşina değilim ben düşünmüyorum,Bunun hakkında çok şey bilmiyorum.,entailment
+hayır aslında ben bile aşina değilim ben düşünmüyorum,Gönül işlerinde bilgisizim.,entailment
+hayır aslında ben bile aşina değilim ben düşünmüyorum,Bu konuda yıllardır çalışıyorum.,contradiction
+evet harikaydı onu biliyorsun,Bence onun muhteşem biri olduğunu biliyor.,entailment
+evet harikaydı onu biliyorsun,"Hayır, berbattı.",contradiction
+evet harikaydı onu biliyorsun,Evet çok iyiydi.,entailment
+evet ya senin kullanacağın bir paspas almayı önerdi,Elektrik süpürgesi almayı önerdi.,contradiction
+evet ya senin kullanacağın bir paspas almayı önerdi,Bir paspas bulmayı önerdi.,entailment
+evet ya senin kullanacağın bir paspas almayı önerdi,O kanı paspas ile temizlemek istedi.,neutral
+"Burada gerçekten çok kötü, evimizden yaklaşık üç blok ötede bir otoyol çekimimiz vardı.",Saldırı yaşadığım yerden en az 100 mil uzaktaydı.,contradiction
+"Burada gerçekten çok kötü, evimizden yaklaşık üç blok ötede bir otoyol çekimimiz vardı.",Silahlı saldırı evime yakındı ve bundan dolayı dışarı çıkmaktan korkuyorum.,entailment
+"Burada gerçekten çok kötü, evimizden yaklaşık üç blok ötede bir otoyol çekimimiz vardı.","Evime yakın bir saldırı oldu, bu bölgede gerçekten iyi değil.",entailment
+hı hı evet doğru ama pek tutarlı değil,"Sana katılmıyorum, bu gayet tutarlı.",contradiction
+hı hı evet doğru ama pek tutarlı değil,Sanırım tutarlılığı konusunda haklı olabilirsin.,contradiction
+hı hı evet doğru ama pek tutarlı değil,Onun istikrarlı olmadığı konusunda haklısın.,entailment
+orada takılmaya çalışıyorum,Dayanmaya çalışıyorum.,neutral
+orada takılmaya çalışıyorum,Gerçekten elimden geleni yapıyorum.,neutral
+orada takılmaya çalışıyorum,Bırakacağım ve bir daha arkama bakmayacağım.,neutral
+Girişimizi teknolojik geleceğe taşıyoruz.,Bir teknoloji geleceği için gerekli olan öncülleri inşa ediyoruz.,entailment
+Girişimizi teknolojik geleceğe taşıyoruz.,"Transistörler kurduk, bu yüzden geleceğimiz Yapay Zeka ile yönetilecek.",neutral
+Girişimizi teknolojik geleceğe taşıyoruz.,Teknolojinin başarılı olmasını önlemek istiyoruz.,contradiction
+"Örneğin, maksimum olarak tüm genler mora döner.","Maksimum olarak, genlerin sadece yarısı mor olabilir.",contradiction
+"Örneğin, maksimum olarak tüm genler mora döner.",Genlerin renk değiştirmesi mümkündür.,neutral
+"Örneğin, maksimum olarak tüm genler mora döner.",Bazen genler de mavileşebilir.,contradiction
+"Daniel Yamins keskin zekalı, genç bir matematikçidir.",Bay Yamins matematikte harikadır.,entailment
+"Daniel Yamins keskin zekalı, genç bir matematikçidir.",Bay Yamins'in odak noktası cebirsel geometridir.,neutral
+"Daniel Yamins keskin zekalı, genç bir matematikçidir.",Bay Yamins harika bir sanatçı ama çok kötü bir matematikçi.,contradiction
+"Ve eğer öyleyse, çoğu zaman bu sınırın yakınındalar mı?",Sınırın yakınında hiç seyahat etmediklerini biliyorum.,contradiction
+"Ve eğer öyleyse, çoğu zaman bu sınırın yakınındalar mı?","Bilmek istiyorum, sık sık İngiltere'de oluyorlar mı?",neutral
+"Ve eğer öyleyse, çoğu zaman bu sınırın yakınındalar mı?","Konuşmacı, sınırlara ne sıklıkla gittiklerini açıklığa kavuşturmak istedi.",neutral
+"Ve bence, biyosferin, yayılan bir soylar dizisi için ayakta kalabilen bir rejimde ısrarla tutarlı bir biçimde bir arada olduğu moleküler bir ipucu var.",Biyosfer çok değişir.,neutral
+"Ve bence, biyosferin, yayılan bir soylar dizisi için ayakta kalabilen bir rejimde ısrarla tutarlı bir biçimde bir arada olduğu moleküler bir ipucu var.",Biyosfer sıcaklığa göre değişir.,neutral
+"Ve bence, biyosferin, yayılan bir soylar dizisi için ayakta kalabilen bir rejimde ısrarla tutarlı bir biçimde bir arada olduğu moleküler bir ipucu var.",Biyosfer asla değişmez.,contradiction
+O sıçrama ile normal bir kristal bu kadar çok bilgiyi kodlayamaz.,Normal kristaller çok yüksek yoğunlukta bilgi depolama ortamıdır.,contradiction
+O sıçrama ile normal bir kristal bu kadar çok bilgiyi kodlayamaz.,Normal kristaller bilgi kodlama için çok kullanışlı değildir.,entailment
+O sıçrama ile normal bir kristal bu kadar çok bilgiyi kodlayamaz.,Lazer ışınları kullanarak coğrafi bilgileri kodlamada çok faydalı olan başka türlü kristaller var.,neutral
+"Sonuç olarak, yetişkinlerin, okul öncesi çocuklara bulmaca ya da benzer görevleri üstlenmelerine yardımcı olurken yaptıkları gibi davranmalarına gerek yoktur.",Okul öncesi çocuklar doğal olarak yapboz yapma konusunda yap-inan oyunlarından daha iyidir.,neutral
+"Sonuç olarak, yetişkinlerin, okul öncesi çocuklara bulmaca ya da benzer görevleri üstlenmelerine yardımcı olurken yaptıkları gibi davranmalarına gerek yoktur.",Anaokulu öğrencilerinin taklit yapma konusunda o kadar fazla yardıma ihtiyaçları yok.,neutral
+"Sonuç olarak, yetişkinlerin, okul öncesi çocuklara bulmaca ya da benzer görevleri üstlenmelerine yardımcı olurken yaptıkları gibi davranmalarına gerek yoktur.",Okul öncesi çağdaki çocuklarda kendi başlarına yapboz yapabilmeleri için gerekli olan mekansal modelleme becerileri gelişmemiştir.,neutral
+[Bu ulus] özgürlük içinde düşünülmüş ve tüm insanların eşit yaratıldığı önermesine adanmıştı.,Bu teklif hakkındaki notlar birçok ek belgede kaydedildi.,neutral
+[Bu ulus] özgürlük içinde düşünülmüş ve tüm insanların eşit yaratıldığı önermesine adanmıştı.,Bazı insanlar tüm insanların eşit olduğuna inandı.,entailment
+[Bu ulus] özgürlük içinde düşünülmüş ve tüm insanların eşit yaratıldığı önermesine adanmıştı.,"Bu ulus, bazı insanların doğası gereği diğerlerinden daha iyi olduğuna dair bir inanış üzerine kurulmuştur.",contradiction
+Onu daha çok övmeli miyim?,Eminim ki başarısızlıkları için onu dövmeliyim.,contradiction
+Onu daha çok övmeli miyim?,Benim daha fazla takdir göstermeme gereksinim duyup duymadığını merak ediyorum.,entailment
+Onu daha çok övmeli miyim?,Piyano performansı için onu övmeli miyim?,neutral
+Spin ağ teorileri farklı boyutlarda inşa edilebilir.,"Diğer boyutlar, döndürmeli ağ teorileri oluşturmak için kullanılabilir.",entailment
+Spin ağ teorileri farklı boyutlarda inşa edilebilir.,Spin ağları veri saklama teknolojileri için çok kullanışlıdır.,neutral
+Spin ağ teorileri farklı boyutlarda inşa edilebilir.,Spin ağ farklı boyutlarda düşünülemez.,contradiction
+"(Çılgınca) Hayır, hayır, ölmeni istemiyorum!",Ben ölmeni istemiyorum!,entailment
+"(Çılgınca) Hayır, hayır, ölmeni istemiyorum!",Ölsen umurumda değil!,contradiction
+"(Çılgınca) Hayır, hayır, ölmeni istemiyorum!",Ölseydin çok üzülürdüm!,entailment
+"19 Mart 1875 tarihinde San Jose, Kaliforniya'da herkesin önünde asılmıştır.","Kaliforniya , 1875 yılında halka açık infaz gerçekleştiriyordu.",entailment
+"19 Mart 1875 tarihinde San Jose, Kaliforniya'da herkesin önünde asılmıştır.",Tüm yanlışlarından aklanmış ve serbest bırakılmıştı.,contradiction
+"19 Mart 1875 tarihinde San Jose, Kaliforniya'da herkesin önünde asılmıştır.",Ayaklanma ve at hırsızlığı suçlarından asıldı.,contradiction
+"Kaotik düzende,  parıldayan yeşil deniz süzülmektedir.",Deniz koyu maviydi ve bardak gibi pürüzsüzdü.,contradiction
+"Kaotik düzende,  parıldayan yeşil deniz süzülmektedir.","Deniz, tekneye sıçrayan küçük balıklarla doluydu.",neutral
+"Kaotik düzende,  parıldayan yeşil deniz süzülmektedir.",Deniz yeşildi ve köpürüyor gibiydi.,entailment
+"Yepyeni bir hukuk düzeni, 1860'ların kargaşasından uzaklaşmayı çok istiyordu.",1870'ler itibariyle tüm hukuki düzen çökmüştür ve ülke tamamen anarşidedir.,contradiction
+"Yepyeni bir hukuk düzeni, 1860'ların kargaşasından uzaklaşmayı çok istiyordu.",1860'lar çalkantılı bir dönemdi.,entailment
+"Yepyeni bir hukuk düzeni, 1860'ların kargaşasından uzaklaşmayı çok istiyordu.",Yeni yasal düzen işçi haklarını genişletmeyi arzuladı.,neutral
+"Daha yüksek düşünce biçimlerinin, ilk olarak birlikte yaptıkları bir faaliyet sırasında çocuk ve ait olduğu kültürün temsilcileri arasındaki sosyal iletişimde ortaya çıktığına işaret etti.",Çocuklar düşüncenin daha yüksek biçimlerini paylaşabilme yetisinden yoksundur.,contradiction
+"Daha yüksek düşünce biçimlerinin, ilk olarak birlikte yaptıkları bir faaliyet sırasında çocuk ve ait olduğu kültürün temsilcileri arasındaki sosyal iletişimde ortaya çıktığına işaret etti.",Balıkçılık bir çok farklı kültürde paylaşılan popüler bir etkinliktir.,neutral
+"Daha yüksek düşünce biçimlerinin, ilk olarak birlikte yaptıkları bir faaliyet sırasında çocuk ve ait olduğu kültürün temsilcileri arasındaki sosyal iletişimde ortaya çıktığına işaret etti.",Ortak aktiviteleri paylaşmak daha üst düzey düşünmeleri paylaşmak için yardımcı oluyor.,entailment
+"Bazı mahallelerde cenaze törenleri, azizler günü kutlamaları ve rahip bulunmadığı zamanlarda cemaate dua eden ruhani liderler, rezadores veya rezadoraslar vardı.",Muhitlerden hiçbirinin papaz olmayan manevi liderleri yoktu.,contradiction
+"Bazı mahallelerde cenaze törenleri, azizler günü kutlamaları ve rahip bulunmadığı zamanlarda cemaate dua eden ruhani liderler, rezadores veya rezadoraslar vardı.",Bazı semtlerin rahip olmayan ruhani liderleri vardı.,entailment
+"Bazı mahallelerde cenaze törenleri, azizler günü kutlamaları ve rahip bulunmadığı zamanlarda cemaate dua eden ruhani liderler, rezadores veya rezadoraslar vardı.",Ruhani liderlerin bazılarının saçı siyahtı.,neutral
+"Sosyodramatik oyunda da, çeşitli rolleri harekete geçirme ve koordine etme fırsatları, muhtemelen çocukların arzu, inanç ve duygulardaki insanlar arasındaki benzerlik ve farklılıkları kavramasına yardımcı olur.",Çocuklar insanların ne kadar benzer ve farklı olduklarını öğrenebilir.,entailment
+"Sosyodramatik oyunda da, çeşitli rolleri harekete geçirme ve koordine etme fırsatları, muhtemelen çocukların arzu, inanç ve duygulardaki insanlar arasındaki benzerlik ve farklılıkları kavramasına yardımcı olur.",Çocuklar farklı ırkların ne kadar farklı olduğunu görebilir.,neutral
+"Sosyodramatik oyunda da, çeşitli rolleri harekete geçirme ve koordine etme fırsatları, muhtemelen çocukların arzu, inanç ve duygulardaki insanlar arasındaki benzerlik ve farklılıkları kavramasına yardımcı olur.",Çocuklar hiç bir şey öğrenemiyor.,contradiction
+Almanya'nın savaş sonrası anayasal düzeninin en büyük meziyeti o sırada kesinlikle Nazi rejiminin en büyük felaketiydi.,Nazi rejimi buna izin veriyordu.,contradiction
+Almanya'nın savaş sonrası anayasal düzeninin en büyük meziyeti o sırada kesinlikle Nazi rejiminin en büyük felaketiydi.,Nazi rejimi dahil olan herkesi öldürmüştü.,contradiction
+Almanya'nın savaş sonrası anayasal düzeninin en büyük meziyeti o sırada kesinlikle Nazi rejiminin en büyük felaketiydi.,Nazi rejimi onu durdurdu.,contradiction
+"Sonja, kızının öfke nöbetlerini taklit etmeye başladı.",Hiç kimse sinir krizi geçirmiyordu.,contradiction
+"Sonja, kızının öfke nöbetlerini taklit etmeye başladı.",Sonja bir çocuktur.,contradiction
+"Sonja, kızının öfke nöbetlerini taklit etmeye başladı.",Sonja üzgündü.,neutral
+"Sivil Savaşa zemin hazırlayan elli beş yıl içinde, Mahkeme bu gücü tedbirli bir şekilde kullandı.",İç Savaşla sonuçlanan yıllarda Mahkeme ara sıra bu gücü kullanıyordu.,entailment
+"Sivil Savaşa zemin hazırlayan elli beş yıl içinde, Mahkeme bu gücü tedbirli bir şekilde kullandı.",Mahkeme bu gücü elli beş yıl içinde 4 kere kullanması iç savaşa zemin hazırladı.,contradiction
+"Sivil Savaşa zemin hazırlayan elli beş yıl içinde, Mahkeme bu gücü tedbirli bir şekilde kullandı.",Mahkeme bu gücü elli beş yılda 5 milyon kez kullandı ve İç Savaşa neden oldu.,contradiction
+"Sizi temin ederim efendim, hepsi  hakkında  tamamen bilgilendirildim.",Size her şey hakkında bana bilgi verildiğini söylüyorum.,entailment
+"Sizi temin ederim efendim, hepsi  hakkında  tamamen bilgilendirildim.",Hakkında bilgilendirildiğim şey dedektifin ölümüydü.,neutral
+"Sizi temin ederim efendim, hepsi  hakkında  tamamen bilgilendirildim.",Benden gizlenen birçok ayrıntı vardı.,contradiction
+"Sesler, Kaptan Kan’ı  hoş olmayan düşüncelerinden alarak rahatsız etti.",Kaptan Blood kendisini rahatsız eden düşünceleri bölünmeden düşünebildi.,contradiction
+"Sesler, Kaptan Kan’ı  hoş olmayan düşüncelerinden alarak rahatsız etti.",Kanlı Korsan'ın düşünceleri bazı gürültülerle dağılmıştı.,neutral
+"Sesler, Kaptan Kan’ı  hoş olmayan düşüncelerinden alarak rahatsız etti.",Yavruların çığlıkları kaptanı derin düşüncelerinden sıyırdı.,neutral
+"Ama amcanın Barbados'taki evinde bir köleden daha iyi durumda olmadığım zaman, beni belli bir iyilikle kullandığını unutamam.",Barbados'ta bir köle olduğumda bana nazik davrandın.,contradiction
+"Ama amcanın Barbados'taki evinde bir köleden daha iyi durumda olmadığım zaman, beni belli bir iyilikle kullandığını unutamam.",Bana inanılmaz derecede zalim davrandın ve bana pislikten daha kötü muamele ettin.,'entailment'
+"Ama amcanın Barbados'taki evinde bir köleden daha iyi durumda olmadığım zaman, beni belli bir iyilikle kullandığını unutamam.",Bana sahipken amcan beni her gün çok fena dövdü.,neutral
+"Orada, üç milden fazla uzakta olmayan, kara vardı - batı ufkunu dolduran canlı yeşilin düzensiz bir duvarı.",Yemyeşil bir manzara göründü.,entailment
+"Orada, üç milden fazla uzakta olmayan, kara vardı - batı ufkunu dolduran canlı yeşilin düzensiz bir duvarı.",Yaklaşmakta oldukları ada ıssızdı.,neutral
+"Orada, üç milden fazla uzakta olmayan, kara vardı - batı ufkunu dolduran canlı yeşilin düzensiz bir duvarı.",Kilometreler boyunca bitmeyen okyanus dışında hiç kara görmüyorlardı.,contradiction
+Majestelerinin bu barbar bölgelere gönderdiği elçisiyim ve Lord Sunderland'ın da yakın akrabasıyım.,"Majestelerinin elçileri var, ve ben onlardan biriyim.",entailment
+Majestelerinin bu barbar bölgelere gönderdiği elçisiyim ve Lord Sunderland'ın da yakın akrabasıyım.,Beni buraya yaklaşık bir hafta önce Majesteleri gönderdi.,neutral
+Majestelerinin bu barbar bölgelere gönderdiği elçisiyim ve Lord Sunderland'ın da yakın akrabasıyım.,Ben Majestelerinden emir almıyorum.,contradiction
+Sana borçlandım ya da borçlandığımı düşündüm,Sana borcu olduğunu hiçbir zaman düşünmemişti.,contradiction
+Sana borçlandım ya da borçlandığımı düşündüm,Meteliksiz bir dilenciye ettiğin yardım için o sana borçlu.,contradiction
+Sana borçlandım ya da borçlandığımı düşündüm,Sana bir şey borçlu olduğunu düşünüyordu.,entailment
+Geceye doğru Jamaika’ya bu kadar yakın olacağımı bilmeliydim.,Güneş battıktan sonra Jamaika yakınına gittim.,entailment
+Geceye doğru Jamaika’ya bu kadar yakın olacağımı bilmeliydim.,Jamaika'ya büyük bir tekne ile seyahat ettim.,neutral
+Geceye doğru Jamaika’ya bu kadar yakın olacağımı bilmeliydim.,Eşim ve ben Jamaika'ya gündüz gelmiştik.,contradiction
+"Blood'un düşünceleri, oradaki yatağa uzanırken bu ve diğer şeyler üzerineydi.",Blood divanın üzerinde düşüncesizce rüyaya daldı.,neutral
+"Blood'un düşünceleri, oradaki yatağa uzanırken bu ve diğer şeyler üzerineydi.",Kanlı Korsan uzanırken dalıp gidiyordu.,entailment
+"Blood'un düşünceleri, oradaki yatağa uzanırken bu ve diğer şeyler üzerineydi.",Kan annesini son gördüğü zamana kafa yoruyordu.,neutral
+"Tabii ki, o zaman ,size söyleyeceğim.","Tamam o zaman, anlatacağım sana.",neutral
+"Tabii ki, o zaman ,size söyleyeceğim.",Sana tek kelime etmeyeceğim.,contradiction
+"Tabii ki, o zaman ,size söyleyeceğim.",Sadece bunu tekrar etmeyeceğine söz verdiğin için söylüyorum.,neutral
+Ah! Peki o hangi yolmuş bakalım?,Birisi hangi yöne gideceğini soruyor.,entailment
+Ah! Peki o hangi yolmuş bakalım?,Soru soran kişi yalnızdır ve etrafında görüşecek kimse yoktur.,neutral
+Ah! Peki o hangi yolmuş bakalım?,Soruyu soran kişinin biraz acelesi var ve gitmesi gereken güzergahı hemen bilmesi gerekiyor.,neutral
+Kralın komisyonuna hafifçe onaylamıyorum.,Kralın komisyonuna hibede bulunmak ahlak kurallarıma aykırıdır.,neutral
+Kralın komisyonuna hafifçe onaylamıyorum.,Kralın komisyonu hakkında çok düşündüm.,neutral
+Kralın komisyonuna hafifçe onaylamıyorum.,Kral'ın komisyonuna ikinci bir düşünce olmadan vermek için izin belgesi imzaladım.,contradiction
+Aceleyle geri çekilmesi gerekebileceğini fark etti.,Gün boyu inzivaya çekildiğini fark etti.,neutral
+Aceleyle geri çekilmesi gerekebileceğini fark etti.,Hızlı hareket etmesi gerektiğinin farkına vardı.,entailment
+Aceleyle geri çekilmesi gerekebileceğini fark etti.,"Aynı yerde kalsaydı, keşfedilirdi.",entailment
+"Ve o hep böyle biriydi ve son üç yılda yaptıklarını yaptı, dedi, ancak bunu şimdi önceki hor görmeleri olmadan acıyla söyledi.",Son üç yıl içinde birçok erkeği öldürdüğünden hoşlanmıyordu.,neutral
+"Ve o hep böyle biriydi ve son üç yılda yaptıklarını yaptı, dedi, ancak bunu şimdi önceki hor görmeleri olmadan acıyla söyledi.",Onun maceralarından ve kişiliğinden mutlu bir şekilde bahsetti.,contradiction
+"Ve o hep böyle biriydi ve son üç yılda yaptıklarını yaptı, dedi, ancak bunu şimdi önceki hor görmeleri olmadan acıyla söyledi.",Üzgün bir ses tonuyla konuştu.,entailment
+Sanırım bu senin tarzından sonra.,Sizin türünüzün böyle yaptığını varsayıyorum.,neutral
+Sanırım bu senin tarzından sonra.,Senin gibileri ve kültürleri hakkında okudum.,neutral
+Sanırım bu senin tarzından sonra.,Bunun sizin türünüz arasında yaygın olmadığını görüyorum.,contradiction
+Kaşlarını buruşturarak çattı.,Yüzüne kocaman bir gülümseme yayıldı.,contradiction
+Kaşlarını buruşturarak çattı.,Karnında mide bulandırıcı bir his sezdi.,neutral
+Kaşlarını buruşturarak çattı.,Yüzünde öfkeli bir ifade vardı.,entailment
+Onu parlak gözlerle izliyordu ama üzgün yüzünü ve somurtarak kaşlarını çattığını görünce onun da ifadesi değişti.,Onun yüzünü gördükten sonra ifadesi değişti.,entailment
+Onu parlak gözlerle izliyordu ama üzgün yüzünü ve somurtarak kaşlarını çattığını görünce onun da ifadesi değişti.,Kaşlarını çattığını gördüğünde yüzü aydınlandı.,contradiction
+Onu parlak gözlerle izliyordu ama üzgün yüzünü ve somurtarak kaşlarını çattığını görünce onun da ifadesi değişti.,Onun ona karşı öfkeli olup olmadığını bilmiyordu.,neutral
+Yavaş yavaş yürüyerek sıkışmış duvardan uzak durdu ve avluya doğru büyük kapılardan geçti.,"Büyük kapılar kilitlendiğinden dolayı, çitlerin üzerinden arka bahçeye atladı.",contradiction
+Yavaş yavaş yürüyerek sıkışmış duvardan uzak durdu ve avluya doğru büyük kapılardan geçti.,Büyük kapılar avluya tek giriş yoluydu.,neutral
+Yavaş yavaş yürüyerek sıkışmış duvardan uzak durdu ve avluya doğru büyük kapılardan geçti.,Bahçeye açılan büyük kapılar vardı.,entailment
+"Onu darağacına fırlatacaksın, şüphesiz, aşağılayıcı bir şekilde dedi.",Birinin darağacına gideceğini düşündü.,entailment
+"Onu darağacına fırlatacaksın, şüphesiz, aşağılayıcı bir şekilde dedi.",Hırsızı yakalayan bir şerifiydi.,contradiction
+"Onu darağacına fırlatacaksın, şüphesiz, aşağılayıcı bir şekilde dedi.",Hapisten kurtulmak için ülkeden kaçmanın bir yolunu fısıldadı.,contradiction
+Onları nasıl dürüstçe gözaltına alabilirim? Pazarlık yapıldı.,Kendimi onları tutuklama aşamasına getiremezdim.,neutral
+Onları nasıl dürüstçe gözaltına alabilirim? Pazarlık yapıldı.,Onları görür görmez alıkoydum.,contradiction
+Onları nasıl dürüstçe gözaltına alabilirim? Pazarlık yapıldı.,Onları gözaltına alsaydım kendimi affetmezdim.,neutral
+Geçen yıldan beri onu avlıyorum.,Onu farkettirmeden bir yıl boyunca yakından takip ettim.,contradiction
+Geçen yıldan beri onu avlıyorum.,Onu sadece bir haftaya yakın zamandır takip ediyorum.,contradiction
+Geçen yıldan beri onu avlıyorum.,Geçtiğimiz yıl boyunca onları gizlice izledim.,neutral
+Müzeler kataloglarda veya etiketlerde güçlü değil,Müze etiketlenmekten hoşlanmıyor.,neutral
+Müzeler kataloglarda veya etiketlerde güçlü değil,Müze bir broşür hayranı değildir.,neutral
+Müzeler kataloglarda veya etiketlerde güçlü değil,Müzenin güçlü noktası kataloglarıdır.,contradiction
+Bu açık hava pazarları da Pekin'de alışveriş yapmak için en ilginç yerlerdir.,Pekin'de içinde çok ilginç mağazalar bulunan açık pazarlar vardır.,entailment
+Bu açık hava pazarları da Pekin'de alışveriş yapmak için en ilginç yerlerdir.,Pekin'deki açık pazarlar dünyanın en ilginç olanıdır.,neutral
+Bu açık hava pazarları da Pekin'de alışveriş yapmak için en ilginç yerlerdir.,Pekin'in katı kanunları şehir sınırları içinde açık hava pazarlarını yasaklar.,contradiction
+"Kuzeybatı sahilindeki en büyük körfez iyi bir liman oluşturuyor, ancak hem su hem de plaj kirli olabiliyor.",Su ve plaj her zaman temizdir.,contradiction
+"Kuzeybatı sahilindeki en büyük körfez iyi bir liman oluşturuyor, ancak hem su hem de plaj kirli olabiliyor.",Su ve sahil kirli olabilir.,entailment
+"Kuzeybatı sahilindeki en büyük körfez iyi bir liman oluşturuyor, ancak hem su hem de plaj kirli olabiliyor.",Pislik yüzünden su kirlidir.,neutral
+Bu gökdelenler bankadır ve üzerinde durdukları cadde de Milla de Oro ya da Golden Mile olarak adlandırıldı.,Golden Mile üzerindeki gökdelenlerin hiç birisi de banka değil.,contradiction
+Bu gökdelenler bankadır ve üzerinde durdukları cadde de Milla de Oro ya da Golden Mile olarak adlandırıldı.,Golden Mile'ın üzerindeki gökdelenler bankalara aittir.,entailment
+Bu gökdelenler bankadır ve üzerinde durdukları cadde de Milla de Oro ya da Golden Mile olarak adlandırıldı.,Golden Mile'deki gökdelenler bankalar dahil farklı firma türlerini içerir.,contradiction
+"O zamanlar için gayet doğal bir şekilde, II. Dünya Savaşına katılım, pilotları savaşa hazırlamak üzere Kanada'nın nispeten güvenli semalarını kullanan İngiliz Milletler Topluluğu'na ait bir Hava Eğitim Planı ile başladı.",Kanada'da daha güvenli gökyüzü vardı.,entailment
+"O zamanlar için gayet doğal bir şekilde, II. Dünya Savaşına katılım, pilotları savaşa hazırlamak üzere Kanada'nın nispeten güvenli semalarını kullanan İngiliz Milletler Topluluğu'na ait bir Hava Eğitim Planı ile başladı.",Canada'nın gökyüzü füzelerden arındı.,neutral
+"O zamanlar için gayet doğal bir şekilde, II. Dünya Savaşına katılım, pilotları savaşa hazırlamak üzere Kanada'nın nispeten güvenli semalarını kullanan İngiliz Milletler Topluluğu'na ait bir Hava Eğitim Planı ile başladı.",Kanada'nın gökleri daha tehlikeliydi.,contradiction
+Ve hoş kıyılarının artık sadece onların olmadıklarını bilmelerine rağmen hoşgörülü ve yardımsever kalıyorlar.,"Onlar, kıyıları paylaşmak zorunda oldukları için herkese kızgın küskünler.",contradiction
+Ve hoş kıyılarının artık sadece onların olmadıklarını bilmelerine rağmen hoşgörülü ve yardımsever kalıyorlar.,Sahili şimdi diğer insanlarla paylaşmak zorundalar.,entailment
+Ve hoş kıyılarının artık sadece onların olmadıklarını bilmelerine rağmen hoşgörülü ve yardımsever kalıyorlar.,Beş yüz millik sahil şeridine sahiplerdi.,neutral
+"Kubilay Han 1279 yılında Pekin'deki, imparatorluk hazinelerinden bazılarının bugün halen sergilendiği Beihai Gölünün kenarına kendi başkentini kurdu.",Kubali Khan Tayvan'da başkent olarak yükseldi.,contradiction
+"Kubilay Han 1279 yılında Pekin'deki, imparatorluk hazinelerinden bazılarının bugün halen sergilendiği Beihai Gölünün kenarına kendi başkentini kurdu.",Kublai Khan'ın Pekin'de hazineleri var.,entailment
+"Kubilay Han 1279 yılında Pekin'deki, imparatorluk hazinelerinden bazılarının bugün halen sergilendiği Beihai Gölünün kenarına kendi başkentini kurdu.",Kubilay Han çok saygı duyulan bir adamdı.,neutral
+"Anglo topluluğuna daha kolay asimile olanlar sadece Protestan okullarıydı, onlar çocuklarını kabul etti  Doğu Avrupa Yahudileri mezun olmuştu  varlıklı Westmount'a veya tekrar Toronto'ya göç etmişti.",Doğu Avrupalı Yahudiler herkese kolay ayak uydururlar.,contradiction
+"Anglo topluluğuna daha kolay asimile olanlar sadece Protestan okullarıydı, onlar çocuklarını kabul etti  Doğu Avrupa Yahudileri mezun olmuştu  varlıklı Westmount'a veya tekrar Toronto'ya göç etmişti.",Yahudiler toplumun geri kalanı tarafından istenmiyor.,contradiction
+"Anglo topluluğuna daha kolay asimile olanlar sadece Protestan okullarıydı, onlar çocuklarını kabul etti  Doğu Avrupa Yahudileri mezun olmuştu  varlıklı Westmount'a veya tekrar Toronto'ya göç etmişti.",Anglo topluluğu ile Yahudiler daha kolay asimile olmuştur.,contradiction
+"Mümkünse, kendinizi önceden hikayenin konusuna alıştırın.",Olay örgüsünü önceden öğrenme; sonra bütün eğlencesi kaçar.,contradiction
+"Mümkünse, kendinizi önceden hikayenin konusuna alıştırın.",Yapabilirsen olay örgüsünü önceden anlamaya çalış.,entailment
+"Mümkünse, kendinizi önceden hikayenin konusuna alıştırın.",Kitabın konusunu anlarsan dersi daha kolay bulacaksın.,neutral
+Onun 27 m (88ft) yerin altındaki mezarları mermerden yapılmış ve 1.200 metre kare (13.000 feet kare) alanı kaplamaktadır.,Yerin 20 metreden fazla altına gömüldü.,entailment
+Onun 27 m (88ft) yerin altındaki mezarları mermerden yapılmış ve 1.200 metre kare (13.000 feet kare) alanı kaplamaktadır.,O önemli bir halk figürüydü.,neutral
+Onun 27 m (88ft) yerin altındaki mezarları mermerden yapılmış ve 1.200 metre kare (13.000 feet kare) alanı kaplamaktadır.,Yer altı mezarları ahşaptan yapılmış.,contradiction
+Tüm taşınabilir eşyaları maymunlardan saklamayı unutma.,Eşyalarını maymunlardan sakla.,entailment
+Tüm taşınabilir eşyaları maymunlardan saklamayı unutma.,Maymunlar üzerinizdeki eşyalar dahil her şeye çok meraklıdırlar.,entailment
+Tüm taşınabilir eşyaları maymunlardan saklamayı unutma.,Eşyalarını maymunlardan saklamana gerek yok,contradiction
+Estei Sarayının inşa edilmesinden yaklaşık 1.400 yıl önce Milreu de ünlü birinin geniş bir kır eviydi.,Milreu her yere 10 mil mesafedeydi.,neutral
+Estei Sarayının inşa edilmesinden yaklaşık 1.400 yıl önce Milreu de ünlü birinin geniş bir kır eviydi.,Milreu ülkenin dışındaydı.,neutral
+Estei Sarayının inşa edilmesinden yaklaşık 1.400 yıl önce Milreu de ünlü birinin geniş bir kır eviydi.,"Milreu, şehrin tam merkezindeydi.",contradiction
+Deniz sıcaklıkları 18e ile 24e C (64-75e F) arasında değişir.,Deniz sıcaklığı her zaman değişir ama donma sıcaklığının altına inmez.,neutral
+Deniz sıcaklıkları 18e ile 24e C (64-75e F) arasında değişir.,Deniz sıcaklığı bütün bir yıl boyunca hep sabit bir noktadadır.,contradiction
+Deniz sıcaklıkları 18e ile 24e C (64-75e F) arasında değişir.,"görüyorsun gün içinde sıcaklık daha fazla,hava ısındığı zama",neutral
+Kinabalu milli parkı eyaletteki altı korunan bölgeden sadece bir tanesidir.,Kinabalu milli parkında on fil ve altı gergedan vardır.,neutral
+Kinabalu milli parkı eyaletteki altı korunan bölgeden sadece bir tanesidir.,Devlet  Kinabalu ulusal parkı'nı da kapsayan bölgeleri korudu.,entailment
+Kinabalu milli parkı eyaletteki altı korunan bölgeden sadece bir tanesidir.,Eyalette toplam üç koruma alanı var.,contradiction
+"Anne'nin hikayesinin ve Amsterdam'ın işgali altındaki videolarını, fotoğraflarını ve eserleri ile birlikte göreceksiniz.",Fotoğraf görmeyeceksin.,contradiction
+"Anne'nin hikayesinin ve Amsterdam'ın işgali altındaki videolarını, fotoğraflarını ve eserleri ile birlikte göreceksiniz.",Fotoğraflar göreceksiniz.,entailment
+"Anne'nin hikayesinin ve Amsterdam'ın işgali altındaki videolarını, fotoğraflarını ve eserleri ile birlikte göreceksiniz.",İlk fotoğraflardan bazılarını göreceksiniz.,entailment
+"Treasure Beach, üç kumlu koyda uzanan bir avuç otele sahip olan tek tatil bölgesidir.",treasure Plajı'nı ziyaret edenler için pek fazla otel seçeneği bulunmuyor.,entailment
+"Treasure Beach, üç kumlu koyda uzanan bir avuç otele sahip olan tek tatil bölgesidir.",Treasure Beach'i ziyaret eden turistler için dört yıldızlı bir otel bulunmaktadır.,contradiction
+"Treasure Beach, üç kumlu koyda uzanan bir avuç otele sahip olan tek tatil bölgesidir.",Treasure Beach bölgedeki birçok dinlenme tesisinden biridir.,contradiction
+"Yaz mevsimi dalış, şnorkel ve diğer su sporları için ideal olan ılık (ama sıcak değil) hava ve ılık deniz sıcaklığı getirir.",Yazın her zaman 100 derece ya da daha sıcak.,contradiction
+"Yaz mevsimi dalış, şnorkel ve diğer su sporları için ideal olan ılık (ama sıcak değil) hava ve ılık deniz sıcaklığı getirir.",Yazın genellikle 75.,neutral
+"Yaz mevsimi dalış, şnorkel ve diğer su sporları için ideal olan ılık (ama sıcak değil) hava ve ılık deniz sıcaklığı getirir.",Yaz mevsimindeki sıcaklıklardır.,neutral
+"Göletler arasında, bir kaplumbağanın başına vurma umuduyla bir ziyaretçinin bozuk para fırlatması, iyi bir servet elde etmenin kesin bir yoludur.",İnsanlar asla para atmazlar çünkü kötü şans getirir.,contradiction
+"Göletler arasında, bir kaplumbağanın başına vurma umuduyla bir ziyaretçinin bozuk para fırlatması, iyi bir servet elde etmenin kesin bir yoludur.",Tabelada olmamasına rağmen insanlar para atıyorlar.,neutral
+"Göletler arasında, bir kaplumbağanın başına vurma umuduyla bir ziyaretçinin bozuk para fırlatması, iyi bir servet elde etmenin kesin bir yoludur.",İnsanlar suya para atıyorlar.,entailment
+"Liman kenti Nafplio, civarı gezmek için ya da tur sırasında öğle yemeği için mükemmel bir nokta konumunda.",Nafplio'nun manzarası iyidir.,neutral
+"Liman kenti Nafplio, civarı gezmek için ya da tur sırasında öğle yemeği için mükemmel bir nokta konumunda.",Nafplion kötü bir üstür.,contradiction
+"Liman kenti Nafplio, civarı gezmek için ya da tur sırasında öğle yemeği için mükemmel bir nokta konumunda.",Nafplio mükemmel bir üs.,entailment
+"Prinsengracht'ta, Otto Frank ve onun ailesi, keşfedilmeden iki yıl önce iş yerlerinin tavan arasında saklanıyordu.",Otto Frank ikinci günde yakalandı.,contradiction
+"Prinsengracht'ta, Otto Frank ve onun ailesi, keşfedilmeden iki yıl önce iş yerlerinin tavan arasında saklanıyordu.",Otto Frank 25 aydan uzun süre saklandı.,neutral
+"Prinsengracht'ta, Otto Frank ve onun ailesi, keşfedilmeden iki yıl önce iş yerlerinin tavan arasında saklanıyordu.","Otto Frank, Naziler onu bulana kadar saklandı.",entailment
+Pek çok eyalet hükümetinin ve yerel hükümetin denetim şartları vardır.,Yerel hükümetler kendi kurallarını uygulamak zorundadır.,neutral
+Pek çok eyalet hükümetinin ve yerel hükümetin denetim şartları vardır.,Yerel yönetimlerin hiçbir gereksinimi yoktur.,contradiction
+Pek çok eyalet hükümetinin ve yerel hükümetin denetim şartları vardır.,Yerel yönetimler tarafından ek denetim gereksinimleri sorunları vardır.,neutral
+Bilgi güvenliği grubu ayda 8 ila 12 seans gerçekleştiriyor.,Güvenlik grubunda ayda ortalama 9 oturum gerçekleşiyor.,entailment
+Bilgi güvenliği grubu ayda 8 ila 12 seans gerçekleştiriyor.,Güvenlik grubu ayın her günü bir oturum gerçekleştiriyor.,contradiction
+Bilgi güvenliği grubu ayda 8 ila 12 seans gerçekleştiriyor.,Güvenlik grubu yılda birkaç seans gerçekleştirir.,contradiction
+"Yine de, ön mühendislik daha önce gerçekleştirilmiştir.",Mühendisliğin bir hazırlık dönemi vardı.,entailment
+"Yine de, ön mühendislik daha önce gerçekleştirilmiştir.",Mühendislik sadece son bir aşamada gerçekleşti.,contradiction
+"Yine de, ön mühendislik daha önce gerçekleştirilmiştir.",Başlangıç dönemi olmadan mühendislik daha sonraki aşamalarda muhtemelen başarısız olacak.,neutral
+"Sonuç olarak, hükümet karar vericileri ve yöneticileri, hedeflere ulaşmanın farklı yollarını göz önünde bulundurarak ve kararlara rehberlik edecek yeni bilgileri kullanarak yeni düşünce biçimlerini benimsemektedir.",Hükümet temsilcileri yaklaşımlarını değiştiriyor.,entailment
+"Sonuç olarak, hükümet karar vericileri ve yöneticileri, hedeflere ulaşmanın farklı yollarını göz önünde bulundurarak ve kararlara rehberlik edecek yeni bilgileri kullanarak yeni düşünce biçimlerini benimsemektedir.",Hükümet temsilcileri farklı düşünerek güçlerini artırmaya çalışıyor.,neutral
+"Sonuç olarak, hükümet karar vericileri ve yöneticileri, hedeflere ulaşmanın farklı yollarını göz önünde bulundurarak ve kararlara rehberlik edecek yeni bilgileri kullanarak yeni düşünce biçimlerini benimsemektedir.",Hükümet temsilcileri yaşam biçimlerini değiştirmeyi reddediyorlar.,contradiction
+"Vaka dosyalarının, İngilizce dışındaki bir dili okuyan müşteriler için tercüme edilmesi gerekebilir.",Vaka dosyalarının sadece ingilizce olmasına izin verilir.,contradiction
+"Vaka dosyalarının, İngilizce dışındaki bir dili okuyan müşteriler için tercüme edilmesi gerekebilir.",Dava dosyaları Çince veya Rusça dilinde konabilir.,neutral
+"Vaka dosyalarının, İngilizce dışındaki bir dili okuyan müşteriler için tercüme edilmesi gerekebilir.",Dava dosyaları farklı dillerde sunulabilir.,entailment
+Şu anda yolda veya planlanmakta olan diğer çabalar şunları içerir:,Çabalarımızın çoğunluğu şimdiden sonuca yönelmiş durumda.,neutral
+Şu anda yolda veya planlanmakta olan diğer çabalar şunları içerir:,Gelecek için planlanmış başka hiçbir şeyimiz yok.,contradiction
+Şu anda yolda veya planlanmakta olan diğer çabalar şunları içerir:,Önceden planladığımız bir şey var.,entailment
+"Kısa zaman dilimleri, bilgisayar dosyalarının asılları ve ihtiyaç duyulan belgelere erişim eksikliği gibi faktörleri de dahil edin.",IBM'den bilgisayar dosyalarını silmişlerdi.,neutral
+"Kısa zaman dilimleri, bilgisayar dosyalarının asılları ve ihtiyaç duyulan belgelere erişim eksikliği gibi faktörleri de dahil edin.",Orijinal bilgisayar dosyalarını sildiler.,contradiction
+"Kısa zaman dilimleri, bilgisayar dosyalarının asılları ve ihtiyaç duyulan belgelere erişim eksikliği gibi faktörleri de dahil edin.",Tüm orijinal dosyaları tuttular.,contradiction
+"Sonrasında, ilk ziyareti yapmış olan aynı temsilci, soruları cevaplamak ve şikayet örneğinde not edilen sorunları tartışmak için yeni sağlayıcıyı yeniden ziyaret eder.",Temsilcinin ziyareti bir saat sürdü.,neutral
+"Sonrasında, ilk ziyareti yapmış olan aynı temsilci, soruları cevaplamak ve şikayet örneğinde not edilen sorunları tartışmak için yeni sağlayıcıyı yeniden ziyaret eder.",Milletvekili tarafından bir ziyaret gerçekleşti.,neutral
+"Sonrasında, ilk ziyareti yapmış olan aynı temsilci, soruları cevaplamak ve şikayet örneğinde not edilen sorunları tartışmak için yeni sağlayıcıyı yeniden ziyaret eder.",Hiç ziyaret almadık.,contradiction
+"Tasarruf sadece varlık stokunu etkilemekle kalmaz, dolayısıyla varlık da tasarruf etme tercihini etkiler.",Bir insanın birikim yapıp yapmama tercihi varlığından etkilenir.,entailment
+"Tasarruf sadece varlık stokunu etkilemekle kalmaz, dolayısıyla varlık da tasarruf etme tercihini etkiler.",Varlık ve birikimler herhangi bir şekilde normal olarak ilişkili değildir.,contradiction
+"Tasarruf sadece varlık stokunu etkilemekle kalmaz, dolayısıyla varlık da tasarruf etme tercihini etkiler.",Zengin insanların kazançlarının büyük bir kısmını biriktirmeleri daha olasıdır.,neutral
+"Örneğin, çalıştığımız bir örgüt, şirketin hızlı bir şekilde bünyesine yeni işletmeler almasını ve artan işletme ihtiyaçlarını karşılayacak şekilde yeniden yapılanmasını gerektiren iki birleşme geçirmiştir.",İki birleşme olmasına rağmen şirketin şirket hiyerarşisinde yeniden yapılandırmaya gitmesine hiç gerek yoktu.,contradiction
+"Örneğin, çalıştığımız bir örgüt, şirketin hızlı bir şekilde bünyesine yeni işletmeler almasını ve artan işletme ihtiyaçlarını karşılayacak şekilde yeniden yapılanmasını gerektiren iki birleşme geçirmiştir.",İki şirketi bir kuruluş içinde birleştirmek ve yeniden yapılandırmak kaotik bir çalışma alanına sebep oldu.,neutral
+"Örneğin, çalıştığımız bir örgüt, şirketin hızlı bir şekilde bünyesine yeni işletmeler almasını ve artan işletme ihtiyaçlarını karşılayacak şekilde yeniden yapılanmasını gerektiren iki birleşme geçirmiştir.",İki tane birleşme geçiren bir şirketi inceledik ve onların iş taleplerini karşılamak için çabucak yeniden yapılandırma yapmak zorundaydık.,entailment
+"tasarım, seyahatin gerçekleştiği doğrulanmadan önce ödemeye yetki verileceğinden endişeliydik.",Ödemenin sonsuza dek süreceğini biliyorduk.,contradiction
+"tasarım, seyahatin gerçekleştiği doğrulanmadan önce ödemeye yetki verileceğinden endişeliydik.",Ödemenin bildirimden önce gidebileceğini düşünmüştük.,entailment
+"tasarım, seyahatin gerçekleştiği doğrulanmadan önce ödemeye yetki verileceğinden endişeliydik.",Ödemenin çok erken gidebileceğini düşündük ve dolandırılacağız.,contradiction
+Bu işletmelerde teknoloji iş süreçleri ile oldukça iç içe geçmiştir çünkü teknoloji sadece bir araç olarak değil iş açısından destekçi olarak görülmektedir.,Gelişmiş Planlama Yazılımı işletmelerin odaklandığı anahtar teknolojilerden biri.,neutral
+Bu işletmelerde teknoloji iş süreçleri ile oldukça iç içe geçmiştir çünkü teknoloji sadece bir araç olarak değil iş açısından destekçi olarak görülmektedir.,"Teknoloji sadece bir araç, iş yapmayı sağlayan bir şey değil.",contradiction
+Bu işletmelerde teknoloji iş süreçleri ile oldukça iç içe geçmiştir çünkü teknoloji sadece bir araç olarak değil iş açısından destekçi olarak görülmektedir.,Bu işletme teknolojiye büyük bir önem vermektedir.,entailment
+Literatürde sıklıkla yer alan iki kavram gelecekteki araştırmaları bilgilendirme konusunda faydalı olabilir.,Literatür örnekleri nasıl test ettiğimizi değiştirebilir.,neutral
+Literatürde sıklıkla yer alan iki kavram gelecekteki araştırmaları bilgilendirme konusunda faydalı olabilir.,Literatür gelecekteki araştırmayı değiştirebilir.,neutral
+Literatürde sıklıkla yer alan iki kavram gelecekteki araştırmaları bilgilendirme konusunda faydalı olabilir.,Değişen araştırmalar açısından yapılacak başka bir şey yok.,contradiction
+"Kutulardan oluşan çizgiler birleştirilen tüm postacıların refah seviyesini gösterir ve elmastan oluşan çizgiler, işi başka bir tarafa kaydırmanın teknik kayıplarını (eğer negatif ise) gösterir.",Çizgiler posta servislerinin refahlarının %10 olduğunu gösteriyor.,neutral
+"Kutulardan oluşan çizgiler birleştirilen tüm postacıların refah seviyesini gösterir ve elmastan oluşan çizgiler, işi başka bir tarafa kaydırmanın teknik kayıplarını (eğer negatif ise) gösterir.",Çizgiler rotadan başka bir şey göstermiyor.,contradiction
+"Kutulardan oluşan çizgiler birleştirilen tüm postacıların refah seviyesini gösterir ve elmastan oluşan çizgiler, işi başka bir tarafa kaydırmanın teknik kayıplarını (eğer negatif ise) gösterir.",Satırlar tüm posta gönderilerinde ne kadar refah olduğunu göstermektedir.,neutral
+"Risk değerlendirmesine göre, Centrelink hak sahiplerini ve çalışanları gelir raporlaması gereklilikleri hakkında eğitmeyi hedefleyen bir dizi özel önlem stratejisi geliştirdi.",Centrelink sorunu nasıl ele alacağını bilemedi.,contradiction
+"Risk değerlendirmesine göre, Centrelink hak sahiplerini ve çalışanları gelir raporlaması gereklilikleri hakkında eğitmeyi hedefleyen bir dizi özel önlem stratejisi geliştirdi.",Centrelink'in  insanlara gelirlerini nasıl bildireceklerini öğretmek konusunda bir çok stratejisi vardı çünkü devlet hatalardan çok para kaybediyordu.,neutral
+"Risk değerlendirmesine göre, Centrelink hak sahiplerini ve çalışanları gelir raporlaması gereklilikleri hakkında eğitmeyi hedefleyen bir dizi özel önlem stratejisi geliştirdi.",Centrelink'in insanlara gelirlerini nasıl raporlamaları gerektiğini öğretmek konusunda birçok stratejisi vardı.,entailment
+"Bu, tasarımın şirketler için yapılan sunumlarını daha çok daha maliyetli hale getirdi, sunum aşaması için ürünün temsili prototipini oluşturmak için üretim ekipmanları ve kalıpları yatırımları gerektirdi.",O zaman tasarımın nasıl çalıştığını gösterebilirler.,'entailment'
+"Bu, tasarımın şirketler için yapılan sunumlarını daha çok daha maliyetli hale getirdi, sunum aşaması için ürünün temsili prototipini oluşturmak için üretim ekipmanları ve kalıpları yatırımları gerektirdi.",Şirkete yeni fabrikalar inşa etmenin akıllıca olmadığını gösterebilirler.,neutral
+"Bu, tasarımın şirketler için yapılan sunumlarını daha çok daha maliyetli hale getirdi, sunum aşaması için ürünün temsili prototipini oluşturmak için üretim ekipmanları ve kalıpları yatırımları gerektirdi.",Yatırımların etkisini nasıl gösterecekleri konusunda hiçbir fikirleri yok.,neutral
+Güney Carolina'nın işbirlikçi çabaları ertesi yıl başka bir başarı elde etti.,Güney Carolina'da kimse birlikte çalışmadı.,contradiction
+Güney Carolina'nın işbirlikçi çabaları ertesi yıl başka bir başarı elde etti.,SC beraber çalıştı.,entailment
+Güney Carolina'nın işbirlikçi çabaları ertesi yıl başka bir başarı elde etti.,Güney Karolina'daki demokratlar ve cumhuriyetçiler birlikte çalışıyor.,neutral
+"Bir Yönetim Kurulu yetkilisine göre Kurulun bölüm 605 (b) sertifikaları, Küçük İşletmeler İdaresi Başkanlığı (SBA) Savunuculuk Baş Danışmanı için ayrı olarak sağlanmamıştır.","Kurul, SBA sertifikalarını vermedi ve bunu değerlendiricinin ofisine bıraktı.",contradiction
+"Bir Yönetim Kurulu yetkilisine göre Kurulun bölüm 605 (b) sertifikaları, Küçük İşletmeler İdaresi Başkanlığı (SBA) Savunuculuk Baş Danışmanı için ayrı olarak sağlanmamıştır.","Kurul, KİY sertifikasını vermedi.",entailment
+"Bir Yönetim Kurulu yetkilisine göre Kurulun bölüm 605 (b) sertifikaları, Küçük İşletmeler İdaresi Başkanlığı (SBA) Savunuculuk Baş Danışmanı için ayrı olarak sağlanmamıştır.","Kurul, isteyen herkese her gün SBA sertifikası dağıttı.",contradiction
+"Otel ve belirli diğer ücretler için bir eşleşme gerçekleştiğinde, gerçek seyahatin bir doğrulaması yapılacaktır.",Çoğu ulusal otel zinciri kredi kartıyla ödeme kabul ediyor.,neutral
+"Otel ve belirli diğer ücretler için bir eşleşme gerçekleştiğinde, gerçek seyahatin bir doğrulaması yapılacaktır.",Seyahatin kendisi otel masraflarıyla doğrulanabilir.,entailment
+"Otel ve belirli diğer ücretler için bir eşleşme gerçekleştiğinde, gerçek seyahatin bir doğrulaması yapılacaktır.",Bir yolculuğun gerçekleşip gerçekleşmediğini doğrulamanın hiçbir yolu yok.,contradiction
+"Örneğin, ziyaret ettiğimiz bir ülkenin başkenti 600'den fazla yazılım şirketine ev sahipliği yapıyor.",Başkentler yazılım şirketleri için en iyi yerler.,neutral
+"Örneğin, ziyaret ettiğimiz bir ülkenin başkenti 600'den fazla yazılım şirketine ev sahipliği yapıyor.",Bir başkentte çok sayıda yazılım şirketi bulunuyor.,entailment
+"Örneğin, ziyaret ettiğimiz bir ülkenin başkenti 600'den fazla yazılım şirketine ev sahipliği yapıyor.",Yazılım şirketleri sermayelerden hukuki sebeplerle kaçınıyor.,contradiction
+"Etkinliği ölçerken, mükemmellik ulaşılamaz bir konsepttir.",Eğer yeterince uğraşırsan mükemmel olabilirsin.,contradiction
+"Etkinliği ölçerken, mükemmellik ulaşılamaz bir konsepttir.",Hiçbir zaman mükemmel olamazsın.,entailment
+"Etkinliği ölçerken, mükemmellik ulaşılamaz bir konsepttir.",Kusursuz olamazsın çünkü hepimiz son derece kusurlu insanlarız.,neutral
+"2000 yılında Hazmi ve Mihdhar'a odayı kiralayan ev arkadaşı, yerel polis ve FBI personeli arasında uzun zamandır devam eden, dostane temasları olan, yasalara saygılı bir vatandaştır.",Hazmi ve Mihdha bir ev satın aldı ve kimseyle iletişime geçmedi.,contradiction
+"2000 yılında Hazmi ve Mihdhar'a odayı kiralayan ev arkadaşı, yerel polis ve FBI personeli arasında uzun zamandır devam eden, dostane temasları olan, yasalara saygılı bir vatandaştır.",Hazmi ve Mihdhar tüm yıl için günlüğü 500$'a oda tuttular.,neutral
+"2000 yılında Hazmi ve Mihdhar'a odayı kiralayan ev arkadaşı, yerel polis ve FBI personeli arasında uzun zamandır devam eden, dostane temasları olan, yasalara saygılı bir vatandaştır.",Hazmi ve Mihdhar bir oda kiraladı.,entailment
+"Bosna'ya yaptıkları seyahat için Suudi El Kaide üyesinin sorgulanması, İstihbarat raporu, 3 Ekim 2001'e bakınız.",Bir El Kaide üyesi 2001'de 18 defa Bosna'ya gitti.,neutral
+"Bosna'ya yaptıkları seyahat için Suudi El Kaide üyesinin sorgulanması, İstihbarat raporu, 3 Ekim 2001'e bakınız.",Bir el Kaide üyesi Bosna'ya gitti.,entailment
+"Bosna'ya yaptıkları seyahat için Suudi El Kaide üyesinin sorgulanması, İstihbarat raporu, 3 Ekim 2001'e bakınız.",Bir El-Kaide üyesinin Bosna'ya gittiğine dair hiçbir kanıt yoktu.,contradiction
+"Jane, Mihdhar aramasına atanan New York ajanına, FISA bilgilendirme formunu nasıl ele almak zorunda olduğunu anladığını gösteren bir FISA onay formu imzalamasını istedi.","Jane, federal bir yargıç tarafından imzalanması için bir FISA onay formu istedi.",contradiction
+"Jane, Mihdhar aramasına atanan New York ajanına, FISA bilgilendirme formunu nasıl ele almak zorunda olduğunu anladığını gösteren bir FISA onay formu imzalamasını istedi.",Jane imzalanaması için bir FISA onay formu istedi.,entailment
+"Jane, Mihdhar aramasına atanan New York ajanına, FISA bilgilendirme formunu nasıl ele almak zorunda olduğunu anladığını gösteren bir FISA onay formu imzalamasını istedi.","Jane, FISA onayının gerekli olmadığını söyledi.",contradiction
+Hiçbir şey gerçek kontrol noktası taramasıyla ilgili olan tek güvenlik katmanı ile ilgili göze çarpmaz.,Güvenlik noktasındaki tarama sırasında endişe verici kanıtlar keşfedildi.,contradiction
+Hiçbir şey gerçek kontrol noktası taramasıyla ilgili olan tek güvenlik katmanı ile ilgili göze çarpmaz.,Kontrol noktası görüntülemeleri tamamen görüntülemeyi gerçekleştiren gümrük görevlisinin sezgisine bağlıdır.,neutral
+Hiçbir şey gerçek kontrol noktası taramasıyla ilgili olan tek güvenlik katmanı ile ilgili göze çarpmaz.,Denetim noktası kontrolü onlara karşı hiçbir kanıt keşfedemedi.,neutral
+"Khallad, üçünün hep birlikte Karachi'ye gittiğini belirten ikinci bir hikaye sundu.","Khallad, üçü hakkında hiçbir şey bilmediğini söyledi.",contradiction
+"Khallad, üçünün hep birlikte Karachi'ye gittiğini belirten ikinci bir hikaye sundu.","Khallad, üçünün birlikte seyahat edebileceğini söyledi.",entailment
+"Khallad, üçünün hep birlikte Karachi'ye gittiğini belirten ikinci bir hikaye sundu.","Khallad, üçünün Ekim ayında birlikte Karaçi'ye gitme şansının %50 olduğunu söyledi.",contradiction
+"İstihbarat raporu, Binalshibh'in sorgusu, 1 Ekim 2002.",Binalshibh'ın bir FBI timi tarafından ifadesi alındı.,neutral
+"İstihbarat raporu, Binalshibh'in sorgusu, 1 Ekim 2002.",Binalshibh 2002 yılında sorgulandı.,entailment
+"İstihbarat raporu, Binalshibh'in sorgusu, 1 Ekim 2002.",Binalshibh'le hiç konuşulmadı ve o ortadan kayboldu.,contradiction
+"Mihdhar, New York'ta gerçekleşen CIA-FBI toplantısından iki gün sonra yeni bir ABD vizesi almıştır.",Mihdhar'ın ülkeye girmek için Amerikan vizesi vardı.,entailment
+"Mihdhar, New York'ta gerçekleşen CIA-FBI toplantısından iki gün sonra yeni bir ABD vizesi almıştır.","Mihdhar asla vize almadı, o yüzden bize hiç gelmedi.",contradiction
+"Mihdhar, New York'ta gerçekleşen CIA-FBI toplantısından iki gün sonra yeni bir ABD vizesi almıştır.",Mihdhar'a kendisi bir tehdit olmadığı için bir Vize verilmişti.,contradiction
+"İki yıl süren soruşturmaya rağmen, FBI iş arkadaşını bulamadı ya da gerçek kimliğini belirleyemedi.",O 2001 yılında Florida'dan ayrıldıktan sonra FBI onu hiçbir zaman bulamadı.,entailment
+"İki yıl süren soruşturmaya rağmen, FBI iş arkadaşını bulamadı ya da gerçek kimliğini belirleyemedi.","FBI, adamın kim olduğunu öğrenemedi.",entailment
+"İki yıl süren soruşturmaya rağmen, FBI iş arkadaşını bulamadı ya da gerçek kimliğini belirleyemedi.","FBI, onun kim olduğunu anladı ve onu hapse attı",contradiction
+"Amerikan 11 durumunda, uçaktan son normal iletişim sabah 8: 13'te idi.",American 11'den gelen bir haberleşme vardı.,entailment
+"Amerikan 11 durumunda, uçaktan son normal iletişim sabah 8: 13'te idi.",Amerikan 11'den her 5 dakikada bir iletişim vardı.,contradiction
+"Amerikan 11 durumunda, uçaktan son normal iletişim sabah 8: 13'te idi.",Amerika'nın 11'inden gelen hiçbir yazışma olmadı.,contradiction
+"Bunu keşfetmek, Alman hükümetinden elde edilmesi zor olan çok hızlı ve çok önemli bir işbirliğini gerektirecekti.",İnceleme tamamlansaydı üç firarinin yerlerini açıklayabilirdi.,neutral
+"Bunu keşfetmek, Alman hükümetinden elde edilmesi zor olan çok hızlı ve çok önemli bir işbirliğini gerektirecekti.","Alman hükümeti, hızlı ve ayrıntılı bir soruşturma gerçekleştirirken zorluk çekti.",neutral
+"Bunu keşfetmek, Alman hükümetinden elde edilmesi zor olan çok hızlı ve çok önemli bir işbirliğini gerektirecekti.",Hükümetin soruşturmayı gerçekleştirmesi için oldukça basit ve kolay olacaktı.,contradiction
+Bu yetkinlikler yeterli değildi ancak bunları genişletmek veya değiştirmek için çok az şey yapıldı.,Denetleme programlarını çok fazla değiştirmediler.,entailment
+Bu yetkinlikler yeterli değildi ancak bunları genişletmek veya değiştirmek için çok az şey yapıldı.,Bazı şeyleri değiştirmek için fazla bir şey yapmadılar.,entailment
+Bu yetkinlikler yeterli değildi ancak bunları genişletmek veya değiştirmek için çok az şey yapıldı.,Her şeyi elden geçirmek için her yolu denediler.,contradiction
+"Ancak analistin e-postası, bilgi paylaşımının ve suç ajanlarının istihbarat kanalları aracılığıyla toplanan bilgilerin kullanımını yöneten kuralların geniş bir dizi sırasını ve yasal engelini karıştırdığını yansıtıyor.",Analist çok net bir analiz sundu.,contradiction
+"Ancak analistin e-postası, bilgi paylaşımının ve suç ajanlarının istihbarat kanalları aracılığıyla toplanan bilgilerin kullanımını yöneten kuralların geniş bir dizi sırasını ve yasal engelini karıştırdığını yansıtıyor.",Analist pek çok konuda net değildi.,entailment
+"Ancak analistin e-postası, bilgi paylaşımının ve suç ajanlarının istihbarat kanalları aracılığıyla toplanan bilgilerin kullanımını yöneten kuralların geniş bir dizi sırasını ve yasal engelini karıştırdığını yansıtıyor.",Analistin raporu o kadar berbattı ki hiç kimse okuyamadı.,contradiction
+"Sonrasında bazı memurlar, merdiven tahliyelerine yardımcı olmaları için tahsis edildiler; diğerleri plaza, ana salon ve PATH istasyonundaki tahliyeleri hızlandırmaları için tahsis edildiler.",Memurlar kendi atamalarını yaptı.,contradiction
+"Sonrasında bazı memurlar, merdiven tahliyelerine yardımcı olmaları için tahsis edildiler; diğerleri plaza, ana salon ve PATH istasyonundaki tahliyeleri hızlandırmaları için tahsis edildiler.",Memurlar sadece ihtiyaç duyuldukları yere rastgele koştular.,contradiction
+"Sonrasında bazı memurlar, merdiven tahliyelerine yardımcı olmaları için tahsis edildiler; diğerleri plaza, ana salon ve PATH istasyonundaki tahliyeleri hızlandırmaları için tahsis edildiler.",Görevliler kıdemlerine göre atandılar.,neutral
+9 Eylül'de Afganistan'dan dramatik haberler geldi.,Afganistan'dan haberlerimiz var.,entailment
+9 Eylül'de Afganistan'dan dramatik haberler geldi.,Ekim'e kadar Afganistan'dan haber alamadık.,contradiction
+9 Eylül'de Afganistan'dan dramatik haberler geldi.,Bize 9 Eylül'de gerçekleşen engelleyici saldırı anlatıldı.,neutral
+"İletişim kuramamak, çok sayıda ajansın ve birden fazla yargı sisteminin yanıt verdiği Dünya Ticaret Merkezi, Pentagon ve Somerset County, Pennsylvania'da kritik bir unsurdu.",9/11 sırasında haberleşme iyi gitti.,contradiction
+"İletişim kuramamak, çok sayıda ajansın ve birden fazla yargı sisteminin yanıt verdiği Dünya Ticaret Merkezi, Pentagon ve Somerset County, Pennsylvania'da kritik bir unsurdu.",İnsanlar Dünya Ticaret Merkezi ile haberleşme konusunda zor zamanlar yaşıyordu çünkü elektrik kesilmiş ve telefon hatları bozulmuştu.,neutral
+"İletişim kuramamak, çok sayıda ajansın ve birden fazla yargı sisteminin yanıt verdiği Dünya Ticaret Merkezi, Pentagon ve Somerset County, Pennsylvania'da kritik bir unsurdu.",İnsanlar Dünya Ticaret Merkezinde iletişim kurarken zor zamanlar yaşadı.,entailment
+"Hazırda bulunan veri tabanlarının araştırmaları sürücülerin ehliyetlerini, araç ruhsatlarını ve telefon listelerini ortaya çıkarabilirdi.",Araştırmacılar ayrıca profesyonel veri tabanlarına erişim talebinde bulundu.,neutral
+"Hazırda bulunan veri tabanlarının araştırmaları sürücülerin ehliyetlerini, araç ruhsatlarını ve telefon listelerini ortaya çıkarabilirdi.",Var olan veritabanlarından birkaç tür bilgi alınabilir.,entailment
+"Hazırda bulunan veri tabanlarının araştırmaları sürücülerin ehliyetlerini, araç ruhsatlarını ve telefon listelerini ortaya çıkarabilirdi.",Konular hakkında mevcut kaynakları kullanarak herhangi bir bilgi elde etmenin hiçbir yolu yoktu.,contradiction
+"Tüm işlemden şüphe duyduğunu iddia eden yönetici, kendisini Hazmi ve Mihdhar'dan ayırdı, ancak ihtiyaç duydukları yardımı aldıktan sonra.",Yönetici hemen yetkililerle iletişime geçti ve bu durumda yardım etmeyi reddetti.,contradiction
+"Tüm işlemden şüphe duyduğunu iddia eden yönetici, kendisini Hazmi ve Mihdhar'dan ayırdı, ancak ihtiyaç duydukları yardımı aldıktan sonra.",Yönetici kuşkularına rağmen yardımcı oldu.,entailment
+"Tüm işlemden şüphe duyduğunu iddia eden yönetici, kendisini Hazmi ve Mihdhar'dan ayırdı, ancak ihtiyaç duydukları yardımı aldıktan sonra.","Yardım, nakit ve seyahat belgelerinin temin edilmesine yardımcı olmaktan oluşuyordu.",neutral
+"2003 yılında bu atamalar elendi; Uluslararası terörizmle ilgili tüm meseleler şimdi aynı şekilde, 315 alır.",Tüm terörizm konularına önem sıralamasında en üst sırada yer verilmiştir.,neutral
+"2003 yılında bu atamalar elendi; Uluslararası terörizmle ilgili tüm meseleler şimdi aynı şekilde, 315 alır.",Tüm terörizm olayları aynı niteliktedir.,neutral
+"2003 yılında bu atamalar elendi; Uluslararası terörizmle ilgili tüm meseleler şimdi aynı şekilde, 315 alır.",Her bir terör sorunu bağımsız olarak yargılanır ve sınıflandırılır.,'contradiction'
+"Güney Kulesi'nin çöküşünü gözlemlemiş olan bu memur, tahliye talimatında Kuzey Kule'deki ESU birimlerine bildirdi.",Güney Kule çöktükten sonra Kuzey Kulede hiç kimse kalmadı.,neutral
+"Güney Kulesi'nin çöküşünü gözlemlemiş olan bu memur, tahliye talimatında Kuzey Kule'deki ESU birimlerine bildirdi.","Güney Kule, yetkili Kuzey Kuledeki ESU birimleriyle konuşmadan 30 dakika önce çökmüştür.",entailment
+"Güney Kulesi'nin çöküşünü gözlemlemiş olan bu memur, tahliye talimatında Kuzey Kule'deki ESU birimlerine bildirdi.","Yetkili, Güney Kulenin çöküşüne şahit oldu.",entailment
+Indianapolis gerçekten pek çok aktörün çalışabileceği en iyi yerlerden biridir,Aktörler Indianapolis'i oradaki tüm oyunculuk ajanslarından dolayı sever.,neutral
+Indianapolis gerçekten pek çok aktörün çalışabileceği en iyi yerlerden biridir,"Aktörsen, Indianapolis'e taşınmayı düşünmelisin.",entailment
+Indianapolis gerçekten pek çok aktörün çalışabileceği en iyi yerlerden biridir,Film veya tiyatro işindeyseniz çoğunlukla bir teknoloji şehri olduğu için Indianapolis'te iş bulmak zordur.,contradiction
+"Önleme, Bilgilendirme ve Kaynak Merkezi ve Ebeveyn Yardım hattı üzerinden haftanın 7 günü, günün 24 saati telefon üzerinden yardım sunuyoruz.",İnsanlar bize sadece posta yoluyla veya e-posta kullanarak ulaşabilirler.,contradiction
+"Önleme, Bilgilendirme ve Kaynak Merkezi ve Ebeveyn Yardım hattı üzerinden haftanın 7 günü, günün 24 saati telefon üzerinden yardım sunuyoruz.",Bize günün her saatinde telefonla ulaşılabilir.,entailment
+"Önleme, Bilgilendirme ve Kaynak Merkezi ve Ebeveyn Yardım hattı üzerinden haftanın 7 günü, günün 24 saati telefon üzerinden yardım sunuyoruz.",Her Pazartesi ve Cuma günü yüzün üzerinde çağrı alıyoruz.,neutral
+Çünkü bu kutular diğer tüm hediyeler açıldıktan sonra uzun süre ambalajlarında kalacaktır.,Bu kutularda tehlikeli bombalar bulunur.,neutral
+Çünkü bu kutular diğer tüm hediyeler açıldıktan sonra uzun süre ambalajlarında kalacaktır.,Bu kutular diğer hediyelerden önce açılacak.,contradiction
+Çünkü bu kutular diğer tüm hediyeler açıldıktan sonra uzun süre ambalajlarında kalacaktır.,Bu kutular bir süre açılmamış olarak kalacak.,entailment
+"Eğer fiyatlarımızı düşük tutarsak, bu misyonu yerine getirmemize yardımcı olmak için küçük bir katkı talep etmek için, seyircilerimize gelmeliyiz.",Bilet fiyatlarını 10$'ın altında tutmak için tüm izleyici üyelerimizin 25$ bağışta bulunmasını isteyeceğiz.,contradiction
+"Eğer fiyatlarımızı düşük tutarsak, bu misyonu yerine getirmemize yardımcı olmak için küçük bir katkı talep etmek için, seyircilerimize gelmeliyiz.",Gerçekten isteseydik fiyatlarımızı düşük tutabilirdik ama patronumuz kendi lükslerini seviyor.,contradiction
+"Eğer fiyatlarımızı düşük tutarsak, bu misyonu yerine getirmemize yardımcı olmak için küçük bir katkı talep etmek için, seyircilerimize gelmeliyiz.",Katkılarınız fiyatlarımızı düşük tutmamıza yardımcı olur.,entailment
+"00, yaklaşık 400 Indianapolis bölgesi çocuğuna rehberlik, teşvik ve eğlence sunmamıza yardımcı oldu.",Cömert bağışçılarımız sayesinde Indianapolis'li yetimler için bir konser düzenlemek üzere Beyonce'yi davet edebildik.,neutral
+"00, yaklaşık 400 Indianapolis bölgesi çocuğuna rehberlik, teşvik ve eğlence sunmamıza yardımcı oldu.",Çocuklar için bir Noel partisi vermeyi ummuştuk ama onlar için hiçbir zaman bir şey yapamadık.,contradiction
+"00, yaklaşık 400 Indianapolis bölgesi çocuğuna rehberlik, teşvik ve eğlence sunmamıza yardımcı oldu.",Indianapolis'li pek çok çocuğa yardım edebilmiştik.,entailment
+"İlk olarak, bireyler, Şansölye Dairesi için yıllık sınırsız 1.000 $ veya daha fazla hediye ya da Başbakan Yardımcıları için 500 $ veya daha fazla bir ücret karşılığında katılabilirler.",Kişiler 50 dolarlık ufak bir bağış yaptıktan sonra katılabilirler.,contradiction
+"İlk olarak, bireyler, Şansölye Dairesi için yıllık sınırsız 1.000 $ veya daha fazla hediye ya da Başbakan Yardımcıları için 500 $ veya daha fazla bir ücret karşılığında katılabilirler.",Şahıslar yeterince büyük bir bağış yaparsa katılabilir.,entailment
+"İlk olarak, bireyler, Şansölye Dairesi için yıllık sınırsız 1.000 $ veya daha fazla hediye ya da Başbakan Yardımcıları için 500 $ veya daha fazla bir ücret karşılığında katılabilirler.",Bir çok birey Bakanlar Kurumuna bağış yapmayı tercih ediyor.,neutral
+Hediyeniz bu zamanda ek yılsonu vergi avantajları sağlayabilir.,"En az 1.000$ tutarında bağışta bulunursanız, elbette vergi karı alabileceksiniz.",neutral
+Hediyeniz bu zamanda ek yılsonu vergi avantajları sağlayabilir.,"Ne yazık ki, vergi danışmanlarımız size herhangi bir hediye yapılmamasını tavsiye edeceklerdir.",contradiction
+Hediyeniz bu zamanda ek yılsonu vergi avantajları sağlayabilir.,Bağışlarından vergi kesintilerini alabilirsin.,neutral
+"Bildiğiniz gibi bu gruba üyelik, hukuk fakültesine yıllık 1.000 $ veya daha fazla miktarda bağış yapan dostları ve mezunları içermektedir.",Bu grubun bazı üyeleri okula 100 bin $'dan fazla bağış yaptı.,neutral
+"Bildiğiniz gibi bu gruba üyelik, hukuk fakültesine yıllık 1.000 $ veya daha fazla miktarda bağış yapan dostları ve mezunları içermektedir.",Bu grupta hukuk fakültesine 1.000$ üzerinde katkıda bulunan insanlar var.,entailment
+"Bildiğiniz gibi bu gruba üyelik, hukuk fakültesine yıllık 1.000 $ veya daha fazla miktarda bağış yapan dostları ve mezunları içermektedir.",Bu gruptan okula maddi katkılarda bulunmasını istemeyi planlıyoruz ama bu daha önce hiç olmadı.,contradiction
+50'lerde büyüyen bir çocuk olarak en mutlu anılarımdan biri Civic Theatre prodüksiyonlarına katılmak olmuştur.,"Çocukken tiyatro oyunlarına gitmekten nefret ederdim, bu yüzden bilim insanı oldum.",contradiction
+50'lerde büyüyen bir çocuk olarak en mutlu anılarımdan biri Civic Theatre prodüksiyonlarına katılmak olmuştur.,Çocukken tiyatroya gitmeyi çok severdim.,entailment
+50'lerde büyüyen bir çocuk olarak en mutlu anılarımdan biri Civic Theatre prodüksiyonlarına katılmak olmuştur.,Güzel ve Çirkin favori Civic Theatre oyunumdu.,neutral
+Bu mektubu alan her kişi sadece 18 $ verir.,"Bu mektubu alan herkese sesleniyorum: para bağışında bulunmayın, bu bir dolandırıcılıktır.",contradiction
+Bu mektubu alan her kişi sadece 18 $ verir.,18 dolar bağışlarsan sana bir hediye vereceğiz.,neutral
+Bu mektubu alan her kişi sadece 18 $ verir.,Umarız tüm mektup alıcıları 18$ bağışlayabilir.,entailment
+"Alt kısmı koparın, uyan kısımları işaretleyin, gerekliyse adres değişikliği yapın ve ekteki zarfla geri gönderin.",Lütfen adresinizde herhangi bir değişiklik yapmayın.,contradiction
+"Alt kısmı koparın, uyan kısımları işaretleyin, gerekliyse adres değişikliği yapın ve ekteki zarfla geri gönderin.",Üzerinde adresinizin olduğu beyaz bir zarf iliştirilmiştir.,neutral
+"Alt kısmı koparın, uyan kısımları işaretleyin, gerekliyse adres değişikliği yapın ve ekteki zarfla geri gönderin.","Eğer uygun görürseniz, adresinizde değişiklik yapmakta özgürsünüz.",neutral
+"Hemşirelik Okulu, eğitimdeki mükemmelliğini devam ettirmek ve korumak için sizin cömert hediyelerinize ihtiyaç duyuyor.",Lütfen Hemşirelik Yüksek Okulu'na 100 milyon dolar bağışlayın yoksa hatıra heykelinizi kaybedeceksiniz.,contradiction
+"Hemşirelik Okulu, eğitimdeki mükemmelliğini devam ettirmek ve korumak için sizin cömert hediyelerinize ihtiyaç duyuyor.","Hemşirelik okulu tüm finansal hedeflerine ulaştı, bu yüzden daha fazla paraya ihtiyacı yok.",contradiction
+"Hemşirelik Okulu, eğitimdeki mükemmelliğini devam ettirmek ve korumak için sizin cömert hediyelerinize ihtiyaç duyuyor.",Hemşirelik Fakültesine bağışta bulunacağını umuyoruz.,entailment
+Katılımcıların %80'i çatışma çözme becerilerinde artış rapor edecektir.,Katılımcıların yarısından çoğu gelişmiş uyuşmazlık çözüm becerileri bildirecektir.,entailment
+Katılımcıların %80'i çatışma çözme becerilerinde artış rapor edecektir.,Katılımcıların sadece bir çeyreği çelişkili karar verme becerilerini bildirecektir.,neutral
+Katılımcıların %80'i çatışma çözme becerilerinde artış rapor edecektir.,100'den fazla bireysel katılımcı vardı.,neutral
+Lütfen verdiğiniz donör listemize sıvışmayın.,Bağış yapmayı bırakman ayıp olurdu.,neutral
+Lütfen verdiğiniz donör listemize sıvışmayın.,"Zaman aşımına uğramış bağışçı listemiz dünyanın görmesi için yayınlandı, o yüzden bana güvenin, o şekilde utanmak istemezsiniz!",contradiction
+Lütfen verdiğiniz donör listemize sıvışmayın.,"Birçok bağışçımız var, bu yüzden lütfen bağış yapmayı bırakın.",contradiction
+"Alanlarımıza erişim, bilgisayar ve modem sahibi herkese açık olacaktır.",Giriş hakkı için insanların bir şeye ihtiyacı yok.,neutral
+"Alanlarımıza erişim, bilgisayar ve modem sahibi herkese açık olacaktır.",İnsanlar alanlara girmek için hem bir bilgisayara hem de bir modeme ihtiyaç duyar.,entailment
+"Alanlarımıza erişim, bilgisayar ve modem sahibi herkese açık olacaktır.","İnsanların, erişim sağlayabilmek için sahaya girerken  bilgisayar ve modemlerini yanlarında taşımaları gerekiyor.",contradiction
+Bilet satışları ve abonelikler tüm sezonumuzu finanse edemez,Bilet satışlarımız olduğu sürece tüm sezonumuz finanse edilir.,contradiction
+Bilet satışları ve abonelikler tüm sezonumuzu finanse edemez,Tam sezonumuzun finanse edilebilmesi için sadece bilet satışlarından ve aboneliklerden daha fazlasına ihtiyacı var.,entailment
+Bilet satışları ve abonelikler tüm sezonumuzu finanse edemez,Bilet satışları ve abonelikler tüm sezonumuzun finansman maliyetlerinin sadece %70'ini kapsıyor.,neutral
+YENİ GELENLER HER HEDİYE BİR FARKLILIK YAPIYOR!,Her hediye kayıt altına alınır ve aylık dergimizde ilan edilir.,neutral
+YENİ GELENLER HER HEDİYE BİR FARKLILIK YAPIYOR!,Verilen her hediye bir şeye sayılır.,neutral
+YENİ GELENLER HER HEDİYE BİR FARKLILIK YAPIYOR!,Sadece 100$ üzerindeki hediyeler bir fark yaratır.,contradiction
+Sizin gibi arkadaşlar ve abonelerden gelecek 365.000$'lık hedefimize ulaşmak için daha çok yolumuz var.,Para hedefimiz 300.000$'ı aşıyor.,'entailment'
+Sizin gibi arkadaşlar ve abonelerden gelecek 365.000$'lık hedefimize ulaşmak için daha çok yolumuz var.,Mali hedefimizi üçe katlamayı umuyoruz.,contradiction
+Sizin gibi arkadaşlar ve abonelerden gelecek 365.000$'lık hedefimize ulaşmak için daha çok yolumuz var.,Parayla ilgili herhangi bir mihenk taşımız yok.,contradiction
+Sivil Uygulama Kliniğimiz birkaç yıl boyunca faaliyet gösterdi ve yakın zamanda bir Ceza Savunma Kliniği ekledik.,Sivil Uygulama Kliniğimiz sekiz yıldır faaliyet göstermektedir.,neutral
+Sivil Uygulama Kliniğimiz birkaç yıl boyunca faaliyet gösterdi ve yakın zamanda bir Ceza Savunma Kliniği ekledik.,Gelecek ay bizim Sivil Uygulama kliniğimiz çalıştığı ilk tam yılı kutluyor.,contradiction
+Sivil Uygulama Kliniğimiz birkaç yıl boyunca faaliyet gösterdi ve yakın zamanda bir Ceza Savunma Kliniği ekledik.,Sivil Uygulama Kliniği bir yıldan daha uzun süredir faaliyette.,entailment
+Bilet geliri bu programların maliyetini karşılamaya başlamadı.,Bu programların maliyeti biletlerden kazanılan parayla  karşılanmayacak gibi görünüyor.,entailment
+Bilet geliri bu programların maliyetini karşılamaya başlamadı.,Bu programların maliyeti çok yüksektir.,neutral
+Bilet geliri bu programların maliyetini karşılamaya başlamadı.,Bilet geliri kesinlikle bu programların maliyetini karşılayacaktır.,contradiction
+"Omnia vincit amor (Haftalık Standart için çalışmadığınız sürece): Brit Hume (Fox News Sunday), Lewinsky'nin neden hala başkan üzerinde umutsuz bir şekilde ezilmeye başlayacağını tahmin ediyor.",Brit Hume Fox'ta önemli bir muhabirdir.,neutral
+"Omnia vincit amor (Haftalık Standart için çalışmadığınız sürece): Brit Hume (Fox News Sunday), Lewinsky'nin neden hala başkan üzerinde umutsuz bir şekilde ezilmeye başlayacağını tahmin ediyor.","Brit Hume, CNN için çalışıyor.",contradiction
+"Omnia vincit amor (Haftalık Standart için çalışmadığınız sürece): Brit Hume (Fox News Sunday), Lewinsky'nin neden hala başkan üzerinde umutsuz bir şekilde ezilmeye başlayacağını tahmin ediyor.",Brit Hume Fox için çalışıyor.,entailment
+Diziyi daha fazla insani bir dokunuşa getirmek için Michael Apted'i işe almaktan çok şey yapıldı.,"Michael Apted her türlü içten, insani unsurları kaldırmakta ısrar ederek diziyi mahvetti.",contradiction
+Diziyi daha fazla insani bir dokunuşa getirmek için Michael Apted'i işe almaktan çok şey yapıldı.,Michael Apted diziye kişisel bir kalite katmak için kiralandı.,entailment
+Diziyi daha fazla insani bir dokunuşa getirmek için Michael Apted'i işe almaktan çok şey yapıldı.,"Dizilerin soğuk ve sıkıcı olduğu düşünülüyordu, bu yüzden Michael Apted'i izlenme oranlarını artırmak için sıcak ve kişisel bir dokunuş eklemesi için tutmak önemliydi.",entailment
+Beyaz kürklü bir parka ve bot giymiş bir kızı izlemek,Bir kız kıyak kaymak üzere giyinmişti.,entailment
+Beyaz kürklü bir parka ve bot giymiş bir kızı izlemek,Kız beyaz elbiseler giyer.,neutral
+Beyaz kürklü bir parka ve bot giymiş bir kızı izlemek,Kız tamamen kırmızı giyinmişti.,contradiction
+"Filmin bahsetmeyi ihmal ettiği şey, Kaufman'ın kendi ölümünün nasıl üstesinden gelmek istediği hakkında sık sık konuşmuş olmasıydı.",Filmde Kaufman'ın kendi ölümünü değerlendirmesine yer verilmemektedir.,entailment
+"Filmin bahsetmeyi ihmal ettiği şey, Kaufman'ın kendi ölümünün nasıl üstesinden gelmek istediği hakkında sık sık konuşmuş olmasıydı.","Filmin Kaufman ile, onun ölümü hakkında olan derinlemesine bir röportajı vardı.",contradiction
+"Filmin bahsetmeyi ihmal ettiği şey, Kaufman'ın kendi ölümünün nasıl üstesinden gelmek istediği hakkında sık sık konuşmuş olmasıydı.","Film, Kaufman ile ilgili bazı önemli detayları atlamasına rağmen hasılat rekorları kırdı.",neutral
+"İntikam Meleği Tarbell McClure's'ta  onu parçalamaya başladığında Rockefeller, bu acı dolu sona yakalanmıştı.",Rockefeller kanser araştırmasına katkıda bulundu.,neutral
+"İntikam Meleği Tarbell McClure's'ta  onu parçalamaya başladığında Rockefeller, bu acı dolu sona yakalanmıştı.",Rockefeller cömertti.,contradiction
+"İntikam Meleği Tarbell McClure's'ta  onu parçalamaya başladığında Rockefeller, bu acı dolu sona yakalanmıştı.",Rockefeller pintiydi.,neutral
+"Daha yakın zamanlarda, New York'taki bir ticaret davasında Klayman, etnik önyargı suçlamalarının diğer ucunda kendini buldu.",Klayman Kaliforniya'da etnik taraflılık suçlamasıyla mahkemeye çıkarıldı.,contradiction
+"Daha yakın zamanlarda, New York'taki bir ticaret davasında Klayman, etnik önyargı suçlamalarının diğer ucunda kendini buldu.","Klayman, ırkçı önyargıyla suçlanmayı beklemiyordu.",neutral
+"Daha yakın zamanlarda, New York'taki bir ticaret davasında Klayman, etnik önyargı suçlamalarının diğer ucunda kendini buldu.",Klayman'a karşı etnik ön yargı iddiaları vardı.,'entailment'
+"Birisi kendi tıslamalarına, yuhlamalarına ve oturan bir ABD işçi sekreterine saçma sapan bağırmasına bir oda dolusu ortak cevabı beklemesi zordur.",Kurumsal temsilciler takım elbise giyerler.,neutral
+"Birisi kendi tıslamalarına, yuhlamalarına ve oturan bir ABD işçi sekreterine saçma sapan bağırmasına bir oda dolusu ortak cevabı beklemesi zordur.",Biri şirket temsilcilerinin tıslamalarını beklerdi.,neutral
+"Birisi kendi tıslamalarına, yuhlamalarına ve oturan bir ABD işçi sekreterine saçma sapan bağırmasına bir oda dolusu ortak cevabı beklemesi zordur.",Şirket temsilcilerinin ıslıklaması pek beklenmez.,entailment
+"Sadece beslenmenin sportif performans üzerinde daha önemli bir etkisi olması, doğanın uykuda olduğu anlamına gelmez.","Atletler, tüm performans potansiyelleri tam olarak fark edilir bir şekilde dünyaya gelir.",neutral
+"Sadece beslenmenin sportif performans üzerinde daha önemli bir etkisi olması, doğanın uykuda olduğu anlamına gelmez.","Atletik performans, genetikten ziyade antrenmandan etkilenmektedir.",neutral
+"Sadece beslenmenin sportif performans üzerinde daha önemli bir etkisi olması, doğanın uykuda olduğu anlamına gelmez.",Daha ciddi sporcular haftada en az sekiz saat antrenman yapar.,neutral
+"Eve dönünce, Birleşik Devletler'in arzı iki şekilde kestiğini öğrendim.",Politika ile ilgileniyorum.,neutral
+"Eve dönünce, Birleşik Devletler'in arzı iki şekilde kestiğini öğrendim.",Birleşik Devletler hakkında bilgi edindim.,entailment
+"Eve dönünce, Birleşik Devletler'in arzı iki şekilde kestiğini öğrendim.",Amerika'nın malzemeleri gelmeden önce iki şekilde kestiğini öğrendim.,neutral
+Dünyanın en eski ve en büyük üniversite basını - Oxford - şiir listesini iptal ettiğini açıkladı.,Oxford'daki şiir listesi artık devam ettirilmiyor.,entailment
+Dünyanın en eski ve en büyük üniversite basını - Oxford - şiir listesini iptal ettiğini açıkladı.,Prestige üniversitesinin şiir listesini aktif tutabilecek fonu yok.,neutral
+Dünyanın en eski ve en büyük üniversite basını - Oxford - şiir listesini iptal ettiğini açıkladı.,Üniversite şiir listesini korumaya adanmış durumda ve listeyi hiçbir zaman iptal etmemeye yemin ediyor.,contradiction
+Yine de insanlık için bir teselli ödülü var.,Teselli ödülü herkes için ücretsiz iki hıza sahip blender.,neutral
+Yine de insanlık için bir teselli ödülü var.,Bu durumda insanlar avantajlı değiller.,entailment
+Yine de insanlık için bir teselli ödülü var.,"Bu, insanlar için o kadar da kötü bir haber değil.",entailment
+"Spor, bu sahalarda bahse girilecek tek etkinlik değildir.",Bu sitelerde politik mücadele ve seçimler üzerine bahisler de kabul edilmektedir.,entailment
+"Spor, bu sahalarda bahse girilecek tek etkinlik değildir.",Bu siteler sadece spor müsabakalarına bahis kabul eder.,contradiction
+"Spor, bu sahalarda bahse girilecek tek etkinlik değildir.",Bu sahalar çeşitli aktivitelerde en iyilerini alır.,neutral
+"25 Ağustos'ta, Atlantik şehrinde Demokratik kongre açıldıktan sonra, N.J., Johnson, 56 yaşındayken, başkanlık yarışından çekilmek için kaydedilen üç konuşmada tehdit etti.",Johnson destek eksikliği hissetti.,entailment
+"25 Ağustos'ta, Atlantik şehrinde Demokratik kongre açıldıktan sonra, N.J., Johnson, 56 yaşındayken, başkanlık yarışından çekilmek için kaydedilen üç konuşmada tehdit etti.","Johnson, geri çekilmek hakkında düşünmemişti.",contradiction
+"25 Ağustos'ta, Atlantik şehrinde Demokratik kongre açıldıktan sonra, N.J., Johnson, 56 yaşındayken, başkanlık yarışından çekilmek için kaydedilen üç konuşmada tehdit etti.",Johnson geri çekilmesi için tehdit etti.,entailment
+Lamar Alexander başkanlık teklifini düşürdü.,En azından bir kişi başkan olma çabasından vazgeçti.,entailment
+Lamar Alexander başkanlık teklifini düşürdü.,"Lamar Alexander, başkan adaylığı kampanyasından vazgeçmeyi reddetti.",contradiction
+Lamar Alexander başkanlık teklifini düşürdü.,"Bay Alexander, utanç verici resimleri yayınlandıktan sonra ayrılmaya zorlanmıştır.",contradiction
+Bu üzücü sivil özgürlükler kaydının ötesinde FBI'nin Beyaz Sarayın şu anda Filegate olarak bilinen kendi orijinal seyahat soruşturma ofisindeki kötüye kullanımıdır.,Beyaz Saray'ın siyasi adaylar hakkında FBI ajanı vardır.,neutral
+Bu üzücü sivil özgürlükler kaydının ötesinde FBI'nin Beyaz Sarayın şu anda Filegate olarak bilinen kendi orijinal seyahat soruşturma ofisindeki kötüye kullanımıdır.,Beyaz Saray FBI'yi kötüye kullanıyor.,entailment
+Bu üzücü sivil özgürlükler kaydının ötesinde FBI'nin Beyaz Sarayın şu anda Filegate olarak bilinen kendi orijinal seyahat soruşturma ofisindeki kötüye kullanımıdır.,Beyaz Saray FBI'yı uygun şekilde kullanıyor.,contradiction
+"Tung, emlak spekülatörlerine karşı sert önlemler almaya yemin etti, ama birçok kişi havlayan köpeğin ısırmayacağını düşünüyor.",Tung gayrimenkul spekülatörlerini umursamaz.,contradiction
+"Tung, emlak spekülatörlerine karşı sert önlemler almaya yemin etti, ama birçok kişi havlayan köpeğin ısırmayacağını düşünüyor.","Tung, mülk spekülatörlerinin etik davranmadıklarını düşünüyor.",neutral
+"Tung, emlak spekülatörlerine karşı sert önlemler almaya yemin etti, ama birçok kişi havlayan köpeğin ısırmayacağını düşünüyor.","Tung, mülk spekülatörlerini etkilemek istiyor.",entailment
+"Şikayetler, bagaj sorumlarını, kızgın uçuş katılımcılarını, gizemli bir şekilde iptal edilen uçuşları, fiyatlandırmadaki acımasızlıkları kapsıyordu.",10 kişi bagajlarını kaybetti.,neutral
+"Şikayetler, bagaj sorumlarını, kızgın uçuş katılımcılarını, gizemli bir şekilde iptal edilen uçuşları, fiyatlandırmadaki acımasızlıkları kapsıyordu.",İnsanlar bagajdan şikayet etmişti.,entailment
+"Şikayetler, bagaj sorumlarını, kızgın uçuş katılımcılarını, gizemli bir şekilde iptal edilen uçuşları, fiyatlandırmadaki acımasızlıkları kapsıyordu.",Hiçbir şikayet yoktu.,contradiction
+Kurbanının kolunun alt kısmını kestikten sonra hapishanede sadece sekiz yıl kalan kötü şöhretli bir tecavüzcü olan Lawrence Singleton Florida'da başka bir kadını bıçaklayarak öldürmek suçuyla tutuklandı.,Kurbanlarının kollarını dirseklerinden kesip bir çöp kutusuna atarak saklamaya çalıştı.,neutral
+Kurbanının kolunun alt kısmını kestikten sonra hapishanede sadece sekiz yıl kalan kötü şöhretli bir tecavüzcü olan Lawrence Singleton Florida'da başka bir kadını bıçaklayarak öldürmek suçuyla tutuklandı.,Hapishanede geçirdiği zamanın onu tamamen rehabilite ettiği herkes için aşikardı.,contradiction
+Kurbanının kolunun alt kısmını kestikten sonra hapishanede sadece sekiz yıl kalan kötü şöhretli bir tecavüzcü olan Lawrence Singleton Florida'da başka bir kadını bıçaklayarak öldürmek suçuyla tutuklandı.,Bay Singleton Florida'da hükümlü bir tecavüzcüdür.,entailment
+"New Republic’in Charles Lane’i, kaçırma haberinin sadece Gabriel Garcaa Marquez’in dürüst olmayan gazetecilik kayıtlarını uzattığını söylüyor.",Charles Lane bir gazetecidir.,entailment
+"New Republic’in Charles Lane’i, kaçırma haberinin sadece Gabriel Garcaa Marquez’in dürüst olmayan gazetecilik kayıtlarını uzattığını söylüyor.",Charles Lane araba satıyordu.,neutral
+"New Republic’in Charles Lane’i, kaçırma haberinin sadece Gabriel Garcaa Marquez’in dürüst olmayan gazetecilik kayıtlarını uzattığını söylüyor.",Charles Lane bir Pulitzer ödülü kazanmıştır.,neutral
+Mahkeme bu sabah Washington’da sadece politik gösteri değildir.,Adliye sarayı washington'daki tek siyasi yer değildir.,neutral
+Mahkeme bu sabah Washington’da sadece politik gösteri değildir.,Politikada gün sabah genellikle sabah başlar.,neutral
+Mahkeme bu sabah Washington’da sadece politik gösteri değildir.,Şehir merkezinde palyaçoların bulunduğu bir sirk var.,neutral
+"İnsan, yeni bir site için bir yolu kepçeyle düzelten ve müteahhit tarafından takdir edilen bir buldozer operatörünü hayal edebilie. Selam, Loyd...",Buldozer çalıştıran bir buldozer operatörü hayal edebilirsin.,entailment
+"İnsan, yeni bir site için bir yolu kepçeyle düzelten ve müteahhit tarafından takdir edilen bir buldozer operatörünü hayal edebilie. Selam, Loyd...",Bir buldozer operatörünü hayal edebilirsin.,entailment
+"İnsan, yeni bir site için bir yolu kepçeyle düzelten ve müteahhit tarafından takdir edilen bir buldozer operatörünü hayal edebilie. Selam, Loyd...",Bir buldozer operatörünü hayal edemezsin.,contradiction
+"Bunu bir mektupta Doktora bildirdim, onu eğlendirmiş gibi görünüyordu ve bana o Noelde küçük bir meyveli pasta gönderdi.",Doktorun kendisine gönderdiğim mektubu aldığına eminim.,entailment
+"Bunu bir mektupta Doktora bildirdim, onu eğlendirmiş gibi görünüyordu ve bana o Noelde küçük bir meyveli pasta gönderdi.",Doktorun o Noel'de bana gönderdiği pastayı yemedim.,neutral
+"Bunu bir mektupta Doktora bildirdim, onu eğlendirmiş gibi görünüyordu ve bana o Noelde küçük bir meyveli pasta gönderdi.",O Noel'de doktor bana bir şişe şarap gönderdi.,contradiction
+"Ekip daha önce merak uyandıran Beaneaters tarafından biliniyordu, ki bu da ilginç bir şekilde bir Hint takma adı olarak düşünülebilirdi.",Takım adını değiştirdi çünkü popüler değildi.,neutral
+"Ekip daha önce merak uyandıran Beaneaters tarafından biliniyordu, ki bu da ilginç bir şekilde bir Hint takma adı olarak düşünülebilirdi.",Takımın bundan önce kızılderili bir takma ad olarak da düşünülebilecek bir adı vardı.,'entailment'
+"Ekip daha önce merak uyandıran Beaneaters tarafından biliniyordu, ki bu da ilginç bir şekilde bir Hint takma adı olarak düşünülebilirdi.",Takımın şimdiye kadar sadece bir ismi oldu.,contradiction
+Eşanlamlılarda böyle bir tanım bulamadım.,Tanımını sözlükte buldum.,contradiction
+Eşanlamlılarda böyle bir tanım bulamadım.,Sözcüklere baktım ama bir tanım bulamadım.,neutral
+Eşanlamlılarda böyle bir tanım bulamadım.,"Kullandığım eş anlamlılar, standart eş anlamlılardı.",neutral
+Birisi bunu nasıl yapabilir?,Neden pek çok insan hiçbir şey yapmıyor?,neutral
+Birisi bunu nasıl yapabilir?,Birisi bu kadar kötü bir şeyi nasıl yapabilir.,neutral
+Birisi bunu nasıl yapabilir?,Birinin bunu yapması nasıl mümkün olabilir?,entailment
+"Dahası, Ön Söz'e göre sadece Yirminci Yüzyılda ortaya çıktığı bilinen terimleri içermekte, ama 20. yüzyılın başındaki askeri argoyu atlamış.","Önsöze göre, yirminci yüzyılda yükselen terimleri içerir ancak daha önce ortaya çıkan argo terimleri kapsamaz.",entailment
+"Dahası, Ön Söz'e göre sadece Yirminci Yüzyılda ortaya çıktığı bilinen terimleri içermekte, ama 20. yüzyılın başındaki askeri argoyu atlamış.",Zamanın başlangıcından beri bütün argo sözcükleri içinde kapsar.,contradiction
+"Dahası, Ön Söz'e göre sadece Yirminci Yüzyılda ortaya çıktığı bilinen terimleri içermekte, ama 20. yüzyılın başındaki askeri argoyu atlamış.",Yirminci yüzyılın öncesinden kalan çok fazla argo var.,neutral
+"1984 baskısına sahip olan biri, daha kısa (ve daha az pahalı) bir Supplement yerine bu kitabı satın almak zorunda olmaya sinirlenirdi.",1984 baskısı partinin en iyisidir.,neutral
+"1984 baskısına sahip olan biri, daha kısa (ve daha az pahalı) bir Supplement yerine bu kitabı satın almak zorunda olmaya sinirlenirdi.",Kitap satılık değil.,contradiction
+"1984 baskısına sahip olan biri, daha kısa (ve daha az pahalı) bir Supplement yerine bu kitabı satın almak zorunda olmaya sinirlenirdi.","Ek, kitabın kendisinden daha ucuzdur.",entailment
+Bernstein girişte açıklıyor,Bernstein onu derinlemesine açıklamıyor.,contradiction
+Bernstein girişte açıklıyor,Bernstein bunu sadece sonuçta açıkladı.,contradiction
+Bernstein girişte açıklıyor,Giriş bir açıklama içerir.,entailment
+"Bu konuların, sadece yirmi yıldan fazla bir süre sonra bile, zor bir durum olduğu ve bu konuda komik olan bir çok şeyi ayırt edebilmesinin zor olduğu söylenemez.",Ana dili konuşanların bile bazen mizahla ilgili sorunları vardır.,neutral
+"Bu konuların, sadece yirmi yıldan fazla bir süre sonra bile, zor bir durum olduğu ve bu konuda komik olan bir çok şeyi ayırt edebilmesinin zor olduğu söylenemez.",Mizah genellikle yabancıların anlayabileceği en kolay şeylerden biridir.,contradiction
+"Bu konuların, sadece yirmi yıldan fazla bir süre sonra bile, zor bir durum olduğu ve bu konuda komik olan bir çok şeyi ayırt edebilmesinin zor olduğu söylenemez.",Bu konular dışarıdan gelenlerin anlaması zor konulardır.,'entailment'
+"Son olarak, insan kendiyle belirgin biçimde farklı bir anlam taşıyan uzanıma dikakt etmelidir.",Bu tür hataları yakalamak için normalde editörler işe alınır.,neutral
+"Son olarak, insan kendiyle belirgin biçimde farklı bir anlam taşıyan uzanıma dikakt etmelidir.","Uzama, bir ifadenin anlamının açıklığa kavuşturulmasının sağlanması için harika bir yoldur.",neutral
+"Son olarak, insan kendiyle belirgin biçimde farklı bir anlam taşıyan uzanıma dikakt etmelidir.",Daha uzun bir açıklama yapmaya çalışırken anlam değişebilir.,neutral
+Başınızı ısı ile döndürün.,"Bir kişinin kafasına ısı uygulamak, odaklanma ve konsantrasyonlarını iyileştirmenin iyi bir yoludur.",neutral
+Başınızı ısı ile döndürün.,Aşırı ısı bazı durumlarda baş dönmesine neden olabilir.,entailment
+Başınızı ısı ile döndürün.,Bugün sıcaklık mevsimsel ortalamanın beş derece üzerindeydi.,neutral
+Başka bir mesleğin bu kadar zengin bir kendiyle dalga geçme geleneği yoktur.,Diğer birçok meslek kendini fazlasıyla düşünmektedir.,entailment
+Başka bir mesleğin bu kadar zengin bir kendiyle dalga geçme geleneği yoktur.,Pek çok meslekte bireyin kendisiyle dalga geçmesi geleneği vardır.,contradiction
+Başka bir mesleğin bu kadar zengin bir kendiyle dalga geçme geleneği yoktur.,Başka hiçbir işte kendisini böyle güçlü bir şekilde eleştirme geleneği yoktur.,entailment
+"Ve gurur notlarıyla, yerel lore içinde kibirli isimler kazanmış olan paçavralar, bu lakaplarını özel yazışmalarda, salon sohbeti ve gayri resmi özgeçmişlerde kullanırlar.",Kağıtların hiçbir itibarı yok.,contradiction
+"Ve gurur notlarıyla, yerel lore içinde kibirli isimler kazanmış olan paçavralar, bu lakaplarını özel yazışmalarda, salon sohbeti ve gayri resmi özgeçmişlerde kullanırlar.",Bu kağıtların iyi bir itibarı yok.,entailment
+"Ve gurur notlarıyla, yerel lore içinde kibirli isimler kazanmış olan paçavralar, bu lakaplarını özel yazışmalarda, salon sohbeti ve gayri resmi özgeçmişlerde kullanırlar.",Bu kağıtlar ev hanımlarının bir sürü dedikodusuyla dolu.,neutral
+Eğer lite / light sadece biranın bir karakteristiğini tanımlarsa (ör.,Birada lite veya light etiketi olabilir.,entailment
+Eğer lite / light sadece biranın bir karakteristiğini tanımlarsa (ör.,Lite ve light sözcükleri sadece şarap ve viskiyi açıklamak için kullanılır.,contradiction
+Eğer lite / light sadece biranın bir karakteristiğini tanımlarsa (ör.,Lite biranın yüksek bir alkol yüzdesi yoktur.,entailment
+Üzerinde çok çalışılmış olan zavallı isim o ya da herhangi bir alternatif gerekli olmadığında bile kullanılmıştı.,İnsanlar alternatif bir isim bulmak için mücadele ederler.,contradiction
+Üzerinde çok çalışılmış olan zavallı isim o ya da herhangi bir alternatif gerekli olmadığında bile kullanılmıştı.,İsim çok fazla kullanılmış.,entailment
+Üzerinde çok çalışılmış olan zavallı isim o ya da herhangi bir alternatif gerekli olmadığında bile kullanılmıştı.,İsim daha çok kullanılmalı.,neutral
+"Bunların ötesinde, dokunaklı yazının yine de bazen unutulmaz olduğu, sorunu birleştirdiğine dair mutsuz bir gerçeğimiz var.",İnsanların zayıf yazımı hatırlama olasılığı daha yüksektir.,contradiction
+"Bunların ötesinde, dokunaklı yazının yine de bazen unutulmaz olduğu, sorunu birleştirdiğine dair mutsuz bir gerçeğimiz var.",İyi yazılmış bir metni hatırlamak sıklıkla kötü yazılmış bir metni hatırlamaktan daha kolaydır.,neutral
+"Bunların ötesinde, dokunaklı yazının yine de bazen unutulmaz olduğu, sorunu birleştirdiğine dair mutsuz bir gerçeğimiz var.",İyi yazılmış bir metnin büyük miktarlarda üretilmesi çok pahalıdır.,neutral
+Bu tavırla karşılaşan ve biraz etkilenen İngilizler sözcüğü yazarak saygılarını göstermiştir.,İngilizlerin hiçbir saygısı yoktu.,contradiction
+Bu tavırla karşılaşan ve biraz etkilenen İngilizler sözcüğü yazarak saygılarını göstermiştir.,İngilizler dünya ekonomisini devraldı.,neutral
+Bu tavırla karşılaşan ve biraz etkilenen İngilizler sözcüğü yazarak saygılarını göstermiştir.,İngilizler bütün dünyada  bir çok alım satım yaptılar.,neutral
+Bazen en sinsisidir de.,O zamanlar tespit etmek çok zor olabilir.,neutral
+Bazen en sinsisidir de.,Özenle yalıtılmış motoru sayesinde çok az gürültü çıkarır.,neutral
+Bazen en sinsisidir de.,Herhangi bir mesafeden algılamak her zaman kolaydı.,contradiction
+"Aslında, elbette Britanya'da Kuzey Amerika'dan daha fazla farklı İngilizce lehçesi var ve onları dinlemeye vakit ayıran herkes, bazılarının karşılıklı olarak anlaşılmaz olduğunu bilir.",İngiltere'de Kuzey Amerika'dakilerden daha fazla sayıda farklı İngilizce lehçeleri vardır.,entailment
+"Aslında, elbette Britanya'da Kuzey Amerika'dan daha fazla farklı İngilizce lehçesi var ve onları dinlemeye vakit ayıran herkes, bazılarının karşılıklı olarak anlaşılmaz olduğunu bilir.",Kuzey Amerika ve İngiliz lehçeleri tam olarak aynıdır ve insanlar aralarındaki farkı ayırt edemez.,contradiction
+"Aslında, elbette Britanya'da Kuzey Amerika'dan daha fazla farklı İngilizce lehçesi var ve onları dinlemeye vakit ayıran herkes, bazılarının karşılıklı olarak anlaşılmaz olduğunu bilir.",Kuzey Amerikalılar İngiliz diyalektlerinin yarısını anlamada zorluk çeker.,neutral
+"“Bir Tennessee muhbiri, ılık, yağmursuz hava için köpek havasını kullandı ve bu da kuru Ağustos hava koşullarına işaret eden köpek günlerinden kaynaklanıyor olabilir.","Bilgi veren kişinin söylediklerine göre, sezonluk muson yağmurlarını anlatmak için köpek havası ifadesi kullanılıyordu.",contradiction
+"“Bir Tennessee muhbiri, ılık, yağmursuz hava için köpek havasını kullandı ve bu da kuru Ağustos hava koşullarına işaret eden köpek günlerinden kaynaklanıyor olabilir.",Haziran ve Temmuz da Tennessee'de çok sıcak.,neutral
+"“Bir Tennessee muhbiri, ılık, yağmursuz hava için köpek havasını kullandı ve bu da kuru Ağustos hava koşullarına işaret eden köpek günlerinden kaynaklanıyor olabilir.",Ağustos ayında çoğu günler hava sıcak ve yağmursuzdur.,neutral

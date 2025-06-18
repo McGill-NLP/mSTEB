@@ -1,0 +1,35 @@
+premise,hypothesis,label
+"Yaravuze , mama nageze murugo",Yahamagaye nyina igihe imodoka y'ishuri yarimaze kumujyeza murugo,1
+"Yaravuze , mama nageze murugo",Ntajambo yavuze,2
+"Yaravuze , mama nageze murugo",Yabwiye nyina ko yajyeze murugo,0
+"Wari umugezi winzoka,wuzuyemwo inzoka nyinshi","Utitaye kubyizina ,ntabwo umugezi winzoka ufite inzoka, bahitiriye uko haremye ",2
+"Wari umugezi winzoka,wuzuyemwo inzoka nyinshi",Kumugezi winzoka huzuye utunyamasyo twinshi. ,1
+"Wari umugezi winzoka,wuzuyemwo inzoka nyinshi",Mumugezi winzoka huzuye inzoka nyishi ,0
+"Izi nzego zo murwego rwohejuru rwibikoresho bya molekile bivuka kubera ko gutoranya bisanzwe gushobora gukora kumitungo rusange yibintu bya molekile iyo iyo mitungo rusange yongerewe imbaraga zo guhuza n'imihindagurikire y'ikirere.
+",Ibikoresho byose bya molekile biba bgoranye,2
+"Izi nzego zo murwego rwohejuru rwibikoresho bya molekile bivuka kubera ko gutoranya bisanzwe gushobora gukora kumitungo rusange yibintu bya molekile iyo iyo mitungo rusange yongerewe imbaraga zo guhuza n'imihindagurikire y'ikirere.
+",Ibikoresho byinshi bigoye bya molekuline birashobora kuvuka mubihe bimwe na bimwe,0
+"Izi nzego zo murwego rwohejuru rwibikoresho bya molekile bivuka kubera ko gutoranya bisanzwe gushobora gukora kumitungo rusange yibintu bya molekile iyo iyo mitungo rusange yongerewe imbaraga zo guhuza n'imihindagurikire y'ikirere.
+","Ibi bikoresho bya molekile bikoreshwa cyane mugukora uburozi butandukanye bukoreshwa mubyo kwirinda
+",1
+Yarajuriye kuri Lord Julian,Yashakaga kubaza Lord Julian ikintu,0
+Yarajuriye kuri Lord Julian,Yashakaga kubaza Lord Julian kurokora umugore we,1
+Yarajuriye kuri Lord Julian,Lord Julian ntaho yarari kugaragara,2
+"Nyuma yo kureba hirya no hino muri ibyo byegeranyo, uzamuke umusozi ujya kwa Komiseri, aho uzasangamo ibintu byiza byerekeranye n’inyanja ikikije hamwe n’ibindi bigo bya Dockyard ",Urashobora kubona ubwato hejuru yumusozi,1
+"Nyuma yo kureba hirya no hino muri ibyo byegeranyo, uzamuke umusozi ujya kwa Komiseri, aho uzasangamo ibintu byiza byerekeranye n’inyanja ikikije hamwe n’ibindi bigo bya Dockyard ",Urashobora kubona ibyerekezo byinyanja urihejuru yumusozi,0
+"Nyuma yo kureba hirya no hino muri ibyo byegeranyo, uzamuke umusozi ujya kwa Komiseri, aho uzasangamo ibintu byiza byerekeranye n’inyanja ikikije hamwe n’ibindi bigo bya Dockyard ",Ntushobora kubona inkombe urihejuru yumusozi,2
+Sisitemu zabakozi zarahurijwe hamwe kandi inzego nshyashya zamasosiyete zarateranyije vuba kugirango zikomeze gushyigikira no gushyigikirwa nabakiriya benshi,"Muguhuriza hamwe sisitemu ijyanye nimikorere ya bantu , umwanya warabonetse wimiterere mishya muri sosiyete",1
+Sisitemu zabakozi zarahurijwe hamwe kandi inzego nshyashya zamasosiyete zarateranyije vuba kugirango zikomeze gushyigikira no gushyigikirwa nabakiriya benshi,Imiterere ya sosiyete yarakozwe,0
+Sisitemu zabakozi zarahurijwe hamwe kandi inzego nshyashya zamasosiyete zarateranyije vuba kugirango zikomeze gushyigikira no gushyigikirwa nabakiriya benshi,"Sisitemu zi jyanye nibyabakoze, zaravuguruwe kurusha mbere ",2
+"Umuryango wakisilamu wa vutse mu mwaka wi 1940, numusaruro wisi yubungubu, uhabwa imbaraga na  Marxist-leninist ugamije kwihinduramatwara mumuryango. ", Imyunvire ya Marxist-leninist yongejwe muri mwishyirahamwe rya kisilamu,0
+"Umuryango wakisilamu wa vutse mu mwaka wi 1940, numusaruro wisi yubungubu, uhabwa imbaraga na  Marxist-leninist ugamije kwihinduramatwara mumuryango. ",umutwe wa k'isilamu watangiye mukinyejana cya gatandatu,2
+"Umuryango wakisilamu wa vutse mu mwaka wi 1940, numusaruro wisi yubungubu, uhabwa imbaraga na  Marxist-leninist ugamije kwihinduramatwara mumuryango. ","uyu muryango wa k'isilamu , inkomoko yawo wari nkumuryango wubukangurambaga",1
+Impano yawe ningirakamaro muguhimbaza ibihe byacu bya  85.,Impano yose tubona ntabwo ari ingenzi nkiyanyu.,1
+Impano yawe ningirakamaro muguhimbaza ibihe byacu bya  85.,Ntabwo dushishikajwe na gato n'impano yawe.,2
+Impano yawe ningirakamaro muguhimbaza ibihe byacu bya  85.,Tumaze imyaka irenga 80 dukora ibi.,0
+"Ibifubiko by'ibinyamakuru bya newsweeklies, bihangayikishije ababyeyi",Guhangayika kwa babyeyi nikimwe mubisunika igurishwa ryibifubiko byibinyamakuru,0
+"Ibifubiko by'ibinyamakuru bya newsweeklies, bihangayikishije ababyeyi",Newsweeklies ikora ibifubiko muburyo bishimisha abana bato cyangwa abakuru. ,2
+"Ibifubiko by'ibinyamakuru bya newsweeklies, bihangayikishije ababyeyi","Ababyeyi, birashoboka ko bakoresha amafaranga mukugura imodoka nshya, bituma bamamaza ibicye bimwe  byibinyamakuru. ",1
+Ubundi buryo ntibugomba gukoreshwa  guhinduranya ,Ntabwo aribyo gukoresha ubundi buryo bwoguhinduranya ,0
+Ubundi buryo ntibugomba gukoreshwa  guhinduranya ,"Biremewe gusimbuza , guhundaza no guhinduranya ",2
+Ubundi buryo ntibugomba gukoreshwa  guhinduranya ,Abantu benshi ntabwo bazi gukoresha ubundi buryo no kubuhinduranya ,1

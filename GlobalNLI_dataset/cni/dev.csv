@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Iriori ikantiro: Ina, nosaiki pankotsiki.",Ikajemakero iriniro ojokantanakariri shiakomentotsi ayeetiriri obamerentsi.,1
+"Iriori ikantiro: Ina, nosaiki pankotsiki.",Iriori tekatsi ikantanake aparo ñaantsi.,2
+"Iriori ikantiro: Ina, nosaiki pankotsiki.",Ikantiro iriniro yaretaja pankotsiki.,0
+"Tee iyote paita ijatantari tekatsi katsini, ijateme ikamante nayetantsiki ikantetakeri Washingtonki.","Tee nioteroji Washington, ikantetantakenari notimpinakake namenayebetaro nayetantsi.",1
+"Tee iyote paita ijatantari tekatsi katsini, ijateme ikamante nayetantsiki ikantetakeri Washingtonki.",Niobetaka paita nanteri nojatantakari Washington.,2
+"Tee iyote paita ijatantari tekatsi katsini, ijateme ikamante nayetantsiki ikantetakeri Washingtonki.","Tee niote paita nanteri, ari nojatake Washington, ikantetakenari nokamantante.",0
+Iriori tee imatea ijate.,Iriori iritake intakarori ikantetakeri aisati iñaakero antayetachari.,2
+Iriori tee imatea ijate.,Tee ishineyeteri ipoke.,0
+Iriori tee imatea ijate.,Tee ishineyeteri ijate onijayetata timayetsiri.,1
+"Aisati narori kameetsa nokantaka, ¡aisati oka irootake maaroni!","Impoiji nokantake jee, tsonkanaka.",0
+"Aisati narori kameetsa nokantaka, ¡aisati oka irootake maaroni!",Nokantake tee aisati obaja ashi otsipaniki.,2
+"Aisati narori kameetsa nokantaka, ¡aisati oka irootake maaroni!","Nokantantakari jee, nokantake nabakayempa ora kitaiteriki.",1
+Apaniro notimake nameyeti nobetsikajero.,Nokematsatakero kameetsa intantanakarori.,2
+Apaniro notimake nameyeti nobetsikajero.,Nokoy nokematsaterome jaoka ikenakeri kireki.,1
+Apaniro notimake nameyeti nobetsikajero.,Nantanabetakaro nokematsatero.,0
+"Aisati, nokemake,yantajeitake tee ikibantajeriji ishaninkapee ikoajeibeta ipeajea kitamarori.",Ikanta ikibantiri maaroni kitairipeeki.,2
+"Aisati, nokemake,yantajeitake tee ikibantajeriji ishaninkapee ikoajeibeta ipeajea kitamarori.",Tee ikibantanajeri ishaninka.,0
+"Aisati, nokemake,yantajeitake tee ikibantajeriji ishaninkapee ikoajeibeta ipeajea kitamarori.",Ipeakotanakari ikibanteri ishaninka intantanakarori manintantsipee.,1
+"Aisati shaotsi okenketsati kenketsarentsi okanatakotiro irento jeri ojime ijatantajari otsipaki nampitsi, Augusta okante naro kitamarori.",Ora irento shaotsi okitamarotini aisati osabikaji Texas.,2
+"Aisati shaotsi okenketsati kenketsarentsi okanatakotiro irento jeri ojime ijatantajari otsipaki nampitsi, Augusta okante naro kitamarori.",Ora irento shaotsi kaari kitamarori.,0
+"Aisati shaotsi okenketsati kenketsarentsi okanatakotiro irento jeri ojime ijatantajari otsipaki nampitsi, Augusta okante naro kitamarori.","Ora irento shaotsi kaari kitamarori, okoabeta openpa ojatantearime obametatsipankoki.",1
+"Iro, piyotake, iritake, osheki okantakotiripee, kempe itomi ashitarori aparo pankirentsi jampakia iritake itomi yoka shirampari otimimotirini osheki timimotiriripee.",Iriri tekatsi katsini timimoterine isabikantarini.,2
+"Iro, piyotake, iritake, osheki okantakotiripee, kempe itomi ashitarori aparo pankirentsi jampakia iritake itomi yoka shirampari otimimotirini osheki timimotiriripee.",Iriri iritake ashitarori 2000 tsirero kipatsi ipankiyetantari.,1
+"Iro, piyotake, iritake, osheki okantakotiripee, kempe itomi ashitarori aparo pankirentsi jampakia iritake itomi yoka shirampari otimimotirini osheki timimotiriripee.",Iriri iritake ashitarori osheki timimotiriripee.,0
+Irokantaincha nantabetita nobayetiro ipariyetantari jero kitsarentsi aneantatsiri nokijayetiro aisati naayetiro otipapeeki nayetantsi.,"Tee ontimeni nantabere, nokempoyatajiro timatsiri pankotsiki.",2
+Irokantaincha nantabetita nobayetiro ipariyetantari jero kitsarentsi aneantatsiri nokijayetiro aisati naayetiro otipapeeki nayetantsi.,Notiankakero timatsiripee Japon.,1
+Irokantaincha nantabetita nobayetiro ipariyetantari jero kitsarentsi aneantatsiri nokijayetiro aisati naayetiro otipapeeki nayetantsi.,Notiankakero.,0
+"Jeempa jaokaki, mmm..., notsaroanake.",Nantakero kameetsa noshitikakero.,1
+"Jeempa jaokaki, mmm..., notsaroanake.",Jee keariosanotake jaoka okantari otsompantanakari.,2
+"Jeempa jaokaki, mmm..., notsaroanake.",Oka irootake okantakotiri abakerori.,0

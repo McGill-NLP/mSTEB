@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Naye akasema, Mama, niko nyumbani.",Alimwita mama yake mara tu basi ya shule ilipomshukisha.,1
+"Naye akasema, Mama, niko nyumbani.",Hakusema chochote.,2
+"Naye akasema, Mama, niko nyumbani.",Alimwambia mama yake alikuwa amefika nyumbani.,0
+"Oh ulikuwa mto wa nyoka,yenye nyoka mingi sana.","Licha ya jina lake, Mto wa nyoka, hakuna nyoka kwenye mto huo. Unaitwa hivyo kwa ajili ya muundo wake wa S.",2
+"Oh ulikuwa mto wa nyoka,yenye nyoka mingi sana.",Mto wa nyoka una kasa wengi wenye hasira,1
+"Oh ulikuwa mto wa nyoka,yenye nyoka mingi sana.",Snake River imejaa nyoka.,0
+Vipengele hivi vya juu vya utaratibu wa vifaa vya molekuli hutokea kwa sababu uteuzi wa asili una uwezo wa kutenda juu ya mali ya pamoja ya molekuli wakati mali hizo za pamoja zinaongeza uwezo wa kubadili.,Vifaa masi vyote ni tata.,2
+Vipengele hivi vya juu vya utaratibu wa vifaa vya molekuli hutokea kwa sababu uteuzi wa asili una uwezo wa kutenda juu ya mali ya pamoja ya molekuli wakati mali hizo za pamoja zinaongeza uwezo wa kubadili.,Ugumu wa chombo cha masi kubwa unaweza inuka kwa mazingira tofauti.,0
+Vipengele hivi vya juu vya utaratibu wa vifaa vya molekuli hutokea kwa sababu uteuzi wa asili una uwezo wa kutenda juu ya mali ya pamoja ya molekuli wakati mali hizo za pamoja zinaongeza uwezo wa kubadili.,Hivi vifaa vya kimolekuli hasa hutumiwa kutoa sumu za ulinzi.,1
+Aligeuka kumuomba mungu Julian.,Alitaka kumuuliza bwana Julian jambo.,0
+Aligeuka kumuomba mungu Julian.,Alitaka kumuuliza Bwana Julian amsamehe mke wake.,1
+Aligeuka kumuomba mungu Julian.,Lord Julian hakuwa anaonekana popote.,2
+"Baada ya kuangalia makusanyo hayo, panda kilima hadi kwa nyumba ya kamishna , ambapo utapata mtazamo mzuri wa yanayozingira pwani na yale mengine ya tata ya Dockyard.",waweza kuona meli ukiwa juu mlimani,1
+"Baada ya kuangalia makusanyo hayo, panda kilima hadi kwa nyumba ya kamishna , ambapo utapata mtazamo mzuri wa yanayozingira pwani na yale mengine ya tata ya Dockyard.",Unaweza kuona mandhari ya ukingo wa bahari juu ya mlima.,0
+"Baada ya kuangalia makusanyo hayo, panda kilima hadi kwa nyumba ya kamishna , ambapo utapata mtazamo mzuri wa yanayozingira pwani na yale mengine ya tata ya Dockyard.",Huwezi kuona pwani kutoka juu ya kilima.,2
+Mifumo ya rasilimali za kibinadamu iliimarishwa na miundo mpya ya ushirika ilielezwa kwa haraka ili kuhakikisha msaada kwa msingi wa wateja uliokuwa mkubwa.,"Kwa kuunganisha mfumo wa wafanyikazi, mlango ulitengenezwa kwa sababu ya miundo mipya ya shirika.",1
+Mifumo ya rasilimali za kibinadamu iliimarishwa na miundo mpya ya ushirika ilielezwa kwa haraka ili kuhakikisha msaada kwa msingi wa wateja uliokuwa mkubwa.,Miundo ya kampuni iliundwa.,0
+Mifumo ya rasilimali za kibinadamu iliimarishwa na miundo mpya ya ushirika ilielezwa kwa haraka ili kuhakikisha msaada kwa msingi wa wateja uliokuwa mkubwa.,Mifumo ya rasilimali ya binadamu ilipanuliwa kupita kiwango chao cah awali.,2
+"Harakati ya Uislamu, iliyozaliwa karibu mwaka wa 1940, ni kizao cha dunia ya kisasa, iliyoathiriwa na dhana za Marxist-Leninist kuhusu shirika la mapinduzi.",Dhana za Marxist Leninist yaliingizwa katika harakati za Kiislamu.,0
+"Harakati ya Uislamu, iliyozaliwa karibu mwaka wa 1940, ni kizao cha dunia ya kisasa, iliyoathiriwa na dhana za Marxist-Leninist kuhusu shirika la mapinduzi.",Kundi ya Kiislamu iliazishwa karne ya Sita.,2
+"Harakati ya Uislamu, iliyozaliwa karibu mwaka wa 1940, ni kizao cha dunia ya kisasa, iliyoathiriwa na dhana za Marxist-Leninist kuhusu shirika la mapinduzi.",Harakati ya Kiislamu ilipatikana kiasili kama shirika la uhamasishaji wa jamii.,1
+Zawadi yako ni ya muhimu sana katika sherehe zetuza msimu wa 85.,Zawadi yoyote tunayopata sio muhimu kama yako.,1
+Zawadi yako ni ya muhimu sana katika sherehe zetuza msimu wa 85.,hatujali kuhusu zawadi yako ata kidogo,2
+Zawadi yako ni ya muhimu sana katika sherehe zetuza msimu wa 85.,Tumekuwa tukifanya hili kwa miaka zaidi ya80.,0
+Vifurushi vya kwanza vya habari vya newsweeklies' vyasema kwa wazazi wenye wasiwasi.,wazazi wenye wasiwasi ndio soko kubwa ya wanahabari kila wiki,0
+Vifurushi vya kwanza vya habari vya newsweeklies' vyasema kwa wazazi wenye wasiwasi.,Newsweeklies huunda vifurushi vya vifuniko vyao ili kukata rufaa kwa watoto wadogo au wazee.,2
+Vifurushi vya kwanza vya habari vya newsweeklies' vyasema kwa wazazi wenye wasiwasi.,"Kuna uwezekano mkubwa wa wazazi kutumia pesa kununua magari mapya, na hilo huyafanya kuwa sehemu yenye faida sana katika matangazo magazetini.",1
+Mbadala haipaswi kutumiwa badala ya mpangilio.,Sio sahihi kutumia mbadala kumaanisha badilisha.,0
+Mbadala haipaswi kutumiwa badala ya mpangilio.,Inaruhusiwa kuchukua nafasi mbadala ya mbadala.,2
+Mbadala haipaswi kutumiwa badala ya mpangilio.,Watu wengi hawajui jinsi ya kutumia vizuri maneno ''alternative'' na ''alternate.'',1

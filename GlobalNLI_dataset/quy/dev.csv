@@ -1,0 +1,31 @@
+premise,hypothesis,label
+Hinaptinmi pay nirqa: Mamay wasipim kachkani.,Mamanta qayamurqa iskuyla karru saqiykuchkaptin.,1
+Hinaptinmi pay nirqa: Mamay wasipim kachkani.,Payqa manam imatapas nirqachu,2
+Hinaptinmi pay nirqa: Mamay wasipim kachkani.,Wasinman chayasqanmanta mananta willarqa.,0
+"Mana imapaq risqantapas ni imatapas yacharqachu, hinaspa Washingtonpi kaqta nisqanku kanchapi willanan karqa.","Manam haykapipas Washingtonpiqa karqanichu, chaymi mayman riynay niykuwantinku maskaspa chinkakurqani.",1
+"Mana imapaq risqantapas ni imatapas yacharqachu, hinaspa Washingtonpi kaqta nisqanku kanchapi willanan karqa.",Manam imaptapas yacharqanichu Washintonman rispa ruranayta.,2
+"Mana imapaq risqantapas ni imatapas yacharqachu, hinaspa Washingtonpi kaqta nisqanku kanchapi willanan karqa.","Manam ancha imapas ruranaytaqa yacharqanichu, chayqa Washingtonta rirqani, chaypim willakuyta quykuwan",0
+Payqa manam riyta atirqachu.,Paymi ñawpaqtaqa qayasqa karqa hinaspam kusikurqa.,2
+Payqa manam riyta atirqachu.,Manam paytaqa yaykuchiqarkuchu.,0
+Payqa manam riyta atirqachu.,Manam mueso kichanintaqa paytaqa yakuchiqarnkuchu.,1
+"Allintaq kachkarqani, ¡chayllam!",Arí nirusqaymanta tukururqa.,0
+"Allintaq kachkarqani, ¡chayllam!","Chaymi ñuqa allin kachkarqani, ¡chayllam imapas karqa!",2
+"Allintaq kachkarqani, ¡chayllam!",Arí niptiy punchawlla kasanakyku kanan karqa.,1
+Chayllapim allichayta munapayachkarqani.,Qallariyninmanta allinta yachaparurqani.,2
+Chayllapim allichayta munapayachkarqani.,Mayman qullqi rirusqanta yachayta munarqani.,1
+Chayllapim allichayta munapayachkarqani.,Yachaytam munapayarqani.,0
+"Hinaspa, yaw, ayllunta watukurqakuñachu yuraq niraq kayta manasqankurayku.",Sapa punchawmi watumurqakuraq.,2
+"Hinaspa, yaw, ayllunta watukurqakuñachu yuraq niraq kayta manasqankurayku.",Manañam ayllunta watumuqkuñachu.,0
+"Hinaspa, yaw, ayllunta watukurqakuñachu yuraq niraq kayta manasqankurayku.",Tensiones raciales nisqa qallarisqanmantam manaña ayllunta watukurqankñachu.,1
+"payaytaqmi willaq ñawpata karqa imaynatam ñañan hinataq yanan huklaw hatun llaqtaman imaynata ripusqankuta, Augusta yuraq hinaña riqsichikusqankuta.",Payachapa ñañanqa yuraq kasqa hinaspa Texasman ripukusqa.,2
+"payaytaqmi willaq ñawpata karqa imaynatam ñañan hinataq yanan huklaw hatun llaqtaman imaynata ripusqankuta, Augusta yuraq hinaña riqsichikusqankuta.",Payapa ñañanñataq mana yuraqchu kasqa.,0
+"payaytaqmi willaq ñawpata karqa imaynatam ñañan hinataq yanan huklaw hatun llaqtaman imaynata ripusqankuta, Augusta yuraq hinaña riqsichikusqankuta.","Payapa ñañanñataqmi mana yuraqchu karqa, iyachay wasiman rinanpaq yuraq kayta munasqataq.",1
+"Yachankiñataq, payqa karqa, llapan niraqpipas, platancionniyoq rumana churin hina kara achka chakrayuq runapa churin kaspa.",Taytanqa haykaqpas imanpas lliw kawsasqanpi mana imayuq kasqa,2
+"Yachankiñataq, payqa karqa, llapan niraqpipas, platancionniyoq rumana churin hina kara achka chakrayuq runapa churin kaspa.",Taytanqa iskay waranqa acre nisqa sayay chakrayuq kasqa.,1
+"Yachankiñataq, payqa karqa, llapan niraqpipas, platancionniyoq rumana churin hina kara achka chakrayuq runapa churin kaspa.",Taytanqa achka chakrayuq karqa.,0
+"Paracaídas, chalecos salvavidastapas qispichiypiwan huklaw muyuman despegar nisqapi llamkayniyqa karqa.","Manam llamkarqanichu, chaymi wasipi llapan cajata waqaycharqani.",2
+"Paracaídas, chalecos salvavidastapas qispichiypiwan huklaw muyuman despegar nisqapi llamkayniyqa karqa.",Japónman Cajakunata apachirqani.,1
+"Paracaídas, chalecos salvavidastapas qispichiypiwan huklaw muyuman despegar nisqapi llamkayniyqa karqa.",Apachirqani.,0
+"Chaynama yaqapas, mmm... kusa tipisqa karqani.",Allinta tiqusqa hebilla kananta munarqani.,1
+"Chaynama yaqapas, mmm... kusa tipisqa karqani.",Chaynatamá kanpas tiqusqata kachaykuwarqaku.,2
+"Chaynama yaqapas, mmm... kusa tipisqa karqani.",Chaynama ancha sumaq tiqusqapas kachkarqa.,0

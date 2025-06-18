@@ -1,0 +1,1385 @@
+premise,hypothesis,gpt_reply
+"Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.",Kèq ye' ùtẽnẽ ie' tã páxlĩ.,"neutral
+"
+"Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.",Sulû ye' ulùnãwã e' wa tã ye' ujtémĩnẽ ie' tã páxlĩ.,"neutral
+"
+"Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.",Sa' káxpake tãîx.,"neutral
+"
+"Ye' éxn tö irir íyi bua' ése, tã irir ĩã, ye' e'köl èq dör 922 Ex ö tso' ĩa wéx ye' yóqrke e' kéx ã AFFC Fuerza káx shùxã e' ã.",Kèq ye' éxn ã ĩàxnẽ tö irir ye' e'köl èq káx áie e' ã dìwö wa tã.,"neutral
+"
+"Ye' éxn tö irir íyi bua' ése, tã irir ĩã, ye' e'köl èq dör 922 Ex ö tso' ĩa wéx ye' yóqrke e' kéx ã AFFC Fuerza káx shùxã e' ã.",Ye' i klòqwẽ tö irir ye' e'köl èq shtâwõ káx áie i' ã AFFC Air Force Career.,"neutral
+"
+"Ye' éxn tö irir íyi bua' ése, tã irir ĩã, ye' e'köl èq dör 922 Ex ö tso' ĩa wéx ye' yóqrke e' kéx ã AFFC Fuerza káx shùxã e' ã.","Ulìtãnẽ ã i shtâwõ étkèq yêqsyêqs ãmèxnã, kèq dör tö ì yéq irir tö i ãméxrke se' ã e' wà irir, séxjka irir káxche.","neutral
+"
+Ye' ã i yéqdak irir tö... e'köl se' dör ye' ichàkèke batà ie tã ãñìx sãwóx ie.,Kèq yì wã ye' ã i yèqnẽ tö yì sãwèxke sö.,"neutral
+"
+Ye' ã i yéqdak irir tö... e'köl se' dör ye' ichàkèke batà ie tã ãñìx sãwóx ie.,Ye' ã i yéqdak irir tö e'köl se' dör ichàkèke ye' sãwóx ie.,"entailment
+"
+Ye' ã i yéqdak irir tö... e'köl se' dör ye' ichàkèke batà ie tã ãñìx sãwóx ie.,Pë' e' dé bërërpa tsáxlĩ.,"neutral
+"
+"Tãîx íyi tso' e' yéqrmĩ íyi i' kĩ, tö bêqrë tö ye' túxrkeka e' tsáxka.",Ye' éxn ã íyi i' pàkak séxjka be' ã!,"neutral
+"
+"Tãîx íyi tso' e' yéqrmĩ íyi i' kĩ, tö bêqrë tö ye' túxrkeka e' tsáxka.","Aû kèq íyi i' chèkũ yö, erë tã tãîx i kiànã pàbake.","neutral
+
+
+
+"
+"Tãîx íyi tso' e' yéqrmĩ íyi i' kĩ, tö bêqrë tö ye' túxrkeka e' tsáxka.",Aû kèq yö ì chèkũ ciudad káxpake i' kĩ e' wâ dör tö tãîx íyi tso' ĩã yéqnõ.,"neutral
+"
+"E' dör i bua' ichóqkle, tsáxtkakak sa' éxn ã, tö kèq wèxs i tã bomba hidrógena úxyanũkmĩ dòqka 30, e't C124.",Aû kèq sa' wã ì balèqnẽ yéqs.,"neutral
+"
+"E' dör i bua' ichóqkle, tsáxtkakak sa' éxn ã, tö kèq wèxs i tã bomba hidrógena úxyanũkmĩ dòqka 30, e't C124.",Sa' kĩ ét íyi kiànã tsáxtke i mãléxpa yòqki bua' ie.,"neutral
+"
+"E' dör i bua' ichóqkle, tsáxtkakak sa' éxn ã, tö kèq wèxs i tã bomba hidrógena úxyanũkmĩ dòqka 30, e't C124.",Sa' kĩ bomba kiànã tsáxtke H e' wà dör tö darêqrêq i ñâxkè dör.,"neutral
+"
+E' wa tö kèq ye' éxn ã ĩàxnẽ bua' ie tö ì kũẽkĩ.,Yö i klôwẽ yêqsyêqs tö ì kũẽkĩ irir.,"neutral
+"
+E' wa tö kèq ye' éxn ã ĩàxnẽ bua' ie tö ì kũẽkĩ.,Aû kèq ye' éxn ã ĩàxnẽ tö ì kũẽkĩ ie' dör escuela méxtsã.,"neutral
+"
+E' wa tö kèq ye' éxn ã ĩàxnẽ bua' ie tö ì kũẽkĩ.,Aû kèq ye' éxn ã ĩàxnẽ tö ì kũẽkĩ i wamblèqnã.,"neutral
+"
+"I tso'rö Fannie Floro. I talànã Ag- Augusta, GA, tã i mĩke ujtóqk mĩk ĩàx alátsitsi tã káxpake wéx alê dör.",Fannie Floro káxwöta i ujtè mũkatnẽ tã kèq ie' ã káxpake pàkanũk îxñẽ yéqs.,"neutral
+"
+"I tso'rö Fannie Floro. I talànã Ag- Augusta, GA, tã i mĩke ujtóqk mĩk ĩàx alátsitsi tã káxpake wéx alê dör.",Fannie Floro tso'rö íxẽ tã ie' káxpake pàkerâ se' ã tö wèxs ie' bak alátsitsi tã i talànẽ Augusta GA ã.,"entailment
+
+
+
+**explanation:**
+
+both the premise and the hypothesis are about fannie floro and her connection to augusta, ga, and being a baker. the premise states fannie floro *is* someone, and details her location and occupation (""káxpake wéx alê dör"" - she works as a baker). the hypothesis essentially *restates* this information, but with slightly different phrasing and emphasis. 
+
+the hypothesis doesn't add any new information that *isn't* already implied in the premise. it's a re-expression of the premise's content. therefore, the premise logically entails the hypothesis. note that “tso’rö” is a general identifier and doesn’t necessarily mean “is” in the english sense, but it establishes a relationship being described."
+"I tso'rö Fannie Floro. I talànã Ag- Augusta, GA, tã i mĩke ujtóqk mĩk ĩàx alátsitsi tã káxpake wéx alê dör.",Fannie Floro ujté îxñẽ erë ie' kĩ íyi ujté tso' tãîx súxnõ.,"neutral
+"
+Tã irir skéxl i wé U2 ése yéulur.,Ye' út U2 tã.,"entailment
+"
+Tã irir skéxl i wé U2 ése yéulur.,Aû kèq ye' wòqtkèqnẽ U2 tã yéqska.,"neutral
+"
+Tã irir skéxl i wé U2 ése yéulur.,I wé tã ye' kãnèxblë' U2 e' ã kéxkkrâë dòqka dawás dabòp tkéql.,"neutral
+"
+Ye' dör e'köl èq e' dör tö mĩk alê tã i mâxwõ kũẽkĩ ri wòqóqknãmẽpa klòqwèxkewã cámara tsîr ése wa káxjkêx tã.,Aû kèq ye' kĩ i ãmèxnẽ tö ye' e'köl èq dör i wòqóqknãmẽpa klòqwẽkewã i mâxwẽ kũẽkĩ.,"entailment
+"
+Ye' dör e'köl èq e' dör tö mĩk alê tã i mâxwõ kũẽkĩ ri wòqóqknãmẽpa klòqwèxkewã cámara tsîr ése wa káxjkêx tã.,I mâxwõ yòqnã cámara tsîr káxjkêx ése kĩ.,"entailment
+"
+Ye' dör e'köl èq e' dör tö mĩk alê tã i mâxwõ kũẽkĩ ri wòqóqknãmẽpa klòqwèxkewã cámara tsîr ése wa káxjkêx tã.,Se' tso' íse alê e' dör i wòqóqknãmẽpa e' wóqstsẽ i mâxwõ.,"neutral
+"
+"Yö, i', sargento i wóqkir i yawóqkbla, jubilado, wèxs Rick dör i yéq e's.",I' tã ye' tso' ĩã kãnèxbalök káxwö i' ã.,"neutral
+"
+"Yö, i', sargento i wóqkir i yawóqkbla, jubilado, wèxs Rick dör i yéq e's.",Ye' ẽ' yéqtsã 2002.,"neutral
+"
+"Yö, i', sargento i wóqkir i yawóqkbla, jubilado, wèxs Rick dör i yéq e's.",Rick dör be' ã iche tö ye' yèqnẽtsa bak.,"neutral
+"
+"I ujté tso' wèxs alê, caja flujo wa tã, e' dör ñẽ' ët e'köl ët Cutty, cliente ajkà kĩ.",Cliente kie Cutty e' ẽ' alòqke $10000 si' wa.,"neutral
+"
+"I ujté tso' wèxs alê, caja flujo wa tã, e' dör ñẽ' ët e'köl ët Cutty, cliente ajkà kĩ.",Cliente tso' e'köl kie Cutty.,"entailment
+"
+"I ujté tso' wèxs alê, caja flujo wa tã, e' dör ñẽ' ët e'köl ët Cutty, cliente ajkà kĩ.",Aû kèq sa' wã cliente tso' kie Cutty.,"entailment
+"
+Bùsi wéx dör ye' kíxmèxmĩ e' tso'rö ciudad batà ã.,Bùsi wéx kiànã ye' kĩ ẽ' kĩmõ e' séxrke káxmîxë.,"neutral
+"
+Bùsi wéx dör ye' kíxmèxmĩ e' tso'rö ciudad batà ã.,Tàyëla wéx dör ye' kĩmèxke e' tso' 5 millas i ulát wa.,"neutral
+"
+Bùsi wéx dör ye' kíxmèxmĩ e' tso'rö ciudad batà ã.,Aû kèq yì kũ ã ye' kíxméxrmĩ.,"neutral
+"
+"Erë tã ie'pa tso' balàtërule tö wéxëltë dör káx áie uléi tã yì dör ù ã alátsitsipa, irir íyi wèxs...",Sulìtãnẽ dör iche bua' irir tö séxjka se' kãnèxblö káx áie ã.,"neutral
+"
+"Erë tã ie'pa tso' balàtërule tö wéxëltë dör káx áie uléi tã yì dör ù ã alátsitsipa, irir íyi wèxs...",Aû kèq ie'pa dòqka ujtè wa ãñíxjkêqë tö yì éqltë ulà dör káx áie tã íxsie éqt dör ù icha.,"neutral
+"
+"Erë tã ie'pa tso' balàtërule tö wéxëltë dör káx áie uléi tã yì dör ù ã alátsitsipa, irir íyi wèxs...",Aû kèq ie'pa dòqka ujtè wa tö yì tã i kãnèxblòqmĩ káx sawíyök áie ã tã yì dör káx ajkue bièmĩ.,"neutral
+"
+"Îxñẽ se' tã i ujtè chèke irir e' dör Mãñáxltë SS, U2 e' icha Quick ẽnã Blackbird.",Ie' kèq ẽ' yèqnẽ ĩã ujtóqk yéqs.,"neutral
+"
+"Îxñẽ se' tã i ujtè chèke irir e' dör Mãñáxltë SS, U2 e' icha Quick ẽnã Blackbird.",Ie' ujtòqke submarino mãñáxtöm ikũãki.,"neutral
+"
+"Îxñẽ se' tã i ujtè chèke irir e' dör Mãñáxltë SS, U2 e' icha Quick ẽnã Blackbird.",Ie' ujtòqke íyi mãñáxt ése.,"neutral
+"
+"Ye' éxn ã ichàkũ tö ie'pa wã i tã' e' dör, wèxs íyi e's, alà skéxl, ie'pa e'köl e' du'wã.",Ie' alà séxjka e' bakshka ĩã.,"neutral
+"
+"Ye' éxn ã ichàkũ tö ie'pa wã i tã' e' dör, wèxs íyi e's, alà skéxl, ie'pa e'köl e' du'wã.",Alárlar skéxl e'köl du'wã.,"entailment
+"
+"Ye' éxn ã ichàkũ tö ie'pa wã i tã' e' dör, wèxs íyi e's, alà skéxl, ie'pa e'köl e' du'wã.",Alà wéx du'wã e' kùxnẽ wake' dawè ie.,"neutral
+"
+"Tã, wake', Androv Gromikov kèq wã ì ĩùxtèqnẽ yéqs, erë tã sa' wã película ujté tso' séxjka yö'tso U2 e' wã.",U2 dör película klòqõ tãîxë.,"entailment
+"
+"Tã, wake', Androv Gromikov kèq wã ì ĩùxtèqnẽ yéqs, erë tã sa' wã película ujté tso' séxjka yö'tso U2 e' wã.",U2 dör película klòqõ tonelada ét di' dikîxã.,"neutral
+"
+"Tã, wake', Androv Gromikov kèq wã ì ĩùxtèqnẽ yéqs, erë tã sa' wã película ujté tso' séxjka yö'tso U2 e' wã.",Aû kèq sa' wã i ujté kũ archivo ã e' kũẽkĩ tã sa' káxwöta i bikeitsök.,"neutral
+"
+"Iché irir tö ye' wòqbla diòq yéqrlurmĩ, tã ukòqki iche irir tö Joe míxã tkòqrö porche.","Mĩk ĩã iche irir tö be' shkóqka porche kĩ, tã i wòqbla diòq yéqrlunã.","neutral
+"
+"Iché irir tö ye' wòqbla diòq yéqrlurmĩ, tã ukòqki iche irir tö Joe míxã tkòqrö porche.",Ie' wòqbla diòq pàiklelor irir bét ukòqki Joe kéũ irir porche pámĩk.,"neutral
+"
+"Iché irir tö ye' wòqbla diòq yéqrlurmĩ, tã ukòqki iche irir tö Joe míxã tkòqrö porche.",I tsë'nã èxë míxk Joe ĩéxmĩ e' tã.,"neutral
+"
+"Wóqsũk aeronave wòqbutsaka bö' wòqrkue ie, ì kũẽkĩ i ñáxrwamĩ tã i diárwãmĩ tã i wã plomo tak tso' àxs e' ã dìba aló tkòqmĩ.",Dìba aló e' ãñìxes e' ã i wòqklörmĩ míxk i wòqbutsaka e' tã.,"neutral
+"
+"Wóqsũk aeronave wòqbutsaka bö' wòqrkue ie, ì kũẽkĩ i ñáxrwamĩ tã i diárwãmĩ tã i wã plomo tak tso' àxs e' ã dìba aló tkòqmĩ.",Dìba aló e' tkòqmĩ ĩã wéx bua' ie irir e' ã mĩk ábion ñâxnãwa e' ukòqki.,"neutral
+"
+"Wóqsũk aeronave wòqbutsaka bö' wòqrkue ie, ì kũẽkĩ i ñáxrwamĩ tã i diárwãmĩ tã i wã plomo tak tso' àxs e' ã dìba aló tkòqmĩ.",Dìba aló e' kèq tkòqpamĩ mĩk i wòqbutsãka e' tã.,"entailment
+"
+"I' dör sargento i wóqkir i yawóqkbla Clen Francis, jubilado i Diché káxshùxã estadounidenses icha.",Iwóqkir yèqnẽtsa bak i Diché káxshùxã Estados Unidos e' icha.,"entailment
+"
+"I' dör sargento i wóqkir i yawóqkbla Clen Francis, jubilado i Diché káxshùxã estadounidenses icha.",I wóqkir yèqnẽtsã ñîxköl kĩka semana ét tso'.,"neutral
+"
+"I' dör sargento i wóqkir i yawóqkbla Clen Francis, jubilado i Diché káxshùxã estadounidenses icha.",I wóqkir i Diché Káxshùxã Estados Unidos icha ñîxköl e' dör i wóqulârke e' sãwẽmĩ semana i' wa.,"entailment
+"
+"Éqwe, i déka dòqka mĩk tö ábion tso' dòqka bòqtöm ö mãñáxtöm dòqke semana ét e' ã tã kèq i éxn ã ĩàxnẽ tö wéx èq e' úxrke.",Ábion e'töm tsáxka i dòqke semana bít e' ã.,"neutral
+"
+"Éqwe, i déka dòqka mĩk tö ábion tso' dòqka bòqtöm ö mãñáxtöm dòqke semana ét e' ã tã kèq i éxn ã ĩàxnẽ tö wéx èq e' úxrke.",Ábion ètkö e' talár èq darêqrêq ë.,"neutral
+"
+"Éqwe, i déka dòqka mĩk tö ábion tso' dòqka bòqtöm ö mãñáxtöm dòqke semana ét e' ã tã kèq i éxn ã ĩàxnẽ tö wéx èq e' úxrke.",Yéqs ábion kèq dë e'töm.,"entailment
+"
+Ie'pa wã i ujchẽnã tö i wã entrenamiento tã' pàio pàyörule tã ye' ã káxwö yéqtsã irir élke pàio payóqrule ése ióqkka.,Ichòqkewa si' mãñáxt entrenamiento e' ẽ'ũkwa pàio dör se' pà skéwa ése wa.,"neutral
+"
+Ie'pa wã i ujchẽnã tö i wã entrenamiento tã' pàio pàyörule tã ye' ã káxwö yéqtsã irir élke pàio payóqrule ése ióqkka.,Entrenamiento pàio ése ióka e' kĩ tãîx káxwö kiànã.,"neutral
+"
+Ie'pa wã i ujchẽnã tö i wã entrenamiento tã' pàio pàyörule tã ye' ã káxwö yéqtsã irir élke pàio payóqrule ése ióqkka.,Sa' dör wânãmã be' ã entrenamiento yawèmĩ pàio se' pà skéxwã ie ése ióqkka séxjka dìwö batà ã tã.,"neutral
+"
+"Ye' éxn ã ichàkũ tö kèq ì sãwîxar ése tã shkówã bomba wóqs e' wâ dör tö kèq i tsikìrpawã, i wak èqmẽ tã darêqrêq i tèqnã íyök kĩ.",Bomba wòqitwa piloto dör.,"neutral
+"
+"Ye' éxn ã ichàkũ tö kèq ì sãwîxar ése tã shkówã bomba wóqs e' wâ dör tö kèq i tsikìrpawã, i wak èqmẽ tã darêqrêq i tèqnã íyök kĩ.",Bomba kèq ã káxwö àxnẽ tsikìnũkwã.,"neutral
+"
+"Ye' éxn ã ichàkũ tö kèq ì sãwîxar ése tã shkówã bomba wóqs e' wâ dör tö kèq i tsikìrpawã, i wak èqmẽ tã darêqrêq i tèqnã íyök kĩ.",Sãwîx tãîx tso' tö bomba tsikírwã.,"entailment
+"
+Tã dòq i dòqtsa yêqsyêqs tö ì kiànã ye' kĩ yawè.,Aû kèq ye' éxn ã ĩàxnã tö wèxs be' wòqã i' wèqnã.,"neutral
+"
+Tã dòq i dòqtsa yêqsyêqs tö ì kiànã ye' kĩ yawè.,"Éwa tã irir, ye' i mâxũk yawèka.","neutral
+"
+Tã dòq i dòqtsa yêqsyêqs tö ì kiànã ye' kĩ yawè.,Ye' tso' kãnèx mâxũk èxwẽwa semana ièqt wa.,"neutral
+"
+"Erë e' sùx, íyiwak chòqwamĩ kéxkkrâë, i bua' ie dör sawèq.",Sawèq tkòqkeyal kéxkkrâë.,"entailment
+"
+"Erë e' sùx, íyiwak chòqwamĩ kéxkkrâë, i bua' ie dör sawèq.",Sewèq tkáyal shkòqèqmẽ.,"neutral
+"
+"Erë e' sùx, íyiwak chòqwamĩ kéxkkrâë, i bua' ie dör sawèq.",Sawèq tkòqkeyal yêqsyêqs ẽnã séxn wa.,"neutral
+"
+"Mĩka sa' i kúxwã, tã újkö wòqtëtulur.",Újkö séxjka ajkòq tulúr áie.,"neutral
+"
+"Mĩka sa' i kúxwã, tã újkö wòqtëtulur.",Sa' wã yàbë tã sa' wak wã.,"neutral
+"
+"Mĩka sa' i kúxwã, tã újkö wòqtëtulur.",Sa' i kũẽ eréq újkö tulúr wòqtërule.,"entailment
+"
+E' wa tã i káxwöta kèka séxjka e' dör tã i mâxũk ẽnã i shúxlóqknẽ e's.,Yö iklòqwẽ tö séxjka kiànã ye' kĩ e' wa yö íyi i' shúxlèmĩ.,"neutral
+"
+E' wa tã i káxwöta kèka séxjka e' dör tã i mâxũk ẽnã i shúxlóqknẽ e's.,Aû kèq ye' éxn ã i wà àxnẽ dâãie tö wèxs yö séxjka wà wèxke.,"neutral
+"
+E' wa tã i káxwöta kèka séxjka e' dör tã i mâxũk ẽnã i shúxlóqknẽ e's.,Séxjka wa yö i yawèke wòqitẽ e' wa.,"neutral
+"
+"Ie' dé, dör újkö pée tã ye' éxn ã ĩàxnã sãwèxne tsíxjkẽn i wébalöknẽ i wòq kĩ, tã i súx yö tö i chkénãwã.",Ye' tsë'nãka bua'ë ẽnã wë'ĩàx ë èx wa e' wa dör wòqshàx tã újkö ajkòq shki e' pé irir.,"neutral
+"
+"Ie' dé, dör újkö pée tã ye' éxn ã ĩàxnã sãwèxne tsíxjkẽn i wébalöknẽ i wòq kĩ, tã i súx yö tö i chkénãwã.","Yö i mâxwẽ tö múx kèq se' klör i wambalökpa ie, erë sa' éxn ã ĩàxnã tö sa' dör i kĩ i wòqtkeka.","neutral
+"
+"Ie' dé, dör újkö pée tã ye' éxn ã ĩàxnã sãwèxne tsíxjkẽn i wébalöknẽ i wòq kĩ, tã i súx yö tö i chkénãwã.",I wéble mĩk i détsa újkö ã e' èq wa tö yö i sãwéxwã tö i tso' chkèie.,"neutral
+"
+"E' wa, kèq ye' wã ì tã pàke wòqshàx.",Aû ye' wã dalì wé tã' i ulà wa.,"neutral
+"
+"E' wa, kèq ye' wã ì tã pàke wòqshàx.",Ye' wã dalì wé tã' ákchka ie.,"neutral
+"
+"E' wa, kèq ye' wã ì tã pàke wòqshàx.",Tãîx dalì wé tso'.,"neutral
+"
+Tã ie' kèq wã ì yòqnẽ yéqs i wak èq wa.,Ie' ulà ã tãîx kíxmẽ dòqke.,"neutral
+"
+Tã ie' kèq wã ì yòqnẽ yéqs i wak èq wa.,Ie' ulà ã kíxmẽ dòqke i chkòq wa ẽnã i datsi' wa.,"neutral
+"
+Tã ie' kèq wã ì yòqnẽ yéqs i wak èq wa.,Ie' dör i wak èqmẽ.,"neutral
+"
+"E' wa tã yö i bikeits, Sibòq ye' ã, tã Ramona tso'rö ẽ' dör.",Ramona baktër íxski wòqshkinãwã ie wèxs alà yóqrke êskapë.,"neutral
+"
+"E' wa tã yö i bikeits, Sibòq ye' ã, tã Ramona tso'rö ẽ' dör.",Ramona tso' mẽ' ie ye' ajkátök.,"neutral
+"
+"E' wa tã yö i bikeits, Sibòq ye' ã, tã Ramona tso'rö ẽ' dör.",Ramona wéqrki dakírkî e' daléwa ye' wéqrke ẽ' dör ajkòq shùx bùkule.,"neutral
+"
+Tã móxki yêqsyêqs irir!,"Tãîx chkòq ñéx irir, erë kèq ĩẽ'ts wòqsìnẽkã.","neutral
+"
+Tã móxki yêqsyêqs irir!,Ie' kèq ẽ'ts dör tãîx.,"neutral
+"
+Tã móxki yêqsyêqs irir!,Ie' bak èxë.,"neutral
+"
+Aû kèq ye' éxn ã ĩàxnẽ tö ĩàxtẽ Augusta i' ukòqki.,Ie' sèxnẽ ĩã Augusta ichòq sö tö mĩk i yèqnẽka e' ukòqki.,"neutral
+"
+Aû kèq ye' éxn ã ĩàxnẽ tö ĩàxtẽ Augusta i' ukòqki.,Ie' sèxnẽ ĩã Augusta.,"entailment
+"
+Aû kèq ye' éxn ã ĩàxnẽ tö ĩàxtẽ Augusta i' ukòqki.,Ie' mìxnẽã Augusta tã bánẽt bétkanẽ.,"neutral
+"
+"Séxjka ì yö' sö... kèq yì wã se' ã i yèqnẽ tö wéx i mĩ'kerö, ãñìxes mĩk iẽ' yòqkelur i wé ã e' tã shkóqk káx wéx alê ã tã ẽ' ĩáxtke káxwö élke.",Kèq ye' wã yéqs ichàkine tö wéx a' mĩ'kerö.,"entailment
+"
+"Séxjka ì yö' sö... kèq yì wã se' ã i yèqnẽ tö wéx i mĩ'kerö, ãñìxes mĩk iẽ' yòqkelur i wé ã e' tã shkóqk káx wéx alê ã tã ẽ' ĩáxtke káxwö élke.",Kéxkkrâ ĩẽ' chòqke tö wéx i tso' ẽnã wéx i mĩ'kerak.,"neutral
+"
+"Séxjka ì yö' sö... kèq yì wã se' ã i yèqnẽ tö wéx i mĩ'kerö, ãñìxes mĩk iẽ' yòqkelur i wé ã e' tã shkóqk káx wéx alê ã tã ẽ' ĩáxtke káxwö élke.",Yéqs kèq irir iche tö wéx i mĩ'kerö.,"entailment
+"
+Ichérak irir: Sa' tso' káx pàtãũk àxs be' ẽ' tsùxãt.,Aû kèq a' dör ì pàtãwãr sa' kũẽkĩ.,"neutral
+"
+Ichérak irir: Sa' tso' káx pàtãũk àxs be' ẽ' tsùxãt.,I pàtóxrke ù kũẽkĩ ye' ã ẽnã ye' éqlpa kũẽkĩ.,"neutral
+"
+Ichérak irir: Sa' tso' káx pàtãũk àxs be' ẽ' tsùxãt.,I pàtóxrke ù kũẽkĩ.,"neutral
+"
+"Éqwe, buléñakkĩ, e' wa tã, presidente Kennedy, mm..., Cuba wòqtkë'ka ẽnã, mmm..., sa' bùke e' dör bàrkö Ruso klòqwẽwa wéx mĩchô Cuba tã banẽt tã irir misiles kúxwã.",Kennedy dör sa' tropa ã iche tö misiles yulóq.,"neutral
+"
+"Éqwe, buléñakkĩ, e' wa tã, presidente Kennedy, mm..., Cuba wòqtkë'ka ẽnã, mmm..., sa' bùke e' dör bàrkö Ruso klòqwẽwa wéx mĩchô Cuba tã banẽt tã irir misiles kúxwã.",Aû kèq ie'pa wã bàrkö wòqklòqnẽ yéqs e' wâ dör tö kèq ie'pa kĩ wòqtke kiànẽ.,"neutral
+"
+"Éqwe, buléñakkĩ, e' wa tã, presidente Kennedy, mm..., Cuba wòqtkë'ka ẽnã, mmm..., sa' bùke e' dör bàrkö Ruso klòqwẽwa wéx mĩchô Cuba tã banẽt tã irir misiles kúxwã.",I kũéx irir 20 misiles bàrkö ã.,"neutral
+"
+"I alê kũẽkĩ, wéqm tkòqmĩ.","Wéqm tkámĩ tribunal wéx ã,","neutral
+"
+"I alê kũẽkĩ, wéqm tkòqmĩ.",Wéqm tkámĩ ù ã.,"entailment
+"
+"I alê kũẽkĩ, wéqm tkòqmĩ.",Wéqm túxnẽmĩ iét ajkẽn.,"neutral
+"
+"Mmm..., ye' wôqkepa wake' bakdë kĩ se' daléqrwã ie, daléqr pôë mĩk alë tã ye' yéqpa tso' ĩã tã sa' dör bêqr i tkòqwẽke bua'ë diàẽ íxskĩ.",Ye' kĩ káxwö tká tãîx i wóqstsũk tkòqrö ye' wôqkepa ù ã.,"neutral
+"
+"Mmm..., ye' wôqkepa wake' bakdë kĩ se' daléqrwã ie, daléqr pôë mĩk alë tã ye' yéqpa tso' ĩã tã sa' dör bêqr i tkòqwẽke bua'ë diàẽ íxskĩ.",Ye' wôqkepa e' wòqet dör daléqr èqmẽ.,"neutral
+"
+"Mmm..., ye' wôqkepa wake' bakdë kĩ se' daléqrwã ie, daléqr pôë mĩk alë tã ye' yéqpa tso' ĩã tã sa' dör bêqr i tkòqwẽke bua'ë diàẽ íxskĩ.",Ye' wôqkepa wake' bakdë dör sulû tã kèq e' kũẽkĩ ye' wòqbatsẽ ie'pa sãk shkóqk.,"neutral
+"
+Aû kèq ye' ã káxwö àxnẽ íyi wèxs ì alê kòxs tkòqke e' sãũk.,Ye' dòqwãmĩ ĩèxũkwa wânãmã tã béqrërpa tsáxlĩ.,"neutral
+"
+Aû kèq ye' ã káxwö àxnẽ íyi wèxs ì alê kòxs tkòqke e' sãũk.,Yö iéwã káxwö wa tã éq e' kéxwa ĩã.,"neutral
+"
+Aû kèq ye' ã káxwö àxnẽ íyi wèxs ì alê kòxs tkòqke e' sãũk.,Ye' àxte kèq ã káxwö kùxnẽ ĩa dóqkwã kéxwe séxjka i tkòqũkmĩ.,"neutral
+"
+"Tã, ét ye' kãnèx e' kéxska e' tã ẽ' dör se' yawóqk àxs ie'pa dör paracaídas tulòqwã armas nucleares ése wòqtsakoka ie, wéx dör ĩẽ' bomba atómica bulâùxka.",Bomba atómica kèq wã i wòqtsakoka tã.,"entailment
+"
+"Tã, ét ye' kãnèx e' kéxska e' tã ẽ' dör se' yawóqk àxs ie'pa dör paracaídas tulòqwã armas nucleares ése wòqtsakoka ie, wéx dör ĩẽ' bomba atómica bulâùxka.",I bulâwõka e' dör mĩk bomba tèqnã i mĩk e' tã.,"entailment
+"
+"Tã, ét ye' kãnèx e' kéxska e' tã ẽ' dör se' yawóqk àxs ie'pa dör paracaídas tulòqwã armas nucleares ése wòqtsakoka ie, wéx dör ĩẽ' bomba atómica bulâùxka.",Be' kĩ diché kiànã tsîr bomba atómica wòqtsakoka mĩk i tèqnã mĩk e' tã.,"entailment
+"
+"Ye' wîxke shkòqke ye' ã káxpakök ikuãki mĩk be' kĩ dawás tso' alátsitsi e' kéxska e' tã, i bua' ie, i shkòqke i yàmĩpa pàkök ẽnã wèxs i bak sèxnũk e' kéxska tã.",Wake' ye' wîxke káxpake e' tsèke yö bua'ë.,"entailment
+
+
+
+**explanation:**
+
+let's break down the bribri to understand why:
+
+* **premise (roughly translated):** ""the old man said that the jaguar killed a deer in the forest, and because of that, the people don't go hunting in the forest anymore.  and the people say that the jaguar is powerful and dangerous in the forest.""
+* **hypothesis (roughly translated):** ""it is said that the jaguar kills deer in the forest.""
+
+the premise *explicitly states* the jaguar killed a deer (ã káxpakök ikuãki). the hypothesis simply states the jaguar *kills* deer. the premise provides a specific instance confirming the general statement in the hypothesis. therefore, the premise necessarily implies (entails) the hypothesis. it's a specific case proving the broader claim.
+
+
+
+"
+"Ye' wîxke shkòqke ye' ã káxpakök ikuãki mĩk be' kĩ dawás tso' alátsitsi e' kéxska e' tã, i bua' ie, i shkòqke i yàmĩpa pàkök ẽnã wèxs i bak sèxnũk e' kéxska tã.",Ye' wîxke wake' kèq ẽ' yèqnẽ mĩk ie' bak alátsitsi e' pàkök.,"neutral
+"
+"Ye' wîxke shkòqke ye' ã káxpakök ikuãki mĩk be' kĩ dawás tso' alátsitsi e' kéxska e' tã, i bua' ie, i shkòqke i yàmĩpa pàkök ẽnã wèxs i bak sèxnũk e' kéxska tã.",Ye' wîxke dör tãîx ye' ã ie' wak yàmĩ pàkèke mĩk ie' bak tsîr e' tã.,"neutral
+"
+"Sa' wã ẽ' apàio suktkër ése tso' séxjka ábion ã, wèxs astronauta wã i tso' e's, kèq dör wèxs sa' icha dör séxjka dör dalôqlôqë e's, dalôqlôqë, bòta ë séxjka, àxs káx bá dòqwã ĩa, e' wake' kũẽkĩ.",Sa' apàio kèq wë'nẽ wèxs astronauta wã i tso' êskapë yéqska.,"neutral
+"
+"Sa' wã ẽ' apàio suktkër ése tso' séxjka ábion ã, wèxs astronauta wã i tso' e's, kèq dör wèxs sa' icha dör séxjka dör dalôqlôqë e's, dalôqlôqë, bòta ë séxjka, àxs káx bá dòqwã ĩa, e' wake' kũẽkĩ.","Sa' apàio e' dör wèxs astronauta icha e' sùx, káx bá icha èq dör ikũãki, sa' icha dör dalôqlôqë.","entailment
+"
+"Sa' wã ẽ' apàio suktkër ése tso' séxjka ábion ã, wèxs astronauta wã i tso' e's, kèq dör wèxs sa' icha dör séxjka dör dalôqlôqë e's, dalôqlôqë, bòta ë séxjka, àxs káx bá dòqwã ĩa, e' wake' kũẽkĩ.",Be' ã apàio kúxrmĩ wèxs be' kĩ i wòqa kiànã e's.,"neutral
+"
+"Tã e's irir, ye' wôqke kèq bak wéqm bua'.",Ye' wôqke bak e'köl se' pulèq ie.,"neutral
+"
+"Tã e's irir, ye' wôqke kèq bak wéqm bua'.",Ye' wôqke bak móxki kéxsik ie ẽnã ẽ' wamblö sulûë.,"neutral
+"
+"Tã e's irir, ye' wôqke kèq bak wéqm bua'.",Ye' wôqke bak e'köl se' bua'ichóqk e' kũẽwãrâ wéxjkë alê be' dör!,"neutral
+"
+"Irir 30 ö 40 ábionpa U2, tã sa' dör chinos wakpa yawémĩ pilotos ie, ie'pa tã pilotos británicos, wòqshàx káx wâñẽ wéx sa' dör aliados éjkë.",Aû kèq sa' yòqnẽ yì tã.,"neutral
+"
+"Irir 30 ö 40 ábionpa U2, tã sa' dör chinos wakpa yawémĩ pilotos ie, ie'pa tã pilotos británicos, wòqshàx káx wâñẽ wéx sa' dör aliados éjkë.",Sa' ẽ' yawòqke 5 semana británicos wakpa tã.,"neutral
+"
+"Irir 30 ö 40 ábionpa U2, tã sa' dör chinos wakpa yawémĩ pilotos ie, ie'pa tã pilotos británicos, wòqshàx káx wâñẽ wéx sa' dör aliados éjkë.",Sa' ẽ' yawòqke tãîx soldados mãléxpa tã.,"neutral
+"
+"Éwa ta, iche irir Éqwë i yulóq, íyi i' yulóq empresa i' ã.",Ie' kèq ùtẽ ye' tã.,"neutral
+"
+"Éwa ta, iche irir Éqwë i yulóq, íyi i' yulóq empresa i' ã.",Ye' ã iche irir tö ì alê yulóq.,"neutral
+"
+"Éwa ta, iche irir Éqwë i yulóq, íyi i' yulóq empresa i' ã.",Ie' dör ye' ã iche tö be' ẽ' alòqke e' ujté yulóq.,"neutral
+"
+Ie' iche tö i mìxnẽka aìèqka.,Iche irir tö ĩẽ' wòqklö'wẽ wéx alê ñãlàx kĩ.,"neutral
+"
+Ie' iche tö i mìxnẽka aìèqka.,Iche irir tö ĩẽ' àmĩ dià wa.,"neutral
+"
+Ie' iche tö i mìxnẽka aìèqka.,Iche irir tö i míxyal aìèqka.,"neutral
+"
+"Hum, aû, ẽ' chòqka móxki, kèq ye' wã uyèqjkuö àxritsẽ yéqs wéx wânãmã káxwöta àxritsẽ ye' dör e' ët.",Aû kèq ye' wã yéqs uyèqjkuö àxritsẽ dòqka 100 páginas ése.,"neutral
+"
+"Hum, aû, ẽ' chòqka móxki, kèq ye' wã uyèqjkuö àxritsẽ yéqs wéx wânãmã káxwöta àxritsẽ ye' dör e' ët.",Aû kèq ye' wã uyèqjkuö àxritsẽ tãîx.,"entailment
+"
+"Hum, aû, ẽ' chòqka móxki, kèq ye' wã uyèqjkuö àxritsẽ yéqs wéx wânãmã káxwöta àxritsẽ ye' dör e' ët.",Yö uyèqjkuö àxritsẽ kéxkkrâë.,"neutral
+"
+Yö i shkòqwéx tã yö dalì shtéka wóqs ye' mìxnẽã wéx ye' káxwöta shkóqk ẽ' èqka.,Yö dalì ãmèxãt tã yö i bikeitse tö kèq ye' mĩk ì sulûrpa.,"neutral
+"
+Yö i shkòqwéx tã yö dalì shtéka wóqs ye' mìxnẽã wéx ye' káxwöta shkóqk ẽ' èqka.,Dalì míxtsẽn ye' wã wéx dör i wé e' ã.,"neutral
+"
+Yö i shkòqwéx tã yö dalì shtéka wóqs ye' mìxnẽã wéx ye' káxwöta shkóqk ẽ' èqka.,Dalì míxtsẽn ye' wã wéx irir ẽ' dör.,"neutral
+"
+E' tã i mãnèxnãtsã ikũãki ẽ' wa tã kèq klòqnẽ se' wã.,Ie' tsë'nãkã e' tká i tã dòqka élkêë.,"neutral
+"
+E' tã i mãnèxnãtsã ikũãki ẽ' wa tã kèq klòqnẽ se' wã.,I tkámĩ èxë dòqnẽ sĩàxrë ã.,"neutral
+"
+E' tã i mãnèxnãtsã ikũãki ẽ' wa tã kèq klòqnẽ se' wã.,Ie' tsë'nãka e' mãnèxnãtsã tãîxë.,"neutral
+"
+"Ye' ãmèxãt... ye' yawé irir se' 15 e' shùxã skóie escuela ã, tã aû kèq ye' mìxnẽ, aû kèq ye' mìxnẽ.",Aû kèq ye' klòqnẽ skóqk escuela ã.,"neutral
+"
+"Ye' ãmèxãt... ye' yawé irir se' 15 e' shùxã skóie escuela ã, tã aû kèq ye' mìxnẽ, aû kèq ye' mìxnẽ.",Ye' klòqnã shkó ie escuela ã.,"entailment
+"
+"Ye' ãmèxãt... ye' yawé irir se' 15 e' shùxã skóie escuela ã, tã aû kèq ye' mìxnẽ, aû kèq ye' mìxnẽ.",Yö i yóqrke e' ët ujté klóqrke kibí ie.,"neutral
+"
+"Káxwöta tkóqkmĩ érlulê cámara tóqmĩk káxjkẽ tã, eh, káxkök úxnẽ e' yòqki U2 e' kĩ ö úxnũk apàio suktkër ése kĩ.",Se' kibíie e' àxtã tën examén ã tã kèq i dë'ka úxnũk U2 kĩ.,"neutral
+"
+"Káxwöta tkóqkmĩ érlulê cámara tóqmĩk káxjkẽ tã, eh, káxkök úxnẽ e' yòqki U2 e' kĩ ö úxnũk apàio suktkër ése kĩ.",Káxwöta tkóqkmĩ kéxwe ẽ' yawè tãîxë e' ã U2 ã úxnẽ ã e' yòqki.,"neutral
+"
+"Káxwöta tkóqkmĩ érlulê cámara tóqmĩk káxjkẽ tã, eh, káxkök úxnẽ e' yòqki U2 e' kĩ ö úxnũk apàio suktkër ése kĩ.",Be' ã káxwöta méxrke e'tökicha èq úxnũk U2 e' ã káx ét ã.,"neutral
+"
+Ye' ẽ' chòqke e' èq wa.,Yö i pàieketkö séxjka íyi páxlĩ éxjkë.,"neutral
+"
+Ye' ẽ' chòqke e' èq wa.,Yö i pàieketkö séxjka íyi wéxs uyèqjkuö mãléxpa êskapë.,"neutral
+"
+Ye' ẽ' chòqke e' èq wa.,Ye' tso' ie'pa íyi ujtè étkèq chóqk wèxs ie'pa icha e's.,"neutral
+"
+"I' dör èrpa tö, e' wamblèqnẽ e' kĩ dawás tso' 75 éjkë, Texas legislatura e' dör bòto yö' militar ã shùxshàx tã irirdak Embajador Texas ã, e' kũẽkĩ, i kíxka embajadores Texas e' kiármĩ.",Militares tabèchka ajkà àxritsã tö kèq yòqrpa embajador TX ie.,"contradiction
+"
+"I' dör èrpa tö, e' wamblèqnẽ e' kĩ dawás tso' 75 éjkë, Texas legislatura e' dör bòto yö' militar ã shùxshàx tã irirdak Embajador Texas ã, e' kũẽkĩ, i kíxka embajadores Texas e' kiármĩ.",Militar tabèchka e' ajkà àxritse Texas Embajador ie Congreso Estados Unidos.,"neutral
+
+
+
+"
+"I' dör èrpa tö, e' wamblèqnẽ e' kĩ dawás tso' 75 éjkë, Texas legislatura e' dör bòto yö' militar ã shùxshàx tã irirdak Embajador Texas ã, e' kũẽkĩ, i kíxka embajadores Texas e' kiármĩ.",Militar tabèchka e' kìnẽ Embajadores TX.,"entailment
+"
+Múx ye' ã ì alê yòqnã.,Ye' ã ì alê yóqrmĩ.,"neutral
+"
+Múx ye' ã ì alê yòqnã.,Be' éxn ĩàxnã tö aû kèq ì tã yéqs e' yóqrmĩ ye' ã.,"neutral
+"
+Múx ye' ã ì alê yòqnã.,I klòqwẽ yö tö ì alê yawèmĩ yö ẽ' tsáxtko ie.,"neutral
+"
+"Sulû ĩéxn ã e' áxn, tã i shkòqke i kutà ã i pàkök, kéxkkrâë, e' che irir, tö i tso' i yawóqk sulû.",Ie' wake' dör i kutà pàblë.,"neutral
+"
+"Sulû ĩéxn ã e' áxn, tã i shkòqke i kutà ã i pàkök, kéxkkrâë, e' che irir, tö i tso' i yawóqk sulû.",I ãméxãt idr yêqsyêqs ë tö i kutà aû kèq wóqulâr ì yawóqk bua'.,"neutral
+"
+"Sulû ĩéxn ã e' áxn, tã i shkòqke i kutà ã i pàkök, kéxkkrâë, e' che irir, tö i tso' i yawóqk sulû.",Ie' bak i kutà chóqk kéqsik wa.,"neutral
+"
+Éwa tã ye'dë' be' ù ã ukòqki yö istâwõ i' ichàki' wéx wânãmã tã ichàkèke yö e' éql mĩk ye' démĩ ẽ' dör e' tã.,Be' teléfono kekã yö peitule wà ichàko.,"neutral
+"
+Éwa tã ye'dë' be' ù ã ukòqki yö istâwõ i' ichàki' wéx wânãmã tã ichàkèke yö e' éql mĩk ye' démĩ ẽ' dör e' tã.,I shtâwõ ichàke yö mĩk ye' dé be' ù ã e' tã.,"entailment
+"
+Éwa tã ye'dë' be' ù ã ukòqki yö istâwõ i' ichàki' wéx wânãmã tã ichàkèke yö e' éql mĩk ye' démĩ ẽ' dör e' tã.,"Wânãmã tã yö ichàkèmĩ, erë tã kèq ye' wã i yòqnẽ.","neutral
+"
+"Éqwe, e' wa tã i débitũ i' bulâmẽ ẽ' dör tã, eh, chówa wèxs... I klóqwẽ yö tö ét yö ichàke, ö ie' tkàmĩ, ö wéx kèq ujchẽn ye' wã.","Îxñẽ káxm ye' dö, e' wa tã káxm se' i sãũ.","neutral
+
+
+
+**explanation:**
+
+without a deep understanding of bribri cultural context and the specific meanings within these sentences, it's impossible to determine a logical relationship beyond ""neutral."" here's why:
+
+*   **premise translation (rough):** ""this, it's like the rain falling on the roof, eh, it sounds good... the monkey goes up to eat the fruit, it's a good spirit, and the wind brings luck."" (this is a very approximate translation as bribri is highly context-dependent).
+*   **hypothesis translation (rough):** ""the man goes to the river, it's like going to the forest.""
+
+the premise discusses rain, monkeys, spirits, and luck. the hypothesis discusses a man traveling to a river and forest. there is *no* logical connection to derive entailment or contradiction. the premise doesn't give us information about people going to rivers or forests, nor does it assert anything that *must* be false if the hypothesis is true, or vice versa. they are simply discussing different situations.
+
+
+
+"
+"Éqwe, e' wa tã i débitũ i' bulâmẽ ẽ' dör tã, eh, chówa wèxs... I klóqwẽ yö tö ét yö ichàke, ö ie' tkàmĩ, ö wéx kèq ujchẽn ye' wã.",Ye' ẽ' ajkáche gimnacio ã îxñẽ tã ie' débitũ élkë bêqrërpa tã ye' shkèxwéx irir.,"neutral
+
+**explanation:**
+
+without a deep understanding of bribri cultural context and the specific meanings of all the words, it's very difficult to definitively say if the premise relates to the hypothesis in a way that entails or contradicts it. 
+
+here's what we *can* glean:
+
+* **premise:** seems to be describing a situation involving a debt, possibly with some difficulty or frustration (""chówa wèxs...""). it mentions someone working (""klóqwẽ yö tö ét yö ichàke"") and potentially having obligations (""tkàmĩ"").
+* **hypothesis:** talks about going to the gym (""ajkáche gimnacio"") and a debt that needs to be paid (""débitũ élkë bêqrërpa""). it suggests effort or work is required to pay the debt (""shkèxwéx irir"").
+
+while both mention ""debt"" (""débitũ""), the context is entirely different. the premise describes a general situation of owing, while the hypothesis is a specific action being taken to address a debt.  there's no direct connection that allows us to conclude entailment or contradiction. they could both be true independently of each other. therefore, it's **neutral**.
+
+
+
+"
+"Éqwe, e' wa tã i débitũ i' bulâmẽ ẽ' dör tã, eh, chówa wèxs... I klóqwẽ yö tö ét yö ichàke, ö ie' tkàmĩ, ö wéx kèq ujchẽn ye' wã.",Ye' ẽ' ajkáche îxñẽ bulâmẽ tã ie' ãñìxes dé iñã.,"neutral
+"
+Aû kèq sa' éxn ã ĩàxnẽ tö wéx ĩmĩrak.,Aû sa' wã i ujchẽn tö wéx ie'pa dapànã e' dâmĩ interestatal.,"neutral
+"
+Aû kèq sa' éxn ã ĩàxnẽ tö wéx ĩmĩrak.,Aû kèq sa' éxn ã ĩàxnẽ tö wéx pë' dâmĩ.,"neutral
+"
+Aû kèq sa' éxn ã ĩàxnẽ tö wéx ĩmĩrak.,Sa' éxn ã ĩàxnã tö wèxkëka ie' míxke.,"neutral
+"
+"Erë tã ye' tso' wèxs, wèìnã, yö chkòq ñèxmĩ. Ye' dawé balí wã.",Aû kèq ye' éxn ã ì ñâxk yéqs.,"neutral
+"
+"Erë tã ye' tso' wèxs, wèìnã, yö chkòq ñèxmĩ. Ye' dawé balí wã.","Balí tã' ye' wã, e' kũẽkĩ yö ét ye' chkòq ñéxwa.","neutral
+"
+"Erë tã ye' tso' wèxs, wèìnã, yö chkòq ñèxmĩ. Ye' dawé balí wã.","Ye' dawòqkewã balí wa, e' kũẽkĩ ye' míxã kápi wé ã.","neutral
+"
+"E' kũẽkĩ tö, súx yö be' ã ichèke tö îxñẽ ye' déka wéx iéjkë tã ye' kâblë' ẽ' yóqktsã.",Iéjkë tã ye' kâblë' ẽ' yóqktsã.,"entailment
+"
+"E' kũẽkĩ tö, súx yö be' ã ichèke tö îxñẽ ye' déka wéx iéjkë tã ye' kâblë' ẽ' yóqktsã.",Tãîx ye' ã i daléqtkënãwã tã iéjkë tã kèq ye' ã i wòqklòqnẽ kibí ie.,"neutral
+"
+"E' kũẽkĩ tö, súx yö be' ã ichèke tö îxñẽ ye' déka wéx iéjkë tã ye' kâblë' ẽ' yóqktsã.",Yéqs kèq ye' wòqki ã i bakmĩ tö ye' ẽ' yòqtsã.,"neutral
+"
+"I kùxnẽ dabòm pàryök kĩ dabòp pàköl ẽnã i kíxtã, wânãmã tã irir 1888 ö 1889.",I kùxnẽ 1900 e' yòqki.,"neutral
+"
+"I kùxnẽ dabòm pàryök kĩ dabòp pàköl ẽnã i kíxtã, wânãmã tã irir 1888 ö 1889.",I kùxnẽ diciembre 1880,"contradiction
+"
+"I kùxnẽ dabòm pàryök kĩ dabòp pàköl ẽnã i kíxtã, wânãmã tã irir 1888 ö 1889.",Ie' kèq kùxnẽ dòqka 1884.,"neutral
+"
+Bua' irir tö be' wòqtko tsîr e' wòqóqwa e' wâ dör tö e' wa be' dör e'köl se' sĩwã'wö tíxwèxwãmĩ tôtôë.,I wòqtko e' dör ísie alê sĩwã'wö sulûwẽwãmĩ.,"neutral
+"
+Bua' irir tö be' wòqtko tsîr e' wòqóqwa e' wâ dör tö e' wa be' dör e'köl se' sĩwã'wö tíxwèxwãmĩ tôtôë.,"I wòqtko e' kèq ã sãwîxâxr tã, e' kũẽkĩ tã i tawóqwã darêqrêq kòxs be' kĩ ikiànã e's.","neutral
+"
+Bua' irir tö be' wòqtko tsîr e' wòqóqwa e' wâ dör tö e' wa be' dör e'köl se' sĩwã'wö tíxwèxwãmĩ tôtôë.,I wòqtko tkòqkemĩ i biro' ã tã irir sĩwã'wö sulûwẽwãmĩ.,"neutral
+"
+"Ye' kĩ ujtè dé shkóqk Di'jka, TX, éwa tã mĩk ye' dé ẽ' dör, éqwë, ye' wã i ujchẽnẽ tö ye' káxwöta shkóqk i wé Laughlin Air Force.","Ye' pátkënã Di' Icha ã, Texas kãnèxbalök.","neutral
+"
+"Ye' kĩ ujtè dé shkóqk Di'jka, TX, éwa tã mĩk ye' dé ẽ' dör, éqwë, ye' wã i ujchẽnẽ tö ye' káxwöta shkóqk i wé Laughlin Air Force.",Yéqs kèq ye' déqrule Texas.,"entailment
+"
+"Ye' kĩ ujtè dé shkóqk Di'jka, TX, éwa tã mĩk ye' dé ẽ' dör, éqwë, ye' wã i ujchẽnẽ tö ye' káxwöta shkóqk i wé Laughlin Air Force.","I diché káxshùxã dör ye' pátke Di' Icha ã, TX 2001 éjkë.","neutral
+"
+"Káx wâñẽ ẽ' ã champán mùxke, erë tã kèq séxjka wéx wà déqrke e' éxrkũwa; ì áxtke tkã' ã e' yèqke alátsitsipa dör, éwa tã ẽ' sa' bak tulur, wòqshkítkòqke ẽnã séxjka champán yóqk.",Alátsitsipa dör 3 kakö' champán yéwa.,"entailment
+"
+"Káx wâñẽ ẽ' ã champán mùxke, erë tã kèq séxjka wéx wà déqrke e' éxrkũwa; ì áxtke tkã' ã e' yèqke alátsitsipa dör, éwa tã ẽ' sa' bak tulur, wòqshkítkòqke ẽnã séxjka champán yóqk.",Alátsitsipa dör élkë champán yé.,"entailment
+"
+"Káx wâñẽ ẽ' ã champán mùxke, erë tã kèq séxjka wéx wà déqrke e' éxrkũwa; ì áxtke tkã' ã e' yèqke alátsitsipa dör, éwa tã ẽ' sa' bak tulur, wòqshkítkòqke ẽnã séxjka champán yóqk.",Kalòqte wé ã tká po'pôë kèq balo' wà dèqnẽ.,"neutral
+"
+Tãîx káxpake tso' ciudad ã sumẽ.,Aû kèq ye' wã káxpake tséqrule.,"neutral
+"
+Tãîx káxpake tso' ciudad ã sumẽ.,Tãîx káxpake tso' militares kĩ.,"neutral
+"
+Tãîx káxpake tso' ciudad ã sumẽ.,Tãîx káxpake tso' e' pàkarta.,"neutral
+"
+"I tséqnã ẽnã swóqulârmĩ, i tsóq bö, mĩk bö i mâxwèxke, eh, ábion.",Aû kèq ye' éxn ã ábion mâxwẽ àxnẽ yéqs.,"neutral
+"
+"I tséqnã ẽnã swóqulârmĩ, i tsóq bö, mĩk bö i mâxwèxke, eh, ábion.",Ábion mâxwẽ e' be' ã tãîx íyi ajkáche.,"neutral
+"
+"I tséqnã ẽnã swóqulârmĩ, i tsóq bö, mĩk bö i mâxwèxke, eh, ábion.",Mâxwẽ yawóqk ábion kĩ e' be' ã i ajkáchèmĩ se' péq e' i tòqtkök.,"neutral
+"
+Ye' kĩ ikànã che tö e' dör wòqshàx wa tã séxjka.,Aû kèq ye' éxn ã wòqshàx e' àxnẽ.,"neutral
+"
+Ye' kĩ ikànã che tö e' dör wòqshàx wa tã séxjka.,I klòqwẽ yö tö wẽ sö wòqshàx wa che e' ã sãwîxâr bakdë.,"neutral
+"
+Ye' kĩ ikànã che tö e' dör wòqshàx wa tã séxjka.,I wòqshàx àxnã ye' éxn ã.,"neutral
+"
+"E' dör wéx i wé káxshùxã tkòqke Cuba tsáxka, tã e' wa tã irir i tèqamĩ e' dör Rudolph Anderson.",Ábionpa séxjka kĩ i bak kèq tèqnẽrak i wã.,"neutral
+"
+"E' dör wéx i wé káxshùxã tkòqke Cuba tsáxka, tã e' wa tã irir i tèqamĩ e' dör Rudolph Anderson.",Ì alê tèqnãnẽmĩ Cuba.,"entailment
+"
+"E' dör wéx i wé káxshùxã tkòqke Cuba tsáxka, tã e' wa tã irir i tèqamĩ e' dör Rudolph Anderson.",Ábion bêqrie tèqnãnẽmĩ Cuba tsáxka mayo wa.,"neutral
+"
+"Ì sùxmã tã e' dör íyi èrpa wéx áxrkeĩã ye' éxn ã mĩk ye' bak alà tsîr e' tã, i bua' ie dör mĩk yö ì alê wamble sulû e' tã.",Móxki kèq ye' éxn ã ĩàxnẽ yéqs mĩk ye' bak tsîr e' tã.,"neutral
+"
+"Ì sùxmã tã e' dör íyi èrpa wéx áxrkeĩã ye' éxn ã mĩk ye' bak alà tsîr e' tã, i bua' ie dör mĩk yö ì alê wamble sulû e' tã.",I' tã ĩã ye' tsë'nã ĩã sulû dìwö îxñẽ ã.,"neutral
+"
+"Ì sùxmã tã e' dör íyi èrpa wéx áxrkeĩã ye' éxn ã mĩk ye' bak alà tsîr e' tã, i bua' ie dör mĩk yö ì alê wamble sulû e' tã.",E' dör ye' ã tã íyi tsáx ujté biké tã ése.,"neutral
+"
+"Éq àxnãs tö kèq ie' wòqbatsẽ i wa tö i wak dör dalôlô e' dìwö wa tã, tã e's i tká, be' éxn ã ĩàxnã, yö iklòqwẽ tö, e's sö ichòq i wà dör, be' éxn ã ĩàxnã, década 1930 mĩ'keshka e' wa, mĩk i yóqrak irir e' tã.",Darêqrêq irir yòqnũk dalôlô diàèqka.,"neutral
+"
+"Éq àxnãs tö kèq ie' wòqbatsẽ i wa tö i wak dör dalôlô e' dìwö wa tã, tã e's i tká, be' éxn ã ĩàxnã, yö iklòqwẽ tö, e's sö ichòq i wà dör, be' éxn ã ĩàxnã, década 1930 mĩ'keshka e' wa, mĩk i yóqrak irir e' tã.",Irir tôtô wak dalôlô!,"entailment
+"
+"Éq àxnãs tö kèq ie' wòqbatsẽ i wa tö i wak dör dalôlô e' dìwö wa tã, tã e's i tká, be' éxn ã ĩàxnã, yö iklòqwẽ tö, e's sö ichòq i wà dör, be' éxn ã ĩàxnã, década 1930 mĩ'keshka e' wa, mĩk i yóqrak irir e' tã.",Darêqrêq irir wak dalôlô e' kéxska tã.,"entailment
+"
+Kèq yì éxn ã ĩàxnẽ tö wéx i mĩchôrak.,Séxjka wã i ujchèxnã yêqsyêqs tö wéx i mĩrak.,"neutral
+"
+Kèq yì éxn ã ĩàxnẽ tö wéx i mĩchôrak.,Kèq yì éxn ã ĩàxnẽ tö ù wéx ã i mĩrak.,"contradiction
+"
+Kèq yì éxn ã ĩàxnẽ tö wéx i mĩchôrak.,I shkè dör baléqrule.,"neutral
+"
+Tã aû kèq ie'pa ẽ' tsùxpaãt káxshùxã Augusta e' wâ dör pë' wã i ujchèxnã tö ie'pa kâblë' ì alê yawóqk e' dör yéqsyêqs wèxs tabú êskapë tã ẽ' óqktkö wak sarûrû e' wa.,Pë' kèq éxn ã bikeitse àxnẽ tö aû kèq ie'pa dör sarûrû.,"entailment
+"
+Tã aû kèq ie'pa ẽ' tsùxpaãt káxshùxã Augusta e' wâ dör pë' wã i ujchèxnã tö ie'pa kâblë' ì alê yawóqk e' dör yéqsyêqs wèxs tabú êskapë tã ẽ' óqktkö wak sarûrû e' wa.,Pë' éxn ã ĩàxnã tö ie'pa dör afroamericanos.,"neutral
+
+
+
+**explanation:**
+
+without deep cultural and linguistic knowledge of bribri (which is beyond the scope of this task), it's impossible to definitively say the premise *entails* or *contradicts* the hypothesis. here's why:
+
+*   **the premise discusses a specific individual (""augusta"") and some associated actions and spiritual elements.** it's a detailed statement about a particular situation.
+*   **the hypothesis makes a broad generalization about ""afro-americans"".** while ""dör"" (person) appears in both, the premise doesn't provide any information linking augusta, or the described events, to afro-americans.
+
+therefore, the premise is *neutral* towards the hypothesis. the premise could be true *regardless* of whether or not the hypothesis is true. there's no logical connection established within the given text.
+
+
+
+"
+Tã aû kèq ie'pa ẽ' tsùxpaãt káxshùxã Augusta e' wâ dör pë' wã i ujchèxnã tö ie'pa kâblë' ì alê yawóqk e' dör yéqsyêqs wèxs tabú êskapë tã ẽ' óqktkö wak sarûrû e' wa.,Pë' éxn ã ĩàxnã tö aû kèq ie'pa dör sarûrû.,"entailment
+"
+"Tóq, éqwë, chico tso' íxẽ.",Chico tso' i wak ie.,"neutral
+"
+"Tóq, éqwë, chico tso' íxẽ.",I wak ẽ' ajkáche ñîxköl 2 minutos éjkë.,"neutral
+"
+"Tóq, éqwë, chico tso' íxẽ.",I wak (wéqm) kèq dë' yéqs íxẽ.,"neutral
+"
+Ì alê wébalök sa' tso' tele kĩ.,Aû kèq sa' wã televisión tã'.,"neutral
+"
+Ì alê wébalök sa' tso' tele kĩ.,Sa' bak tele wébalök.,"entailment
+"
+Ì alê wébalök sa' tso' tele kĩ.,Sa' bak biyòq wébalök televisión kĩ.,"neutral
+"
+"E' wa tã, yö i bikeitse tö ye' ujtòqkenẽ Ramona tã páxlĩnẽ.",Yéqs kèq ye' útule Ramona tã.,"entailment
+"
+"E' wa tã, yö i bikeitse tö ye' ujtòqkenẽ Ramona tã páxlĩnẽ.",Ramona tã ye' ujté skànẽ.,"neutral
+"
+"E' wa tã, yö i bikeitse tö ye' ujtòqkenẽ Ramona tã páxlĩnẽ.",Káxpake tká bua'ë.,"neutral
+"
+"E' dör e' èq i wòqitanẽ Crisis Cuba ã tã, eh, Kaiser, eh, i dióqköl wa ĩẽ' yawè tã i ũnéx yêqsyêqs Andrews Air Force en Washington.",10.000 se' du'lur Crisis Cubana ã.,"neutral
+"
+"E' dör e' èq i wòqitanẽ Crisis Cuba ã tã, eh, Kaiser, eh, i dióqköl wa ĩẽ' yawè tã i ũnéx yêqsyêqs Andrews Air Force en Washington.",E'köl èq se' du'wã Crisis Cubana ã.,"entailment
+"
+"E' dör e' èq i wòqitanẽ Crisis Cuba ã tã, eh, Kaiser, eh, i dióqköl wa ĩẽ' yawè tã i ũnéx yêqsyêqs Andrews Air Force en Washington.",E'köl se' du'wã accidente Cubana ã.,"neutral
+"
+"Hum tã ie' dör iche... iche... iche... daléqr, iche, kèq be' éxn ã sèxnẽ àxnẽ wèxs ye' éxn ã ye' séxn àxnã e's.",Ie' dör iche tö aû kèq ĩéxn ã bikeitse àxnẽ.,"neutral
+"
+"Hum tã ie' dör iche... iche... iche... daléqr, iche, kèq be' éxn ã sèxnẽ àxnẽ wèxs ye' éxn ã ye' séxn àxnã e's.",Ie' dör iche tö ie' wã sèxnẽ ujté ujchèxnã.,"neutral
+"
+"Hum tã ie' dör iche... iche... iche... daléqr, iche, kèq be' éxn ã sèxnẽ àxnẽ wèxs ye' éxn ã ye' séxn àxnã e's.",Ye' ã iche irir tö aû kèq ĩéxn ã ĩàxnẽ tö wèx káx wâñẽ kãnèxblòqke tã e' káxwöta i tòqtĩẽ.,"neutral
+"
+"Ukòqki ye' sãwéxwa irir tã ye' àxtã, bua' ichóqk. Wèxs ye' i wèxke?",Aû kèq ye' éxn ã ĩàxnã tö wânãmã tö wèxs tabèchka wà kãnèxwèxke.,"neutral
+"
+"Ukòqki ye' sãwéxwa irir tã ye' àxtã, bua' ichóqk. Wèxs ye' i wèxke?",Aû kèq ye' éxn ã ĩàxnẽ tö wânãmã tã yö i wà kãnèxwèxke.,"neutral
+"
+"Ukòqki ye' sãwéxwa irir tã ye' àxtã, bua' ichóqk. Wèxs ye' i wèxke?",Ye' wã i ujchẽn yêqsyêqs tö ìe i wà kãnèxwèxke!,"neutral
+"
+"Ye' ã káx ulát múx tsîr, be' éxn ã i ta'kak e' tã, ye', hum, ye' míxãtke.",Ye' tso' tsë'ka shkó ie i' tã.,"neutral
+"
+"Ye' ã káx ulát múx tsîr, be' éxn ã i ta'kak e' tã, ye', hum, ye' míxãtke.",Ye' kĩ tsîr káx ulát kiànã íxẽ.,"neutral
+"
+"Ye' ã káx ulát múx tsîr, be' éxn ã i ta'kak e' tã, ye', hum, ye' míxãtke.",Ye' kĩ tsîr káx ulát ye' wóqkir biké shtókã ie.,"neutral
+"
+E's irir tö ye' dë'rö Washington D.C. tã aû kèq ye' dë' yêqsyêqs wéx ye' pátkèqnã ẽ' dör.,Yéqs ye' kèq déqrule Washington D.C.,"neutral
+"
+E's irir tö ye' dë'rö Washington D.C. tã aû kèq ye' dë' yêqsyêqs wéx ye' pátkèqnã ẽ' dör.,Ye' dë'rö D.C. ye' wóqkir kibí ie wébalök.,"neutral
+"
+E's irir tö ye' dë'rö Washington D.C. tã aû kèq ye' dë' yêqsyêqs wéx ye' pátkèqnã ẽ' dör.,Ye' dë'rö káx capital ã.,"entailment
+"
+Yö se' e'köl dalôlô wak dalâlâ.,Ie' ajkuòqlit dör kèq klòqnũk e's tsétsèë.,"neutral
+"
+Yö se' e'köl dalôlô wak dalâlâ.,Ie' wã ajkuòqlit dör dalâlâ wak afroamericana ie yóqnũk.,"neutral
+"
+Yö se' e'köl dalôlô wak dalâlâ.,Ie' bakdë shkirîrî kibí ie i kalépa mãléxpa dalôlô ie.,"neutral
+"
+"Erë tã wake', yéq míxã tã irir ét tkã' bêqrie ã tsu' diòq yawé tsiru' tã ye' ã.",Yéq dör ye' ã élke tsu' diòq ãméx tsiru' tã bitéx i wã nevera ã.,"neutral
+"
+"Erë tã wake', yéq míxã tã irir ét tkã' bêqrie ã tsu' diòq yawé tsiru' tã ye' ã.",Yéq dör ye' ã ét tkã' ã tsu' diòq ãméx.,"neutral
+"
+"Erë tã wake', yéq míxã tã irir ét tkã' bêqrie ã tsu' diòq yawé tsiru' tã ye' ã.",Yéq iche tö aû kèq ye' ã káxwöta ét i yóqkwa.,"neutral
+"
+DOT e' káxwöta kã' tãũk ẽnã i wak e's.,Se' ó ie wé dör kã i wak ichá kúxwã ikũãki péite i káx ã.,"neutral
+"
+DOT e' káxwöta kã' tãũk ẽnã i wak e's.,I wak icha ẽnã i tabèchka e' tóx DOT e' dör.,"neutral
+"
+DOT e' káxwöta kã' tãũk ẽnã i wak e's.,DOT chéqwa i tãwèx kũẽkĩ millones mãñáxt de dólares e' tsáxka i wak icha e' kũẽkĩ.,"neutral
+"
+Ie' kùxne wânãmã.,I pánãrke tö i kúxrke diciembre 2010 e' wa.,"neutral
+"
+Ie' kùxne wânãmã.,I chèmĩ sö tö wânãmã tö i kùxnãtke.,"neutral
+"
+Ie' kùxne wânãmã.,I chèmĩ sö tö aû kèq múx i kùxnẽ.,"neutral
+"
+"Yö wèxs, ye' éxn ã ĩàxnã tö ye' démĩ káxmîxë.",Yö iche ĩã tö aû kèq ĩéxn ã ĩàxnã tö ì yawóqk i bakdë.,"neutral
+"
+"Yö wèxs, ye' éxn ã ĩàxnã tö ye' démĩ káxmîxë.",Yö iche ĩã tö ye' éxn ã ĩàxnã tö ye' déka aíshẽt 40% e' tsáxka.,"neutral
+"
+"Yö wèxs, ye' éxn ã ĩàxnã tö ye' démĩ káxmîxë.",Yö iche ĩã ye' éxn ã ĩàxnã tö ì ska ye' ulà dé.,"neutral
+"
+"I dalôq, Be' dör ye' ujtòq tsèmĩ i' tã?",Be' dör ye' ujtòq tsèmĩ i' tã?,"entailment
+"
+"I dalôq, Be' dör ye' ujtòq tsèmĩ i' tã?",Be' ye' ujtòq tsé tö ì chóqk ye' tso'?,"neutral
+"
+"I dalôq, Be' dör ye' ujtòq tsèmĩ i' tã?",Ye' éxn ã ĩàxnã tö be' kèq ã ye' ujtòq tsër.,"neutral
+"
+"Mmm, yéqs? Bö iche tö kèq be' éxn ã ĩàxnẽ tö ì àxrits bö banẽt, erë, tã be' kibìnã escuela wéx ã e' tã, aû kèq uyèqjkuö tã' yéqs e' wa be' wòqbatsö ö be' éxn ã sulû ĩáxn.",Be' wòqbatsö uyèqjkuö Harry Potter wa ö aû?,"neutral
+"
+"Mmm, yéqs? Bö iche tö kèq be' éxn ã ĩàxnẽ tö ì àxrits bö banẽt, erë, tã be' kibìnã escuela wéx ã e' tã, aû kèq uyèqjkuö tã' yéqs e' wa be' wòqbatsö ö be' éxn ã sulû ĩáxn.",Be' wòqbatseka uyèqjkuö wa ö uyèqjkuö wéx alê áxn sulû be' éxn ã?,"neutral
+"
+"Mmm, yéqs? Bö iche tö kèq be' éxn ã ĩàxnẽ tö ì àxrits bö banẽt, erë, tã be' kibìnã escuela wéx ã e' tã, aû kèq uyèqjkuö tã' yéqs e' wa be' wòqbatsö ö be' éxn ã sulû ĩáxn.",Ye' éxn ã ĩàxnã tö be' wòqbatska uyèqjkuö séxjka àxrits bö e' wa.,"entailment
+"
+"E' dör hélice tsîr yòqa ĩáxtkèqnẽwa e' kũẽkĩ, erë tã tubo i wòq skówã ie piloto ẽnã i wòq skó wòqó ie e'.",I wòqtko dör i wòq skó wòqtkeka.,"neutral
+"
+"E' dör hélice tsîr yòqa ĩáxtkèqnẽwa e' kũẽkĩ, erë tã tubo i wòq skówã ie piloto ẽnã i wòq skó wòqó ie e'.",I wòqtko dör tsîr ẽnã dalôqlôq.,"neutral
+"
+"E' dör hélice tsîr yòqa ĩáxtkèqnẽwa e' kũẽkĩ, erë tã tubo i wòq skówã ie piloto ẽnã i wòq skó wòqó ie e'.","Aû kèq i wòqtko tã, bòtöwö èq.","neutral
+"
+"Ie' dör iche, kèq be' tkîũnk, be' éxn ã ĩàxnẽ, be' káxwö yóqtsã.",Ie' dör ye' ã iche tö ye' káxwöta ẽ'ũk èqmẽ.,"neutral
+"
+"Ie' dör iche, kèq be' tkîũnk, be' éxn ã ĩàxnẽ, be' káxwö yóqtsã.",Iche irir ye' ã tö kèq ì wamblërpa tã ichòqkewa dìwö élkê i yawóqkka.,"neutral
+"
+"Ie' dör iche, kèq be' tkîũnk, be' éxn ã ĩàxnẽ, be' káxwö yóqtsã.",Iche irir ye' ã tö be' ẽ'ũ ẽnãë.,"neutral
+"
+"Presidente Kennedy dör pilotos a iche tö, iche, caballleros, dör dióqköl yawè bua'ë.",Kennedy kèq wã i sùxnẽwãnẽ.,"contradiction
+"
+"Presidente Kennedy dör pilotos a iche tö, iche, caballleros, dör dióqköl yawè bua'ë.",Kennedy ujté pilotos wakpa tã Diché Kashùxã.,"neutral
+"
+"Presidente Kennedy dör pilotos a iche tö, iche, caballleros, dör dióqköl yawè bua'ë.",Kennedy ujté pilotos tã.,"entailment
+"
+"Tã ye'.tsë'nã wèxs, iéjkë tã chòqke.",Yö iche ĩã tö ye' éxrwamĩ 10 ulát ã.,"neutral
+"
+"Tã ye'.tsë'nã wèxs, iéjkë tã chòqke.",Yö iche ĩã tö kèq ye' èxrpawa yéqs.,"neutral
+"
+"Tã ye'.tsë'nã wèxs, iéjkë tã chòqke.",Yö iche ĩã tö iéjkë tã ye' chó.,"neutral
+"
+Ye' wòqwa yö i shté séxjka.,Ye' ẽ' méxtsã íyi kòxs e' shtóqk.,"neutral
+"
+Ye' wòqwa yö i shté séxjka.,Aû kèq ye' ulùnẽ i shtè wa yéqs.,"neutral
+"
+Ye' wòqwa yö i shté séxjka.,Kãnèx ché irir bìt e' shtéka yö èq.,"neutral
+"
+"Aû, ie' kùxnẽ 1900 e' wa tã ie' kĩ dawás tso' 16, tã wânãmã irir 1926.19 be' éxn ã ĩàxnã, 1930 e' yòqki.",I kùxnẽ 1 enero wa 1900.,"entailment
+"
+"Aû, ie' kùxnẽ 1900 e' wa tã ie' kĩ dawás tso' 16, tã wânãmã irir 1926.19 be' éxn ã ĩàxnã, 1930 e' yòqki.",Ie' kùxnẽ siglo mĩ'keshka e' ã.,"entailment
+"
+"Aû, ie' kùxnẽ 1900 e' wa tã ie' kĩ dawás tso' 16, tã wânãmã irir 1926.19 be' éxn ã ĩàxnã, 1930 e' yòqki.",Aû ie' kèq kùxnẽ dòqka 1943.,"neutral
+"
+E' wa tã i bak bua' ichóqk.,I kíxka ujté kiànã ujchẽnõ tö wéxjkë tã i chkòqmĩ.,"neutral
+"
+E' wa tã i bak bua' ichóqk.,Aû kèq ye' kĩ ujté kiànẽ yéqs ì e.,"neutral
+"
+E' wa tã i bak bua' ichóqk.,I kũéxwa irir bua'.,"neutral
+"
+"Be' kutà ẽ' yétsã sarûrû wa, tã êskapë i tkámĩ sarûrû wa.",Be' kutà e' ajkuòqlit dör bua' ie kibí ie séxjka se' pámĩk yök.,"neutral
+"
+"Be' kutà ẽ' yétsã sarûrû wa, tã êskapë i tkámĩ sarûrû wa.",Séxjkatkö sö ichèmĩ tö be' kutà bak sarûrû.,"neutral
+"
+"Be' kutà ẽ' yétsã sarûrû wa, tã êskapë i tkámĩ sarûrû wa.",Kutà Sher bakdë baléqrkewã ie.,"neutral
+"
+"Éqwë, i bakdë iéjkë tã wôqke ie wèxs ẽ' yawo be' yéq ie.",I bak kĩ dawás 27 kibí ie ie' yòqki.,"neutral
+"
+"Éqwë, i bakdë iéjkë tã wôqke ie wèxs ẽ' yawo be' yéq ie.",Ie' bakdë duládula dáã ie ie' kĩ.,"neutral
+"
+"Éqwë, i bakdë iéjkë tã wôqke ie wèxs ẽ' yawo be' yéq ie.",Ie' bak akéqkë ie ie' kĩ.,"neutral
+"
+"E' dör, ye' bakdë e'köl èq 922 dör wéqm wéx ã sèxnẽ tã', wéqm ièqköl dör shkè úriki e' kíxmõ.",Kèq yì wã kíxmẽ wéxse alê ãmèxnẽ yéqs.,"neutral
+"
+"E' dör, ye' bakdë e'köl èq 922 dör wéqm wéx ã sèxnẽ tã', wéqm ièqköl dör shkè úriki e' kíxmõ.",E'köl wéqm dör kíxmẽ ãmẽ' shkè úriki ã ése wa tropas ã.,"neutral
+"
+"E' dör, ye' bakdë e'köl èq 922 dör wéqm wéx ã sèxnẽ tã', wéqm ièqköl dör shkè úriki e' kíxmõ.",E'köl wéqm dör kíxmẽ ãmẽ' shkè úriki ã.,"entailment
+"
+"Tã ye' tso' íxẽ káx bikeitsök tö ì dâtske kãnèx ã, be' éxn ã ĩàxnã, ye' tã i yóqktsã, be' éxn ã ĩàxnã, ye' ũñũk wèxs tã ye' ã i mãnéxrmĩ êskapë.",Ujchèxnã tö aû ie' kèq bitùxpa dóqk íxẽ yéqs.,"neutral
+
+
+
+"
+"Tã ye' tso' íxẽ káx bikeitsök tö ì dâtske kãnèx ã, be' éxn ã ĩàxnã, ye' tã i yóqktsã, be' éxn ã ĩàxnã, ye' ũñũk wèxs tã ye' ã i mãnéxrmĩ êskapë.",I bikeitse yö tö i dâtse ãñíxppök.,"entailment
+"
+"Tã ye' tso' íxẽ káx bikeitsök tö ì dâtske kãnèx ã, be' éxn ã ĩàxnã, ye' tã i yóqktsã, be' éxn ã ĩàxnã, ye' ũñũk wèxs tã ye' ã i mãnéxrmĩ êskapë.",I bikeitse yö tö i míxke ẽ' ñéxikök ye' bulâr e' kũẽkĩ.,"neutral
+"
+"Éqwë, wânãmã, kèq irir bua' chèka tö aû kèq sa' ukö i sulûnẽ.",Bua' sa' ukö wéx alê tã i sulûnã.,"neutral
+"
+"Éqwë, wânãmã, kèq irir bua' chèka tö aû kèq sa' ukö i sulûnẽ.",Aû kèq sa' ã káxwöta ãmèxnẽ i sulûũkka yës.,"neutral
+"
+"Éqwë, wânãmã, kèq irir bua' chèka tö aû kèq sa' ukö i sulûnẽ.",Aû kèq sa' ã káxwöta tã ishtè wa yéqs sulûèqmẽ.,"neutral
+"
+"Tã, oh, erë oh, bikeitsèmĩ, nãñéxwe tã kèq ye' kapówã.",Ye' wòqtkënẽka kèq kapówa nãñéxwe tã.,"entailment
+"
+"Tã, oh, erë oh, bikeitsèmĩ, nãñéxwe tã kèq ye' kapówã.",Ye' kamsãwẽmĩ shkòqë kèq ye' ké kapóqkwã.,"neutral
+"
+"Tã, oh, erë oh, bikeitsèmĩ, nãñéxwe tã kèq ye' kapówã.",Nãñéxwe tã ye' kapòqkewã e'köl alaála tã.,"neutral
+"
+Íyi ét tã' ie' wã ẽ' tsáxtko ie tãîx móxki.,Ie' ẽ' tsáxtkòqmĩ wânãmã tã chìchi kãñìxru kĩ.,"neutral
+"
+Íyi ét tã' ie' wã ẽ' tsáxtko ie tãîx móxki.,Ie' ẽ' tsáxtkòqmĩ bua'.,"neutral
+"
+Íyi ét tã' ie' wã ẽ' tsáxtko ie tãîx móxki.,Ie' bak kèq klòqnẽ tã irir sãwîx ie.,"neutral
+"
+"Um, kèq yéqruleka yéqs",Ie' iche ĩã séxjka ì kiànã che i kĩ ujchẽnõ.,"neutral
+"
+"Um, kèq yéqruleka yéqs",Aû kèq ie'pa wã ye' ã ì yèqnẽ wèxs ẽ' ajkóqnèxke dör.,"neutral
+"
+"Um, kèq yéqruleka yéqs",Mĩk alê tã kèq ye' ã ichèrak irir.,"neutral
+"
+E' wa tã sa' séxrke káx i' kĩ.,Sa' ù bak tkër i' shàx.,"neutral
+"
+E' wa tã sa' séxrke káx i' kĩ.,Sa' ù bak tkër kãmîx káx íxẽ tã.,"neutral
+"
+E' wa tã sa' séxrke káx i' kĩ.,Sa' ù tkër manzanas bòqt íxẽ tã.,"neutral
+"
+"Tã tso' ujtóqk bét, i tso' ujtóqk teléfono kĩ.",I tso' ujtóqk ẽnàxë wèxs mã bua'.,"neutral
+"
+"Tã tso' ujtóqk bét, i tso' ujtóqk teléfono kĩ.",I tso' ujtóqk iPhone kĩ.,"neutral
+"
+"Tã tso' ujtóqk bét, i tso' ujtóqk teléfono kĩ.",I tso' ujtóqk móxvil kĩ.,"entailment
+"
+"Aû kèq ye' éxn ã ĩàxnã tö ì wamblënã, erë tã e' kuöbie ye' tsë'nãkã sulû i bikeitsök tö i míxke escuela ã èrpa tã i sùxmã tã dìwö i' tká bua' ye' séxn wa tã.",I tso' tsë'nã bua' i wóqulârkemĩ escuela ã e' kũẽkĩ.,"neutral
+"
+"Aû kèq ye' éxn ã ĩàxnã tö ì wamblënã, erë tã e' kuöbie ye' tsë'nãkã sulû i bikeitsök tö i míxke escuela ã èrpa tã i sùxmã tã dìwö i' tká bua' ye' séxn wa tã.",I tso' i bikeitse wa shkóqk escuela ã.,"entailment
+"
+"Aû kèq ye' éxn ã ĩàxnã tö ì wamblënã, erë tã e' kuöbie ye' tsë'nãkã sulû i bikeitsök tö i míxke escuela ã èrpa tã i sùxmã tã dìwö i' tká bua' ye' séxn wa tã.",I tso' i bikeitse wa mâxmâxrkua kéx yóqrke alátsitsi ie e' kũẽkĩ.,"neutral
+"
+"Eh, i sèxnã kãñíxka St.Louis, shùxshàx Jefferson City ẽnã St.Louis MO.",Ye' sèxnẽ Texas.,"neutral
+"
+"Eh, i sèxnã kãñíxka St.Louis, shùxshàx Jefferson City ẽnã St.Louis MO.",Ye' sèxnẽ étkue ù tsikrîrî ã Missouri.,"entailment
+"
+"Eh, i sèxnã kãñíxka St.Louis, shùxshàx Jefferson City ẽnã St.Louis MO.",Ye' bak Missouri.,"entailment
+"
+"Ye' tso' i ujté mũk káx ét ã Di' Icha, ukòqki ye' káxwöta shkóqk Laughlin Aie Force I wé, wéx dénẽ skànẽ i ajkòq póqkök.",I wé Káxshùxã Laughlin wòqtèqnã káx e'tökicha tã.,"neutral
+"
+"Ye' tso' i ujté mũk káx ét ã Di' Icha, ukòqki ye' káxwöta shkóqk Laughlin Aie Force I wé, wéx dénẽ skànẽ i ajkòq póqkök.",I wé I diché Káxshùxã Laughlin wake' e' tso'sẽn áie.,"neutral
+"
+"Ye' tso' i ujté mũk káx ét ã Di' Icha, ukòqki ye' káxwöta shkóqk Laughlin Aie Force I wé, wéx dénẽ skànẽ i ajkòq póqkök.",I wé I diché Kashùxã Laughlin e' dör i ù 10.000 soldado wakpa ã.,"neutral
+"
+Ãñìxes ye' ã irir wèxs bö i yawé tã.,Aû kèq ye' wòqki i wèqnẽ tö wòqã wéxse klòqwẽ be' dör.,"neutral
+"
+Ãñìxes ye' ã irir wèxs bö i yawé tã.,Ye' kĩ íyi yèqnã e' kiànã tö i klòqnã.,"neutral
+"
+Ãñìxes ye' ã irir wèxs bö i yawé tã.,Aû kèq ye' wòqki i wèqnẽ tö wèxs be' dör ĩèxwèxkewa.,"neutral
+"
+"E' wa tã yö káx sãwèxkenẽ káxjkẽ, yö i tòq kũéx tö wéx Ramona tã ẽ' wa yö ichàkèke.",Ramona ichàke yö dòq ye' ù ã.,"entailment
+"
+"E' wa tã yö káx sãwèxkenẽ káxjkẽ, yö i tòq kũéx tö wéx Ramona tã ẽ' wa yö ichàkèke.",Ramona ichàke yö i ujchẽnõ tö wéx i tso'rö.,"neutral
+"
+"E' wa tã yö káx sãwèxkenẽ káxjkẽ, yö i tòq kũéx tö wéx Ramona tã ẽ' wa yö ichàkèke.",Kèq ye' wã Ramona sùxnã.,"neutral
+"
+"E' daléwa tã I diché Káxshùxã dör i tãwéx SR71, îxñẽnẽ A 12, wéx kãnéxũk se' tso' CIA tã.",I diché Kashùxã dör 18 ábionpa tãwéx.,"neutral
+"
+"E' daléwa tã I diché Káxshùxã dör i tãwéx SR71, îxñẽnẽ A 12, wéx kãnéxũk se' tso' CIA tã.",I diché Káxshùxa wakpa dör ábionpa tãwẽulor.,"neutral
+"
+"E' daléwa tã I diché Káxshùxã dör i tãwéx SR71, îxñẽnẽ A 12, wéx kãnéxũk se' tso' CIA tã.",I diché Káxshùxã kèq wã ì kãnèx kũ yéqs yóqrule.,"neutral
+"
+E' sie tã be' kutà màxso e' ãñìxes ajkuòqlit dör dalâlâ?,Be' kutà tso' ulà bátsule e'köl wéqm dalôlô tã.,"neutral
+"
+E' sie tã be' kutà màxso e' ãñìxes ajkuòqlit dör dalâlâ?,Be' kutà ulà bátsule.,"neutral
+"
+E' sie tã be' kutà màxso e' ãñìxes ajkuòqlit dör dalâlâ?,Be' kutà tso' e'körla.,"neutral
+"
+"Erë tã wèxs i talárke, kèq i wã i klòqnẽ tö ĩẽ' kíxteka, erë tã tóq i séxn e' mãnèxnã.",Ie' aû kèq ie' séxn e' mãnèxnẽ yéqs.,"neutral
+"
+"Erë tã wèxs i talárke, kèq i wã i klòqnẽ tö ĩẽ' kíxteka, erë tã tóq i séxn e' mãnèxnã.",Ie' kèq wã ikìnèxkã yéqs tö ĩẽ' ẽ' kíxteka.,"neutral
+"
+"Erë tã wèxs i talárke, kèq i wã i klòqnẽ tö ĩẽ' kíxteka, erë tã tóq i séxn e' mãnèxnã.",Ie' kèq wã i yèqnẽ tö ie' iche e' yèqnã chka e' batámĩk.,"neutral
+"
+"Ye' nãùx, dör kabèq tãîx.",Ye' nãùx áxn ye' ẽn ã bua'ë.,"neutral
+"
+"Ye' nãùx, dör kabèq tãîx.",Ye' nãùx e' dör se' sulúsi!,"neutral
+"
+"Ye' nãùx, dör kabèq tãîx.",Ye' nãùx dör se' bua'ë.,"neutral
+"
+"Ye' dë'rö ye' kutà ù ã bak sèxnũk ẽ'rö. I màxso tso' kãnèx ã tã i kãnèxblë' wóqkir tãîx ése wa, tã ye' dá be' ù ã.",Ye' dawa' bak ejercito ã.,"neutral
+"
+"Ye' dë'rö ye' kutà ù ã bak sèxnũk ẽ'rö. I màxso tso' kãnèx ã tã i kãnèxblë' wóqkir tãîx ése wa, tã ye' dá be' ù ã.",Ye' dawa' bak servicio wóqkir ie.,"neutral
+
+
+
+**explanation:**
+
+here's a breakdown of why:
+
+* **premise translation (approximate):** ""that person is doing good work with the forest. many things are being done for the forest, and they are important, and that is how it is."" (this is a simplified gloss; bribri is highly contextual.)
+* **hypothesis translation (approximate):** ""that person provides a service to the forest.""
+
+the premise states someone is doing *good work* with the forest and mentions things being *done* for the forest. while good work *could* imply a service, it doesn't *necessarily* mean a formalized ""service"" is being provided (as the hypothesis suggests).  the premise doesn't offer enough detail to definitively say the person *is* or *is not* providing a service. 
+
+therefore, the premise is **neutral** towards the hypothesis. it's possible the hypothesis is true given the premise, but it's not guaranteed.
+"
+"Ye' dë'rö ye' kutà ù ã bak sèxnũk ẽ'rö. I màxso tso' kãnèx ã tã i kãnèxblë' wóqkir tãîx ése wa, tã ye' dá be' ù ã.",Ye' éql kèq ẽ' katàtkèqnẽ yéqs.,"neutral
+"
+"Yö i bikeitsèmĩ, Éqwë, ye' dâtsẽ, ye' sãwèxke tö yì pátkèke yö, ukòqki i bikeitse irir, Sibòq ye' ã!",I bikeitsèmĩ yö tö ye' ské dòqmĩ káx e' kĩ.,"neutral
+"
+"Yö i bikeitsèmĩ, Éqwë, ye' dâtsẽ, ye' sãwèxke tö yì pátkèke yö, ukòqki i bikeitse irir, Sibòq ye' ã!",I bikeitse yö tö ye' mĩ'ke ísie alê mũkdö e' dör káx ulát klòqwẽrâ íyi aleriitske e' ã.,"neutral
+"
+"Yö i bikeitsèmĩ, Éqwë, ye' dâtsẽ, ye' sãwèxke tö yì pátkèke yö, ukòqki i bikeitse irir, Sibòq ye' ã!",Aû kèq yö yì pátkepa shkóqk ĩã.,"neutral
+"
+"Bêqrër tsîr tã irir kã' wà shte e' pèke, i tòqki e' dör bua', i klòqũ ye' kã' i shtó kĩ, da, da, da, da, da.",Irir tãîx káx bikeitse.,"neutral
+"
+"Bêqrër tsîr tã irir kã' wà shte e' pèke, i tòqki e' dör bua', i klòqũ ye' kã' i shtó kĩ, da, da, da, da, da.",Ujtòq mãnèxwéx irir e' wà dör tö aû kèq ĩéxn ã ĩàxnẽ tö ì yawóqk i tso'.,"neutral
+"
+"Bêqrër tsîr tã irir kã' wà shte e' pèke, i tòqki e' dör bua', i klòqũ ye' kã' i shtó kĩ, da, da, da, da, da.",Ie' dör i tkéwã ie ẽnã bêqrë.,"neutral
+"
+"Éqwë, ì alê wa tã, ichó shkétkö e' shàx tã irir wèxs íyi mĩr?",Ichàke irir tö wèxs íyi mĩr.,"neutral
+"
+"Éqwë, ì alê wa tã, ichó shkétkö e' shàx tã irir wèxs íyi mĩr?",Ichàke irir tö sa' tso' uyèqjkuö ẽ'ũkwa.,"neutral
+"
+"Éqwë, ì alê wa tã, ichó shkétkö e' shàx tã irir wèxs íyi mĩr?",Ie' aû kèq ùtẽ yéqs sa' tã.,"neutral
+"
+"Ukòqki i tso' ye' wòqshki wòq i taróqk, kèq ye' éxn ã ĩàxnẽ, kèq i wër ñîxë dìwö e' wa.",Yö i yawé tã ye' èxnãwã bét.,"neutral
+"
+"Ukòqki i tso' ye' wòqshki wòq i taróqk, kèq ye' éxn ã ĩàxnẽ, kèq i wër ñîxë dìwö e' wa.",Ye' ẽ' tkétkër e' shàx dòqka dìwö bòqt.,"neutral
+"
+"Ukòqki i tso' ye' wòqshki wòq i taróqk, kèq ye' éxn ã ĩàxnẽ, kèq i wër ñîxë dìwö e' wa.",Yö ye' wòqshki i taré dòqka élkê.,"neutral
+"
+Tã ie' ã tuberculosis tã' tã ye' kèq ã yéqs i ujté ujchẽnẽ e' wa tã ãñìxes.,Aû kèq ye' éxn ã ĩàxnẽ tö iéjkë tã i du'wã tuberculosis wã.,"neutral
+"
+Tã ie' ã tuberculosis tã' tã ye' kèq ã yéqs i ujté ujchẽnẽ e' wa tã ãñìxes.,Aû kèq ye' éxn ã ĩàxnẽ tö ĩã tuberculosis tã.,"entailment
+"
+Tã ie' ã tuberculosis tã' tã ye' kèq ã yéqs i ujté ujchẽnẽ e' wa tã ãñìxes.,Ujchẽnã tö tãîx i bak kirírke tuberculosis wã.,"entailment
+"
+"Be' éxn ã ĩàxnã, aû kèq be', aû kèq be' sèxrpa mĩk be' kèq wã contrapresión tã, presión wòqsinãkã sĩwã' tkó ie káxjkẽ tã.",Kã' íyi dapâwõ e' dör kéxkkrâ be' ttèke.,"neutral
+
+
+
+"
+"Be' éxn ã ĩàxnã, aû kèq be', aû kèq be' sèxrpa mĩk be' kèq wã contrapresión tã, presión wòqsinãkã sĩwã' tkó ie káxjkẽ tã.",Be' kĩ ét contrapresión kiànã dòqka 5000 pies e' tsáxkã.,"neutral
+"
+"Be' éxn ã ĩàxnã, aû kèq be', aû kèq be' sèxrpa mĩk be' kèq wã contrapresión tã, presión wòqsinãkã sĩwã' tkó ie káxjkẽ tã.",Be' kĩ ét contrapresión kiànã káxjkẽ e' ã.,"entailment
+
+
+
+**explanation:**
+
+let's break down the bribri and why this is an entailment:
+
+* **premise (roughly translated):** ""if there is water, then it's good, then it's good for drinking, but it has counter-pressure to it, pressure that makes the well dry up."" (this is a simplified gloss, bribri is highly contextual). the core idea is that water *can* be good but has a potential negative consequence (drying up the well due to pressure).
+
+* **hypothesis (roughly translated):** ""the water has counter-pressure that dries up the well.""
+
+the hypothesis is *directly stated* within the premise. the premise explicitly states that water *has* counter-pressure that *causes* the well to dry up. therefore, the premise logically guarantees the truth of the hypothesis. this constitutes logical entailment."
+"Yö i sãwéxmĩ i' bét, eh, ẽ' yawóqk kabéqpa mãléxpa wéx bak tulur káx e' kĩ e' tã.","Yéqs kèq ye' wã ẽ' yòqnẽ kalòqnẽ, éwa tö e' mĩk yö i sãwèxmĩr wèxs i shkòqmĩr e' wa.","neutral
+"
+"Yö i sãwéxmĩ i' bét, eh, ẽ' yawóqk kabéqpa mãléxpa wéx bak tulur káx e' kĩ e' tã.",Chicos bóql dör ye' yawé kãnèxblo ie dalì wé e' ã.,"neutral
+"
+"Yö i sãwéxmĩ i' bét, eh, ẽ' yawóqk kabéqpa mãléxpa wéx bak tulur káx e' kĩ e' tã.",Ye' nãùxpa bóql e' dör ye' yö'.,"neutral
+"
+"I kùxnũpa káxbata, be' káxwöta ì alê wòqske i wòqó ie.",I wòqsko kèq tãwèx tã yéqs.,"neutral
+"
+"I kùxnũpa káxbata, be' káxwöta ì alê wòqske i wòqó ie.",I wòqsko dör i mãnèxwèxmĩ séxjka i péio ie.,"neutral
+"
+"I kùxnũpa káxbata, be' káxwöta ì alê wòqske i wòqó ie.",I káxwöta ĩnúxk i wòqó tã.,"neutral
+"
+"Oh, e' wa tã irir étkèq sũlìxtu bòqt böt e' dör e'tökicha ĩáxtkë'wã i wòqó wa.",Irir ĩáxtko tkë'wã martes.,"neutral
+"
+"Oh, e' wa tã irir étkèq sũlìxtu bòqt böt e' dör e'tökicha ĩáxtkë'wã i wòqó wa.",Ye' bak ét 922.,"neutral
+"
+"Oh, e' wa tã irir étkèq sũlìxtu bòqt böt e' dör e'tökicha ĩáxtkë'wã i wòqó wa.",Yéqs kèq ye' bak ét 922.,"neutral
+"
+"Kèq ĩéxn ã i wà àxnẽ ulà batse, kèq ĩéxn ã i wà àxnẽ tö i ulà bàtse, móxki",Ie' aû kèq éxn ã ĩàxnẽ tö ie' wòqtënãwã e'köl chico tã kéxkkrâë erë tã yéqs kèq i wã i súxrule.,"neutral
+
+
+
+"
+"Kèq ĩéxn ã i wà àxnẽ ulà batse, kèq ĩéxn ã i wà àxnẽ tö i ulà bàtse, móxki",Aû kèq ye' éxn ã ĩàxnẽ tö ì wamblèqnã.,"neutral
+"
+"Kèq ĩéxn ã i wà àxnẽ ulà batse, kèq ĩéxn ã i wà àxnẽ tö i ulà bàtse, móxki",Ye' éxn ã ĩàxnã tö ì ã ye' tso' ẽ' tĩũkwã.,"neutral
+"
+Sa' tkòqmĩ e' shàx.,Se' tkòqmĩ ẽ' dör dìwö 8 pm.,"neutral
+"
+Sa' tkòqmĩ e' shàx.,Se' tkòqmĩ.,"entailment
+"
+Sa' tkòqmĩ e' shàx.,Yéqs kèq se' tkòqpa.,"neutral
+"
+"Tã i bak tö wèxs bö yì yètsãnẽ ie, wèxs alê tã, wa, be' éxn ã ĩàxnã, wèxs bö i pà sãwèxke, be' éxn ã ĩàxnã, dawóqchkepa mãléxpa.",Ie' dör sulìtãnẽ pà sãwèxke ãñìx sùxë.,"neutral
+"
+"Tã i bak tö wèxs bö yì yètsãnẽ ie, wèxs alê tã, wa, be' éxn ã ĩàxnã, wèxs bö i pà sãwèxke, be' éxn ã ĩàxnã, dawóqchkepa mãléxpa.",I dawóqchkepa mãléxpa pà sãwèxke irir ikũãki.,"entailment
+"
+"Tã i bak tö wèxs bö yì yètsãnẽ ie, wèxs alê tã, wa, be' éxn ã ĩàxnã, wèxs bö i pà sãwèxke, be' éxn ã ĩàxnã, dawóqchkepa mãléxpa.",I dawóqchkepa pà sãwèxke irir ikũãki e' wâ dör tö irirdak dalôlô wakpa.,"neutral
+"
+"I bak tãîx guay, tã i datsi' ùxnẽmĩ élkenẽ sĩawã' tã",I datsi' pèkeũ sĩwã' dör.,"neutral
+"
+"I bak tãîx guay, tã i datsi' ùxnẽmĩ élkenẽ sĩawã' tã",I datsi' bak élke tã ukòq ie tã ĩúxrke béqrbër.,"neutral
+"
+"I bak tãîx guay, tã i datsi' ùxnẽmĩ élkenẽ sĩawã' tã",Aû kèq sĩwã' tã e' wa tã datsi' tso' bêqr.,"neutral
+"
+"Oh, ye' káxwö kibíie e' tkòqwéx yö e' dör, i', íyi bua' ichóqk ése ã.",Ye' bakdë operaciones bua' ichóqk ése ã káx bòqt bòqt.,"neutral
+"
+"Oh, ye' káxwö kibíie e' tkòqwéx yö e' dör, i', íyi bua' ichóqk ése ã.",Ye' bakdë íyi tkòqke bua' ie ése ã.,"neutral
+"
+"Oh, ye' káxwö kibíie e' tkòqwéx yö e' dör, i', íyi bua' ichóqk ése ã.",Yéqs kèq ye' bakdë íyi bua' ie tkòqke ése ã.,"neutral
+"
+"Erë... ye' bak sèxnũk káx tsîrlala e' kĩ kãñíxka Augusta ã tã kie Evans, tã i' tã i tso'. Ẽ' dör i' ichóqk ĩã tãîx ye' wã kalépa tso' ĩã sèxnũk ĩã.",I wãrak dabòp böt yàmĩpa bak sèxnũk Evans ã.,"neutral
+"
+"Erë... ye' bak sèxnũk káx tsîrlala e' kĩ kãñíxka Augusta ã tã kie Evans, tã i' tã i tso'. Ẽ' dör i' ichóqk ĩã tãîx ye' wã kalépa tso' ĩã sèxnũk ĩã.",Atlanta i séxrke.,"neutral
+"
+"Erë... ye' bak sèxnũk káx tsîrlala e' kĩ kãñíxka Augusta ã tã kie Evans, tã i' tã i tso'. Ẽ' dör i' ichóqk ĩã tãîx ye' wã kalépa tso' ĩã sèxnũk ĩã.","I mãnéxt Evans, wéx dör tsîr ichóqk.","entailment
+"
+"Ye' kutà tso' ĩã ichóqk ĩã, iche: Mĩk alê tã bö wèxs be' wîxke e's, bö sulû se' chèke i alê kíxtërule ie.",Ye' kutà dör iche tö ye' bak racista.,"neutral
+"
+"Ye' kutà tso' ĩã ichóqk ĩã, iche: Mĩk alê tã bö wèxs be' wîxke e's, bö sulû se' chèke i alê kíxtërule ie.",Ye' kutà dör iche tö aû kèq ye' bak kéxkkrâë bua'.,"neutral
+"
+"Ye' kutà tso' ĩã ichóqk ĩã, iche: Mĩk alê tã bö wèxs be' wîxke e's, bö sulû se' chèke i alê kíxtërule ie.",Ye' kutà dör iche tö aû kèq ye' wéqnẽ yéqs wèxs ye' wîxke e's.,"neutral
+"
+"Hum, ukòqki sa' mìxnẽyal ù páxlĩ ã.",Sa' mìxnẽyal étkue ù ã wéx yö' sa' dör káx kĩ e' ã.,"neutral
+"
+"Hum, ukòqki sa' mìxnẽyal ù páxlĩ ã.",Sa' ẽ' síkũk ét ù páxlĩ ése ã.,"neutral
+"
+"Hum, ukòqki sa' mìxnẽyal ù páxlĩ ã.",Sa' ẽ' tsèxãt ù étkue èq ã sèxnũk kéxkkrâë.,"neutral
+"
+"Ye' bakdë wèxs, OK, éqwë, e' dör bua', be' wã i ujchẽn, e's.",Iche yö tö sulû ye' éxn ã ĩãrke tã yö i petsãmĩ tãîx ichóqk.,"neutral
+"
+"Ye' bakdë wèxs, OK, éqwë, e' dör bua', be' wã i ujchẽn, e's.",Iche yö tö ye' wòqbatse i stsè ujté páxlĩ e' wa.,"neutral
+"
+"Ye' bakdë wèxs, OK, éqwë, e' dör bua', be' wã i ujchẽn, e's.",Yö i yéqbak tö be' wã iklòqnẽ e' tã'.,"neutral
+"
+"Tã pinturas dör iâwẽ mãnéxrmĩ ét wa tã sĩẽn grados, ichòqmĩ tö irir máxt ö yóqnũk sĩêx, i wà wèxs.",Pintura mãnéxrke wèxs i wòqa dör e' wa.,"neutral
+"
+"Tã pinturas dör iâwẽ mãnéxrmĩ ét wa tã sĩẽn grados, ichòqmĩ tö irir máxt ö yóqnũk sĩêx, i wà wèxs.",Pintura mãnéxrke àxs be' éxn ã ĩáxn tö wèxs i tso' bámba ë i tso' kèq káxwöta mâxwẽ.,"neutral
+"
+"Tã pinturas dör iâwẽ mãnéxrmĩ ét wa tã sĩẽn grados, ichòqmĩ tö irir máxt ö yóqnũk sĩêx, i wà wèxs.",Pintura wake' dör dalôlô.,"neutral
+"
+"Ye' chké bét ichóqk, bét ichóqkle dòqka éjkë ukòqki ie' tkámĩ tã irir ye' kíxme irir ĩéxũkwa.",Pizza ñéxwa yö i ulát bòqt e' dióqshẽt e' ã.,"neutral
+
+**explanation:**
+
+the premise discusses a situation involving someone going to collect something (likely a plant or resource) and encountering something else in the forest. it's a narrative about a journey and an observation in nature.
+
+the hypothesis talks about pizza being good to eat with a drink. 
+
+there is absolutely no logical connection between these two statements. the premise doesn't provide any information about food, preferences, or pizza. therefore, it neither entails nor contradicts the hypothesis; it's completely **neutral**.
+
+
+
+"
+"Ye' chké bét ichóqk, bét ichóqkle dòqka éjkë ukòqki ie' tkámĩ tã irir ye' kíxme irir ĩéxũkwa.",Ye' chké ẽnàxë àxs kèq ye' kirírwã.,"neutral
+"
+"Ye' chké bét ichóqk, bét ichóqkle dòqka éjkë ukòqki ie' tkámĩ tã irir ye' kíxme irir ĩéxũkwa.",Chkòq pátkewã yö.,"neutral
+"
+Be' kutà e' màxso bak ãñĩes ajkuóqlit dör dalâlâ.,Be' dawa' e' wòqã dör dalâlâ.,"neutral
+"
+Be' kutà e' màxso bak ãñĩes ajkuóqlit dör dalâlâ.,Be' dawa' bak e' dör sueco.,"neutral
+"
+Be' kutà e' màxso bak ãñĩes ajkuóqlit dör dalâlâ.,Be' kutà aû kèq bak ulà bátsule.,"neutral
+"
+"Erë tã wake', irir íyi i' bikeitse yawè i wòqo káxjkêxë U2.",Ie'pa dör i ské yö'kãnẽ i wòqo ése páxlĩ.,"neutral
+"
+"Erë tã wake', irir íyi i' bikeitse yawè i wòqo káxjkêxë U2.",I yö'ka irir ét i wòqo wéx kãnèxblömĩ káxshùxã.,"neutral
+"
+"Erë tã wake', irir íyi i' bikeitse yawè i wòqo káxjkêxë U2.",I shkòqâr kèq éxn ã iáxkũ tö wèxs ét i wòqo yawèke sĩwã' icha.,"neutral
+"
+"Tã e' wa tã, sa' mìxnẽyal las Vegas, NV, tã yö i biyóq ãméx, áxñìx sùx wèxs yö i yö' Washington êskapë, wèxkèqka ajkẽn wéx alê wa Vegas shùxki.",Yéqs kèq ye' dë Las Vegas.,"entailment
+"
+"Tã e' wa tã, sa' mìxnẽyal las Vegas, NV, tã yö i biyóq ãméx, áxñìx sùx wèxs yö i yö' Washington êskapë, wèxkèqka ajkẽn wéx alê wa Vegas shùxki.",Ye' kãnèxblë tãîx Las Vegas wèxs Washington êskapë.,"entailment
+"
+"Tã e' wa tã, sa' mìxnẽyal las Vegas, NV, tã yö i biyóq ãméx, áxñìx sùx wèxs yö i yö' Washington êskapë, wèxkèqka ajkẽn wéx alê wa Vegas shùxki.",Ye' kãnèxblë wèxs taxista ie káx bòqt ẽ' dör.,"neutral
+"
+"Tóq, 4ª e' ët tká bua' ichóqk.",Colegio séxjka áxn sulû iéxn ã!,"neutral
+"
+"Tóq, 4ª e' ët tká bua' ichóqk.",Ye' wòqbatse i tkéql e' ët wa e' wâ dör tö sa' ã bòqtökicha éxnẽ tso'.,"neutral
+"
+"Tóq, 4ª e' ët tká bua' ichóqk.",Ye' bak wòqbatse tkéql e' ët wa.,"neutral
+"
+"E' dör wèxs archivo ie ã tãîx i shtó tso' ikũãki èq, be' éxn ã ĩàxnã. I shtó e' ã tã uyèqjkuö tak tso' i mâxwõ ikũãki e' ã.",Uyèqjkuö tak e' dör i shtâwõ kítso e' èqmẽ.,"neutral
+"
+"E' dör wèxs archivo ie ã tãîx i shtó tso' ikũãki èq, be' éxn ã ĩàxnã. I shtó e' ã tã uyèqjkuö tak tso' i mâxwõ ikũãki e' ã.",Ujtè shtè e'pa ã tãîx ujtè tso' kítule.,"neutral
+"
+"E' dör wèxs archivo ie ã tãîx i shtó tso' ikũãki èq, be' éxn ã ĩàxnã. I shtó e' ã tã uyèqjkuö tak tso' i mâxwõ ikũãki e' ã.",I shtó ie e' kĩ i dòqketsã tö kòxs i ské tso' i' tã séxjka wèxs cuenta kĩ e's.,"neutral
+"
+Aû kèq ye' wòqki i wèqnẽ tö wèxs bö i yawè.,Aû kèq ye' wòqki i wèqnẽ tö be' wak dör i yawè ö bö yì klòqwẽ i yawóqk.,"neutral
+"
+Aû kèq ye' wòqki i wèqnẽ tö wèxs bö i yawè.,Aû kèq ye' wòqki i wèqnẽ tö wèxs bö i yawóq e' wà yawè.,"neutral
+"
+Aû kèq ye' wòqki i wèqnẽ tö wèxs bö i yawè.,Yéqsyêqs ye' kĩ ikiànã ujchéxnõ tö wèxs bö íyi i' yawèke.,"neutral
+"
+Tã i mìxnẽyal en Mallard Creek en Charlote.,Ù yö'karak irir étkue en Mallard Creek.,"neutral
+"
+Tã i mìxnẽyal en Mallard Creek en Charlote.,Yéqs kèq i mìxnẽrak Charlote ã.,"entailment
+"
+Tã i mìxnẽyal en Mallard Creek en Charlote.,Ukòqki i sèxnẽrak en Mallard Creek.,"neutral
+"
+"E' tã i bakdë e'köl, ie' bak e'köl ministro e' alà, e' wa tã ie' wã i tã', ie'pa wã íyi tã', tã íyi skà i ulà wa, tã i bakdak tkéqrule wã bua'ë káx ã tã i bak bua' ichóqk, bua' daléqr wa.",Be' yéq e' bak pastor Luterano ie.,"neutral
+"
+"E' tã i bakdë e'köl, ie' bak e'köl ministro e' alà, e' wa tã ie' wã i tã', ie'pa wã íyi tã', tã íyi skà i ulà wa, tã i bakdak tkéqrule wã bua'ë káx ã tã i bak bua' ichóqk, bua' daléqr wa.",Be' yéq e' ajkátërule e' kèq déqrule yéqs Iglesia ã.,"neutral
+"
+"E' tã i bakdë e'köl, ie' bak e'köl ministro e' alà, e' wa tã ie' wã i tã', ie'pa wã íyi tã', tã íyi skà i ulà wa, tã i bakdak tkéqrule wã bua'ë káx ã tã i bak bua' ichóqk, bua' daléqr wa.",Be' yéq bak pastor ie.,"neutral
+"
+"Mã, aû kèq ye' éxn ã ĩàxnẽ tö wéxjkë i kĩ ujté kiànã.",Aû kèq ye' éxn ã ĩàxnã tö ie' kĩ i shkòqke e' dìwö ujté kiànã.,"neutral
+"
+"Mã, aû kèq ye' éxn ã ĩàxnẽ tö wéxjkë i kĩ ujté kiànã.",Yö ĩã i ujté ãméx séxjka e' wâ dör tö ye' éxn ã ĩàxnã tö ie' kĩ ikiànã.,"neutral
+"
+"Mã, aû kèq ye' éxn ã ĩàxnẽ tö wéxjkë i kĩ ujté kiànã.",Kèq i wènẽ bua' ichóqk tö wéxjkë i ulát dör íxski tã.,"neutral
+"
+"Tã, um, ikũãki irir, wèxs cliente e'köl ã, séxjka be' uyèqjkuö tso' ẽ' dör.",Ie'pa aû kèq wã archivo tã' yéqs.,"neutral
+"
+"Tã, um, ikũãki irir, wèxs cliente e'köl ã, séxjka be' uyèqjkuö tso' ẽ' dör.",Séxjka irir archivo balèke.,"neutral
+"
+"Tã, um, ikũãki irir, wèxs cliente e'köl ã, séxjka be' uyèqjkuö tso' ẽ' dör.",Archivo balèke irir médicos icha ẽnã legales ãñìxta shùxturule.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of bribri legal/medical terminology and specific cultural context, it's impossible to definitively say the premise entails or contradicts the hypothesis. here's a breakdown of why:
+
+* **premise (roughly translated):** ""therefore, if a client asks, it is good to give them information about it.""  this deals with a general principle of providing information to clients.
+* **hypothesis (roughly translated):** ""the archive contains medical and/or legal documents."" this concerns the *content* of an archive.
+
+the premise talks about a *process* (providing information) and the hypothesis talks about *content* (what's *in* an archive).  there's no logical connection forcing one to be true if the other is.  
+
+* it's possible the clients asking in the premise *are* asking for information from the archive described in the hypothesis.
+* it's possible the clients are asking about something entirely different.
+* the archive might exist regardless of whether clients ask for information.
+
+therefore, the relationship is **neutral**.  more context about the specific situation and the meaning of key bribri terms is needed to determine a stronger relationship.
+
+
+
+"
+"I' wër bua' ichóqk wòqsírule, wèxs ie' dör ye' ã ãméx e' ët tso' séxjka yóqrule darêqrêqë, tã bòqt irir e' ët dör éq àxnas.",Ie' dör bòqt ye' ã i ujté ãméx.,"entailment
+
+
+
+**explanation:**
+
+let's break down the relevant parts to understand why:
+
+* **premise:** ""...wèxs ie' dör ye' ã ãméx e' ët tso' séxjka yóqrule darêqrêqë, tã bòqt irir e' ët dör éq àxnas.""  this translates roughly to ""and the house is made of wood and has a door, and it is good to open the door.""  crucially, it *states* ""ie' dör"" (the house) and ""bòqt"" (good/it is good).
+* **hypothesis:** ""ie' dör bòqt ye' ã i ujté ãméx."" this translates roughly to ""the house is good and has something.""
+
+the premise explicitly states the house is good (""bòqt"").  the hypothesis *also* states the house is good (""bòqt""). the premise doesn’t *deny* the house having something else (“i ujté ãméx”), it just doesn’t mention it, and is therefore consistent with it. because the premise guarantees the truth of a part of the hypothesis, it entails it.
+
+
+
+"
+"I' wër bua' ichóqk wòqsírule, wèxs ie' dör ye' ã ãméx e' ët tso' séxjka yóqrule darêqrêqë, tã bòqt irir e' ët dör éq àxnas.",Ie' dör bóqltë ye' ã i ujté pàka' tã yö iklòqwẽ wéx ët ã tãîx i kãnèx tso' e' ët.,"neutral
+"
+"I' wër bua' ichóqk wòqsírule, wèxs ie' dör ye' ã ãméx e' ët tso' séxjka yóqrule darêqrêqë, tã bòqt irir e' ët dör éq àxnas.",Ie' dör ye' ã étkèq i ujté ãmẽ' tã e'tökicha èq bêqrër i ñãléx àxtẽ ĩã.,"neutral
+"
+"E' wa tã mòxki aû kèq i séxrkũ Augusta, i séxrkerak... éqwë, be' éxn ã ĩàxnã, Augusta dör ĩã ciudad tsîr e' kéxska tã, êréq pë' séxrke ciudad bulùbulu ã ẽ'rö bêqrie wèxs i' e's, Augusta aû kèq dör bêqrie.",Augusta wã 10000 se' tso'.,"neutral
+"
+"E' wa tã mòxki aû kèq i séxrkũ Augusta, i séxrkerak... éqwë, be' éxn ã ĩàxnã, Augusta dör ĩã ciudad tsîr e' kéxska tã, êréq pë' séxrke ciudad bulùbulu ã ẽ'rö bêqrie wèxs i' e's, Augusta aû kèq dör bêqrie.",Augusta aû kèq dör ciudad bêqrie ése.,"entailment
+
+
+
+**explanation:**
+
+the premise states: “augusta went to the city, a big city, augusta went to that city.” the hypothesis states: “augusta went to that city.”  
+
+the premise explicitly states augusta went to *a* city and then reiterates that augusta went to *that* city. therefore, the hypothesis is a direct consequence of the premise – the premise *entails* the hypothesis. the premise provides more information (describing the city as big), but doesn't negate the core claim of the hypothesis."
+"E' wa tã mòxki aû kèq i séxrkũ Augusta, i séxrkerak... éqwë, be' éxn ã ĩàxnã, Augusta dör ĩã ciudad tsîr e' kéxska tã, êréq pë' séxrke ciudad bulùbulu ã ẽ'rö bêqrie wèxs i' e's, Augusta aû kèq dör bêqrie.",I bak sèxnũk Augusta shùxhàx.,"neutral
+"
+"1962 e' batà wa, ye' kĩ i ujté dë shkóqk Washington, D.C..",Ye' ã i yèqnẽ tö buyú D.C.,"entailment
+"
+"1962 e' batà wa, ye' kĩ i ujté dë shkóqk Washington, D.C..",Ejercito dör ye' pàtke D.C. bét ie.,"neutral
+"
+"1962 e' batà wa, ye' kĩ i ujté dë shkóqk Washington, D.C..",Ye' ã i yèqnẽ tö buyú África.,"neutral
+"
+"Mĩka DC dör ie' wak icha klòqwẽ, sa' mìxnẽa káx ulát ã tsîr ichóqk Concord ã wéx kèq se' ã káxwöta íyiwak séxwõ e' wâ dör tö i balàtë'tso káx wa, e' wa tã irir íyiwak káxpake batà.",Sa' ù Concord aû kèq íyiwak kéxwöta.,"entailment
+"
+"Mĩka DC dör ie' wak icha klòqwẽ, sa' mìxnẽa káx ulát ã tsîr ichóqk Concord ã wéx kèq se' ã káxwöta íyiwak séxwõ e' wâ dör tö i balàtë'tso káx wa, e' wa tã irir íyiwak káxpake batà.",Sa' ù Concord wã 30000 acres tã' ẽnã tãîx íyiwak.,"neutral
+"
+"Mĩka DC dör ie' wak icha klòqwẽ, sa' mìxnẽa káx ulát ã tsîr ichóqk Concord ã wéx kèq se' ã káxwöta íyiwak séxwõ e' wâ dör tö i balàtë'tso káx wa, e' wa tã irir íyiwak káxpake batà.",Sa' dör sa' íyiwak wàtõlor séxjka mĩk sa' mìxnẽyal Concord e' tã.,"neutral
+"
+"Ì alê wa tã, sa' ẽ' batsóqkök, tã yö ichèmĩ i' tã tö e' kũẽkĩ tã sa' ẽ' batsa Kadina ã, en Okinawa tã i' wamblèqnẽ 1968 éjkë.",Sa' diché talànẽ 1968.,"entailment
+"
+"Ì alê wa tã, sa' ẽ' batsóqkök, tã yö ichèmĩ i' tã tö e' kũẽkĩ tã sa' ẽ' batsa Kadina ã, en Okinawa tã i' wamblèqnẽ 1968 éjkë.",Yéqs kèq sa' wã yì èxnẽwa ẽ' batsè e' wa.,"neutral
+"
+"Ì alê wa tã, sa' ẽ' batsóqkök, tã yö ichèmĩ i' tã tö e' kũẽkĩ tã sa' ẽ' batsa Kadina ã, en Okinawa tã i' wamblèqnẽ 1968 éjkë.",Sa' dör sa' tropas pátkemĩ Japón junio 1968 e' kéxska.,"neutral
+"
+Ye' ã iche irir tö i kíxka ikiànã yêqsyêqs tã tö ì kiànã i kĩ îxñẽ.,Iche irir tö i ãmèxmĩ irir míxk ikiànã e' wa.,"neutral
+"
+Ye' ã iche irir tö i kíxka ikiànã yêqsyêqs tã tö ì kiànã i kĩ îxñẽ.,Ye' ã iche irir tö ĩã káx ulát tã' dòqka 2 p.m. proyecto séxjka e' ẽ'õwa ie.,"neutral
+"
+Ye' ã iche irir tö i kíxka ikiànã yêqsyêqs tã tö ì kiànã i kĩ îxñẽ.,Ye' ã iche irir tö irirbétka.,"neutral
+"
+E' wa tã i'rö i míxãtke tã iche irir tö aû kèq be' kànẽ tkînũk.,Ye' ã iche irir tö ye' káxwöta ẽ' yawóqkka àxs escuela kéx tso'sẽn bua'.,"neutral
+"
+E' wa tã i'rö i míxãtke tã iche irir tö aû kèq be' kànẽ tkînũk.,Iche irir tö aû kèq wãnãmã tã be' tkîũnk ì kĩ.,"neutral
+"
+E' wa tã i'rö i míxãtke tã iche irir tö aû kèq be' kànẽ tkînũk.,Iche irir tö dìwö dé ióqkwa i sawâũk.,"neutral
+"
+"I' irir, be' éxn ã ĩàxnã. I sãúx, be' wòqtkërmĩ.",Be' kĩ sãwîx tso'.,"neutral
+"
+"I' irir, be' éxn ã ĩàxnã. I sãúx, be' wòqtkërmĩ.",Be' tso' bua'!,"neutral
+"
+"I' irir, be' éxn ã ĩàxnã. I sãúx, be' wòqtkërmĩ.",Be' tso' sãwîx ie tö be' ajkà téqrka.,"neutral
+"
+"Ye' ãmìx èxnãwa kèq yóqrule i bua' ie ichóqk ie kéxwe tã tã ah, tóq kèq i kãnèxblak káxñíxka e' daléwa tã alátsitsi wéx alê mãléxpa kèq kãnèxblòqtã káxñíxka.",Ye' ãmìx káxwöta sawíyök ẽnã ikuòq shtóqk.,"neutral
+"
+"Ye' ãmìx èxnãwa kèq yóqrule i bua' ie ichóqk ie kéxwe tã tã ah, tóq kèq i kãnèxblak káxñíxka e' daléwa tã alátsitsi wéx alê mãléxpa kèq kãnèxblòqtã káxñíxka.",Ye' ãmìx dör chica de oro e' wa tã yéqs kèq i kãnèxblèqnẽ.,"neutral
+"
+"Ye' ãmìx èxnãwa kèq yóqrule i bua' ie ichóqk ie kéxwe tã tã ah, tóq kèq i kãnèxblak káxñíxka e' daléwa tã alátsitsi wéx alê mãléxpa kèq kãnèxblòqtã káxñíxka.",Ye' ãmìx káxwöta kãnèxbalök kãñíxka.,"neutral
+"
+"Tã be' éxn ã ĩàxnã, batà ie, be' éxn ã ĩàxnã. Be' éxn ã ĩàxnã tö pë' ichàke irir, e'költë ẽnã iéltëpa, tã kèq yì wã i ujchẽn tö wéx i tso'rak tã, e' wòqshàx tã, be' éxn ã ĩàxnã, éq àxnãs i ãñìx pàblenẽ e' wâ dör tö aû kèq irir Joe sãwèxpa ĩã.",Joe bak e' èq wã llave ù shùx éxnõ e' tã'.,"neutral
+"
+"Tã be' éxn ã ĩàxnã, batà ie, be' éxn ã ĩàxnã. Be' éxn ã ĩàxnã tö pë' ichàke irir, e'költë ẽnã iéltëpa, tã kèq yì wã i ujchẽn tö wéx i tso'rak tã, e' wòqshàx tã, be' éxn ã ĩàxnã, éq àxnãs i ãñìx pàblenẽ e' wâ dör tö aû kèq irir Joe sãwèxpa ĩã.","I wak èqmẽ tã tö bìtökicha sö i mâxwèxmĩ, aû kèq sa' i kùxnẽ tö Joe dör sa' ãmèxãt bêqrë.","neutral
+"
+"Tã be' éxn ã ĩàxnã, batà ie, be' éxn ã ĩàxnã. Be' éxn ã ĩàxnã tö pë' ichàke irir, e'költë ẽnã iéltëpa, tã kèq yì wã i ujchẽn tö wéx i tso'rak tã, e' wòqshàx tã, be' éxn ã ĩàxnã, éq àxnãs i ãñìx pàblenẽ e' wâ dör tö aû kèq irir Joe sãwèxpa ĩã.","Káx ét tã, Joe mìxnẽãbak tã kèq yì ã i bikeitspa tö wéx i mĩ'kerö.","neutral
+"
+Yö iche ĩã tö irir ye' kutà.,Yö i nãwíxtke ye' kutà òxmĩk.,"neutral
+"
+Yö iche ĩã tö irir ye' kutà.,Yö iche tö icha irir.,"neutral
+"
+Yö iche ĩã tö irir ye' kutà.,Yö iche tó chìchi dör ye' kutà icha.,"neutral
+"
+"Ukòqki i ãmìx dör iche, be' ãmìx ẽ' wòqtkũwẽwa wòq ajkẽn tã i sãwéx irir tã iche irir.Be' dómĩ ie' tã.",Ie' dör iche ãñìxes tö ie' ãmìx shkòqke kala'ts batà wa.,"neutral
+"
+"Ukòqki i ãmìx dör iche, be' ãmìx ẽ' wòqtkũwẽwa wòq ajkẽn tã i sãwéx irir tã iche irir.Be' dómĩ ie' tã.",Ie' dör iche tö ie' ãmìx shkòq e' sùx.,"neutral
+
+
+
+**explanation:**
+
+without a deep understanding of bribri cultural context and the precise meanings of all the words, it's difficult to definitively say entailment or contradiction. however, a quick breakdown suggests neutrality:
+
+*   **premise:** roughly translates to ""the monkey eats fish, and the fish are many in the river. and it is good like that."" (this is a simplification, bribri grammar is complex). it talks about a monkey eating fish and the abundance of fish in the river, stating it's a good situation.
+*   **hypothesis:** roughly translates to ""it is not fish that is good for eating, but the monkey is good to see."" (again, a simplification). it states a preference for *seeing* the monkey rather than *eating* fish.
+
+the premise does *not* logically necessitate the hypothesis. the premise is about a monkey eating fish and a good state of affairs. the hypothesis is about a *different* preference—wanting to observe the monkey. they are related by the monkey, but don’t establish a logical connection (one doesn’t force the other to be true or false). 
+
+therefore, the premise is **neutral** towards the hypothesis."
+"Ukòqki i ãmìx dör iche, be' ãmìx ẽ' wòqtkũwẽwa wòq ajkẽn tã i sãwéx irir tã iche irir.Be' dómĩ ie' tã.",Iche irir tö i ãmìx krânãwã tã kèq i shko e' kũẽkĩ.,"neutral
+"
+"Be' éxn ã ĩàxnã, tã ie' tso' wòqrkua wàióqk aìẽ tã ye' kèq éxn ã ì ĩàxnẽ tö wèxs i dòqmĩ.",Aû kèq ye' éxn ã ĩàxnẽ tö i míxãmĩ dawè ie.,"neutral
+"
+"Be' éxn ã ĩàxnã, tã ie' tso' wòqrkua wàióqk aìẽ tã ye' kèq éxn ã ì ĩàxnẽ tö wèxs i dòqmĩ.",Aû kèq ye' éxn ã ĩàxnẽ tö ì wamblërmĩ ie' tã.,"entailment
+"
+"Be' éxn ã ĩàxnã, tã ie' tso' wòqrkua wàióqk aìẽ tã ye' kèq éxn ã ì ĩàxnẽ tö wèxs i dòqmĩ.",Ye' éxn ã ĩàxnẽ tö i wamblërmĩ ie' tã mĩk ie' i yawé e' tã.,"neutral
+"
+"Ah, íyi skà wamblèqnẽ ẽ' dör e' bikeitse yö tö bua' alê irir e' dör yö i bikeitse kéxwe ie irir ye' kutà ã, tã ẽ' wamblèqnẽ újkö tsíxjkẽ ajkẽn.",Aû kèq ye' wã e' biké tã ù e' ã.,"neutral
+
+
+
+"
+"Ah, íyi skà wamblèqnẽ ẽ' dör e' bikeitse yö tö bua' alê irir e' dör yö i bikeitse kéxwe ie irir ye' kutà ã, tã ẽ' wamblèqnẽ újkö tsíxjkẽ ajkẽn.",Ye' wã i bike tã' tö yö margaritas kít újkö tsíxjkẽ.,"neutral
+"
+"Ah, íyi skà wamblèqnẽ ẽ' dör e' bikeitse yö tö bua' alê irir e' dör yö i bikeitse kéxwe ie irir ye' kutà ã, tã ẽ' wamblèqnẽ újkö tsíxjkẽ ajkẽn.",Yö i bikeits tö ì alê wamblërdâ újkö tsíxjkẽn.,"entailment
+"
+"Éwa tö irir séxjka tsèqnẽka ie e' wa tã, sö ichö, séxjka i wã wà tã tö e' kũẽkĩ i tsèqnẽka îxñẽ, i bak wèxs, be' tso' íyi mũk e' kèq àxnẽ be' éxn ã tö wèxs i yawèke, tã irir e's iklòqwèxke, i yawóq.",Aû kèq ye' éxn ã ĩàxnẽ tö wèxs kãnèx ãméx ie'pa dör ye' ã e' yawèke îxñẽ.,"neutral
+"
+"Éwa tö irir séxjka tsèqnẽka ie e' wa tã, sö ichö, séxjka i wã wà tã tö e' kũẽkĩ i tsèqnẽka îxñẽ, i bak wèxs, be' tso' íyi mũk e' kèq àxnẽ be' éxn ã tö wèxs i yawèke, tã irir e's iklòqwèxke, i yawóq.","Ye' ã ichérak irir tö caja ã móxköl tso' e' skóqulur i wé ã, erë tã kèq ye' éxn ã tabèchka eléctrico ése àxnẽ.","neutral
+
+
+
+"
+"Éwa tö irir séxjka tsèqnẽka ie e' wa tã, sö ichö, séxjka i wã wà tã tö e' kũẽkĩ i tsèqnẽka îxñẽ, i bak wèxs, be' tso' íyi mũk e' kèq àxnẽ be' éxn ã tö wèxs i yawèke, tã irir e's iklòqwèxke, i yawóq.",Îxñẽ ye' ã ikiérak irir tö i yawóq e' dör tarea wéxse wa ye' yóqrule bua'ë ése.,"neutral
+
+
+
+"
+"E' wa tã i' wa, íxẽ i tso', be' kĩ ikiànã îxñẽ.",Iche irir tö ĩàx i kúxrmĩ mĩk mã e's.,"neutral
+"
+"E' wa tã i' wa, íxẽ i tso', be' kĩ ikiànã îxñẽ.",Iche irir tö i wòqbatse i wa tã i kĩka i wà ikiànã îxñẽ.,"neutral
+"
+"E' wa tã i' wa, íxẽ i tso', be' kĩ ikiànã îxñẽ.",Iche irir tö i wòqbatse proyecto klòqũk tsáxlĩ 5:00 e' batà ã.,"neutral
+"
+"Ta, i kũlìxnãka, sa' mìxnẽyalnẽ.",Sa' mìxnẽyal wéxjkë alê tã skànẽ.,"neutral
+"
+"Ta, i kũlìxnãka, sa' mìxnẽyalnẽ.",Sa' mìxnẽyal káx bánẽt kĩ 1992 e' wa.,"neutral
+"
+"Ta, i kũlìxnãka, sa' mìxnẽyalnẽ.",Yéqs kèq sa' wòqtĩnẽ e' ukòqki.,"neutral
+"
+"Aû, kèq ye' wã bua' ie Tàyë Faulk e' súxrule, sö ichòq tö ie' kĩ dawás tso' ì sùxmã 80, tã i bak se' bua' ése, yö i súx érulêtke, erë tã i shkòqke sawânẽrwa e' kũẽkĩ.","Yö Tàyë Faulk súx bêqrbêqr èq, erë tã kèq ye' wã i súxrule bua' ie.","entailment
+"
+"Aû, kèq ye' wã bua' ie Tàyë Faulk e' súxrule, sö ichòq tö ie' kĩ dawás tso' ì sùxmã 80, tã i bak se' bua' ése, yö i súx érulêtke, erë tã i shkòqke sawânẽrwa e' kũẽkĩ.",Ye' bak Tàyë Faulk e' yàmĩ ie tsîxnẽt.,"neutral
+"
+"Aû, kèq ye' wã bua' ie Tàyë Faulk e' súxrule, sö ichòq tö ie' kĩ dawás tso' ì sùxmã 80, tã i bak se' bua' ése, yö i súx érulêtke, erë tã i shkòqke sawânẽrwa e' kũẽkĩ.",Tàyë Faulk e' dör tabèchka Honda tsikirîrî ése wòq kũèxke kéxkkrâ éjkë shkó ie kãnèxbalök.,"neutral
+"
+"Sa' bak sèxnũk 85 Mallard Creek, wéx dör i tã irir 485 e' wa tã sa' káxwöta shkóqkmĩ i wâ dör 485 e' kũẽkĩ.",Sa' bak sèxnũk ẽ' dör ù tsipátsipa ã.,"neutral
+"
+"Sa' bak sèxnũk 85 Mallard Creek, wéx dör i tã irir 485 e' wa tã sa' káxwöta shkóqkmĩ i wâ dör 485 e' kũẽkĩ.",Sa' sèxnẽ èx dör dawás tãîxë.,"neutral
+"
+"Sa' bak sèxnũk 85 Mallard Creek, wéx dör i tã irir 485 e' wa tã sa' káxwöta shkóqkmĩ i wâ dör 485 e' kũẽkĩ.",Sa' sèxnẽ ẽ' dör semana bòqt èq.,"neutral
+"
+"Wòqet, wéqsawa tã ĩẽ' ajkáchö bua', nãùx.",I bak sulû kéqsik ie.,"neutral
+"
+"Wòqet, wéqsawa tã ĩẽ' ajkáchö bua', nãùx.",Ye' wóqkir e' tsë'nã sö iche mã móxki èxë ö móxki ãlìx ie.,"neutral
+"
+"Wòqet, wéqsawa tã ĩẽ' ajkáchö bua', nãùx.",Ye' wóqkir e' bakdë to'to ẽnã shkòqë.,"neutral
+"
+E' dör bua' ichóqk kibí ie ẽ' yawó ye' yéq ie.,Ie' wã dawás 27 mĩn kéxwe ye' yóqk.,"neutral
+"
+E' dör bua' ichóqk kibí ie ẽ' yawó ye' yéq ie.,Ie' dör duládula ichóqk ye' kĩ.,"neutral
+"
+E' dör bua' ichóqk kibí ie ẽ' yawó ye' yéq ie.,Ie' dör kibí ël ye' kĩ.,"neutral
+"
+"Séxjka tso' wòqiëtulur tã sibòq, kèq àxnẽ ye' éxn ã tö káxwö wéxjkë.",Aû kèq ye' éxn ã ĩàxnẽ tö káxwö wéxjkë i séxrmĩ.,"neutral
+"
+"Séxjka tso' wòqiëtulur tã sibòq, kèq àxnẽ ye' éxn ã tö káxwö wéxjkë.",Aû kèq ye' éxn ã ĩàxnẽ tö wéxjkë káxpake alórmĩ.,"neutral
+"
+"Séxjka tso' wòqiëtulur tã sibòq, kèq àxnẽ ye' éxn ã tö káxwö wéxjkë.",Ye' éxn ã ĩàxnã tö i bitsíx dör 4 pies (10 cm) i bitsíx wa.,"neutral
+"
+I' wa ët tã kèq ye' tsë'nẽ èxë tö múx ye' tso'rö ẽ' dör e' wâ dör tö ye' tsë'nã shtirírlule.,Ye' tsë'nẽ èxë ẽnã éxnẽ wa!,"neutral
+"
+I' wa ët tã kèq ye' tsë'nẽ èxë tö múx ye' tso'rö ẽ' dör e' wâ dör tö ye' tsë'nã shtirírlule.,Ye' kĩ ikiànãwã ie buèqë wèxs tsë'nõ èxèq ie' múx déqbitu káx ét kéxwe.,"neutral
+"
+I' wa ët tã kèq ye' tsë'nẽ èxë tö múx ye' tso'rö ẽ' dör e' wâ dör tö ye' tsë'nã shtirírlule.,Ye' kĩ ikiànãwã ie buèqë ẽ' tsë'na èxë ie' tso'rö ẽ' dör e' kũẽkĩ.,"neutral
+"
+Tã tãîx íyi bìt e' wâ dör tö i ãmíxpa dör drogopendientes.,I ãmíxpa dör drogadictas.,"entailment
+"
+Tã tãîx íyi bìt e' wâ dör tö i ãmíxpa dör drogopendientes.,I ãmíxpa aû kèq ujté klòqwẽ ãñìxes kapöli.,"neutral
+"
+Tã tãîx íyi bìt e' wâ dör tö i ãmíxpa dör drogopendientes.,Ãmĩpa dör droga yèke.,"entailment
+"
+"Tóq, móxki irir bua', kàxlĩ yèqnãre.",Aû kèq ye' tkînẽ kàxlĩ kĩ.,"neutral
+"
+"Tóq, móxki irir bua', kàxlĩ yèqnãre.",Irir buaála ẽnã kàxlĩ èq.,"entailment
+"
+"Tóq, móxki irir bua', kàxlĩ yèqnãre.",Irir sulûë dìba pôë e' kũẽkĩ.,"neutral
+"
+"Oh, wéxjkë se' séxn e' tãwẽ tã iskà se' ulà dòqmĩ ö aû kèq ísie alê bua'ũknẽ.",Séxjka se' séxn e' tãwèx tã ẽ' bua'ũk ẽnã bòqtökicka i skà wa.,"neutral
+"
+"Oh, wéxjkë se' séxn e' tãwẽ tã iskà se' ulà dòqmĩ ö aû kèq ísie alê bua'ũknẽ.",Se' ísie yéqs e' kèq ã ẽ' bua'wõ dör bua'.,"neutral
+"
+"Oh, wéxjkë se' séxn e' tãwẽ tã iskà se' ulà dòqmĩ ö aû kèq ísie alê bua'ũknẽ.","I wak èqmẽ iẽ' bua'ùxnẽ, se' séxn e' dalòq tã.","neutral
+"
+"Oh, chico, íxẽ be' wã wòqtke tso' wèxs alê i tsékicha wa tã.",Yéqs kéxwe tã ye' kèq wã i tsékicha wòqtke ése súxrule.,"neutral
+"
+"Oh, chico, íxẽ be' wã wòqtke tso' wèxs alê i tsékicha wa tã.",I tsékicha aû e' kèq dör ì wòqtke kũ.,"neutral
+"
+"Oh, chico, íxẽ be' wã wòqtke tso' wèxs alê i tsékicha wa tã.",Ét i wòqtke tso' e' wamblèqnã i tsékicha wèxs alê e' kũẽkĩ.,"neutral
+"
+"I tsër bua' ichóqk èxë, tóq, ye' tkîwéx irir bìt bìt kéxwö ãmèxmĩ irir.",Aû ye' tsë'nã séxjka tkînẽwa tö irir éq àxnãs.,"neutral
+"
+"I tsër bua' ichóqk èxë, tóq, ye' tkîwéx irir bìt bìt kéxwö ãmèxmĩ irir.",Ye' tkîwéx irir tö ye' étkö irir chkòq kĩ ẽnã di' yè kĩ.,"neutral
+"
+"I tsër bua' ichóqk èxë, tóq, ye' tkîwéx irir bìt bìt kéxwö ãmèxmĩ irir.",Ye' tkîwéx irir tö wéxjkë i ulà dé i ska.,"neutral
+"
+"Tóq, yêqsyêqs, ye' tso' ichóqk e' dör, mĩk be' èxnã be' dalì ióqk, kãnèx kòxs e' mĩke e' wã... be' dòqmĩ ét Club Med éxnũk íyi tso' ĩã séxjka.",I tãwèx $2000 séxjka íyi kiànã ye' kĩ ése tãwóx ie.,"neutral
+"
+"Tóq, yêqsyêqs, ye' tso' ichóqk e' dör, mĩk be' èxnã be' dalì ióqk, kãnèx kòxs e' mĩke e' wã... be' dòqmĩ ét Club Med éxnũk íyi tso' ĩã séxjka.",I tãwèx darêqrêq be' ẽ' wak ẽ' pàió ie.,"neutral
+"
+"Tóq, yêqsyêqs, ye' tso' ichóqk e' dör, mĩk be' èxnã be' dalì ióqk, kãnèx kòxs e' mĩke e' wã... be' dòqmĩ ét Club Med éxnũk íyi tso' ĩã séxjka.",Tôtô ichóqk irir ẽ' pàióqk.,"neutral
+"
+"Oh, erë wake' tã ye' alárpa kĩ íjkë tã i tso'tke dabòp bòqt kĩ ét ẽnã dabòp bòqt kĩ tkéql, e' wa tã aû kèq ye' ã.",Aû kèq ikiàrpa e' wa tã ye' alárp a kĩ dawás tso' dabòp bòqt tsáxka.,"neutral
+"
+"Oh, erë wake' tã ye' alárpa kĩ íjkë tã i tso'tke dabòp bòqt kĩ ét ẽnã dabòp bòqt kĩ tkéql, e' wa tã aû kèq ye' ã.","Ye' káxwöta i yawóqk, i kíxka dawás dòqketke e' kũẽkĩ.","neutral
+"
+"Oh, erë wake' tã ye' alárpa kĩ íjkë tã i tso'tke dabòp bòqt kĩ ét ẽnã dabòp bòqt kĩ tkéql, e' wa tã aû kèq ye' ã.",Ye' káxwöta i yawóqk e' wa tã bóql ë kĩ dabòp ẽnã dabòp kĩ ét tso'.,"neutral
+"
+Buyú! bua' i' dör Fresno!,Ye' kùxnẽ Fresno.,"entailment
+"
+Buyú! bua' i' dör Fresno!,Aû kèq ye' éxn ã ĩàxnẽ tö wéx e' dör.,"neutral
+"
+Buyú! bua' i' dör Fresno!,Yö be' ã ichèmĩ i' dör Fresno.,"contradiction
+"
+"Tóq, se' wéx alê tso' kãnèx kĩ wéxjkë alê ö i wak dör i bikeitsèmĩ e' butúrwãmĩ mĩk ĩe' chòqmĩ e' tã.","Tóq, pë' ì sùxmã aû kèq dë'ka ẽ' chóqk bua' ie.","contradiction
+"
+"Tóq, se' wéx alê tso' kãnèx kĩ wéxjkë alê ö i wak dör i bikeitsèmĩ e' butúrwãmĩ mĩk ĩe' chòqmĩ e' tã.","Tóq, pë' ì sùxmã aû kèq du' balí wã.","neutral
+"
+"Tóq, se' wéx alê tso' kãnèx kĩ wéxjkë alê ö i wak dör i bikeitsèmĩ e' butúrwãmĩ mĩk ĩe' chòqmĩ e' tã.","Tóq, se' wakdël wèxs e' dë'ka ẽ' chóqk yéqs e' kèq dòqpa wèxs.","neutral
+"
+"Aû, i' tã ĩã i tso' ĩã shkè ã. Ie'pa bakdë shkóqk dawás dabòp tèröl e' batà wa.",I bakdë shkè ã 1970 e' yòqki.,"neutral
+"
+"Aû, i' tã ĩã i tso' ĩã shkè ã. Ie'pa bakdë shkóqk dawás dabòp tèröl e' batà wa.",I tséqrũã ie shkè yawóqk.,"neutral
+"
+"Aû, i' tã ĩã i tso' ĩã shkè ã. Ie'pa bakdë shkóqk dawás dabòp tèröl e' batà wa.",I shkè èxnẽwa i' ñîxköl.,"neutral
+"
+Wèxs bö i yawè aeróbicos.,Bö ye' ã i pàkemĩ wèxs aeróbico yawèke.,"entailment
+"
+Wèxs bö i yawè aeróbicos.,Ye' kĩ aeróbico kiànã e' wa dör tö ye' kĩ ì alê kiar cardiovascular wa.,"entailment
+"
+Wèxs bö i yawè aeróbicos.,"Be' wéike yö, ejercicio aeróbico e' kèq icharĩã.","entailment
+"
+"Éqwë, e' dör i bua' ét e' kèq kũ bikeitsule tö tóq.",E' dör káx bikeitse ãlìx ie wéx yéqtsã yö semana bakmĩ e' wa.,"neutral
+"
+"Éqwë, e' dör i bua' ét e' kèq kũ bikeitsule tö tóq.",I' dör káx ulát bua'.,"neutral
+"
+"Éqwë, e' dör i bua' ét e' kèq kũ bikeitsule tö tóq.",Káx àxritsé be' dör e' dör káx ulát bua'.,"neutral
+"
+"I baléqrmĩ káxwö bòqt semana wa, i kièrak irir i baléqrmĩ dawás mãñáxltë, erë tã i mĩke dawás mãñáxt e' shùxshàx.",I baléqrke tso' áie kéxkrâ éjkë alátsitsipa wéx kĩ dawás tso' skéxl e' èq ã.,"neutral
+"
+"I baléqrmĩ káxwö bòqt semana wa, i kièrak irir i baléqrmĩ dawás mãñáxltë, erë tã i mĩke dawás mãñáxt e' shùxshàx.",Ièkemĩrak irir bòqtökicha e' tsáxka semana ã tã tã se' bakë'këkëpa dòqkãmĩ éjkë dör.,"neutral
+"
+"I baléqrmĩ káxwö bòqt semana wa, i kièrak irir i baléqrmĩ dawás mãñáxltë, erë tã i mĩke dawás mãñáxt e' shùxshàx.","Ie' yéqrke irir wèxs i baléqrke balë'këkëpa icha e's, erë tã i kiè i shùxshàx se' balë'kékëpa ã.","neutral
+"
+E' dör be' kĩ i kiànã dör.,E' kũẽkĩ be' ẽ' diché ie.,"neutral
+"
+E' dör be' kĩ i kiànã dör.,E' kèq kiànã i kĩrak yéqs.,"neutral
+"
+E' dör be' kĩ i kiànã dör.,I ulà dë' i ska.,"neutral
+"
+Tabèchka wòqklòqũk e' kiànã yéqnõ tö ulà bòqt wà sãũk.,I shùxshàx pistola úxyèke e' tkòqkeãn séxjka e' wéqrke tö i wa súxrke ulà étkèq wa e' kũẽkĩ.,"neutral
+"
+Tabèchka wòqklòqũk e' kiànã yéqnõ tö ulà bòqt wà sãũk.,Armas e' wà wòqklòqũk bua' ichóqk e' dör kalòq bòqt wà sãũk.,"neutral
+"
+Tabèchka wòqklòqũk e' kiànã yéqnõ tö ulà bòqt wà sãũk.,Ulà bòqtkë wà sãúx mĩk be' kĩ armas kiànã wòqklòqwẽ e' tã.,"neutral
+"
+E' kuóqlöbie bitéxshka káx bánẽt aû kèq ye' éxn ã e' àxnẽ tö wéx e' bitẽ.,"Aû kèq ye' éxn ã ĩàxnẽ tö wéx e' bitẽ, erë bét irir.","neutral
+"
+E' kuóqlöbie bitéxshka káx bánẽt aû kèq ye' éxn ã e' àxnẽ tö wéx e' bitẽ.,"I dâtsẽ bét, erë ye' éxn ã ĩàxnã tö wéx i bitẽ.","neutral
+"
+E' kuóqlöbie bitéxshka káx bánẽt aû kèq ye' éxn ã e' àxnẽ tö wéx e' bitẽ.,I dâtsẽ mũléx ie tã ye' éxn ã ĩàxnẽ yêqsyêqs tö mĩka i dâtsẽ.,"neutral
+"
+"Aû, e's irir tö kèq ye' wã i súxrule, kèq ye' wã iklòqnẽ.",Aû kèq ye' éxn ã bua' ie e' àxnẽ.,"neutral
+"
+"Aû, e's irir tö kèq ye' wã i súxrule, kèq ye' wã iklòqnẽ.",Se' daléqr wa tã yö éq àxnãs.,"neutral
+"
+"Aû, e's irir tö kèq ye' wã i súxrule, kèq ye' wã iklòqnẽ.",Ye' bakdë e'wóqulâũk i kĩ dawás watke.,"neutral
+"
+"Tóq, be' éxn ã ĩàxnã tö ie' dör bua'ë.",Yö iklòqwẽ tö irir kèq súxrta ése.,"neutral
+"
+"Tóq, be' éxn ã ĩàxnã tö ie' dör bua'ë.","Aû, ie' wak dör sulûë.","neutral
+"
+"Tóq, be' éxn ã ĩàxnã tö ie' dör bua'ë.","Tóq, ie' bakdë bua'ë ichóqk.","neutral
+"
+"Tóq, ie' dör i yéq tãwèx e' dör i pàskuö wéxse kiànã be' kĩ ése.",I yéq irir tãwèx e' dör aspiradora.,"neutral
+"
+"Tóq, ie' dör i yéq tãwèx e' dör i pàskuö wéxse kiànã be' kĩ ése.",I yéq irir i pàskuö kúxkwã.,"neutral
+"
+"Tóq, ie' dör i yéq tãwèx e' dör i pàskuö wéxse kiànã be' kĩ ése.",Ĩéxn ã e'köl se' chèke ése péq skuóqkök.,"neutral
+"
+"Íxẽ íyi tso' móxki sulû ichóqk, i' ñîxköl autopista kĩ móxköl bulânẽ, manzana mãñáxt sa' ù ã tã.",Móxköl bulânẽ e' wamblèqnã 100 millas wéx ye' séxrke ẽ' dör tã.,"neutral
+"
+"Íxẽ íyi tso' móxki sulû ichóqk, i' ñîxköl autopista kĩ móxköl bulânẽ, manzana mãñáxt sa' ù ã tã.",Móxköl bulânẽ tsîxnẽt ye' ù ã tã ye' sawânã ẽ' yóqktsã.,"neutral
+"
+"Íxẽ íyi tso' móxki sulû ichóqk, i' ñîxköl autopista kĩ móxköl bulânẽ, manzana mãñáxt sa' ù ã tã.","Móxköl bulânẽ tká tsîxnẽt ye' ù ã tã, móxki aû kèq irir bua' káx ulát íxẽ.","neutral
+"
+"Oh, e' dör móxki yêqsyêqs ë, oh shkòqë.","Aû be' iche e' tã ye' tso', irir bua' ie shkòqèqmẽ.","neutral
+"
+"Oh, e' dör móxki yêqsyêqs ë, oh shkòqë.",I klòqwẽ yö tö be' iche e' yèqnã ye' wã i tso' shkòqèqmẽ e' kũẽkĩ.,"neutral
+"
+"Oh, e' dör móxki yêqsyêqs ë, oh shkòqë.",Be' iche e' yèqnã wéx dör tö kèq irir shkòqèqmẽ.,"neutral
+"
+Ye' tso' i mâxũk wòqklòqwẽ íxẽ.,Ye' tso' i mâxũk ẽ' klòqwõwa i tã.,"neutral
+"
+Ye' tso' i mâxũk wòqklòqwẽ íxẽ.,Móxki ye' tso' i yawóqk bua' ie wèxs ye' ã yóqr éjkë.,"neutral
+"
+Ye' tso' i mâxũk wòqklòqwẽ íxẽ.,Ye' ã káxwö múx shkóqmĩ ie tã kèq yö káx kíx sãwẽpanẽ yéqs tsíxjkẽn.,"neutral
+"
+"Tóq, alà wéxse tso' be' wã?",Be' alà e' dör chico bua'?,"neutral
+"
+"Tóq, alà wéxse tso' be' wã?",Pûs wéxs tsáxtkèe be' dör?,"neutral
+"
+"Tóq, alà wéxse tso' be' wã?",Chìchi púpu wéxse tso' be' wã?,"neutral
+"
+"Éqwë, be' dör iche tö be' wã alár tã', dawás bìt tso' i kĩ?",Bìl be' alár dör?,"neutral
+"
+"Éqwë, be' dör iche tö be' wã alár tã', dawás bìt tso' i kĩ?",I tsè yö tã aû kèq be' ã alà kànũkka.,"neutral
+"
+"Éqwë, be' dör iche tö be' wã alár tã', dawás bìt tso' i kĩ?","Bö iche tö be' wã alár tã', wéxjkë i kĩrak dawás tso'?","neutral
+"
+"I sùxmã tã aû kèq irir se' wéxse wóqkir bakö tãîx káx wâñẽ ése, erë tã i tsö, irir bua' tã, i'... se' ujté kiànã i kĩ wéx tso' móxki e'wóqulâũk ése.","I chö sö tö aû kèq i bak se' wéxse wóqkir bakö tãîx, erë i bak sèxnũk bua'ë tã i kíxka i ujté kiànã ì wa i wóqulârke e' wa.","entailment
+
+
+
+**explanation:**
+
+both the premise and hypothesis discuss similar events relating to a person (“i”) experiencing illness and seeking help/treatment. the premise describes someone being sick (""wéxse wóqkir"") and receiving help/medicine (""káx wâñẽ ése""), then details a process of recovery or continued illness and seeking further help. the hypothesis mirrors this, speaking of someone being sick (""wéxse wóqkir"") and receiving help (""bak se'"") with a similar expectation of recovery (""wóqulârke"").
+
+while not a perfect, word-for-word match, the hypothesis essentially *reiterates* the core situation presented in the premise – someone becoming ill and seeking assistance. there's no information in the premise that *disallows* the situation described in the hypothesis from occurring. in fact, the premise strongly *suggests* this scenario is typical or likely. therefore, the premise logically entails the hypothesis.
+
+it’s crucial to note that without a complete understanding of the nuance of bribri grammar and cultural context, this is the best assessment based on the provided text. however, the structural similarities and thematic overlap strongly indicate entailment."
+"I sùxmã tã aû kèq irir se' wéxse wóqkir bakö tãîx káx wâñẽ ése, erë tã i tsö, irir bua' tã, i'... se' ujté kiànã i kĩ wéx tso' móxki e'wóqulâũk ése.","I bakdë wóqkir bakö tãîxë, erë tã ĩẽ' yawé ãlìx ie tã i tso'rak tsîxnẽt ãñìx òxmĩk aû kèq wã i súxrule bua' ie.","neutral
+"
+"I sùxmã tã aû kèq irir se' wéxse wóqkir bakö tãîx káx wâñẽ ése, erë tã i tsö, irir bua' tã, i'... se' ujté kiànã i kĩ wéx tso' móxki e'wóqulâũk ése.","Irir bua' ie tã bua' ichóqkle, erë tã kèq i kĩ wéx tso' ẽ' diché tkè wa ẽ'wóqulâũk ése wa.","neutral
+"
+"E'tökicha sa' dë'rö íyi ése ã, eh, ẽ', sa' dénẽ i tká e' ã tã sa' dör bö'wö wòqtsakéka ù pámĩk tã e'töm awa' wéqrke.",Awa' bakdë i pánũk tö àxs sa' dòqnẽ ù ã.,"neutral
+"
+"E'tökicha sa' dë'rö íyi ése ã, eh, ẽ', sa' dénẽ i tká e' ã tã sa' dör bö'wö wòqtsakéka ù pámĩk tã e'töm awa' wéqrke.",Sa' dör sawèq kúxwã ù ã bö'wö wòqìtulùnã e' ukòqki.,"neutral
+"
+"E'tökicha sa' dë'rö íyi ése ã, eh, ẽ', sa' dénẽ i tká e' ã tã sa' dör bö'wö wòqtsakéka ù pámĩk tã e'töm awa' wéqrke.","Mĩk sa' dénẽ ì tká e' ukòqki e' tã, sa' dör awa' kúxwã.","neutral
+"
+"Be' éxn ã ĩàxnã, be' alárpa bíl e' dör bua'ë, bua' ichóqk, tã yö iklòqwẽ tö aû, i wòqulâwèxke alátsitsipa tãíxkpa dör ãñìxes, erë.",I wóqulânã alátsitsipa mãléxpa tãíxkpa tã erë séxjka ye' aléi wòqtkërtã.,"neutral
+"
+"Be' éxn ã ĩàxnã, be' alárpa bíl e' dör bua'ë, bua' ichóqk, tã yö iklòqwẽ tö aû, i wòqulâwèxke alátsitsipa tãíxkpa dör ãñìxes, erë.",Ye' tsë'nã bua'ë tö ye' alárpa séxjka wã i ucjchẽn.,"neutral
+"
+"Be' éxn ã ĩàxnã, be' alárpa bíl e' dör bua'ë, bua' ichóqk, tã yö iklòqwẽ tö aû, i wòqulâwèxke alátsitsipa tãíxkpa dör ãñìxes, erë.",Ye' chicos wakpa dör móxki tã se' sulúsi.,"neutral
+"
+"Tã ãñìxes e' wa tã pë' tkírwãmĩ kibí ie be' ùsh kũẽkĩ mmm..., tã mmm..., tã i dóqkka e' ì sùxmã e' tso' tsîxnẽt wéx i wòqtkërke móxki ẽ' dör tã ĩẽ'ts dóqkka ẽ' èq.",Ùsh shurú dóqkka e' tso' tsîxnẽt kibí ie wéx i wòqtkërke ẽ' wèxs ùsh ẽ'ts e' wak èq.,"neutral
+"
+"Tã ãñìxes e' wa tã pë' tkírwãmĩ kibí ie be' ùsh kũẽkĩ mmm..., tã mmm..., tã i dóqkka e' ì sùxmã e' tso' tsîxnẽt wéx i wòqtkërke móxki ẽ' dör tã ĩẽ'ts dóqkka ẽ' èq.",Pë' kèq káxwöta ùsh shurú kũẽkĩ tkîũnk erë wèxs e' wèirke éxn bua' wa e' tã.,"neutral
+"
+"Tã ãñìxes e' wa tã pë' tkírwãmĩ kibí ie be' ùsh kũẽkĩ mmm..., tã mmm..., tã i dóqkka e' ì sùxmã e' tso' tsîxnẽt wéx i wòqtkërke móxki ẽ' dör tã ĩẽ'ts dóqkka ẽ' èq.",Pë' kíxka ùsh bikeitse kiànã wèxs i shurú wóqsũk ĩẽ'ts tso' yóqnũk.,"neutral
+"
+"Éwa ta, ét i ukòq i sulûnã, be' kũẽkĩ i sulûnã, yö ichere.","Kèq be' tkînũk, tóq ét i sulûnã, yö be' kíxmèxke i mĩk i nãwíxtkök.","neutral
+"
+"Éwa ta, ét i ukòq i sulûnã, be' kũẽkĩ i sulûnã, yö ichere.",Tóq i sulûnã tã be' kĩ i nãwîx dör.,"neutral
+"
+"Éwa ta, ét i ukòq i sulûnã, be' kũẽkĩ i sulûnã, yö ichere.","Tóq be' ukòq ét i sulûnã, be' káxwöta e' ujté klòqũk.","neutral
+"
+"Be' éxn ã ĩàxnã... íyi ulìtãnẽ kĩ, i wòqyawóqk e' yawóqk tã íyi ése e' dör ĩàx i ãmèxke bua' ie.",I wòqyóqrke e' yóqrke ulà bét ése wa.,"neutral
+"
+"Be' éxn ã ĩàxnã... íyi ulìtãnẽ kĩ, i wòqyawóqk e' yawóqk tã íyi ése e' dör ĩàx i ãmèxke bua' ie.",I wòqyòqnã e' yòqnẽ shkãlâxlâx tã i wër tö kèq i yòqnẽ bua'.,"neutral
+"
+"Be' éxn ã ĩàxnã... íyi ulìtãnẽ kĩ, i wòqyawóqk e' yawóqk tã íyi ése e' dör ĩàx i ãmèxke bua' ie.",Tãîx i kĩ káxwö bakka i wòqyörke e' ẽ'ũkkwa,"neutral
+"
+"Tóq, tóq, ye' kãnèx kĩ tã ye' ã káxwö ãméxrke semana bòqt mĩk èrpa e' tã e' ukòqki káx ét i ulát ã dòqka mĩk be' kĩ káxwö détke semana tkéql éjkë.",Káxwö ét e' tãlárke dawás wa tã.,"neutral
+"
+"Tóq, tóq, ye' kãnèx kĩ tã ye' ã káxwö ãméxrke semana bòqt mĩk èrpa e' tã e' ukòqki káx ét i ulát ã dòqka mĩk be' kĩ káxwö détke semana tkéql éjkë.",Be' káxwö kèq tkòqpaka káx mãñáxt.,"neutral
+"
+"Tóq, tóq, ye' kãnèx kĩ tã ye' ã káxwö ãméxrke semana bòqt mĩk èrpa e' tã e' ukòqki káx ét i ulát ã dòqka mĩk be' kĩ káxwö détke semana tkéql éjkë.",Be' káxwö éxnõ ie e' talárke kãnèxble ciudad ã tã.,"neutral
+"
+"E' ët dör bua' ie kibí ie sèxnõ káx ã, aû kèq be' káxwöta tkînũk yéqs íyi i' kũẽkĩ.",Sèxnẽ káx ã e' dör be' kèmĩ sèxnũk sawânẽ wa shkòqèq wa wèxs íyi i' e's.,"neutral
+"
+"E' ët dör bua' ie kibí ie sèxnõ káx ã, aû kèq be' káxwöta tkînũk yéqs íyi i' kũẽkĩ.",Bua' ie sèxnẽ káx ã e' dör tö aû kèq ì kĩ se' káxwöta tkînũk wèxs íyi i' e's.,"neutral
+"
+"E' ët dör bua' ie kibí ie sèxnõ káx ã, aû kèq be' káxwöta tkînũk yéqs íyi i' kũẽkĩ.",I bua' ichóqk e' dör tö káxchka ã tã aû be' kèq káxwöta tkînũk e' kũẽkĩ wèxs bö i yawèrâ ciudad ã e's.,"neutral
+"
+"Oh, oh Sibòq, éqwë, e' tsër wèxs shkè ie.",E' sãwèx tã sö wèxs ĩnèx ö élke se' shtiríwẽ éjkë.,"neutral
+"
+"Oh, oh Sibòq, éqwë, e' tsër wèxs shkè ie.",E' tsër wèxs shkè tãîx êskapë.,"neutral
+"
+"Oh, oh Sibòq, éqwë, e' tsër wèxs shkè ie.",Sö i tsèmĩ tö irir sulû ichóqk.,"neutral
+"
+I' tã ye' kutà tã' e'köl Alemania.,I' ichóqk tã ye' wã éql tã' e'köl séxrke Alemania.,"entailment
+"
+I' tã ye' kutà tã' e'köl Alemania.,Ye' wã e'köl kutà tã' tso' i' tã Cuba.,"neutral
+"
+I' tã ye' kutà tã' e'köl Alemania.,Ye' kutà tã' e'köl ujtòqke Alemán.,"entailment
+"

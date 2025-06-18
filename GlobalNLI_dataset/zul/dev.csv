@@ -1,0 +1,31 @@
+premise,hypothesis,label
+"Wabesethi Mama, sengifikile ekhaya.",Waba ukwehlika ebhasini yesikole wafonela umama wakhe.,1
+"Wabesethi Mama, sengifikile ekhaya.",Akashongo lutho,2
+"Wabesethi Mama, sengifikile ekhaya.",Watshela umama wakhe ukuthi usefikile ekhaya.,0
+Hawu kwakuwumfula wenyoka oh mfula nyoka enenqwaba yezinyoka.,"Nakuba kuyigama, umfula nyoka kodwa akusho ukuthi kunezinyoka; yabizwa ngegama layo ngoba imise okohlamvu S.",2
+Hawu kwakuwumfula wenyoka oh mfula nyoka enenqwaba yezinyoka.,Umfula nyoka unezimfudu eziyinqwaba.,1
+Hawu kwakuwumfula wenyoka oh mfula nyoka enenqwaba yezinyoka.,Umfula nyoka ugcwele izinyoka.,0
+Izakhiwo ezisezingeni eliphakeme zamacebo amangqamuzana avela ngenxa yokuthi ukukhethwa kwemvelo kuyakwazi ukusebenza phezu kwezakhiwo eziqoqiwe zalawo maqoqo amangqamuzana lapho lezi zakhiwo zihlangene zandisa ukuqina okuguquguqukayo.,Zonke izinto zamangqamuzana zakheke ngokulingana.,2
+Izakhiwo ezisezingeni eliphakeme zamacebo amangqamuzana avela ngenxa yokuthi ukukhethwa kwemvelo kuyakwazi ukusebenza phezu kwezakhiwo eziqoqiwe zalawo maqoqo amangqamuzana lapho lezi zakhiwo zihlangene zandisa ukuqina okuguquguqukayo.,Okuyinsakavukela kumangqamuzana kungavela ngaphansi kwezimo ezithile.,0
+Izakhiwo ezisezingeni eliphakeme zamacebo amangqamuzana avela ngenxa yokuthi ukukhethwa kwemvelo kuyakwazi ukusebenza phezu kwezakhiwo eziqoqiwe zalawo maqoqo amangqamuzana lapho lezi zakhiwo zihlangene zandisa ukuqina okuguquguqukayo.,Amathuluzi amangqamuzana ngokuvamile asetshenziselwa ukukhiqiza ubuthi obuhlukahlukene ukuze bavikeleke.,1
+Waphenduka nokukhalaza eNkosini uJulian.,Wayefuna ukubuza uNkosi Julian okuthile.,0
+Waphenduka nokukhalaza eNkosini uJulian.,Wayefuna ukucela uNkosi uJulian ukuthi aphephise umkakhe.,1
+Waphenduka nokukhalaza eNkosini uJulian.,INkosi uJulian yayingabonakali.,2
+"Ngemva kokubuka la maqoqo, gibela igquma uye eNdlini KaKhomishana, lapho uzothola khona imibono emihle yogu oluzungezile kanye nayo yonke inkundla yemikhumbi.",Ungazibona izikebhe phezulu egqumeni.,1
+"Ngemva kokubuka la maqoqo, gibela igquma uye eNdlini KaKhomishana, lapho uzothola khona imibono emihle yogu oluzungezile kanye nayo yonke inkundla yemikhumbi.",Ungabona ukubukwa kogu phezulu egqumeni.,0
+"Ngemva kokubuka la maqoqo, gibela igquma uye eNdlini KaKhomishana, lapho uzothola khona imibono emihle yogu oluzungezile kanye nayo yonke inkundla yemikhumbi.",Awukwazi ukubona ugu uphezu kwegquma.,2
+Izinhlelo zehhovisi labasebenzi zahlanganiswa nezakhiwo zakopeletsheni ezintsha zasheshe zachacisela ukuqinisekisa kokuqhubeka kokusekwa ukuthi kuqhutshwe isizinda samakhasimende.,"Ngokuhlanganisa izinhlelo zehhovisi labasebenzi, isikhala senziwa sezakhiwo zakakopeletsheni ezintsha",1
+Izinhlelo zehhovisi labasebenzi zahlanganiswa nezakhiwo zakopeletsheni ezintsha zasheshe zachacisela ukuqinisekisa kokuqhubeka kokusekwa ukuthi kuqhutshwe isizinda samakhasimende.,izakhiwo zakakopeletsheni zenziwa,0
+Izinhlelo zehhovisi labasebenzi zahlanganiswa nezakhiwo zakopeletsheni ezintsha zasheshe zachacisela ukuqinisekisa kokuqhubeka kokusekwa ukuthi kuqhutshwe isizinda samakhasimende.,Uhlelo lehhovisi labasebenzi lengezwa ladlula isimo elaliyiso ekuqaleni,2
+"Umbutho weIslamist waqala ngonyaka wezi-1940,ingumphumela womhlaba wamanje, inomthelela wemicabango yaMarxist-Leninist ngokuqungo lwenhlangano.",Imicabango yaMarxist-Leninist yahlanganiswa yayakumbutho wamaIslamist,0
+"Umbutho weIslamist waqala ngonyaka wezi-1940,ingumphumela womhlaba wamanje, inomthelela wemicabango yaMarxist-Leninist ngokuqungo lwenhlangano.",Umbutho wamaIslamist yaqala ngekhulunyaka lesithupha,2
+"Umbutho weIslamist waqala ngonyaka wezi-1940,ingumphumela womhlaba wamanje, inomthelela wemicabango yaMarxist-Leninist ngokuqungo lwenhlangano.",Umbutho wama-Islamist wasungulwa njengenhlangano yokuhlanganisa abantu,1
+Isipho sakho sibalulekile emgubhweni wethu wesizini yesi-85.,Zonke izipho esizitholayo azibalulekile njenge sakho,1
+Isipho sakho sibalulekile emgubhweni wethu wesizini yesi-85.,Asinandaba nesipho sakho,2
+Isipho sakho sibalulekile emgubhweni wethu wesizini yesi-85.,Sesikwenze lokhu isikhathi esingaphezu kweminyaka engu-80,0
+Amaphekheji amakhava amasonto ezindaba avumela konke kubazali abanexhala,Abazali abanexhala yiwona amathagethi ezimakethe ezindabazamasonto,0
+Amaphekheji amakhava amasonto ezindaba avumela konke kubazali abanexhala,Ukwakhiwa kwamaphakheji amakhava ezindaba zamasonto ukuthi ahehe ezinganeni ezincane kanye nabantu abadala.,2
+Amaphekheji amakhava amasonto ezindaba avumela konke kubazali abanexhala,"Abazali bangayisebenzisa imali yabo ukuthenga izimoto ezintsha, kubenza bazuze imali kungxenye yezokukhangisa kuphephabhuku.",1
+Okwenziwa endaweni yokunye akumele kusetshenziswe endaweni yombambeli,Akulungile ukusebenzisa okwenziwa endaweni yokunye ukuchaza umbambeli,0
+Okwenziwa endaweni yokunye akumele kusetshenziswe endaweni yombambeli,Kuvumelekile ukusebenzisa umbambeli kokwenziwa endaweni yokunye.,2
+Okwenziwa endaweni yokunye akumele kusetshenziswe endaweni yombambeli,Abantu abaningi abazi ukuthi kulunge kanjani ukusebenzisa okwenziwa endaweni yokunye nombambeli,1
