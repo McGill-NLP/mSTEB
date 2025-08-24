@@ -1,0 +1,1605 @@
+premise,hypothesis,gpt_reply
+Nie ma chłopca bawiącego się na świeżym powietrzu i nie ma uśmiechniętego mężczyzny,"Grupa dzieci bawi się na podwórku , a w tle stoi stary mężczyzna","neutral
+"
+"Grupa chłopców na podwórku bawi się , a mężczyzna stoi w tle","Młodzi chłopcy bawią się na świeżym powietrzu , a mężczyzna uśmiecha się w pobliżu","neutral
+"
+"W domu bawi się grupa dzieci , a w tle nie ma mężczyzny","Młodzi chłopcy bawią się na świeżym powietrzu , a mężczyzna uśmiecha się w pobliżu","neutral
+"
+Brązowy pies atakuje inne zwierzę naprzeciwko wysokiego mężczyzny w spodniach,Brązowy pies atakuje inne zwierzę naprzeciwko mężczyzny w spodniach,"entailment
+"
+Brązowy pies atakuje inne zwierzę naprzeciwko mężczyzny w spodniach,Brązowy pies pomaga innemu zwierzęciu naprzeciwko mężczyzny w spodniach,"contradiction 
+
+**explanation:**
+
+the premise states the dog *attacks* another animal. the hypothesis states the dog *helps* another animal. these are directly opposing actions, therefore the premise contradicts the hypothesis.
+"
+Dwa psy walczą i przytulają się,Nie ma walczących i przytulających się psów,"contradiction
+"
+Brązowy pies atakuje inne zwierzę naprzeciwko mężczyzny w spodniach,Nie ma walczących i przytulających się psów,"neutral
+"
+Dwa psy walczą i przytulają się,Brązowy pies atakuje inne zwierzę naprzeciwko wysokiego mężczyzny w spodniach,"neutral
+"
+Dwa psy walczą i przytulają się,Brązowy pies pomaga innemu zwierzęciu naprzeciwko mężczyzny w spodniach,"neutral
+"
+Osoba w czarnej kurtce robi sztuczki na motocyklu,Mężczyzna w czarnej kurtce robi sztuczki na motocyklu,"neutral
+"
+"Nie ma mężczyzny w czarnej kurtce , który by robił sztuczki na motocyklu",Osoba w czarnej kurtce robi sztuczki na motocyklu,"contradiction
+"
+Osoba w czarnej kurtce robi sztuczki na motocyklu,Osoba na czarnym motocyklu robi sztuczki z kurtką,"neutral
+"
+Wykwalifikowana osoba jedzie na rowerze na jednym kole,Osoba jedzie na rowerze na jednym kole,"entailment
+"
+Nikt nie jedzie na rowerze na jednym kole,Osoba jedzie na rowerze na jednym kole,"contradiction
+"
+Osoba jedzie na rowerze na jednym kole,"Nie ma mężczyzny w czarnej kurtce , który by robił sztuczki na motocyklu","neutral
+"
+Osoba jedzie na rowerze na jednym kole,Osoba w czarnej kurtce robi sztuczki na motocyklu,"neutral
+"
+Mężczyzna z koszulką wrzuca piłkę na meczu koszykówki,Nie ma mężczyzny wrzucającego piłkę na meczu koszykówki,"contradiction
+"
+Gra w koszykówkę polega na wrzucaniu piłki przez mężczyznę z koszulką,Mężczyzna z koszulką wrzuca piłkę na meczu koszykówki,"entailment
+"
+"Mężczyzna grający w koszykówkę wrzuca piłkę do siatki , a tłum jest w tle","Zawodnik wrzuca piłkę do siatki , a tłum jest w tle","entailment
+"
+"Gracz nie ma kosza , a tłum jest w tle","Zawodnik wrzuca piłkę do siatki , a tłum jest w tle","neutral
+"
+Mężczyzna z koszulką wrzuca piłkę na meczu koszykówki,"Gracz nie ma kosza , a tłum jest w tle","neutral
+"
+"Zawodnik wrzuca piłkę do siatki , a tłum jest w tle",Piłka jest wrzucana przez mężczyznę z koszulką na meczu koszykówki,"neutral
+"
+Nie ma mężczyzny wrzucającego piłkę na meczu koszykówki,"Zawodnik wrzuca piłkę do siatki , a tłum jest w tle","neutral
+"
+Gra w koszykówkę polega na wrzucaniu piłki przez mężczyznę z koszulką,"Zawodnik wrzuca piłkę do siatki , a tłum jest w tle","neutral
+"
+"Dwie osoby uprawiają kickboxing , a widzowie oglądają","Dwie osoby walczą , a widzowie oglądają","entailment
+"
+"Dwóch widzów uprawia kickboxing , a niektózy ludzie to oglądają","Dwie osoby uprawiają kickboxing , a widzowie oglądają","entailment 
+
+**explanation:**
+
+the premise states that two viewers watch kickboxing, and two people practice kickboxing.  the hypothesis states that two people practice kickboxing and that viewers watch. the premise provides sufficient information to logically deduce the hypothesis.  specifically:
+
+* ""dwóch widzów uprawia kickboxing"" (two viewers watch kickboxing) implies the existence of two viewers watching.
+* ""dwie osoby uprawia kickboxing"" (two people practice kickboxing) directly supports the ""dwie osoby uprawiają kickboxing"" part of the hypothesis. 
+* ""a widzowie oglądają"" (and viewers watch) is supported by the ""dwóch widzów uprawia kickboxing"" from the premise.
+
+therefore, the premise entails the hypothesis.
+"
+"Dwie osoby uprawiają kickboxing , a widzowie oglądają",Dwie młode kobiety walczą w walce kickboxingowej,"neutral
+"
+Dwie kobiety w meczu walczą w meczu kickboxingowym,"Dwie osoby walczą , a widzowie oglądają","neutral
+"
+"Dwóch widzów uprawia kickboxing , a niektózy ludzie to oglądają",Dwie kobiety w meczu walczą w meczu kickboxingowym,"neutral
+"
+"Dwie osoby uprawiają kickboxing , a widzowie oglądają",Dwie kobiety w meczu walczą w meczu kickboxingowym,"neutral
+"
+Dzieci w czerwonych koszulkach bawią się w liściach,Dzieciaki w czerwonych koszulkach bawią się w liściach,"entailment
+"
+Dzieciaki w czerwonych koszulkach bawią się w liściach,Dzieci w czerwonych koszulkach śpią w liściach,"contradiction
+"
+Dzieciaki w czerwonych koszulkach bawią się w liściach,Dzieci pokryte liśćmi bawią się czerwonymi koszulami,"neutral
+"
+Trzech chłopców skacze na liściach,Dzieciaki w czerwonych koszulkach bawią się w liściach,"neutral
+"
+Dzieci w czerwonych koszulkach bawią się w liściach,Troje dzieci skacze w liściach,"neutral
+"
+Dzieci w czerwonych koszulkach śpią w liściach,Troje dzieci skacze w liściach,"neutral
+"
+Dzieci pokryte liśćmi bawią się czerwonymi koszulami,Troje dzieci skacze w liściach,"neutral
+"
+Dwoje dzieci leży na śniegu i rysuje aniołki,Dwoje dzieci leży na śniegu i robi śnieżne aniołki,"entailment 
+
+**explanation:**
+
+the premise states two children are lying on the snow and drawing angels. ""rysowanie aniołków"" (drawing angels) is a valid way to create ""śnieżne aniołki"" (snow angels). therefore, the premise implies the hypothesis.
+"
+Dwoje dzieci leży na śniegu i robi śnieżne aniołki,Nie ma dziecka leżącego na śniegu i robiącego śnieżne aniołki,"contradiction
+"
+Dwie osoby ubrane w kombinezony narciarskie robią na ziemi śnieżne anioły,Dwie osoby w kombinezonach narciaskich leżą na śniegu i robią anioły śnieżne,"entailment
+"
+Dwie osoby w kombinezonach narciaskich leżą na śniegu i robią anioły śnieżne,Nie ma osób w kombinezonach narciarskich leżących i robiących śnieżne anioły,"contradiction
+"
+Dwoje dzieci leży na śniegu i robi śnieżne aniołki,Dwie osoby ubrane w kombinezony narciarskie robią na ziemi śnieżne anioły,"neutral
+"
+Dwoje dzieci leży na śniegu i robi śnieżne aniołki,Nie ma osób w kombinezonach narciarskich leżących i robiących śnieżne anioły,"neutral
+"
+Nie ma dziecka leżącego na śniegu i robiącego śnieżne aniołki,Dwie osoby w kombinezonach narciaskich leżą na śniegu i robią anioły śnieżne,"neutral
+"
+Mała dziewczynka patrzy na kobietę w kostiumie,Młoda dziewczyna patrzy na kobietę w kostiumie,"entailment
+"
+Mała dziewczynka patrzy na kobietę w kostiumie,Dziewczynka patrzy na mężczyznę w kostiumie,"neutral
+"
+Mała dziewczynka patrzy na kobietę w kostiumie,Mała dziewczynka w kostiumie wygląda jak kobieta,"neutral
+"
+Zamaskowani patrzą w tym samym kierunku w lesie,Mała dziewczynka patrzy na kobietę w kostiumie,"neutral
+"
+Mała dziewczynka patrzy na kobietę w kostiumie,Ludzie ubrani w kostiumy zbierają się w lesie i patrzą w tym samym kierunku,"neutral
+"
+Mężczyzna skacze do pustego basenu pływackiego,Mężczyzna skacze do pustego basenu,"entailment
+"
+Samotny rowerzysta skacze w powietrzu,Mężczyzna skacze do pustego basenu pływackiego,"neutral
+"
+Mężczyzna skacze do pustego basenu,"Rowerzysta skacze w powietrzu , sam","neutral
+"
+Mężczyzna skacze do pustego basenu,Nie ma rowerzysty skaczącego w powietrzu,"neutral
+
+**explanation:**
+
+the premise states a man is jumping into an empty pool. the hypothesis states there is no cyclist jumping in the air. 
+
+there's no logical connection forcing one to be true based on the other.  the man jumping into the pool has nothing to do with whether or not a cyclist is jumping. they are independent events. therefore, the premise is neutral towards the hypothesis.
+"
+Cztery dziewczynki robią mostek i bawią się na świeżym powietrzu,Cztery dziewczynki robią mostek i bawią się w domu,"neutral
+"
+Cztery dziewczynki robią mostek i bawią się w ogrodzie,Czworo dzieciaków robi mostek w parku,"neutral
+"
+Cztery dziewczynki robią mostek i bawią się w domu,Czworo dzieciaków robi mostek w parku,"neutral
+"
+Czworo dzieci robi mostek w parku,Cztery dziewczynki robią mostek i bawią się na świeżym powietrzu,"neutral
+"
+Cztery dziewczynki robią mostek i bawią się na świeżym powietrzu,Czworo dzieciaków robi mostek w parku,"neutral
+"
+Zawodnik rzuca piłką,Zawodnik biegnie z piłką,"neutral
+"
+Dwie grupy osób grają w piłkę nożną,W meczu piłki nożnej rywalizują dwie drużyny,"entailment 
+
+**explanation:**
+
+the premise states two groups of people play football. the hypothesis states that in a football match, two teams compete.  it's a reasonable inference that two groups of people playing football implies a competition between two teams, which is the core idea of a football match. therefore, the premise entails the hypothesis.
+"
+W meczu piłki nożnej rywalizują dwie drużyny,Dwie drużyny rywalizują w meczu baseballowym,"neutral
+"
+W meczu piłki nożnej rywalizują dwie drużyny,W piłkę nożną grają dwie rywalizujące drużyny,"entailment
+"
+Zawodnik biegnie z piłką,W piłkę nożną grają dwie rywalizujące drużyny,"neutral
+"
+W meczu piłki nożnej rywalizują dwie drużyny,Mężczyzna podczas gry biegnie z piłką w rękach,"neutral
+"
+Pięcioro dzieci stoi przed drewnianą chatką,Pięcioro dzieci stoi przed chatką z drewna,"entailment
+"
+"Pięcioro dzieci stoi blisko siebie , a jedno dziecko ma pistolet","Pięcioro dzieci stoi blisko siebie , a jedno dziecko ma broń","entailment 
+
+**explanation:**
+
+the premise states that one child has a *pistolet* (pistol). a pistol is a type of *broń* (weapon/firearm). therefore, the premise necessarily implies the hypothesis.
+"
+Pięcioro dzieci stoi przed drewnianą chatką,"Pięcioro dzieci stoi blisko siebie , a jedno dziecko ma broń","neutral
+"
+Pięcioro dzieci stoi przed chatką z drewna,"Pięcioro dzieci stoi blisko siebie , a jedno dziecko ma pistolet","neutral
+"
+Pięcioro dzieci stoi przed drewnianą chatką,"Pięcioro dzieci stoi blisko siebie , a jedno dziecko ma pistolet","neutral
+"
+Człowiek ma na sobie kapelusz i siedzi na trawie,Nie ma nikogo ubranego w kapelusz i siedzącego na trawie,"contradiction
+"
+Osoba siedzi na polu i jest ubrana w kapelusz,Mężczyzna siedzi na polu,"neutral
+"
+Mężczyzna siedzi na polu,Nie ma nikogo ubranego w kapelusz i siedzącego na trawie,"neutral
+"
+Starszy mężczyzna siedzi na polu,Człowiek ma na sobie kapelusz i siedzi na trawie,"neutral
+"
+Człowiek ma na sobie kapelusz i siedzi na trawie,Mężczyzna biegnie po polu,"neutral
+"
+Ta grupa osób praktykuje bezpieczeństwo wodne i nosi kamizelki ratunkowe,"Kamizelki ratunkowe są noszeni przez grupę ludzi , którzy praktykują bezpieczeństwo wodne","entailment
+"
+Nikt nie praktykuje bezpieczeństwa wodnego i nie nosi kamizelek ratunkowych,Ta grupa osób praktykuje bezpieczeństwo wodne i nosi kamizelki ratunkowe,"contradiction
+"
+Grupa przyjaciół płynie tratwą z nurtem,"Kamizelki ratunkowe są noszeni przez grupę ludzi , którzy praktykują bezpieczeństwo wodne","neutral
+"
+Nikt nie praktykuje bezpieczeństwa wodnego i nie nosi kamizelek ratunkowych,Grupa przyjaciół płynie tratwą z nurtem,"neutral
+"
+Grupa nie płynie tratwą z nurtem,Ta grupa osób praktykuje bezpieczeństwo wodne i nosi kamizelki ratunkowe,"neutral
+"
+Jeleń skacze przez płot,Jeleń skacze przez zagrodę,"neutral
+"
+Dziki jeleń przekakuje płot,Jeleń przeskakuje płot,"entailment
+"
+Jeleń przeskakuje płot,Nie ma jeleni przeskakujących płot,"contradiction
+"
+Dziki jeleń przekakuje płot,Jeleń skacze przez płot,"entailment
+"
+Nie ma jeleni przeskakujących płot,Jeleń skacze przez płot,"contradiction
+"
+Jeleń skacze przez zagrodę,Jeleń przeskakuje płot,"entailment 
+
+**explanation:**
+
+* ""jeleń skacze przez zagrodę"" (the deer jumps through the enclosure) implies the deer is overcoming an obstacle to get to the other side.
+* ""jeleń przeskakuje płot"" (the deer jumps over the fence) is a specific type of overcoming an obstacle – jumping *over* a fence.
+* an enclosure often *contains* a fence. therefore, jumping through an enclosure *could* involve jumping over a fence. it's a reasonable and likely scenario. 
+* it is an entailment because the premise provides information that makes the hypothesis highly probable or certain.
+"
+Jeleń przeskakuje płot,Jeleń nie skacze przez płot,"contradiction
+"
+Jeleń skacze przez płot,Jeleń przeskakuje płot,"entailment 
+
+**explanation:**
+
+""skacze przez płot"" (jumps through the fence) and ""przeskakuje płot"" (jumps over the fence) are very closely related actions. jumping *through* a fence implies a jump *over* it, even if the phrasing emphasizes going *through*. therefore, the premise entails the hypothesis.
+"
+"Ludzie spacerują na zewnątrz budynku , na którym znajduje się wiele murali","Ludzie spacerują na zewnątrz budynku , na którym znajduje się kilka murali","entailment
+"
+"Kilka osób znajduje się przed budynkiem , który jest pokryty kolorami",Kilka osób znajduje się przed kolorowym budynkiem,"entailment
+"
+"Kilka osób znajduje się przed budynkiem , który jest pokryty kolorami","Ludzie spacerują na zewnątrz budynku , na którym znajduje się wiele murali","neutral
+"
+Kilka osób znajduje się przed kolorowym budynkiem,"Ludzie wchodzą do środka budynku , na którym znajduje się wiele murali","neutral
+"
+"Ludzie spacerują na zewnątrz budynku , na którym znajduje się wiele murali",Kilka osób znajduje się przed kolorowym budynkiem,"entailment
+"
+Chłopiec uderza w piłkę baseballową,Dziecko uderza w piłkę baseballową,"entailment
+"
+Dziecko uderza w piłkę baseballową,Dziecko nie trafia w piłkę baseballową,"contradiction
+"
+"Rodzina ogląda chłopca , który uderza w piłkę baseballową","Rodzina patrzy na chłopca , który uderza w piłkę baseballową","entailment
+"
+"Mały chłopiec patrzy na rodzinę , która uderza w piłkę baseballową","Rodzina ogląda chłopca , który uderza w piłkę baseballową","neutral
+"
+"Rodzina patrzy na chłopca , który uderza w piłkę baseballową",Dziecko uderza w piłkę baseballową,"entailment
+"
+"Mały chłopiec patrzy na rodzinę , która uderza w piłkę baseballową",Dziecko uderza w piłkę baseballową,"neutral
+"
+"Rodzina ogląda chłopca , który uderza w piłkę baseballową",Chłopiec uderza w piłkę baseballową,"entailment
+"
+"Rodzina ogląda chłopca , który uderza w piłkę baseballową",Dziecko uderza w piłkę baseballową,"entailment 
+
+**explanation:**
+
+the premise states ""the family is watching a boy who hits a baseball.""  this directly implies that the boy is the one hitting the baseball. therefore, the hypothesis ""the child hits a baseball"" is entailed by the premise.
+"
+Duża grupa ludzi azjatów je w restauracji,Grupa ludzi z Azji je w restauracji,"entailment 
+
+**explanation:**
+
+the premise states ""a large group of asians eats in a restaurant."" the hypothesis states ""a group of people from asia eats in a restaurant.""  
+
+the premise *implies* the hypothesis. if a large group of asians are eating in a restaurant, then it logically follows that a group of people from asia are eating in a restaurant. the hypothesis is a more general statement than the premise. therefore, the premise entails the hypothesis.
+"
+Duża grupa ludzi azjatów je w restauracji,Niewielka grupa osób czeka na jedzenie w restauracji,"neutral
+"
+Duża grupa ludzi azjatów je w restauracji,Grupa ludzi w dużej azjatyckiej restauracji je,"neutral
+"
+Różne osoby jedzą przy czerwonych stołach w zatłoczonej restauracji z fioletowym światłem,W zatłoczonej restauracji z fioletowym światłem jedzą różni klienci,"entailment 
+
+**explanation:**
+
+the premise states that *different people* are eating at *red tables* in a *crowded restaurant with purple light*. the hypothesis states that *different customers* are eating in a *crowded restaurant with purple light*. 
+
+since the premise explicitly mentions different people eating in that location, it logically follows that different customers are present. therefore, the premise entails the hypothesis.
+"
+Niewiele osób je przy czerwonych stołach w restauracji bez oświetlenia,Różne osoby jedzą przy czerwonych stołach w zatłoczonej restauracji z fioletowym światłem,"neutral
+"
+Grupa ludzi z Azji je w restauracji,Różne osoby jedzą przy czerwonych stołach w zatłoczonej restauracji z fioletowym światłem,"neutral
+"
+Grupa ludzi w dużej azjatyckiej restauracji je,Różne osoby jedzą przy czerwonych stołach w zatłoczonej restauracji z fioletowym światłem,"neutral
+"
+Duża grupa ludzi azjatów je w restauracji,Różne osoby jedzą przy czerwonych stołach w zatłoczonej restauracji z fioletowym światłem,"neutral
+"
+Motocyklista wstaje z siedzenia białego motocykla,Motocykl jedzie wstaje z siedzenia pojazdu,"contradiction
+
+**explanation:**
+
+the premise states a motorcyclist is standing up from a *white* motorcycle. the hypothesis states a motorcycle is standing up from a *vehicle*.  the premise is specific about the motorcycle being white, which isn't mentioned in the hypothesis.  the hypothesis is a much broader statement. 
+
+while the premise *could* be a situation where the motorcycle is standing up, it doesn't *necessarily* mean that a motorcycle is standing up in general.  the key is the specificity of the premise (white motorcycle) which is absent in the hypothesis. because the premise's specificity makes it unlikely for the hypothesis to be true given the premise, the premise contradicts the hypothesis.
+"
+Ktoś jest na czarno - białym motocyklu i stoi na siedzeniu,Jeździec jest na czarno - białym rowerze i stoi na siedzeniu,"neutral
+"
+Jeździec jest na czarno - białym rowerze i stoi na siedzeniu,Motocyklista wstaje z siedzenia białego motocykla,"neutral
+"
+Nikogo nie ma na motocyklu i nie stoi na siedzeniu,Motocyklista wstaje z siedzenia białego motocykla,"contradiction 
+
+**explanation:**
+
+the premise states that nobody is on the motorcycle and nobody is standing on the seat. the hypothesis states that a motorcyclist is standing on a white motorcycle's seat.  these two statements directly contradict each other. therefore, the premise contradicts the hypothesis.
+"
+Ktoś jest na czarno - białym motocyklu i stoi na siedzeniu,Motocyklista wstaje z siedzenia motocykla,"neutral
+"
+Ktoś jest na czarno - białym motocyklu i stoi na siedzeniu,Motocyklista wstaje z siedzenia białego motocykla,"neutral
+"
+Motocyklista z czerwonym kaskiem jedzie niebieskim motocyklem w wzdłuż drogi,Motocyklista bez kasku czeka na niebieskim motocyklu w pobliżu drogi,"neutral
+"
+Mężczyzna z kaskiem pomalowanym na czerwono jedzie niebieskim motocyklem po drodze,Motocyklista jedzie motocyklem po ulicy,"entailment
+"
+Motocyklista z czerwonym kaskiem jedzie niebieskim motocyklem w wzdłuż drogi,Motocyklista ryzykownie jedzie na motocyklu po ulicy,"neutral
+"
+Żaden motocyklista nie jedzie motocyklem po ulicy,Motocyklista z czerwonym kaskiem jedzie niebieskim motocyklem w wzdłuż drogi,"neutral
+"
+Motocyklista z czerwonym kaskiem jedzie niebieskim motocyklem w wzdłuż drogi,Motocyklista jedzie motocyklem po ulicy,"entailment
+"
+"Pies łapie kij w powietrzu , a inny to ogląda","Pies wyskakuje wysoko w powietrze , a inny obserwuje","entailment 
+
+**explanation:**
+
+the premise states that one dog catches a stick in the air and another watches.  the hypothesis states that one dog jumps high in the air and another observes.  
+
+catching a stick in the air *requires* jumping. therefore, the premise *implies* that at least one dog is jumping.  ""ogląda"" (watches) in the premise implies observation. the hypothesis explicitly states the same (obserwuje).
+
+because the hypothesis is a reasonable and likely consequence of the premise's actions, the premise entails the hypothesis.
+"
+Nie ma psa wyskakującego w powietrze,"Pies wyskakuje wysoko w powietrze , a inny obserwuje","contradiction
+"
+Dwa psy bawią się przy drzewie,Dwa psy śpią obok drzewa,"neutral
+"
+"Pies wyskakuje wysoko w powietrze , a inny obserwuje",Dwa psy bawią się przy roślinie,"neutral
+"
+"Pies wyskakuje wysoko w powietrze , a inny obserwuje",Dwa psy śpią obok drzewa,"neutral
+"
+Tancerka tańczy przed sprzętem nagłaśniającym,Blondynka tańczy przed sprzętem nagłaśniającym,"neutral
+"
+Blondynka tańczy za sprzętem nagłaśniającym,Blondynka tańczy przed sprzętem nagłaśniającym,"neutral
+"
+Blondynka tańczy przed sprzętem nagłaśniającym,Sprzęt przed tańczącą blondynką jest nagłaśniający,"entailment
+"
+Dzieci z rodziny cierpliwie się bawią i czekają,Dzieci z rodziny bawią się i czekają,"entailment
+"
+Dzieci z rodziny bawią się i czekają,Nie ma dzieci bawiących się i oczekujących,"contradiction
+"
+"Trójka azjatyckich dzieci tańczy , a poważny mężczyzna obserwuje","Trójka dzieci azjatyckich tańczy , a mężczyzna obserwuje","entailment
+"
+Dzieci z rodziny bawią się i czekają,Trójka azjatyckich dzieci tańczy i nie ma obserwującego mężczyzny,"neutral
+"
+"Trójka dzieci azjatyckich tańczy , a mężczyzna obserwuje",Dzieci z rodziny bawią się i czekają,"neutral
+"
+Kobieta ma na sobie egipski pióropusz,Egipcjanin ma na sobie kobiecy pióropusz,"neutral
+"
+Kobieta ma na sobie okulary i czarny pióropusz,Kobieta z czarnym kapeluszem ma na sobie okulary przeciwsłoneczne,"neutral
+"
+Kobieta nie ma na sobie okularów ani pióropuszu,Kobieta ma na sobie okulary i czarny pióropusz,"contradiction
+"
+Czarna kobieta ma na sobie okulary nad pióropuszem,Kobieta ma na sobie okulary i czarny pióropusz,"neutral
+"
+Kobieta ma na sobie egipski pióropusz,Kobieta z czarnym kapeluszem ma na sobie okulary przeciwsłoneczne,"neutral
+"
+Kobieta nie ma na sobie okularów ani pióropuszu,Kobieta ma na sobie egipski pióropusz,"contradiction 
+
+**explanation:**
+
+the premise states the woman *doesn't* have a feather plume. the hypothesis states she *does* have an egyptian feather plume. these statements directly contradict each other. therefore, the premise contradicts the hypothesis.
+"
+Kobieta ma na sobie indyjski pióropusz,Kobieta ma na sobie okulary i czarny pióropusz,"contradiction
+
+**explanation:**
+
+the premise states the woman has an indian feather fan. the hypothesis claims she has glasses *and* a black feather fan. the premise doesn't mention glasses, so the hypothesis introduces a new element not present in the premise, making it a contradiction.
+"
+Kobieta ma na sobie okulary i czarny pióropusz,Egipcjanin ma na sobie kobiecy pióropusz,"neutral
+"
+Kobieta ma na sobie okulary i czarny pióropusz,Kobieta ma na sobie egipski pióropusz,"neutral
+"
+Mężczyzna jest na skale wysoko nad drzewami i stoi w niewygodnej pozie,Mężczyzna jest na skale wysoko nad drzewami i stoi w dziwnej pozie,"entailment 
+
+**explanation:**
+
+the hypothesis adds the detail that the pose is ""dziwna"" (strange/odd). however, the premise only states the man is in an ""niewygodna"" (uncomfortable) pose.  ""strange"" is a subset of ""uncomfortable."" if something is uncomfortable, it can also be considered strange. therefore, if the premise is true, the hypothesis *must* also be true. the hypothesis doesn't introduce any information that could logically contradict the premise.
+"
+Mężczyzna jest na skale wysoko nad drzewami i stoi w dziwnej pozie,Turysta jest na szczycie góry i tańczy,"neutral
+"
+Kowbojka jedzie na brązowym koniu i kręci lufą,Kowbojka jedzie konno i kręci lufą,"entailment
+"
+Kowboj jedzie na koniu i kręci lufą,Kowbojka jedzie konno i kręci lufą,"neutral
+"
+Kowbojka jedzie na beczce obok konia w narożniku,Kowbojka jedzie konno i kręci lufą,"neutral
+"
+Koń brązowy jest bardzo blisko czerwonej beczki na rodeo,Kowbojka jedzie konno i kręci lufą,"neutral
+"
+Brązowy koń jest z dala od czerwonej beczki na rodeo,Kowbojka jedzie konno i kręci lufą,"neutral
+"
+Kowboj jedzie na koniu i kręci lufą,Koń brązowy znajduje się w pobliżu czerwonej beczki na rodeo,"neutral
+"
+Koń brązowy znajduje się w pobliżu czerwonej beczki na rodeo,Kowbojka jedzie na beczce obok konia w narożniku,"neutral
+"
+Chłopiec stoi na zewnątrz wody,Chłopiec stoi w wodzie,"contradiction
+"
+Dziecko pływa po niebieskim oceanie,Chłopiec błądzi po niebieskim oceanie,"neutral
+"
+Chłopiec stoi w wodzie,Chłopiec siedzi nad niebieskim oceanem,"neutral
+"
+Chłopiec stoi w wodzie,Chłopiec błądzi po niebieskim oceanie,"neutral
+"
+Mężczyzna umiejętnie gra na gitarze na scenie,Mężczyzna gra na gitarze na scenie,"entailment
+"
+Osoba ma rozczochrane blond włosy i gra na gitarze,Gitarzysta ma rozczochrane blond włosy,"entailment
+"
+Mężczyzna umiejętnie gra na gitarze na scenie,Osoba ma rozczochrane blond włosy i gra na gitarze,"neutral
+"
+Mężczyzna gra na gitarze na scenie,Osoba ma rozczochrane blond włosy i gra na gitarze,"neutral
+"
+"Kilkoro dzieci siedzi , a ich kolana są podniesione",Kilkoro dzieci wstaje,"neutral
+"
+Dwie dziewczynki leżą na ziemi,Dwie dziewczynki siedzą na ziemi,"neutral
+"
+Dwie młode dziewczynki siedzą na ziemi,"Kilkoro dzieci siedzi , a ich kolana są podniesione","neutral
+"
+Kilkoro dzieci leży i podnosi kolana,Dwie dziewczynki siedzą na ziemi,"neutral
+"
+Kilkoro dzieci wstaje,Dwie dziewczynki siedzą na ziemi,"neutral
+"
+"Kilkoro dzieci siedzi , a ich kolana są podniesione",Dwie dziewczynki siedzą na ziemi,"neutral
+"
+Naga dama pokryta farbą do ciała idzie przed wieloma ludźmi,Naga dama pokryta farbą do ciała idzie przed tłumem ludzi,"entailment
+"
+"Stara , naga kobieta jest pokryta farbą",Naga dama pokryta farbą do ciała idzie przed tłumem ludzi,"neutral
+"
+"Młoda , naga kobieta jest pokryta farbą",Naga dama pokryta farbą do ciała idzie przed wieloma ludźmi,"neutral
+"
+Nie ma pani chodzącej w farbie do ciała przed tłumem,"Młoda , naga kobieta jest pokryta farbą","neutral
+"
+Grupa dzieci w mundurach stoi przy bramie i nikt nie całuje matki,Grupa dzieci w mundurkach stoi przy bramie a jedno z nich całuje matkę,"contradiction
+"
+Tłum ludzi jest blisko wody,Grupa dzieci ubranych w te same ubrania czeka przy bramie a jedno z nich całuje matkę,"neutral
+"
+W pobliżu dzieci stoi grupa matek w mundurkach a jedna całuje bramę,Tłum ludzi jest blisko wody,"neutral
+"
+Grupa ludzi jest blisko oceanu,Grupa dzieci w mundurkach stoi przy bramie a jedno z nich całuje matkę,"neutral
+"
+Tłum ludzi jest daleko od wody,Grupa dzieci w mundurkach stoi przy bramie a jedno z nich całuje matkę,"neutral
+"
+Tłum ludzi jest blisko wody,Grupa dzieci w mundurkach stoi przy bramie a jedno z nich całuje matkę,"neutral
+"
+Mężczyzna jest na parkingu i gra w tenisa przed dużą ścianą,Samotny mężczyzna jest na parkingu i gra w tenisa przed dużą ścianą,"neutral
+"
+Mężczyzna wskazuje na srebrnego sedana,Mężczyzna wskazuje na samochód,"entailment
+"
+Mężczyzna wskazuje na srebrnego sedana,Nie ma mężczyzny wskazującego na samochód,"contradiction
+"
+Mężczyzna wskazuje na samochód,Mężczyzna jest na parkingu i gra w tenisa przed dużą ścianą,"neutral
+"
+Mężczyzna wskazuje na srebrnego sedana,Samotny mężczyzna jest na parkingu i gra w tenisa przed dużą ścianą,"neutral
+"
+Mężczyzna wskazuje na srebrnego sedana,Mężczyzna jest na parkingu i gra w tenisa przed dużą ścianą,"neutral
+"
+"Mężczyzna , kobieta i dwie dziewczynki spacerują po plaży","Mężczyzna , kobieta i dwie dziewczynki siedzą na plaży","neutral
+"
+"Mężczyzna , kobieta i dwie dziewczynki siedzą na plaży",Grupa ludzi jest na plaży,"entailment
+"
+"Mężczyzna , kobieta i dwie dziewczynki spacerują po plaży",Grupa ludzi jest blisko morza,"entailment
+"
+Azjatycka kobieta w tłumie nosi czarną torbę,Azjatycka kobieta pośród wielu ludzi nosi czarną torbę,"entailment
+"
+Azjatycka kobieta pośród wielu ludzi nosi czarną torbę,Dziewczynka z czarną torbą jest w zatłoczonym pociągu,"neutral
+"
+Nie ma dziewczyny z czarną torbą w zatłoczonym pociągu,Azjatycka kobieta w tłumie nosi czarną torbę,"neutral
+"
+Azjatycka kobieta w tłumie nosi czarną torbę,Na torbie dziewczyny znajduje się zatłoczony czarny pociąg,"neutral
+"
+Dziewczynka z czarną torbą jest w zatłoczonym pociągu,Azjatycka kobieta w tłumie nosi czarną torbę,"neutral
+"
+Nie ma psa goniącego za innym psem lub trzymającego kij w pysku,Pies ściga innego psa i trzyma kij w pysku,"contradiction
+"
+Pies ściga innego psa i trzyma kij w pysku,Pies goni za kijem i trzyma w pysku innego psa,"contradiction
+"
+Nie ma psa biegnącego i niosącego w pysku przedmiot,Dwa psy biegną i niosą przedmiot w pyskach,"neutral
+"
+Dwa psy biegną i niosą zabawkę w pyskach,Pies ściga innego psa i trzyma kij w pysku,"neutral
+"
+Nie ma psa biegnącego i niosącego w pysku przedmiot,Pies ściga innego psa i trzyma kij w pysku,"neutral
+"
+Nie ma psa goniącego za innym psem lub trzymającego kij w pysku,Dwa psy biegną i niosą przedmiot w pyskach,"contradiction
+"
+Osoba grająca w piłkę nożną kopie piłkę w kierunku bramki,Piłkarz kopie piłkę do bramki,"entailment
+"
+Piłkarz wykopuje piłkę z bramki,Piłkarz kopie piłkę do bramki,"neutral
+"
+Brudna piłka futbolowa toczy się w kierunku bramki,Piłkarz kopie piłkę do bramki,"neutral
+"
+Piłkarz kopie piłkę do bramki,Piłka nożna nie toczy się w kierunku bramki,"contradiction 
+
+**explanation:**
+
+the premise states a footballer kicks a ball *towards* the goal. the hypothesis states the ball *doesn't* roll towards the goal. these statements directly contradict each other. if the footballer kicks the ball towards the goal, then the ball *is* rolling in that direction, which is the opposite of what the hypothesis asserts.
+"
+Mężczyzna odpoczywa na krześle i przeciera oczy,Mężczyzna siedzi na krześle i przeciera oczy,"entailment
+"
+Mężczyzna siedzi na krześle i przeciera oczy,Wytatuowany mężczyzna jest na kanapie i trzyma ołówek,"neutral
+"
+Brązowo biały pies odpoczywa w trawie,Przez wysoką trawę biegnie brązowo biały pies,"neutral
+"
+Przez niską i zieloną trawę biegnie czarno brązowawy pies,Przez wysoką i zieloną trawę biegnie biało brązowawy pies,"neutral
+"
+Przez pole biegnie biało brązowawy pies,Przez wysoką trawę biegnie brązowo biały pies,"neutral
+"
+Brązowo biały pies porusza się po dzikiej trawie,Przez wysoką i zieloną trawę biegnie biało brązowawy pies,"neutral
+"
+Przez wysoką i zieloną trawę biegnie biało brązowawy pies,Brązowo biały pies odpoczywa w trawie,"neutral
+"
+"Nie ma mężczyzny ubranego w ubrania pokryte farbą lub siedzącego na zewnątrz w zatłoczonym miejscu , piszącego coś",Mężczyzna siedzi w pobliżu roweru i pisze notatkę,"neutral
+"
+Mężczyzna siedzi w pobliżu roweru i pisze notatkę,Mężczyzna siedzący jest zajęty pisaniem czegoś na obszarze pokrytym farbą,"neutral
+"
+Mężczyzna siedzi w pobliżu roweru i pisze notatkę,"Mężczyzna ma na sobie ubrania pokryte farbą i siedzi na zewnątrz w zatłoczonym miejscu , pisząc coś","neutral
+"
+Niektórzy ludzie chodzą,Niektórzy ludzie stoją,"neutral
+"
+Grupa harcerzy wędruje po trawie,Ludzie idą,"entailment 
+
+**explanation:**
+
+the premise states that a group of scouts is walking on grass. walking is a type of movement that people do. therefore, the premise implies that people are walking. this constitutes entailment.
+"
+Niektórzy ludzie stoją,Grupa harcerzy wędruje po trawie,"neutral
+"
+Grupa odkrywców idzie po trawie,Niektórzy ludzie chodzą,"entailment 
+
+**explanation:**
+
+the premise states that a group of explorers is walking on grass. walking is an action performed by people. therefore, the premise implies that at least some people are walking. this directly supports the hypothesis that ""some people walk"".
+"
+Dwóch mężczyzn odpoczywa na zaśnieżonej drodze,Dwóch mężczyzn odpoczywa na drodze pokrytej śniegiem,"entailment
+"
+Dwóch mężczyzn odpoczywa na zaśnieżonej drodze,Dwóch mężczyzn idzie zaśnieżoną drogą,"neutral
+"
+Dwóch mężczyzn trzyma rowery i stoi na poboczu drogi pokrytej śniegiem,Dwóch mężczyzn z rowerami stoi na poboczu zaśnieżonej drogi,"entailment
+"
+Dwóch mężczyzn odpoczywa na zaśnieżonej drodze,Dwóch mężczyzn trzyma rowery i stoi na poboczu drogi pokrytej śniegiem,"neutral
+"
+Dwóch mężczyzn z rowerami stoi na poboczu zaśnieżonej drogi,Dwóch mężczyzn odpoczywa na drodze pokrytej śniegiem,"entailment 
+
+**explanation:**
+
+the premise states two men with bikes are on the side of a snowy road. the hypothesis states two men are resting on a snow-covered road.  since being on the side of a snowy road implies being on a snow-covered road, and the activity of ""resting"" is a reasonable assumption for people on the side of a road, the premise strongly suggests the hypothesis is true. therefore, the premise entails the hypothesis.
+"
+Dwóch mężczyzn z rowerami stoi na poboczu zaśnieżonej drogi,Dwóch mężczyzn idzie zaśnieżoną drogą,"neutral
+"
+Dwóch mężczyzn z rowerami stoi na poboczu zaśnieżonej drogi,Dwóch mężczyzn włamuje się do samochodu podczas wycieczki na zaśnieżonej drodze,"neutral
+"
+Dwóch mężczyzn z rowerami stoi na poboczu zaśnieżonej drogi,Dwóch mężczyzn odpoczywa na zaśnieżonej drodze,"entailment
+"
+Dwóch mężczyzn stoi nad wodą i trzyma wędki,Dwóch mężczyzn stoi nad wodą i trzyma w ręku narzędzia do wędkowania,"entailment
+"
+W pobliżu wody nie stoi żaden mężczyzna trzymający wędkę,Dwóch mężczyzn stoi nad wodą i trzyma wędki,"contradiction
+"
+Dwóch mężczyzn trzyma w ręku wodę stojąc w pobliżu wędek,Dwóch mężczyzn stoi nad wodą i trzyma wędki,"neutral
+"
+Dwóch mężczyzn trzyma wędki,Dwóch mężczyzn trzyma w ręku wodę stojąc w pobliżu wędek,"neutral
+"
+Dwóch mężczyzn stoi nad wodą i trzyma wędki,Dwóch mężczyzn trzyma wędki i haczyki,"neutral
+"
+Dwóch mężczyzn nie trzyma wędek,Dwóch mężczyzn stoi nad wodą i trzyma wędki,"contradiction
+"
+Dwóch mężczyzn stoi nad wodą i trzyma wędki,Dwóch mężczyzn trzyma wędki,"entailment
+"
+Dziewczynka w kasku grzęźnie na rowerze,Dziewczynka z kaskiem grzęźnie na rowerze,"entailment
+"
+Kobieta skacze na rowerze,Dziewczynka w kasku grzęźnie na rowerze,"neutral
+"
+Blondynka płynie na fali,Blondynka patrzy na fale,"neutral
+"
+Blondynka płynie na fali,Blondynka macha podczas pływania na desce,"neutral
+"
+Kobieta surfuje i płynie na fali,Kobieta surfuje,"entailment
+"
+Chłopiec surfuje i płynie na fali,Blondynka płynie na fali,"neutral
+"
+Kobieta surfuje i płynie na fali,Blondynka płynie na fali,"neutral
+"
+Dwoje dzieci i dorosły stoją obok gałęzi drzewa,Przy gałęzi drzewa stoją trzy osoby,"entailment
+"
+Dwoje dzieci wisi na dużej gałęzi,Dwoje dzieci wspina się na drzewo,"neutral
+"
+Na dużej gałęzi nie wisi żadne dziecko,Dwoje dzieci wisi na dużej gałęzi,"contradiction
+"
+Dwoje dzieci i dorosły stoją obok gałęzi drzewa,Na dużej gałęzi nie wisi żadne dziecko,"neutral
+"
+Przy gałęzi drzewa stoją trzy osoby,Dwoje dzieci wisi na dużej gałęzi,"neutral
+"
+Dwoje dzieci wisi na dużej gałęzi,Dwoje dzieci i jedna osoba dorosła nie stoją obok gałęzi drzewa,"neutral
+"
+Nie ma mężczyzny ubranego na czarno i jeżdżącego na zielonym rowerze,Mężczyzna ubrany na czarno jedzie na rowerze,"neutral
+"
+Czarny mężczyzna w zieleni jedzie na rowerze,Mężczyzna ubrany na czarno jedzie na rowerze,"contradiction
+
+**explanation:**
+
+the premise states ""a black man in green is riding a bicycle."" the hypothesis states ""a man dressed in black is riding a bicycle.""
+
+the premise specifies the man is *in green*, while the hypothesis specifies he is *in black*. these are conflicting details. therefore, the premise contradicts the hypothesis.
+"
+Mężczyzna robi sztuczkę na zielonym rowerze,"Nie ma mężczyzny , który robi sztuczkę na zielonym rowerze","contradiction
+"
+Mężczyzna ubrany na czarno jedzie na rowerze,Mężczyzna wykonuje akrobacje na zielonym rowerze,"neutral
+"
+"Nie ma mężczyzny , który robi sztuczkę na zielonym rowerze",Mężczyzna ubrany na czarno jedzie na rowerze,"neutral
+"
+Mężczyzna robi sztuczkę na zielonym rowerze,Mężczyzna wykonuje sztuczkę na rowerze,"entailment
+"
+Mężczyzna robi sztuczkę na zielonym rowerze,Czarny mężczyzna w zieleni jedzie na rowerze,"neutral
+"
+Mężczyzna robi sztuczkę na zielonym rowerze,Mężczyzna ubrany na czarno jedzie na rowerze,"neutral
+"
+Nie ma dziecka trzymającego w ręku pistolet na wodę,Dziecko trzyma pistolet na wodę,"contradiction
+"
+Dziecko trzyma pistolet na wodę,Nie ma dziecka trzymającego pistolet na wodę lub spryskiwanego wodą,"contradiction
+"
+Chłopiec trzyma pistolet na wodę,Śmiejące się dziecko trzyma pistolet na wodę i jest spryskiwane wodą,"neutral
+"
+Nie ma dziecka trzymającego w ręku pistolet na wodę,Śmiejące się dziecko trzyma pistolet na wodę i jest spryskiwane wodą,"neutral
+"
+Śmiejące się dziecko trzyma pistolet na wodę i jest spryskiwane wodą,Dziecko trzyma pistolet na wodę,"entailment
+"
+Dwa brązowe psy walczą o czerwoną piłkę i bawią się w trawie,Dwa brązowe psy walczą o czerwoną zabawkę i bawią się w trawie,"entailment
+"
+Dwa brązowe psy walczą o czerwoną piłkę i bawią się w trawie,Nie ma psa bawiącego się czerwoną piłką,"contradiction 
+
+**explanation:**
+
+the premise states that two brown dogs *are* playing with a red ball. the hypothesis states that *no* dog is playing with a red ball. these two statements cannot both be true simultaneously. therefore, the premise contradicts the hypothesis.
+"
+Dwa koty bawią się czerwoną piłką,Dwa brązowe psy walczą o czerwoną piłkę i bawią się w trawie,"neutral
+"
+Dwa jamniki bawią się czerwoną piłką,Dwa brązowe psy walczą o czerwoną zabawkę i bawią się w trawie,"neutral
+"
+Dwa jamniki bawią się czerwoną piłką,Dwa brązowe psy walczą o czerwoną piłkę i bawią się w trawie,"neutral
+"
+Czarno - biały pies biegnie i stoi za nim osoba,Czarno - biały pies nie biegnie i nie ma nikogo stojącego za nim,"contradiction
+"
+"Czarny człowiek biegnie po białej trybunie , a pies szczeka za nim",Czarno - biały pies biegnie i stoi za nim osoba,"neutral
+"
+"Mały pies zwalnia , a właściciel przestaje go gonić","Mały pies biegnie sprintem , a właściciel próbuje go złapać","contradiction
+
+**explanation:**
+
+the premise states the small dog is slowing down and the owner stops chasing it. the hypothesis states the small dog is running at full speed and the owner is trying to catch it. these two scenarios are directly opposing each other. therefore, the premise contradicts the hypothesis.
+"
+"Pies , który jest czarno - biały , biegnie , i stoi za nim osoba","Mały pies biegnie sprintem , a właściciel próbuje go złapać","neutral
+"
+Czarno - biały pies biegnie i stoi za nim osoba,"Mały pies biegnie sprintem , a właściciel próbuje go złapać","neutral
+"
+Mężczyzna siedzi wygodnie przy stole,Osoba siedzi wygodnie przy stole,"entailment 
+
+**explanation:**
+
+the premise states that a man (mężczyzna) is sitting comfortably (wygodnie) at a table (przy stole). the hypothesis states that a person (osoba) is sitting comfortably at a table.  since a man *is* a person, the premise directly supports the hypothesis. therefore, the premise entails the hypothesis.
+"
+Mężczyzna nie siedzi wygodnie przy stole,Mężczyzna siedzi wygodnie przy stole,"contradiction
+"
+Mężczyzna siedzi i proponuje wygodną dyskusję,Mężczyzna siedzi wygodnie przy stole,"neutral
+"
+Mężczyzna siedzi wygodnie przy stole,"Nie ma mężczyzny ubranego w koszulę barwioną na czarno , siedzącego przy stole i śmiejącego się","neutral
+"
+Mężczyzna siedzi wygodnie przy stole,"Śmiejący się mężczyzna farbuje koszulę na czarno na stole , na którym nie można usiąść","neutral
+"
+Mężczyzna w barwionej czarnej koszuli siedzi przy stole i śmieje się,Osoba siedzi wygodnie przy stole,"neutral
+"
+Mężczyzna w barwionej czarnej koszuli siedzi przy stole i śmieje się,Mężczyzna nie siedzi wygodnie przy stole,"neutral
+"
+Kobieta nosząca różowy szal jedzie na rowerze po moście zbudowanym dla pieszych,Piesza kobieta buduje różowe rowery dla rowerzystów noszących szale,"neutral
+"
+"Kobieta ubrana w srebrne majtki , różowe dzowny i różową chustę , jedzie uśmiechnięta na rowerze","Kobieta ubrana w srebrne majtki , różowe dzwony i różową chustę jedzie na rowerze","entailment
+"
+"Kobieta ubrana w srebrne majtki , różowe dzwony i różową chustę nie jeździ na rowerze","Kobieta ubrana w srebrne majtki , różowe dzwony i różową chustę jedzie na rowerze","contradiction
+"
+"Kobieta ubrana w srebrne majtki , różowe dzowny i różową chustę , jedzie uśmiechnięta na rowerze",Kobieta nosząca różowy szal jedzie na rowerze po moście zbudowanym dla pieszych,"neutral
+"
+Kobieta nosząca różowy szal jedzie na rowerze po moście zbudowanym dla pieszych,Różowe dzwony i różowa chusta nie mogą być noszone przez kobiety z srebrnymi majtkami lub rowerzystki,"neutral
+"
+"Kobieta ubrana w srebrne majtki , różowe dzwony i różową chustę jedzie na rowerze","Kobieta , która zdejmuje różowy szal , zatrzymuje rower na moście zbudowanym dla pieszych","neutral
+"
+Nie ma mężczyzny w czarnym kasku i pchającego rower,Jeden mężczyzna ma na sobie czarny kask i popycha rower,"contradiction
+"
+Jeden mężczyzna ma na sobie czarny kask i popycha rower,Mężczyzna popycha kask w kierunku innego kasku na czarnym rowerze,"contradiction
+
+**explanation:**
+
+the premise states a man has a black helmet *on* and is pushing a bicycle. the hypothesis states he's pushing a helmet *towards* another helmet *on* a black bicycle.  this is a contradiction because the premise says the helmet is *on* the man's head, not something he's pushing. the hypothesis describes a completely different scenario.
+"
+Mężczyzna pchający rower nosi czarny kask,Rowerzysta ma ubranie w kolorze czarnym,"neutral
+"
+Mężczyzna popycha kask w kierunku innego kasku na czarnym rowerze,Rowerzysta ma ubranie w kolorze czarnym,"neutral
+"
+"Osoba , która jedzie na rowerze , ma na sobie czarne ubranie",Jeden mężczyzna ma na sobie czarny kask i popycha rower,"neutral
+"
+Jeden mężczyzna ma na sobie czarny kask i popycha rower,Motocyklista ubrany na czarno łamie koła zębate,"neutral
+"
+Rowerzysta ma ubranie w kolorze czarnym,Jeden mężczyzna ma na sobie czarny kask i popycha rower,"neutral
+"
+Mężczyzna w szarej koszulce siedzi na skale przed wodospadem,"Rakieta siedzi z koszulką , która ma mężczyznę nad szarym wodospadem z przodu","contradiction 
+
+**explanation:**
+
+the premise states a man in a grey shirt is sitting on a rock in front of a waterfall. the hypothesis describes a rocket sitting with a shirt *having* a man above a grey waterfall in front. this is fundamentally different and contradictory.  a rocket cannot be sitting, nor can a shirt *have* a man in the way described. the location and subject matter are completely different.
+"
+Jedna kobieta siedzi i patrzy na wodospad,Kobieta siedzi i patrzy na wodospad,"entailment
+"
+Kobieta siedzi i patrzy na wodospad,Ktoś siedzi przy wodospadzie i patrzy na kobietę,"neutral
+"
+Mężczyzna w szarej koszulce siedzi na skale przed wodospadem,Jedna kobieta siedzi i patrzy na wodospad,"neutral
+"
+Mężczyzna w szarej koszulce siedzi na skale przed wodospadem,Ktoś siedzi przy wodospadzie i patrzy na kobietę,"neutral
+"
+Kobieta siedzi i patrzy na wodospad,Mężczyzna w szarej koszulce siedzi na skale przed wodospadem,"neutral
+"
+"Pies , który jest brązowy , i drugi czarny , ścigają się w trawie","Pies , który jest brązowy , i drugi czarny , biegają się w trawie","entailment 
+
+**explanation:**
+
+the premise states that two dogs, one brown and one black, are racing in the grass. the hypothesis states that these same two dogs are running in the grass. ""biegać się"" (to run around/to run) is a synonym for ""ścigają się"" (to race). therefore, the premise necessarily implies the hypothesis.
+"
+Na podwórku bawi się czarny pies i jasnobrązowy pies,Na podwórku walczy czarny pies i jasnobrązowy pies,"neutral
+"
+Światło podwórka płata figle w ciemności czarnemu i jasnobrązowemu psu,Na podwórku bawi się czarny pies i jasnobrązowy pies,"neutral
+"
+Światło podwórka płata figle w ciemności czarnemu i jasnobrązowemu psu,"Pies , który jest brązowy , i drugi czarny , biegają się w trawie","neutral
+"
+"Pies , który jest brązowy , i drugi czarny , ścigają się w trawie",Na podwórku bawi się czarny pies i jasnobrązowy pies,"entailment 
+
+**explanation:**
+
+the premise states there's a brown dog and a black dog racing in the grass. the hypothesis states a black dog and a light brown dog are playing in the yard.  since the premise confirms the existence of a black and a brown dog, and the hypothesis specifies they are playing (which is a possible activity given they are racing), the hypothesis is logically entailed by the premise. the premise provides sufficient information to support the hypothesis.
+"
+"Pies , który jest brązowy , i drugi czarny , biegają się w trawie",Na podwórku bawi się czarny pies i jasnobrązowy pies,"entailment 
+
+**explanation:**
+
+the premise states that there's a brown dog and a black dog running in the grass. the hypothesis states that a black dog and a light brown dog are playing in the yard.  since the premise *contains* the information necessary for the hypothesis to be true, the premise entails the hypothesis. we can infer the existence of a light brown dog from the ""brązowy pies"" (brown dog) mentioned in the premise.  the location ""trawie"" (in the grass) is also consistent with ""na podwórku"" (in the yard).
+"
+"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę","Pies , który ma białą i brązową sierść , biegnie się przez płytką wodę","entailment
+"
+"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę",Brązowa i biała sierść pływa po płytkiej wodzie w pobliżu biegającego psa,"neutral
+"
+Biały i brązowy pies z trudem przechodzi przez wodę,Nie ma białego i brązowego psa z trudem przeprawiającego się przez wodę,"contradiction
+"
+Biały mężczyzna z trudem idzie psem po brązowej wodzie,Biały i brązowy pies z trudem przechodzi przez wodę,"neutral
+"
+Biały i brązowy pies z trudem przeprawia się przez wodę,"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę","neutral 
+
+**explanation:**
+
+the premise states a specific instance of a dog (white and brown) having difficulty crossing water. the hypothesis describes a different dog (white and brown) running through shallow water. the premise doesn't provide any information about dogs running through shallow water, so it neither entails nor contradicts the hypothesis. it's neutral.
+"
+"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę",Nie ma białego i brązowego psa z trudem przeprawiającego się przez wodę,"neutral 
+
+**explanation:**
+
+the premise describes a specific dog with brown and white fur running through shallow water. the hypothesis makes a general statement about the *absence* of a dog with brown and white fur struggling to cross water. 
+
+the premise doesn't provide enough information to definitively confirm or deny the hypothesis. it's possible a brown and white dog *is* struggling to cross water, but the premise doesn't say so. it's also possible no such dog exists. therefore, the premise is neutral towards the hypothesis.
+
+
+
+"
+Biały mężczyzna z trudem idzie psem po brązowej wodzie,"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę","neutral
+"
+"Pies , który ma białą i brązową sierść , biegnie się przez płytką wodę",Biały i brązowy pies z trudem przechodzi przez wodę,"neutral
+"
+"Pies , który ma brązową i białą sierść siedzi w płytkiej wodzie",Biały i brązowy pies z trudem przechodzi przez wodę,"neutral
+"
+Biały i brązowy pies z trudem przechodzi przez wodę,Brązowa i biała sierść pływa po płytkiej wodzie w pobliżu biegającego psa,"neutral
+"
+Biały i brązowy pies z trudem przechodzi przez wodę,"Pies , który ma brązową i białą sierść , biegnie przez płytką wodę","neutral
+"
+Grupa chłopców bawi się piłką przed dużymi drzwiami wykonanymi z drewna,Chłopcy bawią się piłką przed dużymi drzwiami wykonanymi z drewna,"entailment
+"
+Grupa chłopców bawi się piłką przed dużymi drzwiami wykonanymi z drewna,Przez drzwi przed dużą grupą chłopców gra się drewnianą piłką,"neutral
+"
+Dzieci bawią się przed bardzo dużymi drzwiami,Dzieci bawią się przed dużymi drzwiami,"entailment
+"
+Dzieci nie bawią się przed dużymi drzwiami,Dzieci bawią się przed dużymi drzwiami,"contradiction
+"
+Grupa chłopców bawi się piłką przed dużymi drzwiami wykonanymi z drewna,Dzieci bawią się przed bardzo dużymi drzwiami,"neutral
+"
+Dzieci bawią się przed dużymi drzwiami,Przez drzwi przed dużą grupą chłopców gra się drewnianą piłką,"neutral
+"
+Grupa chłopców bawi się piłką przed dużymi drzwiami wykonanymi z drewna,Dzieci bawią się przed dużymi drzwiami,"entailment
+"
+"Kobieta zdejmuje płaszcz , który jest bardzo duży , odsłaniając ekstrawagancką sukienkę","Kobieta zdejmuje płaszcz , który jest bardzo duży , odsłaniając ekstrawagancką odzież","entailment 
+
+**explanation:**
+
+the hypothesis (""kobieta zdejmuje płaszcz, który jest bardzo duży, odsłaniając ekstrawagancką odzież"") is a broader statement than the premise (""kobieta zdejmuje płaszcz, który jest bardzo duży, odsłaniając ekstrawagancką sukienkę"").  a dress is a type of clothing (odzież). therefore, if the premise is true, the hypothesis *must* also be true. the premise implies the presence of ""odzież"" (clothing), and the hypothesis simply generalizes that ""odzież"" is extravagant.
+"
+"Kobieta nosi czarną , czerwoną , białą i różową sukienkę","Kobieta nosi sukienkę , która jest czarna , czerwona , biała i różowa","entailment
+"
+"Kobieta nie nosi czarnej , czerwonej , białej i różowej sukienki","Kobieta nosi czarną , czerwoną , białą i różową sukienkę","contradiction
+"
+"Kobieta nosi sukienkę , która jest czarna , czerwona , biała i różowa","Kobieta zdejmuje płaszcz , który jest bardzo duży , odsłaniając ekstrawagancką sukienkę","neutral
+"
+Nastoletnia dziewczynka ma na sobie czerwone koraliki,"Nastoletnia dziewczynka ma na sobie koraliki , które są czerwone","entailment 
+
+**explanation:**
+
+the premise states the girl has red beads. the hypothesis states the girl has beads that are red.  since ""red"" is explicitly mentioned in the premise, the hypothesis is a logical consequence of the premise. therefore, the premise entails the hypothesis.
+"
+"Młoda dama o jasnobrązowych włosach ma na sobie czerwony naszyjnik , bluzę i kolczyki , i uśmiecha się","Nastoletnia dziewczynka ma na sobie koraliki , które są czerwone","neutral
+"
+Chłopiec wspina się na sztuczną ścianę do wspinaczki i jest przymocowany do liny,Chłopiec bez wysiłku wspina się po sztucznej ścianie do wspinaczki i jest przymocowany do liny,"neutral
+"
+Chłopiec wspina się na sztuczną ścianę do wspinaczki i jest przymocowany do liny,Chłopiec schodzi po sztucznej ścianie do wspinaczki i nie jest przymocowany do liny,"contradiction 
+
+**explanation:**
+
+the premise states the boy is *climbing* and *attached to a rope*. the hypothesis states the boy is *descending* and *not attached to a rope*.  these two statements are mutually exclusive.  if he's climbing and attached, he cannot simultaneously be descending and not attached. therefore, the hypothesis contradicts the premise.
+"
+Bojaźliwy mały chłopiec jest na ścianie wspinaczkowej,"Chłopiec , który wygląda bojaźliwie , jest na ścianie wspinaczkowej","entailment
+"
+Jeden mężczyzna wspina się po klifie za pomocą liny,Jeden mężczyzna wspina się na klif za pomocą liny,"entailment
+"
+"Osoba wspina się na skałę za pomocą liny , która jest różowa","Na skałę wspina się osoba z liną , która jest różowa","entailment
+"
+Chłopiec wspina się po skalnej ścianie,Młody chłopiec wspina się po skalnej ścianie,"entailment
+"
+Jeden mężczyzna robi sztuczkę z rowerem w powietrzu,Jeden mężczyzna robi rowerową sztuczkę w powietrzu,"entailment
+"
+Rowerzysta bez strachu wykonuje sztuczkę w powietrzu,Rowerzysta wykonuje sztuczkę w powietrzu,"entailment
+"
+Jeden mężczyzna robi sztuczkę z rowerem w powietrzu,Rowerzysta wykonuje sztuczkę w powietrzu,"entailment 
+
+**explanation:**
+
+the premise ""jeden mężczyzna robi sztuczkę z rowerem w powietrzu"" translates to ""one man is doing a trick with a bicycle in the air."" the hypothesis ""rowerzysta wykonuje sztuczkę w powietrzu"" translates to ""the cyclist is performing a trick in the air.""
+
+since the premise explicitly states that someone (a man) is performing a trick with a bicycle in the air, the hypothesis that a cyclist is performing a trick in the air is logically entailed by the premise.
+"
+Mężczyzna nie robi rowerowej sztucki w powietrzu,Rowerzysta wykonuje sztuczkę w powietrzu,"contradiction
+"
+Jeden mężczyzna robi rowerową sztuczkę w powietrzu,Rowerzysta wykonuje sztuczkę w powietrzu,"entailment 
+
+**explanation:**
+
+the premise ""jeden mężczyzna robi rowerową sztuczkę w powietrzu"" translates to ""one man is doing a bicycle trick in the air."" 
+
+the hypothesis ""rowerzysta wykonuje sztuczkę w powietrzu"" translates to ""a cyclist is performing a trick in the air.""
+
+since the premise states a man is doing a bicycle trick in the air, it logically follows that a cyclist (which the man is) is performing a trick in the air. therefore, the premise entails the hypothesis.
+"
+"Pies , który jest czarny i inny , który jest biały , ignorują się na ulicy","Pies , który jest czarny , i drugi biały , patrzą na siebie na ulicy","contradiction 
+
+**explanation:**
+
+* **premise:**  states that a black dog and a white dog *ignore* each other.
+* **hypothesis:** states that a black dog and a white dog *look at each other*.
+
+these statements are directly opposing. if they ignore each other, they cannot be looking at each other. therefore, the hypothesis contradicts the premise.
+"
+Mężczyzna i kobieta siedzą wygodnie na ławce,Dwie osoby siedzą wygodnie na ławce,"entailment
+"
+Mężczyzna i kobieta siedzą wygodnie na ławce,Nikt nie siedzi wygodnie na ławce,"contradiction
+"
+Jeden mężczyzna prowadzi w wyścigu,Mężczyzna prowadzi w wyścigu,"entailment
+"
+Kilku mężczyzn rywalizuje w zawodach biegowych na zewnątrz,Kilku mężczyzn rywalizuje w zawodach biegowych na świeżym powietrzu,"entailment
+"
+Przedmiot jest badany przez mężczyznę z kamerą,Mężczyzna z kamerą bada przedmiot,"entailment
+"
+Małżonkowie idą alejką,"Para , która właśnie się pobrała , idzie alejką","entailment
+"
+"Para , która właśnie się pobrała , idzie alejką",Panna młoda i pan młody wychodzą po weselu,"neutral
+"
+Uczniowie wypełniają klasę,W klasie jest pełno uczniów,"entailment
+"
+W klasie jest pełno uczniów,Sale lekcyjne są puste,"contradiction 
+
+**explanation:**
+
+the premise states ""there are many students in the class."" the hypothesis states ""the classrooms are empty.""  these two statements are directly contradictory. if there are many students *in the class*, it's impossible for the classrooms (where the classes are held) to be empty.
+"
+Prezentacja nie jest oglądana przez salę studentów,Prezentacja jest oglądana przez salę studentów,"contradiction
+"
+Prezentacja jest oglądana przez salę studentów,W klasie jest pełno uczniów,"entailment 
+
+**explanation:**
+
+the premise states that a presentation is being watched by a room full of students.  the hypothesis states that there are many students in the class. if a presentation is being watched *by* a room full of students, it's a reasonable inference that the class has many students. therefore, the premise entails the hypothesis.
+"
+Podekscytowany pies bawi się wodą na polu,Podekscytowany pies bawi się wodą w trawie,"entailment 
+
+**explanation:**
+
+the premise states a ""podekscytowany pies"" (excited dog) is playing with water ""na polu"" (in the field).  a field *often* contains grass. it's a reasonable, and likely, assumption that the dog is playing with water *in the grass* within the field. therefore, the premise entails the hypothesis.
+"
+Podekscytowany pies bawi się wodą w trawie,W trawie nie ma podekscytowanego psa bawiącego się wodą,"contradiction
+"
+Dwaj mężczyźni wyprowadzają dwa psy ze złotą sierścią na śnieg,Dwie osoby wyprowadzają dwa psy ze złotą sierścią na śnieg,"entailment
+"
+"Dwie osoby są w śniegu nie ubrane w ubrania , co zapewnia kamuflaż","Dwie osoby są na śniegu , ubrane w ubrania , które zapewniają kamuflaż","contradiction 
+
+**explanation:**
+
+the premise states the two people are *not* wearing clothes that provide camouflage. the hypothesis states they *are* wearing clothes that provide camouflage. these are directly contradictory statements.
+"
+"Dziewczynka z Azji , przed ceglanym oknem , wygląda na zdziwioną","Dziewczynka z Azji , przed oknem z cegły , wygląda na zdziwioną","entailment
+"
+"Dziewczynka z Azji , przed ceglanym oknem , nie wygląda na zaskoczoną","Dziewczynka z Azji , przed ceglanym oknem , wygląda na zdziwioną","contradiction
+"
+Dziewczynka wygląda z zaskoczeniem z przedniej szyby domu w Azji,"Dziewczynka z Azji , przed ceglanym oknem , wygląda na zdziwioną","neutral
+
+**explanation:**
+
+the premise states a girl is looking from a house window in asia with surprise. the hypothesis specifies that the girl is from asia, looking at a brick window, and appears surprised. 
+
+while both mention a girl in asia looking surprised, the premise *doesn't* explicitly state about a brick window. therefore, the premise doesn't definitively *entail* the hypothesis. it also doesn't *contradict* it. it's simply a more specific description than what's given in the premise. 
+
+hence, it's **neutral**.
+"
+Dziewczynka ma na sobie koszulkę i ma otwarte usta,Dziewczynka ma koszulkę i ma otwarte usta,"entailment
+"
+"Nie ma dziewczyny , która miałaby na sobie koszulkę i miała otwarte usta",Dziewczynka ma na sobie koszulkę i ma otwarte usta,"contradiction
+"
+Osoba na rowerze stoi stabilnie przed niektórymi górami,Przed górami stoi nieruchomo osoba na sprzęcie używanym do jazdy na rowerze,"entailment
+"
+Osoba na rowerze stoi stabilnie przed niektórymi górami,Przed górami nie stoją żadne osoby na sprzęcie rowerowym,"contradiction 
+
+**explanation:**
+
+the premise states that *some* person on a bicycle is standing stably in front of some mountains. the hypothesis states that *no* person on a bicycle is standing in front of any mountains. these two statements directly contradict each other.
+"
+Piłka nożna jest między stopami chłopca leżącego na trawie,Piłka nożna nie jest między stopami chłopca leżącego na trawie,"contradiction
+"
+Chłopiec na trawie leży i ukrywa piłkę nożną między stopami,Piłka nożna jest między stopami chłopca leżącego na trawie,"entailment
+"
+"Mężczyzna ze sprzętem wspinaczkowym wisi na skale , która jest pionowa i biała","Na białej , pionowej skale wisi mężczyzna z wyposażeniem do wspinaczki","entailment
+"
+Czarno - biały pies radośnie biegnie po trawie,Pies z czarną sierścią i biały pies biegną po trawie,"neutral
+"
+Na trawie nie ma radośnie biegnącego psa,Czarno - biały pies radośnie biegnie po trawie,"contradiction
+"
+Biały pies i czarny pies radośnie biegają obok siebie po trawie,Jeden biały pies i jeden czarny biegną obok siebie po trawie,"entailment
+"
+Wiele osób znajduje się w parku łyżwiarskim,W parku łyżwiarskim nie ma zbyt wielu ludzi,"contradiction
+"
+Wiele osób jeździ na łyżwach w parku lodowym,Znajdujące się na zewnątrz lodowisko jest pełne ludzi,"entailment 
+
+**explanation:**
+
+the premise states that ""many people skate at the ice rink in the park."" the hypothesis states that ""the outdoor ice rink is full of people.""  if many people are skating, it's highly likely the rink is full of people.  the premise provides evidence supporting the hypothesis, making it an entailment.
+"
+Dziewczynka w niebieskim mundurze szybko podnosi rękę,Dziewczynka w niebieskim mundurze podnosi rękę,"entailment
+"
+Na brzegu znajduje się garstka chłopców,Na brzegu znajduje się grupa ludzi,"entailment 
+
+**explanation:**
+
+the premise states ""on the shore there is a handful of boys.""  ""a handful of boys"" is a subset of ""a group of people.""  therefore, if there are boys on the shore, there must be people on the shore.  the premise *implies* the existence of a group of people.
+"
+Na brzegu nie ma nikogo,Na brzegu znajduje się grupa ludzi,"contradiction
+"
+Ludzie są na plaży pełnej piasku nad oceanem i cieszą się dniem pełnym słońca,Na brzegu znajduje się grupa ludzi,"entailment
+"
+Ludzie są na plaży pełnej piasku nad oceanem i cieszą się słonecznym dniem,Na brzegu nie ma nikogo,"contradiction 
+
+**explanation:**
+
+the premise states that people *are* on the beach. the hypothesis states that there is *no one* on the beach. these statements directly contradict each other. therefore, the premise contradicts the hypothesis.
+"
+Mężczyzna w niebieskim kombinezonie nie potrafi jeździć na jednym kole na motocyklu,Mężczyzna w niebieskim skafandrze odważnie jeździ na jednym kole na motocyklu,"contradiction
+"
+Kobieta jest całowana przez mężczyznę,Panna jest całowana przez mężczyznę,"neutral
+"
+Dwie osoby namiętnie całują się w tłumie,Dwie osoby całują się w pobliżu tłumu,"entailment
+"
+Młoda kobieta w barwionej czerwonej koszuli puszcza wielką bańkę mydlaną,Dziewczynka w czerwonej koszuli dmucha balonik,"neutral
+"
+Dziewczynka w czerwonej koszuli dmucha balonik,"Dziewczynka w czerwonej , barwionej koszuli nie puszcza bańki mydlanej","neutral
+"
+"Młoda dziewczyna puszcza bańkę mydlaną , która jest ogromna","Dziewczyna , która jest młoda , puszcza ogromną bańkę mydlaną","entailment
+"
+Młoda kobieta w barwionej czerwonej koszuli puszcza wielką bańkę mydlaną,"Młoda dziewczyna puszcza bańkę mydlaną , która jest ogromna","entailment 
+
+**explanation:**
+
+the premise states a young woman in a red shirt blows a large soap bubble. the hypothesis states a young girl blows a large soap bubble.  the premise's description of the woman and the size of the bubble are consistent with the hypothesis.  the hypothesis doesn't contradict anything in the premise. therefore, the premise entails the hypothesis.
+"
+Małe dziecko ma na sobie buty z zielonej gumy i bawi się w kałuży pełnej błota,Małe dziecko ma na sobie zielone buty i bawi się w kałuży pełnej błota,"entailment
+"
+Chłopiec skacze do kałuży na ulicy,Chłopiec skacze do kałuży na drodze,"entailment
+"
+Dwoje młodych dzieciaków je corndogi,Dwoje młodych dzieci pości,"neutral
+"
+Pozujący mężczyzna jest obserwowany przez innego mężczyznę,Nie ma człowieka w pozie obserwowanego przez innego człowieka,"contradiction 
+
+**explanation:**
+
+* **premise:** a posing man is being observed by another man. this means there *is* at least one man observing another man.
+* **hypothesis:** there is no man being observed by another man. 
+
+the hypothesis directly contradicts the premise. the premise states that observation is happening, while the hypothesis asserts that no such observation is taking place. therefore, it's a contradiction.
+"
+Mężczyzna pozuje by być oglądanym przez innego mężczyznę,Pozujący mężczyzna jest obserwowany przez innego mężczyznę,"entailment
+"
+"Mężczyzna w koszuli barwionej na fioletowo patrzy na mężczyznę w czarnej koszuli , który robi śmieszną minę",Pozujący mężczyzna jest z rozbawieniem obserwowany przez innego mężczyznę,"entailment 
+
+**explanation:**
+
+the premise states a man in a purple shirt is looking at a man in a black shirt making a funny face.  this directly implies that someone is observing someone else with a humorous expression, and therefore, the hypothesis that the posed man (making the funny face) is being observed with amusement is entailed. the premise provides sufficient information to support the hypothesis.
+"
+"Mężczyzna w koszuli barwionej na fioletowo patrzy na mężczyznę w czarnej koszuli , który robi śmiesznie wyglądającą minę",Pozujący mężczyzna jest obserwowany przez innego mężczyznę,"entailment
+"
+"Mężczyzna w koszuli barwionej na fioletowo patrzy na mężczyznę w czarnej koszuli , który robi śmieszną minę",Pozujący mężczyzna jest obserwowany przez innego mężczyznę,"entailment
+"
+Nie ma konia podrzucającego kowbojem w czerwonych i niebieskich spodnie,Koń podrzuca kowboja noszącego spodnie w kolorze niebieskim i czerwonym,"contradiction
+"
+Mężczyzna gwałtownie spada z konia na ścieżce prowadzącej przez dzicz,Mężczyzna spada z konia na ścieżkę i kładzie się w dziczy,"entailment 
+
+**explanation:**
+
+the premise states the man falls from a horse on a path leading *through* the wilderness (""dzicz""). the hypothesis states the man falls from a horse *on* a path and lies *in* the wilderness.  falling ""through"" the wilderness implies being in the wilderness.  therefore, the premise logically entails the hypothesis.
+"
+Mężczyzna spada z konia na ścieżkę i kładzie się w dziczy,Mężczyzna wsiada na konia na ścieżce prowadzącej przez dzicz,"neutral
+"
+Dorosły jest w amfiteatrze i przeprowadza poważną rozmowę z chłopcem,Dorosły jest w amfiteatrze i rozmawia z chłopcem,"entailment
+"
+"Mężczyzna i chłopiec stoją na dole schodów , na zewnątrz","Mężczyzna i chłopiec stoją na szczycie schodów , które są na zewnątrz","contradiction
+"
+Chłopiec w czerwonej koszuli jest naprzeciwko długiej niebieskiej ściany i podejrzliwie podnosi brew przed kamerą,"Chłopiec w czerwonej koszuli jest naprzeciwko ściany , która jest długa i niebieska , i podejrzliwie podnosi brew przed kamerą","entailment
+"
+"Chłopiec stoi przed budynkiem pomalowanym na niebiesko , na miejscu zarezerwowanym dla osób niepełnosprawnych",Chłopiec stoi przed niebieskim budynkiem w przestrzeni zarezerwowanej dla osób niepełnosprawnych,"entailment
+"
+Kilka koni wściekle ściga się na zielonej trawie i przeskakuje przez przeszkodę,Niektóre konie ścigają się wściekle po zielonej trawie i przeskakują przez przeszkodę,"entailment
+"
+Stara kobieta ma na sobie różową koszulę i nieporadnie nosi dwie gazety,Stara kobieta ma na sobie koszulę z różanym wzorem i nieporadnie nosi dwie gazety,"neutral
+"
+Stara kobieta jest półnaga i niezgrabnie upuszcza dwie gazety,Stara kobieta ma na sobie różową koszulę i nieporadnie nosi dwie gazety,"contradiction 
+
+**explanation:**
+
+the premise states the old woman is *half-naked* and *clumsily drops* two newspapers. the hypothesis states she has a *pink shirt* and *clumsily carries* two newspapers. 
+
+the core conflict is the clothing. ""half-naked"" directly contradicts having a ""pink shirt"". therefore, the premise contradicts the hypothesis.
+"
+Jedna osoba uprawiająca snowboard wyskakuje w powietrze,Osoba uprawiająca snowboard wyskakuje w powietrze,"entailment
+"
+Snowboardzista przeskakuje bez strachu nad białym śniegiem,Snowboardzista przeskakuje nad białym śniegiem,"entailment
+"
+Snowboardzista nie przeskakuje nad białym śniegiem,Snowboardzista przeskakuje nad białym śniegiem,"contradiction
+"
+Snowboardzista przeskakuje nad białym śniegiem,Jedna osoba uprawiająca snowboard wyskakuje w powietrze,"entailment
+"
+Osoba jedzie motocyklem na piaszczystym torze,Osoba jedzie motocyklem po torze na piasku,"entailment
+"
+Osoba nie jedzie na motocyklu na piaszczystym torze,Osoba jedzie motocyklem na piaszczystym torze,"contradiction
+"
+Osoba jedzie na motocyklu podczas imprezy związanej z motocrossem,"W zawodach związanych z motocrossem nie ma nikogo , kto jeździłby na motocyklu","contradiction 
+
+**explanation:**
+
+the premise states someone *is* riding a motorcycle at a motocross event. the hypothesis states that *no one* at a motocross event is riding a motorcycle.  these statements are directly opposing each other, therefore the premise contradicts the hypothesis.
+"
+Różowa koszula z białym napisem noszona jest przez leżącą w trawie dziewczynę,Dziewczynka ma na sobie różową koszulę z białym napisem i leży w trawie,"entailment
+"
+Młoda dziewczyna z koszulą barwioną na różowo spokojnie leży na trawie,Młoda dziewczyna z różową koszulą spokojnie leży na trawie,"entailment
+"
+"Młoda , spokojna dziewczyna leży na trawie w różowej koszuli",Młoda dziewczyna z różową koszulą spokojnie leży na trawie,"entailment
+"
+"Pies , który jest duży i szary , z trudem nosi piłkę w pysku i biegnie po trawie","Pies , który jest duży i szary , nosi piłkę w pysku i biegnie po trawie","entailment 
+
+**explanation:**
+
+the premise states that a specific dog (large and gray) *with difficulty* carries a ball and runs. the hypothesis states the same dog (large and gray) *does* carry a ball and runs.  the ""with difficulty"" in the premise doesn't negate the action of carrying and running; it just adds a descriptive element. therefore, the hypothesis is logically entailed by the premise.
+"
+Kobieta jedzie na brązowym koniu,Kobieta jedzie na koniu,"entailment
+"
+"Mężczyzna otwiera małą paczkę , w której znajdują się słuchawki","Mężczyzna otwiera opakowanie , które zawiera słuchawki","entailment
+"
+"Mężczyzna otwiera opakowanie , które zawiera słuchawki","Mężczyzna otwiera opakowanie , które nie zawiera słuchawek","contradiction
+"
+Nie ma mężczyzny śpiewającego i grającego na gitarze,Mężczyzna śpiewa i gra na gitarze,"contradiction
+"
+Pies jedzie na deskorolce,Zwierzę jedzie na deskorolce,"entailment 
+
+**explanation:**
+
+the premise states that a dog (a type of animal) is riding a skateboard. the hypothesis states that an animal is riding a skateboard.  since the premise provides a specific example that fits the general statement of the hypothesis, the premise entails the hypothesis.
+"
+Żółw morski poluje na ryby,Żółw morski poluje na pokarm,"entailment
+"
+Żółw morski nie poluje na ryby,Żółw morski poluje na ryby,"contradiction
+"
+Żółw podąża za rybą,Żółw nie podąża za rybą,"contradiction
+"
+Żółw podąża za rybą,Ryby podążają za żółwem,"neutral
+"
+Mężczyzna prowadzi samochód,Samochód jest prowadzony przez mężczyznę,"entailment
+"
+"Nie ma mężczyzny , który prowadziłby samochód",Mężczyzna prowadzi samochód,"contradiction
+"
+Kobieta zanurza krewetki w cieście,Kobieta zanurza krewetkę w cieście,"neutral
+"
+Nie ma kobiety zanurzającej krewetkę w cieście,Kobieta zanurza krewetkę w cieście,"contradiction
+"
+Mężczyzna gra na gitarze pod oknami,Mężczyzna gra na gitarze,"entailment
+"
+Mężczyzna gra na fortepianie na koncercie,Mężczyzna gra na fortepianie,"entailment 
+"
+Mężczyzna gra na fortepianie,Nie ma mężczyzny grającego na fortepianie,"contradiction
+"
+Kobieta usuwa składniki z miski,Kobieta dodaje składniki do miski,"contradiction
+"
+Kobieta wbija jajka do miski,Kobieta wbija jajka do pojemnika,"entailment 
+
+**explanation:**
+
+""wbija jajka do miski"" (puts eggs in a bowl) implies that the eggs are being put into some kind of container. a bowl *is* a container. therefore, the premise entails the hypothesis.
+"
+Kobieta szatkuje marchewkę,Marchew jest krojona przez kobietę,"entailment
+"
+Kobieta kroi ziemniaka w plasterki,Kobieta tnie ziemniaka,"entailment 
+
+**explanation:**
+
+""kroić"" (kroić) means to slice or cut (usually with a knife and a somewhat thicker cut than ""tnie""). ""tnie"" (tnie) means to cut.  slicing is a type of cutting. therefore, if a woman is slicing a potato, it necessarily follows that she is cutting it.
+"
+Kobieta nie gotuje krewetek,Kobieta gotuje krewetki,"contradiction
+"
+Mężczyzna i kobieta idą razem przez zalesione miejsca,Mężczyzna i kobieta idą razem przez las,"entailment
+"
+Mężczyzna przemawia na scenie,Na scenie nie przemawia żaden mężczyzna,"contradiction
+"
+Dwóch przestraszonych chłopców rozmawia przez telefon,Dwóch chłopców rozmawia przez telefon,"entailment
+"
+Dwóch chłopców rozmawia przez telefon,Dwóch chłopców nie rozmawia przez telefon,"contradiction
+"
+W bagnie nie brodzi żadna małpa,Małpa błąka się przez bagno,"contradiction
+"
+Mała małpa idzie po rzece,Mała małpa idzie po wodzie,"entailment 
+
+**explanation:**
+
+the premise states the monkey is going *after* the river. since rivers are bodies of water, and the action of going ""after"" something implies traversing it, it logically follows that the monkey is going *on* the water.  therefore, the premise entails the hypothesis.
+"
+Mała małpa idzie po wodzie,Małpa nie chodzi po wodzie,"contradiction
+"
+Małpa błąka się przez bagno,Małpa nie chodzi po wodzie,"entailment
+"
+Mężczyzna kroi bułkę,Mężczyzna przecina bułkę,"entailment 
+
+**explanation:**
+
+""kroić"" (to cut) and ""przecinać"" (to cut/slice) are very closely related actions. cutting a bun inherently involves slicing it. therefore, if a man is cutting a bun, he is also slicing it.  the premise implies the action of cutting, and the hypothesis states a specific type of cutting (slicing). this implies the hypothesis is true if the premise is true.
+"
+Mężczyzna kroi bułkę,"Nie ma mężczyzny , który kroiłby bułkę","contradiction 
+
+**explanation:**
+
+the premise states that a man is cutting a roll (""mężczyzna kroi bułkę""). the hypothesis states that there is no man who cuts a roll (""nie ma mężczyzny, który kroiłby bułkę""). these two statements directly oppose each other. therefore, the premise contradicts the hypothesis.
+"
+Mężczyzna kroi czerwony pomidor na plasterki,Mężczyzna kroi pomidor na plasterki,"entailment
+"
+Kobieta tańczy i śpiewa w deszczu,Kobieta występuje w deszczu,"entailment
+"
+Kobieta tańczy i śpiewa w deszczu,Nie ma kobiety tańczącej i śpiewającej w deszczu,"contradiction
+"
+Niektóre kobiety tańczą i śpiewają,Kobieta tańczy i śpiewa z innymi kobietami,"neutral
+"
+Kobieta obiera ziemniaka,Nie ma kobiety obierającej ziemniaka,"contradiction
+"
+Kobieta kroi pomidor,Nie ma kobiety krojącej pomidor,"contradiction
+"
+Nie ma kobiety mieszającej jaja,Kobieta miksuje jaja,"contradiction
+"
+Głodna kobieta je,Kobieta je,"entailment
+"
+Zespół występuje na scenie,Zespół gra na scenie,"entailment
+"
+Zespół nie występuje na scenie,Zespół występuje na scenie,"contradiction
+"
+Zespół występuje na estradzie,Zespół gra na estradzie,"entailment
+"
+Zespół gra na estradzie,Nie ma żadnego występującego zespołu,"contradiction
+"
+Zespół występuje na estradzie,Zespół występuje na scenie,"entailment 
+
+**explanation:**
+
+""estrada"" (stage, platform) is a type of ""scena"" (stage).  therefore, if a band performs on the ""estrada,"" it necessarily performs on a ""scena."" the premise provides a more specific location (estrada) which is a subset of the more general location (scena).
+"
+Zespół występuje na scenie,Nie ma żadnego występującego zespołu,"contradiction
+"
+Zespół nie występuje na scenie,Zespół gra na estradzie,"neutral
+"
+Mężczyzna kosi trawnik,Mężczyzna nie kosi trawnika,"contradiction
+"
+Mężczyzna siedzi,Mężczyzna tańczy,"neutral
+"
+Nie ma mężczyzny idącego na zewnątrz,Mężczyzna idzie na świeżym powietrzu,"contradiction
+"
+Nie ma kota kołyszącego się na wentylatorze,Kot kołysze się na wentylatorze,"contradiction
+"
+"Kot utknął na wentylatorze sufitowym , który się porusza",Kot utknął na poruszającym się wentylatorze sufitowym,"entailment
+"
+Mężczyzna gra muzykę na flecie,Mężczyzna gra na flecie,"entailment
+"
+Mężczyzna gra w piłkę nożną,Mężczyzna gra w grę z piłką,"entailment 
+"
+Nie ma mężczyzny grającego w piłkę nożną,Mężczyzna gra w piłkę nożną,"contradiction
+"
+Mężczyzna smaży tortillę,Mężczyzna smaży jedzenie,"entailment
+"
+Nie ma mężczyzny smażącego tortillę,Mężczyzna smaży tortillę,"contradiction
+"
+Osoba wykonuje sztuczkę karcianą,Nikt nie wykonuje sztuczki karcianej,"contradiction
+"
+Żaden człowiek nie został uderzony,Chłopiec tłucze mężczyznę mieczem,"contradiction
+"
+Chłopiec uderza mężczyznę plastikowym mieczem,Mężczyzna zostaje uderzony przez dziecko bronią,"entailment
+"
+Żaden człowiek nie został uderzony,Chłopiec uderza mężczyznę plastikowym mieczem,"neutral
+"
+Chłopiec uderza mężczyznę plastikowym mieczem,Chłopiec tłucze mężczyznę mieczem,"entailment 
+
+**explanation:**
+
+the premise states the boy hits the man with a plastic sword. ""tłucze"" (to smash, beat) is a stronger verb than ""uderza"" (to hit). however, hitting with a sword implies a form of smashing/beating, so the premise *entails* the hypothesis.  the hypothesis is a more specific description of the action already implied by the premise.
+"
+Młoda dama mierzy kostkę innej kobiety,Kobieta mierzy kostkę innej kobiety,"entailment 
+
+**explanation:**
+
+the premise states ""młoda dama (young lady) measures the ankle of another woman."" the hypothesis states ""kobieta (woman) measures the ankle of another woman."" 
+
+since a ""młoda dama"" *is* a woman, the premise fulfills the condition stated in the hypothesis. therefore, the premise entails the hypothesis.
+"
+Kobieta nie mierzy kostki innej kobiety,Kobieta mierzy kostkę innej kobiety,"contradiction
+"
+Młoda dama mierzy kostkę innej kobiety,Kobieta mierzy drugą kobietę,"entailment
+"
+Kobieta mierzy kostkę innej kobiety,Kobieta mierzy drugą kobietę,"entailment 
+
+**explanation:**
+
+the premise ""kobieta mierzy kostkę innej kobiety"" (a woman is measuring the ankle of another woman) implies that a woman is interacting with another woman in a way that involves measurement.  ""kobieta mierzy drugą kobietę"" (a woman is measuring another woman) is a broader statement that encompasses the premise.  measuring an ankle is a *type* of measuring another person. therefore, the premise entails the hypothesis.
+"
+Mężczyzna rozmawia przez telefon,Mężczyzna wykonuje rozmowę telefoniczą,"entailment
+"
+Mężczyzna rozmawia przez telefon,Mężczyzna dzwoni na telefon komórkowy,"entailment 
+
+**explanation:**
+
+the premise states a man is talking on the phone.  the hypothesis states the man is calling a cell phone. talking on the phone *implies* using a phone, and a modern phone is very likely a cell phone. therefore, the premise supports the hypothesis. while it's *possible* he's using a landline, the hypothesis isn't contradicted and is likely true given the modern context.
+"
+Nie ma mężczyzny wykonującego rozmowę telefoniczną,Mężczyzna dzwoni na telefon komórkowy,"contradiction
+
+**explanation:**
+
+the premise states ""there is no man making a phone call."" the hypothesis states ""a man is calling on a mobile phone."" these two statements are directly contradictory. if no man is making a call, then it is impossible for a man to be making a call.
+"
+Mężczyzna dzwoni na telefon komórkowy,Mężczyzna wykonuje rozmowę telefoniczą,"entailment
+"
+Słodki szczeniaczek wielokrotnie przewraca się z boku na bok na plecach,Szczeniak wielokrotnie przewraca się z boku na bok na plecach,"entailment
+"
+Słodki szczeniaczek wielokrotnie przewraca się z boku na bok na plecach,Pies przewraca się z boku na bok,"entailment 
+
+**explanation:**
+
+the premise states that the ""słodki szczeniaczek"" (sweet puppy) repeatedly rolls from side to side on its back. the hypothesis states that ""pies"" (dog) rolls from side to side.  a puppy *is* a dog. therefore, if the puppy rolls on its back, the dog (which is the puppy) also rolls on its back. the premise provides specific detail (the puppy), but the general statement in the hypothesis is a logical consequence of the premise.
+"
+Nie ma psa przewracającego się z boku na bok,Szczeniak wielokrotnie przewraca się z boku na bok na plecach,"contradiction
+"
+Szczeniak wielokrotnie przewraca się z boku na bok na plecach,Pies przewraca się z boku na bok,"entailment
+"
+Maszyna ostrzy koniec ołówka,Ołówek jest ostrzony przez maszynę,"entailment 
+"
+Ołówek jest ostrzony przez maszynę,Maszyna ostrzy ołówek,"entailment
+"
+Maszyna nie ostrzy ołówka,Maszyna ostrzy ołówek,"contradiction
+"
+Maszyna ostrzy koniec ołówka,Ołówek jest ostrzony,"entailment
+"
+Maszyna ostrzy ołówek,Maszyna ostrzy koniec ołówka,"entailment
+"
+Mężczyzna gra na keyboardzie w parku,Mężczyzna gra na keyboardzie,"entailment 
+
+**explanation:**
+
+the premise states ""a man is playing the keyboard in the park."" the hypothesis states ""a man is playing the keyboard."" 
+
+since the premise *includes* the information necessary for the hypothesis to be true, the premise entails the hypothesis.  the premise provides more information (location), but the core action (playing the keyboard) is present in both.
+"
+Pianista gra na keyboardzie,Osoba gra na keyboardzie,"entailment 
+
+**explanation:**
+
+the premise states that a pianist plays the keyboard. the hypothesis states that someone plays the keyboard. since a pianist is a type of person, and the premise confirms someone (a pianist) plays the keyboard, it logically follows that someone plays the keyboard. therefore, the premise entails the hypothesis.
+"
+Osoba nie gra na keyboardzie,Osoba gra na keyboardzie,"contradiction
+"
+Mężczyzna gra na keyboardzie,Osoba gra na keyboardzie,"entailment
+"
+Mężczyzna opłukuje duży stek,Mężczyzna nie opłukuje dużego steka,"contradiction
+"
+Osoba opłukuje stek wodą,Mężczyzna nie opłukuje dużego steka,"neutral
+"
+Smutny mężczyzna płacze,Mężczyzna płacze,"entailment
+"
+Nie ma krzyczącego mężczyzny,Mężczyzna krzyczy,"contradiction
+"
+Kobieta nie kroi krewetek,Kobieta kroi krewetki,"contradiction
+"
+Mężczyźni piłują belki,Mężczyźni piłują,"entailment
+"
+Mężczyźni tną drewno,Niektórzy mężczyźni piłują,"entailment
+"
+Mężczyźni piłują belki,Niektórzy mężczyźni piłują,"entailment
+"
+Kobieta sieka czerwoną cebulę,Kobieta sieka cebulę,"entailment
+"
+Kobieta sieka cebulę,Kobieta nie sieka cebuli,"contradiction
+"
+Nie ma mężczyzny grającego na keyboardzie,Mężczyzna gra na keyboardzie,"contradiction
+"
+Mężczyzna pluje na ziemię,Mężczyzna pluje,"entailment
+"
+Mężczyzna pluje,Nie ma plujących mężczyzn,"contradiction
+"
+Mężczyzna rozmawia w radiu,Mężczyzna mówi,"entailment 
+
+**explanation:**
+
+if a man is speaking on the radio, it necessarily means he is saying something, which is the definition of ""mówi"" (speaks/says). therefore, the premise entails the hypothesis.
+"
+Kobieta kroi mięso ostrym nożem,Kobieta kroi mięso nożem,"entailment
+"
+Kobieta kroi mięso nożem,Nie ma kobiety krojącej mięso nożem,"contradiction
+"
+Szczęśliwe dziecko śmieje się,Dziecko śmieje się,"entailment
+"
+Mężczyzna ćwiczy,Mężczyzna uprawia aktywność fizyczną,"entailment
+"
+"Trzech młodych mężczyzn wściekle biega , skacze i kopie w pobliżu automatu sprzedającego","Trzech młodych mężczyzn biega , skacze i kopie w pobliżu automatu sprzedającego","entailment
+"
+Jeleń skacze przez ogrodzenie z siatki,Jeleń skacze przez mur,"neutral
+"
+Jeleń skacze przez niskie ogrodzenie,Jeleń skacze przez ogrodzenie,"entailment
+"
+Jeleń skacze przez ogrodzenie,Jeleń nie skacze przez płot,"contradiction
+"
+Mężczyzna nie miesza oleju,Mężczyzna miesza olej,"contradiction
+"
+Mężczyzna gra na gitarze,Nie ma mężczyzny grającego na gitarze,"contradiction
+"
+Mężczyzna uderza w struny gitary,Mężczyzna używa gitary do grania,"entailment
+"
+Nie ma mężczyzny grającego na gitarze,Mężczyzna gra na gitarze,"contradiction
+"
+Trzech chłopców ma sparing w uniformach karate,Trzech chłopców w kostiumach karate walczy,"entailment 
+
+**explanation:**
+
+the premise states three boys have a sparring match in karate uniforms. the hypothesis states three boys in karate costumes are fighting.  sparring *is* a form of fighting, and ""karate uniforms"" and ""karate costumes"" are essentially the same thing in this context. therefore, the premise necessarily implies the hypothesis is true.
+"
+Kobieta kroi brokuły,Kobieta kroi warzywa,"entailment 
+
+**explanation:**
+
+if a woman is cutting broccoli (a vegetable), then she is necessarily cutting vegetables. the premise provides a specific instance (broccoli) that falls under the general category of vegetables. therefore, the premise entails the hypothesis.
+"
+Biały koń stoi,Koń stoi,"entailment
+"
+Kot gra na keyboardzie,Nie ma kota grającego na keyboardzie,"contradiction
+"
+Nie ma występujących mimów,Mimy występują na scenie,"contradiction
+"
+Mężczyzna niesie drzewo,Mężczyzna niesie roślinę,"entailment 
+
+**explanation:**
+
+a tree is a type of plant. therefore, if a man is carrying a tree, he is also carrying a plant. this means the premise necessarily implies the hypothesis.
+"
+Drzewo jest podnoszone przez mężczyznę,Mężczyzna niesie drzewo,"entailment
+"
+Mężczyzna podnosi drzewo,Mężczyzna niesie drzewo,"entailment 
+
+**explanation:**
+
+if a man is lifting a tree, it logically follows that he is carrying it. lifting is a form of carrying. therefore, the premise entails the hypothesis.
+"
+Trąbka jest grana przez osobę,Człowiek gra na trąbce,"entailment 
+"
+Osoba przestaje grać na trąbce,Człowiek gra na trąbce,"contradiction
+"
+Borsuk zakopuje dziurę,Dziura jest zakopywana przez borsuka,"entailment
+"
+Borsuk nie zakopuje dziury,Borsuk zakopuje dziurę,"contradiction
+"
+"Nie ma sprytnego borsuka , który kopie ziemię",Borsuk sprytnie kopie ziemię,"contradiction
+"
+Borsuk zakopuje dziurę,"Nie ma sprytnego borsuka , który kopie ziemię","contradiction 
+
+**explanation:**
+
+* **premise:** ""borsuk zakopuje dziurę"" translates to ""the badger buries a hole."" this states a fact about a badger's behavior.
+* **hypothesis:** ""nie ma sprytnego borsuka, który kopie ziemię"" translates to ""there is no clever badger that digs the ground."" this claims that no badger is clever enough to dig.
+
+the premise *directly contradicts* the hypothesis. the premise states a badger *does* dig a hole (a form of digging), implying a degree of competence or activity, which is the opposite of what the hypothesis asserts about the badger's cleverness. therefore, the premise and hypothesis cannot both be true.
+"
+Szef kuchni ostrożnie wyciera oliwę z patelni,Szef kuchni ostrożnie wlewa trochę oleju na patelnię,"neutral
+"
+Mężczyzna pisze na maszynie stenograficznej,Mężczyzna nie operuje stenografem,"contradiction 
+
+**explanation:**
+
+the premise states the man is *using* a stenographer (the machine). the hypothesis states he *doesn't operate* (use) a stenographer. these are opposing statements, therefore a contradiction.
+"
+Mężczyzna nie karmi ostrożnie węża myszą,Mężczyzna ostrożnie karmi węża myszą,"contradiction
+"
+Do samochodu nie wskakuje żadna dziewczyna,Jedna dziewczynka skacze na samochód,"contradiction 
+
+**explanation:**
+
+* **premise:** no girl gets *into* the car.
+* **hypothesis:** one girl *jumps on* the car.
+
+these statements are contradictory. one says a girl is *inside* the car, the other says a girl is *on top of* the car.  they cannot both be true.
+"
+Jedna kobieta obiera ziemniaka,Nie ma kobiety obierającej ziemniaka,"contradiction
+"
+Mężczyzna nie polewa pomidorów olejem,Mężczyzna polewa kilka pomidorów olejem,"contradiction
+"
+"Nie ma mężczyzny , który nalałby olej na pomidory",Mężczyzna polewa pomidory oliwą,"neutral
+"
+Mężczyzna polewa kilka pomidorów olejem,"Nie ma mężczyzny , który nalałby olej na pomidory","contradiction 
+
+**explanation:**
+
+* **premise:** the man is pouring oil on some tomatoes. this implies an action of adding oil to tomatoes.
+* **hypothesis:** there is no man who poured oil on tomatoes. this directly negates the action described in the premise.
+
+therefore, the premise and hypothesis contradict each other.
+"
+Plastikowy pojemnik jest opróżniany przez mężczyznę,Mężczyzna napełnia zbiornik z tworzywa sztucznego,"neutral
+"
+Mężczyzna kroi cebulę w plastry,"Nie ma mężczyzny , który kroiłby cebulę w plastry","contradiction
+"
+Mężczyzna kroi cebulę w plastry,Żadna cebula nie jest krojona przez mężczyznę,"contradiction 
+
+**explanation:**
+
+the premise states that a man is slicing an onion. the hypothesis states that no onion is sliced by a man. these statements are directly contradictory. if a man *is* slicing an onion, then it *is* being sliced by a man. therefore, the premise contradicts the hypothesis.
+"
+"Nie ma mężczyzny , który kroiłby cebulę w plastry",Cebula jest szatkowana przez mężczyznę,"contradiction 
+
+**explanation:**
+
+* **premise:** ""there is no man who cuts onions into slices."" this explicitly states that no man performs the action of slicing onions.
+* **hypothesis:** ""onions are shredded by a man."" this states that a man *does* perform the action of shredding (which is different from slicing) onions.
+
+since the premise negates the action described in the hypothesis, they contradict each other. the hypothesis directly contradicts the statement in the premise.
+"
+Słoń jest dosiadany przez kobietę,Słoń nie jest dosiadany przez kobietę,"contradiction
+"
+Ktoś podaje zwierzęciu jedzenie,Nikt nie karmi zwierzęcia,"contradiction
+"
+Na fortepianie nikt nie gra,Na fortepianie ktoś gra,"contradiction
+"
+Mężczyzna naciska przyciski na mikrofalówce,"Nie ma mężczyzny , który naciska przyciski na mikrofalówce","contradiction
+"
+Nie ma kobiety grającej na flecie,Jedna kobieta gra na flecie,"contradiction
+"
+Na fortepianie gra mężczyzna,Na fortepianie nie gra mężczyzna,"contradiction
+"
+Żaden lew nie chodzi zmęczony po zagrodzie,Lew stąpa ze zmęczeniem po zagrodzie,"contradiction
+"
+Żaden lew nie chodzi,Lew idzie powoli,"neutral
+"
+Lew stąpa ze zmęczeniem po zagrodzie,Żaden lew nie chodzi,"contradiction 
+
+**explanation:**
+
+the premise states that a lion *is* walking with fatigue. the hypothesis states that *no* lion walks. these statements are directly contradictory.  if even one lion is walking, it directly refutes the idea that *no* lions walk.
+"
+Na flecie gra mężczyzna,Na flecie nie gra mężczyzna,"contradiction
+"
+Żaden mężczyzna nie gra głośno na gitarze,Mężczyzna głośno gra na gitarze,"contradiction
+"
+Nie ma kucharza krojącego papryki dzwonkowe,Kucharz kroi papryki dzwonkowe,"contradiction
+"
+Na krześle nie siedzi żaden mężczyzna,Mężczyzna siedzi na krześle,"contradiction
+"
+Mężczyzna nie rozsmarowuje masła na chlebie,"Mężczyzna rozsmarowuje masło na kromkę chleba , która jest duża","neutral
+"
+Papuga mówi do mikrofonu,Papuga milczy przed mikrofonem,"contradiction
+"
+Mówi papuga,Żadna papuga nie mówi,"contradiction
+"
+Mężczyzna odkłada gitarę,Mężczyzna z pasją gra na gitarze,"neutral
+"
+Mężczyzna z pasją gra na gitarze,Nie ma osoby śpiewającej i grającej na gitarze,"neutral
+"
+Nikt nie gra w ping pong,Dwie osoby grają w ping pong,"contradiction
+"
+Mężczyzna jedzie samochodem,Mężczyzna nie jedzie samochodem,"contradiction
+"
+Krewetka gniewnie kopie cel,Żołnierz nie trafia do celu,"neutral
+"
+Kobieta nie wlewa oleju do patelni,Kobieta wlewa olej na patelnię,"contradiction
+"
+Kociak nie pije z chęcią mleka z miski,Kociak chętnie pije mleko z miski,"contradiction
+"
+Osoba gra na gitarze i śpiewa,Nikt nie gra na gitarze i nie śpiewa,"contradiction
+"
+"Kobieta gra na gitarze , która jest akustyczna i śpiewa","Kobieta nie gra na gitarze , która jest akustyczna , ani nie śpiewa","contradiction
+"
+Osoba nie ćwiczy na gitarze,Osoba ćwiczy na gitarze,"contradiction
+"
+Nie ma kota bawiącego się urządzeniem,Urządzeniem bawi się kot,"contradiction
+"
+Kobieta kroi trochę mięsa,"Nie ma kobiety , która kroi mięso","contradiction
+"
+Chłopiec w wieku młodzieńczym nie rozmawia z dziewczyną z kamerą internetową,Nastolatek rozmawia z dziewczyną z kamerą internetową,"contradiction
+"
+Nie ma dziecka bawiącego się z psem,Dziecko bawi się z psem,"contradiction
+"
+Nie ma kobiety obierającej ziemniaka,Kobieta obiera ziemniaka,"contradiction
+"
+Mężczyzna nie kroi ziemniaków,Mężczyzna kroi ziemniaki,"contradiction
+"
+Ludzie nie grają w krykieta,Ludzie grają się w krykieta,"contradiction
+"
+Kilka mężczyzn gra w krykieta,Ludzie nie grają w krykieta,"contradiction
+"
+Mężczyzna jest strącany z konia,Mężczyzna nie jest strącany z konia,"contradiction
+"
+Nie ma kobiety stukającej palcami,Kobieta stuka palcami,"contradiction
+"
+Mężczyzna je płatki sniadanowe,Nie ma mężczyzny jedzącego płatki do mleka,"contradiction 
+
+**explanation:**
+
+* **premise:** ""mężczyzna je płatki śniadaniowe"" (a man is eating breakfast cereal). this asserts that there *is* a man eating cereal.
+* **hypothesis:** ""nie ma mężczyzny jedzącego płatki do mleka"" (there is no man eating cereal with milk). this denies the existence of a man eating cereal.
+
+since the premise states a man *is* eating cereal, the hypothesis directly contradicts this statement. therefore, the relationship is **contradiction**.
+"
+Mężczyzna nie gra na flecie,Flet jest używany przez mężczyznę do grania,"contradiction 
+
+**explanation:**
+
+the premise states that a man *does not* play the flute. the hypothesis states that a man *does* use the flute to play. these statements are directly opposing each other, making the premise contradict the hypothesis.
+"
+"Nie ma kobiety , dodjącej przyprawy do mięsa",Kobieta dodaje przyprawy do mięsa,"contradiction
+"
+Kobieta dodaje cukier do mięsa,Kobieta nie dodaje cukru do mięsa,"contradiction
+"
+Kot bawi się arbuzem,Nie ma kota bawiącego się arbuzem,"contradiction
+"
+Arbuzem bawi się kot,Kot nie bawi się arbuzem,"contradiction
+"
+Nie ma chłopca grającego na gitarze,Chłopiec gra na gitarze,"contradiction
+"
+Mężczyzna przybija gwóźdź kamerą,Mężczyzna nie przybija gwoździa kamerą,"contradiction
+"
+Osoba kroi cebulę,"Nie ma osoby , która kroiłaby cebulę","contradiction
+"
+Kobieta szatkuje marchewkę,"Nie ma kobiety , która kroi marchewkę w plastry","contradiction 
+
+**explanation:**
+
+* **premise:** ""kobieta szatkuje marchewkę"" translates to ""a woman is shredding/slicing a carrot.""  ""szatkuje"" implies slicing or shredding, but often with thicker, uneven pieces.
+* **hypothesis:** ""nie ma kobiety, która kroi marchewkę w plastry"" translates to ""there is no woman who cuts carrots into slices."" ""kroi w plastry"" specifically means ""cuts into slices.""
+
+the premise states that a woman *is* slicing a carrot. the hypothesis denies that *any* woman cuts carrots into slices. therefore, they directly contradict each other.
+"
+Nie ma osoby włączającej kamery,Osoba włącza kamery,"contradiction
+"
+Mężczyzna nie gra na gitarze akustycznej,Mężczyzna gra na gitarze akustycznej,"contradiction
+"
+"Nie ma osoby , która kroiłaby marchew na kawałki",Osoba kroi marchew na kawałki,"contradiction
+"
+Ziemniak jest krojony przez mężczynę,Mężczyzna nie kroi ziemniaka,"contradiction
+"
+"Nie ma nikogo , kto kroiłby pomidor",Ktoś tnie pomidora,"contradiction
+"
+Biegacze rywalizują w wyścigu,Biegowcy nie biorą udziału w wyścigu,"contradiction
+"
+Biegacze ścigają się na torze,Biegacze nie ścigają się na torze,"contradiction
+"
+Mężczyzna gra na fortepianie nosem,Nie ma mężczyzny grającego na fortepianie nosem,"contradiction
+"
+Przez miasto nie przejeżdża żaden mężczyzna na motocyklu,Mężczyzna jedzie na motocyklu przez miasto,"contradiction
+"
+Mężczyzna gra na gitarze,Mężczyzna nie gra na gitarze,"contradiction
+"
+Mężczyzna przemawia,Mężczyzna milczy,"contradiction
+"
+Kobieta tańczy w klatce,W klatce nie tańczy żadna kobieta,"contradiction
+"
+Ludzie nie płyną i nie wisłują na tratwie,Ludzie płyną i wiosłują na tratwie,"contradiction
+"
+Ludzie płyną i wiosłują na tratwie,Nikt nie pływa na tratwie,"contradiction
+"
+Na scenie nie ma żadnej dziewczynki grającej na fortepianie,Mała dziewczynka gra na scenie na fortepianie,"contradiction
+"
+Tańczy mężczyzna,Mężczyzna nie tańczy,"contradiction
+"
+Mężczyzna gra na flecie,Mężczyzna nie gra na flecie,"contradiction
+"
+Człowiek kroi niektóre grzyby,"Nie ma osoby , która kroiłaby jakieś grzyby","contradiction
+"

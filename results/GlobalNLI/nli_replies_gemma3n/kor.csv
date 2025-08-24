@@ -1,0 +1,2479 @@
+premise,hypothesis,gpt_reply
+10명이 함께 사용하기 불편함없이 만족했다.,10명이 함께 사용하기 불편함이 많았다.,"contradiction
+"
+10명이 함께 사용하기 불편함없이 만족했다.,성인 10명이 함께 사용하기 불편함없이 없었다.,"entailment
+"
+10명이 함께 사용하기 불편함없이 만족했다.,10명이 함께 사용하기에 만족스러웠다.,"entailment 
+
+**explanation:**
+
+the premise states that 10 people used something without discomfort and were satisfied.  the hypothesis states that it was satisfactory for 10 people to use.  the premise *guarantees* the truth of the hypothesis.  if 10 people were satisfied without discomfort, then it *must* have been satisfactory for them to use it. therefore, the premise entails the hypothesis.
+"
+10층에 건물사람들만 이용하는 수영장과 썬베드들이 있구요.,건물사람들은 수영장과 썬베드를 이용할 수 있습니다.,"entailment
+"
+10층에 건물사람들만 이용하는 수영장과 썬베드들이 있구요.,수영장과 썬베드는 9층에 있습니다.,"contradiction 
+
+**explanation:**
+
+the premise states that the pool and sunbeds are on the 10th floor. the hypothesis states they are on the 9th floor. these statements are mutually exclusive, meaning they cannot both be true at the same time. therefore, the hypothesis contradicts the premise.
+"
+10층에 건물사람들만 이용하는 수영장과 썬베드들이 있구요.,수영장과 썬베드는 유료입니다.,"neutral
+
+**explanation:**
+
+the premise states the existence of a pool and sunbeds exclusive to building residents. it *doesn't* say anything about whether they are free or paid. therefore, the premise neither supports nor refutes the hypothesis that they are paid. it's neutral.
+"
+"11월 5일, 정부가 국무회의에서 통합진보당에 대한 해산심판 청구안을 통과시켰으며, 이애 따라 대한민국 법무부는 즉시 해산 청구서를 제출했다.",법무부가 해산심판 청구안을 통과시킨 후 정부가 해산 청구서를 제출하였다.,"entailment
+"
+"11월 5일, 정부가 국무회의에서 통합진보당에 대한 해산심판 청구안을 통과시켰으며, 이애 따라 대한민국 법무부는 즉시 해산 청구서를 제출했다.",법무부가 청구서를 제출한 3일 뒤에 통합진보당은 해산됐다.,"neutral
+
+**explanation:**
+
+the premise states that the ministry of justice submitted the dissolution request immediately after the government passed the resolution to seek the dissolution of the united progressive party. the hypothesis states that the united progressive party was dissolved 3 days after the request was submitted. 
+
+the premise *implies* that the dissolution happened *sometime* after the request, but it doesn't specify *when*. the hypothesis gives a specific timeframe (3 days). we don't have enough information in the premise to definitively say the hypothesis is true or false.  it's *possible* the party was dissolved 3 days later, but it's also possible it took longer. therefore, the premise is neutral towards the hypothesis.
+"
+"11월 5일, 정부가 국무회의에서 통합진보당에 대한 해산심판 청구안을 통과시켰으며, 이애 따라 대한민국 법무부는 즉시 해산 청구서를 제출했다.",정부는 통합진보당의 해산에 동의하였다.,"entailment 
+
+**explanation:**
+
+the premise states that the government passed a resolution for the dissolution of the united progress party (통합진보당) and that the ministry of justice subsequently submitted a dissolution request. this strongly implies that the government *agrees* with the dissolution.  passing a resolution and submitting a request are actions taken *because* the government supports the dissolution. therefore, the premise entails the hypothesis.
+"
+"14일 발표한 한국판 뉴딜은 디지털과 그린 뉴딜을 양대축으로 10대 과제를 선정해 추진되며, 고용사회망 강화도 함께 이뤄진다.",14일 발표한 한국판 뉴딜은 10년동안 추진된다.,"neutral
+"
+"14일 발표한 한국판 뉴딜은 디지털과 그린 뉴딜을 양대축으로 10대 과제를 선정해 추진되며, 고용사회망 강화도 함께 이뤄진다.",디지털과 그린 뉴딜은 한국판 뉴딜의 양대축이다.,"entailment
+"
+"14일 발표한 한국판 뉴딜은 디지털과 그린 뉴딜을 양대축으로 10대 과제를 선정해 추진되며, 고용사회망 강화도 함께 이뤄진다.",한국판 뉴딜은 5대 과제가 선정하여 추진된다.,"contradiction 
+
+**explanation:**
+
+the premise states that the korean new deal (한국판 뉴딜) has *10* major tasks (10대 과제). the hypothesis states it has *5* major tasks (5대 과제). since 10 is not equal to 5, the hypothesis directly contradicts the information provided in the premise.
+"
+14일 전국에서 제365회 토익 시험이 치러졌다.,제주도는 제 365회 토익 시험을 15일에 치렀다.,"neutral
+
+**explanation:**
+
+the premise states the toeic exam was held nationwide on the 14th. the hypothesis claims it was held in jeju on the 15th. 
+
+the premise doesn't say *where* the exam was held in each region. it's possible the exam was held in jeju on the 15th, but it's also possible it wasn't. therefore, the premise is neutral towards the hypothesis.
+"
+14일 전국에서 제365회 토익 시험이 치러졌다.,전국에서 동시에 토익 시험이 진행된 것은 이번이 처음이었다.,"neutral
+
+**explanation:**
+
+the premise states that the 365th toeic test was held nationwide on the 14th. the hypothesis claims this was the *first time* the toeic test was held simultaneously nationwide. 
+
+the premise *doesn't* provide any information about whether this is the first time. it simply states it happened on the 14th. it's possible that it's the first time, but it's also possible that it has happened before. therefore, the premise is neutral towards the hypothesis.
+"
+14일 전국에서 제365회 토익 시험이 치러졌다.,토익은 시험의 한 종류이다.,"entailment
+"
+1636년 병자호란 당시 남한산성에 피난하게 된 조선 인조는 사방이 청군에 포위되어 고립무원의 처지에 놓인다.,1636년 병자호란 당시 인조는 한양에서 청군에게 포위당해 고립무원의 처지에 놓인다.,"contradiction 
+
+**explanation:**
+
+the premise states that king injo was besieged and isolated *at namhansanseong* during the 1636 manchu invasion. the hypothesis states that he was besieged and isolated *in hanyang* (which is present-day seoul). 
+
+since namhansanseong and hanyang are different locations, the hypothesis directly contradicts the premise. injo was not in hanyang when besieged, but rather in namhansanseong.
+"
+1636년 병자호란 당시 남한산성에 피난하게 된 조선 인조는 사방이 청군에 포위되어 고립무원의 처지에 놓인다.,1636년 병자호란 당시 인조를 남한산성에서 포위한 것은 청군이다.,"entailment
+"
+1636년 병자호란 당시 남한산성에 피난하게 된 조선 인조는 사방이 청군에 포위되어 고립무원의 처지에 놓인다.,병자호란은 청군의 기습으로 인해 발생했다.,"neutral
+"
+16일 독일 베를린에서 열린 제26회 세계남자핸드볼선수권대회에서 남북 단일팀과 세르비아의 경기가 열렸다.,남자 핸드볼 남북단일팀은 세르비아를 이겼다.,"neutral
+"
+16일 독일 베를린에서 열린 제26회 세계남자핸드볼선수권대회에서 남북 단일팀과 세르비아의 경기가 열렸다.,제26회 세계 남자 핸드볼 선수권 대회에 남과 북은 모두 출전하지 않았다.,"contradiction
+"
+16일 독일 베를린에서 열린 제26회 세계남자핸드볼선수권대회에서 남북 단일팀과 세르비아의 경기가 열렸다.,제26회 세계 남자 핸드볼 선수권 대회에 남과 북은 단일팀으로 출전했다.,"entailment
+
+**explanation:**
+
+the premise states that a unified north-south korea team played against serbia at the 26th world men's handball championship. this *directly* implies that north and south korea participated in the tournament as a unified team. therefore, the hypothesis is entailed by the premise.
+"
+"1877년, 파리 살롱에서 그의 출제품들을 모두 거절당하자 매리 카사트는 7년만에 처음으로 파리 살롱에서 작품을 전시하지 못했다.",매리 카사트가 파리 살롱에 그의 작품을 전시하지 못한 것은 1877년이 처음이다.,"entailment
+"
+"1877년, 파리 살롱에서 그의 출제품들을 모두 거절당하자 매리 카사트는 7년만에 처음으로 파리 살롱에서 작품을 전시하지 못했다.",매리 카사트는 파리 살롱에 그의 작품을 전시하지 못하게 되자 다른 곳을 찾아보았다.,"neutral
+"
+"1877년, 파리 살롱에서 그의 출제품들을 모두 거절당하자 매리 카사트는 7년만에 처음으로 파리 살롱에서 작품을 전시하지 못했다.",매리 카사트는 1875년에 처음으로 파리 살롱에 그의 작품을 전시했다.,"neutral
+"
+"1880년, 역마차를 타고 뉴멕시코의 로즈버그로 가려 하는 손님들은 잠시 애리조나의 톤토에 멈추게 된다.",1880년에는 역마차가 발명되지 않는다.,"contradiction
+"
+"1880년, 역마차를 타고 뉴멕시코의 로즈버그로 가려 하는 손님들은 잠시 애리조나의 톤토에 멈추게 된다.",몇몇 손님은 톤토가 로즈버그인줄 알고 그곳에서 완전히 내리게 된다.,"neutral
+
+**explanation:**
+
+the premise states that travelers heading to roseburg, new mexico, stopped in tonto, arizona. the hypothesis claims that *some* passengers mistakenly believed tonto was roseburg and disembarked permanently.
+
+while the premise *allows* for the possibility of some passengers making that mistake, it doesn't *guarantee* it. the premise simply states a fact (the stopover). the hypothesis proposes a specific consequence of that stopover.  the premise doesn't provide enough information to definitively say whether it *must* happen, *cannot* happen, or is simply possible. therefore, it is neutral.
+"
+"1880년, 역마차를 타고 뉴멕시코의 로즈버그로 가려 하는 손님들은 잠시 애리조나의 톤토에 멈추게 된다.",손님들은 역마차를 타고 뉴멕시코의 로즈버그로 향하게 된다.,"entailment
+"
+18일 귀국이라 발인도 지켜드리지 못해 더욱 죄송할 따름입니다.,귀국 바로 다음날이라 발인을 지킬 수 있었습니다.,"contradiction 
+
+**explanation:**
+
+* **premise:** the speaker is returning on the 18th and apologizes for not being able to attend the funeral. this implies the funeral is *before* the 18th.
+* **hypothesis:** the speaker was able to attend the funeral the day *after* returning. this implies the funeral is *after* the 18th.
+
+since the premise and hypothesis have conflicting timelines for the funeral, the hypothesis contradicts the premise.
+"
+18일 귀국이라 발인도 지켜드리지 못해 더욱 죄송할 따름입니다.,18일 한국으로 귀국하였습니다.,"entailment
+
+**explanation:**
+
+the premise states that the person is returning to korea on the 18th and expresses regret at not being able to attend the funeral. the hypothesis states that the person returned to korea on the 18th.
+
+because the premise explicitly mentions the 18th as the return date, the hypothesis is a direct consequence of the premise. therefore, the premise entails the hypothesis.
+"
+18일 귀국이라 발인도 지켜드리지 못해 더욱 죄송할 따름입니다.,귀국 날짜와 겹쳐 발인을 지키지 못했습니다.,"entailment
+"
+"1934년 7월, 사이토 내각을 이어 출범한 오카다 게이스케 내각은 과격파 청년 장교들의 계속되는 갈등 유발과 점령지 주민들의 계속되는 저항에 부딪쳤다.",1934년 7월 오카다 게이스케 내각을 이어 사이토 내각이 출범했다.,"contradiction
+"
+"1934년 7월, 사이토 내각을 이어 출범한 오카다 게이스케 내각은 과격파 청년 장교들의 계속되는 갈등 유발과 점령지 주민들의 계속되는 저항에 부딪쳤다.",오카다 게이스케 내각은 청년 장교들의 갈등을 해결했다.,"contradiction
+"
+"1934년 7월, 사이토 내각을 이어 출범한 오카다 게이스케 내각은 과격파 청년 장교들의 계속되는 갈등 유발과 점령지 주민들의 계속되는 저항에 부딪쳤다.",오카다 게이스케 내각은 주민들의 저항에 부딪쳤다.,"entailment
+"
+"1941년 4월 16일, 보울리와 메세네는 영국 하이위컴에 있는 렉스 극장에서 공연을 마쳤다.",렉스는 미국에 있는 극장이다.,"contradiction
+"
+"1941년 4월 16일, 보울리와 메세네는 영국 하이위컴에 있는 렉스 극장에서 공연을 마쳤다.",1941년 4월 16일은 월요일이다.,"neutral
+"
+"1941년 4월 16일, 보울리와 메세네는 영국 하이위컴에 있는 렉스 극장에서 공연을 마쳤다.",보울리와 메세네는 극장에서 공연을 했다.,"entailment
+"
+"1959년 11월 1일, 후투족의 부족장이었던 도미니크 음보뉴무트와가 키갈리에서 친 투치 정당의 지지자들에 의해 공격을 당했다.",도미니크 음보뉴무트와는 부족장이 아니었다.,"contradiction
+"
+"1959년 11월 1일, 후투족의 부족장이었던 도미니크 음보뉴무트와가 키갈리에서 친 투치 정당의 지지자들에 의해 공격을 당했다.",후투족의 부족장은 공격을 당하고 후퇴했다.,"entailment
+"
+"1959년 11월 1일, 후투족의 부족장이었던 도미니크 음보뉴무트와가 키갈리에서 친 투치 정당의 지지자들에 의해 공격을 당했다.",도미니크 음보뉴무트와는 공격을 당했다.,"entailment
+"
+1997년 현대 유니콘스는 선수층 빈약함이 여실히 드러나게 되어 정규 시즌 6위를 기록한다.,2000년대에 들어서면서 선수층의 빈약함이 줄어든다.,"neutral
+
+**reasoning:**
+
+the premise states that in 1997, hyundai unicorns' weak roster led to a 6th place finish. the hypothesis states that in the 2000s, the roster weakness decreased.
+
+the premise only provides information about 1997.  it doesn't tell us anything about the state of the roster in the 2000s.  the hypothesis could be true or false, but it's not directly supported or contradicted by the given premise.  therefore, the relationship between the premise and hypothesis is neutral.
+"
+1997년 현대 유니콘스는 선수층 빈약함이 여실히 드러나게 되어 정규 시즌 6위를 기록한다.,1997년의 현대 유니콘스의 선수층은 빈약하다.,"entailment
+"
+1997년 현대 유니콘스는 선수층 빈약함이 여실히 드러나게 되어 정규 시즌 6위를 기록한다.,현대 유니콘스는 1997년 정규 시즌 순위에 들지 못한다.,"contradiction
+
+**explanation:**
+
+* **premise:** states that hyundai unicorns finished 6th in the 1997 regular season.
+* **hypothesis:** states that hyundai unicorns did not finish in the top ranks (i.e., did not finish in the top few places) in the 1997 regular season.
+
+since finishing 6th *is* finishing in the top ranks (it's definitely not last, and often considered a fairly respectable position), the premise directly contradicts the hypothesis. the premise asserts a specific ranking within the top 6, while the hypothesis negates being in the top ranks entirely.
+"
+1999에 나온 애니 타잔 을 다시 봤다,애니 타잔은 처음 개봉되었을때 딱 한 번 봤다.,"neutral
+
+**reasoning:**
+
+the premise states that the speaker rewatched the 1999 animated film tarzan. the hypothesis states that the speaker saw the animated film tarzan only once when it was first released. 
+
+the premise doesn't provide any information about whether the speaker saw the film before 1999. it's possible they saw it multiple times when it was first released, or perhaps this was their very first viewing. therefore, the premise neither confirms nor denies the hypothesis. it's neutral.
+"
+1999에 나온 애니 타잔 을 다시 봤다,최근 개봉한 타잔과 1999년 타잔은 내용이 살짝 다르다.,"neutral
+"
+1999에 나온 애니 타잔 을 다시 봤다,1999년에 나온 것은 애니 타잔이었다.,"entailment 
+
+**explanation:**
+
+the premise states ""i rewatched the 1999 animation tarzan.""  this directly implies that the thing rewatched in 1999 was the animation *tarzan* that came out in 1999. therefore, the hypothesis ""the thing that came out in 1999 was the animation tarzan"" is logically entailed by the premise.
+"
+"1개 병실 구축하는데 1억씩이나 드는 병실인데, 우리나라에는 2019년 기준 535개 운영하고 있다.",우리나라에는 2019년 기준 143개 운영하고 있다.,"contradiction
+"
+"1개 병실 구축하는데 1억씩이나 드는 병실인데, 우리나라에는 2019년 기준 535개 운영하고 있다.",우리나라는 100개의 병실을 추가 구축할 계획이다.,"neutral
+"
+"1개 병실 구축하는데 1억씩이나 드는 병실인데, 우리나라에는 2019년 기준 535개 운영하고 있다.",병실 구축 비용은 1억이다.,"contradiction
+
+**explanation:**
+
+the premise states that building one patient room costs 100 million won, but there are only 535 rooms operating in korea as of 2019.  the hypothesis claims the building cost is *always* 100 million won.  the premise's information (the existence of 535 rooms despite the cost) implies the cost is not necessarily *always* 100 million won, or that other factors are involved.  therefore, the hypothesis directly contradicts the implied information in the premise.
+"
+1기는 한국에 정식으로 방영되지 않았으며 학생회 임원들이 이번에 정식 방영하는 것은 처음이다.,1기는 한국에 정식으로 방영되었다.,"contradiction
+"
+1기는 한국에 정식으로 방영되지 않았으며 학생회 임원들이 이번에 정식 방영하는 것은 처음이다.,일본에서는 1기가 정식 방영되었다.,"neutral
+"
+1기는 한국에 정식으로 방영되지 않았으며 학생회 임원들이 이번에 정식 방영하는 것은 처음이다.,학생회 임원들이 이번에 정식 방영한다.,"entailment
+"
+1주택을 소유한 1세대가 다른 1주택을 추가로 취득한 경우 종전 주택을 일정 기간 내에 처분할 경우에 신규 주택은 1주택 세율을 적용받게 된다.,1주택을 소유한 1세대가 다른 1주택을 추가로 취득한 경우 종전 주택을 일정 기간 내에 처분할 경우에 신규 주택은 2주택 세율을 적용받게 된다.,"contradiction
+"
+1주택을 소유한 1세대가 다른 1주택을 추가로 취득한 경우 종전 주택을 일정 기간 내에 처분할 경우에 신규 주택은 1주택 세율을 적용받게 된다.,1주택을 보유한 1세대가 다른 1주택을 추가로 취득한 경우 기존 주택을 일정 기간 내에 처분할 경우에 신규 주택은 1주택 세율을 적용받게 된다.,"entailment
+"
+1주택을 소유한 1세대가 다른 1주택을 추가로 취득한 경우 종전 주택을 일정 기간 내에 처분할 경우에 신규 주택은 1주택 세율을 적용받게 된다.,1주택을 소유한 1세대가 다른 1주택을 추가로 취득한 경우 종전 주택을 일정 기간 내에 처분할 경우에만 신규 주택은 1주택 세율을 적용받게 된다.,"entailment
+"
+1층 식당때문에 저녁에는 시끄럽습니다.,저녁에 시끄럽진 않습니다.,"contradiction
+"
+1층 식당때문에 저녁에는 시끄럽습니다.,2층에도 식당이 있습니다.,"neutral
+"
+1층 식당때문에 저녁에는 시끄럽습니다.,1층에 식당이 있습니다.,"entailment
+"
+1회 구매시 평균 결제 금액이 가장 낮은 곳은 랄라블라로 1만802원이었다.,1회 구매시 평균 결제 금액이 가장 높은 곳은 랄라블라였다.,"contradiction
+"
+1회 구매시 평균 결제 금액이 가장 낮은 곳은 랄라블라로 1만802원이었다.,2회 구매시 평균 결제 금액이 가장 높은 곳은 올리브영이었다.,"neutral
+"
+1회 구매시 평균 결제 금액이 가장 낮은 곳은 랄라블라로 1만802원이었다.,랄라블라의 1회 평균 결제 금액은 1만 802원이었다.,"entailment
+"
+2001년 뤼스티제는 자신의 나이가 75세가 되자 교회법의 규정에 따라 파리 대교구장의 자리에서 물러나겠다는 사직서를 교황 요한 바오로 2세에게 전하였다.,교회에는 법이 존재하지 않는다.,"contradiction
+"
+2001년 뤼스티제는 자신의 나이가 75세가 되자 교회법의 규정에 따라 파리 대교구장의 자리에서 물러나겠다는 사직서를 교황 요한 바오로 2세에게 전하였다.,요한 바오로 2세가 파리 대교구장이 되었다.,"neutral
+
+**explanation:**
+
+the premise states that lustiger resigned from the position of archbishop of paris to pope john paul ii. this tells us about lustiger's resignation and the pope receiving it.  it *doesn't* say anything about whether john paul ii *became* archbishop of paris.  the premise is about lustiger's actions, not the pope's. therefore, the premise is neutral towards the hypothesis.
+"
+2001년 뤼스티제는 자신의 나이가 75세가 되자 교회법의 규정에 따라 파리 대교구장의 자리에서 물러나겠다는 사직서를 교황 요한 바오로 2세에게 전하였다.,뤼스티제는 2001년 75세가 되었다.,"entailment
+"
+2003년 변정수 씨가 교통사고로 죽었다는 이야기가 돌았지만 사실무근이었다.,2003년 변정수 씨가 교통사고로 죽었다.,"contradiction
+"
+2003년 변정수 씨가 교통사고로 죽었다는 이야기가 돌았지만 사실무근이었다.,2003년 변정수 씨가 교통사고 죽었다는 이야기는 거짓이었다.,"entailment
+"
+2003년 변정수 씨가 교통사고로 죽었다는 이야기가 돌았지만 사실무근이었다.,변정수 씨는 자신이 건재함을 방송을 통해 알렸다.,"entailment
+
+**explanation:**
+
+the premise states that the rumor of byun jung-soo's death in a car accident was false. the hypothesis states that byun jung-soo confirmed his well-being on television.  if the death rumor was false, then it's logically consistent and even likely that he would publicly state he is alive and well. therefore, the premise entails the hypothesis.
+"
+"2012년 도입 이후 올해로 4회를 맞은 한국관광 100선은 직전 100선 평가, 지자체 추천, 빅데이터 분석 등을 통해 예비 후보 발굴로 시작한다.",한국관광 100선은 2011년에 도입되었다.,"contradiction
+"
+"2012년 도입 이후 올해로 4회를 맞은 한국관광 100선은 직전 100선 평가, 지자체 추천, 빅데이터 분석 등을 통해 예비 후보 발굴로 시작한다.",한국관광 100선은 지자체 추천에 가장 영향을 많이 받는다.,"neutral
+"
+"2012년 도입 이후 올해로 4회를 맞은 한국관광 100선은 직전 100선 평가, 지자체 추천, 빅데이터 분석 등을 통해 예비 후보 발굴로 시작한다.",예비 후보를 발굴한 후 한국 관광 100선을 선정한다.,"entailment
+"
+2013년 12월 31일까지 010으로 번호변경을 하지 않으면 2014년 1월1일 0시 이후에 발신기능이 정지된다.,2013년 12월 31일까지 010으로 번호변경을 하지 않으면 그 후로는 발신기능만 가능하다.,"contradiction
+
+**explanation:**
+
+* **premise:** if you don't change your number to 010 by december 31, 2013, your transmitter function will stop after 00:00 on january 1, 2014.
+* **hypothesis:** if you don't change your number to 010 by december 31, 2013, your transmitter function *only* becomes possible afterwards.
+
+the premise states the transmitter function *stops* after the deadline, while the hypothesis states it *becomes possible* afterwards. these are opposing outcomes, making them contradictory. therefore, the premise contradicts the hypothesis.
+"
+2013년 12월 31일까지 010으로 번호변경을 하지 않으면 2014년 1월1일 0시 이후에 발신기능이 정지된다.,2013년 12월 31일까지 010으로 번호변경을 하지 않아도 수신기능은 가능하다.,"contradiction
+"
+2013년 12월 31일까지 010으로 번호변경을 하지 않으면 2014년 1월1일 0시 이후에 발신기능이 정지된다.,2014년 1월1일 0시 이후에는 010으로만 발신 가능하다.,"neutral
+
+**explanation:**
+
+the premise states that if you *don't* change your phone number to 010 by december 31, 2013, your device's transmit function will stop after january 1, 2014.  
+
+the hypothesis states that *only* 010 numbers can transmit after january 1, 2014.
+
+the premise doesn't explicitly state that *only* 010 numbers will be able to transmit, only that a lack of number change will *cause* a loss of transmit function. it's possible other phone numbers could still transmit. therefore, the premise doesn't guarantee the hypothesis.  it's possible to have the premise true and the hypothesis false.
+"
+"2013년 1월 15일, 대한민국 제18대 대통령직 인수위원회는 서울특별시 삼청동에 위치한 기자회견장에서 18대 정부의 정부조직 개편안을 발표하였다.",18대 정부의 정부조직 개편안은 청와대에서 발표하였다.,"neutral
+"
+"2013년 1월 15일, 대한민국 제18대 대통령직 인수위원회는 서울특별시 삼청동에 위치한 기자회견장에서 18대 정부의 정부조직 개편안을 발표하였다.",18대 정부의 정부조직은 17대 정부에 비해 확대되었다.,"neutral
+
+**explanation:**
+
+the premise states that the government reorganization plan for the 18th administration was announced. it *doesn't* provide any information about whether the reorganization actually *expanded* the government compared to the 17th administration. it simply states that a plan was *proposed*.  therefore, the premise is neutral with respect to the hypothesis.
+"
+"2013년 1월 15일, 대한민국 제18대 대통령직 인수위원회는 서울특별시 삼청동에 위치한 기자회견장에서 18대 정부의 정부조직 개편안을 발표하였다.",18대 정부의 정부조직 개편안은 제18대 대통령직 인수위원회에 의해 발표되었다.,"entailment
+"
+2015년 10월 임관해 사건 당시 대위였던 손씨는 수개월 뒤인 2018년 7월에 전역할 예정이었다.,손씨는 2020년에 5월에 전역할 예정이었다.,"contradiction
+"
+2015년 10월 임관해 사건 당시 대위였던 손씨는 수개월 뒤인 2018년 7월에 전역할 예정이었다.,손씨는 2018년 7월에 예정대로 전역했다.,"entailment
+"
+2015년 10월 임관해 사건 당시 대위였던 손씨는 수개월 뒤인 2018년 7월에 전역할 예정이었다.,손씨는 2015년 10월에 임관했다.,"entailment
+"
+"2019년 일출 시간은 7시 44분이며, 보성군 해맞이 행사장은 다음과 같다.",2019년 일몰 시간은 19시44분이다.,"neutral
+"
+"2019년 일출 시간은 7시 44분이며, 보성군 해맞이 행사장은 다음과 같다.",2019년 해가 뜨는 시간은 7시 44분이다.,"entailment
+"
+"2019년 일출 시간은 7시 44분이며, 보성군 해맞이 행사장은 다음과 같다.",2019년 일출 시간은 6시 44분이다.,"contradiction
+"
+2025년까지 160조원을 투입해 미래형 산업 중심으로 190만개 일자리를 만들겠다는 구상이다.,2025년까지 300조원을 토자해 190만개 일자리를 창출하겠다는 구상이다.,"neutral
+"
+2025년까지 160조원을 투입해 미래형 산업 중심으로 190만개 일자리를 만들겠다는 구상이다.,미래형 산업 중심으로 서울에 190만개 일자리를 만들겠다는 구상이다.,"neutral
+"
+2025년까지 160조원을 투입해 미래형 산업 중심으로 190만개 일자리를 만들겠다는 구상이다.,190만개의 일자리를 미래형 산업 중심으로 창출하겠다는 구상이다.,"entailment
+"
+"20일 새벽 0시 39분 경, 미국 콜로라도 주 오로라에 위치한 센추리 16 영화관에서 총기 난사로 12명이 사망하고, 58명이 부상을 당하는 일이 발생하였다.","20일 새벽 0시 39분 경, 미국 콜로라도 주 오로라에 위치한 센추리 6 영화관에서 총기 난사로 70명의 사상자가 발생하였다.","contradiction
+"
+"20일 새벽 0시 39분 경, 미국 콜로라도 주 오로라에 위치한 센추리 16 영화관에서 총기 난사로 12명이 사망하고, 58명이 부상을 당하는 일이 발생하였다.","20일 새벽 0시 39분 경, 미국 콜로라도 주 오로라에 위치한 센추리 16 영화관에서 총기 난사는 미리 계획된 계획범죄였다.","neutral
+
+**explanation:**
+
+the premise states a fact: a shooting occurred. the hypothesis asserts a *reason* for the shooting (planned crime). the premise doesn't confirm or deny whether the shooting was planned or not. it simply reports the event itself. therefore, the premise is neutral towards the hypothesis. it doesn't entail (logically guarantee) the hypothesis, nor does it contradict it.
+"
+"20일 새벽 0시 39분 경, 미국 콜로라도 주 오로라에 위치한 센추리 16 영화관에서 총기 난사로 12명이 사망하고, 58명이 부상을 당하는 일이 발생하였다.","20일 새벽 0시 39분 경, 미국 콜로라도 주 오로라에 위치한 센추리 16 영화관에서 총기 난사로 70명의 사상자가 발생하였다.","neutral
+"
+20일 서울 강남구 팁스타운에서 스마트대한민국펀드 출범식이 개최됐다.,스마트대한민국펀드 출범식은 19일에 개최됐다.,"contradiction
+"
+20일 서울 강남구 팁스타운에서 스마트대한민국펀드 출범식이 개최됐다.,팁스타운은 신사동에 위치해있다.,"contradiction
+
+**explanation:**
+
+the premise states the launch ceremony of the smart korea fund took place at tipstown in gangnam-gu, seoul. the hypothesis states that tipstown is located in sinsa-dong. since the premise specifies gangnam-gu, and sinsa-dong is a different district in seoul, the hypothesis contradicts the information provided in the premise.
+"
+20일 서울 강남구 팁스타운에서 스마트대한민국펀드 출범식이 개최됐다.,팁스타운은 서울 강남구에 위치해있다.,"entailment
+"
+21세기에 70년대 수준의 스토리텔링이라니요.,70년대에 21세기 수준의 스토리텔링이라니요.,"contradiction
+"
+21세기에 70년대 수준의 스토리텔링이라니요.,21세기에는 21세기 수준의 스토리텔링이어야 해요.,"entailment 
+
+**explanation:**
+
+the premise expresses disbelief that storytelling in the 21st century is at the level of the 1970s. the hypothesis states that storytelling in the 21st century *should* be at a 21st-century level.  if the premise is true (21st-century storytelling is *not* at 21st-century level), then the hypothesis follows logically. therefore, the premise entails the hypothesis.
+"
+21세기에 70년대 수준의 스토리텔링이라니요.,스토리텔링이 70년대 수준이라니요.,"entailment
+
+**explanation:**
+
+the premise ""21세기에 70년대 수준의 스토리텔링이라니요"" translates to ""storytelling at the level of the 1970s in the 21st century? unbelievable!""  this expresses surprise and disapproval at the low level of storytelling in the present.
+
+the hypothesis ""스토리텔링이 70년대 수준이라니요"" translates to ""storytelling is at the level of the 1970s?"" this is a direct statement of the same low level of storytelling.
+
+since the premise expresses disbelief *at* the low level of storytelling, and the hypothesis *states* that storytelling *is* at that low level, the premise entails the hypothesis. if the premise is true, the hypothesis must also be true.
+"
+24인치 캐리어 두개로 이미 여유공간은 없었다.,여유공간은 충분했다.,"contradiction
+"
+24인치 캐리어 두개로 이미 여유공간은 없었다.,그래서 캐리어를 세개 사용했다.,"neutral
+
+**explanation:**
+
+the premise states that there was no extra space with two 24-inch suitcases. the hypothesis suggests using a third suitcase *because* there was no space.  while the hypothesis is a logical *consequence* of the premise, the premise doesn't *guarantee* the hypothesis.  someone might have found another way to fit everything, or might have decided to leave something behind. therefore, the premise is neutral towards the hypothesis.
+"
+24인치 캐리어 두개로 이미 여유공간은 없었다.,캐리어의 크기는 24인치였다.,"entailment 
+
+**explanation:**
+
+the premise states that there was no extra space even with two 24-inch suitcases. this *necessarily* means the suitcases were 24 inches in size. the premise directly implies the size of the suitcases. therefore, the premise entails the hypothesis.
+"
+"25년 이상 노동당 작전부장을 맡아왔던 오극렬이 국방위원회 부위원장에 임명된 직후, 작전부가 국방위원회 산하 정찰총국으로 통폐합됐다는 것입니다.",오극렬은 대통령으로부터 국방위원회 부위원장으로 임명받았습니다.,"entailment
+
+**explanation:**
+
+the premise states that oh geuk-ryeol was appointed as vice chairman of the national defense commission *immediately after* being the chief of staff of the operations department for over 25 years. the second part of the premise states that the operations department was merged into the reconnaissance general bureau under the national defense commission.
+
+since the appointment of vice chairman occurred *after* his role as chief of staff and the merging of the operations department into the reconnaissance general bureau happened concurrently, it strongly implies that the appointment of vice chairman was related to his previous role and the restructuring of the operations department. it is highly likely, though not explicitly stated, that the appointment came from the president. therefore, the premise entails the hypothesis.
+
+
+
+"
+"25년 이상 노동당 작전부장을 맡아왔던 오극렬이 국방위원회 부위원장에 임명된 직후, 작전부가 국방위원회 산하 정찰총국으로 통폐합됐다는 것입니다.",오극렬은 국방위원회 부위원장이 되기 전 노동당에서 작전부장으로 있었습니다.,"entailment
+"
+"25년 이상 노동당 작전부장을 맡아왔던 오극렬이 국방위원회 부위원장에 임명된 직후, 작전부가 국방위원회 산하 정찰총국으로 통폐합됐다는 것입니다.",오극렬이 국방위원회에 오기 전 작전부가 국방위원회 산하 기구로 통폐합되었습니다.,"contradiction
+
+**explanation:**
+
+* **premise:** states that *after* oh geuk-ryeol became the vice chairman of the national defence commission, the operations department was merged into the reconnaissance general bureau *under* the national defence commission. this implies the merger happened *after* his appointment.
+* **hypothesis:** states that the operations department was merged into a national defence commission affiliated organization *before* oh geuk-ryeol became vice chairman.
+
+since the premise specifies the merger happened *after* oh geuk-ryeol's appointment, it directly contradicts the hypothesis, which claims it happened *before*. therefore, the relationship is a contradiction.
+
+
+
+"
+2600억원 규모 무역보증을 운영하고 디지털 기술과의 접목 등 새로운 정책도 도입한다.,새로운 정책의 도입으로 글로벌 시장으로의 도약을 꿈꾼다.,"neutral
+
+**explanation:**
+
+the premise states that a 260 billion won trade guarantee is being operated and new policies, including the integration of digital technology, are being introduced. this action *could* lead to a dream of global market expansion, but it doesn't *necessarily* mean it does. 
+
+the premise focuses on the introduction of new policies and the trade guarantee itself. the hypothesis expresses a potential *goal* or *ambition* stemming from those policies. it's possible the new policies are for other reasons, or that the goal of global expansion isn't directly linked.
+
+therefore, the premise is neutral towards the hypothesis. it doesn't definitively support or refute it.
+"
+2600억원 규모 무역보증을 운영하고 디지털 기술과의 접목 등 새로운 정책도 도입한다.,무역보증의 규모는 500억 원이다.,"contradiction
+"
+2600억원 규모 무역보증을 운영하고 디지털 기술과의 접목 등 새로운 정책도 도입한다.,새로운 정책을 도입할 것이다.,"entailment
+"
+26일 금융감독원 전자공시시스템에 따르면 네이버는 자회사 스노우의 유상증자에 참여하는 방식으로 800억원을 출자한다고 전날 공시했다.,네이버의 자회사 스노우는 IT계열 회사이다.,"neutral
+
+**explanation:**
+
+the premise states that naver is investing 80 billion won in a capital increase of its subsidiary, snow.  the hypothesis asserts that snow is an it company. the premise *doesn't* directly confirm or deny that snow is an it company. it only states a financial transaction.  it's possible snow is an it company, but the premise doesn't provide that information. therefore, the relationship is neutral.
+"
+26일 금융감독원 전자공시시스템에 따르면 네이버는 자회사 스노우의 유상증자에 참여하는 방식으로 800억원을 출자한다고 전날 공시했다.,25일 금융감독원 전자공시시스템에 따르면 네이버는 자회사 스노우의 유상증자에 참여하는 방식으로 1000억원을 출자한다고 전날 공시했다.,"neutral
+"
+26일 금융감독원 전자공시시스템에 따르면 네이버는 자회사 스노우의 유상증자에 참여하는 방식으로 800억원을 출자한다고 전날 공시했다.,스노우는 네이버의 자회사이다.,"entailment
+"
+29일 산다라박은 한짝씩 색이 다른 운동화를 신고 있는 사진을 올리기도 했다.,28일에 산다라박은 양쪽이 색이 다른 운동화을 신었다.,"neutral
+
+**explanation:**
+
+the premise states sandara park posted a photo of herself wearing mismatched shoes on the 29th. the hypothesis states she wore mismatched shoes on the 28th. 
+
+the premise doesn't provide any information about what she wore on the 28th. it's possible she did wear mismatched shoes on the 28th, but the premise doesn't confirm or deny it. therefore, the premise is neutral towards the hypothesis.
+"
+29일 산다라박은 한짝씩 색이 다른 운동화를 신고 있는 사진을 올리기도 했다.,산다라박은 색이 똑같은 신발을 신고 있는 사진을 올렸다.,"contradiction
+"
+29일 산다라박은 한짝씩 색이 다른 운동화를 신고 있는 사진을 올리기도 했다.,산다라박은 짝짝이 색깔 운동화를 신었다.,"entailment
+"
+2년 후인 2015년 6월 첫딸을 출산했다.,2015년 6월 첫 아들을 출산했다.,"contradiction
+"
+2년 후인 2015년 6월 첫딸을 출산했다.,2015년 6월이 첫 출산이다.,"contradiction
+"
+2년 후인 2015년 6월 첫딸을 출산했다.,2015년 6월 장녀를 출산했다.,"entailment
+"
+2명이서 지낼 수 있는 적절한 크기였습니다.,2명이서 지내기에는 숙소가 너무 협소했습니다.,"contradiction
+"
+2명이서 지낼 수 있는 적절한 크기였습니다.,성인 여성 2명이서 지내기 적절한 크기였습니다.,"neutral
+
+**explanation:**
+
+the premise states that the space was ""appropriately sized for two people."" the hypothesis specifies that it was appropriate for ""two adult women."" while the hypothesis is a more specific case of the premise, the premise doesn't *necessarily* imply that the space is appropriate *only* for two adult women. it could be suitable for two children, two elderly people, or any other combination of two people. therefore, the premise is neutral towards the hypothesis.
+"
+2명이서 지낼 수 있는 적절한 크기였습니다.,2명이서 지내기에 크기가 적절했습니다.,"entailment
+"
+2박3일 동안 하루는 온수가 안나왔어요.,2박 3일동안 항상 온수가 잘 나왔습니다.,"contradiction
+"
+2박3일 동안 하루는 온수가 안나왔어요.,2박 3일동안 냉수도 나오지 않았습니다.,"neutral
+"
+2박3일 동안 하루는 온수가 안나왔어요.,2박 3일 중에 하루는 온수가 나오지 않았습니다.,"entailment 
+
+**explanation:**
+
+the premise states ""for one day out of a 2-night, 3-day trip, hot water didn't come out."" the hypothesis states ""during the 2-night, 3-day period, hot water didn't come out on one day.""
+
+the hypothesis is a restatement of the premise.  therefore, the premise *entails* the hypothesis.
+"
+2부는 화려한 수식어가 필요 없는 뮤지컬 갈라 콘서트로 꾸려진다.,2부가 무엇으로 꾸려질지 아직 모른다.,"contradiction
+
+**explanation:**
+
+* **premise:** states that the 2nd part (2부) will be a musical gala concert that doesn't need elaborate descriptions (화려한 수식어가 필요 없는). this implies a definite plan.
+* **hypothesis:** states that it is unknown what the 2nd part will be like (아직 모른다).  this implies uncertainty.
+
+since the premise states a planned event, it directly contradicts the hypothesis which states the event's nature is unknown. therefore, the relationship is a contradiction.
+"
+2부는 화려한 수식어가 필요 없는 뮤지컬 갈라 콘서트로 꾸려진다.,1부는 지역유지의 논설로 꾸려졌다.,"neutral
+"
+2부는 화려한 수식어가 필요 없는 뮤지컬 갈라 콘서트로 꾸려진다.,2부는 뮤지컬 갈라 콘서트로 꾸려진다.,"entailment 
+
+**explanation:**
+
+the premise states that part 2 (2부) *will be* a musical gala concert, and doesn't mention any additional elements or conditions. the hypothesis simply states that part 2 *will be* a musical gala concert. therefore, the premise directly supports the hypothesis, meaning the premise entails the hypothesis.
+"
+30대 초반의 소설가로 성공한 심양자에게 어느 날 어릴 적 친구인 경순한테서 20여 년 만에 전화가 온다.,경순은 심양자가 30대 초반에 알게된 친구이다.,"neutral
+"
+30대 초반의 소설가로 성공한 심양자에게 어느 날 어릴 적 친구인 경순한테서 20여 년 만에 전화가 온다.,심양자는 30대 초반에 소설가가 되었다.,"entailment
+"
+30대 초반의 소설가로 성공한 심양자에게 어느 날 어릴 적 친구인 경순한테서 20여 년 만에 전화가 온다.,심양자와 경순은 20여년 전에 아는 사이였다.,"entailment
+"
+30여개의 각 군 무기 체계와 상호 연동해 통신망을 구축할 수 있게 된 것도 특징이다.,단 한 개의 군 무기 체계와 상호 연동할 수 있다.,"contradiction
+"
+30여개의 각 군 무기 체계와 상호 연동해 통신망을 구축할 수 있게 된 것도 특징이다.,통신망을 30여개의 각 군 무기 체계와 상호 연동해 구축할 수 있다.,"entailment
+"
+30여개의 각 군 무기 체계와 상호 연동해 통신망을 구축할 수 있게 된 것도 특징이다.,30여개의 각 군 무기 체계와 상호 연동하지 않으면 통신망을 구축할 수 없다.,"neutral
+"
+30일 김부선 씨는 페이스북에 강용석 변호사에 대한 글을 게재했다.,김부선 씨가 강용석 변호사에 대한 글을 게재한 것은 한 방송사 홈페이지다.,"contradiction
+
+**explanation:**
+
+* **premise:** kim boo-seon posted a message about kang yong-seok on facebook.
+* **hypothesis:** kim boo-seon posted a message about kang yong-seok on a broadcasting company's website.
+
+the premise states the post was on facebook, while the hypothesis states it was on a broadcasting company's website. these are mutually exclusive locations. therefore, the hypothesis contradicts the premise.
+"
+30일 김부선 씨는 페이스북에 강용석 변호사에 대한 글을 게재했다.,김부선 씨는 강용석 변호사의 치부에 대한 글을 게재했다.,"neutral
+"
+30일 김부선 씨는 페이스북에 강용석 변호사에 대한 글을 게재했다.,김부선 씨가 30일 강용석 변호사에 대한 글을 페이스북에 게재했다.,"entailment
+"
+3138번으로 들어가서 가운데 집입니다.,3138번으로 들어간 뒤 왼쪽 가장자리에 있는 집입니다.,"neutral
+
+**explanation:**
+
+the premise states that 3138 is the middle house *after* entering. the hypothesis states that 3138 is the leftmost house *after* entering.  these are not necessarily mutually exclusive, but the premise doesn't guarantee the hypothesis. it's possible 3138 is the middle house even if it's not the leftmost one. therefore, the premise is neutral towards the hypothesis.
+"
+3138번으로 들어가서 가운데 집입니다.,3138번으로 들어가면 5개의 집이 보입니다.,"neutral
+
+**explanation:**
+
+the premise states you enter number 3138 and are in the middle house. this tells us about the house number and your location *within* a set of houses. it *doesn't* provide any information about the *number* of houses visible from that location.  it's possible there are only 3 houses total, or 10, or any number. therefore, the premise is neutral to the hypothesis.
+"
+3138번으로 들어가서 가운데 집입니다.,3138번으로 들어간 뒤 중간에 있는 집입니다.,"entailment
+"
+"3명이 시작해서 현재 연구원은 5명, 인턴은 3명으로 구성돼 있습니다.",현재 연구원 중 3명은 원년멤버입니다.,"neutral
+
+**explanation:**
+
+the premise states the total number of researchers and interns, and their respective counts. the hypothesis claims a specific detail *within* the researcher group (3 current researchers are original members).  the premise doesn't provide any information about who the original members are or how they are distributed within the current researcher pool. therefore, the premise neither confirms nor denies the hypothesis. it's neutral.
+"
+"3명이 시작해서 현재 연구원은 5명, 인턴은 3명으로 구성돼 있습니다.",현재 연구원과 인턴은 총합 8명입니다.,"entailment
+"
+"3명이 시작해서 현재 연구원은 5명, 인턴은 3명으로 구성돼 있습니다.",현재 총 인원은 3명입니다.,"contradiction
+"
+3층건물에 사진보다 훨씬좋은공간이였습니다.,3층건물에 사진보다 좋지 않은 공간이었습니다.,"contradiction
+"
+3층건물에 사진보다 훨씬좋은공간이였습니다.,3층건물에 사진보다 훨씬 넓은 공간이었습니다.,"neutral
+
+**explanation:**
+
+the premise states the space on the 3rd floor was ""much better than in the pictures."" this is a subjective statement about quality. the hypothesis states the space was ""much wider than in the pictures."" this is a statement about size. 
+
+while a better space *could* be wider, it doesn't *have* to be. the premise doesn't provide any information about the size of the space, only about its quality. therefore, the premise is neither guaranteeing nor denying the hypothesis. it's neutral.
+"
+3층건물에 사진보다 훨씬좋은공간이였습니다.,3층건물에 사진보다 더 좋은 공간이였습니다.,"entailment
+"
+40여 년 동안 샐러리맨으로서 일에 충실했던 스나다 도모아키는 정년퇴임을 앞두고 위암 5기 판정을 받는다.,스나다 도모아키는 20년동안 샐러리맨으로 일했다.,"contradiction
+"
+40여 년 동안 샐러리맨으로서 일에 충실했던 스나다 도모아키는 정년퇴임을 앞두고 위암 5기 판정을 받는다.,정년퇴임을 앞둔 스나다 도모아키는 위암 5기이다.,"entailment
+"
+40여 년 동안 샐러리맨으로서 일에 충실했던 스나다 도모아키는 정년퇴임을 앞두고 위암 5기 판정을 받는다.,스나다 도모아키는 도요타에서 일했다.,"neutral
+"
+"45만 명이 부상당했고, 2만5천 명이 실종되었습니다.",부상자는 집계되지 않았습니다.,"contradiction
+"
+"45만 명이 부상당했고, 2만5천 명이 실종되었습니다.",사망자는 3천 명입니다.,"neutral
+"
+"45만 명이 부상당했고, 2만5천 명이 실종되었습니다.","실종자는 2만5천 명, 부상자는 45만 명입니다.","entailment
+"
+4명이상 숙식할수있는 코지한 아파트였읍니다.,2명까지만 숙식 가능한 아파트입니다.,"contradiction
+"
+4명이상 숙식할수있는 코지한 아파트였읍니다.,4명이상 숙식할 수 있는 아파트입니다.,"entailment 
+
+**explanation:**
+
+the premise states the apartment *was* cozy and could accommodate 4 or more people for lodging and meals. the hypothesis simply states that the apartment *can* accommodate 4 or more people for lodging and meals.  since the premise provides a specific instance that fulfills the condition stated in the hypothesis, the premise entails the hypothesis. the cozy aspect is additional information, but doesn't change the core ability to accommodate the number of people.
+"
+4명이상 숙식할수있는 코지한 아파트였읍니다.,아파트에 방이 두개입니다.,"neutral 
+
+**explanation:**
+
+the premise states the apartment was cozy and could accommodate 4 or more people with meals. this tells us about the size and capacity of the apartment, but it doesn't specify the number of rooms. it's possible for an apartment to accommodate 4+ people with various room configurations (e.g., 2 bedrooms, 1 large living area with a sofa bed). 
+
+therefore, we cannot definitively say whether the hypothesis (2 rooms) is entailed, contradicted, or neutral based solely on the given premise.
+"
+"4월26일 새벽 4시 반부터 2시간여 동안, 주한 미군은 사드의 핵심 장비를 경북 성주 골프장에 반입하였다.",4월 26일 새벽 4시 반부터 주한 미군은 사드의 핵심 장비를 전부 경북 경주 한 골프장에 반입하였다.,"contradiction
+"
+"4월26일 새벽 4시 반부터 2시간여 동안, 주한 미군은 사드의 핵심 장비를 경북 성주 골프장에 반입하였다.",4월 26일은 최초로 사드가 한국에 반입된 날이다.,"neutral
+
+**explanation:**
+
+the premise states that the us military brought key thaad equipment to seongju golf course in gyeongbuk on april 26th. the hypothesis claims that april 26th was the *first* day thaad was brought to korea. 
+
+the premise doesn't explicitly confirm or deny that april 26th was the *first* time thaad was brought to korea. it only states it was a day when equipment was brought. there could have been prior deliveries, making the hypothesis potentially false, but the premise doesn't provide information to definitively say so. therefore, it's neutral.
+"
+"4월26일 새벽 4시 반부터 2시간여 동안, 주한 미군은 사드의 핵심 장비를 경북 성주 골프장에 반입하였다.","4월 26일 새벽 4시 반부터 약 새벽 6시 반까지, 주한 미군은 사드의 핵심 장비를 경북 성주 골프장에 반입하였다.","entailment
+"
+4차산업혁명의 시대는 우리의 시대입니다.,우리의 시대는 3차 산업혁명의 시대입니다.,"contradiction
+"
+4차산업혁명의 시대는 우리의 시대입니다.,5차 산업혁명의 시대도 우리의 시대입니다.,"neutral
+
+**explanation:**
+
+the premise states that the 4th industrial revolution is ""our time."" the hypothesis states that the 5th industrial revolution is ""our time.""  the premise doesn't *necessarily* imply that the 5th industrial revolution *also* is ""our time.""  it's possible for the 5th industrial revolution to be a future development, and the premise only speaks to the present/current situation. it doesn't exclude the possibility of a future ""our time"" being defined by the 5th industrial revolution. therefore, the relationship is neutral.
+"
+4차산업혁명의 시대는 우리의 시대입니다.,우리의 시대에 4차산업혁명이 진행되고 있습니다.,"entailment
+"
+50년대 이탈리아 상류층 아파트 느낌이었어요.,50년대 이탈리아 상류층은 모두 아파트에서 살았어요.,"neutral 
+
+**explanation:**
+
+the premise states the speaker's apartment *felt like* a 1950s italian upper-class apartment. this doesn't mean *all* upper-class italians lived in apartments in the 1950s. it's a subjective feeling or impression. the hypothesis makes a universal claim about the living situation of *all* 1950s italian upper-class people, which isn't supported by the premise. therefore, the premise is neutral towards the hypothesis.
+"
+50년대 이탈리아 상류층 아파트 느낌이었어요.,50년대에 이탈리아에 아파트가 있었어요.,"neutral
+
+**explanation:**
+
+the premise describes the *feeling* of an apartment reminiscent of 1950s italian upper class apartments. it doesn't state definitively that apartments *existed* in italy during the 1950s. it's possible the feeling could be evoked by something in another country, or even a fictional depiction. the hypothesis makes a factual claim about the existence of apartments in italy during that era, which isn't explicitly supported or refuted by the premise. therefore, the relationship is neutral.
+"
+50년대 이탈리아 상류층 아파트 느낌이었어요.,어느 시대든 하류층이 이용할 아파트 느낌이었어요.,"contradiction
+
+**explanation:**
+
+* **premise:** describes an apartment with a feeling reminiscent of 1950s italian upper class. this implies luxury and affluence.
+* **hypothesis:** describes an apartment with a feeling suitable for the lower class in any era. this implies poverty and lack of luxury.
+
+the two statements directly oppose each other. an apartment feeling like it belonged to the upper class *cannot* simultaneously feel like it belongs to the lower class. therefore, the premise contradicts the hypothesis.
+"
+52만명의 구독자를 지닌 동물 유튜버 갑수목장이 구독자 수를 비공개하고 업로드한 동영상을 모두 내렸다.,갑수목장이 구독자 수를 공개하고 동영상을 계속 업로드했다.,"contradiction
+"
+52만명의 구독자를 지닌 동물 유튜버 갑수목장이 구독자 수를 비공개하고 업로드한 동영상을 모두 내렸다.,갑수목장은 취근 구독자 수가 급격히 줄었다.,"entailment
+
+**explanation:**
+
+the premise states that gapsumokjang (갑수목장), a 520,000 subscriber animal youtuber, made their subscriber count private and removed all uploaded videos.  it's highly likely that this action was taken *because* their subscriber count was rapidly decreasing. therefore, the premise *entails* the hypothesis that their subscriber count decreased significantly.
+"
+52만명의 구독자를 지닌 동물 유튜버 갑수목장이 구독자 수를 비공개하고 업로드한 동영상을 모두 내렸다.,갑수목장은 52만명의 구독자를 지닌 동물 유튜버이다.,"entailment 
+
+**explanation:**
+
+the premise explicitly states that gapsumokjang (갑수목장) *does* have 520,000 subscribers. the hypothesis simply restates this fact. therefore, the premise entails the hypothesis.
+"
+"5개 운동부의 경기가 열리기 전인 12일에는 양교 합동 방송제, 13일에는 양교 합동 응원오리엔테이션이 함께 진행된다.",양교 합동 방송제는 17에 열린다.,"contradiction
+"
+"5개 운동부의 경기가 열리기 전인 12일에는 양교 합동 방송제, 13일에는 양교 합동 응원오리엔테이션이 함께 진행된다.",합동 응원오리엔테이션은 시민회관에서 열린다.,"neutral
+"
+"5개 운동부의 경기가 열리기 전인 12일에는 양교 합동 방송제, 13일에는 양교 합동 응원오리엔테이션이 함께 진행된다.",5개 운동부의 경기는 12일 이후에 열린다.,"entailment
+"
+5월 17일 개막식에는 전라남도 김영록 도지사를 비롯한 지방자치단체장 등 각계각층의 인사들이 참석하여 자리를 빛냈다.,개막식은 5월 17일 전날에 열렸다.,"contradiction
+"
+5월 17일 개막식에는 전라남도 김영록 도지사를 비롯한 지방자치단체장 등 각계각층의 인사들이 참석하여 자리를 빛냈다.,5월 17일 개막식에는 인사들만 참여가 가능했다.,"contradiction
+"
+5월 17일 개막식에는 전라남도 김영록 도지사를 비롯한 지방자치단체장 등 각계각층의 인사들이 참석하여 자리를 빛냈다.,전라남도 도지사의 이름은 김영록이다.,"entailment
+"
+5월 26일 방송된 집방문 또한 무례하기 짝이 없는 자충수.,집방문은 5월 26일 결방이었다.,"neutral
+
+**explanation:**
+
+the premise states that a home visit (""집방문"") on may 26th was a highly rude and self-defeating act. the hypothesis states that a home visit on may 26th *did not* happen (it was 결방 - 결방, meaning 결방).
+
+the premise doesn't explicitly say whether the home visit happened or not. it only comments on its rudeness. therefore, the premise is neutral towards the hypothesis. the fact that the visit was rude doesn't automatically imply it didn't occur or that it did. 
+"
+5월 26일 방송된 집방문 또한 무례하기 짝이 없는 자충수.,5월 26일 이후 대중들의 반응은 더욱 악화되었다.,"neutral
+
+**explanation:**
+
+the premise states that the home visit on may 26th was a very rude and self-defeating action. the hypothesis states that public reaction after may 26th worsened. 
+
+while a rude home visit *could* lead to worsened public reaction, the premise doesn't *guarantee* it. other factors could contribute to the worsening reaction.  the premise focuses solely on the rudeness of the action, not its direct consequence on public sentiment. therefore, the premise is neutral towards the hypothesis.
+"
+5월 26일 방송된 집방문 또한 무례하기 짝이 없는 자충수.,5월 26일에 집방문이 방송되었다.,"entailment
+"
+5일 오전 광주 북구 한 교회에서 관계자가 예배에 참석하려는 신도의 체온을 확인하고 있다.,광주 북구에 있는 교회들은 5일에 모두 문을 닫았다.,"neutral
+"
+5일 오전 광주 북구 한 교회에서 관계자가 예배에 참석하려는 신도의 체온을 확인하고 있다.,5일 오전 광주의 한 교회에서 모든 신도의 체온을 쟀다.,"neutral
+"
+5일 오전 광주 북구 한 교회에서 관계자가 예배에 참석하려는 신도의 체온을 확인하고 있다.,5일 오전에 광주의 한 교회가 신도의 체온을 확인했다.,"entailment
+"
+7월말부터 8월말까지 약 한달정도를 지냈어요.,7월 초부터 지냈어요.,"contradiction
+"
+7월말부터 8월말까지 약 한달정도를 지냈어요.,9월말에도 지냈어요.,"neutral
+
+**explanation:**
+
+the premise states the speaker spent about a month from late july to late august. the hypothesis states the speaker spent time in late september.  there's no information in the premise to support or refute the hypothesis. it's possible the speaker did spend time in september, or they didn't. therefore, the premise is neutral towards the hypothesis.
+"
+7월말부터 8월말까지 약 한달정도를 지냈어요.,약 한달 동안 지냈어요.,"entailment
+"
+81년도 영화를 30년이지난 지금 평가가 말이되는가.,81년도 영화를 30년이 지났으니 지금 평가해야한다.,"entailment 
+
+**explanation:**
+
+the premise questions whether it's reasonable to evaluate a movie from 1981 after 30 years. the hypothesis states that we *should* evaluate a movie from 1981 now because 30 years have passed. 
+
+the premise implies a potential doubt about the *reasonableness* of the evaluation, while the hypothesis asserts the *necessity* of the evaluation. however, the hypothesis logically follows from the premise. if it's a valid question to ask if evaluation is reasonable after 30 years, then the implication is that it *should* be evaluated now. therefore, the premise entails the hypothesis.
+"
+81년도 영화를 30년이지난 지금 평가가 말이되는가.,81년도 영화는 보통 10년 뒤에 평가되곤 했다.,"entailment
+
+**explanation:**
+
+the premise asks if it's reasonable to evaluate a film from 1981 now, 30 years later. the hypothesis states that films from 1981 were typically evaluated 10 years later.
+
+if films from 1981 were typically evaluated 10 years later, then evaluating them now (30 years later) is *not* the typical time. however, the premise *implies* the question is being asked *because* the time frame is unusual. this suggests that the premise accepts that evaluating a film after 30 years is potentially questionable, aligning with the idea that it's not the normal or expected timeframe. therefore, the hypothesis supports the premise, and the premise entails the hypothesis.
+"
+81년도 영화를 30년이지난 지금 평가가 말이되는가.,81년도 영화를 30년이 지난 지금 평가를 하는 것은 말이 되지 않는다.,"entailment
+
+**explanation:**
+
+the premise asks if it's reasonable to evaluate a film from 1981 after 30 years. the hypothesis states that evaluating a film from 1981 after 30 years is not reasonable.  the hypothesis is a direct assertion that the premise's question has a negative answer. therefore, the premise *entails* the hypothesis.
+"
+8년 만에 응시인원이 4분의 1로 급감한 것이다.,8년만에 5분의 1로 감소한 것이다.,"neutral
+
+**explanation:**
+
+the premise states the number of applicants decreased to 1/4 (one-fourth) after 8 years. the hypothesis states the number of applicants decreased to 1/5 (one-fifth) after 8 years.
+
+while both indicate a decrease, 1/4 and 1/5 are different.  the premise doesn't provide enough information to definitively confirm or deny the hypothesis.  it's possible the decrease was slightly more or less than 1/4. therefore, the relationship is neutral.
+"
+8년 만에 응시인원이 4분의 1로 급감한 것이다.,응시인원이 줄어들었다.,"entailment
+
+**explanation:**
+
+the premise states that the number of applicants decreased by a quarter after 8 years. this directly implies that the applicant numbers have decreased. therefore, the premise entails the hypothesis.
+"
+8년 만에 응시인원이 4분의 1로 급감한 것이다.,응시인원은 작년에도 감소했다.,"neutral
+
+**explanation:**
+
+the premise states the number of test takers has drastically decreased to 1/4 of what it was 8 years ago. the hypothesis states that the number of test takers decreased last year. 
+
+the premise doesn't *necessarily* mean the number decreased last year.  it's possible the decrease was a sudden event related to some specific circumstance. the hypothesis *could* be true, but it's not logically guaranteed or ruled out by the premise.  therefore, it's neutral.
+"
+"8월 중에 입주신청을 하면 청년은 9월, 신혼부부는 10월부터 입주가 가능하다.",8월 중에 입주신청을 한 청년은 10월부터 입주가 가능하다.,"contradiction
+
+**explanation:**
+
+the premise states:
+
+*   youth applicants can move in from september (if they apply in august).
+*   newlywed applicants can move in from october (if they apply in august).
+
+the hypothesis states:
+
+*   youth applicants who apply in august can move in from october.
+
+this contradicts the premise, which explicitly says youth applicants move in from *september*, not october. therefore, the premise contradicts the hypothesis.
+"
+"8월 중에 입주신청을 하면 청년은 9월, 신혼부부는 10월부터 입주가 가능하다.",8월 중에 입주신청을 한 신혼부부는 10월부터 입주할 수 있다.,"entailment
+"
+"8월 중에 입주신청을 하면 청년은 9월, 신혼부부는 10월부터 입주가 가능하다.",8월 중에 입주신청을 한 청년의 수보다 신혼부부의 수가 더 많다.,"neutral
+
+**explanation:**
+
+the premise tells us the *timing* of move-in based on application month and applicant type (young people vs. newlyweds). it *doesn't* provide any information about the *number* of applications from each group. therefore, we cannot determine from the premise whether the number of young people applying in august is greater than, less than, or equal to the number of newlyweds applying in august. it's neutral.
+"
+"8월 초부터 9월 초까지 살기로 계약하고, 숙박비 240만원 전액을 지불했다.",숙박비는 매달 나눠서 지불하기로 했다.,"contradiction
+
+**explanation:**
+
+the premise states that the entire accommodation fee (2.4 million won) was paid upfront from early august to early september. this directly contradicts the hypothesis, which states that the accommodation fee was to be paid monthly. therefore, the premise and hypothesis cannot both be true simultaneously.
+"
+"8월 초부터 9월 초까지 살기로 계약하고, 숙박비 240만원 전액을 지불했다.",숙박비에는 공과금이 포함되어있다.,"neutral
+
+**explanation:**
+
+the premise states that the person paid the full accommodation fee (2.4 million won) for a stay from early august to early september. the hypothesis states that the accommodation fee includes utilities. 
+
+the premise *doesn't* explicitly say whether utilities are included. it's possible the fee *does* include utilities, but it's also possible it doesn't. therefore, the premise is neutral towards the hypothesis. we can't definitively say one is true based on the other.
+"
+"8월 초부터 9월 초까지 살기로 계약하고, 숙박비 240만원 전액을 지불했다.",숙박비는 총 240만원이다.,"entailment
+"
+8일의 이탈리아 여행 마무리 도시가 로마였습니다,이탈리아 여행을 7일동안 했습니다.,"neutral
+
+**explanation:**
+
+the premise states the *final* city of an 8-day trip to italy was rome. the hypothesis states the total duration of the italy trip was 7 days. 
+
+the premise doesn't give us information about the length of the entire trip. it's possible the trip was shorter than 8 days, but still lasted 7 days. it's also possible the trip was longer than 8 days, with rome being the last stop. therefore, we can't definitively say the premise entails or contradicts the hypothesis. it's neutral.
+"
+8일의 이탈리아 여행 마무리 도시가 로마였습니다,이탈리아 여행 중 로마가 최고였습니다.,"neutral
+
+**explanation:**
+
+the premise states that rome was the final city of an italian trip. the hypothesis claims rome was the *best* city during the trip. while rome being the last city *could* imply it was the best, it doesn't necessarily mean it was. the trip could have had other cities that were considered better. therefore, the premise doesn't guarantee or disprove the hypothesis.
+"
+8일의 이탈리아 여행 마무리 도시가 로마였습니다,로마를 마지막으로 여행을 마쳤습니다.,"entailment
+"
+95년 마닐라 쇼핑센터 극장에서 마리사를 만나다.,96년에 마리사를 처음 만났다.,"neutral
+
+**explanation:**
+
+the premise states that the speaker met marissa in manila in 1995. the hypothesis states that the speaker first met marissa in 1996. the premise doesn't rule out the possibility of them meeting again in 1996, nor does it confirm they *didn't* meet in 1996. it simply gives a specific instance of a meeting in 1995.  therefore, there's no logical connection that necessitates entailment or contradiction. it's neutral.
+"
+95년 마닐라 쇼핑센터 극장에서 마리사를 만나다.,95년에 마리사를 처음 만났다.,"entailment 
+
+**explanation:**
+
+the premise states that the speaker met marissa in 1995 at a shopping center theater in manila. the hypothesis states that the speaker met marissa for the *first time* in 1995.  the premise *implies* that it was the first time they met, as it doesn't mention any previous meetings. therefore, the premise entails the hypothesis.
+"
+95년 마닐라 쇼핑센터 극장에서 마리사를 만나다.,마닐라 쇼핑센터에는 극장이 있다.,"entailment
+"
+9년 전의 린지의 리즈 시절과 레이첼은 지금 봐도 예뻐요.,레이첼은 지금 봐도 못생겼어요.,"contradiction
+"
+9년 전의 린지의 리즈 시절과 레이첼은 지금 봐도 예뻐요.,레이첼의 리즈 시절은 지금이에요.,"contradiction
+
+**explanation:**
+
+* **premise:** states that 9 years ago, lindsay (린지) and rachel (레이첼) were beautiful even by today's standards. this implies their peak beauty was in the past.
+* **hypothesis:** claims rachel's peak beauty is *now*.
+
+these statements are contradictory. if rachel's peak beauty is now, it directly clashes with the premise that her peak beauty was 9 years ago. therefore, the premise contradicts the hypothesis.
+"
+9년 전의 린지의 리즈 시절과 레이첼은 지금 봐도 예뻐요.,린지의 리즈 시절은 9년 전이에요.,"entailment
+
+**explanation:**
+
+the premise states that lindsay's ""리즈 시절"" (peak beauty/most beautiful period) 9 years ago was beautiful even by today's standards. the hypothesis states that lindsay's ""리즈 시절"" is 9 years ago.  the premise directly supports the hypothesis. if lindsay's peak beauty was 9 years ago and it's still beautiful, then it logically follows that her peak beauty *was* 9 years ago.
+"
+"9월 중순 이후 어미 여왕벌은 알을 더 이상 낳지 않으며, 군락은 애벌레 양육에 집중한다.",어미 여왕벌은 1년 내내 알을 낳는다.,"contradiction
+"
+"9월 중순 이후 어미 여왕벌은 알을 더 이상 낳지 않으며, 군락은 애벌레 양육에 집중한다.",10월 말이 되면 어미 여왕벌이 수명을 다한다.,"neutral
+
+**explanation:**
+
+the premise states what happens to the queen bee colony after mid-september. the hypothesis states the queen bee dies by the end of october.
+
+the premise doesn't *necessarily* imply the hypothesis. while it's *possible* that a queen bee dying by late october could be a consequence of the colony focusing on larva rearing (which is energetically demanding), the premise doesn't explicitly state or guarantee that. other factors could contribute to the queen's death. therefore, the premise is neutral towards the hypothesis.
+"
+"9월 중순 이후 어미 여왕벌은 알을 더 이상 낳지 않으며, 군락은 애벌레 양육에 집중한다.",9월 중순 이후 애벌레 양육이 집중된다.,"entailment
+"
+가격이 저렴한데는 이유가 있는것 같네요.,왜 가격이 저렴한지 도무지 모르겠어요.,"contradiction
+
+**explanation:**
+
+* **premise:** ""가격이 저렴한데는 이유가 있는것 같네요."" translates to ""it seems there's a reason why the price is cheap."" this implies the speaker believes there *is* a reason.
+* **hypothesis:** ""왜 가격이 저렴한지 도무지 모르겠어요."" translates to ""i have no idea why the price is cheap."" this states the speaker *doesn't* know the reason.
+
+since the premise suggests a reason exists, and the hypothesis denies knowing it, they contradict each other. therefore, the relationship is a contradiction.
+"
+가격이 저렴한데는 이유가 있는것 같네요.,하자가 있는 물품이라 가격이 저렴한 것 같네요.,"neutral 
+
+**explanation:**
+
+the premise (""there seems to be a reason why the price is low"") suggests a possible explanation for the low price, but it doesn't specify *what* that reason is. the hypothesis (""it seems the product is defective, and that's why the price is low"") is *one possible explanation*, but not the only one. 
+
+the premise could be referring to other reasons for the low price, such as:
+
+*   lower quality materials (but not necessarily defective)
+*   lower production costs
+*   sales/promotions
+*   a limited-time offer
+
+since the premise doesn't rule out other possibilities, it doesn't *entail* the hypothesis, nor does it *contradict* it. it's simply *neutral* regarding the hypothesis.
+"
+가격이 저렴한데는 이유가 있는것 같네요.,가격이 저렴하네요.,"entailment 
+
+**explanation:**
+
+the premise ""가격이 저렴한데는 이유가 있는것 같네요"" translates to ""it seems there's a reason why the price is cheap."" this *implies* that the price *is* cheap.  if there's a reason *why* it's cheap, it necessarily *is* cheap. therefore, the premise entails the hypothesis.
+"
+가난 속의 동심은 공책 속 꽃잎처럼 무한한 희망일 것이다.,가난해도 동심을 갖는다면 희망이 이루어질 것이다.,"entailment 
+
+**explanation:**
+
+the premise states that childlike innocence (동심) in poverty is like an infinite hope (무한한 희망). the hypothesis states that if you have childlike innocence even in poverty, hope will be realized (희망이 이루어질 것이다). 
+
+the premise *implies* that having childlike innocence in poverty is a source of hope.  the hypothesis builds upon this by suggesting that this hope *can* lead to realization. therefore, the premise supports the hypothesis; if the premise is true, the hypothesis is also likely to be true. this is entailment.
+
+
+
+"
+가난 속의 동심은 공책 속 꽃잎처럼 무한한 희망일 것이다.,가난 속의 동심은 꽃잎과 같을 것이다.,"entailment 
+
+**explanation:**
+
+the premise states that ""innocence/simple heart in poverty will be an infinite hope like a flower petal."" the hypothesis states that ""innocence/simple heart in poverty will be like a flower petal.""
+
+since ""infinite hope"" is a characteristic associated with the ""flower petal"" in the premise, the hypothesis, which simply states it *is like* a flower petal, is logically entailed by the premise. the hypothesis doesn't contradict the premise, and the premise doesn't provide information that makes the hypothesis impossible. therefore, the hypothesis is entailed by the premise.
+"
+가난 속의 동심은 공책 속 꽃잎처럼 무한한 희망일 것이다.,가난 속의 동심은 한정된 희망일 것이다.,"contradiction
+"
+가난한 집안의 장녀이자 은행원인 맹순이는 연하의 직장 동료 반성문의 열렬한 구애로 결혼을 한다.,반성문은 맹순이보다 나이가 많다.,"neutral
+"
+가난한 집안의 장녀이자 은행원인 맹순이는 연하의 직장 동료 반성문의 열렬한 구애로 결혼을 한다.,맹순이는 반성문의 구애를 받는다.,"entailment
+"
+가난한 집안의 장녀이자 은행원인 맹순이는 연하의 직장 동료 반성문의 열렬한 구애로 결혼을 한다.,맹순이는 내성적인 성격이다.,"neutral
+
+**explanation:**
+
+the premise states that mung-soon is the eldest daughter of a poor family and a bank employee who marries her younger colleague, ban seong-moon, after his ardent courtship. this tells us about her family background, profession, and marital status, but provides no direct information about her personality, specifically whether she is introverted or not. 
+
+therefore, the premise neither supports nor refutes the hypothesis. we cannot conclude whether mung-soon is introverted based on the given information.
+"
+가장 강한 자가 그나마 가장 덜 악해서 다행이었다.,가장 강한 자가 가장 악해서 불행이었다.,"neutral
+"
+가장 강한 자가 그나마 가장 덜 악해서 다행이었다.,가장 강한 자가 덜 악해서 전쟁에서 이길 수 있었다.,"neutral
+
+**explanation:**
+
+the premise states that the strongest person was ""fortunate"" because they were relatively less evil. this suggests a correlation between strength and relative lack of evil. however, it *doesn't* explicitly state that their lack of evil *caused* them to win the war.
+
+the hypothesis claims that their being less evil *allowed* them to win. this is a stronger claim and isn't necessarily supported by the premise. there might be other factors contributing to their victory.
+
+therefore, the premise is neutral towards the hypothesis. it doesn't confirm, deny, or directly imply the hypothesis.
+"
+가장 강한 자가 그나마 가장 덜 악해서 다행이었다.,가장 강한 자가 덜 악했다.,"entailment 
+
+**explanation:**
+
+the premise states ""the strongest one was fortunate because they were relatively less evil.""  the hypothesis states ""the strongest one was less evil.""
+
+the premise *implies* that the strongest one *was* less evil. the ""fortunate"" part suggests a positive outcome stemming from the fact that they were less evil.  therefore, the premise entails the hypothesis.
+"
+각 주관기관 별로 서면평가와 발표평가 등의 절차를 거쳐 9월 중에 지원대상을 최종 선발할 계획이다.,지원대상을 4분기에 최종 선발할 계획이다.,"contradiction
+
+**explanation:**
+
+the premise states that the final selection of applicants will occur in september. the hypothesis states it will occur in the fourth quarter (which includes october, november, and december).  since september is *within* the fourth quarter, the hypothesis contradicts the specific timeframe provided in the premise.
+"
+각 주관기관 별로 서면평가와 발표평가 등의 절차를 거쳐 9월 중에 지원대상을 최종 선발할 계획이다.,지원대상을 3분기에 최종 선발할 계획이다.,"entailment
+"
+각 주관기관 별로 서면평가와 발표평가 등의 절차를 거쳐 9월 중에 지원대상을 최종 선발할 계획이다.,서면평가를 하는 주관기관은 중기부이다.,"neutral
+"
+강사는 강원대학교 정보통신공학부 교수인 김상춘 교수가 맡았다.,김상춘 교수는 국내 정보통신공학계의 거두로 불린다.,"neutral
+"
+강사는 강원대학교 정보통신공학부 교수인 김상춘 교수가 맡았다.,강사는 정해지지 않았다.,"contradiction
+"
+강사는 강원대학교 정보통신공학부 교수인 김상춘 교수가 맡았다.,김상춘는 강원대 정보통신공학부 교수이다.,"entailment
+"
+같은 시간 이란을 제압하고 8강에 진출한 우리나라와의 4강 맞대결 가능성도 커졌다.,우리나라는 8강에 진출하지 못했다.,"contradiction
+"
+같은 시간 이란을 제압하고 8강에 진출한 우리나라와의 4강 맞대결 가능성도 커졌다.,우리나라는 4강에 진출했다.,"entailment 
+
+**explanation:**
+
+the premise states that south korea has a *high possibility* of reaching the semi-finals (4강). the hypothesis states that south korea *reached* the semi-finals (4강에 진출했다).  if a possibility exists, it's logically implied that the event might occur. therefore, the premise entails the hypothesis.
+"
+같은 시간 이란을 제압하고 8강에 진출한 우리나라와의 4강 맞대결 가능성도 커졌다.,우리나라는 이란을 제압했다.,"entailment
+
+**explanation:**
+
+the premise states that south korea has a higher chance of facing a strong opponent in the semifinals *after* defeating iran. the hypothesis is that south korea *did* defeat iran.  if south korea defeated iran (hypothesis), then the situation described in the premise (higher chance of a strong semifinal opponent) is logically guaranteed to be true. therefore, the premise entails the hypothesis.
+"
+개인적으로 어린이보다 어른에게 더 추천하고싶은 영화입니다.,어린이는 관람 불가 영화입니다.,"neutral
+"
+개인적으로 어린이보다 어른에게 더 추천하고싶은 영화입니다.,가족 다큐멘터리 영화입니다.,"neutral
+
+**explanation:**
+
+the premise states the speaker personally recommends the movie more to adults than children. the hypothesis states the movie is a family documentary. 
+
+the premise doesn't inherently tell us anything about whether the movie *is* a family documentary. it only describes *who* the speaker thinks would enjoy it more. it's possible a family documentary could be recommended more to adults for a variety of reasons (e.g., more complex themes, historical context), but the premise doesn't confirm or deny this. therefore, it's neutral.
+"
+개인적으로 어린이보다 어른에게 더 추천하고싶은 영화입니다.,어른들도 보기를 권합니다.,"entailment
+"
+개인적으로 점수 주는것 자체가 아깝다.,점수 주는것 자체가 아깝다는 것은 내 생각이 아니다.,"neutral
+
+**explanation:**
+
+* **premise:** ""개인적으로 점수 주는것 자체가 아깝다."" translates to ""personally, giving scores itself is a waste/a shame."" this expresses a personal opinion.
+* **hypothesis:** ""점수 주는것 자체가 아깝다는 것은 내 생각이 아니다."" translates to ""the fact that giving scores itself is a waste/a shame is not my opinion.""
+
+the hypothesis simply states that the premise is *not* the speaker's opinion. this doesn't contradict or entail the premise. it's a statement about the origin of the premise, not about the truth or falsity of the sentiment itself.  therefore, the relationship is neutral.
+"
+개인적으로 점수 주는것 자체가 아깝다.,다른 이들도 점수 주는것 자체가 아깝다고 생각한다.,"neutral
+"
+개인적으로 점수 주는것 자체가 아깝다.,점수 주는것 자체가 아깝다는 것은 개인적인 생각이다.,"entailment
+"
+"개정안은 먼저, 다주택자 판단기준인 1세대의 범위를 규정했다.","개정안은 먼저, 다주택자 판단기준인 2세대의 범위를 규정했다.","neutral
+"
+"개정안은 먼저, 다주택자 판단기준인 1세대의 범위를 규정했다.",국토부에서는 다주택자 판단기준인 1세대의 범위를 규정했다.,"entailment
+"
+"개정안은 먼저, 다주택자 판단기준인 1세대의 범위를 규정했다.","개정안은 우선, 다주택자 근거기준인 1세대의 범위를 정했다.","entailment
+"
+거실이나 주방을 이용하기가 애매했어요.,거실을 이용하기가 애매했어요.,"entailment
+"
+거실이나 주방을 이용하기가 애매했어요.,주방을 이용하기 편리했어요.,"contradiction
+"
+거실이나 주방을 이용하기가 애매했어요.,거실과 주방만 이용하기 애매했어요.,"neutral
+"
+"거의 1년 전, 캘리포니아 샌 버너디노에서의 대학살 사건 이후, 트럼프는 아마도 그에게 가장 극적일 수 있을 제안을 공표하였다.",캘리포니아 샌 버너디노에서의 대학살 사건은 5년 전에 발생했다.,"contradiction
+"
+"거의 1년 전, 캘리포니아 샌 버너디노에서의 대학살 사건 이후, 트럼프는 아마도 그에게 가장 극적일 수 있을 제안을 공표하였다.",트럼프는 캘리포니아 샌 버너디노에서의 대학살 사건을 방송을 통해 보았다.,"neutral
+
+**reasoning:**
+
+the premise states that trump made a proposal *after* the san bernardino massacre. it doesn't say *how* trump learned about the event. he could have heard about it from news reports, other people, or even seen it on tv, but the premise doesn't confirm that he *did* see it on television.  therefore, the premise is neutral towards the hypothesis.
+"
+"거의 1년 전, 캘리포니아 샌 버너디노에서의 대학살 사건 이후, 트럼프는 아마도 그에게 가장 극적일 수 있을 제안을 공표하였다.",트럼프는 그에게 가장 극적일 수 있을 제안을 공표하였다.,"entailment
+"
+거인 스림이 토르의 망치 묠니르를 훔쳐 간 뒤 돌려받고 싶으면 프레이야를 자기 신부감으로 내놓으라고 요구한다.,토르는 거인 스립의 망치 묠니르를 훔쳐간다.,"contradiction
+"
+거인 스림이 토르의 망치 묠니르를 훔쳐 간 뒤 돌려받고 싶으면 프레이야를 자기 신부감으로 내놓으라고 요구한다.,거인 스림은 토르의 망치는 훔쳐간다.,"entailment
+"
+거인 스림이 토르의 망치 묠니르를 훔쳐 간 뒤 돌려받고 싶으면 프레이야를 자기 신부감으로 내놓으라고 요구한다.,프레이야는 거인 스림의 신부가 되는 것을 거부한다.,"neutral
+"
+거주하는 동안 불편함없이 잘 지냈습니다,일주일동안 거주했습니다.,"neutral
+
+**explanation:**
+
+the premise ""거주하는 동안 불편함없이 잘 지냈습니다"" means ""i lived comfortably without any inconvenience during my stay.""
+
+the hypothesis ""일주일동안 거주했습니다"" means ""i stayed for a week.""
+
+the premise doesn't *necessarily* imply a one-week stay.  one could have stayed for a shorter or longer duration and still experienced a comfortable stay.  therefore, the premise is neutral towards the hypothesis.
+"
+거주하는 동안 불편함없이 잘 지냈습니다,불편한 점들이 많았습니다.,"contradiction
+"
+거주하는 동안 불편함없이 잘 지냈습니다,거주 기간 동안 불편 없이 잘 지냈습니다.,"entailment 
+
+**explanation:**
+
+the premise ""거주하는 동안 불편함없이 잘 지냈습니다"" translates to ""i lived comfortably without any inconvenience during my residency.""
+
+the hypothesis ""거주 기간 동안 불편 없이 잘 지냈습니다"" translates to ""i lived comfortably without any inconvenience during the residency period.""
+
+the hypothesis is simply a restatement of the premise, using slightly different wording (""거주 기간"" vs. ""거주하는 동안""). therefore, the premise logically entails the hypothesis.  the hypothesis is a more specific form of the information given in the premise.
+"
+건물자체는 낡았고 오래된 유럽 건물입니다.,건물은 유럽 최신식 건물입니다.,"contradiction
+"
+건물자체는 낡았고 오래된 유럽 건물입니다.,건물 자체는 낡았지만 올드한 매력이 있습니다.,"neutral
+"
+건물자체는 낡았고 오래된 유럽 건물입니다.,건물은 유럽 건물입니다.,"entailment 
+
+**explanation:**
+
+the premise states that the building is old and an old european building. the hypothesis states that the building is a european building. since the premise explicitly states the building *is* a european building, the premise entails the hypothesis.
+"
+걸작은 아니나 비디오용으로는 아주 훌륭한 작품입니다.,비디오용으로는 망했지만 걸작에 속합니다.,"contradiction
+"
+걸작은 아니나 비디오용으로는 아주 훌륭한 작품입니다.,비디오용으로 아주 훌륭한 작품은 보통 걸작입니다.,"contradiction
+
+**explanation:**
+
+the premise states the work is *not* a masterpiece, but excellent *for video*. the hypothesis states that anything excellent *for video* *must* be a masterpiece. these statements are contradictory. the premise provides a specific case where something is excellent for video but not a masterpiece, directly opposing the hypothesis's universal claim.
+"
+걸작은 아니나 비디오용으로는 아주 훌륭한 작품입니다.,걸작은 아니지만 비디오용으로 아주 우수한 작품입니다.,"entailment
+"
+게임이 자동으로 라이브러리에 등록된다.,음악도 자동으로 라이브러리에 등록된다.,"neutral
+"
+게임이 자동으로 라이브러리에 등록된다.,자동으로 게임이 라이브러리에 등록된다.,"entailment
+"
+게임이 자동으로 라이브러리에 등록된다.,게임을 라이브러리에 직접 등록해야 한다.,"contradiction
+"
+겨드랑이나 땀이 나는 부위에 향수를 뿌리면 땀과 섞여 그야말로 최악의 향이 날 수 있으니 조심해야 한다.,될 수 있으면 씻고 나서 향수를 뿌려야 한다.,"entailment
+"
+겨드랑이나 땀이 나는 부위에 향수를 뿌리면 땀과 섞여 그야말로 최악의 향이 날 수 있으니 조심해야 한다.,땀이 나는 부위에 향수를 뿌리는 것은 조심해야 한다.,"entailment
+"
+겨드랑이나 땀이 나는 부위에 향수를 뿌리면 땀과 섞여 그야말로 최악의 향이 날 수 있으니 조심해야 한다.,반드시 땀이 나는 부위에 향수를 뿌려야 한다.,"neutral
+"
+겨울잠은 많은 동물이 겨울 동안 추위와 먹이 부족을 피할 수 있는 메커니즘이다.,많은 동물들이 추위와 먹이 부족을 겨울잠을 통해 피할 수 있다.,"entailment
+"
+겨울잠은 많은 동물이 겨울 동안 추위와 먹이 부족을 피할 수 있는 메커니즘이다.,대부분의 동물들이 늦은 가을에 겨울잠에 들어 초봄에 깨어난다.,"neutral
+"
+겨울잠은 많은 동물이 겨울 동안 추위와 먹이 부족을 피할 수 있는 메커니즘이다.,많은 동물들은 겨울잠 때문에 추위와 먹이 부족에 시달린다.,"contradiction
+"
+결국 아버지가 사령관의 허락을 받은 서류를 제시하여 도스는 무기 없이 의무병으로 전투에 참여하게 된다.,모든 의무병들은 무기 없이 전투에 참여한다.,"neutral
+
+**explanation:**
+
+the premise states that *dos* became a medic *without* weapons because his father presented authorization. this only tells us about *dos*' situation. it doesn't provide any information about *all* medics.  therefore, we cannot conclude that the hypothesis (all medics participate without weapons) is either entailed or contradicted by the premise. it's neutral.
+"
+결국 아버지가 사령관의 허락을 받은 서류를 제시하여 도스는 무기 없이 의무병으로 전투에 참여하게 된다.,도스는 전투에 의무병으로 참전하게 된다.,"entailment
+"
+결국 아버지가 사령관의 허락을 받은 서류를 제시하여 도스는 무기 없이 의무병으로 전투에 참여하게 된다.,도스는 무기를 챙겨 전투에 참여하게 된다.,"contradiction
+"
+결국 이 모든 일들이 여주의 상상이라는 걸로 끝나야 말이되지.,모든 일들이 여주의 상상이라는 걸로 끝나는 건 말이 안된다.,"contradiction
+"
+결국 이 모든 일들이 여주의 상상이라는 걸로 끝나야 말이되지.,결국 엔딩은 모든 일들이 실제 일어난 일이라는 것이었다.,"contradiction
+"
+결국 이 모든 일들이 여주의 상상이라는 걸로 끝나야 말이되지.,말이 될려면 모든 일들이 여주의 상상이라는 걸로 끝나야 한다.,"entailment
+
+**explanation:**
+
+the hypothesis states a necessary condition: ""for it to make sense, all these things must end with the female lead's imagination.""
+
+the premise directly states the same: ""ultimately, it has to end with the female lead's imagination for all of this to make sense.""
+
+therefore, if the premise is true, the hypothesis *must* also be true. this is a clear case of entailment.
+"
+결말을 보니 아무래도 이 영화는 2부가 계획된 듯 합니다.,아무래도 2부는 제작되지 않을 듯 합니다.,"contradiction
+"
+결말을 보니 아무래도 이 영화는 2부가 계획된 듯 합니다.,시청자들의 반응이 좋아 2부가 계획된 듯 합니다.,"neutral
+
+**explanation:**
+
+* **premise:** ""judging by the ending, it seems like this movie was planned to have a sequel."" (결말을 보니 아무래도 이 영화는 2부가 계획된 듯 합니다.)  this statement expresses an *inference* based on the ending of the film. it doesn't explicitly state *why* a sequel might be planned.
+
+* **hypothesis:** ""it seems like a sequel was planned because audience reactions were good."" (시청자들의 반응이 좋아 2부가 계획된 듯 합니다.) this hypothesis provides a *reason* for the potential sequel.
+
+the premise doesn't confirm or deny the reason given in the hypothesis. it simply states that the ending suggests a sequel. therefore, the premise is **neutral** towards the hypothesis. the hypothesis adds information that isn't present in the premise.
+"
+결말을 보니 아무래도 이 영화는 2부가 계획된 듯 합니다.,결말을 보니 2부가 예정된 듯 합니다.,"entailment
+"
+경기 파주시는 민선7기 공약사항 추진을 위한 사업비로 행정안전부 특별교부세 16억원을 확보했다.,경기 파주시는 민선7기 공약을 위해 20억 원의 예산을 확보하였다.,"neutral
+
+**explanation:**
+
+the premise states that paju city secured 1.6 billion won in special grant funds from the ministry of interior and safety for projects related to the implementation of its local election campaign promises ( 민선7기 공약사항 추진).
+
+the hypothesis states that paju city secured 2 billion won in budget for its local election campaign promises ( 민선7기 공약을 위해 20억 원의 예산을 확보하였다).
+
+the premise doesn't explicitly confirm or deny the 2 billion won figure mentioned in the hypothesis. it only states 1.6 billion won was secured. therefore, we can't definitively say the premise entails or contradicts the hypothesis. it's neutral.
+"
+경기 파주시는 민선7기 공약사항 추진을 위한 사업비로 행정안전부 특별교부세 16억원을 확보했다.,16억원의 예산은 경기 파주시가 공약사항을 추진하기에 적당한 금액이다.,"neutral
+"
+경기 파주시는 민선7기 공약사항 추진을 위한 사업비로 행정안전부 특별교부세 16억원을 확보했다.,경기 파주시는 민선7기 공약을 위해 16억원의 예산을 확보하였다.,"entailment
+"
+경기가 끝난 후 그는 그라운드에 내려와 선수들과 승리를 만끽했다.,그는 혼자서만 승리를 만끽했다.,"contradiction 
+
+**explanation:**
+
+the premise states he came off the field *and* celebrated the victory *with* the players. this directly contradicts the hypothesis which states he celebrated *alone*. therefore, the premise and hypothesis are contradictory.
+"
+경기가 끝난 후 그는 그라운드에 내려와 선수들과 승리를 만끽했다.,그는 현역선수이다.,"neutral
+"
+경기가 끝난 후 그는 그라운드에 내려와 선수들과 승리를 만끽했다.,그는 경기에서 이긴 것을 기뻐했다.,"entailment 
+
+**explanation:**
+
+the premise states that he came off the field after the game and celebrated the victory with the players.  celebrating a victory *implies* that he was happy about winning. therefore, the premise entails the hypothesis.
+"
+경기도는 올해 상반기 시운전과 국토교통부의 승인을 받은 뒤 6월 27일에 하남 연장 1단계 구간을 개통할 예정이었다.,경기도는 8월 30일에 하남 연장 1단계 구간을 개통할 예정이었다.,"neutral
+
+**explanation:**
+
+the premise states the planned opening date was june 27th. the hypothesis states a different opening date, august 30th. these are not mutually exclusive; the premise doesn't rule out the possibility of a change in plans. therefore, the premise is neutral towards the hypothesis.
+"
+경기도는 올해 상반기 시운전과 국토교통부의 승인을 받은 뒤 6월 27일에 하남 연장 1단계 구간을 개통할 예정이었다.,하남 연장 1단계 구간의 개통이 공사 지연으로 미뤄졌다.,"neutral
+"
+경기도는 올해 상반기 시운전과 국토교통부의 승인을 받은 뒤 6월 27일에 하남 연장 1단계 구간을 개통할 예정이었다.,경기도는 국토교통부의 승인 후 하남 연장 1단계 구간을 개통할 예정이었다.,"entailment
+"
+경기에서 대한민국은 구자철과 지동원의 활약에 힘입어 주도권을 잡았으나 이후 게인리흐에게 두 골을 내줬다.,구자철은 부상으로 경기에 참여하지 못했다.,"contradiction
+"
+경기에서 대한민국은 구자철과 지동원의 활약에 힘입어 주도권을 잡았으나 이후 게인리흐에게 두 골을 내줬다.,경기에서 대한민국은 3:2로 승리했다.,"neutral
+
+**explanation:**
+
+the premise states that korea took the lead but conceded two goals to gainrich. this doesn't provide enough information to definitively conclude that korea won the game 3-2. it's possible they lost, drew, or even won by a different score. therefore, the premise is neutral towards the hypothesis.
+"
+경기에서 대한민국은 구자철과 지동원의 활약에 힘입어 주도권을 잡았으나 이후 게인리흐에게 두 골을 내줬다.,경기에서 게인리흐가두 골을 따냈다.,"entailment
+"
+경북 동해안은 아침 한때 비가 오겠다.,경북 동해안 아침에 내리는 비는 오후까지 지속될 예정이다.,"neutral
+
+**explanation:**
+
+the premise states that it will rain for a *short period* in the morning. the hypothesis states the rain will continue *until the afternoon*. the premise doesn't provide information to confirm or deny whether the morning rain will extend into the afternoon. therefore, the premise is neutral towards the hypothesis.
+"
+경북 동해안은 아침 한때 비가 오겠다.,경북 동해안의 아침에 많은 비가 내릴 예정이다.,"neutral
+
+**explanation:**
+
+* **premise:** 경북 동해안은 아침 한때 비가 오겠다. (gyeongbuk donghae coast will have rain for a while in the morning.) - this states that rain *will* happen, but doesn't specify *how much* rain.
+* **hypothesis:** 경북 동해안의 아침에 많은 비가 내릴 예정이다. (there is a forecast of heavy rain in the morning on the gyeongbuk donghae coast.) - this states that there will be *heavy* rain.
+
+the premise only says rain will occur for a while.  it doesn't provide information about the intensity of the rain. therefore, the premise doesn't guarantee, eliminate, or confirm the hypothesis. it's neutral.
+"
+경북 동해안은 아침 한때 비가 오겠다.,경북 동해안은 아침에 잠깐 비가 오겠다.,"entailment
+"
+경제를 같이 잘 살려보자는 취지로 시작된 정책이니만큼 일본당국도 빠르게 잘 지급하도록 노력해야 한다.,일본당국은 빨리 잘 지급하도록 하는 노력이 필요하다.,"entailment 
+
+**explanation:**
+
+the premise states that the policy was started with the intention of ""letting the economy prosper together,"" and therefore, the japanese authorities should ""try hard to pay quickly and well."" the hypothesis simply states that the japanese authorities need to ""try hard to pay quickly and well."" 
+
+since the premise explicitly suggests the need for effort on the part of the japanese authorities to achieve quick and proper payment (as a consequence of the policy's goals), the hypothesis is a logical consequence of the premise.  therefore, the premise entails the hypothesis.
+"
+경제를 같이 잘 살려보자는 취지로 시작된 정책이니만큼 일본당국도 빠르게 잘 지급하도록 노력해야 한다.,정책은 같이 환경을 잘 살려보자는 취지로 시작되었다.,"contradiction
+"
+경제를 같이 잘 살려보자는 취지로 시작된 정책이니만큼 일본당국도 빠르게 잘 지급하도록 노력해야 한다.,일본당국은 이전에 전혀 지급하지 않고 있었다.,"contradiction
+"
+"경찰 조사 결과, 박군은 전날 오후부터 친구들과 함께 렌터카를 타고 다니다 사고를 낸 것으로 전해졌다.",박 군은 전날 오전에 렌터카를 타고 다녔다.,"neutral
+"
+"경찰 조사 결과, 박군은 전날 오후부터 친구들과 함께 렌터카를 타고 다니다 사고를 낸 것으로 전해졌다.",박 군은 렌터카를 타고 인천 소래포구를 가던 길에 사고를 냈다.,"neutral
+
+**explanation:**
+
+the premise states that park-gun was in a rental car with friends and had an accident. the hypothesis specifies *where* the accident occurred (sorae port in incheon) and *where* they were going (sorae port).
+
+while the hypothesis *could* be true given the premise, the premise doesn't explicitly state that the accident happened at sorae port or that they were going there. it's possible they were going somewhere else. therefore, the premise is neutral towards the hypothesis.
+"
+"경찰 조사 결과, 박군은 전날 오후부터 친구들과 함께 렌터카를 타고 다니다 사고를 낸 것으로 전해졌다.",박군은 렌터카를 혼자 타고 있지 않았다.,"entailment
+"
+경찰에 의하면 서울대 방향 2차선으로 주행하고 있던 시내버스가 남씨를 발견하지 못하고 친것으로 보고 있다.,시내버스가 미리 남씨를 발견해서 사고를 막을 수 있었다.,"contradiction
+"
+경찰에 의하면 서울대 방향 2차선으로 주행하고 있던 시내버스가 남씨를 발견하지 못하고 친것으로 보고 있다.,시내버스에 치인 남씨는 생명이 위태로운 상태로 전해졌다.,"entailment
+
+**explanation:**
+
+the premise states that the police believe a city bus hit nam and didn't see him.  the hypothesis states that nam is in critical condition after being hit.  it's a very likely and logical consequence of being hit by a vehicle, especially given the context. while not explicitly stated, the premise strongly implies the hypothesis is true.  therefore, the premise entails the hypothesis.
+"
+경찰에 의하면 서울대 방향 2차선으로 주행하고 있던 시내버스가 남씨를 발견하지 못하고 친것으로 보고 있다.,시내버스는 서울대 방향 2차선으로 주행하고 있었다.,"entailment
+"
+"경찰은 고의성은 없는 것으로 판단하여, 이들을 업무방해 혐의로 입건할 것인가에 대한 여부를 검토하고 있다고 밝혔다.",경찰은 이들이 다분히 고의성을 가지고 있다고 판단했다.,"contradiction
+"
+"경찰은 고의성은 없는 것으로 판단하여, 이들을 업무방해 혐의로 입건할 것인가에 대한 여부를 검토하고 있다고 밝혔다.",이들이 업무방해 혐의로 입건될 확률은 낮아보인다.,"neutral
+"
+"경찰은 고의성은 없는 것으로 판단하여, 이들을 업무방해 혐의로 입건할 것인가에 대한 여부를 검토하고 있다고 밝혔다.",경찰은 이들을 업무방해 혐의로 입건할 것인가를 검토하고 있다.,"entailment
+"
+경찰은 김 모 스스로가 십자가의 목재를 구매하고 설계도를 작성한 것으로 보아 단독 자살로 판단하고 국립과학수사연구원에 부검을 의뢰하였다.,김 모씨는 십자가에 박힌 채 과다출혈로 사망했다.,"entailment
+
+**explanation:**
+
+the premise states that the police believe kim mo died by suicide and requested an autopsy.  the hypothesis describes a plausible cause of death consistent with suicide (death from excessive bleeding after being nailed to a cross).  while the premise doesn't *explicitly* state the cause of death, the fact that they are investigating a potential suicide and requesting an autopsy to determine the cause strongly suggests a scenario where someone could have self-inflicted a fatal wound.  therefore, the hypothesis is a likely and reasonable outcome implied by the premise.
+"
+경찰은 김 모 스스로가 십자가의 목재를 구매하고 설계도를 작성한 것으로 보아 단독 자살로 판단하고 국립과학수사연구원에 부검을 의뢰하였다.,경찰은 김 모씨가 스스로 목숨을 끊은것으로 생각했다.,"entailment 
+
+**explanation:**
+
+the premise states that the police believe kim mo committed suicide (""단독 자살로 판단하고"" - judged as a single suicide). the hypothesis states that the police thought kim mo ended his own life (""김 모씨가 스스로 목숨을 끊은것으로 생각했다"" - thought kim mo ended his own life).  since the premise directly supports the hypothesis, it's an entailment.
+"
+경찰은 김 모 스스로가 십자가의 목재를 구매하고 설계도를 작성한 것으로 보아 단독 자살로 판단하고 국립과학수사연구원에 부검을 의뢰하였다.,김 모씨의 죽음은 계획적인 타살이라 경찰은 생각했다.,"contradiction
+"
+경찰은 당초 남영동 대공분실 부지를 민주인권기념관으로 전환하고 경찰청 시설은 구 방사청 부지로 이전할 예정이었다.,경찰은 당초 남영동 대공부실 부지를 경찰정으로 전환할 예정이었다.,"contradiction
+"
+경찰은 당초 남영동 대공분실 부지를 민주인권기념관으로 전환하고 경찰청 시설은 구 방사청 부지로 이전할 예정이었다.,당초 경찰은 구 방사청 부지로 경찰청 시설을 이전할 예정이었다.,"entailment
+"
+경찰은 당초 남영동 대공분실 부지를 민주인권기념관으로 전환하고 경찰청 시설은 구 방사청 부지로 이전할 예정이었다.,경찰은 당초 계획과는 달리 구 방사청 부지를 민주인권기념관으로 전환하기로 했다.,"contradiction
+
+**explanation:**
+
+* **premise:** states the initial plan was to convert the namyeong-dong site into the democracy and human rights memorial hall, and move police facilities to the old national radiation protection agency (nra) site.
+* **hypothesis:** states that the police decided to convert the old nra site into the democracy and human rights memorial hall, *contrary to the original plan*.
+
+since the hypothesis directly states a change *from* the original plan described in the premise, it contradicts the premise.
+"
+경찰의 경우 수사권 조정 및 국정원의 대공수사권 이관 후 안보수사처를 신설하여 수사의 전문성과 책임성을 고양한다.,안보수사처 외에도 신설 고려 중인 부서가 있다.,"neutral
+"
+경찰의 경우 수사권 조정 및 국정원의 대공수사권 이관 후 안보수사처를 신설하여 수사의 전문성과 책임성을 고양한다.,안보수사처를 통해 수사의 전문성과 책임성을 기른다.,"entailment
+"
+경찰의 경우 수사권 조정 및 국정원의 대공수사권 이관 후 안보수사처를 신설하여 수사의 전문성과 책임성을 고양한다.,경찰에 안보수사처가 이미 있다.,"contradiction
+
+**explanation:**
+
+the premise states that a new national security agency (안보수사처) will be *established* (신설) *after* the adjustment of investigative powers and the transfer of counterintelligence investigative powers from the national intelligence service (국정원). the hypothesis claims that the national security agency *already exists* (이미 있다).  these two statements are contradictory; the premise describes the *creation* of the agency, not its pre-existence.
+"
+계속 페달을 밟는 한 넘어질 염려는 없다,페달을 계속 밟으면 무게 중심이 유지된다.,"neutral
+
+**explanation:**
+
+* **premise:** ""as long as you keep pedaling, there's no risk of falling.""  this implies that pedaling provides stability.
+* **hypothesis:** ""if you keep pedaling, your center of gravity is maintained."" this states a *reason* *why* pedaling prevents falling – maintaining the center of gravity.
+
+the premise doesn't *guarantee* the hypothesis is true, nor does it directly contradict it.  while maintaining center of gravity *can* help prevent falls when pedaling, there could be other factors (uneven terrain, sudden obstacles, etc.) that could still cause a fall even with continuous pedaling.  
+
+therefore, the premise and hypothesis are **neutral** towards each other. the hypothesis is a possible *mechanism* for the premise to be true, but the premise doesn't necessitate the hypothesis.
+"
+계속 페달을 밟는 한 넘어질 염려는 없다,계속 페달을 밟아야 넘어지지 않을 수 있다.,"entailment 
+
+**explanation:**
+
+* **premise:** ""as long as you keep pedaling, there is no risk of falling."" (계속 페달을 밟는 한 넘어질 염려는 없다)
+* **hypothesis:** ""you can avoid falling by continuing to pedal."" (계속 페달을 밟아야 넘어지지 않을 수 있다)
+
+the premise directly states that continuing to pedal prevents falling. the hypothesis states that continuing to pedal *allows* for avoiding falling.  the hypothesis is a weaker, but logically valid, version of the premise. therefore, the premise entails the hypothesis.
+"
+계속 페달을 밟는 한 넘어질 염려는 없다,계속 페달을 밟으면 넘어지게 된다.,"contradiction
+"
+고 최종근 하사 아버지는 영결식이 열리는 동안 고개를 숙이며 차분히 앉아 있었다.,최종근 하사는 아버지의 영결식에 참석하였다.,"entailment
+"
+고 최종근 하사 아버지는 영결식이 열리는 동안 고개를 숙이며 차분히 앉아 있었다.,고 최종근 하사의 아버지는 67살이다.,"neutral
+"
+고 최종근 하사 아버지는 영결식이 열리는 동안 고개를 숙이며 차분히 앉아 있었다.,최종근 하사는 사망하였다.,"entailment
+
+**explanation:**
+
+the premise states that the father of the deceased, go choieung, was sitting calmly with his head bowed *during the funeral service*.  funerals are held *after* a person's death. therefore, the premise directly implies that go choieung has died.  thus, the hypothesis (that go choieung died) is entailed by the premise.
+"
+"고영근은 대한제국 시절 독립협회와 만민공동회의 회장을 지냈고, 명성황후 시해의 주범인 우범선을 암살한 대한제국의 무관이다.",고영근은 대한제국 시절 독립협회의 초대 회장을 지냈다.,"entailment
+"
+"고영근은 대한제국 시절 독립협회와 만민공동회의 회장을 지냈고, 명성황후 시해의 주범인 우범선을 암살한 대한제국의 무관이다.",우범선은 명성황후 시해 주범이다.,"entailment
+"
+"고영근은 대한제국 시절 독립협회와 만민공동회의 회장을 지냈고, 명성황후 시해의 주범인 우범선을 암살한 대한제국의 무관이다.",고영근은 조선시대의 무관이다.,"neutral
+"
+"고용보험에 가입한 예술인들은 실직 시 실업급여, 출산 시 출산전후 급여를 지급받는다.",고용보험에 가입한 예술인은 고용보험에 가입한 일반 직장인과 같은 급여를 지급받는다.,"neutral
+
+**explanation:**
+
+the premise states that insured artists receive unemployment benefits upon job loss and maternity benefits upon childbirth. the hypothesis claims they receive the *same* benefits as regular employees. 
+
+the premise doesn't specify that the benefits are identical. it only states they *receive* benefits. it's possible the amounts or types of benefits differ between artists and regular employees. therefore, the premise doesn't guarantee or deny the hypothesis.  it's neutral.
+"
+"고용보험에 가입한 예술인들은 실직 시 실업급여, 출산 시 출산전후 급여를 지급받는다.",예술인들은 고용보험에 가입 가능하다.,"entailment
+"
+"고용보험에 가입한 예술인들은 실직 시 실업급여, 출산 시 출산전후 급여를 지급받는다.",예술인은 고용보험에 가입하지 않아도 실직 시 실업급여를 지급받는다.,"contradiction
+"
+"고운 모래가 깔린 넓은 백사장과 울창한 송림, 해안절벽이 절경을 이루고 있다.",모래가 거칠다.,"contradiction
+"
+"고운 모래가 깔린 넓은 백사장과 울창한 송림, 해안절벽이 절경을 이루고 있다.",백사장이 넓다.,"entailment
+"
+"고운 모래가 깔린 넓은 백사장과 울창한 송림, 해안절벽이 절경을 이루고 있다.",해안절벽이 높다.,"neutral
+
+**explanation:**
+
+the premise states that the coastal cliffs are part of a beautiful landscape alongside other features like wide sandy beaches and pine forests. it *doesn't* specify the height of the cliffs. while high cliffs *could* contribute to a beautiful landscape, the premise doesn't guarantee it.  the cliffs could be low, but still be part of the scenery. therefore, the premise is neutral with respect to the hypothesis.
+"
+고유정 남편의 전부인이 스스로 목숨을 끊은 탓에 의붓아들은 제주에서 할머니 손에 자라고 있었다.,고유정 남편의 전부인은 교통사고로 사망했다.,"neutral
+"
+고유정 남편의 전부인이 스스로 목숨을 끊은 탓에 의붓아들은 제주에서 할머니 손에 자라고 있었다.,고유정도 재혼이다.,"neutral
+
+**explanation:**
+
+the premise states that go yu-jeong's stepson grew up with his grandmother in jeju because go yu-jeong's husband's first wife died by suicide. this tells us about the family situation of go yu-jeong's stepson and her husband's past.
+
+the hypothesis claims that go yu-jeong has remarried.  the premise *doesn't* provide any information about go yu-jeong's marital status. it only describes her husband's previous marriage and the resulting family arrangement. therefore, we cannot conclude whether she has remarried or not.
+
+thus, the premise is neutral towards the hypothesis.
+"
+고유정 남편의 전부인이 스스로 목숨을 끊은 탓에 의붓아들은 제주에서 할머니 손에 자라고 있었다.,고유정은 결혼했다.,"entailment
+"
+고정된 틀 안에서의 변화는 밋밋할 뿐이다.,고정된 틀 안에서 변화하는 것은 색다르다.,"contradiction
+"
+고정된 틀 안에서의 변화는 밋밋할 뿐이다.,고정된 틀 안에서 변화하는 것은 밋밋하다.,"entailment
+"
+고정된 틀 안에서의 변화는 밋밋할 뿐이다.,고정된 틀 안에서 벗어날 줄 알아야 한다.,"contradiction
+"
+공공시설은 원칙적으로 운영이 중단된다.,공공시설은 원칙적으로 운영을 지속한다.,"contradiction
+"
+공공시설은 원칙적으로 운영이 중단된다.,원칙적으로 공공시설은 운영이 중단된다.,"entailment
+"
+공공시설은 원칙적으로 운영이 중단된다.,일부 공공시설은 예외적으로 운영을 지속한다.,"contradiction
+"
+공모에서 선정된 기업은 올 12월 말까지 채용한 청년에 대해 최대 6개월까지 인건비 등을 지원받을 수 있다.,공모에서 선정된 기업은 올 12월 말까지 승진한 청년에 대해 최대 6개월까지 인건비 등을 지원받을 수 있다.,"contradiction
+"
+공모에서 선정된 기업은 올 12월 말까지 채용한 청년에 대해 최대 6개월까지 인건비 등을 지원받을 수 있다.,공모에서 선정된 100개의 기업은 올 12월 말까지 채용한 청년에 대해 최대 6개월까지 인건비 등을 지원받을 수 있다.,"neutral
+"
+공모에서 선정된 기업은 올 12월 말까지 채용한 청년에 대해 최대 6개월까지 인건비 등을 지원받을 수 있다.,기업은 올 12월 말까지 채용한 청년에 대해 최대 6개월까지 인건비 등을 지원 받으려면 공모에 선정되어야 한다.,"entailment
+"
+공성전은 그냥 배경일뿐 중점은 묵가의 사상과 그것에 관한 인물들의 생각이다.,공성전이 중점이다.,"contradiction
+"
+공성전은 그냥 배경일뿐 중점은 묵가의 사상과 그것에 관한 인물들의 생각이다.,묵가의 사상에 반대하는 인물들의 생각이 중점이다.,"contradiction
+
+**explanation:**
+
+* **premise:** the siege is just the backdrop; the focus is on mohist philosophy and the thoughts of people *about* that philosophy.
+* **hypothesis:** the focus is on the thoughts of people *opposing* mohist philosophy.
+
+these statements are contradictory. the premise explicitly states the focus is on those *supporting* or engaging with mohist philosophy, while the hypothesis claims the focus is on those *opposing* it.  they cannot both be true given the premise. therefore, the premise contradicts the hypothesis.
+"
+공성전은 그냥 배경일뿐 중점은 묵가의 사상과 그것에 관한 인물들의 생각이다.,공성전이 중점이 아니다.,"entailment
+"
+공수처 출범에 앞서 개정이 필요한 15개 대통령령도 일괄개정했다.,개정이 필요한 15개 대통령령을 공수처 출범에 앞서 순차적으로 개정했다.,"neutral
+
+**explanation:**
+
+the premise states that all 15 presidential decrees needing revision were revised *before* the launch of the corruption investigation office for high-ranking officials (공수처). the hypothesis states that they were revised *sequentially* before the launch. 
+
+the premise doesn't explicitly mention *how* the revisions were done (sequentially or not). it only confirms the timing. therefore, the premise doesn't guarantee or deny the hypothesis. it's neutral.
+"
+공수처 출범에 앞서 개정이 필요한 15개 대통령령도 일괄개정했다.,대통령령은 원칙적으로는 순차적으로 개정해야 한다.,"neutral
+"
+공수처 출범에 앞서 개정이 필요한 15개 대통령령도 일괄개정했다.,15개 대통령령을 공수처 출범에 앞서 일괄 개정했다.,"entailment
+"
+공정거래위원장 임명은 국회 인준 과정을 거치지 않아도 되고 청문보고서 채택을 반드시 해야 하는 것도 아니다.,공정거래위원장 임명은 청문보고서 채택을 반드시 해야한다.,"contradiction
+"
+공정거래위원장 임명은 국회 인준 과정을 거치지 않아도 되고 청문보고서 채택을 반드시 해야 하는 것도 아니다.,공정거래위원장 임명은 대통령 단독으로 할 수 있다.,"entailment
+
+**explanation:**
+
+the premise states that the appointment of the fair trade commission chairperson doesn't *require* parliamentary approval or the adoption of a hearing report. the hypothesis states that the chairperson can be appointed *solely* by the president.
+
+if parliamentary approval and hearing report adoption aren't required, it logically follows that the president can make the appointment without them.  therefore, the premise *entails* the hypothesis.
+"
+공정거래위원장 임명은 국회 인준 과정을 거치지 않아도 되고 청문보고서 채택을 반드시 해야 하는 것도 아니다.,공정거래위원장 임명에 국회 인준 과정은 필수가 아니다.,"entailment
+"
+공주와 왕자가 부르던 그 아름다운 노래들이 생각난다,공주와 왕자가 부르던 추악한 노래들이 생각난다.,"contradiction
+"
+공주와 왕자가 부르던 그 아름다운 노래들이 생각난다,아름다운 노래들을 지금 부르고 싶다.,"neutral
+"
+공주와 왕자가 부르던 그 아름다운 노래들이 생각난다,공주와 왕자는 아름다운 노래를 불렀다.,"entailment
+"
+공항버스를 타는 곳도 매우 가깝습니다.,공항버스를 타는 곳이 너무 멉니다.,"contradiction
+"
+공항버스를 타는 곳도 매우 가깝습니다.,공항버스만 탈 수 있습니다.,"neutral
+
+**explanation:**
+
+the premise states that the location to take the airport bus is very close. the hypothesis states that *only* the airport bus can be taken.
+
+the premise doesn't say anything about *other* transportation options. it's possible there are other things to do near the location, or other transportation available, even if the airport bus stop is close.  therefore, the premise doesn't necessarily confirm or deny the hypothesis. it's neutral.
+"
+공항버스를 타는 곳도 매우 가깝습니다.,공항버스 타기에 편리합니다.,"entailment
+"
+과거는 과거에만 머물지 않고 현재에도 반복된다.,과거를 보면 미래를 알 수 있다.,"neutral
+
+**explanation:**
+
+the premise states that the past doesn't just stay in the past but repeats in the present. the hypothesis claims that understanding the past allows prediction of the future.
+
+while the premise *might* suggest a connection between past and future, it doesn't definitively mean that the past *determines* the future, or that we can *know* the future based on the past. the repetition in the present could be a cyclical pattern, but it doesn't guarantee predictability. therefore, the premise is neutral towards the hypothesis.
+"
+과거는 과거에만 머물지 않고 현재에도 반복된다.,과거는 현재에도 일어난다.,"entailment
+"
+과거는 과거에만 머물지 않고 현재에도 반복된다.,과거는 과거에만 머문다.,"contradiction
+"
+과반을 훨씬 넘는 비율로 택시를 대중교통으로 보기엔 무리가 있다는 생각이 나타나는 것이다.,택시를 대중교통으로 보기엔 무리가 있다는 생각은 반에 못미치는 비율로 나타난다.,"contradiction
+"
+과반을 훨씬 넘는 비율로 택시를 대중교통으로 보기엔 무리가 있다는 생각이 나타나는 것이다.,지하철을 대중교통으로 본다는 생각은 압도적으로 높은 비율이 나타났다.,"neutral
+
+**explanation:**
+
+the premise discusses the idea that it's unreasonable to consider taxis as public transportation because the majority doesn't agree. the hypothesis states that a very high percentage thinks of subway as public transportation. 
+
+these two statements discuss different modes of transportation and don't directly relate to each other.  one doesn't necessarily imply the other. therefore, the premise is neutral towards the hypothesis.
+"
+과반을 훨씬 넘는 비율로 택시를 대중교통으로 보기엔 무리가 있다는 생각이 나타나는 것이다.,대중교통으로 보기엔 무리가 있다는 생각이 나타나는 교통수단은 택시이다.,"entailment 
+
+**explanation:**
+
+the premise states that it's unreasonable to consider taxis as public transportation due to a majority opinion. the hypothesis directly states that taxis are the transportation method considered unreasonable as public transportation. therefore, the premise logically implies the hypothesis.
+"
+과장된 연기와 장황한 서술에 점점 지쳐만가는 여정,과장된 연기에도 불구하고 여정은 지쳐가고 있지 않다.,"contradiction
+"
+과장된 연기와 장황한 서술에 점점 지쳐만가는 여정,여정이 점점 지치는 건 과장된 연기와 장황한 서술 때문이다.,"entailment
+"
+과장된 연기와 장황한 서술에 점점 지쳐만가는 여정,과장된 연기와 장황한 서술은 걸작을 졸작으로 만들었다.,"entailment
+"
+관광지에서 약간멀기는 하지만 하룻밤정도 묵기에는 충분했습니다,관광지가 바로 앞에 위치하고 있었습니다.,"contradiction
+"
+관광지에서 약간멀기는 하지만 하룻밤정도 묵기에는 충분했습니다,관광지까지 도보로 이동할 수 있는 거리입니다.,"contradiction
+
+**explanation:**
+
+* **premise:** ""it was sufficient to stay for a night, although it was a little far from the tourist attractions.""  this implies the location is *not* within easy walking distance.
+* **hypothesis:** ""it is within walking distance to the tourist attractions.""
+
+since the premise explicitly states it's ""a little far,"" this directly contradicts the hypothesis. therefore, the relationship is a **contradiction**.
+"
+관광지에서 약간멀기는 하지만 하룻밤정도 묵기에는 충분했습니다,하룻밤정도 지내기에는 충분한 곳이었습니다.,"entailment
+"
+"관내 착한가게 235곳에서 6,685만원 상당을 후원했고, 착한 가정 34곳에서도 1,064만원 상당의 성금을 쾌척했다.",착한 가정에서는 성금이 아니라 현물을 쾌척했다.,"contradiction
+"
+"관내 착한가게 235곳에서 6,685만원 상당을 후원했고, 착한 가정 34곳에서도 1,064만원 상당의 성금을 쾌척했다.","착한가게 중 한 곳에서 1,000만원을 후원했다.","neutral
+
+**explanation:**
+
+the premise states the total amount donated by all ""good stores"" (착한가게) and ""good families."" the hypothesis specifies a donation amount from *one* particular ""good store.""  the premise doesn't provide enough information to determine if a single store donated 10 million won.  it's possible, but it's also possible that the donation was distributed among many stores. therefore, the premise is neutral towards the hypothesis.
+"
+"관내 착한가게 235곳에서 6,685만원 상당을 후원했고, 착한 가정 34곳에서도 1,064만원 상당의 성금을 쾌척했다.",총 269곳에서 후원했다.,"neutral
+
+**explanation:**
+
+the premise states two separate instances of donation: one from 235 stores and another from 34 families. the hypothesis states a total of 269 donations.  we don't have enough information to determine if the 269 donations are *only* from the mentioned stores and families, or if other entities contributed. therefore, the premise is neutral towards the hypothesis. it doesn't guarantee the hypothesis is true, nor does it definitively say it's false.
+"
+광양시농업기술센터는 8월 7일 진상면사무소 회의실에서 친환경재배와 관심 있는 농가 80명을 대상으로 품목별 농업인 상설교육을 실시했다고 밝혔다.,상설교육은 농가 70명만을 대상으로 실시되었다.,"contradiction
+"
+광양시농업기술센터는 8월 7일 진상면사무소 회의실에서 친환경재배와 관심 있는 농가 80명을 대상으로 품목별 농업인 상설교육을 실시했다고 밝혔다.,광양시농업기술센터 연구원이 상설교육을 진행하였다.,"neutral
+
+**explanation:**
+
+the premise states that the gwangyang city agricultural technology center conducted a permanent agricultural education session for 80 farmers interested in eco-friendly farming.  it doesn't specify *who* conducted the education. it could have been a researcher, an extension officer, or someone else.  therefore, we cannot definitively say the hypothesis is entailed or contradicted. it's neutral.
+"
+광양시농업기술센터는 8월 7일 진상면사무소 회의실에서 친환경재배와 관심 있는 농가 80명을 대상으로 품목별 농업인 상설교육을 실시했다고 밝혔다.,상설교육은 8월 7일에 진상면사무소에서 시행되었다.,"entailment
+"
+광주 서구가 6월부터 보건복지부 지역사회돌봄선도사업을 본격 시행한다.,보건복지부 지역사회돌봄선도사업은 5월부터 본격적으로 시행된다.,"neutral
+"
+광주 서구가 6월부터 보건복지부 지역사회돌봄선도사업을 본격 시행한다.,보건복지부 지역사회돌봄선도사업은 광주만 시행한다.,"contradiction
+"
+광주 서구가 6월부터 보건복지부 지역사회돌봄선도사업을 본격 시행한다.,광주 서구는 보건복지부 지역사회돌봄선도사업을 시행한다.,"entailment
+"
+광주광역시 해외시장개척단이 러시아와 독일 수출판로를 활짝 열었다.,광주광역시 해외시장개척단이 수출판로를 연 것은 독일 뿐이다.,"contradiction
+
+**explanation:**
+
+the premise states that the gwangju metropolitan city export promotion team opened export routes in both russia *and* germany. the hypothesis claims that the export routes were opened *only* in germany. since the premise explicitly mentions russia, it contradicts the hypothesis.
+"
+광주광역시 해외시장개척단이 러시아와 독일 수출판로를 활짝 열었다.,현재 독일 수출판로는 다시 막혔다.,"neutral
+
+**explanation:**
+
+the premise states that gwangju metropolitan city's export delegation successfully opened up export channels to russia and germany. the hypothesis states that germany's export channels are currently blocked again. 
+
+the premise doesn't provide any information about the *current* state of the german export channels. it only mentions that they were opened at some point in the past. the hypothesis refers to a *present* condition. therefore, we cannot definitively say that the premise entails or contradicts the hypothesis. it's neutral.
+"
+광주광역시 해외시장개척단이 러시아와 독일 수출판로를 활짝 열었다.,러시아와 독일 수출판로를 활짝 연 것은 광주광역시 해외시장개척단이다.,"entailment
+"
+광주광역시가 운영하는 안전체험관이 교육부가 주관하는 2019년 학교안전체험센터 지정 추가 공모사업에 선정돼 3억원의 특별교부금을 받게 됐다.,2019년 학교안전체험센터 지정 추가 공모사업에는 총 3개 사업이 선정되었다.,"neutral
+"
+광주광역시가 운영하는 안전체험관이 교육부가 주관하는 2019년 학교안전체험센터 지정 추가 공모사업에 선정돼 3억원의 특별교부금을 받게 됐다.,2019년 학교안전체험센터 지정축가 공모사업은 행정안전부가 주관한다.,"neutral
+"
+광주광역시가 운영하는 안전체험관이 교육부가 주관하는 2019년 학교안전체험센터 지정 추가 공모사업에 선정돼 3억원의 특별교부금을 받게 됐다.,광주광역시가 운영하는 안전체험관이 3억원의 특별교부금을 받게 됐다.,"entailment
+"
+광주전남에서 유일하게 진행되는 이 공연은 서울시와 강진군의 문화교류 사업으로 무료 초대권을 6월 20일부터 강진아트홀 매표소에서 배부한다.,이 공연은 서울시와 강진군에서 볼 수 있다.,"entailment
+"
+광주전남에서 유일하게 진행되는 이 공연은 서울시와 강진군의 문화교류 사업으로 무료 초대권을 6월 20일부터 강진아트홀 매표소에서 배부한다.,이 공연은 광주전남에서만 볼 수 있다.,"entailment
+"
+광주전남에서 유일하게 진행되는 이 공연은 서울시와 강진군의 문화교류 사업으로 무료 초대권을 6월 20일부터 강진아트홀 매표소에서 배부한다.,무료 초대권은 6월 20일부터 1주일간 배부한다.,"neutral
+
+**explanation:**
+
+the premise states that free tickets are distributed starting june 20th. however, it *doesn't* specify for how long the distribution will continue. the hypothesis claims the distribution lasts for a week. the premise doesn't confirm or deny this duration, making the relationship between them neutral.
+"
+교통이 편리하고 가격대비 좋은 숙소입니다.,시설에 비해 지나치게 가격이 비쌉니다.,"contradiction 
+
+**explanation:**
+
+* **premise:** the accommodation is conveniently located and offers good value for the price.
+* **hypothesis:** the accommodation is overpriced relative to its facilities.
+
+these two statements are contradictory. if the premise states good value, the hypothesis, which claims it's overpriced, directly opposes that. therefore, the premise contradicts the hypothesis.
+"
+교통이 편리하고 가격대비 좋은 숙소입니다.,가격 자체는 높습니다.,"contradiction
+
+**explanation:**
+
+the premise states the accommodation is ""good for the price"" (가격대비 좋습니다).  the hypothesis states that ""the price itself is high"" (가격 자체는 높습니다). these two statements are contradictory.  if something is good *for the price*, it implies the price isn't inherently high.
+"
+교통이 편리하고 가격대비 좋은 숙소입니다.,가성비가 좋은 숙소입니다.,"entailment
+"
+구구절절 설명하고 이해시키려는 노력이 큰 의미없이 다가온다.,대충 이해시키려는 노력이 큰 의미가 없다.,"neutral
+
+**explanation:**
+
+* **premise:**  the effort to explain and make something understandable in detail feels largely pointless. (구구절절 설명하고 이해시키려는 노력이 큰 의미없이 다가온다.)
+* **hypothesis:** the effort to explain something roughly (or superficially) is largely pointless. (대충 이해시키려는 노력이 큰 의미가 없다.)
+
+the premise focuses on *detailed* explanations being pointless. the hypothesis focuses on *brief* explanations being pointless. they aren't directly contradictory, nor does one necessarily follow from the other.  they are discussing different approaches to explanation and their perceived effectiveness. therefore, the relationship is neutral.
+"
+구구절절 설명하고 이해시키려는 노력이 큰 의미없이 다가온다.,설명하려는 내용이 복잡하다.,"neutral
+
+**explanation:**
+
+the premise states that the effort to explain and make something understandable feels pointless. this could be due to various reasons, including the content being complex, or it could be due to poor communication skills, a lack of interest from the audience, or other factors. 
+
+the hypothesis simply states that the content being explained is complex. while complexity *could* be the reason for the pointless effort mentioned in the premise, it's not the *only* possibility.  therefore, the premise doesn't definitively entail or contradict the hypothesis. it's neutral.
+"
+구구절절 설명하고 이해시키려는 노력이 큰 의미없이 다가온다.,자세히 설명하려는 노력이 별 의미 없다.,"entailment 
+
+**explanation:**
+
+the premise states that efforts to explain things in detail and make them understandable seem to be largely meaningless. the hypothesis states that efforts to explain in detail are pointless.  the hypothesis is a direct consequence of the sentiment expressed in the premise. if detailed explanation is meaningless, then efforts to explain detailedly are also pointless. therefore, the premise entails the hypothesis.
+"
+"구글맵 찍으면 버스타는곳, 시간 다 나와요.",구글맵에 버스 시간만 나와요.,"contradiction 
+
+**explanation:**
+
+* **premise:** google maps shows bus stops and all the times. (implies it shows more than just bus times)
+* **hypothesis:** google maps only shows bus times.
+
+the hypothesis restricts what google maps shows, while the premise states it shows *everything* related to bus travel (stops *and* times).  therefore, they are contradictory.
+"
+"구글맵 찍으면 버스타는곳, 시간 다 나와요.","버스타는곳, 시간은 구글 맵으로만 알 수 있어요.","contradiction
+"
+"구글맵 찍으면 버스타는곳, 시간 다 나와요.","구글맵으로 버스 타는곳, 시간 확인이 가능해요.","entailment
+"
+구로사와 아키라 타계 이후 일본 영화는 몰락했다.,일본 영화는 구로사와 아키라 타계 이후 전성기를 맞이했다.,"contradiction
+"
+구로사와 아키라 타계 이후 일본 영화는 몰락했다.,구로사와 아키라는 일본 영화의 전성기를 이끌었다.,"neutral
+
+**explanation:**
+
+the premise states that japanese cinema declined *after* akira kurosawa's death. the hypothesis states that kurosawa led the golden age of japanese cinema. 
+
+while kurosawa's influence *contributed* to a golden age, the premise doesn't directly confirm or deny the hypothesis. it only talks about a decline *after* his passing. it's possible the golden age happened *during* his lifetime. therefore, the premise and hypothesis are neutral towards each other.
+"
+구로사와 아키라 타계 이후 일본 영화는 몰락했다.,일본 영화는 구로사와 아키라 타계 이후 몰락했다.,"entailment
+"
+"구체적으로는 2024년까지 매출 1조 5000억원, 고용효과 4390명, 기업유치 174개사가 이뤄질 것으로 예상된다.",2024년까지 매출 10조 5000억원이 이뤄질 것으로 예상된다.,"contradiction
+"
+"구체적으로는 2024년까지 매출 1조 5000억원, 고용효과 4390명, 기업유치 174개사가 이뤄질 것으로 예상된다.",2022년까지는 매출 1조를 달성할 것으로 예상된다.,"neutral
+"
+"구체적으로는 2024년까지 매출 1조 5000억원, 고용효과 4390명, 기업유치 174개사가 이뤄질 것으로 예상된다.",2024년까지 174개 기업을 유치할 것으로 예상된다.,"entailment
+"
+"국가직도, 지방직도 아닌 애매한 조직 구조가 만들어진 탓에 지자체 예산투입이 더 소극적일 수 있다는 우려도 나오는 게 사실이다.",국가직과 지방직이 확실하면 지자체 예산투입은 훨씬 적극적이게 된다.,"neutral
+
+**explanation:**
+
+the premise expresses a *concern* that ambiguous organizational structures (neither national nor local) might lead to less active local government budget input. the hypothesis states that *if* there were clear national and local government distinctions, budget input would be *much* more active.
+
+the premise doesn't confirm or deny the hypothesis. it simply highlights a potential problem stemming from the ambiguity. the hypothesis presents a hypothetical scenario, but the premise doesn't provide information to either support or refute that hypothetical scenario. therefore, the relationship between the premise and hypothesis is neutral.
+"
+"국가직도, 지방직도 아닌 애매한 조직 구조가 만들어진 탓에 지자체 예산투입이 더 소극적일 수 있다는 우려도 나오는 게 사실이다.",지방직인지 국가직인지 모를 애매한 조직 구조가 만들어졌다.,"entailment 
+
+**explanation:**
+
+the premise explicitly states that there's concern about a vague organizational structure (neither national nor local) potentially leading to less proactive local government budget allocation.  the hypothesis directly states the existence of such a vague organizational structure. therefore, the premise *implies* the hypothesis is true; the premise provides a reason *why* such a structure might exist and what the consequence could be.  the premise doesn't contradict the hypothesis, and it's not neutral – it supports the hypothesis.
+"
+"국가직도, 지방직도 아닌 애매한 조직 구조가 만들어진 탓에 지자체 예산투입이 더 소극적일 수 있다는 우려도 나오는 게 사실이다.",지방직인지 국가직인지 확실하게 구분되는 조직 구조가 만들어졌다.,"contradiction
+"
+국내 가구업체가 해외 유명 건자재 기업과 독점 수입 계약을 체결한 것은 이번이 처음이다.,국내 가구업체가 해외 유명 건자재 기업과 독점 수입 계약을 체결한 것은 이번이 두번째이다.,"contradiction
+"
+국내 가구업체가 해외 유명 건자재 기업과 독점 수입 계약을 체결한 것은 이번이 처음이다.,국내 가구업체가 이번에 처음으로 해외 유명 건자재 기업과 독점 수입 계약을 체결했다.,"entailment
+"
+국내 가구업체가 해외 유명 건자재 기업과 독점 수입 계약을 체결한 것은 이번이 처음이다.,국내 가구업체는 해외 유명 건자재 기업과의 독점 수입 계약 체결을 위해 1년간 애썼다.,"neutral
+
+**explanation:**
+
+the premise states that the exclusive import agreement is a *first* for a domestic furniture company. the hypothesis states that the company spent *one year* trying to achieve this agreement. 
+
+the premise doesn't explicitly confirm or deny the effort involved. it's possible they spent a year, or it's possible they achieved it quickly. the premise only confirms the outcome (the agreement). therefore, the premise is neutral towards the hypothesis.
+"
+국방부는 한미 공동실무단의 검토 과정 및 양국 국방부 장관의 승인에 따라 사드 체계의 배치 부지로 경상북도 성주 지역이 결정되었다고 밝혔다.,사드는 2016년 8월 16부로 경상남도 성주에 배치된다.,"neutral
+
+**explanation:**
+
+the premise states that the south korean ministry of national defense announced that seongju, gyeongsangbuk-do, was designated as the deployment site for thaad *after* review by the korea-us joint working group and approval by the defense ministers of both countries. 
+
+the hypothesis specifies a date (august 16, 2016) and a province (gyeongsangnam-do) for the deployment.  the premise doesn't mention the date or province.  it only states seongju in gyeongsangbuk-do.
+
+therefore, the premise doesn't *entail* the hypothesis (it doesn't guarantee the hypothesis is true). it also doesn't *contradict* the hypothesis (it doesn't say the hypothesis is false). it's *neutral* because it provides information that could be consistent or inconsistent with the hypothesis.
+"
+국방부는 한미 공동실무단의 검토 과정 및 양국 국방부 장관의 승인에 따라 사드 체계의 배치 부지로 경상북도 성주 지역이 결정되었다고 밝혔다.,사드는 경상북도 성주에 배치될 예정이다.,"entailment
+"
+국방부는 한미 공동실무단의 검토 과정 및 양국 국방부 장관의 승인에 따라 사드 체계의 배치 부지로 경상북도 성주 지역이 결정되었다고 밝혔다.,사드 배치 위치는 경상남도 영천으로 결정되었다.,"contradiction
+"
+"국어학회는 한국어를 연구하는 대한민국 최초의 학회로, 1959년 11월 22일 창립되었다.",한국어를 연구하는 최초의 학회는 대한화학회이다.,"contradiction
+"
+"국어학회는 한국어를 연구하는 대한민국 최초의 학회로, 1959년 11월 22일 창립되었다.",한국어를 연구하는 한국 최초의 학회는 국어학회이다.,"entailment
+"
+"국어학회는 한국어를 연구하는 대한민국 최초의 학회로, 1959년 11월 22일 창립되었다.",국어학회는 매 달 정기모임을 갖는다.,"neutral
+"
+국제우주정거장지난 5월 30일 오후 3시 22분에 민간 기업에서 발사한 유인 우주선이 최초로 국제우주정거장에 성공적으로 도킹했다.,국제우주정거장에 성공적으로 도킹한 유인 우주선은 현재까지 없다.,"contradiction
+"
+국제우주정거장지난 5월 30일 오후 3시 22분에 민간 기업에서 발사한 유인 우주선이 최초로 국제우주정거장에 성공적으로 도킹했다.,지난 5월 30일 오후 3시 22분 민간 기업에서 발사한 유인 우주선은 국제우주정거장에 도킹하는데 성공했다.,"entailment
+"
+국제우주정거장지난 5월 30일 오후 3시 22분에 민간 기업에서 발사한 유인 우주선이 최초로 국제우주정거장에 성공적으로 도킹했다.,유인 우주선에는 3명의 우주비행사가 있었디.,"neutral
+
+**explanation:**
+
+the premise states that a manned spacecraft successfully docked with the international space station. it *doesn't* provide any information about the number of astronauts on board. therefore, the premise neither confirms nor denies the hypothesis. it's neutral.
+"
+국토부는 8월부터 현장에서 이용 가능할 것으로 예상하고 있다.,국토부의 예상보다 빨리 이용 가능해질 전망이다.,"neutral
+
+**explanation:**
+
+the premise states that the ministry of land, infrastructure and transport (국토부) *expects* availability from august. the hypothesis states that availability will happen *faster* than the ministry's expectation. 
+
+the premise doesn't explicitly confirm or deny the hypothesis. it just states an expectation. the hypothesis introduces the possibility of a change to that expectation. therefore, the premise is neutral towards the hypothesis.
+"
+국토부는 8월부터 현장에서 이용 가능할 것으로 예상하고 있다.,국토부는 현장에서 이용 가능할 시기는 8월부터일 것이라 예상하고 있다.,"entailment
+"
+국토부는 8월부터 현장에서 이용 가능할 것으로 예상하고 있다.,국토부는 적어도 8월이 끝날 때까지는 현장에서 이용이 불가능할 것으로 예상하고 있다.,"contradiction
+"
+"국회가 117일동안 처리한 법은 단 한건도 없고, 국조특위는 지난주에 전해드린대로 아무 성과 없이 끝났습니다.",국조특위는 지난주에 전해드린대로 뚜렷한 성과를 내고 끝났습니다.,"contradiction
+"
+"국회가 117일동안 처리한 법은 단 한건도 없고, 국조특위는 지난주에 전해드린대로 아무 성과 없이 끝났습니다.",국회는 117일 동안 여야의 힘싸움에 모든 시간을 보냈습니다.,"entailment 
+
+**explanation:**
+
+the premise states that the national assembly (국회) achieved no legislative success (처리한 법은 단 한건도 없고) and that the special committee (국조특위) concluded without results.  the hypothesis states that the national assembly spent its time on power struggles (여야의 힘싸움).
+
+if the national assembly spent all its time on power struggles, it's highly likely that no laws would be passed (entails the premise) and the special committee wouldn't achieve any results (entails the premise).  therefore, the premise logically supports the hypothesis.
+"
+"국회가 117일동안 처리한 법은 단 한건도 없고, 국조특위는 지난주에 전해드린대로 아무 성과 없이 끝났습니다.",국회는 117일 동안 한건의 법도 처리하지 않았습니다.,"entailment
+"
+"그 1등이 한순간의 방심으로 바뀔 수도 있고, 노력으로 조금씩 성장해 정신을 차려보니 바뀌어 있을 수도 있다.",1등은 방심보다는 노력으로 인해 바뀌는 경우가 더 많다.,"neutral
+
+**reasoning:**
+
+the premise states that the 1st place can change due to a moment of carelessness *or* through gradual growth resulting from effort. it doesn't specify which is more likely. the hypothesis asserts that change is *more often* due to effort than carelessness. 
+
+the premise allows for both possibilities without explicitly favoring one over the other. therefore, the premise neither entails nor contradicts the hypothesis; it's neutral.
+"
+"그 1등이 한순간의 방심으로 바뀔 수도 있고, 노력으로 조금씩 성장해 정신을 차려보니 바뀌어 있을 수도 있다.","1등을 바꾸는 것은 한순간의 방심일 수도, 시간이 걸린 노력의 결과일 수도 있다.","entailment
+"
+"그 1등이 한순간의 방심으로 바뀔 수도 있고, 노력으로 조금씩 성장해 정신을 차려보니 바뀌어 있을 수도 있다.",한순간 방심한다고 해서 1등이 바뀌지는 않는다.,"contradiction
+"
+"그 3분 후 스웨덴 루스티그가 두 번째 골을 성공시켰고, 후반 31분 요한 엘만데르의 왼발 슛이 골로 이어지며 한 골차까지 쫓아왔다.",요한 엘만데르의 슛으로 두 골 차이가 되었다.,"contradiction
+
+**explanation:**
+
+* **premise:** the premise states that sweden's rustig scored a second goal at 3 minutes, and johan elmander's left-footed shot at 31 minutes closed the gap to one goal.
+* **hypothesis:** the hypothesis states that johan elmander's shot resulted in a two-goal difference.
+
+since the premise explicitly says the score is *one* goal difference after elmander's shot, the hypothesis is *contradicted* by the premise.  elmander's shot did *not* make the score two goals.
+"
+"그 3분 후 스웨덴 루스티그가 두 번째 골을 성공시켰고, 후반 31분 요한 엘만데르의 왼발 슛이 골로 이어지며 한 골차까지 쫓아왔다.",스웨덴 루스티그가 총 세 골을 넣었다.,"contradiction
+
+**explanation:**
+
+the premise states that svenska lustig scored *two* goals. the hypothesis claims he scored *three* goals. therefore, the premise contradicts the hypothesis.
+"
+"그 3분 후 스웨덴 루스티그가 두 번째 골을 성공시켰고, 후반 31분 요한 엘만데르의 왼발 슛이 골로 이어지며 한 골차까지 쫓아왔다.",요한 엘만데르는 왼발로 골을 넣었다.,"entailment
+"
+"그 결과, 대선과 지선, 총선을 모두 압도적으로 승리해놓고 나서도 한국철도의 통합과 발전은 현재 우선순위에서 꽤 뒤로 밀려나 있다.",한국철도의 통합과 발전은 현재 1순위이다.,"contradiction
+"
+"그 결과, 대선과 지선, 총선을 모두 압도적으로 승리해놓고 나서도 한국철도의 통합과 발전은 현재 우선순위에서 꽤 뒤로 밀려나 있다.","대선과 지선, 총선을 모두 압도적으로 승리했다.","entailment 
+
+**explanation:**
+
+the premise states that despite overwhelmingly winning the presidential, gubernatorial, and general elections, the integration and development of korean railways is being pushed down the priority list. the hypothesis states that there was an overwhelming victory in all three elections.  
+
+the premise *implies* the victory stated in the hypothesis.  the fact that the railways are being deprioritized *despite* the victories means the victories must have happened.  therefore, the premise entails the hypothesis.
+"
+"그 결과, 대선과 지선, 총선을 모두 압도적으로 승리해놓고 나서도 한국철도의 통합과 발전은 현재 우선순위에서 꽤 뒤로 밀려나 있다.",한국철도의 통합은 이제 요원하다.,"entailment
+
+**explanation:**
+
+the premise states that despite overwhelming victories in presidential, gubernatorial, and general elections, the integration and development of korea railroad (ksr) is being pushed down the priority list. this implies that ksr integration is *not* happening and is therefore far off. the hypothesis, ""ksr integration is now distant,"" directly reflects this implication.  the premise provides evidence *supporting* the hypothesis, making it an entailment.
+"
+그 덕에 불편함이 없이 여행을 할수 있었다.,여행은 불편한 점 투성이었다.,"contradiction
+"
+그 덕에 불편함이 없이 여행을 할수 있었다.,여행사에서 신경을 써준 덕에 불편함없이 여행을 할 수 있었다.,"entailment 
+
+**explanation:**
+
+the premise states ""thanks to that, i was able to travel without inconvenience."" the hypothesis states ""thanks to the travel agency taking care of me, i was able to travel without inconvenience.""
+
+the hypothesis provides a *reason* for the benefit stated in the premise.  the ""that"" in the premise can be understood to refer to the travel agency's care, making the hypothesis a specific explanation of *why* the speaker had a comfortable trip. therefore, the premise entails the hypothesis.
+"
+그 덕에 불편함이 없이 여행을 할수 있었다.,여행은 불편한 점이 없었다.,"entailment
+"
+그 법은 다름 아닌 프랑스에 거주하는 모든 유대인은 노란색 다윗의 별이 그려진 인식표를 착용할 것을 강제하는 법이었다.,프랑스에 거주하는 모든 사람들이 다윗의 별을 착용할 것을 강제하는 법이었다.,"contradiction
+
+**explanation:**
+
+the premise states the law *specifically* applies to all jewish people residing in france. the hypothesis states the law applies to *all* people residing in france.  since jewish people are a subset of the entire population of france, the premise does *not* imply the hypothesis. the hypothesis is broader and includes people outside the scope of the premise. therefore, the premise contradicts the hypothesis.
+"
+그 법은 다름 아닌 프랑스에 거주하는 모든 유대인은 노란색 다윗의 별이 그려진 인식표를 착용할 것을 강제하는 법이었다.,그 법의 실행이 유대인 핍박의 신호탄이 되었다.,"entailment 
+
+**explanation:**
+
+the premise states a law forcing all jewish residents of france to wear a yellow star of david. this act of mandating a specific symbol of jewish identity effectively signals and facilitates discrimination and persecution. therefore, the hypothesis that the law's implementation became a signal of jewish persecution *necessarily follows* from the premise. it's a direct consequence.
+"
+그 법은 다름 아닌 프랑스에 거주하는 모든 유대인은 노란색 다윗의 별이 그려진 인식표를 착용할 것을 강제하는 법이었다.,그 법은 유대인이 인식표를 착용할 것을 강제했다.,"entailment
+"
+"그 외 부산, 강원 등은 집합제한 행정명령 발령 준비와 계도기간을 거쳐 오는 25일부터 집합제한 명령을 시행할 계획이다.","30일부터 부산, 강원 등은 집합제한 명령을 시행할 계획이다.","contradiction
+
+**explanation:**
+
+the premise states that busan, gangwon, etc., are planning to implement gathering restrictions **from the 25th**, *after* a preparation and grace period. the hypothesis states they are planning to implement them **from the 30th**. these two statements are inconsistent; the hypothesis suggests a later start date than the premise indicates. therefore, the hypothesis contradicts the premise.
+"
+"그 외 부산, 강원 등은 집합제한 행정명령 발령 준비와 계도기간을 거쳐 오는 25일부터 집합제한 명령을 시행할 계획이다.","25일부터 부산, 강원 등은 5인이상 집합제한 명령을 시행할 계획이다.","entailment
+
+**explanation:**
+
+the premise states that busan, gangwon, etc., plan to implement a gathering restriction order starting from the 25th, after preparing and going through a grace period. the hypothesis states that they plan to implement a gathering restriction order limiting gatherings of 5 or more people starting from the 25th.
+
+since the premise confirms the implementation of a gathering restriction order on the 25th in busan and gangwon (etc.), and the hypothesis specifies that this order limits gatherings to 5 or more people, the hypothesis is a specific instance of the general statement in the premise. therefore, the premise entails the hypothesis.
+"
+"그 외 부산, 강원 등은 집합제한 행정명령 발령 준비와 계도기간을 거쳐 오는 25일부터 집합제한 명령을 시행할 계획이다.","25일부터 부산, 강원 등은 집합제한 명령을 시행할 계획이다.","entailment
+"
+그거빼고 치안이나 모든것들은 완벽합니다.,치안도 완벽하지 않습니다.,"contradiction
+"
+그거빼고 치안이나 모든것들은 완벽합니다.,치안이 가장 완벽합니다.,"neutral
+
+**explanation:**
+
+* **premise:** ""everything is perfect except for that (thing)."" this implies that *some* things are not perfect, but doesn't specify which.
+* **hypothesis:** ""the security (치안) is the most perfect."" this asserts that security is the absolute best.
+
+the premise doesn't explicitly state whether security is the *most* perfect thing. it only says everything *except* one thing is perfect. it's possible security is perfect, but other things are also perfect, making it *not* the absolute most perfect. therefore, the premise is neutral towards the hypothesis.
+"
+그거빼고 치안이나 모든것들은 완벽합니다.,치안이 완벽합니다.,"neutral
+
+**explanation:**
+
+the premise states ""everything is perfect except for that (thing)."" the hypothesis states ""the police/security (치안) is perfect.""  the premise *doesn't* say that the police/security *is* perfect, only that *everything else* is perfect *except* for something else. it leaves the status of the police/security undetermined. therefore, the premise is neutral towards the hypothesis.
+"
+"그것을 국내 언론들이 집중적으로 퍼뜨렸고, 탈북자 출신 국회의원 태영호씨와 지성호씨가 김위원장 사망설이 확실하다고 자신하였다.",지성호는 김위원장의 사망설을 적극 부인했다.,"contradiction
+"
+"그것을 국내 언론들이 집중적으로 퍼뜨렸고, 탈북자 출신 국회의원 태영호씨와 지성호씨가 김위원장 사망설이 확실하다고 자신하였다.",국회의원 태영호씨는 북한 출신이다.,"entailment
+"
+"그것을 국내 언론들이 집중적으로 퍼뜨렸고, 탈북자 출신 국회의원 태영호씨와 지성호씨가 김위원장 사망설이 확실하다고 자신하였다.",김위원장의 사망설을 확신하는 사람들이 많다.,"entailment 
+
+**explanation:**
+
+the premise states that domestic media widely reported on the rumor of kim jong-un's death, and that tae young-ho and ji sung-ho (both former north korean defectors and members of the national assembly) were confident that the rumor was true.  this directly implies that *many* people believe the rumor, making the hypothesis ""김위원장의 사망설을 확신하는 사람들이 많다"" (many people are confident about kim jong-un's death rumor) a direct consequence of the premise.
+"
+그냥 생각할 필요없이 예약하시면 됩니다.,꼭 고민해보고 예약하셔야 됩니다.,"contradiction
+"
+그냥 생각할 필요없이 예약하시면 됩니다.,모든 것이 최고인 숙소입니다.,"neutral
+
+**explanation:**
+
+* **premise:** ""just book it without thinking about it."" (it's a recommendation to book without hesitation)
+* **hypothesis:** ""it's the best accommodation for everything."" (claims it's the best in all aspects)
+
+the premise simply encourages booking. it doesn't offer any information about the quality of the accommodation. therefore, the premise doesn't support or refute the claim that it's ""the best for everything.""  it's neutral.
+"
+그냥 생각할 필요없이 예약하시면 됩니다.,그냥 예약하셔도 됩니다.,"entailment
+
+**explanation:**
+
+* **premise:** 그냥 생각할 필요없이 예약하시면 됩니다. (you don't need to think about it, just make a reservation. / just make a reservation.)
+* **hypothesis:** 그냥 예약하셔도 됩니다. (you can just make a reservation. / it's okay to just make a reservation.)
+
+the premise explicitly states that making a reservation is sufficient and doesn't require extra consideration. the hypothesis simply states that making a reservation is permissible. therefore, the premise *entails* the hypothesis.  the premise provides a stronger justification for the hypothesis.
+"
+그는 플루타르코스의 저서에 끼어있던 아내에게 보내는 편지를 번역하였는데 여기서 플루타르코스는 2년 연상의 언니를 잃고 비탄에 빠진 아내를 위한하고 있다.,플루타르코스는 그의 저서에 끼어 있던 편지를 번역했다.,"entailment
+"
+그는 플루타르코스의 저서에 끼어있던 아내에게 보내는 편지를 번역하였는데 여기서 플루타르코스는 2년 연상의 언니를 잃고 비탄에 빠진 아내를 위한하고 있다.,플루타르코스는 아내와 오래 전 이혼한 사이다.,"contradiction
+
+**reasoning:**
+
+the premise states that plutarch wrote letters to his wife, expressing grief over the loss of his older sister. this directly implies a *current* marital relationship. the hypothesis claims that plutarch and his wife were divorced long ago. these two statements are mutually exclusive, therefore the premise contradicts the hypothesis.
+"
+그는 플루타르코스의 저서에 끼어있던 아내에게 보내는 편지를 번역하였는데 여기서 플루타르코스는 2년 연상의 언니를 잃고 비탄에 빠진 아내를 위한하고 있다.,플루타르코스의 처형이 죽었다.,"neutral
+
+**explanation:**
+
+the premise states that plutarch wrote a letter to his wife, mourning the loss of his 2-year-older sister. the hypothesis states that plutarch's wife died. 
+
+the premise *implies* that plutarch's wife experienced grief due to the death of his sister. however, it *doesn't explicitly state* that the wife died herself. it's possible the wife is still alive and plutarch is expressing his sympathy for her grief. therefore, the premise does not definitively entail or contradict the hypothesis; it is neutral.
+
+
+
+"
+"그는 해외에서 교육을 받은 최초의 이란 왕위계승 후보자로, 4년 동안 스위스에서 지내다가 고등학교 졸업장은 이란에서 받기 위해 1936년 귀국했다.",그는 스위스에서 고등학교 졸업장을 받았다.,"contradiction
+"
+"그는 해외에서 교육을 받은 최초의 이란 왕위계승 후보자로, 4년 동안 스위스에서 지내다가 고등학교 졸업장은 이란에서 받기 위해 1936년 귀국했다.",그는 태어나자마자 해외에서 지냈다.,"neutral
+"
+"그는 해외에서 교육을 받은 최초의 이란 왕위계승 후보자로, 4년 동안 스위스에서 지내다가 고등학교 졸업장은 이란에서 받기 위해 1936년 귀국했다.",이란 왕위계승 후보자 중 해외에서 교육을 받은 것은 그가 처음이다.,"entailment
+"
+그때 당시엔 아바타보다 더 인기였어.,남성보다 여성에게 더 인기였어.,"neutral
+
+**explanation:**
+
+the premise ""그때 당시엔 아바타보다 더 인기였어"" translates to ""at that time, it was more popular than avatar."" this statement only establishes relative popularity.
+
+the hypothesis ""남성보다 여성에게 더 인기였어"" translates to ""it was more popular with women than with men."" this statement describes the demographic of the audience.
+
+the premise doesn't say *who* was more popular, only that it was more popular *overall*. it's possible it was more popular with women, men, or a mixed demographic. therefore, the premise is neutral towards the hypothesis. it doesn't necessarily mean one is true or false based on the other.
+"
+그때 당시엔 아바타보다 더 인기였어.,당시에 인기가 아바타보다 높았어.,"entailment
+"
+그때 당시엔 아바타보다 더 인기였어.,단 한순간도 아바타보다 인기있던 적은 없어.,"contradiction
+"
+그때 독립운동가인 염석진이 데라우치 총독을 암살하기 위해 폭탄을 터뜨리고 접대 현장을 습격한다.,접대 현장에서 염석진은 데라우치의 암살에 성공한다.,"entailment 
+
+**explanation:**
+
+the premise states that yeom seok-jin detonated a bomb and raided the reception venue *in order to assassinate* governor-general terauchi. the hypothesis states that he *succeeded* in the assassination.  if he detonated a bomb and raided the venue *with the intention* of assassination, and the hypothesis says he succeeded, then the premise *implies* the hypothesis. the premise doesn't rule out the possibility of success. therefore, the premise entails the hypothesis.
+"
+그때 독립운동가인 염석진이 데라우치 총독을 암살하기 위해 폭탄을 터뜨리고 접대 현장을 습격한다.,접대 현장을 습격한 염석진은 독립운동가이다.,"entailment
+"
+그때 독립운동가인 염석진이 데라우치 총독을 암살하기 위해 폭탄을 터뜨리고 접대 현장을 습격한다.,염석진은 김구를 암살하기 위해 폭탄을 터트린다.,"contradiction
+"
+그때 바그너는 지크프리트를 작곡하고 있었기 때문에 56세가 되어 처음 얻은 아들의 이름을 지크프리트라고 지었다.,바그너의 아들은 그의 아버지를 따라 작곡가가 되었다.,"neutral
+
+**explanation:**
+
+the premise states that wagner named his son siegfried after his opera character. it *doesn't* say anything about the son becoming a composer. while it's possible the son became a composer, the premise provides no information to confirm or deny this. therefore, the premise is neutral towards the hypothesis.
+"
+그때 바그너는 지크프리트를 작곡하고 있었기 때문에 56세가 되어 처음 얻은 아들의 이름을 지크프리트라고 지었다.,바그너는 56세가 되어 아들을 얻었다.,"entailment
+"
+그때 바그너는 지크프리트를 작곡하고 있었기 때문에 56세가 되어 처음 얻은 아들의 이름을 지크프리트라고 지었다.,바그너는 아들이 성인이 되던 해 지크프리트를 작곡하기 시작했다.,"neutral
+
+**explanation:**
+
+* **premise:** wagner named his first son, born when he was 56 and composing siegfried, after siegfried.
+* **hypothesis:** wagner started composing siegfried the year his son became an adult.
+
+the premise tells us *when* wagner's son was born (at the time wagner was composing siegfried). the hypothesis concerns *when* wagner started composing siegfried *relative to* his son's adulthood. the premise doesn't provide any information about the son's age or when he reached adulthood, so we cannot determine if the hypothesis is true or false based on the premise alone. it's possible the son was very young when born, and wagner started composing later. it's also possible the son was older, and wagner started earlier.
+
+therefore, the relationship between the premise and the hypothesis is **neutral**.
+"
+그래도 다행히 숙소는 엘리베이터가 있었네요.,안타깝게도 숙소에 엘리베이터는 없었네요.,"contradiction
+"
+그래도 다행히 숙소는 엘리베이터가 있었네요.,숙소에 오래된 엘리베이터가 있었네요.,"neutral
+
+**explanation:**
+
+* **premise:** ""그래도 다행히 숙소는 엘리베이터가 있었네요."" translates to ""still, thankfully, the accommodation had an elevator."" this simply states that there was an elevator.
+* **hypothesis:** ""숙소에 오래된 엘리베이터가 있었네요."" translates to ""the accommodation had an old elevator."" this adds the detail that the elevator was old.
+
+the premise doesn't *guarantee* the elevator is old. it only confirms its existence. therefore, the premise is neutral towards the hypothesis. it could be a new elevator, or an old one - the premise doesn't tell us.
+"
+그래도 다행히 숙소는 엘리베이터가 있었네요.,엘리베이터가 있는 숙소였네요.,"entailment
+"
+그래도 두 명이 쓰기엔 불편함은 없습니다.,불편해서 두 명이 쓸 순 없습니다.,"contradiction 
+
+**explanation:**
+
+* **premise:** ""그래도 두 명이 쓰기엔 불편함은 없습니다."" means ""even so, it's not uncomfortable for two people to use it."" this implies it *is* possible for two people to use it without discomfort.
+* **hypothesis:** ""불편해서 두 명이 쓸 순 없습니다."" means ""it's impossible for two people to use it because it's uncomfortable."" this directly states that two people *cannot* use it due to discomfort.
+
+these two statements directly oppose each other. therefore, the premise contradicts the hypothesis.
+"
+그래도 두 명이 쓰기엔 불편함은 없습니다.,한 명이 쓰는 걸 추천합니다.,"neutral
+
+**explanation:**
+
+the premise ""그래도 두 명이 쓰기엔 불편함은 없습니다"" translates to ""even so, it's not uncomfortable for two people to use."" 
+
+the hypothesis ""한 명이 쓰는 걸 추천합니다"" translates to ""i recommend one person to use it.""
+
+the premise states it *is possible* for two people to use it, albeit perhaps not ideally. the hypothesis *recommends* using it by one person.  the premise doesn't forbid using it by one person, nor does it explicitly state it's uncomfortable for one person. therefore, the premise is neutral towards the hypothesis. it doesn't confirm or deny it.
+"
+그래도 두 명이 쓰기엔 불편함은 없습니다.,두 명이 써도 불편하지는 않습니다.,"entailment
+"
+"그래도 스페인 여행중, 이숙소가 제일 좋았어요",유럽에서 이 숙소가 제일 좋았어요.,"neutral
+
+**explanation:**
+
+the premise states that the guesthouse was the best *during* a trip to spain. the hypothesis states that the guesthouse was the best *in europe*. 
+
+while it's *possible* the guesthouse was the best in europe, the premise doesn't provide enough information to definitively conclude that. it only focuses on the experience within spain.  it's possible there were better guesthouses in other european countries.
+
+therefore, the premise is neutral towards the hypothesis.
+"
+"그래도 스페인 여행중, 이숙소가 제일 좋았어요",스페인에서 다른 숙소가 제일 좋았어요.,"contradiction
+
+**explanation:**
+
+* **premise:** ""그래도 스페인 여행중, 이 숙소가 제일 좋았어요"" translates to ""even so, during my trip to spain, this guesthouse was the best."" this implies the speaker found *this* guesthouse to be the best.
+* **hypothesis:** ""스페인에서 다른 숙소가 제일 좋았어요"" translates to ""there was a different guesthouse that was the best in spain."" this directly contradicts the premise's statement that *this* guesthouse was the best.
+
+therefore, the hypothesis contradicts the premise.
+"
+"그래도 스페인 여행중, 이숙소가 제일 좋았어요",스페인에서 이 숙소가 제일 마음에 들었어요.,"entailment
+
+**explanation:**
+
+* **premise:** ""그래도 스페인 여행중, 이 숙소가 제일 좋았어요"" translates to ""even so, during my trip to spain, this guesthouse was the best.""  this implies a positive experience with the guesthouse.
+* **hypothesis:** ""스페인에서 이 숙소가 제일 마음에 들었어요"" translates to ""this guesthouse was the most pleasing/liked in spain."" this directly states that the guesthouse was the most liked.
+
+since the premise explicitly states the guesthouse was the *best* during the trip, and ""best"" is a strong indicator of being the most liked, the premise *entails* the hypothesis.  it's a reasonable and logical conclusion.
+"
+그래도 큰아들 찾아서 정말 다행입니다.,다행스럽게 큰아들을 찾았습니다.,"entailment
+"
+그래도 큰아들 찾아서 정말 다행입니다.,큰아들을 찾아서 아쉽다.,"contradiction
+"
+그래도 큰아들 찾아서 정말 다행입니다.,작은 아들은 못 찾았다.,"neutral
+
+**explanation:**
+
+the premise ""그래도 큰아들 찾아서 정말 다행입니다"" translates to ""i'm really glad we found the eldest son."" this statement only confirms the finding of the eldest son. it provides no information whatsoever about the whereabouts of the younger son. therefore, it neither entails nor contradicts the hypothesis ""작은 아들은 못 찾았다"" (""the younger son couldn't be found""). it's neutral.
+"
+그래서 여기 평점 후한 사람들 중 알바 아닌 사람들도 있을거다 믿는다.,평점 후한 사람들은 모두 알바생일 것이라 믿는다.,"contradiction
+
+**explanation:**
+
+* **premise:** ""therefore, i believe there will be people among those who give generous ratings who are not part-time workers (알바)."" this implies that some people giving generous ratings are *not* part-time workers.
+
+* **hypothesis:** ""i believe that all people who give generous ratings are part-time workers.""  this states that *everyone* giving generous ratings *is* a part-time worker.
+
+since the premise allows for individuals giving generous ratings who are *not* part-time workers, it directly contradicts the hypothesis which claims all such individuals *are* part-time workers. therefore, it's a **contradiction**.
+
+
+
+"
+그래서 여기 평점 후한 사람들 중 알바 아닌 사람들도 있을거다 믿는다.,여기 평점 후한 사람들 중 정직원들도 있을거다 믿는다.,"neutral
+"
+그래서 여기 평점 후한 사람들 중 알바 아닌 사람들도 있을거다 믿는다.,여기 사람들 중 알바 아닌 사람들도 있을거다.,"entailment 
+
+**explanation:**
+
+the premise states ""therefore, i believe there will be people here who are not part-time workers among those who have given generous ratings.""  the hypothesis states ""there will be people among these people who are not part-time workers.""
+
+since the premise *specifically* mentions people with generous ratings, and says there will be non-part-time workers *among them*, the hypothesis is logically contained within the premise. the premise makes a stronger, more specific claim, but it doesn't contradict the hypothesis.  therefore, the premise entails the hypothesis.
+"
+그러나 12일 내린 폭우와 폭설로 댐으로 유입되는 물의 양이 급증하고 비상 배수로까지 일부 파손되면서 수위가 계속 높아지고 있다.,물의 방출량이 많아 수위가 낮아지고 있다.,"contradiction
+
+**explanation:**
+
+the premise states that water inflow is rapidly increasing due to heavy rain and snow, and emergency drainage is partially damaged, causing the water level to rise. the hypothesis states that the water release is high, leading to a decrease in the water level. these two statements are directly opposite.  increased inflow and high water release cannot simultaneously lead to a decreasing water level; the water level would likely remain the same or increase further. therefore, the hypothesis contradicts the premise.
+"
+그러나 12일 내린 폭우와 폭설로 댐으로 유입되는 물의 양이 급증하고 비상 배수로까지 일부 파손되면서 수위가 계속 높아지고 있다.,댐의 수위는 올해 들어 최고치이다.,"neutral
+
+**explanation:**
+
+the premise states that the dam's water level is rising due to heavy rain and snow, and some emergency drainage systems are damaged. however, it *doesn't* explicitly state that the current water level is the highest it's ever been this year. it's possible the water level is high, but not necessarily the highest. therefore, the premise is neutral towards the hypothesis.
+"
+그러나 12일 내린 폭우와 폭설로 댐으로 유입되는 물의 양이 급증하고 비상 배수로까지 일부 파손되면서 수위가 계속 높아지고 있다.,폭우와 폭설로 댐의 수위가 계속 높아지고 있다.,"entailment
+"
+"그러나 22일 새벽, 법안 표결을 유보한다는 입장에 따라 운행중단을 철회하면서 대한민국의 대부분 지역에서 버스가 정상 운행하고 있다.",지난 이틀 동안 버스가 중단되었다.,"contradiction 
+
+**explanation:**
+
+* **premise:** states that bus services are now operating normally across most of south korea because the suspension of the bill vote was postponed.
+* **hypothesis:** claims that buses were suspended for the past two days.
+
+these two statements are directly contradictory. if buses are currently operating normally (premise), they could not have been suspended for the past two days (hypothesis). therefore, the premise contradicts the hypothesis.
+"
+"그러나 22일 새벽, 법안 표결을 유보한다는 입장에 따라 운행중단을 철회하면서 대한민국의 대부분 지역에서 버스가 정상 운행하고 있다.",22일 새벽에 법안 표결을 유보한다는 입장이 나왔다.,"entailment
+
+**explanation:**
+
+the premise states that bus services have resumed in most of south korea *because* the stance of postponing the vote on the bill was adopted. this directly implies that the stance of postponing the vote on the bill *was* indeed taken on the morning of the 22nd. therefore, the premise entails the hypothesis.
+"
+"그러나 22일 새벽, 법안 표결을 유보한다는 입장에 따라 운행중단을 철회하면서 대한민국의 대부분 지역에서 버스가 정상 운행하고 있다.",대한민국의 대부분 지역에서 버스가 운행 정지 중이다.,"contradiction
+"
+"그러나 결국 학생을 선발하는 현 교육제도에서, 영어를 절대평가로 한다고 해서 과연 사교육 시장의 팽창이 주춤할지 의문입니다.",영어를 절대평가로 하면 사교육 시장은 주춤한다.,"contradiction
+"
+"그러나 결국 학생을 선발하는 현 교육제도에서, 영어를 절대평가로 한다고 해서 과연 사교육 시장의 팽창이 주춤할지 의문입니다.",영어를 절대평가로 한다고 사교육 시장이 주춤할지는 모르겠다.,"entailment 
+
+**explanation:**
+
+the premise states ""it is doubtful whether the expansion of the private education market will slow down just because english is evaluated absolutely.""  the hypothesis says ""it is uncertain whether the private education market will slow down with absolute english evaluation."" 
+
+these two statements express essentially the same uncertainty. the premise directly introduces doubt about the hypothesis's claim, implying the hypothesis is a logical consequence or entailment of the premise.  therefore, the premise entails the hypothesis.
+"
+"그러나 결국 학생을 선발하는 현 교육제도에서, 영어를 절대평가로 한다고 해서 과연 사교육 시장의 팽창이 주춤할지 의문입니다.",현 교육제도는 학생을 선발하지 않는다.,"contradiction
+
+**explanation:**
+
+* **premise:** the premise states that even with english being graded on a absolute scale, it's doubtful whether the expansion of the private education market will slow down. this implies the current education system *does* involve selection (students competing for opportunities). 
+* **hypothesis:** the hypothesis claims the current education system does *not* select students.
+
+since the premise and hypothesis directly oppose each other, the premise contradicts the hypothesis.
+"
+그러나 그것을 잡아내는 것은 당신의 몫이다.,그것을 잡아내는 것은 당신을 제외한 모두의 몫이다.,"contradiction
+
+**explanation:**
+
+* **premise:** ""however, finding it is your responsibility."" (당신의 몫이다 - your portion/responsibility) - this clearly states that *you* are responsible for finding something.
+* **hypothesis:** ""finding it is everyone else's responsibility except you."" (당신을 제외한 모두의 몫이다 - the portion/responsibility of everyone except you) - this states that *everyone but you* is responsible.
+
+these statements are directly opposed. one assigns responsibility to ""you"", the other assigns it to ""everyone else but you"". therefore, they contradict each other.
+"
+그러나 그것을 잡아내는 것은 당신의 몫이다.,당신의 몫은 그것을 잡아내는 것이다.,"entailment 
+
+**explanation:**
+
+the premise ""그러나 그것을 잡아내는 것은 당신의 몫이다"" translates to ""however, it is your responsibility to catch it."" the hypothesis ""당신의 몫은 그것을 잡아내는 것이다"" translates to ""your responsibility is to catch it.""
+
+the hypothesis is a restatement of the core idea presented in the premise.  therefore, the premise *entails* the hypothesis. the premise implies that catching ""it"" is your responsibility, and the hypothesis explicitly states that your responsibility *is* catching ""it.""
+"
+그러나 그것을 잡아내는 것은 당신의 몫이다.,그것을 잡아내는 것은 쉽지 않다.,"neutral
+"
+그러나 당시 이곳의 의료진들은 환자와의 접촉이 잦았음에도 모두 마스크를 상시 착용해 17명 모두 감염되지 않았던 것으로 밝혀졌다.,이곳의 의료진들은 환자와의 접촉이 뜸했기에 감염되지 않았다.,"contradiction
+
+**explanation:**
+
+the premise states that the medical staff *did* have frequent contact with patients, *yet* none of them got infected. the hypothesis states they didn't get infected *because* their contact was infrequent. these two statements directly contradict each other. the premise implies frequent contact doesn't lead to infection (perhaps due to other protective measures like mask-wearing), while the hypothesis implies infrequent contact is the reason for avoiding infection. therefore, the premise contradicts the hypothesis.
+"
+그러나 당시 이곳의 의료진들은 환자와의 접촉이 잦았음에도 모두 마스크를 상시 착용해 17명 모두 감염되지 않았던 것으로 밝혀졌다.,이곳의 의료진들은 모두 KF80 마스크를 상시 착용했다.,"entailment 
+
+**explanation:**
+
+the premise states that despite frequent contact with patients, none of the 17 medical staff members contracted the infection. the *only* way this could have happened, given the information, is if they were consistently wearing masks. the premise doesn't explicitly *say* they were wearing kf80 masks, but it strongly implies a consistent mask-wearing practice. therefore, the hypothesis is entailed by the premise.
+"
+그러나 당시 이곳의 의료진들은 환자와의 접촉이 잦았음에도 모두 마스크를 상시 착용해 17명 모두 감염되지 않았던 것으로 밝혀졌다.,17명 모두 감염되지 않은 이유는 모두 마스크를 착용했기 때문이다.,"entailment
+"
+그런데 2인이상은 머물기엔 작은 집이예요.,두 명이 머물기엔 적당한 크기에요.,"contradiction
+"
+그런데 2인이상은 머물기엔 작은 집이예요.,혼자 머물기엔 너무 큰 집이에요.,"contradiction
+"
+그런데 2인이상은 머물기엔 작은 집이예요.,세 명이 머물기엔 집이 작아요.,"entailment 
+
+**explanation:**
+
+the premise states that the house is too small for *two or more* people to stay in. the hypothesis states that the house is too small for *three* people to stay in.  if a house is too small for two people, it is *definitely* too small for three people.  therefore, the premise entails the hypothesis.
+"
+그런데 집주인의 아내가 산기가 있자 데크티너는 산파 노릇을 하여 아들이 태어나는 것을 돕는다.,데크니터는 산파인 척하며 집주인의 아내의 아들을 살해하려 한다.,"contradiction
+
+**explanation:**
+
+the premise states that dekniter helps deliver the baby, acting as a midwife (""산파 노릇을 하여 아들이 태어나는 것을 돕는다""). the hypothesis claims dekniter intends to harm the baby. these two statements are directly opposing each other. helping deliver a baby is the opposite of attempting to harm it. therefore, the hypothesis contradicts the premise.
+"
+그런데 집주인의 아내가 산기가 있자 데크티너는 산파 노릇을 하여 아들이 태어나는 것을 돕는다.,데크니터는 집주인의 아들이 태어나는 것을 돕기 위해 산파 노릇을 한다.,"entailment
+"
+그런데 집주인의 아내가 산기가 있자 데크티너는 산파 노릇을 하여 아들이 태어나는 것을 돕는다.,데크니더의 산파 노릇 덕분에 집주인의 아들은 무사히 태어난다.,"entailment
+"
+그리고 1769년 와트가 새로운 증기기관 특허를 얻자 볼턴은 그것을 매우 유망한 사업 아이템이라 생각했다.,볼턴은 그것이 사업적 가치가 없다고 생각했다.,"contradiction
+"
+그리고 1769년 와트가 새로운 증기기관 특허를 얻자 볼턴은 그것을 매우 유망한 사업 아이템이라 생각했다.,와트가 새로운 특허를 얻었다.,"entailment
+"
+그리고 1769년 와트가 새로운 증기기관 특허를 얻자 볼턴은 그것을 매우 유망한 사업 아이템이라 생각했다.,볼턴은 와트와 손잡고 사업을 시작했다.,"neutral
+
+**explanation:**
+
+the premise states that bolton thought watt's new steam engine patent was a promising business opportunity. it *doesn't* explicitly say that bolton *actually* partnered with watt or started a business with him. it only expresses bolton's *opinion* about the potential of the invention. therefore, the premise is neutral towards the hypothesis. it's possible bolton did partner with watt, but the premise doesn't provide enough information to conclude that.
+"
+그리고 2층침대는 성인남자가 숙박하기에는 길이가 짧습니다,성인남자에게 2층 침대의 길이는 적당합니다.,"contradiction
+"
+그리고 2층침대는 성인남자가 숙박하기에는 길이가 짧습니다,성인여자는 2층 침대 길이가 적당합니다.,"neutral
+
+**explanation:**
+
+the premise states that a bunk bed is too short for an adult man. the hypothesis states that a bunk bed is a suitable length for an adult woman.  
+
+the premise doesn't provide any information about the suitability of the bunk bed length for adult women. it's possible that the bunk bed *could* be suitable for adult women even if it's too short for adult men. therefore, the premise is neutral towards the hypothesis.
+"
+그리고 2층침대는 성인남자가 숙박하기에는 길이가 짧습니다,2층 침대가 있습니다.,"neutral
+
+**explanation:**
+
+the premise states that a bunk bed is too short for an adult man to sleep on. the hypothesis simply states that a bunk bed exists.  the premise doesn't say anything about the *existence* of bunk beds, only about a specific characteristic (length) and who can comfortably use it. therefore, the premise provides no information to confirm or deny the hypothesis.
+"
+그리고 건물 외관이랑 내관이 좀 무서워요,건물 외관과 달리 내관은 좀 무서워요.,"neutral
+"
+그리고 건물 외관이랑 내관이 좀 무서워요,건물 내관의 장식때문에 좀 무서워요.,"neutral
+
+**explanation:**
+
+* **premise:** ""and the exterior and interior of the building are a bit scary."" (건물 외관이랑 내관이 좀 무서워요) - this states that both the exterior and interior are scary.
+* **hypothesis:** ""it's a bit scary because of the decorations in the building's interior."" (건물 내관의 장식때문에 좀 무서워요) - this focuses specifically on the interior decorations as the reason for the scariness.
+
+the premise doesn't *guarantee* that the interior decorations are what makes it scary. it could be the architecture, the lighting, or other factors.  it's *possible* the hypothesis is true, but it's not *necessarily* true based on the premise. therefore, the relationship is neutral.
+"
+그리고 건물 외관이랑 내관이 좀 무서워요,건물 외관이 좀 무서워요.,"entailment 
+
+**explanation:**
+
+the premise states that both the exterior (외관) and interior (내관) of the building are somewhat scary (무서워요). the hypothesis only states that the exterior is somewhat scary. since the premise includes the exterior being scary, it *entails* the hypothesis. the premise provides more information than the hypothesis, but it doesn't contradict it.
+"
+그리고 그 대사만이라도 다시 볼 때마다 큰 힘을 얻는다.,대사만 다시 볼 때마다 힘이 빠진다.,"contradiction
+"
+그리고 그 대사만이라도 다시 볼 때마다 큰 힘을 얻는다.,그 대사는 여러 사람들에게 힘을 준다.,"entailment
+
+**explanation:**
+
+the premise states that watching those lines (대사) gives someone great strength (큰 힘을 얻는다). the hypothesis states that those lines give strength to many people (여러 사람들에게 힘을 준다).
+
+since the premise is about *one* person gaining strength, and the hypothesis extends that to *multiple* people, the hypothesis is a broader generalization that is a logical consequence of the premise. if it gives strength to one, it's plausible it gives strength to multiple. therefore, the premise entails the hypothesis.
+"
+그리고 그 대사만이라도 다시 볼 때마다 큰 힘을 얻는다.,큰 힘이 대사만이라도 볼때 생긴다.,"neutral
+
+**explanation:**
+
+* **premise:** ""and every time i see those lines of dialogue again, i gain great strength."" (the speaker *experiences* strength *because* of the dialogue.)
+* **hypothesis:** ""great strength *is born* when you see those lines of dialogue."" (the dialogue *causes* the strength to exist.)
+
+the premise describes a *result* of seeing the dialogue (gaining strength), while the hypothesis describes a *causal relationship* (the dialogue *causing* strength). the premise doesn't explicitly state that the strength is *created* by the dialogue; it just says it's gained from it. therefore, the premise is neither definitively supporting nor refuting the hypothesis; it's neutral.
+"
+그리고 라디에이터가 정말 정말 따뜻했습니다.,라디에이터가 고장나 있었습니다.,"neutral
+
+**explanation:**
+
+the premise states the radiator was very warm. the hypothesis states the radiator was broken. 
+
+warmth and being broken are generally contradictory states for a radiator. however, it's *possible* a broken radiator could still be producing some heat (e.g., a partial malfunction). 
+
+therefore, the premise doesn't necessarily *entail* the hypothesis (it's not guaranteed), nor does it *contradict* it (it's not impossible for the hypothesis to be true).  thus, it is **neutral**.
+"
+그리고 라디에이터가 정말 정말 따뜻했습니다.,라디에이터를 계속 틀면 약간 더웠습니다.,"entailment 
+
+**explanation:**
+
+the premise states the radiator was ""really, really warm."" the hypothesis states that if the radiator is kept on, it becomes ""slightly hot.""  if something is ""really, really warm,"" then continuing to operate it would logically lead to it being ""slightly hot.""  the hypothesis is a reasonable consequence of the premise. therefore, the premise entails the hypothesis.
+"
+그리고 라디에이터가 정말 정말 따뜻했습니다.,아주 따뜻한 라디에이터가 있습니다.,"entailment
+"
+그리고 바깥출입문 열쇠 여는게 엄청 힘들었어요.,바깥출입문을 열쇠로 여는건 쉬웠어요.,"contradiction
+"
+그리고 바깥출입문 열쇠 여는게 엄청 힘들었어요.,열쇠 없이는 출입문을 열 수 없었어요.,"entailment
+
+**explanation:**
+
+the premise states that opening the outside door lock was ""very difficult.""  this strongly implies that the speaker *could not* open the door *without* the key. the hypothesis, ""you couldn't open the door without a key,"" logically follows from the premise of difficulty in opening the lock.  therefore, the premise entails the hypothesis.
+"
+그리고 바깥출입문 열쇠 여는게 엄청 힘들었어요.,바깥출입문은 열쇠로 열어야 했어요.,"entailment 
+
+**explanation:**
+
+the premise states that opening the outdoor door with a key was very difficult (""엄청 힘들었어요""). this directly implies that the door *had* to be opened with a key (""열쇠로 열어야 했어요"").  therefore, the premise entails the hypothesis.
+"
+그리고 사진과는 약간 다른 집의 크기 입니다,사진과 실제 집크기가 동일합니다.,"contradiction
+"
+그리고 사진과는 약간 다른 집의 크기 입니다,사진과 실제 집의 크기가 다릅니다.,"entailment 
+
+**explanation:**
+
+the premise states that the actual size of the house is ""slightly different"" from the size shown in the photo. the hypothesis states that the size of the house and the photo are different. 
+
+since the premise directly supports the hypothesis (the premise gives a reason *why* the hypothesis is true), the premise entails the hypothesis.
+"
+그리고 사진과는 약간 다른 집의 크기 입니다,사진보다 집 크기가 더 작습니다.,"contradiction
+
+**explanation:**
+
+the premise states that the house size is ""slightly different"" from the photo. the hypothesis states that the house size is ""smaller than the photo.""  if the house size is *different* from the photo, and the hypothesis states it's *smaller*, then they cannot both be true. therefore, the premise contradicts the hypothesis.
+"
+그리고 세상에 대한 따뜻한 시각이 무엇보다도 고마운 작품이었습니다.,세상에 대한 냉정한 시각이 무엇보다도 무서운 작품이었습니다.,"contradiction
+"
+그리고 세상에 대한 따뜻한 시각이 무엇보다도 고마운 작품이었습니다.,"무엇보다도 고마운, 세상에 대한 따뜻한 시각을 가진 작품이었습니다.","entailment
+"
+그리고 세상에 대한 따뜻한 시각이 무엇보다도 고마운 작품이었습니다.,기부로 이뤄지는 세상에 대한 따뜻한 시각을 담은 고마운 작품이었습니다.,"neutral
+
+**explanation:**
+
+* **premise:** the work was grateful because it offered a warm perspective on the world.
+* **hypothesis:** the work was grateful because it contained a warm perspective on the world achieved through donations.
+
+the premise states the work was grateful for a warm view of the world. the hypothesis specifies *how* that warm view of the world was achieved (through donations).  the premise doesn't say *how* the warm perspective was achieved. therefore, the premise doesn't necessarily support or contradict the hypothesis. it's neutral.
+"
+그리고 위치가 시먼역보다는 샤오난먼역에 가까워요,위치가 샤오난먼역에서 더 멀어요.,"contradiction
+"
+그리고 위치가 시먼역보다는 샤오난먼역에 가까워요,시먼역에 걸어서 갈 수 있어요.,"neutral
+
+**explanation:**
+
+the premise states that the location is closer to xiaonanmen station than ximen station.  the hypothesis states that one can walk to ximen station.  
+
+the premise doesn't *prevent* walking to ximen station. it only indicates a relative closeness. it's possible to walk to ximen station even if the location is closer to xiaonanmen. therefore, the premise is neutral towards the hypothesis.
+"
+그리고 위치가 시먼역보다는 샤오난먼역에 가까워요,샤오난먼역이 시먼역보다는 비교적 가까워요.,"entailment
+"
+그리고 집 안에만 들어가면 매우 조용합니다.,집안에 들어가도 매우 시끄럽습니다.,"contradiction
+"
+그리고 집 안에만 들어가면 매우 조용합니다.,집 안에 들어가면 조용히 해야합니다.,"neutral
+
+**explanation:**
+
+* **premise:** ""and once you enter the house, it is very quiet."" (집 안에만 들어가면 매우 조용합니다.) this describes the *state* of the house when one is inside - it *is* quiet.
+* **hypothesis:** ""you must be quiet when you enter the house."" (집 안에 들어가면 조용히 해야합니다.) this describes a *rule* or *requirement* for behavior when entering the house.
+
+the premise doesn't state *why* it's quiet, nor does it imply that quietness is a requirement. it simply *states* the quietness.  therefore, the premise neither necessitates nor forbids the hypothesis. it's neutral.
+"
+그리고 집 안에만 들어가면 매우 조용합니다.,집안에 들어가면 시끄럽지 않습니다.,"entailment 
+
+**explanation:**
+
+the premise states that *when* you enter the house, it's very quiet. the hypothesis states that *when* you enter the house, it's not noisy. these two statements are logically equivalent. if entering the house guarantees quietness, then it necessarily means entering the house guarantees not being noisy. therefore, the premise entails the hypothesis.
+"
+그의 유해는 상트페테르부르크 교외에 있는 우스펜스키 묘지에 안장되었으나 소련 시절의 대대적인 묘지 재구획 공사로 그의 유해가 멸실되어 지금까지 찾을 수 없다.,그의 유해는 아직까지 발견되지 않았다.,"entailment 
+
+**explanation:**
+
+the premise states that his remains were lost due to soviet-era cemetery reorganization and haven't been found. the hypothesis directly states that his remains haven't been discovered. therefore, the premise logically implies the hypothesis.
+"
+그의 유해는 상트페테르부르크 교외에 있는 우스펜스키 묘지에 안장되었으나 소련 시절의 대대적인 묘지 재구획 공사로 그의 유해가 멸실되어 지금까지 찾을 수 없다.,소련의 묘지 재구획 공사는 지금까지 계속되고 있다.,"neutral
+"
+그의 유해는 상트페테르부르크 교외에 있는 우스펜스키 묘지에 안장되었으나 소련 시절의 대대적인 묘지 재구획 공사로 그의 유해가 멸실되어 지금까지 찾을 수 없다.,그의 유해는 최근에 발견되었다.,"contradiction
+"
+극장에서 처음으로본 007 잊을 수 가없다,극장에서 처음 본 007이 계속 기억에 남는다.,"entailment
+"
+극장에서 처음으로본 007 잊을 수 가없다,극장에서 처음으로 본 007을 기억에서 지웠다.,"contradiction
+"
+극장에서 처음으로본 007 잊을 수 가없다,극장에서 처음으로 본 007이 가장 최고였다.,"neutral
+
+**explanation:**
+
+the premise ""극장에서 처음으로 본 007 잊을 수 가없다"" translates to ""the first time i saw 007 in the theater, i couldn't forget it."" this expresses a strong positive impression.
+
+the hypothesis ""극장에서 처음으로 본 007이 가장 최고였다"" translates to ""the first time i saw 007 in the theater was the absolute best."" this is a stronger claim, stating it was *the* best.
+
+while the premise suggests a very positive experience, it doesn't *necessarily* mean it was *the absolute best*. it could have been a very memorable experience without being definitively the best. therefore, the premise is neutral towards the hypothesis.
+"
+근데 디즈니 꺼라는 건 생각 못했었다.,디즈니 꺼라는 건 생각하고있었다.,"contradiction
+"
+근데 디즈니 꺼라는 건 생각 못했었다.,상표가 디즈니 꺼라는 건 생각 못했었다.,"entailment
+
+**explanation:**
+
+the premise ""근데 디즈니 꺼라는 건 생각 못했었다"" translates to ""but i didn't think it was a disney product.""
+
+the hypothesis ""상표가 디즈니 꺼라는 건 생각 못했었다"" translates to ""i didn't think the trademark was a disney one.""
+
+the hypothesis is a more formal and direct way of stating the same idea as the premise.  the premise implies the same thing as the hypothesis, therefore the premise entails the hypothesis.
+"
+근데 디즈니 꺼라는 건 생각 못했었다.,디즈니의 소유라는 건 생각하지 못했었다.,"entailment 
+
+**explanation:**
+
+the premise ""근데 디즈니 꺼라는 건 생각 못했었다"" translates to ""but i didn't think it was a disney product."" the hypothesis ""디즈니의 소유라는 건 생각하지 못했었다"" translates to ""i didn't think it was owned by disney.""
+
+the premise implies a lack of knowledge about disney ownership. the hypothesis explicitly states the same lack of knowledge. therefore, the premise *entails* the hypothesis. if you didn't think it was a disney product, it logically follows that you didn't think it was owned by disney.
+"
+근데 마지막에 수신료인상정당성에 관한 깨알같은 자막나간건 최악이었습니다,마지막에 수신료 인상 정당성에 대한 자막은 반드시 필요했습니다.,"contradiction
+
+**explanation:**
+
+the premise states that the small subtitle regarding the justification for the subscription fee increase (""깨알같은 자막나간건 최악이었습니다"") was the *worst*. this implies the speaker strongly disagrees with the necessity or appropriateness of the subtitle.
+
+the hypothesis claims the subtitle was *necessarily* needed.
+
+these two statements are directly opposing each other. therefore, the premise contradicts the hypothesis.
+"
+근데 마지막에 수신료인상정당성에 관한 깨알같은 자막나간건 최악이었습니다,수신료 인상 정당성에 대한 자막이 있었습니다.,"entailment 
+
+**explanation:**
+
+the premise states that the ""깨알같은 자막"" (tiny subtitle) about the justification for the tv license fee increase was the worst thing. this *implies* that the subtitle *did* exist.  if the subtitle didn't exist, it couldn't be ""the worst."" therefore, the premise entails the hypothesis.
+"
+근데 마지막에 수신료인상정당성에 관한 깨알같은 자막나간건 최악이었습니다,수신료 인상 정당성에 대한 자막때문에 항의를 받았습니다.,"entailment
+
+**explanation:**
+
+the premise states that the small text (자막 - jamak) about the justification of the tv license fee increase was the worst (최악 - choeak). the hypothesis states that protests (항의 - hangui) occurred because of this text.  if something is the ""worst,"" it's highly likely to cause negative reactions, including protests. therefore, the premise strongly suggests that the hypothesis is true.
+"
+근래 견자단의 화려한 액션에 익숙하신분들은 다소 실망하실 수 있습니다.,견자단은 화려한 액션을 선보입니다.,"contradiction
+"
+근래 견자단의 화려한 액션에 익숙하신분들은 다소 실망하실 수 있습니다.,견자단의 화려한 동작에 익숙하더라도 즐겁게 볼 수 있습니다.,"neutral
+"
+근래 견자단의 화려한 액션에 익숙하신분들은 다소 실망하실 수 있습니다.,견자단은 화려한 액션을 좋아합니다.,"contradiction
+
+**explanation:**
+
+the premise states that those accustomed to the flashy action of keung chul-dan (견자단) might be disappointed by their recent work. this implies that their recent work *lacks* the flashy action they are known for. the hypothesis states that keung chul-dan *likes* flashy action.  if they liked it, they would likely produce it. the premise contradicts this implied preference. therefore, the premise contradicts the hypothesis.
+"
+"금점에서 광부들은 광산에서 나올 때에는 옷을 벗어 감독에게 주고, 감독은 다시 평상복을 돌려준다.",광부들은 평상복을 돌려받지 못한다.,"contradiction
+"
+"금점에서 광부들은 광산에서 나올 때에는 옷을 벗어 감독에게 주고, 감독은 다시 평상복을 돌려준다.",광부들이 광산에서 나올때 옷을 벗는 이유는 덥기 때문이다.,"neutral
+
+**explanation:**
+
+the premise describes a procedure where miners remove their clothes and give them to the supervisor, who then returns them. it *doesn't* state *why* the miners remove their clothes. while being hot *could* be a reason, the premise offers no information to confirm or deny that. therefore, the premise is neutral towards the hypothesis.
+"
+"금점에서 광부들은 광산에서 나올 때에는 옷을 벗어 감독에게 주고, 감독은 다시 평상복을 돌려준다.",금점에서 감독은 다시 평상복을 돌려준다.,"entailment
+"
+기업공감 절차혁신과 관련해서는 농기자재 수출기업육성 지원절차를 간소화한다.,농기자재 수출기업육성 지원절차 간소화는 기업공감 절차혁신과 관련있다.,"entailment
+"
+기업공감 절차혁신과 관련해서는 농기자재 수출기업육성 지원절차를 간소화한다.,농기자재 수출기업육성 지원절차는 기존 5단계에서 3단계로 간소화된다.,"entailment 
+
+**explanation:**
+
+the premise states that the procedures for supporting agricultural material export companies will be simplified. the hypothesis states that those procedures will be reduced from 5 steps to 3 steps. reducing the number of steps *is* a form of simplification. therefore, the premise entails the hypothesis.
+"
+기업공감 절차혁신과 관련해서는 농기자재 수출기업육성 지원절차를 간소화한다.,기업공감 절차혁신과 관련해서는 농기자재 수출기업육성 지원절차를 복잡화한다.,"contradiction
+"
+"기원전 233년에, 아이아키다이 왕조의 마지막 생존 인물인 데이다미아가 살해당했다.",데이다미아를 살해한 인물은 그의 친구였다.,"neutral
+
+**explanation:**
+
+the premise states that deidamia was murdered in 233 bc. the hypothesis claims the murderer was a friend of deidamia. the premise doesn't provide any information about *who* murdered her, only *that* she was murdered. therefore, we cannot definitively say whether the hypothesis is true or false based on the premise. it's possible the murderer was a friend, but it's also possible they were an enemy, a rival, or someone else entirely.  hence, the relationship between the premise and the hypothesis is neutral.
+"
+"기원전 233년에, 아이아키다이 왕조의 마지막 생존 인물인 데이다미아가 살해당했다.",데이다미아는 아이아키다이 왕조의 마지막 생존자이다.,"entailment
+"
+"기원전 233년에, 아이아키다이 왕조의 마지막 생존 인물인 데이다미아가 살해당했다.",데이다미아는 자살했다.,"contradiction
+"
+김말석이 쓰레기 하치장 총책임자로 부임한 이후 이곳에서는 그전에는 없었던 인명사고가 발생하기 시작했다.,이곳에는 인명사고가 발생하지 않기 시작했다.,"contradiction
+"
+김말석이 쓰레기 하치장 총책임자로 부임한 이후 이곳에서는 그전에는 없었던 인명사고가 발생하기 시작했다.,김말석은 쓰레기 하치장 총책임자로 일했다.,"entailment
+"
+김말석이 쓰레기 하치장 총책임자로 부임한 이후 이곳에서는 그전에는 없었던 인명사고가 발생하기 시작했다.,김말석은 인명사고를 발생시켰다.,"entailment
+
+**explanation:**
+
+the premise states that after kim mal-seok became the head of waste disposal, previously unseen accidents started happening. this strongly implies a causal link. while the premise doesn't explicitly *prove* kim mal-seok caused the accidents, it's a highly probable and reasonable inference to conclude that his appointment as head of waste disposal *led to* or *resulted in* the accidents. therefore, the premise entails the hypothesis.
+"
+김용범 기획재정부 1차관은 15일 서울 은행회관서 열린 거시경제금융회의서 6월 고용동향을 설명하며 이같이 밝혔다.,거시경제금융회는 15일 15시에 열렸다.,"entailment
+"
+김용범 기획재정부 1차관은 15일 서울 은행회관서 열린 거시경제금융회의서 6월 고용동향을 설명하며 이같이 밝혔다.,기획재정부 1차관의 이름은 김용법이다.,"contradiction
+"
+김용범 기획재정부 1차관은 15일 서울 은행회관서 열린 거시경제금융회의서 6월 고용동향을 설명하며 이같이 밝혔다.,거시경제금융회의서는 부산 은행회관서 열렸다.,"contradiction
+"
+꽁치의 맛은 오즈 야스지로가 54번째로 감독한 영화이자 그가 마지막으로 감독한 영화다.,오즈 야스지로가 감독한 영화는 54개이다.,"entailment
+"
+꽁치의 맛은 오즈 야스지로가 54번째로 감독한 영화이자 그가 마지막으로 감독한 영화다.,오즈 야스지로는 꽁치의 맛을 감독하고 사망한다.,"entailment 
+
+**explanation:**
+
+the premise states that ""the taste of my mother"" (꽁치의 맛) was the 54th film directed by yasujiro ozu and his last film. the hypothesis states that yasujiro ozu directed ""the taste of my mother"" and died.  since the premise already establishes ozu directed the film, the hypothesis being true is a direct consequence of the premise.  therefore, the premise entails the hypothesis.
+"
+꽁치의 맛은 오즈 야스지로가 54번째로 감독한 영화이자 그가 마지막으로 감독한 영화다.,꽁치의 맛은 오즈 야스지로의 56번째로 감독한 영화이다.,"contradiction
+"
+끝까지 보는데 많은 인내가 필요했다.,끝까지 보는데 시간 가는 줄 몰랐다.,"neutral
+
+**explanation:**
+
+* **premise:** ""it took a lot of patience to watch until the end.""  this indicates the viewing experience required perseverance.
+* **hypothesis:** ""watching until the end made me lose track of time."" this suggests the viewing experience was engaging and absorbed the viewer.
+
+while patience was needed, it doesn't *necessarily* mean the viewer lost track of time. one can be patient through something tedious without being engrossed.  it's possible the viewing was slow and drawn out, requiring patience, but not captivating enough to make time fly. therefore, the premise doesn't guarantee or deny the hypothesis.
+
+
+
+"
+끝까지 보는데 많은 인내가 필요했다.,많은 인내를 발휘하여 마지막까지 보았다.,"entailment
+"
+끝까지 보는데 많은 인내가 필요했다.,중간까지 보는데도 많은 인내가 필요했다.,"entailment 
+
+**explanation:**
+
+the premise states that watching something *until the end* required a lot of patience. the hypothesis states that watching something *until the middle* also required a lot of patience.  if patience was required to reach the end, it logically follows that patience was also required to reach the middle.  therefore, the premise entails the hypothesis.
+"
+난 당신이 떠날때 길 하나도 못 건넜는데,난 길을 건넜다.,"contradiction
+"
+난 당신이 떠날때 길 하나도 못 건넜는데,물이 무서워 길은 못건넜다.,"neutral
+
+**explanation:**
+
+* **premise:** ""i couldn't cross even a single road when you left.""  this statement simply conveys a fact about the speaker's inability to cross a road at a specific time (when the other person left). it doesn't explicitly state *why* they couldn't cross.
+* **hypothesis:** ""i was afraid of water and couldn't cross the road."" this states a specific reason (fear of water) for the inability to cross the road.
+
+the premise doesn't confirm or deny the reason given in the hypothesis.  the speaker *might* have been afraid of water, but they could have had other reasons (e.g., traffic, physical limitations, being distracted). therefore, the premise is neutral towards the hypothesis.
+"
+난 당신이 떠날때 길 하나도 못 건넜는데,당신이 떠났다.,"entailment 
+
+**explanation:**
+
+the premise ""난 당신이 떠날때 길 하나도 못 건넜는데"" translates to ""i couldn't even cross one road when you left.""  this *implies* that the person *did* leave.  if they hadn't left, there would be no reason for the speaker to be concerned about crossing a road. therefore, the premise entails the hypothesis.
+"
+난 생처음으로 내돈내고 본 영화중에서 극장에서 졸았던 영화다.,영화를 내 돈 내고 본 적이 없다.,"contradiction 
+
+**explanation:**
+
+* **premise:** ""i, for the first time, fell asleep during a movie i paid for to see in a theater.""  this clearly indicates the speaker *has* paid to see a movie.
+* **hypothesis:** ""i have never paid to see a movie."" this directly contradicts the premise. 
+
+therefore, the premise and hypothesis are in contradiction.
+"
+난 생처음으로 내돈내고 본 영화중에서 극장에서 졸았던 영화다.,영화를 보고 극장에서 잠이 들었다.,"entailment
+"
+난 생처음으로 내돈내고 본 영화중에서 극장에서 졸았던 영화다.,남의 돈으로 본 영화가 있다.,"neutral
+
+**explanation:**
+
+*   **premise:** ""i was the first time paying with my own money and fell asleep during a movie at the theater."" this tells us the speaker paid for a movie themselves.
+*   **hypothesis:** ""someone has seen a movie with other people's money."" this simply states that someone has watched a movie without paying.
+
+the premise doesn't provide any information about whether *other* people have seen movies with other people's money. it only focuses on the speaker's experience of paying for a movie themselves. therefore, the premise is neutral towards the hypothesis.
+"
+"냉각재는 원자로에서 발생하는 열을 흡수하여, 열교환기를 거치면서 외부로 전달하는 역할을 한다.",냉각재는 열을 내부로 전달한다.,"contradiction 
+
+**explanation:**
+
+the premise states that the coolant *transfers* heat *to the outside*. the hypothesis states the coolant *transfers* heat *to the inside*. these are directly opposing statements. therefore, the premise contradicts the hypothesis.
+"
+"냉각재는 원자로에서 발생하는 열을 흡수하여, 열교환기를 거치면서 외부로 전달하는 역할을 한다.",냉각재는 열을 흡수한다.,"entailment
+"
+"냉각재는 원자로에서 발생하는 열을 흡수하여, 열교환기를 거치면서 외부로 전달하는 역할을 한다.",냉각재에 이상이 생기면 원자로는 즉각 중단된다.,"neutral
+"
+"노르웨이 배의 선장인 달란트는 심한 폭풍우에 휘말리게 되고, 표류를 한 끝에 노르웨이의 해안에 닿게 된다.",달란트는 향해 중 사망한다.,"neutral
+"
+"노르웨이 배의 선장인 달란트는 심한 폭풍우에 휘말리게 되고, 표류를 한 끝에 노르웨이의 해안에 닿게 된다.",달란트는 노르웨이의 해안에 고립된다.,"neutral
+
+**explanation:**
+
+the premise states that dalant reaches the norwegian coast *after* drifting. however, it doesn't explicitly say whether he is isolated *after* reaching the coast. he might be rescued, find a settlement, or be stranded, but the premise doesn't confirm the isolation. therefore, the premise is neutral towards the hypothesis.
+"
+"노르웨이 배의 선장인 달란트는 심한 폭풍우에 휘말리게 되고, 표류를 한 끝에 노르웨이의 해안에 닿게 된다.",달란트는 배의 선장이다.,"entailment
+"
+노사정이 함께 힘을 모은다면 3분기부터 경제 반등을 이루며 빠르게 위기를 극복하는 원동력이 될 것입니다.,노사정이 함께 힘을 모으기는 여간 쉬운 일이 아닙니다.,"neutral
+"
+노사정이 함께 힘을 모은다면 3분기부터 경제 반등을 이루며 빠르게 위기를 극복하는 원동력이 될 것입니다.,노사정이 함께 힘을 모은다면 3분기부터 경제 반등을 이룰 수 있습니다.,"entailment
+"
+노사정이 함께 힘을 모은다면 3분기부터 경제 반등을 이루며 빠르게 위기를 극복하는 원동력이 될 것입니다.,노사정이 함께 힘을 모은다면 3분기부터 경제가 급락할 것입니다.,"contradiction
+"
+높은 곳을 무서워하는 고소공포증에도 불구하고 꿈을 위해 용기를 낸 더스티는 친구들의 도움을 받아 세계 레이싱 대회에 도전한다.,더스티는 용기를 내지 못한다.,"contradiction
+"
+높은 곳을 무서워하는 고소공포증에도 불구하고 꿈을 위해 용기를 낸 더스티는 친구들의 도움을 받아 세계 레이싱 대회에 도전한다.,더스티는 레이싱 대회에 도전한다.,"entailment
+"
+높은 곳을 무서워하는 고소공포증에도 불구하고 꿈을 위해 용기를 낸 더스티는 친구들의 도움을 받아 세계 레이싱 대회에 도전한다.,더스티는 고소공포증을 극복한다.,"entailment
+"
+눈앞에서 괴한에게 아내를 잃은 천재 외과 의사 허준은 살인범을 잡기 위해서 전국의 격투기장을 떠돌아다닌다.,천재 허준은 아내와 함께 격투기장을 돌아다닌다.,"contradiction 
+
+**explanation:**
+
+the premise states that oh jun (허준), a genius surgeon, is wandering around fighting arenas *to catch the murderer* after losing his wife to a villain.  the hypothesis states that he wandered around fighting arenas *with his wife*. these are contradictory statements; if he lost his wife, he couldn't have been with her in the arenas after that. therefore, the premise contradicts the hypothesis.
+"
+눈앞에서 괴한에게 아내를 잃은 천재 외과 의사 허준은 살인범을 잡기 위해서 전국의 격투기장을 떠돌아다닌다.,허준은 격투기장에서 괴한을 찾는다.,"entailment 
+
+**explanation:**
+
+the premise states that heo jun is wandering around fighting arenas *in order to catch the murderer*. the hypothesis states that heo jun *finds* the murderer in fighting arenas.  since heo jun is actively seeking the murderer *within* fighting arenas, it logically follows that he would find the murderer there. therefore, the premise entails the hypothesis.
+"
+눈앞에서 괴한에게 아내를 잃은 천재 외과 의사 허준은 살인범을 잡기 위해서 전국의 격투기장을 떠돌아다닌다.,허준은 괴한에게 아내를 잃는다.,"contradiction
+
+**reasoning:**
+
+the premise states that hyojun *already* lost his wife to a villain. the hypothesis states he *loses* his wife to a villain.  this is a contradiction because the premise presents a completed event (the loss of his wife), while the hypothesis suggests it's happening again. 
+"
+니시무라는 한정된 재료와 특수한 환경 속에서 대원들이 실증을 내지 않는 메뉴를 만들기 위해 분투한다.,니시무라는 한정된 재료와 특수한 환경 속에서 맛있는 메뉴를 만들었다.,"neutral
+"
+니시무라는 한정된 재료와 특수한 환경 속에서 대원들이 실증을 내지 않는 메뉴를 만들기 위해 분투한다.,니시무라는 풍부한 재료를 가지고 대원들을 위한 메뉴를 만들려고 애쓴다.,"contradiction
+"
+니시무라는 한정된 재료와 특수한 환경 속에서 대원들이 실증을 내지 않는 메뉴를 만들기 위해 분투한다.,니시무라는 특수한 환경속에서 대원들을 위한 메뉴를 만들려고 애쓴다.,"entailment
+"
+다만 그동안은 한 곳의 치매안심센터에서 등록자를 장기간 관리하는 것이 효과적이라는 판단에 따라 주소지 관내 치매안심센터만 이용할 수 있었다.,내년부터 주소지 관외 치매안심센터도 이용할 수 있다.,"contradiction
+"
+다만 그동안은 한 곳의 치매안심센터에서 등록자를 장기간 관리하는 것이 효과적이라는 판단에 따라 주소지 관내 치매안심센터만 이용할 수 있었다.,그동안 주소지 관외 치매안심센터만 이용할 수 있었다.,"contradiction
+"
+다만 그동안은 한 곳의 치매안심센터에서 등록자를 장기간 관리하는 것이 효과적이라는 판단에 따라 주소지 관내 치매안심센터만 이용할 수 있었다.,그동안 주소지 관내 치매안심센터만 이용할 수 있었다.,"entailment
+"
+"다만 소액주주의 부담을 줄이기 위해 국내 상장주식 양도소득은 2000만원, 해외주식과 비상장 주식, 채권, 파생상품 소득은 하나로 묶어서 250만원을 공제한다.",해외주식은 500만원을 공제한다.,"contradiction
+"
+"다만 소액주주의 부담을 줄이기 위해 국내 상장주식 양도소득은 2000만원, 해외주식과 비상장 주식, 채권, 파생상품 소득은 하나로 묶어서 250만원을 공제한다.",이러한 공제에도 불구하고 소액주주의 부담은 줄어들지 않을 전망이다.,"neutral
+"
+"다만 소액주주의 부담을 줄이기 위해 국내 상장주식 양도소득은 2000만원, 해외주식과 비상장 주식, 채권, 파생상품 소득은 하나로 묶어서 250만원을 공제한다.",국내 상장주식 양도소득은 2000만원을 공제한다.,"entailment
+"
+다만 중소기업 수출은 전체 수출 또는 대기업 및 중견기업 수출 감소와 비교할 때 상대적으로 감소폭이 작은 것으로 조사됐다.,대기업의 수출 감소폭이 제일 작다.,"contradiction
+
+**explanation:**
+
+the premise states that *compared to* the decrease in exports from large and mid-sized companies, the decrease in exports from small and medium-sized enterprises (smes) is relatively small. this implies that the decrease in exports from large companies is *larger* than the decrease in exports from smes.
+
+therefore, the hypothesis that the decrease in exports from large companies is the *smallest* is a contradiction to the premise.
+"
+다만 중소기업 수출은 전체 수출 또는 대기업 및 중견기업 수출 감소와 비교할 때 상대적으로 감소폭이 작은 것으로 조사됐다.,대기업이 중소기업보다 수출 감소폭이 높다.,"contradiction
+
+**explanation:**
+
+the premise states that sme export decline is *relatively smaller* compared to large and mid-sized enterprise exports. the hypothesis states that large enterprises have a *higher* export decline than smes. these two statements directly contradict each other. therefore, the premise contradicts the hypothesis.
+"
+다만 중소기업 수출은 전체 수출 또는 대기업 및 중견기업 수출 감소와 비교할 때 상대적으로 감소폭이 작은 것으로 조사됐다.,전체 수출 감소폭은 중견기업 감소폭보다 작다.,"neutral
+
+**explanation:**
+
+the premise states that the decrease in sme exports is smaller *compared to* the decrease in overall exports, large corporations, and mid-sized corporations.  the hypothesis states that the decrease in overall exports is smaller *than* the decrease in mid-sized corporations.
+
+the premise doesn't directly tell us the relationship between the decrease in overall exports and the decrease in mid-sized corporations. it only compares sme exports to the other two groups.  it's possible the overall export decrease is larger than the mid-sized export decrease, or it could be smaller.  therefore, the premise is neutral towards the hypothesis.
+"
+"다만, 감면 대상자라도 확정신고를 해야 혜택을 받을 수 있다.",감면대상자는 확정신고를 하지 않아도 혜택을 받을 수 있다.,"contradiction
+"
+"다만, 감면 대상자라도 확정신고를 해야 혜택을 받을 수 있다.",감면대상자가 아니면 확정신고를 받기 힘들다.,"neutral
+
+**explanation:**
+
+* **premise:** ""however, even those who are eligible for a deduction must file a final declaration to receive the benefit.""  this focuses on the requirement for those *already* eligible to file.
+* **hypothesis:** ""it is difficult to receive a final declaration if you are not eligible for a deduction."" this focuses on the difficulty for those *not* eligible.
+
+the premise doesn't say anything about the difficulty for those ineligible. it simply states a condition for those who *are* eligible. therefore, the premise is neutral towards the hypothesis.
+"
+"다만, 감면 대상자라도 확정신고를 해야 혜택을 받을 수 있다.",감면대상자가 확정신고를 하면 혜택을 받을 수 있다.,"entailment
+"
+단 이직 전 24개월동안 12개월이상 보험료를 내야 한다.,이직 전 3개월동안 1개월이상 보험료를 내야 한다.,"contradiction
+"
+단 이직 전 24개월동안 12개월이상 보험료를 내야 한다.,이직 전 24개월동안 보험료를 100만원 내야 한다.,"neutral
+
+**explanation:**
+
+the premise states a *minimum* requirement: paying insurance premiums for at least 12 months within the 24 months before a job change.  the hypothesis states a specific amount (1 million won) must be paid. the premise doesn't say *how much* must be paid, only *for how long*.  therefore, the hypothesis could be true or false depending on the amount of the premium. the premise neither confirms nor denies the hypothesis.
+"
+단 이직 전 24개월동안 12개월이상 보험료를 내야 한다.,보험료를 이직 전 2년동안 1년이상 내야 한다.,"entailment
+"
+당첨자에게는 응모 시 입력한 휴대 전화번호로 국민관광상품권 5만 원권 모바일 교환권이 발송된다.,모든 응모자가 다 당첨되었다.,"neutral
+
+**explanation:**
+
+the premise states that *a* winner receives a mobile gift certificate. it doesn't say anything about *all* applicants winning. the hypothesis claims *every* applicant won, which isn't supported by the premise. therefore, the premise is neutral towards the hypothesis.
+"
+당첨자에게는 응모 시 입력한 휴대 전화번호로 국민관광상품권 5만 원권 모바일 교환권이 발송된다.,응모 시 휴대전화 번호를 입력했다.,"entailment
+"
+당첨자에게는 응모 시 입력한 휴대 전화번호로 국민관광상품권 5만 원권 모바일 교환권이 발송된다.,국민관광상품권 5만 원권은 우표로 발송된다.,"contradiction
+"
+대부분의 라이더가 고속주행과 고배기량의 오토바이를 탈 때 머리에 착용하는 헬멧의 종류는 풀페이스 헬멧이다.,대부분의 라이더가 고속주행과 고배기량의 오토바이를 탈 때 쓰는 헬멧은 풀페이스 헬멧이다.,"entailment
+"
+대부분의 라이더가 고속주행과 고배기량의 오토바이를 탈 때 머리에 착용하는 헬멧의 종류는 풀페이스 헬멧이다.,풀페이스 헬멧은 대부분의 라이더가 오토바이를 탈 때 손과 발에 착용한다.,"neutral
+"
+대부분의 라이더가 고속주행과 고배기량의 오토바이를 탈 때 머리에 착용하는 헬멧의 종류는 풀페이스 헬멧이다.,풀페이스 헬멧은 고배기량의 오토바이를 탈 때 법적으로 착용하게 되어있다.,"neutral
+
+**explanation:**
+
+the premise states that most riders who ride high-speed and high-displacement motorcycles wear full-face helmets. the hypothesis states that full-face helmets are legally required when riding high-displacement motorcycles.
+
+the premise doesn't mention *why* riders choose full-face helmets (e.g., safety). it only describes a common practice.  the hypothesis introduces a legal requirement, which is not mentioned in the premise. therefore, the premise neither guarantees nor denies the hypothesis. it's neutral.
+"
+"대상은 국민 모두이며, 주제 제한 없이 안전신문고 발전을 위한, 이론에 치우치지 않는 실용적이고 실천 가능한 다양한 정책 아이디어를 제안할 수 있다.",국민 모두가 대상이다.,"entailment
+"
+"대상은 국민 모두이며, 주제 제한 없이 안전신문고 발전을 위한, 이론에 치우치지 않는 실용적이고 실천 가능한 다양한 정책 아이디어를 제안할 수 있다.",대상은 영국 국민 모두다.,"neutral
+"
+"대상은 국민 모두이며, 주제 제한 없이 안전신문고 발전을 위한, 이론에 치우치지 않는 실용적이고 실천 가능한 다양한 정책 아이디어를 제안할 수 있다.",주제 제한이 있다.,"contradiction
+"

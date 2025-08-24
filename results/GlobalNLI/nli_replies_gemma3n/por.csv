@@ -1,0 +1,1524 @@
+premise,hypothesis,gpt_reply
+Um estudo afirma que jogar videogame pode aumentar a inteligência,Um estudo afirma que jogar videogame pode diminuir a inteligência,"contradiction
+"
+"Um indivíduo está sentado à beira do mar, sendo atingido por uma onda",O indivíduo está usando um chapéu de palha enquanto está sentado à beira do mar,"neutral
+"
+Uma embalagem de presente decorada com um personagem de desenho animado,Há um personagem de desenho animado na embalagem do presente.,"entailment
+"
+Um profissional de saúde está realizando radioterapia em um paciente deitado,O profissional de saúde tem muitos anos de experiência em radioterapia.,"neutral
+"
+Uma garota pequena no vestido vermelho está correndo na areia,Uma criança está correndo na areia.,"entailment
+"
+Um helicóptero é ilustrado voando entre as nuvens,Não há helicóptero voando entre as nuvens,"contradiction
+"
+A água está sendo derramada na chaleira pelo homem,O homem está usando uma camisa azul,"neutral
+"
+Um bolo retangular está coberto com ganache e decorado com raspas de chocolate preto na lateral e topo,O bolo retangular está sem cobertura e sem decoração,"contradiction
+"
+Atores e atrizes da peça estão vestidos com seus figurinos para a promoção do espetáculo,Os atores e atrizes têm experiência em teatro,"neutral
+"
+O céu está nublado e ventando,O céu está limpo e sem vento,"contradiction
+"
+"Relógios digitais estão disponíveis nas cores dourada, rosé e prata",Relógios digitais possuem alarme.,"neutral
+"
+Três palhaças estão se apresentando no espetáculo,Uma das palhaças tem uma peruca azul,"neutral
+"
+Indivíduos vestindo roupas de frio estão sendo fornecidos com máscaras pela equipe do governo local,As pessoas estão recebendo máscaras da equipe do governo local,"entailment
+"
+Um homem está degustando um prato de frutos do mar,O homem está comendo frutos do mar.,"entailment
+"
+Uma criança está correndo atrás de uma bola em um campo de futebol,O campo de futebol está bem cuidado e a grama está verde e cortada.,"neutral
+"
+Uma reunião está ocorrendo virtualmente com a participação de várias pessoas apresentadas em formato de mosaico,Várias pessoas estão participando de uma reunião virtual no formato de mosaico,"entailment
+"
+"Potes, tigelas e copos de vidro estão expostos, com uma das tigelas contendo peras",Os potes de vidro estão cheios de compota de maçã.,"neutral
+"
+Uma máscara branca e um par de luvas azuis descartáveis estão jogadas no chão,Uma enfermeira deixou cair sua máscara e luvas no chão.,"neutral
+"
+Um homem está dirigindo um carro para o fogo,O homem está conduzindo o carro para longe do fogo,"contradiction
+"
+Um manequim posa para fotos usando uma videira no cenário,O manequim está sendo fotografado com uma videira ao fundo,"entailment
+"
+A menina está lendo um livro de histórias em sua cama antes de dormir,A menina está em sua cama,"entailment
+"
+Um pedaço de tecido está sendo costurado por uma mulher,Uma mulher está cozinhando o jantar,"neutral
+"
+Não há nenhuma mulher loira com chapéu de palha em pé ao lado de um carrinho de sorvete,A mulher ao lado do carrinho de sorvete é morena,"neutral
+"
+Uma criança está alimentando um pato amarelo com migalhas de pão na beira do lago,"A criança está correndo longe do pato, com medo.","neutral
+"
+Três bodies estampados estão na vitrine da loja,Não há bodies estampados na vitrine.,"contradiction
+"
+"A modelo está sentada em uma cadeira em uma casa, vestindo um chinelo rasteira bege com enfeite",A modelo tem cabelos longos ondulados.,"neutral
+"
+Um gato preto está empurrando uma bola de vôlei com o focinho na areia da praia,O gato preto está brincando com uma bola de vôlei na areia da praia.,"entailment
+"
+"Dois gatos, um cinza e outro laranja, estão brincando despreocupadamente juntos no quintal",Os gatos são irmãos.,"neutral
+"
+Um homem está fazendo o sinal de positivo com a mão,O homem está fazendo o sinal de negativo com a mão,"contradiction
+"
+Uma gaivota está voando sobre as ondas do oceano,A gaivota está nadando nas ondas do oceano,"contradiction
+"
+Uma mulher está cozinhando um escorpião,Existe um escorpião sendo preparado para a refeição.,"entailment
+"
+Alguém está derramando suco de laranja na mulher,A mulher está usando um vestido branco.,"neutral
+"
+Jovens em trajes de esporte não estão jogando bola no campo,Jovens estão jogando bola no campo em trajes de esporte,"contradiction
+"
+Um gato preto está empurrando uma bola de vôlei com o focinho na areia da praia,Um gato preto está dormindo na areia da praia.,"neutral
+"
+Caixas de vacinas estão sendo descarregadas,Nenhuma dose de vacina está sendo movida do lugar,"contradiction
+
+**explanation:**
+
+the premise states that vaccine boxes are being unloaded. unloading implies movement of the boxes, and therefore, potentially movement of the vaccine doses *within* those boxes. the hypothesis claims *no* doses are being moved. these two statements are directly contradictory.
+"
+Um bebê está mamando no peito da mãe,O bebê está usando fralda,"neutral
+"
+Um profissional da saúde está informando a população,A população está sendo informada por um profissional da saúde,"entailment
+"
+O CD contém as partituras das obras mais famosas,O CD tem as músicas mais famosas em forma de partitura.,"entailment
+"
+A mulher está aplicando despretensiosamente o cream cheese em um bagel torrado,O cream cheese é produzido na Filadélfia.,"neutral
+"
+Dois indivíduos estão trabalhando no computador,Os dois indivíduos estão trabalhando em um projeto de programação,"neutral
+"
+Uma mulher está ralando o queijo com um utensílio,A mulher está preparando um prato que leva queijo.,"entailment
+"
+Uma mulher está admirando as gravuras da coleção na parede enquanto está parada na escada do local,A mulher está planejando comprar uma das gravuras na parede,"neutral
+"
+Pessoas estão participando da inauguração de uma exposição,Há pessoas presentes na abertura de uma exposição,"entailment
+"
+Existe um maço de couve fresca nas mãos de uma pessoa,As mãos da pessoa estão vazias.,"contradiction
+"
+"A cama está arrumada e sobre ela há uma bandeja com uma xícara de café, uma agenda e um notebook",A cama está desarrumada e não há nada sobre ela.,"contradiction
+"
+"O céu exibe tons de amarelo, laranja e vermelho como se estivesse em chamas",O céu parece um quadro de Van Gogh,"entailment 
+
+**explanation:**
+
+the premise describes a sky with fiery colors (yellow, orange, and red). van gogh is famous for his paintings depicting vibrant, emotionally charged skies with similar color palettes (think ""the starry night"" or ""wheatfield with crows""). therefore, the description in the premise strongly suggests that the sky *could* resemble a van gogh painting, making the hypothesis a likely and plausible consequence of the premise.  while not a direct logical certainty, it's a strong entailment.
+"
+Pessoas estão sentadas em formato de roda em um moderno e colorido espaço de trabalho,As pessoas estão sentadas em uma mesa redonda em um espaço de trabalho moderno,"entailment
+"
+O homem está guardando o violão na estante,O homem está ouvindo música clássica.,"neutral
+"
+Canecas de chope estão sendo brindadas,Há um brinde acontecendo com canecas de chope,"entailment
+"
+Dez brigadeiros de limão siciliano estão enrolados em granulado bolinha verde e dispostos em uma bandeja retangular de madeira,Os brigadeiros de limão siciliano foram feitos por uma confeiteira renomada,"neutral
+"
+A informação principal é que restam alguns dias para as eleições,As eleições já ocorreram.,"contradiction
+"
+Um flyer anuncia o lançamento de vendas online de uma marca de roupas,Uma marca de roupas está iniciando suas vendas online.,"entailment
+"
+"Três braceletes de argolas nas cores dourada, prata e rosê estão no braço da mulher",A mulher está usando três braceletes de argolas de diferentes cores.,"entailment
+"
+Uma reunião está ocorrendo virtualmente com a participação de várias pessoas apresentadas em formato de mosaico,A reunião está acontecendo pelo Zoom,"neutral
+"
+Uma pessoa está protegendo um violão,Uma pessoa está cantando uma canção,"neutral
+"
+Uma mulher está se equipando antes de mergulhar,A mulher está se preparando para escalar uma montanha,"neutral
+"
+Quatro mãos estão segurando diferentes tipos de picolé,Estão segurando diferentes tipos de sorvetes em palitos.,"entailment
+
+**explanation:**
+
+the premise states ""four hands are holding different types of popsicles."" popsicles are a type of ice cream on a stick. therefore, the premise directly supports the hypothesis which states ""they are holding different types of ice cream on sticks.""  the premise is a specific instance of the hypothesis.
+"
+"Homens estão vestindo chapéus de palha e crachás de festival, olhando intrigados para algo no horizonte",Há uma banda tocando no palco principal do festival.,"neutral
+"
+Um homem de patins não está no céu próximo a uma montanha,O homem de patins está perto de um lago,"neutral
+"
+Uma guitarra está sendo dedilhada por um músico,Um músico está tocando guitarra,"entailment
+"
+Uma criança está pintando usando a boca durante uma oficina,Uma criança está participando de uma oficina.,"entailment 
+"
+A água está sendo derramada na chaleira pelo homem,O homem está enchendo a chaleira com água,"entailment 
+
+**explanation:**
+
+if a man is pouring water *into* a kettle, it logically follows that he is filling it with water. the premise describes the action of pouring water into the kettle, which is a direct action supporting the hypothesis of filling it. therefore, the premise entails the hypothesis.
+"
+O shampoo e condicionador estão dispostos na janela do box do banheiro,Não há nada na janela do box do banheiro,"contradiction 
+
+**explanation:**
+
+the premise states that shampoo and conditioner *are* on the window shelf. the hypothesis states that *nothing* is on the window shelf. these statements are directly opposing each other, therefore the premise contradicts the hypothesis.
+"
+Uma mulher está subindo em uma bicicleta em uma calçada,Uma mulher está andando a pé pela calçada,"contradiction
+
+**explanation:**
+
+the premise states the woman is riding a bicycle. the hypothesis states she is walking. these actions are mutually exclusive, therefore the premise contradicts the hypothesis.
+"
+Uma ave com olhos e bico vermelhos possui penas de cor azul vibrante,Existe um pássaro cujas penas são azuis.,"entailment
+"
+"Uma sala de aula contém carteiras estudantis vazias, cadeiras vermelhas e carteiras brancas durante o dia",Há cadeiras vermelhas na sala de aula.,"entailment
+"
+"A lancheria serve um sanduíche composto por pão tipo baguete, alface, tomate, pepino, queijo, carne e bacon",A lancheria serve suco de laranja,"neutral
+"
+"Vários idosos estão acomodados nos bancos do parque, contemplando o pôr do sol",Muitos idosos estão assistindo o pôr do sol no parque,"entailment
+"
+Quatro potes de geléia de tomate estão dispostos na mesa da cozinha,Há geléia de tomate na mesa da cozinha,"entailment
+"
+A água está sendo derramada na chaleira pelo homem,A chaleira está vazia e seca,"contradiction
+
+**explanation:**
+
+the premise states that water is being poured *into* the kettle.  the hypothesis states the kettle is empty and dry. these are mutually exclusive statements. if water is being poured in, the kettle cannot be empty and dry. therefore, the premise contradicts the hypothesis.
+"
+Os pais da garota estão presentes,A garota está sem os pais,"contradiction
+"
+O indivíduo está afinando o violão,O indivíduo não está mexendo em seu instrumento musical,"contradiction
+"
+O maestro da orquestra municipal está no palco com as mãos para cima e a batuta empunhada,O maestro está pronto para reger a orquestra municipal.,"entailment
+"
+A toalha molhada que está sobre uma necessaire,A toalha azul está sobre uma necessaire verde,"neutral
+"
+O chimpanzé está rodeado de folhas na floresta,O chimpanzé está em uma área deserta sem vegetação.,"contradiction
+"
+"Vários homens se reúnem e se abraçam, formando um círculo no centro de um campo de futebol",Os homens estão usando uniformes de futebol vermelho e preto,"neutral
+"
+A mulher apaixonada é uma pintora de sonhos,A mulher apaixonada está ligada às artes.,"entailment
+"
+O homem está lendo o rótulo da loção hidratante,O homem está analisando as informações do rótulo de um hidratante,"entailment
+"
+Um campo de futebol à beira-mar está deserto,Não há ninguém jogando futebol na praia,"entailment 
+
+**explanation:**
+
+the premise states a football field by the sea is deserted. if the field is deserted, it logically follows that no one is playing football on the beach. the premise provides evidence supporting the hypothesis. therefore, the premise entails the hypothesis.
+"
+Muitos surfistas estão deslizando sobre as ondas,Os surfistas estão competindo numa competição internacional.,"neutral
+"
+A garota está equilibrando-se em um monociclo sobre uma ponte de corda,A garota está usando um capacete enquanto anda de monociclo,"neutral
+"
+O CD contém as partituras das obras mais famosas,A capa do CD tem uma imagem de uma orquestra.,"neutral
+"
+Não há nenhum coelho saltando buracos,Os coelhos estão comendo cenouras em um campo.,"neutral
+"
+A equipe brasileira está reunida em círculo na quadra com os braços erguidos,A equipe brasileira está usando uniformes verdes e amarelos,"neutral
+"
+Uma borboleta sem vida jaz ao lado de uma mulher morena repousando em uma pedra,Há uma borboleta morta.,"entailment
+"
+O menino e a menina estão correndo ao longo do riacho,Duas crianças estão correndo perto de um corpo de água.,"entailment
+"
+Não há nenhum barco de vela vermelho navegando contra a correnteza,Há um barco a motor azul navegando ao longo do curso do rio.,"neutral
+"
+O quadro tem o desenho da cabeça de um touro branco em perfil,O desenho no quadro representa um touro branco.,"entailment
+"
+A atleta  ganhou a medalha de bronze nos Jogos Paralímpicos,A atleta é uma excelente nadadora,"neutral
+"
+Um homem está sentado próximo a dois adolescentes,Um homem está lendo um livro.,"neutral
+"
+A afirmação defende que é possível realizar um treinamento intenso mesmo estando em casa,O treinamento intenso só pode ser feito em uma academia,"contradiction
+"
+Os filhos da pessoa estão aproveitando as férias brincando com amigos e comendo pipoca,Os filhos da pessoa jogam bola no parque,"neutral
+"
+Brinquedos de tecido estão alinhados no chão de madeira pintada de branco,Existem brinquedos no chão pintado de branco.,"entailment 
+
+**explanation:**
+
+the premise states that fabric toys are on a white painted wooden floor. the hypothesis states that there are toys on a white painted floor.  since the premise *guarantees* the presence of toys on a white painted floor, the premise entails the hypothesis.
+"
+Três panos de prato com estampas natalinas estão dobrados,Existem panos de prato com estampas natalinas dobrados,"entailment 
+
+**explanation:**
+
+the premise states that *at least* three christmas-themed dish towels are folded. the hypothesis states that *there exist* christmas-themed dish towels that are folded.  if three are folded, it's necessarily true that at least one exists that is folded. therefore, the premise entails the hypothesis.
+"
+Um pequeno garoto oriental está sentado além do grupo e está se divertindo com um pião,Um pequeno garoto oriental está de pé no meio do grupo,"contradiction 
+
+**explanation:**
+
+the premise states the boy is *sitting* *beyond* the group. the hypothesis states he is *standing* *in the middle* of the group. these two statements are mutually exclusive. therefore, the premise contradicts the hypothesis.
+"
+Um bolo redondo é coberto com chantilly espatulado branco e decorado com rosas e rosetas na lateral e em cima,O bolo redondo tem sabor de baunilha.,"neutral
+"
+Uma borboleta aconselha uma lagarta que ela precisa se transformar para poder voar,A borboleta diz à lagarta que ela pode voar sem se transformar,"contradiction 
+
+**explanation:**
+
+the premise states the butterfly *advises* the caterpillar that transformation is *necessary* to fly. the hypothesis claims the butterfly says the caterpillar *can* fly without transforming. these two statements are directly opposed, therefore the premise contradicts the hypothesis.
+"
+A eletricidade não voltou e o banho ainda será com água fria,O liquidificador na cozinha está sem uso.,"neutral
+"
+Um personagem do filme fez muito sucesso,O personagem do filme foi bem recebido pelo público,"entailment
+"
+Um profissional de saúde está realizando radioterapia em um paciente deitado,O profissional de saúde está realizando uma cirurgia no paciente,"contradiction 
+
+**explanation:**
+
+the premise states the professional is administering radiotherapy, which is a treatment using radiation. the hypothesis claims they are performing surgery, which is a physical procedure involving cutting and manipulating tissues. these are fundamentally different medical interventions and therefore contradict each other. radiotherapy does not involve surgery.
+"
+Uma mulher está abotoando um casaco,A mulher está usando um chapéu vermelho.,"neutral
+"
+Uma menina está pulando enquanto joga tênis de praia com um instrutor,A menina está sentada descansando após o jogo de tênis de praia,"contradiction
+
+**explanation:**
+
+the premise states the girl is *jumping* while playing beach tennis. the hypothesis states she is *sitting and resting* *after* the game.  these two situations are mutually exclusive; you can't be jumping and sitting/resting simultaneously. therefore, the hypothesis contradicts the premise.
+"
+Um estudo revela que a expectativa de vida diminui ao consumir mais de sete latas de cerveja por semana,Algumas pessoas gostam de beber cerveja nos fins de semana.,"neutral
+"
+"Duas mulheres estão apresentando um monólogo, que é extremamente divertido, com uma dançarina de balé no meio de uma plateia entusiasmada",Não tem nenhuma mulher apresentando um monólogo divertido.,"contradiction
+"
+A psicóloga alerta sobre casos de tristeza profunda e depressão,A psicóloga não menciona a tristeza e a depressão em seu aviso.,"contradiction
+"
+Uma borboleta azul com asas brilhantes repousa sobre a flor vermelha,Não há borboletas pousando em flores,"contradiction 
+
+**explanation:**
+
+the premise states there *is* a blue butterfly resting on a red flower. the hypothesis claims that there are *no* butterflies resting on flowers.  these statements directly oppose each other, making the premise a contradiction of the hypothesis.
+"
+Uma médica está examinando a garganta de uma paciente e questiona a importância da videolaringoscopia,A médica está usando um estetoscópio no exame da paciente,"neutral
+"
+Uma gaivota está voando sobre as ondas do oceano,A gaivota está voando acima da água do mar,"entailment
+"
+Os carros estão sendo dirigidos por dois motoristas,Apenas um motorista está dirigindo todos os carros,"contradiction 
+
+**explanation:**
+
+the premise states that *two* drivers are operating the cars. the hypothesis claims that *only one* driver is operating all the cars. these two statements directly contradict each other. therefore, the premise contradicts the hypothesis.
+"
+Não existe pessoa alguma girando o dial de um rádio antigo,O rádio antigo não está sendo usado por alguém.,"entailment 
+
+**explanation:**
+
+the premise states that *no one* is turning the dial of an old radio. the hypothesis states that the radio is *not being used by someone*. 
+
+if no one is turning the dial (which implies active use), then it logically follows that the radio is not being used. therefore, the premise entails the hypothesis.
+"
+O gato está comendo ração de um prato,O gato é um felino de pelo longo.,"neutral
+"
+Uma criança vestida de camisa social está segurando um dado em sua mão direita,A criança está vestindo uma calça jeans azul,"neutral
+"
+No jantar serviremos batatas salpicadas e um prato de anéis de cebola empanados,Será servido vinho durante o jantar.,"neutral
+"
+Não há nenhuma mulher lendo um livro sob a sombra de uma árvore em uma tarde de primavera,Uma criança está brincando ao sol em uma tarde de primavera,"neutral
+"
+Várias pessoas estão navegando em um caiaque,Um grupo de indivíduos está praticando caiaque.,"entailment
+"
+Dois atletas paraolímpicos em cadeiras de rodas estão competindo em uma corrida,Os atletas paraolímpicos estão disputando a medalha de ouro na corrida.,"neutral
+"
+Há um menino alegremente empinando uma pipa de papel,O menino está triste e sua pipa de papel está no chão,"contradiction 
+
+**explanation:**
+
+the premise states the boy is *alegremente* (happily) flying a kite. the hypothesis states he is *triste* (sad) and his kite is on the ground. these two statements are directly contradictory.  a happy boy is unlikely to have a kite that is down, and a sad boy is unlikely to be happily flying a kite. therefore, the premise contradicts the hypothesis.
+"
+"Duas mulheres estão apresentando um monólogo, que é extremamente divertido, com uma dançarina de balé no meio de uma plateia entusiasmada",Está acontecendo uma apresentação de monólogo por duas mulheres e é muito engraçada.,"entailment
+"
+Policiais prendem o motorista no local onde a carreta foi parada,O motorista estava usando um macacão azul.,"neutral
+"
+Leitos estão organizados separadamente por divisórias,Há divisórias entre os leitos,"entailment
+"
+A atleta  ganhou a medalha de bronze nos Jogos Paralímpicos,A atleta conquistou uma medalha nos Jogos Paralímpicos,"entailment
+"
+A pessoa tem o cabelo preso em um rabo de cavalo com alguns cachos soltos ao redor da testa,A pessoa tem o cabelo totalmente solto,"contradiction
+"
+Membros do movimento estão formalizando uma solicitação contra o aumento das tarifas de ônibus,O movimento está organizando uma reunião para discutir questões de transporte público,"neutral
+
+**explanation:**
+
+the premise states that members of the movement are formalizing a request *against* bus fare increases. the hypothesis states that the movement is organizing a meeting to discuss public transportation issues.
+
+while the premise *could* be a part of the broader discussion in the meeting (making the hypothesis likely), it doesn't *necessarily* entail it. the movement could be focusing *solely* on the fare increase, and the meeting might address other public transportation concerns without directly referencing the fare request. therefore, the premise is neutral towards the hypothesis.
+"
+Um vidro transparente com álcool em gel está posicionado sobre duas máscaras para o rosto em um balcão preto,O recipiente transparente com álcool em gel está vazio e ao lado das máscaras,"neutral
+"
+O texto apresenta um conteúdo alternativo relacionado à física,O texto apresenta um conteúdo tradicional sobre física,"contradiction
+"
+Uma guitarra está sendo dedilhada por um músico,Há um palco iluminado ao fundo,"neutral
+"
+Nenhum pássaro está voando sob a chuva,Há pássaros cantando em uma árvore.,"neutral
+"
+Uma mulher está usando uma máscara com representações de vírus enquanto questiona como o coronavírus impacta as relações de trabalho,Uma mulher sem máscara está discutindo sobre como o coronavírus não afeta as relações de trabalho,"contradiction
+"
+Um bando de amigos se reúne à beira do lago,Alguns amigos estão pescando no lago,"neutral 
+
+**explanation:**
+
+the premise states that a group of friends is gathering by the lake. the hypothesis suggests that *some* of those friends are fishing. the premise doesn't rule out the possibility of some friends fishing, but it also doesn't confirm it. it's possible they are doing other activities, or that none of them are fishing. therefore, the premise is neutral towards the hypothesis.
+"
+A garotinha está usando um vestido azul e está sorrindo,Uma criança vestida de azul está feliz,"entailment
+"
+O palácio do governo está aberto a visitações,As pessoas podem visitar o palácio do governo.,"entailment
+"
+Uma mulher em um skate pink está fazendo manobras enquanto uma amiga em um patins azul está se aproximando,A mulher de patins azul está indo para a academia.,"neutral
+"
+Caixas de presente amarelas com laços azuis foram entregues,Os presentes dentro das caixas são livros.,"neutral
+"
+Não há nenhum gato que é siamês e branco no jardim carregando um novelo de lã nas suas patas,Há um gato siamês e branco carregando um novelo de lã no jardim,"contradiction
+"
+Caramelos de leite estão dispostos na mão,A mão está vazia e sem caramelos.,"contradiction
+
+**explanation:**
+
+the premise states that milk candies are *on* the hand. the hypothesis states that the hand is *empty* and without candies. these two statements are directly contradictory. if there are candies on the hand, it cannot be empty of candies.
+"
+Um gato preto está pulando por um muro de pedras,Um gato preto está dormindo em um muro de pedras.,"neutral
+"
+Uma mulher está rasgando um casaco com uma tesoura,A pessoa está cortando um casaco com uma tesoura,"entailment
+"
+Uma costureira está modelando um tecido laranja em uma mesa de costura,A costureira está trabalhando com um tecido de cor laranja.,"entailment
+"
+Um barco está navegando,O barco está parado.,"contradiction
+"
+Ao lado da casa há uma pequena lavoura de feijão,Existe uma lavoura de feijão ao lado da casa,"entailment
+"
+"Um prato de ovos mexidos, salsichas e queijo é colocado na mesa ao lado de uma xícara de chá preto com leite","O prato de comida tem ovos mexidos, salsichas, queijo e bacon","contradiction
+
+**explanation:**
+
+the premise states the dish contains eggs, sausages, and cheese. the hypothesis states the dish contains eggs, sausages, cheese, *and* bacon. since the premise *doesn't* mention bacon, the hypothesis introduces information not present in the premise, thus contradicting it.
+"
+Não há nenhum homem tamborilando seus pés,Há um homem tocando bateria.,"neutral
+
+**explanation:**
+
+the premise states that *no* man is tapping his feet. the hypothesis states that *a* man is playing the drums.  these two statements don't directly relate. someone playing the drums might or might not be tapping their feet.  the premise doesn't provide any information about drumming, only about foot tapping. therefore, the premise neither confirms nor denies the hypothesis.
+"
+"Os casarões, apesar de antigos, possuem boa acessibilidade",Os casarões têm lindos jardins.,"neutral
+"
+Um estudo sugere que jantar enquanto assiste TV ou usa o celular pode levar ao ganho de peso,Usar o celular durante as refeições pode distrair a pessoa do que está comendo.,"neutral
+"
+Ciclistas e ônibus estão navegando através do trânsito frenético na metrópole,Ciclistas e ônibus estão percorrendo uma estrada tranquila na metrópole.,"contradiction
+"
+A fragrância com embalagem transparente e tampa dourada está posicionada sobre uma textura e folhas douradas,A fragrância está em cima de uma textura e folhas douradas.,"entailment
+"
+A pessoa tem o cabelo preso em um rabo de cavalo com alguns cachos soltos ao redor da testa,Alguém tem cachos soltos ao redor da testa,"entailment
+"
+Três gatos não estão brincando juntos,Três gatos estão dormindo juntos.,"neutral
+"
+Um cisne majestoso está repousando na margem de um lago sereno,O cisne está voando sobre o lago.,"contradiction
+"
+Um homem está sentado próximo a dois adolescentes,O homem está sozinho.,"contradiction 
+
+**explanation:**
+
+the premise states the man is *next to* two teenagers.  being ""next to"" others implies he is *not* alone. therefore, the hypothesis that he is alone contradicts the premise.
+"
+Um gato está deliciosamente se esbaldando com o sol na varanda,O gato está aproveitando o sol na varanda,"entailment
+"
+O indulto para condenado por corrupção poderá ser proibido,Existe a possibilidade de proibição do indulto para condenados por corrupção.,"entailment
+"
+Engrenagens estão fixadas em uma parede e contidas em uma caixa de inox polido,As engrenagens estão soltas sobre a mesa.,"contradiction
+"
+"Alunas de balé, mães e professora prestam homenagem ao Outubro Rosa","As alunas de balé, mães e professora ignoram o Outubro Rosa.","contradiction
+"
+Um senhor de 50 anos está sorrindo com alegria,O homem de 50 anos está vestindo um casaco azul.,"neutral
+"
+A afirmação defende que é possível realizar um treinamento intenso mesmo estando em casa,O treinamento intenso pode ser feito em casa,"entailment
+"
+Duas mulheres com patins estão à beira de um lago congelado,Existem pessoas prontas para andar de patins em um lago congelado,"entailment
+"
+Uma garota de vermelho está correndo de um homem de vermelho,Uma garota de vermelho está carregando uma bolsa azul,"neutral
+"
+O cartaz informa sobre as operações atuais da polícia durante a pandemia do novo Coronavírus,O cartaz não contém informações sobre as operações atuais da polícia durante a pandemia do novo Coronavírus,"contradiction
+"
+"Um trem está cheio de pessoas, tanto sentadas quanto em pé, todas usando máscaras faciais",As pessoas no trem não estão usando máscaras faciais.,"contradiction
+"
+"O garoto, que é muito jovem, está meticulosamente amarrando os cadarços de seu tênis",O menino não está amarrando os cadarços do tênis.,"contradiction
+"
+O quadro tem o desenho da cabeça de um touro branco em perfil,O quadro tem um desenho de uma cabeça de cavalo.,"contradiction
+"
+"Duas mulheres, um homem e duas pequenas meninas estão reunidos ao ar livre de uma larga praça, diante de uma multidão de espectadores","Um grupo de cinco pessoas, sendo duas delas crianças, está reunido em uma praça grande com muitos espectadores ao redor.","entailment
+"
+Uma profissional da saúde está aplicando a vacina no braço de uma mulher,A mulher não está recebendo a vacina,"contradiction
+"
+Dois halteres e uma maçã enrolada com uma fita métrica estão dispostos,Não há halteres nem maçã envolvida por uma fita métrica,"contradiction
+"
+Um barco está sendo navegado por um jovem,O jovem é um marinheiro experiente,"neutral
+"
+Duas mulheres não estão tirando um descanso no plantio do jardim,Duas mulheres estão descansando enquanto plantam um jardim,"neutral
+
+**explanation:**
+
+the premise states that two women are *not* taking a break while working in the garden. the hypothesis states that two women *are* resting while planting a garden. these two statements are logically incompatible, but the premise doesn't *necessarily* mean the hypothesis is false.  they could be working *without* taking breaks, or perhaps the ""resting"" in the hypothesis is a very brief pause within the planting activity.  therefore, the premise doesn't definitively entail or contradict the hypothesis; it's neutral.
+"
+Os filhotes de cachorro nos cestos estão sendo usados como adereços para um comercial de televisão,"Os filhotes de cachorro estão sendo usados para um filme, não um comercial de televisão","contradiction
+"
+Não tem nenhuma mulher gritando,O ambiente está livre de gritos de mulheres,"entailment 
+
+**explanation:**
+
+* **premise:** ""não tem nenhuma mulher gritando"" translates to ""there isn't a single woman screaming"" or ""no woman is screaming.""
+* **hypothesis:** ""o ambiente está livre de gritos de mulheres"" translates to ""the environment is free of women's screams"" or ""the environment is free of screams from women.""
+
+if no woman is screaming, then the environment is necessarily free of screams *from women*. the premise directly implies the hypothesis. therefore, the premise entails the hypothesis.
+"
+Um gato preto está deitado em uma almofada,O gato preto tem olhos verdes.,"neutral
+"
+Dois gatos estão se divertindo no jardim cheio de flores,Os gatos estão brincando ao ar livre,"entailment 
+
+**explanation:**
+
+the premise states that two cats are having fun in a garden full of flowers.  ""ao ar livre"" (outdoors) is implied by being in a garden. therefore, the premise entails the hypothesis.
+"
+Caixas de vacinas estão sendo descarregadas,Vacinas estão sendo retiradas de seu meio de transporte,"entailment
+"
+Oito aplicadores de produtos de sobrancelha estão dispostos numa mesa,Não há aplicadores de produtos de sobrancelha na mesa.,"contradiction
+"
+Não tem nenhuma mulher gritando,Uma mulher está sorrindo,"neutral
+"
+O cachorro está correndo atrás do gato no jardim,O gato está sendo perseguido por um cachorro.,"entailment
+"
+Uma mulher envolta em uma toalha está se maquiando diante de um espelho,Uma mulher envolta em uma toalha está se despindo diante de um espelho.,"neutral
+"
+Uma bola vermelha está sendo chutada por uma criança que está brincando no parque,Uma bola azul está sendo chutada por uma criança que está em casa,"neutral
+"
+Não tem nenhum homem assando um peixe,Uma mulher está grelhando um peixe,"neutral
+"
+Um bolo redondo é coberto com chantilly espatulado branco e decorado com rosas e rosetas na lateral e em cima,O bolo redondo não tem decoração alguma,"contradiction
+"
+Uma mulher possui um chip localizado atrás de sua orelha,A mulher não possui nenhum objeto estranho em seu corpo,"contradiction 
+
+**explanation:**
+
+the premise states the woman *does* possess a chip in her body. the hypothesis states she *does not* possess any foreign object in her body. these statements are mutually exclusive; therefore, the premise contradicts the hypothesis.
+"
+Um gato está se aquecendo em um telhado enquanto a lua lança seu brilho suave sobre ele,O gato tem pelo curto.,"neutral
+"
+Há livros infantis disponíveis na biblioteca,A biblioteca tem uma seção de livros de culinária,"neutral
+"
+"Três adolescentes estão segurando seus celulares, com uma delas exibindo a tela da rede social",Nenhum adolescente está segurando um celular,"contradiction
+"
+Uma garotinha está tampando o rosto com a mão,A garotinha está com as mãos para baixo.,"entailment 
+
+**explanation:**
+
+if a little girl is covering her face with her hand, it necessarily means her hand is positioned downwards (or at least partially downwards) towards her face. the premise implies a hand position that aligns with the hypothesis. therefore, the premise entails the hypothesis.
+"
+Uma mão está segurando uma casquinha de sorvete de dois sabores,Uma casquinha de sorvete de dois sabores está sendo segurada por uma mão,"entailment
+"
+A atleta  ganhou a medalha de bronze nos Jogos Paralímpicos,A atleta não conseguiu nenhuma medalha nos Jogos Paralímpicos,"contradiction
+"
+Um homem está descascando uma laranja que é suculenta,Um homem está comendo uma laranja,"neutral
+"
+O quadro tem o desenho da cabeça de um touro branco em perfil,O quadro tem uma moldura dourada.,"neutral
+"
+Uma tábua especial de frios contém uma ampla variedade de opções,A tábua de frios tem poucas opções,"contradiction
+"
+Um garotinho está usando uma camiseta azul e está correndo em um parque infantil,Há um menino correndo em um playground vestindo uma camiseta azul,"entailment
+"
+Um homem está assando peixe,Peixe está sendo preparado na churrasqueira por um homem,"neutral
+"
+Os foliões estão dançando na festa junina,Os foliões estão vestindo roupas tradicionais de festa junina,"neutral
+"
+O céu está nublado e ventando,Há uma bandeira tremulando no topo do mastro,"neutral 
+
+**explanation:**
+
+the premise describes the weather conditions (cloudy and windy). the hypothesis describes a specific event (a flag waving). while wind *could* cause a flag to wave, the premise doesn't *guarantee* a flag is present or waving. it's possible the flag is down, or the wind isn't strong enough to make it wave. therefore, the premise neither confirms nor denies the hypothesis.
+"
+"Eu e minha noiva tiramos uma selfie durante nosso casamento, junto com fotos de família",A selfie tirada durante o casamento foi publicada no Facebook.,"neutral
+"
+Uma pessoa está engajada em estudos,Alguém está aprendendo algo.,"entailment
+"
+Um homem está descascando uma laranja que é suculenta,O homem não está descascando nenhuma fruta,"contradiction 
+
+**explanation:**
+
+the premise states the man *is* peeling a succulent orange. the hypothesis states he is *not* peeling any fruit. these are directly opposing statements. therefore, the premise contradicts the hypothesis.
+"
+O homem está lendo o rótulo da loção hidratante,O homem usa regularmente loção hidratante,"neutral
+"
+Uma mão está manuseando uma máquina de cartão para realizar um pagamento,A máquina de cartão não está sendo usada para realização de um pagamento,"contradiction
+"
+Um garoto está praticando uma melodia no piano,O garoto está tocando uma música de Beethoven no piano,"neutral
+"
+Um lagarto está posicionado sobre um afloramento rochoso cercado por galhos secos,Existe um lagarto em um local rochoso com galhos secos ao redor,"entailment
+"
+Uma rua é composta por várias casas coloridas vistas de frente,As casas vistas de frente são coloridas,"entailment 
+
+**explanation:**
+
+the premise states that a street consists of colorful houses viewed from the front. this directly implies that the houses seen from the front *are* colorful. therefore, the premise entails the hypothesis.
+"
+"Depois de um dia de pesca, o pescador visualiza a praia com coqueiros para onde volta",O pescador está retornando para a praia após a pesca.,"entailment
+"
+Duas garrafas do vinho tinto estão dispostas sobre uma mesa de madeira,Há vinho tinto em cima de uma mesa,"entailment
+"
+"A sala possui uma mesa decorada, uma planta, um puff e vários artigos decorativos","A sala é vazia, sem móveis ou decorações.","contradiction
+"
+Três gatinhos estão se divertindo em um jardim florido,Não há gatos no jardim,"contradiction
+"
+Não há nenhuma mulher descascando algumas batatas agilmente com um descascador,Uma mulher está descascando batatas rapidamente com um descascador,"contradiction 
+
+**explanation:**
+
+the premise states that *no* woman is peeling potatoes agilely with a peeler. the hypothesis states that *a* woman *is* peeling potatoes rapidly with a peeler. these two statements directly oppose each other. therefore, the premise contradicts the hypothesis.
+"
+Uma mulher está caminhando sob a neve,A mulher está se movendo ao ar livre.,"entailment
+"
+A mulher está sentada no jardim e a criança está escorregando do balanço,A mulher está dentro de casa e a criança está dormindo,"contradiction
+
+**explanation:**
+
+the premise states the woman is in the garden, while the hypothesis states she is inside the house. these two statements are mutually exclusive, indicating a contradiction.
+"
+Uma mulher está derramando um jarro de calda de chocolate em um bolo esfarelado,O bolo está sendo coberto com calda de chocolate.,"entailment
+"
+Duas crianças estão se divertindo juntas no parquinho,Há crianças brincando no parquinho.,"entailment
+"
+Mãos masculinas tatuadas estão realizando trabalhos manuais em madeira,As tatuagens nas mãos são de desenhos tribais.,"neutral
+"
+Não há ninguém lavando o carro,O carro não está sendo lavado,"entailment 
+
+**explanation:**
+
+the premise states that *no one* is washing the car. the hypothesis states that the car is *not* being washed.  if no one is washing the car, then it logically follows that the car is not being washed. therefore, the premise entails the hypothesis.
+"
+"Um mini hambúrguer artesanal de carne bovina é servido espetado por um palito gourmet, acompanhado de tomate cereja e alface americana",O mini hambúrguer artesanal é acompanhado de vegetais,"entailment 
+
+**explanation:**
+
+the premise explicitly states that the mini hamburger is served with cherry tomatoes and lettuce, both of which are vegetables. therefore, the premise entails the hypothesis that the mini hamburger is accompanied by vegetables.
+"
+Um bolo comemorativo está sendo feito na confeitaria,Um bolo está sendo preparado na confeitaria para uma celebração,"entailment
+"
+Os pés de uma modelo estão calçados com um sapato de verniz,A modelo está usando sapatos de verniz.,"entailment
+"
+Um pequeno garoto oriental está sentado além do grupo e está se divertindo com um pião,Um menino asiático está brincando com um pião longe do grupo,"entailment
+"
+Vários educadores se reúnem para iniciar um projeto,Um grupo de educadores está começando um projeto,"entailment
+"
+Uma mulher está folheando um livro com várias outras obras empilhadas ao fundo,"A mulher está apenas observando as obras ao fundo, sem tocar em nenhum livro","neutral
+"
+O palácio do governo está aberto a visitações,O palácio do governo está fechado ao público.,"contradiction
+"
+Depois do almoço foi servido uma sobremesa de sorvete de creme,Sorvete de creme foi servido.,"entailment
+"
+A energia elétrica não deve ser interrompida durante a pandemia,O fornecimento de gás não deve ser interrompido durante a pandemia.,"neutral
+"
+"Uma mulher negra, com uma expressão séria, está encostada em um objeto vermelho",Uma pessoa com uma expressão séria está encostada em um objeto vermelho,"entailment
+"
+Eu e minha mãe tiramos uma selfie enquanto ela segurava um buquê de flores amarelas,Minha mãe e eu temos uma foto juntas com um buquê de flores amarelas.,"entailment
+"
+Uma mão é vista segurando uma pipa em direção a um arco-íris ao fundo,Não há arco-íris à vista.,"contradiction
+"
+Duas mulheres são personagens centrais desta obra de arte,A obra de arte é focada em duas mulheres,"entailment
+"
+A veterinária está cuidando de dois cachorros doentes ao mesmo tempo,A veterinária está atendendo somente um cachorro,"contradiction
+"
+A modelo veste um biquíni azul com detalhe em verde,A modelo tem cabelo preto longo,"neutral
+"
+Uma mãe e seu filho estão sendo assustados no carrinho de um trem fantasma,A mãe e o filho estão rindo no carrinho do trem fantasma,"contradiction
+"
+Um gato cinza escuro e um coelho branco puro estão correndo no jardim,Não há animais no jardim.,"contradiction
+"
+O resultado da segunda chamada do vestibular já está disponível no site oficial,Ainda não se sabe o resultado da segunda chamada do vestibular.,"contradiction
+"
+Uma pessoa está engajada em estudos,A pessoa está dormindo.,"contradiction
+"
+"Várias pimentas de cores verdes, laranjas e vermelhas estão reunidas","Há uma cesta de pimentas amarelas ao lado das pimentas verdes, laranjas e vermelhas.","neutral
+"
+Um indivíduo está vestindo um suéter vermelho e caminhando descalço no campo de futebol,O indivíduo está usando sapatos e andando num campo de voleibol.,"contradiction 
+
+**explanation:**
+
+the premise states the person is wearing a red sweater and walking barefoot on a football field. the hypothesis states the person is wearing shoes and walking on a volleyball court. these statements are contradictory because they describe different clothing and locations. 
+"
+O perfume tem vidro de cor preta com tampa preta,O perfume está em um frasco de vidro transparente.,"contradiction 
+
+**explanation:**
+
+the premise states the perfume is in a bottle with black glass and a black cap. the hypothesis states the perfume is in a *transparent* glass bottle. these two statements are mutually exclusive; a bottle cannot be both black and transparent at the same time. therefore, the premise contradicts the hypothesis.
+"
+Uma mulher está se expressando com um piano,Uma mulher está tocando piano,"entailment
+"
+Não há nenhum cachorro pulando a cerca com uma bola,A cerca não está sendo pulada por um cachorro com uma bola,"entailment 
+
+**explanation:**
+
+the premise states that there are *no* dogs jumping the fence *with a ball*. the hypothesis states that the fence is *not* being jumped by a dog *with a ball*.  since the premise denies the existence of a specific scenario (dog jumping the fence with a ball), the hypothesis, which denies the same scenario, is a logical consequence of the premise. therefore, the premise entails the hypothesis.
+"
+Um par de tênis preto infantil é visto de cima para baixo,Há um par de meias de criança ao lado do tênis.,"neutral
+"
+"Duas mulheres, um homem e duas pequenas meninas estão reunidos ao ar livre de uma larga praça, diante de uma multidão de espectadores","Não há ninguém reunido ao ar livre em uma praça, muito menos diante de uma multidão de espectadores.","contradiction
+"
+Um homem está aparando a barba meticulosamente,Um homem está penteando o cabelo,"neutral
+"
+"A modelo está sentada em uma cadeira em uma casa, vestindo um chinelo rasteira bege com enfeite","A modelo está de pé na rua, usando uma sandália de salto alto preta.","contradiction
+"
+Dois gatos estão se divertindo no jardim cheio de flores,Os gatos estão dentro de casa,"contradiction
+"
+Pacotes de bombons de chocolate com banana e chocolate com amendoim sem açúcar estão dispostos sobre uma mesa,Pacotes de bombons de chocolate com açúcar estão dispostos sobre a mesa.,"neutral
+"
+Um senhor de 50 anos está sorrindo com alegria,O homem de meia-idade está expressando felicidade através de seu sorriso.,"entailment
+"
+Uma criança está alimentando um pato amarelo com migalhas de pão na beira do lago,O pato amarelo está sendo alimentado com migalhas de pão por uma criança.,"entailment
+"
+Um aparelho removível está presente,Não há aparelho removível disponível,"contradiction
+"
+Não há nenhuma mulher descascando algumas batatas agilmente com um descascador,Nenhuma mulher está usando um descascador para descascar batatas de maneira ágil,"neutral
+"
+Os pais estão observando suas trigêmeas recém-nascidas,Os pais estão olhando seus filhos gêmeos,"contradiction 
+
+**explanation:**
+
+the premise states the parents are observing their *trigêmeas* (triplets), while the hypothesis states they are looking at their *filhos gêmeos* (twin sons).  triplets are three children, and twins are two children. these are mutually exclusive scenarios. therefore, the hypothesis contradicts the premise.
+"
+Um homem está descascando uma batata amarela,O homem não está descascando uma batata,"contradiction
+"
+Um campo de futebol à beira-mar está deserto,O campo de futebol à beira-mar está cheio de jogadores,"contradiction
+"
+"Uma pessoa de blusa verde estampada está sentada em frente a uma grande árvore, usando óculos escuros e segurando o cabelo",A pessoa não está usando óculos.,"contradiction
+"
+Caramelos de leite estão dispostos na mão,Os caramelos de leite estão embrulhados em papel dourado.,"neutral
+"
+Uma reunião está ocorrendo virtualmente com a participação de várias pessoas apresentadas em formato de mosaico,"As pessoas estão se reunindo fisicamente, não virtualmente","contradiction
+"
+A mulher não está pintando uma tela de tecido,A tela de tecido não está sendo pintada por uma mulher,"entailment
+"
+Uma menina jovem está dançando e tocando o piano,Uma menina jovem está tocando o piano,"entailment
+"
+"Um homem, que está de pé, está declamando um poema e tocando flauta",Existe um homem tocando flauta e recitando versos,"entailment
+"
+Um gato preto está deitado em uma almofada,O gato preto está correndo ao redor da casa.,"contradiction
+"
+Vários indivíduos se encontram em um campo de futebol para um torneio amador,Não há ninguém no campo de futebol.,"contradiction
+"
+A senhora serviu um bule de chá aos seus convidados,A senhora não serviu nada para seus convidados.,"contradiction
+"
+"Uma família está reunida em casa, sentada no sofá",Pessoas estão juntas sentadas no sofá de uma casa.,"entailment
+"
+Um homem está acariciando um guaxinim,Um homem adora animais,"neutral
+"
+Panquecas estão servidas em um prato branco com detalhes de bolinhas verdes,Panquecas estão em um prato com detalhes verdes,"entailment
+"
+Leitos estão organizados separadamente por divisórias,Os leitos estão organizados sem divisórias,"contradiction
+"
+Uma garota está dançando sob a chuva no campo,A garota está dançando ballet no campo.,"neutral
+"
+Uma mulher está apresentando uma palestra em um palco,Uma palestra está sendo apresentada por uma mulher no palco,"entailment
+"
+Um estudo revela que a expectativa de vida diminui ao consumir mais de sete latas de cerveja por semana,Beber mais de sete latas de cerveja por semana não tem efeito na expectativa de vida.,"contradiction
+"
+Vários pedaços de sushi estão sendo degustados por um homem,Um homem não está comendo sushi,"contradiction
+"
+Um prato do restaurante contém filé de salmão acompanhado de batatas,O restaurante está servindo filé de salmão com batatas,"entailment
+"
+Dois amigos estão relaxando à sombra de uma árvore em uma tarde ensolarada,Há dois amigos sob uma árvore.,"entailment
+"
+"Uma árvore de grande porte tem um risco iminente de queda, colocando a população em perigo",A população está em perigo devido ao risco de queda de uma árvore de grande porte.,"entailment
+"
+Diversos vasos contendo mudas estão localizados em uma estufa,As mudas estão sendo regadas diariamente,"neutral
+"
+Uma raposa vermelha está correndo em direção a um coelho branco na floresta coberta de neve,A raposa vermelha está perseguindo uma presa na floresta nevada.,"entailment
+"
+Uma pessoa está engajada em estudos,A pessoa está lendo um livro de romance.,"neutral
+"
+Uma equipe de chefs está exibindo seus pratos gourmet e posando para a fotografia,A equipe de chefs preparou pratos gourmet para a fotografia.,"entailment
+"
+Não há nenhuma mulher cozinhando macarrão,O macarrão não está sendo preparado por uma mulher.,"entailment
+"
+Alguém está derramando suco de laranja na mulher,A mulher está sendo molhada com suco de laranja.,"entailment
+"
+Um homem está soltando um pássaro,O pássaro é um canário,"neutral
+"
+Não há nenhum gato que é siamês e branco no jardim carregando um novelo de lã nas suas patas,Não tem um gato siamês e branco carregando um novelo de lã no jardim,"entailment 
+
+**explanation:**
+
+the premise states that there isn't *any* cat that is both siamese and white *and* carrying a ball of yarn in the garden. the hypothesis states that there isn't *any* cat that is both siamese and white carrying a ball of yarn in the garden.
+
+since the premise is a more specific statement of the hypothesis, the premise *entails* the hypothesis. if the premise is true, the hypothesis *must* also be true.
+"
+Um gato preto não está comendo ração do prato,O gato preto está dormindo no sofá.,"neutral
+"
+Um homem de patins não está no céu próximo a uma montanha,O homem de patins está em algum lugar que não é o céu próximo a uma montanha,"entailment 
+
+**explanation:**
+
+the premise states the man on skates is *not* in a specific location (near a mountain in the sky). the hypothesis states the man on skates is *not* in that specific location.  therefore, the hypothesis is a broader statement that is logically supported by the premise. if the man isn't *there*, he must be somewhere else.
+"
+A pessoa é encorajada a explorar seu potencial e iniciar uma semana intensa de treinamento,A pessoa é desencorajada a explorar seu potencial e iniciar uma semana de treinamento,"contradiction
+"
+Uma enfermeira está presente e a previsão de publicação dos editais é amanhã,A enfermeira tem cabelo castanho.,"neutral
+"
+Uma mulher está abotoando um casaco,A mulher está desabotoando um casaco.,"contradiction
+"
+Soldados estão alinhados para comemorar o dia da independência,O dia da independência é um feriado nacional.,"entailment 
+
+**explanation:**
+
+the premise states soldiers are lined up to *commemorate* independence day. commemorations are typically held for important national holidays. therefore, it logically follows that independence day *is* a national holiday.
+"
+Não há nenhuma mulher loira com chapéu de palha em pé ao lado de um carrinho de sorvete,Não há nenhuma loira de chapéu perto de um carrinho de sorvete,"contradiction.
+
+**explanation:**
+
+the premise states that there are *no* blonde women with straw hats near an ice cream cart. the hypothesis states that there are *no* blondes with hats near an ice cream cart.
+
+if the premise is true, the hypothesis *must* be true.  however, the hypothesis is broader than the premise. the premise specifically mentions a straw hat. the hypothesis says ""chapéu"" (hat) which is more general.
+
+since the premise denies a specific scenario (blonde woman with a straw hat) and the hypothesis denies a broader scenario (blonde with a hat), if the premise is true, the hypothesis *must* also be true. thus, the premise does not contradict the hypothesis.
+
+however, because the premise states a specific scenario (""with a straw hat"") and the hypothesis uses a broader term (""a hat""), the hypothesis is *not* necessarily true if the premise is false.  the premise is a more restrictive statement.  therefore, the hypothesis is *not* guaranteed to be true by the premise.
+
+the core issue is that the premise gives a specific condition (straw hat) and the hypothesis is a more general one (any hat). if you have a scenario where a blonde is *not* wearing a straw hat, the premise is satisfied, but the hypothesis is not necessarily satisfied (they might be wearing a different kind of hat).
+
+because of this, the premise is *not* a sufficient condition for the hypothesis. 
+
+therefore, the most accurate answer is **contradiction**. the premise implies the hypothesis is true; thus, the premise does not entail the hypothesis. if the premise is true, the hypothesis is also true; but if the premise is false, the hypothesis could be either true or false. it is therefore not guaranteed that the premise entails the hypothesis, and since the premise does not necessarily guarantee the truth of the hypothesis, it can be said to contradict it.
+
+
+
+while initially appearing like ""neutral"", a closer analysis reveals the premise implies the hypothesis.  since there are no blonde women with straw hats near an ice cream cart, there definitely aren't *any* blondes with hats near an ice cream cart. thus, the premise *does* entail the hypothesis, making ""contradiction"" the incorrect selection.
+
+i apologize for the initial flawed response. the correct answer is **entailment**, not contradiction.
+"
+O atleta está participando de um arremesso de peso em uma olimpíada,O atleta está assistindo a olimpíada de casa,"contradiction
+"
+Uma mulher está praticando ioga ao pôr do sol na areia,A mulher está em sua casa assistindo televisão.,"contradiction
+"
+A pessoa é encorajada a explorar seu potencial e iniciar uma semana intensa de treinamento,A pessoa está começando uma semana de treinamento intensivo,"entailment
+"
+A energia elétrica não deve ser interrompida durante a pandemia,"Durante a pandemia, a energia elétrica deve permanecer ininterrupta.","entailment
+"
+O gato está comendo ração de um prato,O gato está se alimentando.,"entailment
+"
+Duas crianças estão sorrindo enquanto brincam no tapete da sala,As crianças estão brincando no tapete da sala.,"entailment
+"
+Algumas crias de cachorro estão com sede,Há filhotes de cachorro buscando água,"entailment 
+
+**explanation:**
+
+the premise ""algumas crias de cachorro estão com sede"" (some puppies are thirsty) implies that some puppies are actively seeking water to quench their thirst.  therefore, the hypothesis ""há filhotes de cachorro buscando água"" (there are puppies looking for water) is a logical consequence of the premise.
+"
+Três gatinhos estão se divertindo em um jardim florido,Gatinhos estão brincando entre flores,"entailment
+"
+O menino de patins está deslizando na pista,O menino gosta de jogar futebol.,"neutral
+"
+Uma mulher está partindo uma corrente com um machado,A mulher está usando um chapéu enquanto trabalha.,"neutral
+"
+Uma criança está correndo atrás de uma bola em um campo de futebol,Uma criança está perseguindo uma bola no campo de futebol,"entailment
+"
+Um gato com pelagem branca e laço azul está deitado no sofá,Existe um gato branco no sofá.,"entailment
+"
+Uma turma de jovens está disputando uma partida de vôlei na areia da praia,Os jovens estão usando uniformes azuis para a partida de vôlei,"neutral
+"
+A garota está equilibrando-se em um monociclo sobre uma ponte de corda,A garota não está em uma ponte de corda e nem está em um monociclo,"contradiction 
+
+**explanation:**
+
+the premise states the girl *is* balancing on a unicycle *on* a rope bridge. the hypothesis states the girl *is not* on a rope bridge *and* is *not* on a unicycle. these statements are mutually exclusive; therefore, the hypothesis contradicts the premise.
+"
+Um homem está dirigindo um carro para o fogo,O homem está usando um casaco enquanto dirige o carro,"neutral
+"
+Um estudo afirma que jogar videogame exige mais engajamento intelectual e criatividade do que a leitura de um livro,Jogar videogame requer alto engajamento intelectual e criatividade.,"entailment
+"
+Uma bola vermelha está sendo chutada por uma criança que está brincando no parque,Uma criança está brincando com uma boneca no parque,"neutral
+"
+Dois pintores estão pendurados na lateral do arranha-céu,Dois homens estão limpando as janelas do arranha-céu,"neutral
+"
+Não tem nenhum gato arranhando um sofá,Um cachorro está mordendo um sofá,"neutral
+"
+O cachorro está saltando sobre uma poça de água,O cachorro está pulando um obstáculo que é uma poça de água,"entailment
+"
+O garoto da camisa vermelha está desenhando,O garoto da camisa vermelha quer ser artista quando crescer.,"neutral
+"
+Ninguém está agitando uma garrafa de molho de soja com uma colher,Uma garrafa de molho de soja não está sendo agitada com uma colher,"entailment
+"
+Um menino de três anos responde que tem chocolate no coração quando questionado sobre o que há nele,O menino de três anos acredita ter chocolate no coração,"entailment
+"
+Um estudo revela que alguns brasileiros se tornam milionários diariamente,Os brasileiros estão entre as pessoas mais ricas do mundo,"neutral
+"
+Um garotinho está usando uma camiseta azul e está correndo em um parque infantil,O garotinho tem cabelo castanho,"neutral
+"
+Os pisos emborrachados vermelhos e cinzas cobrem uma área de lazer repleta de brinquedos infantis coloridos,A área de lazer tem um chão de borracha vermelho e cinza,"entailment
+"
+Um indivíduo está vestindo um suéter vermelho e caminhando descalço no campo de futebol,Existe uma pessoa caminhando descalça no campo de futebol e ela está usando um suéter vermelho.,"entailment
+"
+Os jovens não estão vestindo moletons cinzas e não estão correndo,Os jovens estão vestidos com algo que não são moletons cinzas,"entailment 
+
+**explanation:**
+
+if the premise states that young people are *not* wearing grey sweatshirts, it logically follows that they are wearing something *other than* grey sweatshirts.  therefore, the hypothesis is entailed by the premise.
+"
+Uma mão é vista descartando uma garrafa de plástico em uma lixeira,A garrafa de plástico está sendo jogada em uma lixeira por uma mão,"entailment
+"
+Dois homens jovens estão competindo em uma partida de boxe,Dois jovens estão em uma competição de boxe,"entailment
+"
+"Utensílios de cozinha, incluindo tábuas, porta copos e taças, estão sobre a mesa","Tábuas, porta copos e taças estão sobre a mesa.","entailment
+"
+Uma costureira está modelando um tecido laranja em uma mesa de costura,A costureira está costurando um tecido azul.,"contradiction 
+
+**explanation:**
+
+the premise states the costumer is working with *orange* fabric. the hypothesis states the costumer is working with *blue* fabric. these two statements are mutually exclusive; the costumer cannot be working with both simultaneously. therefore, the hypothesis contradicts the premise.
+"
+Uma menina loira de vestido vermelho está saltando para fora de um balanço azul,Uma menina loira de vestido azul está sentada num balanço vermelho.,"neutral
+"
+Uma mulher está correndo acompanhada de um personal trainer,A mulher está correndo sozinha,"contradiction
+"
+O texto apresenta um conteúdo alternativo relacionado à física,O texto contém informações sobre um tema diferente da física convencional,"entailment 
+
+**explanation:**
+
+if a text presents ""alternative content related to physics,"" it inherently implies that some of that content might be different from ""conventional physics."" therefore, the premise entails the hypothesis. the alternative nature suggests a deviation from what is typically considered mainstream or standard physics.
+"
+Profissionais estão usando máscaras e roupas de proteção,Profissionais de saúde estão usando luvas cirúrgicas,"neutral
+
+**explanation:**
+
+the premise states that professionals are using masks and protective clothing. the hypothesis specifies that *health professionals* are using surgical gloves. while health professionals *might* be among the professionals using masks and protective clothing, the premise doesn't guarantee it. other professionals (e.g., construction workers, lab technicians, etc.) could also be wearing masks and protective clothing. therefore, the premise is not sufficient to determine whether the hypothesis is true or false.
+"
+Uma mulher está espremendo uma espinha em seu rosto enquanto uma explicação ao lado detalha a formação de acnes,Uma mulher está aplicando maquiagem enquanto uma explicação ao lado detalha a formação de acnes,"neutral
+"
+"Um filhote de tamanduá está em um viveiro, cercado por pedaços de madeira e cobertores",O filhote de tamanduá gosta de comer formigas,"neutral
+"
+"Uma corrente e um pingente, ambos banhados a ouro, possuem pedras de zircônia incrustadas",A corrente e o pingente possuem pedras de zircônia e são feitos de ouro,"entailment
+"
+Membros do movimento estão formalizando uma solicitação contra o aumento das tarifas de ônibus,O movimento está apoiando o aumento das tarifas de ônibus,"contradiction
+"
+O mês mundial de combate ao câncer de próstata está sendo divulgado,O mês mundial de conscientização do câncer de mama está sendo divulgado,"neutral
+"
+Um garoto está calçando botas de neve e segurando um esqui azul ao lado de uma menina de blusa rosa e luvas roxas,Um garoto está descalço e sem equipamentos de esqui ao lado de uma menina de blusa verde e luvas azuis,"contradiction
+"
+Uma louça cheia de brigadeiros está sobre uma mesa de madeira,"A mesa está vazia, sem brigadeiros","contradiction
+"
+O avião é visto na pista com o hangar ao fundo,"O avião está voando alto, longe da pista e do hangar","contradiction 
+
+**explanation:**
+
+the premise states the airplane is *on the runway* with the hangar in the background. the hypothesis states the airplane is *flying high, far from the runway and hangar*. these two statements are incompatible. if the plane is on the runway, it cannot simultaneously be flying high and far away from it. therefore, the premise contradicts the hypothesis.
+"
+O homem não está misturando molho em uma tigela,O homem está cortando verduras na tábua de cozinha,"neutral
+"
+"O homem está tocando uma gaita, que é diatônica, e assobiando",O homem está fazendo música com uma gaita diatônica,"entailment
+"
+Oito momentos de um jogo de boliche na capital foram compartilhados com colegas e seus familiares,O jogo de boliche na capital foi competitivo,"neutral
+"
+Ciclistas e ônibus estão navegando através do trânsito frenético na metrópole,Ciclistas e ônibus estão enfrentando o trânsito agitado na grande cidade.,"entailment
+"
+A chuva está caindo no rosto do garoto que está de casaco azul,O garoto de casaco azul está seco,"contradiction
+"
+O mês mundial de combate ao câncer de próstata está sendo divulgado,A conscientização sobre o câncer de próstata está sendo promovida,"entailment
+"
+Uma garota está empunhando uma rede de borboletas e saltando atrás de uma mariposa,A mariposa voa em direção a uma flor próxima.,"neutral
+"
+Um prato branco redondo tem sorvete de canela servido sobre uma tarte de maçã envolta por caramelo,O prato branco redondo contém uma sobremesa de sorvete de canela e tarte de maçã,"entailment
+"
+Uma mulher está parada na beira de um penhasco,Uma pessoa está na borda de um penhasco.,"entailment
+"
+Os foliões estão dançando na festa junina,Há pessoas dançando na festa,"entailment
+"
+Os estudantes da turma posam juntos com um grande cartaz que contém informações sobre um campeonato,Os estudantes não têm um cartaz,"contradiction
+"
+Um garotinho está usando uma camiseta azul e está correndo em um parque infantil,O garotinho está parado e vestindo uma camiseta vermelha,"contradiction
+"
+"A frigideira contém queijo, bacon, milho e frango",A frigideira está vazia,"contradiction
+"
+Profissionais estão usando máscaras e roupas de proteção,"Os trabalhadores estão usando equipamentos de proteção, incluindo máscaras","entailment
+"
+"Dois gatos, um cinza e outro laranja, estão brincando despreocupadamente juntos no quintal",Não há gatos brincando no quintal.,"contradiction
+"
+"Várias crianças estão de mãos dadas em três fileiras, simbolizando os jovens beneficiados pelo projeto",As crianças estão na escola.,"neutral
+"
+"Homens estão vestindo chapéus de palha e crachás de festival, olhando intrigados para algo no horizonte","Um grupo de homens, usando crachás de festival e chapéus de palha, está observando algo curioso à distância.","entailment
+"
+Um gato branco está saltando entre os galhos de uma floresta sombria,Um gato está saltando entre os galhos de uma floresta.,"entailment
+"
+Um gato preto está pulando por um muro de pedras,O gato preto está pulando.,"entailment
+"
+A veterinária está cuidando de dois cachorros doentes ao mesmo tempo,Dois cachorros estão sendo cuidados por uma veterinária,"entailment
+"
+Uma pessoa está deslizando na água em um jet ski,Alguém está se divertindo em um jet ski na água,"entailment
+"
+Os filhotes de cachorro nos cestos estão sendo usados como adereços para um comercial de televisão,Os filhotes de cachorro nos cestos estão brincando uns com os outros,"neutral
+"
+Uma drusa de cristal enfeita a escrivaninha,A escrivaninha é desprovida de qualquer enfeite.,"contradiction
+"
+Não há nenhuma mulher lendo um livro sob a sombra de uma árvore em uma tarde de primavera,Há uma mulher lendo um livro sob a sombra de uma árvore em uma tarde de primavera,"contradiction
+"
+Da janela se vê uma chaminé branca e vermelha liberando fumaça,Não há chaminé liberando fumaça vista da janela.,"contradiction
+"
+Uma nota pública foi escrita pelo político sobre o acidente sofrido,A nota pública tratava da economia local.,"neutral
+"
+Alunos estão nos corredores do colégio apresentando seus trabalhos de Ciências,Os alunos estão ansiosos para a apresentação dos seus trabalhos de Matemática.,"neutral
+"
+"A atração infantil oferece várias atividades para as crianças, incluindo piscinas de bolinhas e escorregadores",As crianças têm várias atividades para se entreter na atração infantil,"entailment
+"
+Um homem está distribuindo cestas básicas para as pessoas,O homem está vestindo uma camisa azul,"neutral
+"
+Uma menina jovem está dançando e tocando o piano,Uma menina jovem está sentada em silêncio,"contradiction
+
+**explanation:**
+
+the premise states the girl is dancing and playing the piano, implying activity and likely noise. the hypothesis states the girl is sitting silently, which is the opposite of the implied activity and sound in the premise. therefore, the hypothesis contradicts the premise.
+"
+O músico está de pé afinando seu violino diante da orquestra,Não há músico afinando seu violino,"contradiction
+"
+"Várias crianças estão de mãos dadas em três fileiras, simbolizando os jovens beneficiados pelo projeto",Nenhuma criança está de mãos dadas.,"contradiction
+"
+Não há ninguém lavando o carro,O carro é vermelho,"neutral
+"
+Os jogadores de futebol não estão em campo e não estão vestindo suas camisas verde e amarelas,Os jogadores de futebol estão assistindo a um filme,"neutral
+"
+Um homem está em um consultório médico tendo sua pressão arterial medida pelo médico,Um homem está em um ambiente médico recebendo um exame de pressão arterial de um profissional de saúde,"entailment
+"
+Não existe nenhuma mulher cortando um bolo com uma espátula,Nenhuma mulher está usando uma espátula para cortar um bolo.,"entailment 
+
+**explanation:**
+
+the premise states that *no* woman is performing the specific action of cutting a cake *with a spatula*. the hypothesis states that *no* woman is using a spatula to cut a cake.  the premise is a more specific version of the hypothesis. if no one is doing the specific action described in the premise, then it logically follows that no one is using a spatula to cut a cake (which is what the hypothesis states). therefore, the premise entails the hypothesis.
+"
+O secretário de saúde do Estado está dando entrevista,O funcionário do governo do Estado está falando para a mídia.,"entailment 
+
+**explanation:**
+
+the premise states the secretary of health is giving an interview.  a secretary of health is a government employee. therefore, the premise *implies* that a government employee is speaking to the media.  it doesn't *guarantee* it's the *only* government employee speaking, but it satisfies the hypothesis.
+"
+As dicas de arte estão sendo apresentadas em sequência,As dicas de arte estão sendo mostradas uma após a outra,"entailment
+"
+O shampoo e condicionador estão dispostos na janela do box do banheiro,Existem produtos de higiene na janela do box do banheiro,"entailment
+"
+"A pessoa está tirando uma selfie com a cabeça raspada, um braço apoiado nela e usando batom azul","A pessoa está tirando uma foto com seus longos cabelos soltos, sem batom","contradiction
+"
+Pássaros voam em bando durante o entardecer sob um céu azul com poucas nuvens acinzentadas de tonalidades laranja,Pássaros estão voando juntos no céu ao entardecer,"entailment
+"
+Canecas de chope estão sendo brindadas,Canecas de chope estão sendo lavadas em uma pia,"neutral
+"
+"A atração infantil oferece várias atividades para as crianças, incluindo piscinas de bolinhas e escorregadores",Os pais estão acompanhando as crianças na atração infantil,"neutral
+"
+Uma mulher está escalando uma cerca baixa,Uma mulher está pulando de uma cerca alta,"neutral
+"
+Uma fogueira arde intensamente com brasas vermelhas e chamas amarelas e laranjas,Existe uma fonte de calor forte.,"entailment 
+
+**explanation:**
+
+a burning fire with red, yellow, and orange flames strongly implies a source of heat. fire *is* a source of heat. the premise describes a fire, and a fire inherently requires and produces a strong source of heat. therefore, the premise entails the hypothesis.
+"
+Canecas de chope estão sendo brindadas,As canecas de chope estão sendo mantidas em uma prateleira,"neutral
+"
+Indivíduos vestindo roupas de frio estão sendo fornecidos com máscaras pela equipe do governo local,Ninguém está recebendo máscaras da equipe do governo local,"contradiction
+"
+Uma prova está sendo realizada em uma sala de aula,Não há atividades ocorrendo na sala de aula,"neutral
+"
+A pessoa tem o cabelo preso em um rabo de cavalo com alguns cachos soltos ao redor da testa,A pessoa tem cabelo castanho.,"neutral
+"
+O nascer do sol ilumina um campo florido,O campo florido está iluminado pelo sol,"entailment
+"
+Um gato malhado está se divertindo com um novelo de lã desfiado em um tapete vermelho,Um gato malhado está se escondendo atrás de uma cortina,"neutral
+"
+Cada foto foi detalhada nos recursos de acessibilidade,As fotos foram tiradas por um fotógrafo profissional,"neutral
+"
+A menina está lendo um livro de histórias em sua cama antes de dormir,A menina tem um urso de pelúcia em sua cama,"neutral
+"
+Um cavalo não está bebendo água,Um cavalo está comendo grama,"neutral
+"
+Diversos sabores de refeições congeladas estão disponíveis para venda,Não há refeições congeladas disponíveis para venda,"contradiction
+"
+Um mini espantalho é feito de palha e retalhos,O mini espantalho é feito de metal e vidro,"contradiction
+"
+Duas garrafas do vinho tinto estão dispostas sobre uma mesa de madeira,Uma toalha vermelha está cobrindo a mesa de madeira,"neutral
+"
+Ciclistas não estão pedalando em fila pela montanha acima,Os ciclistas estão alinhados enquanto sobem a montanha.,"contradiction
+
+**explanation:**
+
+the premise states that cyclists are *not* riding in a line uphill. the hypothesis states that cyclists *are* aligned while going uphill. these two statements are directly opposing each other, therefore the premise contradicts the hypothesis.
+"
+"Alunos estão sentados em cadeiras vermelhas com material didático aberto, enquanto os instrutores permanecem de pé","Os alunos estão sentados em cadeiras vermelhas, aguardando o início da aula.","entailment
+"
+Um gato branco e cinza está sentado na areia,Um gato branco e cinza está brincando com uma bola de lã.,"neutral
+"
+O conjunto de jovens europeus está reunido ali,Um grupo de jovens da Europa está congregado no local.,"entailment
+"
+Um bolo retangular está coberto com ganache e decorado com raspas de chocolate preto na lateral e topo,O bolo retangular possui cobertura de ganache e decoração de raspas de chocolate preto,"entailment
+"
+As crianças ajudaram na limpeza do pátio da escola e os professores estão felizes por isso,As crianças não participaram da limpeza do pátio da escola.,"contradiction
+"
+Uma criança está deslizando pela areia dourada,A criança está deslizando no gelo,"contradiction
+"
+Uma mão é vista segurando uma pipa em direção a um arco-íris ao fundo,A pipa tem a forma de um pássaro.,"neutral
+"
+Não tem nenhuma mulher interferindo,Uma mulher está interferindo,"contradiction
+"
+"Centenas de bebês estão sem pais, conforme relatado em jornais antigos",Muitos bebês foram relatados como órfãos em jornais antigos,"entailment
+"
+A loja oferece semijoias banhadas em ouro com um ano de garantia,A loja vende também relógios banhados a ouro,"neutral
+"
+Uma modelo posa com a mão esquerda no rosto vestindo um macaquinho floral,A modelo não está posando para a foto,"neutral
+"
+"Duas mulheres, um homem e duas pequenas meninas estão reunidos ao ar livre de uma larga praça, diante de uma multidão de espectadores","Entre as pessoas reunidas na praça, há uma mulher com um vestido vermelho.","neutral
+"
+O senador está acompanhado de sua esposa,O senador e sua esposa estão vestidos formalmente,"neutral
+"
+Os homens e as mulheres estão sendo reunidos próximos às mesas ao livre,Todos estão se reunindo em um ambiente fechado.,"neutral
+
+**explanation:**
+
+the premise states that men and women are being gathered near outdoor tables. the hypothesis states that everyone is gathering in an enclosed environment. these two statements don't necessarily conflict with each other. people can gather near outdoor tables (open environment) while also being in an enclosed location (e.g., a covered patio, a building with outdoor seating). therefore, the premise is neither supporting nor refuting the hypothesis.
+"
+Uma criança está pintando usando a boca durante uma oficina,A criança não está pintando.,"contradiction
+"
+A mulher está alimentando um pássaro à beira de um lago,Há uma mulher perto de um lago cuidando de um pássaro.,"entailment
+"
+"O escritório possui uma vista para um jardim com árvores verdes, bromélias e uma fonte de água corrente",O escritório tem uma mesa de madeira robusta,"neutral
+"
+Um gato preto não está comendo ração do prato,O gato preto está comendo ração do prato.,"contradiction
+"
+Dois irmãos estão exibindo seus dentes manchados de vermelho e amarelo,Os irmãos estão segurando escovas de dentes,"neutral
+"
+A janela da sala de estar está fechada.,A cortina da sala de estar está balançando com a brisa.,"neutral
+"
+Um carro está de cabeça para baixo em meio ao caos,O carro está estacionado corretamente em um local tranquilo,"contradiction
+"
+"Um pai e sua filha, vestidos com máscaras e capas de heróis, estão olhando para o horizonte",Um homem e sua filha estão usando fantasias de super-heróis e olhando para o horizonte,"entailment
+"
+Duas meninas estão relaxando na areia à beira do mar,As meninas estão se exercitando na academia,"contradiction
+"
+Várias pessoas estão navegando em um caiaque,Ninguém está praticando esportes aquáticos.,"contradiction 
+
+**explanation:**
+
+the premise states that people are kayaking, which *is* a water sport. the hypothesis states that *no one* is practicing water sports. these statements are directly contradictory. therefore, the premise contradicts the hypothesis.
+"
+Uma mulher está picando alho,A mulher está descansando.,"neutral
+"
+Uma mulher está folheando um livro com várias outras obras empilhadas ao fundo,A mulher está ao lado de uma janela enquanto folheia um livro.,"neutral
+"
+Não tem nenhuma mulher bebendo café,Uma mulher está tomando café.,"contradiction
+"
+Uma menina está pulando enquanto joga tênis de praia com um instrutor,A menina está se divertindo enquanto joga tênis de praia.,"entailment
+"
+Um homem está segurando um peixe que ele possivelmente pescou em um rio,Um indivíduo está com um peixe em suas mãos que ele pode ter pescado em um rio.,"entailment
+"
+"Três adolescentes estão segurando seus celulares, com uma delas exibindo a tela da rede social",Adolescentes estão usando seus celulares,"entailment
+"
+"Várias pimentas de cores verdes, laranjas e vermelhas estão reunidas",As pimentas estão agrupadas por cores,"neutral
+"
+Não há nenhuma criança brincando no parquinho,O parquinho está vazio de crianças,"entailment
+"
+Um donut é recheado com brigadeiro e coberto com creme de baunilha,O donut não tem creme de baunilha na cobertura,"contradiction 
+
+**explanation:**
+
+the premise states the donut *is* covered with vanilla cream. the hypothesis states it *is not*. these are directly opposing statements, therefore the premise contradicts the hypothesis.
+"
+Os atletas estão manipulando a bola de vôlei,Os atletas estão jogando basquete,"neutral
+"
+Um viajante solitário com um chapéu vermelho está atravessando um deserto de areias douradas,Uma pessoa com chapéu vermelho está em um deserto.,"entailment
+"
+Um flyer anuncia o lançamento de vendas online de uma marca de roupas,A marca de roupas está encerrando suas atividades online.,"contradiction
+"
+Não há nenhuma mulher batendo uma panela sobre o fogão no quintal,Uma mulher está cozinhando no quintal usando uma panela no fogão,"contradiction
+"
+Nenhum garoto de bermuda está surfando nas ondas,Há um garoto de bermuda surfando nas ondas,"contradiction
+"
+Dois pacotes transparentes contendo casquinhas de brownie estão dispostos sobre uma bancada de madeira diante de uma parede preta,Casquinhas de brownie estão arrumadas em duas embalagens transparentes em uma bancada de madeira.,"entailment
+"
+A cada compra o cliente recebe dois cupons de desconto,O cliente não recebe nenhum cupom de desconto após a compra,"contradiction
+"
+"Atletas se preparam para uma corrida, alongando-se sob a orientação de uma instrutora",Os atletas estão em uma pista de corrida.,"neutral
+"
+"O caminhão de bombeiros, que é vermelho, está acelerando pela rua",O caminhão de bombeiros tem uma sirene barulhenta,"neutral
+"
+"Três braceletes de argolas nas cores dourada, prata e rosê estão no braço da mulher",A mulher não está usando nenhum bracelete.,"contradiction
+"
+A receita proposta promete promover uma super-hidratação para prolongar a vida dos fios de cabelo,A receita sugerida promete aumentar a longevidade dos fios de cabelo através de hidratação intensiva.,"entailment
+"
+Uma menina com características indígenas está sentada,A menina está em pé.,"neutral
+"
+"Um mini hambúrguer artesanal de carne bovina é servido espetado por um palito gourmet, acompanhado de tomate cereja e alface americana",O mini hambúrguer é servido com um molho especial,"neutral
+"
+Não há nenhum coelho saltando buracos,Diversos coelhos estão alegremente saltando buracos.,"contradiction
+"
+A vacinação está sendo realizada pelo sistema drive thru,As pessoas estão levando seus pets para vacinar no sistema drive thru,"neutral 
+
+**explanation:**
+
+the premise states that vaccinations are being done via drive-thru. the hypothesis suggests people are bringing their pets to be vaccinated via drive-thru. the premise doesn't mention anything about pets. therefore, we cannot conclude that the premise *entails* the hypothesis (it doesn't necessarily follow). nor does the premise *contradict* the hypothesis (it's not explicitly opposed). the relationship is neutral because the premise simply provides information about vaccinations, and the hypothesis introduces an additional element (pets) not mentioned in the premise.
+"
+A janela da sala de estar está fechada.,A televisão na sala de estar está ligada.,"neutral
+"
+"Um pacote de massa de pastel fresca, sem glúten e sem leite, está sobre uma mesa",A receita para a massa do pastel é antiga e foi passada de geração em geração.,"neutral
+"
+"A bebida é um milkshake, adornado com chantilly, uma cereja e dois tubetes",O milkshake é feito de chocolate,"neutral
+"
+Um polvo é visto no fundo do mar,Não há polvos no fundo do mar.,"contradiction
+"
+O homem está guardando o violão na estante,O homem tem um violão.,"entailment
+"
+Oito momentos de um jogo de boliche na capital foram compartilhados com colegas e seus familiares,Os colegas e familiares viram oito momentos de um jogo de boliche na capital,"entailment
+"
+Vários indivíduos se encontram em um campo de futebol para um torneio amador,Existe um torneio amador acontecendo em um campo de futebol,"entailment
+"
+Um empreendedor rural está transferindo grãos de uma mão para a outra,O empreendedor rural está usando botas de borracha.,"neutral
+"
+Uma mulher no palco está tocando fervorosamente seu violão,A mulher no palco está assistindo ao espetáculo.,"contradiction
+
+**explanation:**
+
+the premise states the woman is *playing* the guitar (""tocando fervorosamente"").  the hypothesis states she is *watching* the show (""assistindo ao espetáculo""). these are contradictory actions; you cannot simultaneously play a guitar and watch a show (as a performer). therefore, the premise contradicts the hypothesis.
+"
+Um gato está puxando a cortina e se pendurando nela,A cortina está sendo puxada por um gato,"entailment
+"
+Um pesquisador vestindo uma luva cirúrgica está segurando um tubo de ensaio e colhendo uma amostra de água,Um pesquisador vestindo uma luva cirúrgica está manuseando um tubo de ensaio e coletando uma amostra de água,"entailment
+"
+A escritora está procurando alguém para dispensar o editor do seu livro,A escritora está muito satisfeita com o trabalho do editor do seu livro,"contradiction 
+
+**explanation:**
+
+the premise states the writer is *seeking to dismiss* the editor. this directly implies dissatisfaction with the editor's work.  therefore, the hypothesis (writer is *very satisfied*) directly contradicts the premise.
+"
+O treinador e dois jogadores comemoram abraçados após marcarem o gol da vitória,O treinador e dois jogadores estão usando uniformes azuis,"neutral
+"
+Um gato branco e cinza está sentado na areia,Um felino está descansando na praia.,"entailment
+"
+A pizza não está sendo cortada pelo homem,O homem está cortando a pizza,"contradiction
+"
+Uma mulher está parada diante de um espelho,Uma mulher está parada diante de uma janela,"neutral
+"
+Uma guitarra está sendo dedilhada por um músico,Um músico está tocando piano,"neutral
+"
+Vários indivíduos se encontram em um campo de futebol para um torneio amador,A equipe vencedora do torneio amador vai ganhar um troféu.,"neutral
+"
+Uma criança vestida de camisa social está segurando um dado em sua mão direita,O garoto de camisa social tem um dado em sua mão direita,"entailment
+"
+Um homem está observando o trânsito em frente à sua residência,O homem está usando uma camiseta azul,"neutral
+"
+"Uma corrente e um pingente, ambos banhados a ouro, possuem pedras de zircônia incrustadas",A corrente e o pingente são de prata e não possuem pedras incrustadas,"contradiction
+"
+Um gato está se espreguiçando no sofá,O gato está no sofá se espreguiçando,"entailment
+"
+O cartaz informa sobre as operações atuais da polícia durante a pandemia do novo Coronavírus,As operações atuais da polícia durante a pandemia de COVID-19 são informadas através de um cartaz,"entailment
+"
+Uma modelo de perfil veste uma camisa branca transparente e carrega uma mochila preta,A modelo está posando para uma foto em uma passarela.,"neutral
+"
+As mães estão segurando filhos no colo e uma delas está grávida,Uma mãe grávida está segurando um filho no colo.,"contradiction
+
+**explanation:**
+
+the premise states that *one* of the mothers is pregnant and holding a child. the hypothesis states that *a* pregnant mother is holding a child.  the premise doesn't guarantee that *the* pregnant mother is the one holding the child. it's possible a non-pregnant mother is holding a child. therefore, the hypothesis is not necessarily true and thus contradicts the premise.
+"
+Uma cadela está se divertindo com folhas e demonstrando um comportamento travesso,"A cadela está dormindo tranquilamente, sem brincar com as folhas.","contradiction
+"
+Um gato branco está saltando entre os galhos de uma floresta sombria,O gato branco está com fome.,"neutral
+"
+O secretário de saúde do Estado está dando entrevista,O ministro da saúde do país está dando uma entrevista.,"neutral
+"
+Uma mulher possui um chip localizado atrás de sua orelha,A mulher tem medo de tecnologia.,"neutral
+"
+Uma gaivota está voando sobre as ondas do oceano,A gaivota está procurando alimento enquanto voa,"neutral
+"
+A mulher não está pintando uma tela de tecido,A mulher está pintando um quadro de tecido,"contradiction
+"
+Uma mulher está ralando o queijo com um utensílio,Existe queijo sendo ralado por uma mulher.,"entailment
+"
+Um lagarto está posicionado sobre um afloramento rochoso cercado por galhos secos,O lagarto está em uma floresta úmida e densa,"neutral
+"
+"Uma taça de milkshake é decorada com flocos, tubetes e chantilly",A taça de milkshake está vazia.,"contradiction
+"
+Uma mulher no palco está tocando fervorosamente seu violão,A mulher no palco é uma talentosa violonista.,"neutral
+"
+O deputado possui uma foto do dia de seu casamento em seu acervo pessoal,O deputado tem uma foto de sua formatura em seu acervo pessoal,"neutral
+"
+A mulher está alimentando um pássaro à beira de um lago,A mulher está usando um vestido azul.,"neutral
+"
+O perfume tem vidro de cor preta com tampa preta,O perfume tem um aroma doce.,"neutral
+"
+Uma mulher está usando um chapéu azul e sentada próxima a uma bicicleta rosa sobre a grama verde com o lago ao fundo,A mulher com um chapéu azul está sentada perto de uma bicicleta rosa no parque,"entailment
+"
+A fragrância com embalagem transparente e tampa dourada está posicionada sobre uma textura e folhas douradas,A fragrância é um presente de aniversário para alguém.,"neutral
+"
+Uma pequena garota está desenhando na praia com seu pai,A garota está desenhando um castelo na areia.,"neutral
+"
+Visitantes e pesquisadores estão presentes no sítio geológico,O sítio geológico está vazio.,"contradiction
+"
+Um homem de pele branca está aplicando creme no seus rosto,O homem está pensando em algo enquanto aplica o creme.,"neutral
+"
+Quatro potes de geléia de tomate estão dispostos na mesa da cozinha,Não há potes de geléia na mesa da cozinha,"contradiction
+"
+Uma mão é vista descartando uma garrafa de plástico em uma lixeira,Uma mão é vista retirando uma garrafa de plástico de uma lixeira,"contradiction 
+
+**explanation:**
+
+the premise describes a hand *discarding* a plastic bottle. the hypothesis describes a hand *retrieving* a plastic bottle. these actions are opposite of each other, therefore the premise contradicts the hypothesis.
+"
+Um ciclista sem colete reflexivo está parado em uma bicicleta vermelha ao lado da ciclovia,Um ciclista está usando um colete reflexivo enquanto pedala na ciclovia,"contradiction
+"
+"Utensílios de cozinha, incluindo tábuas, porta copos e taças, estão sobre a mesa",A mesa está vazia.,"contradiction
+"
+Ciclistas e ônibus estão navegando através do trânsito frenético na metrópole,O trânsito na metrópole é causado por obras na estrada.,"neutral
+"
+Um homem está temperando um bife,Um homem está cozinhando frango,"neutral
+"
+Na sala há um quadro com uma linda pintura,Não há nenhuma arte na sala,"contradiction
+"
+As informações essenciais estão escritas no manual,O manual é de fácil compreensão.,"neutral
+"
+Um sofá cinza adornado com almofadas está posicionado em uma sala,O sofá na sala é confortável.,"neutral
+"
+Uma mulher está caminhando sob a neve,A mulher está sentada quentinha em casa.,"contradiction
+"
+Um homem está em um consultório médico tendo sua pressão arterial medida pelo médico,Um homem está lendo um livro enquanto aguarda sua vez no consultório médico,"neutral
+"
+Uma praça central é conectada por cinco ruas e é cercada por vários prédios,A praça está lotada de pessoas hoje.,"neutral
+"
+Alunos estão nos corredores do colégio apresentando seus trabalhos de Ciências,Não há alunos apresentando trabalhos de Ciências no colégio,"contradiction
+"
+Um tênis preto tem pedrarias na biqueira,Há pedras decorativas na ponta de um tênis preto,"entailment
+"
+Uma mãe e seu filho estão sorrindo juntos para celebrar o aniversário do filho,A mãe e o filho estão tristes no aniversário do filho.,"contradiction
+"
+Uma nota pública foi escrita pelo político sobre o acidente sofrido,O político não comentou sobre o acidente,"contradiction
+"
+"A sala possui uma mesa decorada, uma planta, um puff e vários artigos decorativos",A sala tem uma janela grande com vista para o mar.,"neutral
+"
+"Uma pessoa de blusa verde estampada está sentada em frente a uma grande árvore, usando óculos escuros e segurando o cabelo",A pessoa está ao ar livre.,"entailment
+"
+Uma mulher está escalando uma cerca baixa,Uma mulher está em um parque com um caminho de pedras.,"neutral
+"
+Os indivíduos não estão de pé ao lado de uma loja de doces,As pessoas não estão ao lado de uma loja que vende doces,"entailment 
+
+**explanation:**
+
+the premise states that individuals are *not* standing next to a candy store. the hypothesis states that people are *not* next to a store that sells sweets.  a candy store *sells sweets*. therefore, if individuals aren't next to a candy store, they also aren't next to a store that sells sweets. the premise logically implies the hypothesis.
+"
+Três palhaças estão se apresentando no espetáculo,Existem palhaças que estão se apresentando em um espetáculo,"entailment
+"
+O homem não está misturando molho em uma tigela,O homem está misturando um molho em uma tigela,"contradiction
+"
+"Utensílios de cozinha, incluindo tábuas, porta copos e taças, estão sobre a mesa",A mesa é de madeira.,"neutral
+"
+"Vários idosos estão acomodados nos bancos do parque, contemplando o pôr do sol",Alguns jovens estão jogando bola no campo ao lado do parque,"neutral
+"
+Uma pesquisa revela que o maior fator de estresse no ambiente de trabalho é a descoberta de um erro cometido,A pesquisa indica que a principal fonte de estresse no trabalho é a sobrecarga de tarefas,"neutral
+"
+Um prédio de apartamentos tem 15 andares,Existem 15 andares em um prédio de apartamentos,"entailment
+"
+"Participantes estão sentados em cadeiras pretas em uma oficina, com o orientador e uma intérprete de Libras à frente",Os participantes estão em uma oficina tendo assistência de um intérprete de Libras.,"entailment
+"
+Um menino de camisa azul está correndo imprudentemente ao redor da piscina,O menino de camisa azul está sentado calmamente ao lado da piscina,"contradiction
+"
+Os filhos da pessoa estão aproveitando as férias brincando com amigos e comendo pipoca,Os filhos da pessoa estão estudando ao invés de aproveitar as férias,"contradiction
+"
+Um personagem do filme fez muito sucesso,O personagem do filme tem cabelos castanhos,"neutral
+"
+Não há nenhuma mulher loira com chapéu de palha em pé ao lado de um carrinho de sorvete,Uma mulher loira de chapéu de palha está vendendo sorvete,"contradiction
+
+**explanation:**
+
+the premise states that *no* blonde woman wearing a straw hat is standing next to an ice cream cart. the hypothesis states that such a woman *is* selling ice cream. these statements directly oppose each other. therefore, the premise contradicts the hypothesis.
+"
+"Uma cumbuca preta contém nhoque de batata doce com ragu de rabada, agrião e brotos por cima",A cumbuca preta está vazia,"contradiction
+"
+Um pesquisador vestindo uma luva cirúrgica está segurando um tubo de ensaio e colhendo uma amostra de água,Um pesquisador sem luvas está segurando um tubo de ensaio e colhendo uma amostra de sangue,"neutral
+"
+Os pés de uma modelo estão calçados com um sapato de verniz,A modelo tem um desfile de moda hoje.,"neutral
+"
+Eu e minha mãe tiramos uma selfie enquanto ela segurava um buquê de flores amarelas,Nenhuma foto foi tirada.,"contradiction
+"
+Um pedaço de pão está sendo comido tranquilamente por um pássaro,O pedaço de pão está intacto,"contradiction
+
+**explanation:**
+
+the premise states a bird is *eating* the piece of bread. eating implies that the bread is being broken down and consumed, meaning it is *not* intact. therefore, the hypothesis contradicts the premise.
+"
+Oito momentos de um jogo de boliche na capital foram compartilhados com colegas e seus familiares,Nenhum momento do jogo de boliche na capital foi compartilhado com colegas e familiares,"contradiction
+"
+Uma mão está segurando uma arma,Alguém está em posse de uma arma.,"entailment
+"
+Uma escultura de um veado sendo atacado por outros animais é cercada por muitas árvores,A escultura é feita de mármore.,"neutral
+"
+Uma menina sorridente está vestida com um vestido preto floral e um casaco cor-de-rosa de tecido de pelo,A menina está usando um casaco cor-de-rosa,"entailment
+"
+O cachorro está correndo atrás da bola no parque,O cachorro está dormindo no parque,"contradiction
+"
+O ministro da saúde é mostrado,O ministro da saúde está se escondendo,"neutral
+"
+Um potinho com sorvete de laranja está sendo degustado pela senhora,A senhora está saboreando um sorvete de laranja.,"entailment
+"
+Não tem nenhum gato arranhando um sofá,Um gato está arranhando um sofá,"contradiction
+"
+Uma garota nadando resgata o filhote assustado no meio do lago,O filhote está sendo salvo por uma menina que está nadando.,"entailment
+"
+Um homem negro está aplicando colírio nos olhos,Um homem negro está usando um chapéu.,"neutral
+"
+Uma pantera está se movendo silenciosamente,A pantera está fazendo muito barulho,"contradiction
+"
+Um atleta de badminton se reúne com três amigos,Quatro pessoas estão juntas.,"contradiction
+
+**explanation:**
+
+the premise states there are *four* people (the athlete and three friends) present. the hypothesis states there are *four* people. therefore, the premise *supports* the hypothesis, but the wording ""estão juntas"" (are together) doesn't inherently contradict the premise. however, a more direct reading of the premise ""um atleta de badminton se reúne com três amigos"" suggests the *only* people present are the athlete and the three friends. so, the hypothesis, stating *four* people are together, is contradicted because the premise specifically mentions only three friends, leading to a total of four people. the premise does *not* entail the hypothesis because the premise doesn't *guarantee* there are four people. it simply states four people *are* together, but doesn't say that's the *only* possibility.
+"
+Uma chaminé de fábrica está emitindo resíduos,A chaminé da fábrica está limpa e sem emissões,"contradiction
+"
+Um mix de brincos e piercings banhados a ouro estão cravejados com pedras de zircônias,Os brincos e piercings estão enfeitados com zircônias.,"entailment
+"
+"Um salão está cheio de pessoas, algumas sentadas e outras de pé",Há pessoas sentadas e em pé no salão,"entailment
+"
+O gato está comendo ração de um prato,O gato não está comendo nada.,"contradiction
+"
+Uma taça contendo um drink de morango está posicionada sobre uma mesa preta de madeira,A taça com o drink de morango está no chão.,"contradiction
+"
+Um prato branco redondo tem sorvete de canela servido sobre uma tarte de maçã envolta por caramelo,O sorvete de canela é a sobremesa favorita de alguém,"neutral
+"
+Os pais estão observando suas trigêmeas recém-nascidas,Os pais estão discutindo quem vai trocar as fraldas das recém-nascidas,"neutral
+"
+A escritora está procurando alguém para dispensar o editor do seu livro,A escritora está em busca de uma pessoa para substituir o editor de seu livro,"entailment
+"
+Uma mulher está rasgando um casaco com uma tesoura,A mulher está usando uma tesoura para cortar papel,"neutral
+"
+"Uma mulher negra, com uma expressão séria, está encostada em um objeto vermelho","Uma mulher negra, com uma expressão séria, está encostada em um objeto azul","neutral
+"
+Uma borboleta azul com asas brilhantes repousa sobre a flor vermelha,Uma borboleta de cor azul está sobre uma flor vermelha,"entailment
+"
+Uma orquídea roxa está em um vaso claro,O vaso claro com a orquídea roxa está na janela da cozinha,"neutral
+"
+"Alunas de balé, mães e professora prestam homenagem ao Outubro Rosa",As alunas de balé estão vestindo sapatilhas pink.,"neutral
+
+**explanation:**
+
+the premise states that ballet students, mothers, and the teacher are paying tribute to breast cancer awareness month (outubro rosa). this doesn't *necessarily* mean the ballet students are wearing pink shoes. they could be wearing pink ribbons, holding signs, or doing something else entirely.  the premise is about the *tribute*, not the specific attire of the students. therefore, we cannot definitively say the premise entails or contradicts the hypothesis.
+"
+Uma ave cinzenta está se aproximando de um gato branco na floresta de pinheiros,Uma ave de cor cinza está perto de um gato branco na floresta de pinheiros,"entailment
+"
+Duas crianças estão se divertindo juntas no parquinho,As crianças estão sozinhas em casa.,"contradiction
+"
+Pacotes de bombons de chocolate com banana e chocolate com amendoim sem açúcar estão dispostos sobre uma mesa,Bombons de chocolate com banana e amendoim sem açúcar estão disponíveis na mesa.,"entailment 
+
+**explanation:**
+
+the premise states that chocolate-banana and chocolate-peanut (no sugar) candies *are* on the table. the hypothesis states that these candies *are available* on the table.  being *on* the table implies being *available* on the table. therefore, the premise entails the hypothesis.
+"
+Um escorredor de louça de dois andares com vários compartimentos está localizado acima das pias,O escorredor de louça está na sala de jantar.,"neutral
+"
+"Vários idosos estão acomodados nos bancos do parque, contemplando o pôr do sol",Não há idosos sentados nos bancos do parque,"contradiction
+"
+"Eu e minha noiva tiramos uma selfie durante nosso casamento, junto com fotos de família",As fotos do casamento não incluem a noiva e o noivo.,"contradiction 
+
+**explanation:**
+
+the premise states that the speaker and their bride *did* take a selfie *during* their wedding, *along with* family photos. this directly contradicts the hypothesis that the wedding photos *do not* include the bride and groom.
+"
+A loja oferece semijoias banhadas em ouro com um ano de garantia,As semijoias vendidas na loja são banhadas a ouro e têm garantia de um ano,"entailment
+"
+Não há nenhuma mulher batendo uma panela sobre o fogão no quintal,Existem pessoas no quintal jogando bola,"neutral
+"
+Uma mulher está parada diante de um espelho,Uma mulher não está parada diante de um espelho,"contradiction
+"
+A loja anuncia a possibilidade de encomendar brigadeiros,A loja tem uma grande variedade de doces.,"neutral
+"
+Uma animação mostra um jornal emergindo de um celular branco segurado na mão,A animação não mostra nenhum celular,"contradiction
+"
+Um empreendedor sorridente está segurando um tablet,O empreendedor está com as mãos vazias.,"contradiction
+
+**explanation:**
+
+the premise states the entrepreneur is *holding* a tablet. holding something implies that their hands are *not* empty. therefore, the hypothesis that the entrepreneur has empty hands contradicts the premise.
+"
+Um garoto está pintando o quadro,O quadro está sendo pintado.,"entailment 
+"
+Um polvo é visto no fundo do mar,O polvo está caçando sua presa.,"neutral
+"
+Um bolo redondo é coberto com chantilly espatulado branco e decorado com rosas e rosetas na lateral e em cima,O bolo redondo tem decoração de rosas e rosetas,"entailment
+"
+O texto celebra o Dia das Mulheres,O texto menciona o Dia dos Homens,"neutral
+"
+As informações essenciais estão escritas no manual,As informações cruciais não estão no manual.,"contradiction
+"
+Nenhum pássaro está voando sob a chuva,Há pássaros voando apesar da chuva,"contradiction
+"
+No jantar serviremos batatas salpicadas e um prato de anéis de cebola empanados,Haverá batatas e anéis de cebola para comer no jantar.,"entailment
+"
+Panquecas estão servidas em um prato branco com detalhes de bolinhas verdes,Panquecas estão servidas em um prato azul,"contradiction
+"
+Não tem nenhum homem assando um peixe,Um peixe não está sendo assado por um homem,"entailment 
+
+**explanation:**
+
+the premise states that there is no man baking a fish. the hypothesis states that a fish is not being baked by a man.  if no man is baking a fish, then it logically follows that a fish is not being baked by a man.  therefore, the premise entails the hypothesis.
+"
+Uma raposa vermelha está saltando por um bosque de árvores altas,A raposa vermelha está em um bosque com árvores de grande porte.,"entailment
+"
+A mulher está alimentando um pássaro à beira de um lago,A mulher está alimentando um peixe à beira do lago.,"neutral
+"
+As dicas de arte estão sendo apresentadas em sequência,As dicas de arte são úteis para iniciantes,"neutral
+"
+Policiais prendem o motorista no local onde a carreta foi parada,O motorista não foi detido.,"contradiction
+"
+Uma mulher está correndo acompanhada de um personal trainer,A mulher está correndo na esteira da academia,"neutral
+"
+As crianças adoram brinquedos populares,Os brinquedos populares são muitas vezes desejados pelas crianças,"entailment
+"
+Dois homens estão segurando uma caixa branca cheia de alimentos,Uma caixa branca cheia de alimentos está sendo segurada por dois homens,"entailment
+"
+Não há nenhuma mulher bebendo água,Uma mulher está bebendo água.,"contradiction
+"
+Uma mãe recebe carinho de seus dois filhos,Dois filhos estão demonstrando carinho à sua mãe,"entailment
+"
+A equipe brasileira está reunida em círculo na quadra com os braços erguidos,A equipe brasileira está com os braços erguidos em círculo na quadra,"entailment
+"
+Um donut é recheado com brigadeiro e coberto com creme de baunilha,O donut tem brigadeiro dentro dele,"entailment
+"
+Um estudo afirma que a preguiça pode ser benéfica para a saúde,A preguiça é um comportamento comum em muitos animais.,"neutral
+"
+Um homem está acariciando um guaxinim,Um guaxinim está sendo acariciado por um homem,"entailment
+"
+Uma árvore rosa floresce em uma rua residencial com uma casa de sobrado e dois carros pratas estacionados,Uma árvore rosa está em flor em uma rua residencial,"entailment
+"
+"A sala possui uma mesa decorada, uma planta, um puff e vários artigos decorativos",Há um puff na sala.,"entailment
+"
+Um gato com pelagem branca e laço azul está deitado no sofá,O gato está com fome.,"neutral
+"
+A garotinha está usando um vestido azul e está sorrindo,A garotinha tem um gato como animal de estimação,"neutral
+"
+Um par de tênis preto infantil é visto de cima para baixo,Um par de sapatos para crianças de cor preta está sendo visualizado a partir de um ponto de vista superior.,"entailment
+"
+O homem está apoiado em um muro e está vestindo uma camiseta branca e jeans azul,O homem está vestindo um terno e gravata.,"contradiction
+"
+A mulher está calmamente lendo um livro debaixo de um pinheiro,O pinheiro está cheio de pinhas.,"neutral
+"
+Uma parede branca é iluminada e decorada com três painéis de MDF preto formando uma árvore,A sala tem um sofá vermelho,"neutral
+"
+Uma garotinha está tampando o rosto com a mão,A garotinha tem a mão no rosto.,"entailment
+"
+Duas meninas estão fazendo a lição de casa,As meninas têm lápis rosa,"neutral
+"
+Um prato de comida pode espalhar sorrisos ao longo do dia,Um prato de comida pode melhorar o humor das pessoas durante o dia,"entailment
+"
+O homem está apoiado em um muro e está vestindo uma camiseta branca e jeans azul,O homem está ouvindo música.,"neutral
+"
+Duas mulheres com patins estão à beira de um lago congelado,Existem peixes dentro do lago congelado,"neutral
+"
+Uma mulher está abotoando um casaco,Um casaco está sendo abotoado por uma mulher.,"entailment
+"
+O cachorro está correndo atrás do gato no jardim,Há um jardim com diversas espécies de flores.,"neutral
+"
+Uma mulher está picando alho,A mulher está usando uma faca afiada.,"neutral
+"
+Um capelo e um diploma são representados em um desenho,O desenho é feito a lápis.,"neutral
+"
+Um homem está descascando uma batata amarela,Uma batata amarela está sendo descascada por um homem,"entailment
+"
+Os jogadores de futebol não estão em campo e não estão vestindo suas camisas verde e amarelas,Os jogadores de futebol não estão vestindo verde e amarelo,"entailment 
+
+**explanation:**
+
+if the premise states that the players are not on the field *and* are not wearing green and yellow shirts, it logically follows that they are not wearing green and yellow. the premise provides information that *guarantees* the truth of the hypothesis.
+"
+"Um trem está cheio de pessoas, tanto sentadas quanto em pé, todas usando máscaras faciais",As pessoas no trem estão usando máscaras faciais.,"entailment
+"
+O plenário da assembleia está em exibição,O plenário da assembleia está localizado em um prédio histórico.,"neutral
+"
+Um lagarto está posicionado sobre um afloramento rochoso cercado por galhos secos,O lagarto é verde e amarelo,"neutral
+"
+Dois homens estão segurando uma caixa branca cheia de alimentos,Dois homens estão vestidos com uniformes de trabalhadores de supermercado,"neutral
+"
+O bebê veste um macacão com estampa de pequenas folhinhas,O bebê tem um brinquedo de pelúcia.,"neutral
+"
+Uma garotinha está usando um vestido amarelo e está brincando no parquinho,A menina gosta de sorvete de baunilha,"neutral
+"
+Um pequeno garoto oriental está sentado além do grupo e está se divertindo com um pião,Um pequeno garoto oriental está comendo um picolé,"neutral
+"
+O robô está convidando para uma demonstração do dispositivo no próximo sábado,O robô é uma máquina avançada com habilidades extraordinárias.,"neutral
+"
+Um menino vestindo uma blusa regata azul está observando uma foto,O menino com uma blusa regata azul está pensando em seu dia.,"neutral
+"

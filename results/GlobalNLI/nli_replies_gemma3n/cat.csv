@@ -1,0 +1,2130 @@
+premise,hypothesis,gpt_reply
+"Bé, ni tan sols estava pensant en això, però estava molt frustrat i vaig acabar tornant a parlar amb ell.",No he tornat a parlar amb ell.,"contradiction
+
+**explanation:**
+
+the premise states ""i wasn't even thinking about it, but i was very frustrated and ended up talking to him again."" the hypothesis states ""i haven't spoken to him again."" these two statements are directly contradictory. the premise explicitly says the speaker *did* speak to him again, while the hypothesis claims the speaker *did not*. therefore, the premise contradicts the hypothesis.
+"
+"Bé, ni tan sols estava pensant en això, però estava molt frustrat i vaig acabar tornant a parlar amb ell.",Estava tan molest que vaig començar a parlar amb ell de nou.,"entailment
+
+**explanation:**
+
+the premise states the speaker was ""molt frustrat"" (very frustrated) and ""vaig acabar tornant a parlar amb ell"" (ended up talking to him again). the hypothesis states ""estava tan molest que vaig començar a parlar amb ell de nou"" (he was so annoyed that i started talking to him again).
+
+frustration and being ""molest"" are very closely related emotions.  the premise implies frustration led to speaking again. the hypothesis attributes the renewed conversation to being ""molest"". since frustration and being ""molest"" are compatible causes for speaking again, the premise entails the hypothesis.
+"
+"Bé, ni tan sols estava pensant en això, però estava molt frustrat i vaig acabar tornant a parlar amb ell.",Vam tenir una gran xerrada.,"neutral
+
+**explanation:**
+
+the premise states the speaker wasn't initially thinking about a specific thing but was frustrated and ended up talking to someone again. this doesn't *guarantee* a ""gran xerrada"" (a great conversation). it's *possible* the conversation was great, but it could also have been a short, insignificant chat. the premise simply sets the stage for a conversation to occur. therefore, it's neutral.
+"
+"Em van dir que, eh, que al final em trucaria un noi per conèixer-me.",Mai em van dir res de conèixer ningú.,"contradiction
+
+**explanation:**
+
+* **premise:** ""they told me that, uh, that in the end a guy would call me to get to know me."" this suggests someone *will* be introduced and an opportunity to meet someone exists.
+* **hypothesis:** ""they never told me anything about meeting anyone."" this explicitly states that no such introduction or opportunity was discussed.
+
+since the premise states the opposite of what the hypothesis claims, there is a contradiction.  the premise *implies* that *something* about meeting someone was discussed, while the hypothesis states *nothing* was discussed.
+"
+"Em van dir que, eh, que al final em trucaria un noi per conèixer-me.",Em van dir que em visitaria un noi per conèixer-me.,"neutral
+"
+"Em van dir que, eh, que al final em trucaria un noi per conèixer-me.",El noi va arribar una mica tard.,"neutral
+
+**explanation:**
+
+the premise states that someone told the speaker that a guy would call them to get to know them. it doesn't say *when* the call happened. the hypothesis states that the guy arrived a bit late. there's no information in the premise that confirms or denies the hypothesis.  the call might have been on time, late, or even not happened at all (although the premise implies it was *supposed* to). therefore, the premise is neutral towards the hypothesis.
+"
+Hi ha tantes coses sobre les quals podríeu parlar que m'ho saltaré.,Vull dir-te tot el que sé d'això!,"contradiction
+
+**explanation:**
+
+the premise states the speaker is going to skip mentioning many things they *could* talk about. this implies they are *not* going to tell the listener *everything* they know. the hypothesis directly states the speaker *wants* to tell the listener *everything*. these two statements are fundamentally opposing, therefore the premise contradicts the hypothesis.
+"
+Hi ha tantes coses sobre les quals podríeu parlar que m'ho saltaré.,"No en parlaré, tot i que hi ha molt a cobrir.","entailment
+"
+Hi ha tantes coses sobre les quals podríeu parlar que m'ho saltaré.,No parlaré de la història de la ciutat perquè hi ha massa a dir.,"neutral
+"
+Així que no estic ben segur de per què.,Estic segur del perquè.,"contradiction
+"
+Així que no estic ben segur de per què.,No sé per què el van traslladar a les escoles.,"neutral.
+
+**explanation:**
+
+the premise ""així que no estic ben segur de per què"" translates to ""so, i'm not really sure why."" this expresses uncertainty about a reason. the hypothesis ""no sé per què el van traslladar a les escoles"" translates to ""i don't know why they transferred him to the schools."" this expresses a lack of knowledge about a reason.
+
+while both statements express a lack of knowledge, the premise is about a general lack of certainty and the hypothesis is about a specific lack of knowledge about a particular transfer.  the premise doesn't *necessitate* the hypothesis to be true, nor does it *prevent* it. it's simply a statement of uncertainty. therefore, the relationship is neutral.
+"
+Així que no estic ben segur de per què.,No sé per què va passar això.,"entailment 
+
+**explanation:**
+
+the premise ""així que no estic ben segur de per què"" means ""so, i'm not really sure why.""  the hypothesis ""no sé per què va passar això"" means ""i don't know why that happened.""
+
+being ""not sure"" about the reason is highly consistent with ""not knowing"" the reason. the premise implies a lack of understanding of the cause, which directly supports the hypothesis.  therefore, the premise entails the hypothesis.
+"
+Vaig ser l'únic que va fer funcionar els reguladors per a la prova a les cambres d'altitud en miniatura.,No m'agradava ser l'únic que feia funcionar els reguladors de les proves.,"neutral
+
+**explanation:**
+
+the premise states the speaker *was* the only one to make the regulators work. the hypothesis states the speaker *didn't like* being the only one who did. 
+
+while the premise *could* lead to the speaker disliking the situation, it doesn't *necessarily* mean they do.  there's no direct logical connection. they might have been happy to take on the task, or indifferent to being the only one. therefore, the premise is neutral towards the hypothesis.
+"
+Vaig ser l'únic que va fer funcionar els reguladors per a la prova a les cambres d'altitud en miniatura.,Les proves es van fer a les cambres d'altitud en miniatura.,"entailment 
+
+**explanation:**
+
+the premise states that the speaker was the only one who made the miniature altitude chamber regulators work.  the hypothesis states that tests were conducted in the miniature altitude chambers.
+
+if the speaker was necessary to *make the regulators work* for the tests, and the tests *were* conducted in the chambers, then it logically follows that the tests *were* performed in the miniature altitude chambers. the premise supports the possibility and even strongly suggests the hypothesis is true.
+"
+Vaig ser l'únic que va fer funcionar els reguladors per a la prova a les cambres d'altitud en miniatura.,Vam ser uns quants de nosaltres que vam dirigir els reguladors per a la prova.,"contradiction
+
+**explanation:**
+
+the premise states ""i was the only one who made the regulators work."" the hypothesis states ""we were a few of us who directed the regulators."" these statements are contradictory because the premise claims a solitary action, while the hypothesis claims a group action. therefore, the premise contradicts the hypothesis.
+"
+"Soc, sergent cap, retirat, com va dir en Rick.","Encara estic treballant, fins avui.","contradiction
+
+**explanation:**
+
+* **premise:** ""soc, sergent cap, retirat, com va dir en rick."" translates to ""i am, sergeant major, retired, as rick said."" this clearly states the speaker is retired.
+* **hypothesis:** ""encara estic treballant, fins avui."" translates to ""i am still working, up to today."" this states the speaker is *not* retired and is currently employed.
+
+since the premise asserts retirement, and the hypothesis asserts continued employment, they directly contradict each other.
+"
+"Soc, sergent cap, retirat, com va dir en Rick.",Em vaig jubilar l'any 2002.,"neutral
+
+**explanation:**
+
+* **premise:** ""soc, sergent cap, retirat, com va dir en rick."" translates to ""i am, sergeant major, retired, as rick said.""  this establishes the speaker's current status as retired and mentions rick's statement.
+* **hypothesis:** ""em vaig jubilar l'any 2002."" translates to ""i retired in the year 2002.""
+
+the premise states the speaker *is* retired, but doesn't give any information about *when* they retired. it's possible they retired in 2002, but it's also possible they retired at a different time. therefore, the premise is neutral regarding the specific year of retirement. it doesn't provide enough information to definitively say whether the hypothesis is true or false.
+
+
+
+"
+"Soc, sergent cap, retirat, com va dir en Rick.",Rick et va dir que estava jubilat.,"entailment 
+
+**explanation:**
+
+* **premise:** ""soc, sergent cap, retirat, com va dir en rick."" translates to ""i am, sergeant major, retired, as rick said.""
+* **hypothesis:** ""rick et va dir que estava jubilat."" translates to ""rick told you that you were retired.""
+
+the premise directly states that rick said the speaker was retired. therefore, the hypothesis, which states rick said the speaker was retired, is entailed by the premise.
+"
+"Hi ha algunes projeccions de flux d'efectiu al meu escriptori i, um, uh, és per a tal i tal Cutty, aquest és el nom del client.",El client anomenat Cutty guanya 10.000 dòlars al mes.,"neutral
+"
+"Hi ha algunes projeccions de flux d'efectiu al meu escriptori i, um, uh, és per a tal i tal Cutty, aquest és el nom del client.",Hi ha un client que es diu Cutty.,"entailment
+"
+"Hi ha algunes projeccions de flux d'efectiu al meu escriptori i, um, uh, és per a tal i tal Cutty, aquest és el nom del client.",No tenim cap client que es digui Cutty.,"neutral
+
+**explanation:**
+
+the premise states that there are cash flow projections for a client named ""cutty"". the hypothesis states that there is no client named cutty.
+
+the premise *could* be true even if the hypothesis is true.  maybe ""cutty"" is a nickname, a typo, or a different form of the client's name.  it's also possible the projections are for a different entity entirely that happens to be called ""cutty.""  
+
+therefore, the premise neither guarantees nor denies the hypothesis; it's neutral.
+"
+La noia que em pot ajudar estàa l'altra partde la ciutat.,La noia de la qual necessito ajuda viu molt lluny.,"entailment
+"
+La noia que em pot ajudar estàa l'altra partde la ciutat.,La noia que m'ajudarà és a 5 milles de distància.,"neutral
+
+**explanation:**
+
+the premise states the girl who can help is on the other side of the city. the hypothesis states the girl who will help is 5 miles away. while being on the other side of the city *could* mean 5 miles away, it doesn't necessarily have to. the distance could be greater or less than 5 miles.  therefore, the premise doesn't guarantee or rule out the hypothesis.
+"
+La noia que em pot ajudar estàa l'altra partde la ciutat.,No hi ha ningú que em pugui ajudar.,"contradiction
+"
+"Però estaven dividits sobre qui eren els treballadors de camp i qui eren els nens de la casa, era una mena de...",Tots estaven d'acord que tots treballarien al camp.,"contradiction 
+
+**explanation:**
+
+the premise states that there was division and disagreement about *who* was the field worker and who was the child of the house. the hypothesis states that *everyone* agreed that *everyone* would work in the field. these two statements are directly contradictory.  division implies disagreement, and agreement implies consensus. they cannot both be true simultaneously given the wording.
+"
+"Però estaven dividits sobre qui eren els treballadors de camp i qui eren els nens de la casa, era una mena de...",No es podien posar d'acord sobre qui era peó al camp i qui pertanyia a la casa.,"entailment
+"
+"Però estaven dividits sobre qui eren els treballadors de camp i qui eren els nens de la casa, era una mena de...",No es podien posar d'acord sobre qui havia de treballar al camp del cotó i qui havia de fregar els pisos.,"entailment
+"
+"Vull dir que només tenien cinc fills, un d'ells va morir.",Tots els seus fills van sobreviure.,"contradiction
+"
+"Vull dir que només tenien cinc fills, un d'ells va morir.",Un dels cinc nens va morir.,"entailment
+"
+"Vull dir que només tenien cinc fills, un d'ells va morir.",El nen que va morir va néixer malalt.,"neutral
+"
+"Va dir que només li baixaven llàgrimes dels ulls i va dir, després va dir que Joe va sortir al porxo.","Quan li va dir que pugés al porxo, tenia llàgrimes als ulls.","neutral
+"
+"Va dir que només li baixaven llàgrimes dels ulls i va dir, després va dir que Joe va sortir al porxo.",Ràpidament es va eixugar les llàgrimes després de fer fora en Joe del porxo.,"neutral
+"
+"Va dir que només li baixaven llàgrimes dels ulls i va dir, després va dir que Joe va sortir al porxo.",Estava tan contenta de veure en Joe que va començar a plorar.,"neutral
+
+**explanation:**
+
+the premise states that the person was crying and then joe went to the porch.  the hypothesis claims the person was crying *because* they were happy to see joe. 
+
+the premise doesn't explicitly state *why* the person was crying.  it could be sadness, pain, or something else entirely. therefore, we cannot definitively say the premise entails or contradicts the hypothesis. it's neutral.
+"
+"Fins i tot si l'avió estava en flames, per què, es cremaria i es fondria per un component de plom perquè la radiació es fugués.",La radiació també es pot contenir durant un incendi.,"contradiction
+
+**explanation:**
+
+*   **premise:** the premise states that the plane *would* burn and melt due to lead releasing radiation. this implies that radiation *escaped* during the fire.
+*   **hypothesis:** the hypothesis states that radiation *can* be contained during a fire.
+
+since the premise describes a scenario where radiation escapes, it directly contradicts the hypothesis, which claims that radiation *can* be contained. therefore, the relationship is a **contradiction**.
+"
+"Fins i tot si l'avió estava en flames, per què, es cremaria i es fondria per un component de plom perquè la radiació es fugués.",La radiació es filtraria d'un component de plom després que l'avió es cremés.,"entailment
+"
+"Fins i tot si l'avió estava en flames, per què, es cremaria i es fondria per un component de plom perquè la radiació es fugués.",La radiació no es filtraria durant un incendi.,"contradiction
+
+**explanation:**
+
+the premise states that the plane would burn and melt *because* of lead's ability to allow radiation to escape.  this implies that radiation *does* escape during the fire. the hypothesis states that radiation *does not* filter during a fire. since the premise's reasoning relies on radiation escaping, and the hypothesis claims it doesn't escape, they contradict each other.
+"
+"Es tracta del sergent en cap Clem Francis, retirat de la Força Aèria dels EUA.",El cap està retirat de la Força Aèria dels EUA.,"entailment
+"
+"Es tracta del sergent en cap Clem Francis, retirat de la Força Aèria dels EUA.",El cap es va jubilar fa unes setmanes.,"neutral
+"
+"Es tracta del sergent en cap Clem Francis, retirat de la Força Aèria dels EUA.",El cap de la Força Aèria dels EUA acaba de començar la seva carrera aquesta setmana.,"contradiction 
+
+**explanation:**
+
+the premise states that clem francis is a retired sergeant major from the us air force. the hypothesis states that the head of the us air force just started their career this week. 
+
+these two statements are contradictory. a retired sergeant major and someone who just started their career cannot be the same person. therefore, the premise contradicts the hypothesis.
+"
+"Bé, ha arribat a on hi ha dos o tres avions que arriben en una setmana i no sabia cap a on volen.",Arriba més d'un avió cada setmana.,"entailment
+"
+"Bé, ha arribat a on hi ha dos o tres avions que arriben en una setmana i no sabia cap a on volen.",L'augment del trànsit d'avions és problemàtic.,"neutral
+
+**explanation:**
+
+the premise describes an increase in air traffic (two or three planes a week). the hypothesis states that increased air traffic is problematic. 
+
+while increased air traffic *could* be problematic, the premise doesn't explicitly state *why* it's problematic or offer any information to confirm or deny that claim. it simply states a fact (increased air traffic). therefore, the premise is neutral towards the hypothesis. it doesn't entail it (guarantee it's true), nor does it contradict it (prove it false).
+"
+"Bé, ha arribat a on hi ha dos o tres avions que arriben en una setmana i no sabia cap a on volen.",Mai no arriba cap avió.,"contradiction
+"
+Ja s'havien entrenat amb els vestits de pressió complets i em va costar una mica si entres amb vestits de pressió complets.,Es necessiten fins a tres mesos per completar la formació sobre l'ús d'un vestit de pressió complet.,"neutral
+"
+Ja s'havien entrenat amb els vestits de pressió complets i em va costar una mica si entres amb vestits de pressió complets.,Entrenar-se per fer servir un vestit de pressió complet requereix temps.,"entailment 
+
+**explanation:**
+
+the premise states that the person had already trained with full-body compression suits and found it a bit difficult to enter *with* them.  the fact that training was required to even *enter* with the suits implies that training in general is necessary to use them. therefore, the hypothesis that training to use a full-body compression suit requires time is a logical consequence of the premise.
+"
+Ja s'havien entrenat amb els vestits de pressió complets i em va costar una mica si entres amb vestits de pressió complets.,Podríem completar el teu entrenament per fer servir un vestit de pressió complet al final del dia.,"neutral
+"
+"Vull dir que no hi havia cap perill d'entrar amb la bomba perquè no explotaria, per molt que toqués a terra.",La bomba havia estat desactivada pel pilot.,"neutral
+"
+"Vull dir que no hi havia cap perill d'entrar amb la bomba perquè no explotaria, per molt que toqués a terra.",No hi havia cap possibilitat que la bomba explotés.,"entailment
+"
+"Vull dir que no hi havia cap perill d'entrar amb la bomba perquè no explotaria, per molt que toqués a terra.",Hi havia un gran perill d'explosió de la bomba.,"contradiction
+"
+I com sembla exactament el que estic intentant fer.,No estic segur de què et sembla això.,"neutral
+"
+I com sembla exactament el que estic intentant fer.,"Estic intentant fer això, evidentment.","neutral
+"
+I com sembla exactament el que estic intentant fer.,Estic intentant acabar el meu projecte la setmana vinent.,"neutral
+"
+"Però, de totes maneres, els animals se soltaven tot el temps, sobretot les cabres.",Les cabres s'escapaven de l'estable cada dia.,"entailment
+"
+"Però, de totes maneres, els animals se soltaven tot el temps, sobretot les cabres.",Les cabres s'escapaven sovint.,"entailment
+"
+"Però, de totes maneres, els animals se soltaven tot el temps, sobretot les cabres.",Les cabres es mantenien segures.,"contradiction
+"
+Les portes estaven tancades amb clau quan vam entrar.,Totes les portes estaven obertes.,"contradiction
+"
+Les portes estaven tancades amb clau quan vam entrar.,Teníem les claus nosaltres.,"neutral
+"
+Les portes estaven tancades amb clau quan vam entrar.,"Vam entrar, tot i que les portes estaven tancades.","neutral
+"
+Així que només havia d'agafar els totals i intentar calcular-ho així.,Estic segur que els totals són tot el que necessito per esbrinar-ho.,"entailment 
+
+**explanation:**
+
+the premise ""així que només havia d'agafar els totals i intentar calcular-ho així"" translates to ""so i just had to get the totals and try to calculate it that way.""
+
+the hypothesis ""estic segur que els totals són tot el que necessito per esbrinar-ho"" translates to ""i'm sure that the totals are all i need to find out.""
+
+the premise *directly* supports the hypothesis. the premise states that the speaker intends to use the totals to calculate something. the hypothesis claims that those totals are *all* that's needed. this is a logical consequence of the premise. therefore, the premise entails the hypothesis.
+"
+Així que només havia d'agafar els totals i intentar calcular-ho així.,"No tinc ni idea de què fer només amb els totals, si us plau, doneu-me més detalls per aclarir aquest embolic.","contradiction
+
+**explanation:**
+
+the premise (""so i just had to get the totals and try to calculate it that way."") suggests the speaker *has* taken action based on the totals.  the hypothesis (""i have no idea what to do just with the totals, please give me more details to clarify this mess."") directly contradicts this, stating the speaker *doesn't* know what to do with just the totals and needs more information. therefore, the premise and hypothesis are contradictory.
+"
+Així que només havia d'agafar els totals i intentar calcular-ho així.,Ho calcularé a partir dels totals.,"entailment
+"
+i això és molt degut al fet que les mares estan enganxades a les drogues,Les mares són drogodependents.,"entailment
+"
+i això és molt degut al fet que les mares estan enganxades a les drogues,Les mares no prenen cap fàrmac o medicament.,"contradiction
+"
+i això és molt degut al fet que les mares estan enganxades a les drogues,Les mares es droguen.,"entailment
+"
+"Sí, és molt bonic que hagi plogut",No m'importa la pluja.,"contradiction
+"
+"Sí, és molt bonic que hagi plogut",Fa bonic i plou.,"neutral
+"
+"Sí, és molt bonic que hagi plogut","És horrible, amb un sol interminable.","contradiction
+"
+"oh, què val la vida humana i si pots rehabilitar algú o no",Totes les vides es mereixen la rehabilitació i una segona oportunitat.,"neutral
+
+**explanation:**
+
+the premise (""oh, what is the value of human life and if someone can be rehabilitated or not"") raises a question about the value of life and the possibility of rehabilitation. it doesn't explicitly agree or disagree with the hypothesis (""all lives deserve rehabilitation and a second chance""). 
+
+the premise is inquisitive and explores the concept of rehabilitation, while the hypothesis makes a definitive statement *about* rehabilitation. the premise doesn't necessarily *lead to* or *prevent* the acceptance of the hypothesis. it's possible to ponder the value of life and the possibility of rehabilitation without necessarily concluding that *all* lives deserve a second chance.  it's a separate consideration. therefore, the relationship is neutral.
+"
+"oh, què val la vida humana i si pots rehabilitar algú o no",Cap humà mereix ser rehabilitat.,"neutral
+"
+"oh, què val la vida humana i si pots rehabilitar algú o no","Independentment de la rehabilitació, el que val la vida.","neutral
+"
+"Oh noi, tens un problema de cablejat estrany allà",Mai havia vist aquest tipus de problema de cablejat abans.,"entailment 
+
+**explanation:**
+
+the premise ""oh noi, tens un problema de cablejat estrany allà"" (oh man, you have a strange wiring problem there) strongly suggests the hypothesis ""mai havia vist aquest tipus de problema de cablejat abans"" (i had never seen this type of wiring problem before).  if something is ""strange,"" it's reasonable to infer that it's not a commonly encountered problem. therefore, the premise *implies* the hypothesis.
+"
+"Oh noi, tens un problema de cablejat estrany allà",El cablejat no és el problema.,"contradiction
+"
+"Oh noi, tens un problema de cablejat estrany allà",Hi ha un problema causat per aquest cablejat estrany.,"entailment 
+
+**explanation:**
+
+the premise states there's a strange wiring problem (""tens un problema de cablejat estrany allà""). the hypothesis states that there's a problem *caused* by that strange wiring (""hi ha un problema causat per aquest cablejat estrany"").  if there's a strange wiring problem, it's a logical entailment that there is a problem associated with it. the premise doesn't rule out other possible causes, but it *supports* the hypothesis.
+"
+"Sembla molt divertit, sí, és increïble per a mi quantes coses permetrien",No m'estranya gens que fossin permissius.,"neutral
+"
+"Sembla molt divertit, sí, és increïble per a mi quantes coses permetrien",Em sorprèn que et deixessin portar menjar i begudes allà dins.,"neutral
+"
+"Sembla molt divertit, sí, és increïble per a mi quantes coses permetrien",Estic sorprès de com podrien sortir-se amb la seva.,"neutral
+"
+"Oh, però de totes maneres, els meus fills ara tenen vint-i-un i vint-i-quatre, així que no he de fer-ho",No ho necessito perquè els meus fills tenen més de vint anys.,"entailment
+"
+"Oh, però de totes maneres, els meus fills ara tenen vint-i-un i vint-i-quatre, així que no he de fer-ho",Potser ho hauria de fer perquè tenen una edat semblant.,"neutral
+"
+"Oh, però de totes maneres, els meus fills ara tenen vint-i-un i vint-i-quatre, així que no he de fer-ho",Ho he de fer perquè tenen deu i onze anys.,"contradiction
+
+**explanation:**
+
+the premise states the speaker's children are 21 and 24 years old (""vint-i-un i vint-i-quatre""). the hypothesis states the speaker *should* do something because their children are 10 and 11 years old (""deveo hacerlo porque tienen diez y once años""). 
+
+these are directly contradictory.  the children's ages are vastly different, and the premise explicitly states the reason *not* to do something is due to their older age.
+"
+"Sí, gent que podria estar a la feina en qualsevol moment o les decisions de les quals es podrien enfosquir si haguessin de prendre una decisió","Sí, la gent que potser no és capaç de prendre decisions basant-se en el seu propi criteri.","neutral
+
+**explanation:**
+
+the premise talks about people who might be available for work at any time or whose decisions could be negatively impacted by having to make a decision. it doesn't directly say anything about people being *incapable* of making decisions based on their own criteria. 
+
+while someone who might be easily influenced or whose decisions are negatively impacted might *potentially* be someone who isn't capable of making independent decisions, the premise doesn't explicitly state this. therefore, the premise is neutral towards the hypothesis.
+"
+"Sí, gent que podria estar a la feina en qualsevol moment o les decisions de les quals es podrien enfosquir si haguessin de prendre una decisió","Sí, gent que potser no té gana.","neutral
+"
+"Sí, gent que podria estar a la feina en qualsevol moment o les decisions de les quals es podrien enfosquir si haguessin de prendre una decisió","Sí, persones que mai tenen afectades les facultats de decisió.","contradiction
+"
+"no, encara estan de gira que porten des de finals dels seixanta",Han estat de gira des d'abans de 1970.,"neutral
+"
+"no, encara estan de gira que porten des de finals dels seixanta",Els encanta anar de gira.,"entailment
+
+**explanation:**
+
+the premise states they are currently on tour *and have been since the late 60s*. this strongly implies that they *enjoy* touring, as they've been doing it for a very long time.  the hypothesis simply states that they *love* touring. the premise doesn't negate the possibility of the hypothesis; rather, it provides evidence *supporting* it. therefore, the premise entails the hypothesis.
+"
+"no, encara estan de gira que porten des de finals dels seixanta",Fa poc han acabat la seva gira.,"contradiction
+"
+com faries aeròbic?,Pots explicar com faries aeròbic?,"entailment 
+
+**explanation:**
+
+the premise ""com faries aeròbic?"" (how would you do aerobics?) asks *how* to do aerobics. the hypothesis ""pots explicar com faries aeròbic?"" (can you explain how you would do aerobics?) is a direct request for the information hinted at in the premise.  if someone is asked how to do aerobics, it's implied they *can* explain the process. therefore, the premise entails the hypothesis.
+"
+com faries aeròbic?,M'interessa l'aeròbic perquè necessito una mica d'activitat cardiovascular.,"neutral
+"
+com faries aeròbic?,"Si us plau, deixeu de parlar d'aeròbic.","neutral
+"
+"Bé, això és bo, no hi havia pensat, sí",És una idea absurda que vaig descartar la setmana passada.,"neutral
+"
+"Bé, això és bo, no hi havia pensat, sí",Això és un bon argument.,"neutral
+"
+"Bé, això és bo, no hi havia pensat, sí",La paradoxa que esmentes és un bon argument.,"neutral
+"
+"guarderia dos dies a la setmana en diuen guarderia de gent gran, però ella va al centre de gent gran",La guarderia està oberta cada dia només per a nens de menys de cinc anys.,"contradiction
+
+**explanation:**
+
+*   **premise:** the person goes to a ""guarderia de gent gran"" (daycare for older people) two days a week.
+*   **hypothesis:** the daycare is open every day *only* for children under five years old.
+
+since the premise states the person is attending a daycare *for older people*, it directly contradicts the hypothesis that the daycare is *only* for young children. therefore, the premise contradicts the hypothesis."
+"guarderia dos dies a la setmana en diuen guarderia de gent gran, però ella va al centre de gent gran",Els hi deixen anar més de dues vegades per setmana si la gent gran està a l'altura.,"neutral
+"
+"guarderia dos dies a la setmana en diuen guarderia de gent gran, però ella va al centre de gent gran","Es refereixen a ella com a guarderia de gent gran, però s'anomena centre de gent gran.","neutral
+"
+aquest era el seu objectiu oh,Això és el que havien estat lluitant per aconseguir.,"entailment
+"
+aquest era el seu objectiu oh,Això no va ser mai el que volien.,"contradiction
+
+**explanation:**
+
+* **premise:** ""aquest era el seu objectiu oh"" - ""this was their goal oh""
+* **hypothesis:** ""això no va ser mai el que volien"" - ""this was never what they wanted.""
+
+the premise states that *something* *was* their goal. the hypothesis directly states that *that same thing* was *never* what they wanted.  these statements are logically contradictory.  therefore, the premise contradicts the hypothesis.
+"
+aquest era el seu objectiu oh,Van aconseguir el seu objectiu.,"entailment 
+
+**explanation:**
+
+the premise ""aquest era el seu objectiu oh"" translates to ""this was their objective oh"". the hypothesis ""van aconseguir el seu objectiu"" translates to ""they achieved their objective"".
+
+if something *was* their objective, and they *achieved* their objective, then the premise *does* entail the hypothesis. it's a direct consequence.
+"
+El control de les armes significa utilitzar les dues mans,La meitat de tots els errors de tir fallat amb armes són a causa de fer-les servir amb una sola mà.,"neutral
+
+**reasoning:**
+
+the premise states that controlling weapons means using both hands. the hypothesis claims that a majority of missed shots are due to using only one hand.
+
+the premise *implies* that using one hand is *not* the proper way to control a weapon (i.e., not a good way to do it). however, it doesn't state anything about the *frequency* of errors caused by using one hand. it's entirely possible that using only one hand is a common cause of errors, even if it's not explicitly mentioned in the premise.
+
+therefore, the premise doesn't *entail* the hypothesis (it doesn't logically guarantee the hypothesis is true). it also doesn't *contradict* the hypothesis (it doesn't definitively prove the hypothesis false).  it's simply *neutral* - the premise doesn't provide enough information to determine the truth or falsity of the hypothesis.
+"
+El control de les armes significa utilitzar les dues mans,La millor manera d'avançar per controlar l'arma és utilitzar els dos peus.,"neutral
+"
+El control de les armes significa utilitzar les dues mans,Utilitzeu les dues mans si voleu practicar el control de l'arma.,"neutral
+"
+"i eh, però de sobte ve d'algun lloc no sé d'on ve però","No sé d'on ve, però és ràpid.","neutral
+"
+"i eh, però de sobte ve d'algun lloc no sé d'on ve però","Arriba ràpid, però ja sé d'on pot venir.","neutral
+"
+"i eh, però de sobte ve d'algun lloc no sé d'on ve però",Ve com la melassa i sé exactament quan arribarà.,"neutral
+"
+"no, de fet, ni tan sols n'estic familiaritzat, no crec",No en sé gaire d’això.,"entailment 
+
+**explanation:**
+
+the premise ""no, de fet, ni tan sols n'estic familiaritzat, no crec"" translates to ""no, in fact, i'm not even familiar with it, i don't think so."" this strongly suggests a lack of knowledge. the hypothesis ""no en sé gaire d’això"" translates to ""i don't know much about that."" 
+
+since not being familiar with something directly implies not knowing much about it, the premise entails the hypothesis.
+"
+"no, de fet, ni tan sols n'estic familiaritzat, no crec",Soc ignorant en temes d'amor.,"entailment 
+
+**explanation:**
+
+the premise ""no, de fet, ni tan sols n'estic familiaritzat, no crec"" translates to ""no, in fact, i'm not even familiar with it, i don't think so.""  this strongly suggests a lack of knowledge or experience. 
+
+the hypothesis ""soc ignorant en temes d'amor"" translates to ""i am ignorant in matters of love."" 
+
+since the premise indicates a lack of familiarity and a negative belief (not thinking so, implying a lack of knowledge), it directly supports and implies that the person is ignorant about matters of love. therefore, the premise entails the hypothesis.
+"
+"no, de fet, ni tan sols n'estic familiaritzat, no crec",Fa anys que l'estudio.,"contradiction
+"
+"sí, era genial, ja saps ella",Crec que ella sap que era genial.,"entailment 
+
+**explanation:**
+
+the premise ""sí, era genial, ja saps ella"" translates to ""yes, it was great, you know she does."" the phrase ""ja saps ella"" strongly implies that ""ella"" (she) is aware of the fact that something was great. the hypothesis ""crec que ella sap que era genial"" translates to ""i think she knows it was great.""  because the premise *states* she knows, it entails the hypothesis.
+"
+"sí, era genial, ja saps ella","No, ella era horrible.","contradiction
+"
+"sí, era genial, ja saps ella","Sí, era molt bona.","neutral
+"
+"sí, va suggerir que només aconseguissis una fregona com faries servir",Va suggerir comprar una aspiradora.,"neutral
+"
+"sí, va suggerir que només aconseguissis una fregona com faries servir",Va suggerir trobar un pal de fregar.,"neutral
+
+**explanation:**
+
+the premise mentions suggesting a mop (""fregona""). the hypothesis suggests finding a mop handle (""pal de fregar""). while a mop handle is *related* to a mop, the premise doesn't explicitly state or imply that the person was suggesting finding the handle specifically. it's possible they were just saying ""get a mop"" without specifying the handle. therefore, the premise doesn't *entail* the hypothesis, nor does it *contradict* it. it's simply *neutral*.
+"
+"sí, va suggerir que només aconseguissis una fregona com faries servir",Volia netejar la sang amb un pal de fregar.,"neutral
+"
+és molt dolent aquí acabem de tenir un tiroteig franc a unes tres illes de casa nostra,El tiroteig va ser almenys a 100 milles d'on visc.,"neutral
+
+**reasoning:**
+
+the premise states a shooting occurred ""a three miles from our home"". the hypothesis states the shooting was ""at least 100 miles from where i live.""
+
+we don't know where ""our home"" is relative to the speaker's location. it's possible the speaker's home is far from the location of the shooting, making the hypothesis true. however, it's also possible that their home is closer than 100 miles, making the hypothesis false. therefore, the premise does not guarantee or rule out the hypothesis.
+"
+és molt dolent aquí acabem de tenir un tiroteig franc a unes tres illes de casa nostra,El tiroteig va ser a prop de casa meva i em fa por sortir.,"neutral.
+
+**reasoning:**
+
+the premise states there was a shooting a few blocks from the speaker's home. the hypothesis states the shooting was near the speaker's home *and* makes them afraid to go out.
+
+while the premise supports the possibility of the hypothesis being true (the shooting *could* be close to the speaker), it doesn't *guarantee* it. the phrase ""a unes tres illes de casa nostra"" (a few blocks from our home) is vague. it's possible the shooting was further away than the speaker perceives or is comfortable with.  the hypothesis introduces a personal feeling (fear) not explicitly mentioned in the premise. therefore, the premise doesn't logically entail or contradict the hypothesis; it's neutral.
+"
+és molt dolent aquí acabem de tenir un tiroteig franc a unes tres illes de casa nostra,Hi va haver un tiroteig prop de casa meva; realment aquesta no és una bona zona.,"entailment
+"
+"uh-huh és cert, no és realment coherent","No estic d'acord amb tu, és molt coherent.","contradiction
+"
+"uh-huh és cert, no és realment coherent",Crec que pots tenir raó sobre la seva consistència.,"neutral 
+
+**explanation:**
+
+* **premise:** ""uh-huh és cert, no és realment coherent"" translates to ""uh-huh it's true, it's not really coherent."" this expresses a feeling of agreement with something being true but also a lack of logical consistency.
+* **hypothesis:** ""crec que pots tenir raó sobre la seva consistència"" translates to ""i think you might be right about its consistency."" this expresses a belief in the consistency of something.
+
+the premise and hypothesis don't directly clash. the premise acknowledges a lack of coherence, but the hypothesis suggests the possibility of consistency.  the premise could be a starting point for an argument *towards* consistency, or it could be a general observation about something that *might* have inconsistent aspects but also could be consistent in some way.  therefore, the premise doesn't necessarily entail or contradict the hypothesis; it's neutral.
+
+
+
+"
+"uh-huh és cert, no és realment coherent",Tens raó que no és coherent.,"entailment
+"
+estic intentant quedar-me allà,Estic intentant aguantar.,"neutral
+"
+estic intentant quedar-me allà,Realment estic fent el possible.,"neutral
+
+**explanation:**
+
+* **premise:** ""estic intentant quedar-me allà"" means ""i am trying to stay there."" it expresses an intention or effort to remain in a certain place.
+* **hypothesis:** ""realment estic fent el possible"" means ""i am really doing my best."" it describes the level of effort being exerted.
+
+while the premise *implies* effort, it doesn't *guarantee* that the person is ""doing their best."" they might be trying but not succeeding, or they might be trying with minimal effort. the premise doesn't provide enough information to definitively say whether the hypothesis is true or false. therefore, the relationship is neutral.
+"
+estic intentant quedar-me allà,Em deixaré anar i no miraré mai enrere.,"neutral
+"
+Restringim la nostra entrada al futur tecnològic.,Estem construint els precursors necessaris per a un futur tecnològic.,"entailment
+"
+Vigilem la nostra entrada al futur tecnològic.,"Construïm transistors, de manera que el nostre futur es basarà en la IA.","neutral
+
+**explanation:**
+
+* **premise:** ""vigilăm la nostra entrada al futur tecnològic"" translates to ""we are watching our entry into the technological future."" this is a general statement about awareness and observation.
+* **hypothesis:** ""construïm transistors, de manera que el nostre futur es basarà en la ia"" translates to ""we are building transistors, so our future will be based on ai."" this statement links transistor construction to an ai-dominated future.
+
+the premise doesn't directly support or refute the hypothesis. watching the technological future doesn't *guarantee* or *disprove* that the future will be based on ai, even if transistors are being built.  building transistors is *consistent* with developing ai, but it's not the only possibility. therefore, the relationship is neutral.
+"
+Vigilem la nostra entrada al futur tecnològic.,Volem evitar que la tecnologia tingui èxit.,"contradiction
+
+**explanation:**
+
+the premise ""vigilem la nostra entrada al futur tecnològic"" (we are watching our entry into the technological future) implies an active engagement and perhaps a desire to guide or manage technological development. 
+
+the hypothesis ""volem evitar que la tecnologia tingui èxit"" (we want to prevent technology from succeeding) is directly contradictory to this.  watching something implies a potential to influence or control it, not to actively prevent its success.  the two statements cannot logically coexist.
+"
+"Per exemple, com a màxim, tots els gens es tornen morats.","Com a màxim, només la meitat dels gens poden tornar-se morats.","neutral
+"
+"Per exemple, com a màxim, tots els gens es tornen morats.",És possible que els gens canviïn de color.,"entailment 
+
+**explanation:**
+
+the premise states that ""at most, all genes turn purple."" this means it's *possible* for all genes to turn purple.  the hypothesis states ""it is possible that genes change color."" if all genes turning purple is a possibility, then the possibility of genes changing color is certainly entailed.  the premise provides a specific example that supports the broader possibility stated in the hypothesis.
+"
+"Per exemple, com a màxim, tots els gens es tornen morats.","De vegades, els gens també poden tornar-se blaus.","contradiction
+"
+Daniel Yamins és un jove matemàtic brillant.,El senyor Yamins és excel·lent en matemàtiques.,"entailment
+"
+Daniel Yamins és un jove matemàtic brillant.,El Sr. Yamins es dedica a la geometria algebraica.,"neutral
+"
+Daniel Yamins és un jove matemàtic brillant.,"El Sr. Yamins és un gran artista, però un matemàtic terrible.","contradiction
+"
+"I si és així, sovint estan a prop d'aquest límit?",Sé que mai viatgen a prop del límit.,"contradiction
+
+**explanation:**
+
+* **premise:** ""i si és així, sovint estan a prop d'aquest límit?"" translates to ""and if that's the case, are they often near this limit?""  this implies a possibility of them being near the limit.
+
+* **hypothesis:** ""sé que mai viatgen a prop del límit."" translates to ""i know they never travel near the limit."" this directly states they *never* go near the limit.
+
+since the premise allows for the possibility of them being near the limit, while the hypothesis asserts they *never* are, the two statements contradict each other. therefore, it's a contradiction.
+"
+"I si és així, sovint estan a prop d'aquest límit?",Vull saber si són sovint a Anglaterra.,"neutral
+"
+"I si és així, sovint estan a prop d'aquest límit?",El ponent volia aclarir la freqüència amb què s'acostaven al límit.,"entailment 
+
+**explanation:**
+
+the premise ""i si és així, sovint estan a prop d'aquest límit?"" translates to ""and if that's the case, are they often close to this limit?"". the hypothesis ""el ponent volia aclarir la freqüència amb què s'acostaven al límit"" translates to ""the speaker wanted to clarify how often they approached the limit.""
+
+the premise asks about the frequency of being close to the limit, and the hypothesis states that the speaker wants to clarify that very same frequency. therefore, the premise directly supports and implies the hypothesis. it's a direct question leading to the need for clarification.
+"
+I crec que hi ha una pista molecular que la biosfera s'està coconstruint a si mateixa de manera persistent en règim de supervivència per a un conjunt de llinatges en propagació.,La biosfera canvia molt.,"neutral
+"
+I crec que hi ha una pista molecular que la biosfera s'està coconstruint a si mateixa de manera persistent en règim de supervivència per a un conjunt de llinatges en propagació.,La biosfera canvia segons la temperatura.,"neutral
+"
+I crec que hi ha una pista molecular que la biosfera s'està coconstruint a si mateixa de manera persistent en règim de supervivència per a un conjunt de llinatges en propagació.,La biosfera no canvia mai.,"contradiction
+"
+"Amb aquest salt, un cristall normal no pot codificar molta informació.",Els cristalls regulars són un mitjà d'emmagatzematge d'informació de molt alta densitat.,"contradiction
+"
+"Amb aquest salt, un cristall normal no pot codificar molta informació.",Els cristalls regulars no són gaire útils per codificar la informació.,"entailment
+"
+"Amb aquest salt, un cristall normal no pot codificar molta informació.",Hi ha altres tipus de cristalls que són molt útils per codificar informació geogràfica mitjançant raigs làser.,"neutral
+"
+"En conseqüència, els adults no necessiten tutoritzar els nens en edat preescolar o fer-ho veure, com fan de vegades quan els ajuden a fer bé els trencaclosques o altres tasques similars.","Els nens en edat preescolar són, naturalment, més bons resolent trencaclosques que jugant a jocs de simulació.","neutral
+"
+"En conseqüència, els adults no necessiten tutoritzar els nens en edat preescolar o fer-ho veure, com fan de vegades quan els ajuden a fer bé els trencaclosques o altres tasques similars.",Els nens en edat preescolar no necessiten tanta ajuda per aprendre a fingir.,"neutral
+"
+"En conseqüència, els adults no necessiten tutoritzar els nens en edat preescolar o fer-ho veure, com fan de vegades quan els ajuden a fer bé els trencaclosques o altres tasques similars.",Els nens en edat preescolar no tenen les habilitats de modelatge espacial necessàries per dominar els trencaclosques pel seu compte.,"entailment
+"
+[Aquesta nació va ser] concebuda en llibertat i dedicada a la proposició que tots els homes són creats iguals.,Les notes sobre aquesta proposta es van registrar en diversos documents addicionals.,"neutral
+"
+[Aquesta nació va ser] concebuda en llibertat i dedicada a la proposició que tots els homes són creats iguals.,Algunes persones creien que totes les persones som iguals.,"entailment
+"
+[Aquesta nació va ser] concebuda en llibertat i dedicada a la proposició que tots els homes són creats iguals.,Aquesta nació es va fundar en la creença que algunes persones són inherentment millors que altres.,"contradiction
+"
+L'he de lloar més?,Estic bastant segur que he de vèncer-lo pels seus fracassos.,"neutral
+
+**explanation:**
+
+the premise ""l'he de lloar més?"" translates to ""should i praise him more?"".  the hypothesis ""estic bastant segur que he de vèncer-lo pels seus fracassos"" translates to ""i'm quite sure i have to defeat him because of his failures.""
+
+there's no logical connection between whether someone *should* be praised more and whether someone *needs* to be defeated due to failures.  they address different aspects of a relationship or situation.  therefore, the premise is neutral towards the hypothesis.
+"
+L'he de lloar més?,Em pregunto si necessita més apreciació de mi.,"entailment 
+
+**explanation:**
+
+the premise ""l'he de lloar més?"" translates to ""should i praise him/her more?"". the hypothesis ""em pregunto si necessita més apreciació de mi"" translates to ""i wonder if he/she needs more appreciation from me.""
+
+the premise directly implies the hypothesis. if one is questioning whether they *should* praise someone more, it logically follows that they might be wondering if that person *needs* more appreciation. therefore, the premise entails the hypothesis.
+"
+L'he de lloar més?,Hauria de lloar-lo més per la seva interpretació al piano?,"neutral
+"
+Les teories de la xarxa d'espín es poden construir en diferents dimensions.,Es poden utilitzar altres dimensions per construir teories de la xarxa Spin.,"entailment
+"
+Les teories de la xarxa Spin es poden construir en diferents dimensions.,Les xarxes Spin són molt útils per a les tecnologies d'emmagatzematge de dades.,"neutral
+"
+Les teories de la xarxa Spin es poden construir en diferents dimensions.,Les xarxes Spin no es poden imaginar en diferents dimensions.,"contradiction
+"
+"(frenèticament) No, no, no vull que et moris!",No vull que et moris!,"entailment
+"
+"(fFrenèticament) No, no, no vull que et moris!",No m'importa si et mors!,"contradiction
+"
+"(fFrenèticament) No, no, no vull que et moris!",M'enfadaria molt si et morissis!,"neutral
+
+**explanation:**
+
+* **premise:** ""no, no, no vull que et moris!"" translates to ""no, no, no i don't want you to die!"" this expresses a desire for someone to live.
+* **hypothesis:** ""m'enfadaria molt si et morissis!"" translates to ""i would be very angry if you were to die!"" this expresses a feeling of anger *upon* death.
+
+the premise focuses on *not wanting* someone to die, while the hypothesis focuses on the speaker's *emotional reaction* *if* the person were to die.  these aren't necessarily mutually exclusive. someone might desperately want someone to live *but* still feel anger at the thought of their death (perhaps due to circumstances surrounding the death, or resentment).  therefore, the premise doesn't logically guarantee the hypothesis, nor does it necessarily prevent it. it's possible to agree with the premise and still feel the emotion described in the hypothesis.
+"
+"Va ser penjat públicament el 19 de març de 1875 a San José, Califòrnia.",Califòrnia estava realitzant execucions públiques fins al 1875.,"neutral
+"
+"Va ser penjat públicament el 19 de març de 1875 a San José, Califòrnia.",Va ser absolt de tot el mal que havia fet i enviat de tornada.,"contradiction
+
+**explanation:**
+
+the premise states that someone was publicly hanged. being hanged is a punishment, implying a conviction of wrongdoing. the hypothesis states the person was acquitted of all wrongdoing and sent back. these two statements are directly opposing each other. therefore, the premise contradicts the hypothesis.
+"
+"Va ser penjat públicament el 19 de març de 1875 a San José, Califòrnia.",Va ser penjat per sedició i robatori de cavalls.,"neutral
+"
+"En el règim caòtic, el mar verd brillant s'infiltra.",El mar era de color blau intens i llis com el vidre.,"contradiction
+"
+"En el règim caòtic, el mar verd brillant s'infiltra.",El mar era ple de petits peixos que xipollejaven contra la barca.,"neutral
+"
+"En el règim caòtic, el mar verd brillant s'infiltra.",El mar era verd i semblava fer bombolles.,"neutral
+
+**explanation:**
+
+the premise states that a bright green sea is infiltrating a chaotic regime. the hypothesis states that the sea was green and seemed to be making bubbles. 
+
+while the hypothesis aligns with the color green mentioned in the premise, it introduces the idea of ""bubbles"" which is not mentioned or implied in the premise. therefore, the premise neither entails nor contradicts the hypothesis. it's neutral.
+"
+Un ordre jurídic completament nou anhelava sortir de la confusió de la dècada de 1860.,"A la dècada de 1870, tot l'ordre jurídic s'havia ensorrat i el país estava en completa anarquia.","neutral
+"
+Un ordre jurídic completament nou anhelava sortir de la confusió de la dècada de 1860.,La dècada de 1860 va ser una època convulsa.,"entailment 
+
+**explanation:**
+
+the premise states that a new legal order was trying to emerge *from* the confusion of the 1860s. this implies that the 1860s *were* a confusing period.  therefore, the premise entails the hypothesis.
+"
+Un ordre jurídic completament nou anhelava sortir de la confusió de la dècada de 1860.,El nou ordenament jurídic volia ampliar els drets laborals.,"neutral
+"
+"Qualsevol forma de pensament superior, va assenyalar, apareix en primer lloc en la comunicació social, entre l'infant i els representants de la seva cultura mentre duen a terme una activitat conjunta.",Els nens són incapaços de compartir formes superiors de pensament.,"contradiction
+"
+"Qualsevol forma de pensament superior, va assenyalar, apareix en primer lloc en la comunicació social, entre l'infant i els representants de la seva cultura mentre duen a terme una activitat conjunta.",La pesca és una activitat popular compartida entre moltes cultures diferents.,"neutral
+"
+"Qualsevol forma de pensament superior, va assenyalar, apareix en primer lloc en la comunicació social, entre l'infant i els representants de la seva cultura mentre duen a terme una activitat conjunta.",Compartir activitats comunes de vegades és útil per compartir formes més altes de pensament.,"entailment
+"
+"Alguns barris tenien ""rezadores"" o ""rezadoras"", líders espirituals que conduïen la comunitat en la pregària pels funerals, les celebracions del Dia dels Sants i sempre que el sacerdot no estava disponible.",Cap dels barris tenia líders espirituals que no fossin sacerdots.,"contradiction
+
+**explanation:**
+
+* **premise:** states that some neighborhoods had spiritual leaders (""rezadores"" or ""rezadoras"") who led prayer during funerals, saint's day celebrations, and when the priest wasn't available.
+* **hypothesis:** states that *no* neighborhoods had spiritual leaders who weren't priests.
+
+the premise directly implies the existence of spiritual leaders *other than* priests (the ""rezadores/rezadoras"").  this directly contradicts the hypothesis, which claims such leaders do not exist. therefore, the premise contradicts the hypothesis.
+"
+"Alguns barris tenien ""rezadores"" o ""rezadoras"", líders espirituals que conduïen la comunitat en la pregària pels funerals, les celebracions del Dia dels Sants i sempre que el sacerdot no estava disponible.",Alguns barris tenien líders espirituals que no eren sacerdots.,"entailment
+"
+"Alguns barris tenien ""rezadores"" o ""rezadoras"", líders espirituals que conduïen la comunitat en la pregària pels funerals, les celebracions del Dia dels Sants i sempre que el sacerdot no estava disponible.",Alguns dels líders espirituals tenien els cabells negres.,"neutral
+"
+"També en el joc sociodramàtic, les oportunitats d'actuar i coordinar diversos rols probablement ajuden els nens a comprendre les semblances i diferències entre les persones pel que fa a desitjos, creences i sentiments.",Els nens poden aprendre que les persones són semblants i diferents.,"entailment
+"
+"També en el joc sociodramàtic, les oportunitats d'actuar i coordinar diversos rols probablement ajuden els nens a comprendre les semblances i diferències entre les persones pel que fa a desitjos, creences i sentiments.",Els nens poden veure que les diferents races són diferents.,"neutral
+
+**explanation:**
+
+the premise discusses how role-playing in social dramas helps children understand similarities and differences *between people in terms of desires, beliefs, and feelings*. it doesn't specifically mention race or whether children will perceive different races as different. while it's *possible* that understanding differences in desires, beliefs, and feelings could lead to recognizing racial differences, the premise doesn't *entail* that conclusion. it's also not a direct *contradiction*. therefore, the relationship is neutral.
+"
+"També en el joc sociodramàtic, les oportunitats d'actuar i coordinar diversos rols probablement ajuden els nens a comprendre les semblances i diferències entre les persones pel que fa a desitjos, creences i sentiments.",Els nens no poden aprendre res.,"contradiction
+"
+"La màxima virtut de l'ordre constitucional alemany de postguerra, doncs, va ser precisament la víctima més gran del règim nazi.",El règim nazi ho va permetre.,"contradiction
+
+**explanation:**
+
+* **premise:** the greatest virtue of post-wwii german constitutional order was precisely the biggest victim of the nazi regime. this implies the nazi regime *harmed* or *attacked* the constitutional order.
+* **hypothesis:** the nazi regime *allowed* it.
+
+these two statements are contradictory. if the nazi regime allowed something, it wouldn't be the ""biggest victim"" of it. allowing implies a passive role, whereas being a victim implies active harm. therefore, the hypothesis contradicts the premise.
+"
+"La màxima virtut de l'ordre constitucional alemany de postguerra, doncs, va ser precisament la víctima més gran del règim nazi.",El règim nazi va matar tots els implicats.,"neutral
+"
+"La màxima virtut de l'ordre constitucional alemany de postguerra, doncs, va ser precisament la víctima més del règim nazi.",El règim nazi ho va aturar.,"contradiction
+
+**explanation:**
+
+* **premise:** the greatest virtue of the post-wwii german constitutional order was precisely its victimhood at the hands of the nazi regime. this implies the nazi regime *harmed* or *oppressed* the constitutional order.
+* **hypothesis:** the nazi regime stopped it. this implies the nazi regime *prevented* or *halted* something (the constitutional order).
+
+these two statements are contradictory.  if the nazi regime was a victim of the constitutional order's oppression, it doesn't make sense to say the regime ""stopped"" the order. the harm done to the order *was* the consequence of the regime's actions.  the hypothesis suggests an action of prevention or stoppage, which is not supported by the premise's focus on the regime being a victim. therefore, the hypothesis contradicts the premise.
+"
+"Sonja, la filla, va començar a imitar les rebequeries de la seva filla.",Ningú estava fent una rebequeria.,"contradiction
+
+**explanation:**
+
+* **premise:** sonja is imitating ""rebequeries"" (a type of garment/decoration). this means *someone* is wearing or doing something related to ""rebequeries.""
+* **hypothesis:** no one is doing a ""rebequeria.""
+
+the premise directly contradicts the hypothesis because the premise states someone *is* doing a ""rebequeria,"" while the hypothesis states no one is. therefore, the premise contradicts the hypothesis.
+"
+"Sonja, la filla, va començar a imitar les rebequeries de la seva filla.",La Sonja és una nena.,"neutral
+"
+"Sonja, la filla, va començar a imitar les rebequeries de la seva filla.",La Sonja estava molesta.,"neutral
+
+**reasoning:**
+
+the premise states that sonja started imitating her daughter's clothes. this action could be motivated by various reasons: affection, amusement, a desire to connect, or even irritation.  there's no information in the premise that *guarantees* sonja was upset. it's possible she was happy, bored, or feeling playful.  therefore, the premise is neutral with respect to the hypothesis.
+"
+"6 En els cinquanta-cinc anys previs a la Guerra Civil, el tribunal va utilitzar aquest poder amb moderació.",El Tribunal va utilitzar ocasionalment aquest poder en les dècades prèvies a la Guerra Civil.,"entailment
+"
+"6 En els cinquanta-cinc anys previs a la Guerra Civil, el tribunal va utilitzar aquest poder amb moderació.",El Tribunal va utilitzar aquest poder 4 vegades en els cinquanta-cinc anys anteriors a la Guerra Civil.,"neutral
+"
+"6 En els cinquanta-cinc anys previs a la Guerra Civil, el tribunal va utilitzar aquest poder amb moderació.",El Tribunal va utilitzar aquest poder 5 milions de vegades en els cinquanta-cinc anys previs a la Guerra Civil.,"contradiction
+"
+"Us asseguro, senyor, que estava plenament informat de tot.",Et dic que em van informar de tot.,"neutral
+"
+"Us asseguro, senyor, que estava plenament informat de tot.",És la mort del detectiu de què em van informar.,"neutral
+"
+"Us asseguro, senyor, que estava plenament informat de tot.",Hi ha molts detalls que em van amagar.,"contradiction
+"
+Els sons van distreure el capità Blood de les seves reflexions descontentes.,El capità Blood va poder entregar-se als seus pensaments disgustats sense interrupcions.,"contradiction
+
+**explanation:**
+
+* **premise:** the sounds *distracted* captain blood from his discontented reflections. this implies an interruption.
+* **hypothesis:** captain blood *was able to surrender to his disgusted thoughts without interruptions.* this implies a lack of interruption.
+
+since the premise states a distraction, directly opposing the lack of interruption stated in the hypothesis, the premise contradicts the hypothesis.
+"
+Els sons van distreure el capità Blood de les seves reflexions descontentes.,Els pensaments del capità Blood es van interrompre amb alguns sorolls.,"entailment
+"
+Els sons van distreure el capità Blood de les seves reflexions descontentes.,Els crits del cadell van treure el capità de les seves cavil·lacions.,"entailment 
+
+**explanation:**
+
+the premise states that sounds distracted captain blood from his discontented reflections. the hypothesis states that the cries of a puppy distracted the captain from his ruminations. 
+
+""reflexions"" and ""cavil·lacions"" are very similar in meaning (reflections/ruminations/thoughts). ""distreure"" (to distract) is synonymous with ""treure"" (to take/remove/pull). the sounds are what cause the distraction/removal of focus. therefore, the hypothesis is a more specific example of what the premise describes. the premise entails the hypothesis.
+"
+"Però no puc oblidar que, quan jo no era més que un esclau a casa del teu oncle a Barbados, em vas utilitzar amb certa amabilitat.",Em vas tractar amablement quan era esclau a Barbados.,"entailment
+"
+"Però no puc oblidar que, quan jo no era més que un esclau a casa el teu oncle a Barbados, em vas utilitzar amb certa amabilitat.",Vas ser increïblement cruel amb mi i em vas tractar pitjor que a la merda.,"contradiction
+"
+"Però no puc oblidar que, quan jo no era més que un esclau a casa el teu oncle a Barbados, em vas utilitzar amb certa amabilitat.",El teu oncle em va colpejar fort cada dia quan era el meu amo.,"contradiction
+
+**explanation:**
+
+the premise states the speaker was treated with ""certain kindness"" by the uncle while being a slave. the hypothesis claims the uncle physically abused the speaker daily. these two statements are directly contradictory. kindness and daily beating are opposing actions. therefore, the premise contradicts the hypothesis.
+"
+"Allà, a no més de tres milles de distància, hi havia terra: una paret irregular de verd viu que omplia l'horitzó a l'oest.",Un paisatge exuberant estava a la vista.,"entailment
+"
+"Allà, a no més de tres milles de distància, hi havia terra: una paret irregular de verd viu que omplia l'horitzó a l'oest.",L'illa a la qual s'acostaven estava deshabitada.,"neutral
+"
+"Allà, a no més de tres milles de distància, hi havia terra: una paret irregular de verd viu que omplia l'horitzó a l'oest.","No van poder veure terra durant quilòmetres, només un oceà sense fi.","contradiction
+
+**explanation:**
+
+the premise states that land was visible within three miles. the hypothesis states that they saw no land for kilometers, only an endless ocean. these two statements are directly contradictory. therefore, the premise contradicts the hypothesis.
+"
+"Soc l'enviat de Sa Majestat en aquestes terres bàrbares, i el parent proper del meu senyor Sunderland.","Sa Majestat té enviats, i jo soc un d'ells.","entailment
+"
+"Soc l'enviat de Sa Majestat a aquestes terres bàrbares, i el parent proper del meu senyor Sunderland.",Sa Majestat em va enviar aquí fa aproximadament una setmana.,"neutral
+
+**explanation:**
+
+the premise states the speaker is an envoy of his majesty and related to sunderland. it *doesn't* specify *when* the speaker was sent. the hypothesis states the speaker was sent approximately a week ago.  the premise doesn't provide information to confirm or deny the timeframe. therefore, the premise is neutral towards the hypothesis.
+"
+"Soc l'enviat de Sa Majestat a aquestes terres bàrbares, i el parent proper del meu senyor Sunderland.",No rebo ordres de Sa Majestat.,"contradiction 
+
+**explanation:**
+
+the premise explicitly states that the speaker is an envoy *of* his majesty. being an envoy implies receiving orders from his majesty. the hypothesis directly denies this. therefore, the premise and hypothesis are contradictory.
+"
+"T'ho devia... o pensava que t'ho devia, va dir.",Mai va pensar que et degués res.,"contradiction
+
+**explanation:**
+
+* **premise:** ""t'ho devia... o pensava que t'ho devia, va dir."" - he/she owed it to you... or thought they owed it to you, he/she said. this implies a sense of obligation or indebtedness, even if it was just a thought.
+* **hypothesis:** ""mai va pensar que et degués res."" - he/she never thought they owed you anything. this directly negates the idea of any obligation.
+
+since the premise suggests a possibility of owing something, and the hypothesis explicitly states the opposite, they are contradictory.
+"
+"T'ho devia... o pensava que t'ho devia, va dir.",Et devia per l'ajuda que li vas donar quan eres un captaire sense diners.,"entailment
+"
+"T'ho devia... o pensava que t'ho devia, va dir.",Pensava que et devia alguna cosa.,"entailment 
+
+**explanation:**
+
+the premise ""t'ho devia... o pensava que t'ho devia, va dir."" translates to ""i owed it to you... or i thought i owed it to you, he said."" 
+
+the hypothesis ""pensava que et devia alguna cosa"" translates to ""i thought i owed you something.""
+
+the premise explicitly states that the speaker *thought* they owed the other person something. therefore, the premise directly supports the hypothesis.  the phrase ""o pensava que t'ho devia"" (or i thought i owed it to you) makes the hypothesis a logical consequence of the premise.
+"
+"Ho hauria d'haver sabut, que no convenia apropar-se tant a Jamaica de nit.",Vaig viatjar a prop de Jamaica després de la posta de sol.,"entailment 
+
+**explanation:**
+
+the premise states ""i should have known that it wasn't advisable to get close to jamaica at night."" this strongly implies that the speaker *did* get close to jamaica after sunset (post la posta de sol).  the feeling of regret (""hauria d'haver sabut"") comes from the fact that they *did* do something they now realize was risky. therefore, the premise entails the hypothesis.
+"
+"Ho hauria d'haver sabut, que no convenia apropar-se tant a Jamaica de nit.",Vaig viatjar a Jamaica en un gran vaixell.,"neutral
+"
+"Ho hauria d'haver sabut, que no convenia apropar-se tant a Jamaica de nit.",La meva dona i jo vam arribar a Jamaica a plena llum del dia.,"neutral
+
+**explanation:**
+
+the premise states that it was unwise to get close to jamaica at night. the hypothesis states that the speaker and their wife arrived in jamaica during daylight.  
+
+the premise doesn't directly address *when* they arrived, only that nighttime is a risky time. the fact that they arrived during the day doesn't necessarily contradict the premise; they could have been careful even then, or the danger might apply to different aspects of jamaica at night.  therefore, the premise is neutral towards the hypothesis.
+"
+Els pensaments de Blood giraven sobre aquesta i altres coses mentre jeia al divan.,Blood va tenir un somni irreflexiu al seu divan.,"neutral
+"
+Els pensaments de Blood eren sobre aquesta i altres coses mentre jeia al divan.,Blood estava estirat rumiant.,"entailment
+"
+Els pensaments de Blood eren sobre aquesta i altres coses mentre jeia al divan.,Blood pensava molt en l'última vegada que havia vist la seva mare.,"neutral
+"
+"Segur, doncs, ja t'ho diré.","Bé, doncs, t'ho explicaré.","neutral
+"
+"Segur, doncs, ja t'ho diré.",No et diré ni una paraula.,"contradiction
+"
+"Segur, doncs, ja t'ho diré.",És només perquè vas prometre no repetir això que et dic.,"neutral
+"
+Ah! I de quina manera pot ser?,Algú es pregunta per quin camí seguir.,"neutral
+
+**explanation:**
+
+the premise ""ah! i de quina manera pot ser?"" expresses surprise or disbelief (""ah! how is that possible?""). it doesn't directly state or imply anything about someone asking about which path to take.  it's a general exclamation of astonishment. the hypothesis ""algú es pregunta per quin camí seguir"" (""someone is asking which path to take"") is a specific scenario. there's no logical connection forcing the premise to either support or refute the hypothesis. therefore, the premise is neutral towards the hypothesis.
+"
+Ah! I de quina manera pot ser?,L'interrogador està sol i no té ningú al voltant amb qui conversar.,"neutral
+"
+Ah! I de quina manera pot ser?,L'interrogador té pressa i necessita saber immediatament la ruta a seguir.,"neutral
+
+**explanation:**
+
+the premise ""ah! i de quina manera pot ser?"" translates to ""ah! how is that possible?"" or ""oh! how can that be?"". it expresses surprise or disbelief. 
+
+the hypothesis ""l'interrogador té pressa i necessita saber immediatament la ruta a seguir"" translates to ""the interrogator is in a hurry and needs to know the route to follow immediately.""
+
+the premise doesn't directly indicate anything about the interrogator's state (being in a hurry). while surprise *could* be linked to a time constraint, it's not a necessary or guaranteed connection. the premise is simply an expression of astonishment. therefore, it's neutral towards the hypothesis.
+"
+No atorgo l'encàrrec del Rei a la lleugera.,Atorgar l'encàrrec del rei va en contra de la meva moral.,"neutral
+
+**explanation:**
+
+* **premise:** ""no atorgo l'encàrrec del rei a la lleugera"" translates to ""i don't grant the king's charge lightly."" this suggests a careful and considered approach to the task.
+* **hypothesis:** ""atorgar l'encàrrec del rei va en contra de la meva moral"" translates to ""granting the king's charge goes against my morals."" this states a moral objection to the action.
+
+the premise simply describes the speaker's caution. it doesn't explicitly state *why* they are cautious. it's possible they are cautious due to ethical reasons (which would align with the hypothesis), but it's also possible they are cautious due to practical concerns, lack of time, or other factors. therefore, the premise doesn't *entail* or *contradict* the hypothesis. it's simply *neutral*.
+"
+No atorgo l'encàrrec del Rei a la lleugera.,He pensat molt en l'encàrrec del rei.,"neutral
+"
+No atorgo l'encàrrec del Rei a la lleugera.,Vaig signar l'ordre per atorgar l'encàrrec del rei sense pensar-m'hi.,"contradiction
+"
+Es va adonar que potser hauria de retirar-se amb pressa.,Es va adonar que tenia tot el dia per retirar-se.,"contradiction 
+
+**explanation:**
+
+the premise states the person realized they *should* withdraw quickly (""amb pressa""). the hypothesis states the person realized they had the *whole day* to withdraw. these two statements are contradictory. if they should withdraw quickly, they wouldn't have the whole day. the hypothesis negates the urgency implied by the premise.
+"
+Es va adonar que potser hauria de retirar-se amb pressa.,Es va adonar que havia de fer un moviment ràpid.,"entailment
+"
+Es va adonar que potser hauria de retirar-se amb pressa.,"Si es quedés al mateix lloc, seria descobert.","entailment 
+
+**explanation:**
+
+the premise ""es va adonar que potser hauria de retirar-se amb pressa"" (he/she realized that perhaps he/she should withdraw quickly) implies a sense of danger or risk in staying. the hypothesis ""si es quedés al mateix lloc, seria descobert"" (if he/she stayed in the same place, he/she would be discovered) directly states the reason *why* withdrawing quickly might be necessary.  therefore, the premise suggests a situation where the hypothesis is likely true, making the premise entail the hypothesis.
+"
+"I, tanmateix, ell ha estat el que ha estat i ha fet el que ha fet en aquests tres darrers anys, va dir ella, però ara ho va dir amb tristesa, sense el menyspreu d'abans.",No li agradava que hagués assassinat molts homes en els últims tres anys.,"neutral
+
+**explanation:**
+
+the premise describes a woman's statement about a man's actions over the past three years. while she acknowledges his actions (""ell ha estat el que ha estat i ha fet el que ha fet""), she delivers the statement with sadness and without the previous disdain. 
+
+the hypothesis states she *didn't* like him killing many men. the premise doesn't explicitly state whether she approves or disapproves of his actions; it only describes her *tone* regarding them. it's possible she disapproves, but the premise doesn't *entail* that she does. it could be she's sad *because* of his actions, not because she disapproves. therefore, the premise is neutral towards the hypothesis.
+"
+"I, tanmateix, ell ha estat el que ha estat i ha fet el que ha fet en aquests tres darrers anys, va dir ella, però ara ho va dir amb tristesa, sense el menyspreu d'abans.",Va parlar feliç de les seves aventures i de la seva personalitat.,"contradiction
+
+**explanation:**
+
+the premise states that the speaker (ella) is speaking with sadness and without the contempt she previously held. this directly contradicts the hypothesis, which claims she is speaking happily about her adventures and personality.  sadness and happiness are opposing emotional states, indicating a contradiction.
+"
+"I, tanmateix, ell ha estat el que ha estat i ha fet el que ha fet en aquests tres darrers anys, va dir ella, però ara ho va dir amb tristesa, sense el menyspreu d'abans.",Va parlar amb un to trist.,"entailment
+"
+Suposo que això segueix la moda de la teva espècie.,Suposo que això és el que fan els teus.,"entailment 
+
+**explanation:**
+
+the premise ""i assume this follows the fashion of your species"" implies that the speaker is making a generalization about the behavior of the other person's species. the hypothesis ""i assume that's what yours do"" is a more specific statement expressing a similar assumption.  the premise provides the basis for the hypothesis; the hypothesis is a logical deduction from the premise. therefore, the premise entails the hypothesis.
+"
+Suposo que això segueix la moda de la teva espècie.,He llegit sobre la teva espècie i la seva cultura.,"neutral 
+
+**explanation:**
+
+the premise ""suposo que això segueix la moda de la teva espècie"" (i suppose this follows the fashion of your species) expresses an assumption about a species' behavior or practices. the hypothesis ""he llegit sobre la teva espècie i la seva cultura"" (i have read about your species and its culture) states a fact about someone's knowledge.
+
+the premise doesn't *necessarily* mean the person has read about the species. they could be making a guess based on limited observation, or simply stating a belief.  the two statements are not logically connected in a way that one must be true if the other is. therefore, it's neutral.
+"
+Suposo que això segueix la moda de la teva espècie.,Entenc que això no és comú entre els teus.,"neutral
+"
+El front se li va arrugar amb una arrufada.,Un gran somriure es va estendre a la seva cara.,"contradiction
+"
+El front se li va arrugar amb una arrufada.,Va tenir una sensació repugnant a l'estómac.,"neutral
+"
+El front se li va arrugar amb una arrufada.,Se li va arrugar la cara.,"entailment 
+
+**explanation:**
+
+the premise ""el front se li va arrugar amb una arrufada"" translates to ""his forehead furrowed with a wrinkle.""  furrowing the forehead is a common way to wrinkle the face. therefore, the premise implies that his face was wrinkled, so the hypothesis ""se li va arrugar la cara"" (his face wrinkled) is entailed by the premise.
+"
+"Ella l'havia estat observant amb ulls brillants, però en veure el seu rostre abatut, i la profunda arrufada que marcava el seu front, la seva pròpia expressió va canviar.",La seva expressió va canviar després de veure el seu rostre.,"entailment
+"
+"Ella l'havia estat observant amb ulls brillants, però en veure el seu rostre abatut, i la profunda arrufada que marcava el seu front, la seva pròpia expressió va canviar.",Se li va il·luminar la cara quan va veure la seva cara arrugada.,"contradiction 
+
+**explanation:**
+
+the premise states that the woman's expression *changed* when she saw the other person's sad face and furrowed brow. the hypothesis states that her face was *illuminated* (meaning she became happy or cheerful) upon seeing the furrowed brow. these are opposite reactions. therefore, the premise contradicts the hypothesis.
+"
+"Ella l'havia estat observant amb ulls brillants, però en veure el seu rostre abatut, i la profunda arrufada que marcava el seu front, la seva pròpia expressió va canviar.",No sabia si estava enfadat amb ella.,"neutral
+
+**explanation:**
+
+the premise describes a woman's change in expression upon seeing another person's sad and troubled appearance. it highlights the woman's empathetic reaction. the hypothesis concerns the *other* person's emotions (anger).
+
+the premise doesn't provide any information about whether the person is angry or not. it only focuses on the woman's reaction to their apparent sadness. therefore, the premise is neutral with respect to the hypothesis. it doesn't support the idea that the person *is* angry, nor does it directly contradict it.
+"
+"Caminant tranquil·lament, va vorejar la muralla amb merlets i va entrar al pati per les grans portes.","Com que les grans portes estaven tancades, va saltar per sobre de la tanca, al pati.","contradiction
+"
+"Caminant tranquil·lament, va vorejar la muralla amb merlets i va entrar al pati per les grans portes.",Les grans portes eren l'única entrada al pati.,"neutral
+"
+"Caminant tranquil·lament, va vorejar la muralla amb merlets i va entrar al pati per les grans portes.",Hi havia grans portes que donaven al pati.,"entailment
+"
+"La forca te'l canviarà, sens dubte, va dir amb menyspreu.",Va pensar que algú aniria a la forca.,"neutral 
+
+**explanation:**
+
+the premise states someone *said* someone would go to the gallows (""la forca te'l canviarà""). the hypothesis states someone *thought* someone would go to the gallows. 
+
+the premise doesn't explicitly state that the speaker *thought* this, only that they said it with disdain.  it's possible the speaker genuinely believed it, or it could be a sarcastic or dismissive remark.  the premise doesn't provide enough information to definitively say whether the speaker held the belief expressed in the hypothesis. therefore, the premise is neutral towards the hypothesis.
+"
+"La forca te'l canviarà, sens dubte, va dir amb menyspreu.",Era un xèrif que havia capturat un lladre.,"neutral
+"
+"La forca te'l canviarà, sens dubte, va dir amb menyspreu.",Va xiuxiuejar una manera d'escapar del país per evitar la presó.,"neutral
+"
+"Com podria, sincerament, haver-los aturat? Era massa.",No vaig poder detenir-los.,"entailment 
+
+**explanation:**
+
+the premise ""com podria, sincerament, haver-los aturat? era massa."" translates to something like ""how could i, honestly, have stopped them? it was too much."" this expresses a feeling of powerlessness and that the situation was overwhelming. 
+
+the hypothesis ""no vaig poder detenir-los"" translates to ""i couldn't stop them."" 
+
+the premise strongly suggests the reason the speaker couldn't stop them is because it was ""too much"" (era massa), which directly supports the hypothesis. therefore, the premise entails the hypothesis.
+"
+"Com podria, sincerament, haver-los aturat? Era massa.",Els vaig detenir tan bon punt els vaig veure.,"contradiction
+
+**explanation:**
+
+* **premise:** ""com podria, sincerament, haver-los aturat? era massa."" translates to ""how could i, sincerely, have stopped them? it was too much."" this implies the speaker *couldn't* stop them.
+* **hypothesis:** ""els vaig detenir tan bon punt els vaig veure."" translates to ""i stopped them as soon as i saw them."" this directly states the speaker *did* stop them.
+
+these two statements are mutually exclusive.  therefore, the premise contradicts the hypothesis.
+"
+"Com podria, sincerament, haver-los aturat? Era massa.","No m'ho hauria perdonat, si els hagués detingut.","neutral
+
+**explanation:**
+
+the premise expresses regret and a feeling of powerlessness (""how could i have stopped them? it was too much.""). the hypothesis states a feeling of guilt or self-reproach (""i wouldn't have forgiven myself if i had detained them."").
+
+while the premise *could* imply the person *should* have detained them, it doesn't *necessarily* mean they would have. the premise focuses on the difficulty and magnitude of the situation. the hypothesis expresses a *consequence* of having detained them, not a statement about whether it was possible or appropriate. therefore, the premise is neutral towards the hypothesis. it doesn't logically force the hypothesis to be true or false.
+"
+L'he estat caçant el darrer any.,Fa un any que el segueixo de prop sense saber-ho.,"neutral 
+
+**explanation:**
+
+* **premise:** ""l'he estat caçant el darrer any."" translates to ""i have been hunting him/her/it for the last year."" this implies active pursuit.
+* **hypothesis:** ""fa un any que el segueixo de prop sense saber-ho."" translates to ""it's been a year that i have been following him/her/it closely without knowing it."" this implies observation, possibly unintentional.
+
+while the premise indicates a year-long engagement, it doesn't necessarily mean the speaker was *consciously* pursuing the subject. the premise could be about something else entirely, and the hypothesis could be a separate, unrelated observation. therefore, the premise doesn't *entail* the hypothesis, nor does it *contradict* it. it's *neutral*.
+"
+L'he estat caçant el darrer any.,Fa gairebé una setmana que només el segueixo.,"contradiction
+
+**explanation:**
+
+* **premise:** ""l'he estat caçant el darrer any"" translates to ""i have been hunting him/it for the last year."" this implies a long-term activity.
+* **hypothesis:** ""fa gairebé una setmana que només el segueixo"" translates to ""it's been almost a week that i've only been following him/it."" this implies a much shorter, recent activity.
+
+the hypothesis states a significantly shorter timeframe (almost a week) than the premise (a year). therefore, the hypothesis contradicts the premise.
+"
+L'he estat caçant el darrer any.,Durant l'últim any l'he estat perseguint.,"entailment
+"
+El museu no destaca pels catàlegs o les etiquetes,Al museu no li agrada ser etiquetat.,"neutral
+"
+El museu no destaca pels catàlegs o les etiquetes,Al museu no li agraden gaire els fullets.,"neutral
+"
+El museu no destaca pels catàlegs o les etiquetes,El punt fort del museu són els catàlegs.,"contradiction
+"
+Aquests mercats a l'aire lliure són també els llocs més interessants per comprar a Pequín.,Pequín té mercats a l'aire lliure que inclouen botigues molt interessants.,"entailment
+"
+Aquests mercats a l'aire lliure són també els llocs més interessants per comprar a Pequín.,Els mercats a l'aire lliure de Pequín són els més interessants del món.,"neutral
+"
+Aquests mercats a l'aire lliure són també els llocs més interessants per comprar a Pequín.,Les lleis estrictes de Pequín prohibeixen els mercats a l'aire lliure dins dels límits de la ciutat.,"contradiction
+"
+"La badia més gran de la costa nord-oest és un bon port, però tant l'aigua com la platja poden estar brutes.",L'aigua i la platja sempre estan netes.,"contradiction
+"
+"La badia més gran de la costa nord-oest és un bon port, però tant l'aigua com la platja poden estar brutes.",L'aigua i la platja poden estar brutes.,"entailment
+"
+"La badia més gran de la costa nord-oest és un bon port, però tant l'aigua com la platja poden estar brutes.",L'aigua està bruta a causa de la contaminació.,"neutral
+"
+"Aquells gratacels són bancs, i el carrer on s'aixequen ha rebut el sobrenom de Milla de Oro o Milla d'Or.",Cap dels gratacels de la Milla d'Or són bancs.,"contradiction
+"
+"Aquells gratacels són bancs, i el carrer on s'aixequen ha rebut el sobrenom de Milla de Oro o Milla d'Or.",Els gratacels de la Milla d'Or són bancs.,"entailment
+"
+"Aquells gratacels són bancs, i el carrer on s'aixequen ha rebut el sobrenom de Milla de Oro o Milla d'Or.","Els gratacels de la Milla d'Or són diferents tipus de negocis, inclosos bancs.","entailment
+"
+"És ben natural, doncs, que la implicació en la Segona Guerra Mundial comencés amb un Pla d'entrenament aeri de la Commonwealth britànica, utilitzant els cels més segurs del Canadà per preparar els pilots per al combat.",Canadà tenia cels més segurs.,"entailment
+"
+"És ben natural, doncs, que la implicació en la Segona Guerra Mundial comencés amb un Pla d'entrenament aeri de la Commonwealth britànica, utilitzant els cels més segurs del Canadà per preparar els pilots per al combat.",Els cels del Canadà estaven lliures de míssils.,"neutral
+"
+"És ben natural, doncs, que la implicació en la Segona Guerra Mundial comencés amb un Pla d'entrenament aeri de la Commonwealth britànica, utilitzant els cels més segurs del Canadà per preparar els pilots per al combat.",Els cels del Canadà eren més perillosos.,"contradiction
+"
+"I encara són tolerants i servicials, tot i que saben que la seva preciosa costa ja no és només seva.",Estan amargs i ressentits amb tothom ara que han de compartir la costa.,"neutral
+"
+"I encara són tolerants i servicials, tot i que saben que la seva preciosa costa ja no és només seva.",Ara han de compartir la costa amb altres persones.,"entailment 
+
+**explanation:**
+
+the premise states that despite knowing their ""precious coast is no longer solely theirs,"" they are still tolerant and helpful. this directly implies that they *must* now share the coast with others. the knowledge that it's no longer solely theirs *necessitates* sharing. therefore, the hypothesis is a logical consequence of the premise.
+"
+"I encara són tolerants i servicials, tot i que saben que la seva preciosa costa ja no és només seva.",Abans eren propietaris de cinc-centes milles de façana costanera.,"neutral
+
+**explanation:**
+
+the premise states that someone is still tolerant and helpful, acknowledging their valuable coastline is no longer solely theirs. this doesn't definitively confirm or deny whether they *were* previously owners of 500 miles of coastline. it's possible they were, it's possible they weren't, or the exact amount is irrelevant to their current attitude. therefore, the premise is neutral towards the hypothesis.
+"
+"Kublai Khan va erigir la seva pròpia capital l'any 1279 a la vora del llac Beihai de Pequín, on alguns dels seus tresors imperials romanen exposats avui.",Kublai Khan va erigir una capital a Taiwan.,"contradiction
+"
+"Kublai Khan va erigir la seva pròpia capital l'any 1279 a la vora del llac Beihai de Pequín, on alguns dels seus tresors imperials romanen exposats avui.",Kublai Khan té tresors a Pequín.,"entailment
+"
+"Kublai Khan va erigir la seva pròpia capital l'any 1279 a la vora del llac Beihai de Pequín, on alguns dels seus tresors imperials romanen exposats avui.",Kublai Khan era un home molt respectat.,"neutral
+"
+"Integrant-se més fàcilment a la comunitat anglosaxona, només les escoles protestants van acceptar els seus fills. Els jueus de l'Europa de l'Est s'han graduat a l'opulenta Westmount o han emigrat, de nou, a Toronto.",Els jueus d'Europa de l'Est s'assimilen bé amb tothom.,"contradiction 
+
+**explanation:**
+
+the premise states that only protestant schools accepted jewish children, and that jewish people either graduated from affluent schools or emigrated. this suggests difficulty in assimilation. the hypothesis, on the other hand, claims they assimilate *well with everyone*. these two statements are directly contradictory.
+"
+"Assimilant-se més fàcilment a la comunitat anglosaxona, només les escoles protestants van acceptar els seus fills. Els jueus de l'Europa de l'Est s'han graduat a Westmount o han emigrat, de nou, a Toronto.",Els jueus no són desitjats per la resta de la comunitat.,"entailment 
+
+**explanation:**
+
+the premise states that only protestant schools accepted jewish children due to assimilation into the anglo-saxon community.  it also says jewish people either graduated from westmount or emigrated to toronto. this strongly suggests that jewish people were *not* generally accepted by the broader community (those *not* protestant) and faced barriers to integration. therefore, the hypothesis ""els jueus no són desitjats per la resta de la comunitat"" (jews are not desired by the rest of the community) is entailed by the premise.  the premise provides evidence supporting the lack of desired acceptance.
+"
+"Assimilant-se més fàcilment a la comunitat anglosaxona, només les escoles protestants van acceptar els seus fills. Els jueus de l'Europa de l'Est s'han graduat a Westmount o han emigrat, de nou, a Toronto.",Els jueus es van assimilar més fàcilment amb la comunitat anglosaxona.,"neutral
+"
+"Si és possible, familiaritzeu-vos amb la trama prèviament.",No entris a la trama amb antelació; esguerrarà la diversió posterior.,"contradiction
+"
+"Si és possible, familiaritzeu-vos amb la trama prèviament.","Intenta entendre la trama per endavant, si pots.","entailment
+"
+"Si és possible, familiaritzeu-vos amb la trama prèviament.",La classe serà més fàcil si enteneu l'argument del llibre.,"entailment
+"
+"Les seves cambres funeràries, a 27 m (88 peus) sota terra, estan fetes de marbre i fan 1.200 metres quadrats (13.000 peus quadrats).",Està enterrat a més de 20 metres sota terra.,"entailment
+"
+"Les seves cambres funeràries, a 27 m (88 peus) sota terra, estan fetes de marbre i fan 1.200 metres quadrats (13.000 peus quadrats).",Va ser una figura pública important.,"neutral
+"
+"Les seves cambres funeràries, a 27 m (88 peus) sota terra, estan fetes de marbre i fan 1.200 metres quadrats (13.000 peus quadrats).",Les seves voltes funeràries són de fusta.,"contradiction
+"
+Recordeu amagar totes les possessions portàtils dels micos.,Amaga les teves possessions dels micos.,"entailment
+"
+Recordeu amagar totes les possessions portàtils dels micos.,"Els micos estan molt interessats en moltes coses, incloses les vostres possessions.","neutral
+"
+Recordeu amagar totes les possessions portàtils dels micos.,No cal que amagueu les vostres possessions dels micos.,"contradiction 
+
+**explanation:**
+
+the premise states ""remember to hide all the portable possessions of the monkeys."" this implies a requirement to hide possessions *from* the monkeys.
+
+the hypothesis states ""you don't need to hide your possessions from the monkeys."" this directly contradicts the instruction in the premise. therefore, the premise and hypothesis are contradictory.
+"
+"Uns 1.400 anys abans que s'erigís el palau d'Estei, Milreu era també la gran masia d'una persona eminent.",Milreu estava a 10 milles de qualsevol cosa.,"neutral
+"
+"Uns 1.400 anys abans que s'erigís el palau d'Estei, Milreu era també la gran masia d'una persona eminent.","Milreu estava lluny, al camp.","neutral
+"
+"Uns 1.400 anys abans que s'erigís el palau d'Estei, Milreu era també la gran masia d'una persona eminent.",Milreu estava just al cor de la ciutat.,"neutral
+"
+Les temperatures del mar oscil·len entre 18e i 24e C (64-75e F).,"La temperatura del mar sempre canvia, però no baixa per sota de la temperatura de congelació.","neutral
+"
+Les temperatures del mar oscil·len entre 18e i 24e C (64-75e F).,Les temperatures del mar estan sempre en un punt fix durant tot l'any.,"contradiction
+"
+Les temperatures del mar oscil·len entre 18e i 24e C (64-75e F).,"Les temperatures són més altes durant el dia, quan fa més calor.","neutral
+"
+El parc nacional de Kinabalu és només una de les sis regions protegides de l'estat.,El parc nacional de Kinabalu té deu elefants i sis rinoceronts.,"neutral
+"
+El parc nacional de Kinabalu és només una de les sis regions protegides de l'estat.,"L'estat té regions protegides, que inclouen el parc nacional de Kinabalu.","entailment
+"
+El parc nacional de Kinabalu és només una de les sis regions protegides de l'estat.,Hi ha un total de tres regions protegides a l'estat.,"contradiction
+"
+"Veureu vídeos de la història d'Anne i de l'Amsterdam ocupada, així com fotografies i objectes de l'època.",No veuràs fotografies.,"contradiction
+"
+"Veureu vídeos de la història d'Anne i de l'Amsterdam ocupada, així com fotografies i objectes de l'època.",Veuràs fotografies.,"entailment
+"
+"Veureu vídeos de la història d'Anne i de l'Amsterdam ocupada, així com fotografies i objectes de l'època.",Veuràs algunes de les primeres fotografies.,"entailment
+"
+"Treasure Beach és l'única zona turística digna de menció, amb només un grapat d'hotels repartits per tres badies de sorra.",No hi ha tantes opcions d'allotjament per a les persones que visiten Treasure Beach.,"entailment
+"
+"Treasure Beach és l'única zona turística de la qual es parla, amb només un grapat d'hotels repartits per tres badies de sorra.",Hi ha un hotel de quatre estrelles disponible per als turistes que visiten Treasure Beach.,"neutral
+"
+"Treasure Beach és l'única zona turística de la qual es parla, amb només un grapat d'hotels repartits per tres badies de sorra.",Treasure Beach és un dels molts complexos turístics de la zona.,"contradiction
+"
+"L'estiu és d'un clima càlid (però no calorós), amb temperatures càlides de l'aigua, cosa que el fa ideal per al submarinisme, la immersió lleugera i altres esports aquàtics.",A l'estiu sempre fa 100 graus o més.,"contradiction
+"
+"L'estiu és d'un clima càlid (però no calorós), amb temperatures càlides de l'aigua, cosa que el fa ideal per al submarinisme, la immersió lleugera i altres esports aquàtics.",Normalment en fa 75 a l'estiu.,"neutral
+
+**explanation:**
+
+the premise states that summer has warm water temperatures suitable for water sports. the hypothesis states that the temperature is normally 75 degrees. while 75 degrees *could* be considered a warm temperature, the premise doesn't explicitly state what the air temperature is, nor does it mention any specific temperature. 
+
+therefore, we cannot definitively say the premise entails or contradicts the hypothesis. it's possible the air temperature is 75, but it's also possible it's different.  thus, the relationship is neutral.
+"
+"L'estiu és d'un clima càlid (però no calorós), amb temperatures càlides de l'aigua, cosa que el fa ideal per al submarinisme, la immersió lleugera i altres esports aquàtics.",Hi ha temperatures càlides durant l'estiu.,"entailment
+"
+"Entre els estanys n'hi ha un d'habitat per Els visitants hi llancen monedes amb l'esperança de fer-ne rebotar una al cap d'una tortuga, com una manera segura de tenir bona sort.",La gent mai hi tira diners perquè és mala sort.,"contradiction
+"
+"Entre els estanys n'hi ha un d'habitat per Els visitants hi llencen monedes amb l'esperança de fer-ne rebotar una al cap d'una tortuga, com una manera segura de tenir bona sort.",La gent hi llença monedes encara que el cartell digui que no.,"neutral
+"
+"Entre els estanys n'hi ha un d'habitat per Els visitants hi llencen monedes amb l'esperança de fer-ne rebotar una al cap d'una tortuga, com una manera segura de tenir bona sort.",La gent llença monedes a l'aigua.,"entailment
+"
+"La ciutat portuària de Nafplio és la base perfecta per recórrer la zona, o potser un lloc per dinar durant el viatge.",Nafplio té unes bones vistes.,"neutral
+
+**explanation:**
+
+the premise states that nafplio is a good base for exploring the area or a good place to have lunch. it doesn't explicitly mention anything about the *views* of nafplio. while a good base or lunch spot *could* have nice views, the premise doesn't guarantee it. therefore, it's neutral towards the hypothesis.
+"
+"La ciutat portuària de Nafplio és la base perfecta per recórrer la zona, o potser un lloc per dinar durant el viatge.",Nafplio és una mala base.,"contradiction
+"
+"La ciutat portuària de Nafplio és la base perfecta per recórrer la zona, o potser un lloc per dinar durant el viatge.",Nafplio és una base perfecta.,"entailment
+"
+"A Prinsengracht, Otto Frank i la seva família es van amagar a l'àtic del seu local comercial durant més de dos anys abans de ser descoberts.",Otto Frank va ser capturat el segon dia.,"contradiction
+
+**explanation:**
+
+the premise states that the frank family hid for *more than two years* before being discovered. the hypothesis states that otto frank was captured on the *second day*. these two statements are directly contradictory. if they hid for over two years, he wasn't captured on the second day. therefore, the premise contradicts the hypothesis.
+"
+"A Prinsengracht, Otto Frank i la seva família es van amagar a l'àtic del seu local comercial durant més de dos anys abans de ser descoberts.",Otto Frank es va amagar durant més de 25 mesos.,"entailment
+"
+"A Prinsengracht, Otto Frank i la seva família es van amagar a l'àtic del seu local comercial durant més de dos anys abans de ser descoberts.",Otto Frank es va amagar fins que els nazis el van trobar.,"entailment
+"
+Molts governs estatals i locals tenen requisits d'auditoria addicionals.,Els governs locals poden crear les seves pròpies normes.,"neutral
+"
+Molts governs estatals i locals tenen requisits d'auditoria addicionals.,Els governs locals tenen zero requisits.,"contradiction
+"
+Molts governs estatals i locals tenen requisits d'auditoria addicionals.,Hi ha problemes addicionals de requisits d'auditoria per part dels governs locals.,"neutral
+
+**explanation:**
+
+the premise states that many state and local governments have additional audit requirements. the hypothesis claims there are *additional* audit requirement problems specifically for local governments. 
+
+while the premise doesn't *disprove* the hypothesis, it doesn't directly *entail* it either. it's possible that the additional requirements mentioned in the premise are not necessarily *problems*. the hypothesis introduces the element of ""problems,"" which isn't explicitly stated in the premise. 
+
+therefore, the relationship between the premise and the hypothesis is neutral.
+"
+El grup de seguretat de la informació duu a terme entre 8 i 12 sessions al mes.,El grup de seguretat fa una mitjana de 9 sessions al mes.,"entailment
+"
+El grup de seguretat de la informació duu a terme entre 8 i 12 sessions al mes.,El grup de seguretat realitza una sessió cadascun dels dies del mes.,"neutral
+"
+El grup de seguretat de la informació duu a terme entre 8 i 12 sessions al mes.,El grup de seguretat realitza diverses sessions a l'any.,"entailment
+"
+"Tanmateix, l'enginyeria preliminar es va fer abans.",L'enginyeria va tenir un període preliminar.,"entailment
+"
+"Tanmateix, l'enginyeria preliminar es va fer abans.",L'enginyeria es va produir només en una etapa final.,"contradiction
+
+**explanation:**
+
+the premise states that preliminary engineering *was* done before something else. the hypothesis claims engineering *only* occurred in a final stage. these two statements are directly contradictory. if preliminary engineering happened, it *cannot* be the case that engineering only happened in a final stage. therefore, the premise contradicts the hypothesis.
+"
+"Tanmateix, l'enginyeria preliminar es va fer abans.","Sense un període preliminar, l'enginyeria probablement fallarà en les etapes posteriors.","neutral
+
+**explanation:**
+
+the premise states that preliminary engineering *was* done. the hypothesis states that a lack of preliminary engineering *likely* leads to failure in later stages.
+
+the premise doesn't say whether the preliminary engineering was successful or not. therefore, we can't definitively conclude that the premise entails or contradicts the hypothesis. the premise simply states a fact about the timing of the engineering work. the hypothesis makes a prediction about the consequences of *not* having preliminary engineering. since the premise doesn't address this consequence, the relationship is neutral.
+"
+"En conseqüència, els responsables de les decisions i els gestors del govern estan adoptant noves maneres de pensar, considerant diferents maneres d'assolir els objectius i utilitzant nova informació com a guia en la presa de decisions.",Els representants del govern estan canviant el seu enfocament.,"entailment
+"
+"En conseqüència, els responsables de les decisions i els gestors del govern estan adoptant noves maneres de pensar, considerant diferents maneres d'assolir els objectius i utilitzant nova informació com a guia en la presa de decisions.",Els representants del govern intenten augmentar el seu poder pensant de manera diferent.,"neutral
+"
+"En conseqüència, els responsables de les decisions i els gestors del govern estan adoptant noves maneres de pensar, considerant diferents maneres d'assolir els objectius i utilitzant nova informació com a guia en la presa de decisions.",Els representants del govern es neguen a canviar els seus estils de vida.,"neutral
+"
+És possible que s'hagin de traduir els fitxers de casos per als clients que són parlants d'un idioma diferent de l'anglès.,Els fitxers de casos només poden estar en anglès.,"contradiction
+"
+És possible que s'hagin de traduir els fitxers de casos per als clients que són parlants d'un idioma diferent de l'anglès.,Els fitxers de casos es poden posar en xinès o rus.,"neutral
+"
+És possible que s'hagin de traduir els fitxers de casos per als clients que són parlants d'un idioma diferent de l'anglès.,Els fitxers de casos es poden posar en altres idiomes.,"entailment
+"
+Altres esforços en curs o previstos inclouen,La majoria dels nostres esforços ja estan en marxa.,"neutral
+"
+Altres esforços en curs o previstos inclouen,No tenim res més previst per al futur.,"contradiction
+
+**explanation:**
+
+the premise states that there are *other* ongoing or planned efforts. this directly contradicts the hypothesis, which claims there are *no* further plans for the future. therefore, the premise contradicts the hypothesis.
+"
+Altres esforços en curs o previstos inclouen,Tenim alguna cosa planificada.,"entailment
+"
+"Inclouen factors com ara períodes de temps curts, l'eliminació dels fitxers d'ordinador originals i la manca d'accés als documents necessaris.",Van esborrar els fitxers informàtics de l'IBM.,"neutral
+
+**explanation:**
+
+the premise describes factors that *could* be involved in a data destruction event. however, it doesn't explicitly state that ibm's files were deleted. the premise is general and could apply to many different situations. therefore, it doesn't entail or contradict the hypothesis. it's neutral.
+"
+"Inclouen factors com ara períodes de temps curts, l'eliminació dels fitxers d'ordinador originals i la manca d'accés als documents necessaris.",Van esborrar els fitxers de l'ordinador originals.,"entailment
+"
+"Inclouen factors com ara períodes de temps curts, l'eliminació dels fitxers d'ordinador originals i la manca d'accés als documents necessaris.",Van guardar tots els fitxers originals.,"contradiction
+"
+"Aleshores, el mateix representant que va fer la visita inicial torna a visitar el nou proveïdor per respondre preguntes i discutir els problemes que s'observen a la mostra de reclamacions.",El representant va visitar-lo durant una hora.,"neutral
+"
+"Aleshores, el mateix representant que va fer la visita inicial torna a visitar el nou proveïdor per respondre preguntes i discutir els problemes que s'observen a la mostra de reclamacions.",Hi va haver la visita d'un representant.,"entailment
+"
+"Aleshores, el mateix representant que va fer la visita inicial torna a visitar el nou proveïdor per respondre preguntes i discutir els problemes que s'observen a la mostra de reclamacions.",No hem rebut mai cap visita.,"contradiction
+"
+"L'estalvi no només afecta la quantitat de riquesa, sinó que la riquesa al seu torn influeix en l'elecció d'estalviar.",L'elecció de si una persona estalviarà o no es veu afectada per la seva riquesa.,"entailment
+"
+"L'estalvi no només afecta la quantitat de riquesa, sinó que la riquesa al seu torn influeix en l'elecció d'estalviar.",La riquesa i l'estalvi normalment no estan relacionats de cap manera.,"contradiction
+"
+"L'estalvi no només afecta la quantitat de riquesa, sinó que la riquesa al seu torn influeix en l'elecció d'estalviar.",Les persones riques tenen més probabilitats d'estalviar una part més gran dels seus ingressos.,"entailment
+"
+"Per exemple, una organització que vam estudiar havia experimentat dues fusions que van requerir que l'empresa integrés ràpidament els nous negocis i es reestructurés per satisfer les necessitats empresarials creixents.","Tot i que hi va haver dues fusions, no va ser necessari que l'empresa se sotmetés a una reestructuració de la seva jerarquia empresarial.","contradiction
+"
+"Per exemple, una organització que vam estudiar havia experimentat dues fusions que van requerir que l'empresa integrés ràpidament els nous negocis i es reestructurés per satisfer les necessitats empresarials creixents.",La fusió de dues empreses en una organització i la reestructuració van donar lloc a un entorn de treball caòtic.,"neutral
+"
+"Per exemple, una organització que vam estudiar havia experimentat dues fusions que van requerir que l'empresa integrés ràpidament els nous negocis i es reestructurés per satisfer les necessitats empresarials creixents.",Vam examinar una empresa que va experimentar dues fusions i que va haver de reestructurar-se ràpidament per satisfer les seves demandes comercials.,"entailment
+"
+"el disseny, ens preocupava que el pagament s'autoritzés abans de comprovar que el viatge realment s'havia dut a terme.",Sabíem que el pagament trigaria una eternitat.,"neutral
+"
+"el disseny, ens preocupava que el pagament s'autoritzés abans de comprovar que el viatge realment s'havia dut a terme.",Vam pensar que el pagament podria tramitar-se abans de la verificació.,"contradiction
+
+**explanation:**
+
+* **premise:** the design team was worried about authorizing payment *before* verifying the trip. this implies they *didn't* want the payment to go through prematurely.
+* **hypothesis:** they thought payment *could* be processed *before* verification. this suggests they were considering or expecting the payment to happen before the trip was confirmed.
+
+since the premise expresses concern about the opposite of what the hypothesis suggests, they are contradictory.
+"
+"el disseny, ens preocupava que el pagament s'autoritzés abans de comprovar que el viatge realment s'havia dut a terme.",Vam pensar que el pagament podria arribar massa aviat i ens estafarien.,"neutral
+"
+"La tecnologia està molt integrada amb els processos empresarials d'aquestes organitzacions perquè la tecnologia es considera un catalitzador per al negoci, no només una eina.",El programari de programació avançat és una de les tecnologies clau en les quals se centren les empreses.,"neutral
+"
+"La tecnologia està molt integrada amb els processos empresarials d'aquestes organitzacions perquè la tecnologia es considera un catalitzador per al negoci, no només una eina.",La tecnologia és només una eina i no un facilitador empresarial.,"contradiction
+"
+"La tecnologia està molt integrada amb els processos empresarials d'aquestes organitzacions perquè la tecnologia es considera un catalitzador per al negoci, no només una eina.",Aquestes empreses donen un gran èmfasi a la tecnologia.,"entailment
+"
+Dos conceptes que apareixen sovint a la literatura poden ser útils per orientar futures investigacions.,Les publicacions poden canviar la manera com provem les mostres.,"neutral
+"
+Dos conceptes que apareixen sovint a la literatura poden ser útils per orientar futures investigacions.,Les publicacions poden canviar la investigació en el futur.,"neutral
+"
+Dos conceptes que apareixen sovint a la literatura poden ser útils per orientar futures investigacions.,No hi ha res més a fer en termes de canvi de recerca.,"contradiction 
+
+**explanation:**
+
+the premise states that two concepts are *useful* for guiding future research. this implies that *something* can be done to change the direction of research. the hypothesis, however, claims that *nothing more* can be done to change the direction of research. these two statements are directly contradictory. therefore, the premise contradicts the hypothesis.
+"
+Les línies formades per caixes mostren el nivell de protecció de tots els correus combinats i les línies compostes per diamants mostren les pèrdues tècniques (si són negatives) de traslladar la feina a una altra part.,Les línies calculen que el nivell de benestar dels encarregats d’enviar el correu és del 10 %.,"neutral
+"
+Les línies formades per caixes mostren el nivell de protecció de tots els correus combinats i les línies compostes per diamants mostren les pèrdues tècniques (si són negatives) de traslladar la feina a una altra part.,Les línies no mostren res més que la ruta.,"contradiction
+"
+Les línies formades per caixes mostren el nivell de protecció de tots els correus combinats i les línies compostes per diamants mostren les pèrdues tècniques (si són negatives) de traslladar la feina a una altra part.,Les línies mostren quin nivell de benestar hi ha a tots els encarregats d’enviar el correu.,"neutral
+"
+"A partir d'aquesta avaluació de riscos, Centrelink va desenvolupar una sèrie d'estratègies de prevenció específiques destinades a informar els beneficiaris i els empresaris sobre els requisits de declaració dels ingressos.",Centrelink no va saber com solucionar el problema.,"contradiction
+"
+"A partir d'aquesta avaluació de riscos, Centrelink va desenvolupar una sèrie d'estratègies de prevenció específiques destinades a informar els beneficiaris i els empresaris sobre els requisits de declaració dels ingressos.",Centrelink tenia moltes estratègies per ensenyar a la gent a declarar els ingressos perquè el govern estava perdent molts diners en errors.,"neutral
+"
+"A partir d'aquesta avaluació de riscos, Centrelink va desenvolupar una sèrie d'estratègies de prevenció específiques destinades a informar els beneficiaris i els empresaris sobre els requisits de declaració dels ingressos.",Centrelink tenia moltes estratègies per ensenyar a la gent a declarar els ingressos.,"entailment
+"
+Això va permetre fer demostracions del disseny abans que les empreses fessin inversions més importants en equips i eines de fabricació per construir prototips representatius de producció per a la fase de demostració.,Després van poder mostrar com funcionava el disseny.,"entailment
+
+**explanation:**
+
+the premise states that the ability to demonstrate the design *before* significant investments allowed for prototyping. this directly implies that *after* the prototyping phase (enabled by the earlier demonstrations), the design could be shown to work.  the ability to demonstrate is a necessary step towards showing how it functions. therefore, the premise entails the hypothesis.
+"
+Això va permetre fer demostracions del disseny abans que les empreses fessin inversions més importants en equips i eines de fabricació per construir prototips representatius de producció per a la fase de demostració.,Van poder demostrar a l'empresa que no era intel·ligent construir noves fàbriques.,"neutral
+
+**explanation:**
+
+the premise describes a process that allowed for design demonstrations *before* significant investments in manufacturing equipment. this suggests a way to mitigate risk and avoid building factories prematurely. however, it *doesn't* directly state or imply that companies were *able* to demonstrate that building *new* factories was unwise. 
+
+while the premise provides a method that *could* lead to the conclusion that building new factories wasn't smart, it doesn't guarantee it. other factors could influence a company's decision. therefore, the premise is neutral towards the hypothesis.
+"
+Això va permetre fer demostracions del disseny abans que les empreses fessin inversions més importants en equips i eines de fabricació per construir prototips representatius de producció per a la fase de demostració.,No tenien ni idea de com demostrar l'impacte de les inversions.,"neutral
+
+**explanation:**
+
+the premise states that the ability to demonstrate the design *before* major investments allowed companies to build representative production prototypes for demonstration. this implies a way to assess the value of investments *before* committing heavily.
+
+the hypothesis states that companies had ""no idea"" how to demonstrate the impact of their investments.
+
+the premise doesn't directly support or refute the hypothesis. it describes *how* demonstrations were *enabled*, not *whether* companies *could* demonstrate impact. they might have been able to demonstrate impact using the new method, or they might still have struggled to understand the impact despite the new method. therefore, the premise is neutral towards the hypothesis.
+"
+Els esforços col·laboratius de Carolina del Sud van donar lloc a un altre èxit l'any següent.,Ningú a Carolina del Sud treballava conjuntament.,"contradiction
+"
+Els esforços col·laboratius de Carolina del Sud van donar lloc a un altre èxit l'any següent.,SC va treballar conjuntament.,"entailment 
+
+**explanation:**
+
+the premise states that collaborative efforts by south carolina (carolina del sud, abbreviated as sc) led to a success.  the hypothesis states that sc worked together (treballar conjuntament).  collaboration implies working together. therefore, if sc's efforts were collaborative and led to success, it necessarily means sc worked together.
+"
+Els esforços col·laboratius de Carolina del Sud van donar lloc a un altre èxit l'any següent.,Els demòcrates i republicans de Carolina del Sud estan treballant junts.,"neutral
+"
+"Segons un funcionari de la Junta, les certificacions de la secció 605 (b) de la Junta no es van proporcionar per separat al conseller en cap de l'Administració de petites empreses (SBA) per a la defensa.",La Junta no va donar les certificacions de l'SBA i ho van deixar a l'oficina de l'avaluador.,"neutral
+"
+"Segons un funcionari de la Junta, les certificacions de la secció 605 (b) de la Junta no es van proporcionar per separat al conseller en cap de l'Administració de petites empreses (SBA) per a la defensa.",La Junta no va donar les certificacions de l'SBA.,"neutral
+"
+"Segons un funcionari de la Junta, les certificacions de la secció 605 (b) de la Junta no es van proporcionar per separat al conseller en cap de l'Administració de petites empreses (SBA) per a la defensa.",La Junta va lliurar cada dia les certificacions de l'SBA a qui en demana.,"neutral
+"
+"Quan es produeix una coincidència per a l'hotel i altres càrrecs, es duu a terme una verificació del viatge real.",La majoria de cadenes hoteleres nacionals accepten pagaments amb targeta de crèdit.,"neutral
+"
+"Quan es produeix una coincidència per a l'hotel i altres càrrecs, es duu a terme una verificació del viatge real.",El viatge en si es verificaria mitjançant els càrrecs de l'hotel.,"entailment 
+
+**explanation:**
+
+the premise states that *if* a hotel booking and other charges coincide, then a real trip verification happens. the hypothesis states that the trip *would* be verified through hotel charges.  the premise implies that hotel charges are *part of the process* that triggers verification. therefore, if the premise is true, the hypothesis *must* also be true.
+"
+"Quan es produeix una coincidència per a l'hotel i altres càrrecs, es duu a terme una verificació del viatge real.",No hi ha manera de verificar si realment s'ha produït un viatge o no.,"contradiction
+
+**explanation:**
+
+the premise states that a verification *does* take place when a booking and other charges occur. this implies that it *is* possible to verify a trip. the hypothesis directly contradicts this by stating that verification is impossible. therefore, the premise and hypothesis are contradictory.
+"
+"Per exemple, en una de les capitals d'estat que vam visitar hi ha més de 600 empreses de programari.",Les capitals són els millors llocs per a les empreses de programari.,"neutral
+"
+"Per exemple, en una de les capitals d'estat que vam visitar hi ha més de 600 empreses de programari.",Una capital té un munt d'empreses de programari.,"entailment 
+
+**explanation:**
+
+the premise states that *one* capital city visited has more than 600 software companies. the hypothesis states that *a* capital city has a lot of software companies. since having over 600 companies is a significant number and implies having ""a lot"" of companies, the premise directly supports and therefore entails the hypothesis.
+"
+"Per exemple, en una de les capitals d'estat que vam visitar hi ha més de 600 empreses de programari.",Les empreses de programari eviten les capitals per motius legals.,"neutral
+"
+"A l'hora de mesurar l'eficàcia, la perfecció és inassolible.",Pots ser perfecte si t'esforces prou.,"contradiction
+
+**explanation:**
+
+the premise states that perfection is unattainable. the hypothesis claims that perfection *is* attainable with enough effort. these two statements are directly opposing each other. therefore, the premise contradicts the hypothesis.
+"
+"A l'hora de mesurar l'eficàcia, la perfecció és inassolible.",Mai no pots ser perfecte.,"entailment
+"
+"A l'hora de mesurar l'eficàcia, la perfecció és inassolible.",No pots ser perfecte perquè tots som persones profundament defectuoses.,"entailment 
+
+**explanation:**
+
+the premise states that perfection is unattainable when measuring effectiveness. the hypothesis argues that perfection is impossible because humans are fundamentally flawed. the hypothesis provides a *reason* why perfection is unattainable, which aligns perfectly with the premise's assertion. therefore, the premise entails the hypothesis.
+"
+El company de pis que va llogar l'habitació a Hazmi i Mihdhar durant l'any 2000 és un ciutadà aparentment complidor de la llei amb contactes socials de llarga durada entre la policia local i el personal de l'FBI.,Hazmi i Mihdhar van comprar una casa i no van tenir contacte amb ningú.,"contradiction
+
+**explanation:**
+
+the premise states that hazmi and mihdhar's landlord has connections to the fbi and local police. this implies a certain level of visibility and potential involvement in activities that are not necessarily related to isolation or a desire to avoid contact. the hypothesis, however, claims they bought a house and had *no* contact with anyone. this is a direct contradiction, as the premise suggests the opposite – that their landlord has connections to law enforcement, which could potentially have implications for hazmi and mihdhar's interactions with the world.
+"
+El company de pis que va llogar l'habitació a Hazmi i Mihdhar durant l'any 2000 és un ciutadà aparentment complidor de la llei amb contactes socials de llarga durada entre la policia local i el personal de l'FBI.,"Hazmi i Mihdhar van llogar una habitació per a tot l'any, per 500 dòlars al dia.","neutral
+
+**explanation:**
+
+the premise describes the roommate's characteristics and connections. it *doesn't* state how long hazmi and mihdhar rented the room, the price, or any details about their agreement.  therefore, we cannot conclude whether the hypothesis is true or false based solely on the premise. it's possible they rented for a year at that price, but the premise provides no information to confirm or deny it.
+"
+El company de pis que va llogar l'habitació a Hazmi i Mihdhar durant l'any 2000 és un ciutadà aparentment complidor de la llei amb contactes socials de llarga durada entre la policia local i el personal de l'FBI.,Hazmi i Mihdhar van llogar una habitació.,"entailment
+"
+"Pel que fa al seu viatge a Bòsnia, vegeu l'Informe d'intel·ligència, interrogatori a un membre saudita d'Al-Qaeda, 3 oct. 2001.",Un membre d'al-Qaida va anar a Bòsnia 18 vegades el 2001.,"neutral
+"
+"Pel que fa al seu viatge a Bòsnia, vegeu l'Informe d'intel·ligència, interrogatori a un membre saudita d'Al-Qaeda, 3 oct. 2001.",Un membre d'al-Qaida va anar a Bòsnia.,"entailment
+"
+"Pel que fa al seu viatge a Bòsnia, vegeu l'Informe d'intel·ligència, interrogatori a un membre saudita d'Al-Qaeda, 3 oct. 2001.",No hi havia proves que un membre d'al-Qaida anés a Bòsnia.,"contradiction
+
+**explanation:**
+
+the premise states that an intelligence report exists detailing an interrogation of a saudi al-qaeda member *regarding their trip to bosnia*. this directly implies that there *were* pieces of information, at least from one source, suggesting an al-qaeda member *did* go to bosnia. the hypothesis states the opposite: that there were no such proofs.  therefore, the premise and hypothesis contradict each other.
+"
+Jane va demanar a l'agent de Nova York assignat a la recerca de Mihdhar que signés un formulari de reconeixement de la FISA indicant que l'agent entenia com havia de tractar la informació de la FISA.,La Jane va demanar que un jutge federal signés un formulari de reconeixement del Tribunal FISA.,"neutral
+"
+Jane va demanar a l'agent de Nova York assignat a la recerca de Mihdhar que signés un formulari de reconeixement de la FISA indicant que l'agent entenia com havia de tractar la informació de la FISA.,La Jane va demanar que se signés un formulari de reconeixement del Tribunal FISA.,"neutral
+"
+Jane va demanar a l'agent de Nova York assignat a la recerca de Mihdhar que signés un formulari de reconeixement de la FISA indicant que l'agent entenia com havia de tractar la informació de la FISA.,La Jane va dir que no calia cap reconeixement del Tribunal FISA.,"neutral
+"
+No hi ha res a destacar sobre cap d'ells pel que fa a l'única capa de seguretat que era rellevant per al control real al punt de control.,Durant la inspecció del punt de control es van descobrir proves alarmants.,"contradiction
+
+**explanation:**
+
+the premise states there's nothing noteworthy about them regarding the relevant security layer. this implies a lack of significant findings. the hypothesis states ""alarming evidence"" was discovered.  these two statements directly contradict each other. if there were alarming evidence, there *would* be something noteworthy. therefore, the premise contradicts the hypothesis.
+"
+No hi ha res a destacar sobre cap d'ells pel que fa a l'única capa de seguretat que era rellevant per al control real al punt de control.,Les inspeccions del punt de control depenen completament de la intuïció de l'agent de duanes que realitza la inspecció.,"neutral
+
+**explanation:**
+
+the premise states that there's nothing noteworthy about the relevant security layer at the checkpoint. this implies the security layer is weak or ineffective. however, it doesn't *necessarily* mean the inspections *rely completely* on the agent's intuition. the inspections *could* still involve other factors even if the primary security layer is weak. the premise doesn't offer information to confirm or deny that reliance on intuition is the *only* method of inspection. therefore, the relationship is neutral.
+"
+No hi ha res a destacar sobre cap d'ells pel que fa a l'única capa de seguretat que era rellevant per al control real al punt de control.,La inspecció del punt de control no va poder descobrir cap prova contra ells.,"entailment
+
+**explanation:**
+
+the premise states that there's nothing notable about them regarding the relevant security layer at the checkpoint. this implies that the checkpoint inspection wouldn't have found anything significant *because* there was nothing to find. therefore, the hypothesis that the inspection couldn't find evidence against them directly follows from the premise.
+"
+"Khallad ha donat una segona versió, que és que tots tres van viatjar junts a Karachi.",Khallad va dir que no sabia res d'ells tres.,"contradiction
+"
+"Khallad ha donat una segona versió, que és que tots tres van viatjar junts a Karachi.",Khallad va dir que els tres podrien haver viatjat junts.,"neutral
+"
+"Khallad ha donat una segona versió, que és que tots tres van viatjar junts a Karachi.",Khallad va dir que hi havia un 50 % de possibilitats que els tres anessin junts a Karachi a l'octubre.,"neutral
+"
+"Informe d'intel·ligència, interrogatori a Binalshibh, 1 oct. 2002.",Binalshibh va ser interrogat per un grup de treball de l'FBI.,"neutral
+"
+"Informe d'intel·ligència, interrogatori a Binalshibh, 1 oct. 2002.",Binalshibh va ser interrogat el 2002.,"entailment
+"
+"Informe d'intel·ligència, interrogatori a Binalshibh, 1 oct. 2002.","Mai ningú no va parlar amb Binalshibh, i aquest va desaparèixer.","neutral 
+
+**explanation:**
+
+the premise simply states that an intelligence report exists regarding an interrogation of binalshibh on a specific date. it doesn't provide any information about whether anyone *did* or *didn't* speak with him, or whether he disappeared. 
+
+therefore, the premise neither confirms nor denies the hypothesis. it's neutral.
+"
+Mihdhar va obtenir un nou visat dels Estats Units dos dies després de la reunió CIA-FBI a Nova York.,Mihdhar tenia un visat dels Estats Units per entrar al país.,"entailment
+"
+Mihdhar va obtenir un nou visat dels Estats Units dos dies després de la reunió CIA-FBI a Nova York.,"Mihdhar mai no va obtenir un visat, així que mai va venir als Estats Units.","contradiction
+
+**explanation:**
+
+the premise states mihdhar *did* obtain a visa and traveled to the us. the hypothesis states he *never* obtained a visa and therefore never came to the us. these statements directly oppose each other. therefore, the premise contradicts the hypothesis.
+"
+Mihdhar va obtenir un nou visat dels Estats Units dos dies després de la reunió CIA-FBI a Nova York.,A Mihdhar se li va donar un visat perquè no era una amenaça.,"neutral
+
+**explanation:**
+
+the premise states mihdhar received a visa after a meeting. this implies a connection between the meeting and the visa, but doesn't explicitly state *why* the visa was granted.  it's possible the visa was granted for reasons other than not being a threat. the hypothesis makes a specific claim about the reason for the visa, which isn't supported or refuted by the premise. therefore, the premise is neutral towards the hypothesis.
+"
+"Malgrat els dos anys d'investigació, l'FBI no va poder trobar el company ni determinar la seva veritable identitat.",L'FBI mai no va poder trobar l'home després que va sortir de Florida el 2001.,"neutral
+"
+"Malgrat els dos anys d'investigació, l'FBI no va poder trobar el company ni determinar la seva veritable identitat.",L'FBI no va poder esbrinar qui era el tipus.,"entailment
+"
+"Malgrat els dos anys d'investigació, l'FBI no va poder trobar el company ni determinar la seva veritable identitat.",L'FBI va esbrinar qui era i el va tancar a la presó,"contradiction
+"
+"En el cas de l'American 11, l'última comunicació normal des de l'avió va ser a les 8:13 del matí.",Hi havia comunicació que venia de l'American 11.,"entailment
+"
+"En el cas de l'American 11, l'última comunicació normal des de l'avió va ser a les 8:13 del matí.",Hi havia comunicació de l'American 11 cada 5 minuts.,"neutral
+
+**explanation:**
+
+the premise states the last normal communication was at 8:13 am. the hypothesis states communication occurred every 5 minutes. the premise doesn't provide information about the frequency of communication *before* 8:13 am, nor does it confirm or deny communication *every* 5 minutes. it's possible there were communications every 5 minutes, it's possible they weren't, or it's possible they were more or less frequent. therefore, the premise is neutral towards the hypothesis.
+"
+"En el cas de l'American 11, l'última comunicació normal des de l'avió va ser a les 8:13 del matí.",Mai no hi va haver cap comunicació de l'American 11.,"contradiction
+"
+"Descobrir-ho hauria requerit una cooperació ràpida i molt substancial del govern alemany, que podria haver estat difícil d'aconseguir.","Si s'hagués acabat, la investigació podria haver revelat la ubicació de tres fugitius.","neutral
+
+**explanation:**
+
+the premise discusses the difficulty in obtaining german government cooperation, which *could* have hindered a discovery. the hypothesis states that the investigation *might* have revealed the location of fugitives if it had ended. 
+
+the premise doesn't directly connect to the hypothesis.  it's possible the lack of cooperation *prevented* the investigation from reaching a point where the fugitives' location could have been revealed. however, it's also possible that even with cooperation, the fugitives' location wouldn't have been found.  
+
+therefore, the premise provides no information that definitively supports or refutes the hypothesis. it's neutral.
+"
+"Descobrir-ho hauria requerit una cooperació ràpida i molt substancial del govern alemany, que podria haver estat difícil d'aconseguir.",El govern alemany podria haver tingut dificultats per dur a terme una investigació ràpida i exhaustiva.,"entailment
+"
+"Descobrir-ho hauria requerit una cooperació ràpida i molt substancial del govern alemany, que podria haver estat difícil d'aconseguir.",La investigació seria bastant senzilla i fàcil de dur a terme pel govern.,"contradiction
+"
+"Aquestes capacitats eren insuficients, però es va fer poc per ampliar-les o reformar-les.",No van canviar gaire el seu programa de vigilància.,"neutral
+"
+"Aquestes capacitats eren insuficients, però es va fer poc per ampliar-les o reformar-les.",No van fer gaire per canviar les coses.,"entailment
+"
+"Aquestes capacitats eren insuficients, però es va fer poc per ampliar-les o reformar-les.",Van fer tot el possible per revisar-ho tot.,"contradiction
+"
+"El correu electrònic de l'analista, però, reflecteix que estava confonent un gran nombre d'advertències i barreres legals sobre la compartició d'informació i les regles que regulen l'ús per part d'agents criminalistes de la informació recollida a través dels canals d'intel·ligència.",L'analista va presentar una anàlisi nítida.,"contradiction
+
+**explanation:**
+
+the premise states that the analyst was *confused* about legal warnings and regulations.  being confused inherently implies a lack of a clear, *nítida* (clear/sharp) analysis. therefore, the premise contradicts the hypothesis.
+"
+"El correu electrònic de l'analista, però, reflecteix que estava confonent un gran nombre d'advertències i barreres legals sobre la compartició d'informació i les regles que regulen l'ús per part d'agents criminalistes de la informació recollida a través dels canals d'intel·ligència.",L'analista no tenia clares moltes coses.,"entailment
+"
+"El correu electrònic de l'analista, però, reflecteix que estava confonent un gran nombre d'advertències i barreres legals sobre la compartició d'informació i les regles que regulen l'ús per part d'agents criminalistes de la informació recollida a través dels canals d'intel·ligència.",L'informe de l'analista estava tan desordenat que ningú no el podia llegir.,"neutral
+
+**explanation:**
+
+the premise states the analyst was confused about legal warnings and rules. this suggests the report *might* be disorganized. however, it doesn't explicitly state the report is *unreadable*. confusion doesn't automatically equal unreadability. it's possible the report is disorganized but still comprehensible to someone with knowledge of the subject matter. therefore, the premise doesn't definitively entail or contradict the hypothesis; it's neutral.
+"
+"Aleshores, es van assignar alguns agents per ajudar en les evacuacions per les escales i d'altres per accelerar l'evacuació a la plaça, el vestíbul i l'estació PATH.",Els oficials tenien les seves pròpies tasques.,"neutral
+"
+"Aleshores, es van assignar alguns agents per ajudar en les evacuacions per les escales i d'altres per accelerar l'evacuació a la plaça, el vestíbul i l'estació PATH.",Els agents simplement corrien aleatòriament on els necessitaven.,"neutral
+"
+"Aleshores, es van assignar alguns agents per ajudar en les evacuacions per les escales i d'altres per accelerar l'evacuació a la plaça, el vestíbul i l'estació PATH.",Els agents van ser assignats en funció de l'antiguitat.,"neutral
+"
+El 9 de setembre van arribar molt males notícies de l'Afganistan.,Tenim notícies de l'Afganistan.,"entailment
+"
+El 9 de setembre van arribar molt males notícies de l'Afganistan.,No vam saber res de l'Afganistan fins a l'octubre.,"neutral
+
+**explanation:**
+
+the premise states bad news arrived on september 9th. the hypothesis states a lack of information about afghanistan until october. the premise doesn't *necessarily* mean the bad news prevented information from reaching people, nor does it *necessarily* mean the bad news was the *only* event preventing information. it's possible information was blocked *because* of the bad news, or that other reasons prevented information flow. therefore, the premise doesn't guarantee or deny the hypothesis.
+"
+El 9 de setembre van arribar molt males notícies de l'Afganistan.,Ens van informar de l'atac imminent del 9 de setembre.,"neutral
+
+**reasoning:**
+
+the premise states that bad news arrived from afghanistan on september 9th. the hypothesis states that information about an imminent attack on september 9th was received.
+
+while bad news *could* be related to an attack, the premise doesn't *explicitly* state that the bad news was *about* an attack. it could be political, economic, humanitarian, etc. therefore, the premise doesn't necessarily entail or contradict the hypothesis. it's neutral.
+"
+"La incapacitat de comunicar-se va ser un element crític als llocs dels accidents del World Trade Center, del Pentàgon i del comtat de Somerset, Pennsilvània, on van actuar diverses agències i jurisdiccions.",La comunicació va funcionar molt bé l'11 de setembre.,"contradiction
+"
+"La incapacitat de comunicar-se va ser un element crític als llocs dels accidents del World Trade Center, del Pentàgon i del comtat de Somerset, Pennsilvània, on van actuar diverses agències i jurisdiccions.",La gent va tenir dificultats per comunicar-se al World Trade Center perquè s'havia tallat l'electricitat i les línies telefòniques no funcionaven.,"neutral
+
+**explanation:**
+
+the premise states that communication difficulties were a critical element in the mentioned locations. the hypothesis offers a *reason* for those communication difficulties (power outage and non-functional phone lines) specifically at the world trade center. 
+
+the premise doesn't explicitly confirm or deny that power outages and phone line failures *caused* the communication difficulties. it just states the difficulties existed. therefore, the premise doesn't *entail* the hypothesis, nor does it *contradict* it. it's simply neutral. the hypothesis could be *one* possible reason for the communication problems, but the premise doesn't provide enough information to conclude that it's the *only* or *determining* reason.
+"
+"La incapacitat de comunicar-se va ser un element crític als llocs dels accidents del World Trade Center, del Pentàgon i del comtat de Somerset, Pennsilvània, on van actuar diverses agències i jurisdiccions.",La gent va tenir dificultats per comunicar-se al World Trade Center.,"entailment
+"
+"Les cerques a les bases de dades disponibles podrien haver revelat els carnets de conduir, el registre del cotxe i la llista de telèfons.",Els investigadors també van demanar accés a bases de dades professionals.,"neutral
+"
+"Les cerques a les bases de dades disponibles podrien haver revelat els carnets de conduir, el registre del cotxe i la llista de telèfons.",Hi havia diversos tipus d'informació disponibles a partir de bases de dades existents.,"entailment
+"
+"Les cerques a les bases de dades disponibles podrien haver revelat els carnets de conduir, el registre del cotxe i la llista de telèfons.",No hi havia manera de trobar informació sobre els subjectes utilitzant les fonts existents.,"contradiction
+
+**explanation:**
+
+the premise states that searches in available databases *could have revealed* information (driver's licenses, car registration, phone lists). this implies that information *was* potentially accessible. the hypothesis claims that there was *no way* to find information. these two statements directly contradict each other. therefore, the premise contradicts the hypothesis.
+"
+"Afirmant que sospitava de tota la transacció, l'administrador es va distanciar d'Hazmi i Mihdhar, però no abans d'haver rebut l'assistència que necessitaven.",L'administrador es va posar en contacte immediatament amb les autoritats i es va negar a ajudar en aquest cas.,"neutral
+"
+"Afirmant que sospitava de tota la transacció, l'administrador es va distanciar d'Hazmi i Mihdhar, però no abans d'haver rebut l'assistència que necessitaven.",L'administrador va prestar assistència malgrat els seus recels.,"neutral
+"
+"Afirmant que sospitava de tota la transacció, l'administrador es va distanciar d'Hazmi i Mihdhar, però no abans d'haver rebut l'assistència que necessitaven.",L'assistència consistia en diners en efectiu i ajuda per obtenir documents de viatge.,"neutral
+"
+"L'any 2003, aquestes designacions van ser eliminades; tots els assumptes de terrorisme internacional reben ara la mateixa designació, 315.",Tots els assumptes de terrorisme reben la màxima etiqueta d'importància.,"neutral
+"
+"L'any 2003, aquestes designacions van ser eliminades; tots els assumptes de terrorisme internacional reben ara la mateixa designació, 315.",Tots els assumptes de terrorisme tenen la mateixa etiqueta.,"entailment
+"
+"L'any 2003, aquestes designacions van ser eliminades; tots els assumptes de terrorisme internacional reben ara la mateixa designació, 315.",Cada assumpte de terrorisme es jutja i es classifica de manera independent.,"contradiction
+"
+"Aquest oficial, que havia observat l'enfonsament de la Torre Sud, en va informar les unitats de l'ESU de la Torre Nord en la seva instrucció d'evacuació.",Ningú no va romandre a la Torre Nord després que la Torre Sud s'enfonsés.,"neutral
+
+**explanation:**
+
+the premise states the official informed esu units of the north tower *during* the evacuation instruction *after* observing the south tower collapse. this implies people were evacuating the north tower. it doesn't explicitly state whether *everyone* left, nor does it preclude the possibility that some people remained. therefore, the premise is neutral regarding the hypothesis. it doesn't confirm or deny the hypothesis.
+"
+"Aquest oficial, que havia observat l'enfonsament de la Torre Sud, en va informar les unitats de l'ESU de la Torre Nord en la seva instrucció d'evacuació.",La Torre Sud es va ensorrar 30 minuts abans que l'oficial parlés amb les unitats de l'ESU a la Torre Nord.,"neutral
+"
+"Aquest oficial, que havia observat l'enfonsament de la Torre Sud, en va informar les unitats de l'ESU de la Torre Nord en la seva instrucció d'evacuació.",L'oficial va presenciar l'enfonsament de la Torre Sud.,"entailment
+"
+Indianapolis és realment per a molts un dels millors llocs de treball per als actors,Als actors els encanta Indianàpolis per totes les agències de càsting que hi ha.,"neutral
+
+**explanation:**
+
+the premise states that indianapolis is considered a good place to work for actors. the hypothesis claims actors love indianapolis *because* of the casting agencies there. 
+
+while the premise *could* be *consistent* with the hypothesis, it doesn't *necessitate* it. actors might find indianapolis a good place for other reasons (cost of living, quality of life, etc.) that have nothing to do with the number of casting agencies. therefore, the premise is neutral towards the hypothesis. it doesn't prove or disprove it.
+"
+Indianapolis és realment per a molts un dels millors llocs de treball per als actors,"Si ets actor, hauries de plantejar-te traslladar-te a Indianàpolis.","neutral
+"
+Indianapolis és realment per a molts un dels millors llocs de treball per als actors,"És difícil trobar feina a Indianàpolis si ets al sector del cinema i el teatre, ja que és sobretot una ciutat tecnològica.","contradiction
+
+**reasoning:**
+
+the premise states that indianapolis is considered one of the *best* places to work for actors. the hypothesis states it's *difficult* to find work in the film and theatre sector in indianapolis because it's a tech city.  these two statements are directly opposing. if indianapolis is a great place for actors, it *doesn't* logically follow that finding work in theatre and film is difficult there. therefore, the hypothesis contradicts the premise.
+"
+"Oferim ajuda per telèfon les 24 hores del dia, els 7 dies de la setmana, a través del Centre de recursos d'informació sobre prevenció i el Telèfon d'ajuda per a pares.",Les persones només poden contactar amb nosaltres per correu postal o per correu electrònic.,"contradiction
+"
+"Oferim ajuda per telèfon les 24 hores del dia, els 7 dies de la setmana, a través del Centre de recursos d'informació sobre prevenció i el Telèfon d'ajuda per a pares.",Se’ns pot contactar per telèfon a qualsevol hora del dia.,"entailment
+"
+"Oferim ajuda per telèfon les 24 hores del dia, els 7 dies de la setmana, a través del Centre de recursos d'informació sobre prevenció i el Telèfon d'ajuda per a pares.",Rebem més d'un centenar de trucades cada dilluns i divendres.,"neutral
+
+**explanation:**
+
+the premise states that help is offered via phone 24/7 through specific resources. the hypothesis states that a certain number of calls are received on specific days.  the premise doesn't *guarantee* the hypothesis is true, nor does it *prevent* it. it's entirely possible that the resources handle many calls, but the premise doesn't give us any information about call volume. therefore, the premise is neutral towards the hypothesis.
+"
+Perquè aquestes caixes romandran en els seus embolcalls fins molt temps després que s'obrin tots els altres regals.,Aquestes caixes contenen bombes perilloses.,"neutral
+"
+Perquè aquestes caixes romandran en els seus embolcalls fins molt temps després que s'obrin tots els altres regals.,Aquestes caixes s'obriran abans dels altres regals.,"contradiction
+"
+Perquè aquestes caixes romandran en els seus embolcalls fins molt temps després que s'obrin tots els altres regals.,Aquestes caixes romandran sense obrir durant un temps.,"entailment 
+
+**explanation:**
+
+the premise states that the boxes will remain in their packaging for a long time *after* all other gifts are opened. this directly implies that the boxes will remain unopened for a period of time. therefore, the hypothesis ""aquestes caixes romandran sense obrir durant un temps"" (these boxes will remain unopened for a time) is entailed by the premise.
+"
+"Si mantenim els preus baixos, ens hem d'adreçar a vosaltres, el nostre públic, per demanar-vos una petita contribució per ajudar-nos a complir aquesta missió.","Per mantenir els preus de les entrades per sota dels 10 dòlars, necessitaríem una donació de 25 dòlars de tots els membres del nostre públic.","neutral
+"
+"Si mantenim els preus baixos, ens hem d'adreçar a vosaltres, el nostre públic, per demanar-vos una petita contribució per ajudar-nos a complir aquesta missió.","Podríem mantenir els nostres preus baixos si realment volguéssim, sense els vostres diners, però al nostre cap li agraden els seus luxes.","contradiction
+"
+"Si mantenim els preus baixos, ens hem d'adreçar a vosaltres, el nostre públic, per demanar-vos una petita contribució per ajudar-nos a complir aquesta missió.",Les vostres contribucions ens ajuden a mantenir els preus baixos.,"neutral
+"
+"00 ens va ajudar a oferir orientació, estímul i diversió a prop de 400 nens de l'àrea d'Indianapolis.","Gràcies a les nostres generoses donacions, vam poder convidar a Beyoncé a fer un concert per als orfes d'Indianàpolis.","neutral
+"
+"00 ens va ajudar a oferir orientació, estímul i diversió a prop de 400 nens de l'àrea d'Indianapolis.","Teníem l'esperança de fer una festa de Nadal per als nens, però mai no hem pogut fer res per a ells.","contradiction
+
+**explanation:**
+
+the premise states that ""00"" *did* help offer guidance, stimulation, and fun to nearly 400 children. the hypothesis states the opposite: they *never* were able to do anything for the children. these two statements directly contradict each other. therefore, the premise contradicts the hypothesis.
+"
+"00 ens va ajudar a oferir orientació, estímul i diversió a prop de 400 nens de l'àrea d'Indianapolis.",Vam poder ajudar molts nens d'Indianàpolis.,"entailment
+"
+"Inicialment, les persones poden participar-hi amb una donació anual sense restriccions de 1.000 dòlars o més al Cercle del Rector, o de 500 dòlars o més als Associats del Rector.",Les persones poden participar després de fer una petita donació de 50 dòlars.,"contradiction
+"
+"Inicialment, les persones poden participar-hi amb una donació anual sense restriccions de 1.000 dòlars o més al Cercle del Rector, o de 500 dòlars o més als Associats del Rector.",Les persones poden participar si fan una donació prou gran.,"entailment
+"
+"Inicialment, les persones poden participar-hi amb una donació anual sense restriccions de 1.000 dòlars o més al Cercle del Rector, o de 500 dòlars o més als Associats del Rector.",La majoria de les persones prefereixen fer una donació als Chancellors Associates.,"neutral
+"
+La vostra donació en aquest moment us pot proporcionar beneficis fiscals addicionals a final d'any.,"Si feu un regal d'almenys 1.000 dòlars, segur que podreu rebre beneficis fiscals.","neutral
+
+**explanation:**
+
+the premise states that donations *in this moment* can provide additional tax benefits. the hypothesis states that a donation of at least $1000 *will* result in tax benefits.
+
+the premise doesn't specify the amount of the donation required to get tax benefits. it's possible that donations smaller than $1000 *also* qualify for tax benefits, or that donations above $1000 are *required* to qualify.  therefore, the premise doesn't guarantee the hypothesis. it's plausible, but not necessarily true based on the premise alone. hence, it's neutral.
+"
+La vostra donació en aquest moment us pot proporcionar beneficis fiscals addicionals a final d'any.,"Malauradament, els nostres assessors fiscals us aconsellen que no feu cap regal.","contradiction
+"
+La vostra donació en aquest moment us pot proporcionar beneficis fiscals addicionals a final d'any.,És possible que pugueu obtenir deduccions fiscals per les vostres donacions.,"entailment
+"
+"Com sabeu, en aquest grup es troben els amics i antics alumnes que aporten 1.000 dòlars o més anualment a la facultat de Dret.",Alguns dels membres d'aquest grup han fet donacions de més de 100.000 dòlars a l'escola.,"neutral
+"
+"Com sabeu, en aquest grup es troben els amics i antics alumnes que aporten 1.000 dòlars o més anualment a la facultat de Dret.",Tenim persones en aquest grup que han contribuït amb més de 1.000 dòlars a la Facultat de Dret.,"entailment
+"
+"Com sabeu, en aquest grup es troben els amics i antics alumnes que aporten 1.000 dòlars o més anualment a la facultat de Dret.","Tenim previst demanar a aquest grup que faci aportacions monetàries a l'escola, però mai no ho hem fet abans.","neutral
+"
+"Quan era un nen, als anys 50, un dels moments més feliços que recordo va ser assistir a les produccions del Teatre Cívic.","Jo odiava anar a espectacles de teatre de petit, per això em vaig convertir en científic.","contradiction
+"
+"Quan era un nen, als anys 50, un dels moments més feliços que recordo va ser assistir a les produccions del Teatre Cívic.",M'agradava anar al teatre quan era petit.,"entailment
+"
+"Quan era un nen, als anys 50, un dels moments més feliços que recordo va ser assistir a les produccions del Teatre Cívic.",La meva producció preferida del Teatre Cívic va ser La Bella i la Bèstia.,"neutral
+"
+Si cada persona que rep aquesta carta dona només 18 dòlars.,"A tots els que rebin aquesta carta: no doneu els vostres diners, és una estafa.","contradiction
+
+**explanation:**
+
+the premise states a condition (each person giving $18) and implies an action. the hypothesis directly opposes that action, stating people *shouldn't* give their money and that it's a scam.  therefore, the hypothesis contradicts the implied action suggested by the premise.
+"
+Si cada persona que rep aquesta carta dona només 18 dòlars.,"Si feu una donació de 18 dòlars, us farem un regal.","neutral
+"
+Si cada persona que rep aquesta carta dona només 18 dòlars.,Esperem que tots els destinataris de la carta puguin fer una donació de 18 dòlars.,"entailment 
+
+**explanation:**
+
+the premise states a condition: *if* each person who receives the letter donates $18. the hypothesis expresses an expectation that all recipients *can* make a $18 donation. 
+
+the premise *implies* the possibility of all recipients donating $18, as it outlines a scenario where they *all* do so.  therefore, the premise supports the hypothesis. if the condition in the premise is met, the expectation in the hypothesis is likely to be fulfilled.
+"
+"Simplement retalleu la part inferior, marqueu l'opció corresponent, feu qualsevol canvi a la vostra adreça si cal i envieu-ho amb el sobre adjunt.","Si us plau, no feu cap canvi a la vostra adreça.","contradiction
+"
+"Simplement retalleu la part inferior, marqueu l'opció corresponent, feu qualsevol canvi a la vostra adreça si cal i envieu-ho amb el sobre adjunt.","Hi ha un sobre blanc adjunt, amb la teva adreça.","neutral
+"
+"Simplement retalleu la part inferior, marqueu l'opció corresponent, feu qualsevol canvi a la vostra adreça si cal i envieu-ho amb el sobre adjunt.","Podeu fer canvis a la vostra adreça, si ho considereu oportú.","entailment
+"
+L'Escola d'Infermeria necessita les vostres generoses donacions per continuar mantenint la seva excel·lència educativa.,Feu una donació de 100 milions de dòlars a la Facultat d'Infermeria o perdreu la vostra estàtua commemorativa.,"neutral
+"
+L'Escola d'Infermeria necessita les vostres generoses donacions per continuar mantenint la seva excel·lència educativa.,"La Facultat d'Infermeria va complir tots els seus objectius econòmics, per la qual cosa no necessita més diners.","contradiction
+"
+L'Escola d'Infermeria necessita les vostres generoses donacions per continuar mantenint la seva excel·lència educativa.,Esperem que feu una donació a la Facultat d'Infermeria.,"entailment
+"
+El 80 % dels participants informa d'un augment de les habilitats de resolució de conflictes.,Més de la meitat dels participants informaran d'un augment de les habilitats de resolució de conflictes.,"entailment 
+
+**explanation:**
+
+the premise states that 80% of participants experienced an increase in conflict resolution skills.  ""més de la meitat"" (more than half) is equivalent to 50%. since 80% is greater than 50%, the premise guarantees that the hypothesis is true. therefore, the premise entails the hypothesis.
+"
+El 80 % dels participants informa d'un augment de les habilitats de resolució de conflictes.,Només una quarta part dels participants informarà d'un augment de les habilitats de resolució de conflictes.,"contradiction
+"
+El 80 % dels participants informa d'un augment de les habilitats de resolució de conflictes.,Hi va haver més de 100 participants individuals.,"neutral
+"
+"Si us plau, no aneu a la nostra llista de donants antiga.",Seria una llàstima que vostè deixés de donar.,"neutral
+"
+"Si us plau, no aneu a la nostra llista de donants antiga.","La nostra llista de donants caducats es publica perquè la vegi tothom, així que, creieu-me, no us agradarà que us avergonyeixin així!","neutral
+"
+"Si us plau, no aneu a la nostra llista de donants antiga.","Tenim massa donants, així que si us plau, deixeu de fer donacions.","neutral
+"
+L'accés al recinte estarà obert a qualsevol persona amb ordinador i mòdem.,La gent no necessita res per accedir al recinte.,"neutral
+
+**explanation:**
+
+the premise states that access is open to anyone with a computer and modem. the hypothesis states that people need nothing to access the premises.  while having a computer and modem *is* something, the premise doesn't say it's *everything* one needs. it's possible there are other requirements (like an id, registration, etc.) not mentioned in the premise. therefore, the premise doesn't definitively support or refute the hypothesis. it's neutral.
+"
+L'accés al recinte estarà obert a qualsevol persona amb ordinador i mòdem.,La gent necessita tant un ordinador com un mòdem per entrar al recinte.,"entailment 
+
+**explanation:**
+
+the premise states that access is open to *anyone* with a computer and modem. the hypothesis states that people *need* both a computer and modem to enter.  the premise directly implies the hypothesis; if access is granted to those *with* both, it logically follows that those entering *need* both. therefore, the premise entails the hypothesis.
+"
+L'accés al recinte estarà obert a qualsevol persona amb ordinador i mòdem.,"Les persones han de portar el seu ordinador i mòdem amb ells en entrar al recinte, per tenir-hi accés.","entailment
+
+**explanation:**
+
+the premise states that access is open to anyone *with* a computer and modem. the hypothesis states that people *must bring* their computer and modem to gain access.  the premise implicitly requires the possession of the equipment, and the hypothesis explicitly states that bringing it is a requirement. therefore, the premise entails the hypothesis.
+"
+La venda d'entrades i les subscripcions no poden finançar la temporada completa,Mentre tinguem la venda d'entrades tota la nostra temporada està finançada.,"contradiction
+
+**explanation:**
+
+the premise states that ticket sales and subscriptions *cannot* fund the entire season. the hypothesis claims that *as long as* there are ticket sales, the season *is* funded. these two statements directly contradict each other.  if ticket sales aren't enough to fund the whole season (premise), then having ticket sales (hypothesis) doesn't mean the season is funded.
+"
+La venda d'entrades i les subscripcions no poden finançar la temporada completa,La nostra temporada completa necessita més per finançar-la que només la venda d'entrades i subscripcions.,"entailment
+"
+La venda d'entrades i les subscripcions no poden finançar la temporada completa,La venda d'entrades i subscripcions només cobreixen el 70 % dels costos de finançament de la nostra temporada completa.,"entailment
+"
+NOVETATS TOTES LES DONACIONS SÓN BENVINGUDES!,Cada regal es registra i anuncia al nostre diari mensual.,"neutral
+"
+NOVETATS TOTES LES DONACIONS SÓN BENVINGUDES!,Cada regal que s'ofereix contribueix d’alguna manera.,"entailment 
+
+**explanation:**
+
+the premise states ""all donations are welcome!"" and the hypothesis states ""every gift that is offered contributes in some way."" if donations are welcomed, it logically follows that each gift (a type of donation) contributes in some way. the premise supports the idea that all donations are positive and beneficial, thus implying a contribution.
+"
+NOVETATS TOTES LES DONACIONS SÓN BENVINGUDES!,Només els regals superiors a 100 dòlars marquen la diferència.,"neutral
+"
+Tenim un llarg camí per recórrer abans d'arribar al nostre objectiu de 365.000 dòlars d'amics i subscriptors com tu.,El nostre objectiu monetari supera els 300.000 dòlars.,"entailment
+"
+Tenim un llarg camí per recórrer abans d'arribar al nostre objectiu de 365.000 dòlars d'amics i subscriptors com tu.,"De fet, esperem triplicar el nostre objectiu monetari.","neutral
+"
+Tenim un llarg camí per recórrer abans d'arribar al nostre objectiu de 365.000 dòlars d'amics i subscriptors com tu.,No tenim cap punt de referència pel que fa als diners.,"neutral
+"
+"La nostra Clínica de Pràctica Civil funciona des de fa uns quants anys, i recentment hem afegit una Clínica de Defensa Criminal.",La nostra Clínica de Pràctica Civil funciona des de fa vuit anys.,"neutral
+"
+"La nostra Clínica de Pràctica Civil funciona des de fa uns quants anys, i recentment hem afegit una Clínica de Defensa Criminal.",La nostra Clínica de Pràctica Civil celebra el seu primer any complet en funcionament el mes que ve.,"neutral
+"
+"La nostra Clínica de Pràctica Civil funciona des de fa uns quants anys, i recentment hem afegit una Clínica de Defensa Criminal.",La Clínica de Pràctica Civil fa més d'un any que funciona.,"neutral.
+
+**explanation:**
+
+the premise states the civil practice clinic has been running ""for a few years."" this doesn't give a specific timeframe. it could be 2 years, 5 years, or 10 years.  the hypothesis states it's been running ""more than a year.""  ""a few years"" *could* include more than a year, but it doesn't *have* to.  therefore, the premise doesn't guarantee the hypothesis is true, nor does it definitively say it's false. it's neutral.
+"
+Els ingressos de les entrades no arriben a cobrir el cost d'aquests programes.,Sembla que el cost d'aquests programes no es cobrirà amb els ingressos de les entrades.,"entailment
+"
+Els ingressos de les entrades no arriben a cobrir el cost d'aquests programes.,El cost d'aquests programes és molt elevat.,"entailment
+"
+Els ingressos de les entrades no arriben a cobrir el cost d'aquests programes.,Els ingressos de les entrades cobriran definitivament el cost d'aquests programes.,"contradiction
+"
+Omnia vincit amor (tret que treballeu per al Weekly Standard): Brit Hume (Fox News Sunday) especula sobre per què Lewinsky no  Encara està enamorada del president.,Brit Hume és el reporter principal de Fox.,"neutral
+"
+Omnia vincit amor (tret que treballeu per al Weekly Standard): Brit Hume (Fox News Sunday) especula sobre per què Lewinsky no  Encara està enamorada del president.,Brit Hume treballa per a CNN.,"contradiction
+
+**explanation:**
+
+the premise explicitly states that brit hume works for the *weekly standard*. the hypothesis claims he works for *cnn*. these two statements are contradictory; he cannot work for both simultaneously. therefore, the premise contradicts the hypothesis.
+"
+Omnia vincit amor (tret que treballeu per al Weekly Standard): Brit Hume (Fox News Sunday) especula sobre per què Lewinsky no  Encara està enamorada del president.,Brit Hume treballa per a Fox.,"entailment
+"
+S'ha fet molt contractant Michael Apted per aportar un toc més humà a la sèrie.,Michael Apted va arruïnar la sèrie insistint que traguessin qualsevol element càlid i humà.,"contradiction
+
+**explanation:**
+
+* **premise:** states that michael apted was *hired* to bring a *more human touch* to the series. this implies he *added* humanity.
+* **hypothesis:** states that michael apted *ruined* the series by *insisting on removing* warmth and humanity. this implies he *removed* humanity.
+
+these two statements are directly opposing each other. therefore, the premise contradicts the hypothesis.
+"
+S'ha fet molt contractant Michael Apted per aportar un toc més humà a la sèrie.,Michael Apted va ser contractat per afegir una qualitat personal a la sèrie.,"entailment 
+
+**explanation:**
+
+the premise states that michael apted was hired to ""aportar un toc més humà"" (bring a more human touch) to the series. the hypothesis states he was hired to ""afegir una qualitat personal"" (add a personal quality) to the series.  ""toc humà"" and ""qualitat personal"" are very closely related concepts in this context.  adding a more human touch *is* adding a personal quality. therefore, the premise strongly suggests the hypothesis is true.
+"
+S'ha fet molt contractant Michael Apted per aportar un toc més humà a la sèrie.,"Es pensava que la sèrie era freda i avorrida, per la qual cosa era important contractar Michael Apted per afegir un toc càlid i personal a fi de millorar les valoracions.","entailment
+"
+veure una noia amb una parca de pell blanca i botes,Una noia va vestida per anar en trineu.,"neutral
+"
+veure una noia amb una parca de pell blanca i botes,Una noia porta roba blanca.,"entailment
+"
+veure una noia amb una parca de pell blanca i botes,La noia va vestida tota de vermell.,"neutral
+"
+El que la pel·lícula no esmenta és que Kaufman havia parlat sovint de com li agradaria treure's la seva pròpia vida.,La pel·lícula no esmenta Kaufman parlant de la seva pròpia mort.,"entailment
+"
+El que la pel·lícula no esmenta és que Kaufman havia parlat sovint de com li agradaria treure's la seva pròpia vida.,La pel·lícula va tenir una entrevista en profunditat amb Kaufman sobre la seva mort.,"contradiction
+"
+El que la pel·lícula no esmenta és que Kaufman havia parlat sovint de com li agradaria treure's la seva pròpia vida.,"La pel·lícula va ser un gran èxit, tot i deixar de banda alguns detalls crucials sobre Kaufman.","neutral
+"
+Rockefeller es va veure atrapat en aquesta donació angoixada quan l'àngel venjador Tarbell va començar a esquinçar-se la carn a McClure.,Rockefeller va fer donacions a la investigació del càncer.,"neutral
+"
+Rockefeller es va veure atrapat en aquesta donació angoixada quan l'àngel venjador Tarbell va començar a esquinçar-se la carn a McClure.,Rockefeller era generós.,"neutral
+"
+Rockefeller es va veure atrapat en aquesta donació angoixada quan l'àngel venjador Tarbell va començar a esquinçar-se la carn a McClure.,Rockefeller era avar.,"neutral
+"
+"Més recentment, en un cas comercial a Nova York, Klayman es va trobar a l'altra banda dels càrrecs de prejudicis ètnics.",Klayman va ser acusat de prejudicis ètnics a Califòrnia.,"neutral
+"
+"Més recentment, en un cas comercial a Nova York, Klayman es va trobar a l'altra banda dels càrrecs de prejudicis ètnics.",Klayman no esperava ser acusat de prejudicis ètnics.,"neutral
+"
+"Més recentment, en un cas comercial a Nova York, Klayman es va trobar a l'altra banda dels càrrecs de prejudicis ètnics.",Hi va haver denúncies de prejudicis ètnics contra Klayman.,"entailment
+"
+"Difícilment s'esperaria que una sala plena de representants corporatius xiulessin, esbronquessin i insultessin a un secretari de Treball dels Estats Units.",Els representants corporatius porten vestits.,"neutral
+"
+"Difícilment s'esperaria que una sala plena de representants corporatius xiulessin, esbronquessin i insultessin a un secretari de Treball dels Estats Units.",Es podria esperar que els representants corporatius parlin entre dents.,"neutral
+"
+"Difícilment s'esperaria que una sala plena de representants corporatius xiulessin, esbronquessin i insultessin a un secretari de Treball dels Estats Units.",No s'esperaria que els representants corporatius parlin entre dents.,"neutral
+"
+El fet que l'alimentació tingui un efecte més significatiu en el rendiment esportiu no vol dir que la natura estigui latent.,Els esportistes neixen amb tot el seu potencial de rendiment plenament realitzat.,"neutral
+"
+El fet que l'alimentació tingui un efecte més significatiu en el rendiment esportiu no vol dir que la natura estigui latent.,El rendiment esportiu es veu més afectat per l'entrenament que per la genètica.,"neutral
+"
+El fet que l'alimentació tingui un efecte més significatiu en el rendiment esportiu no vol dir que la natura estigui latent.,Els atletes més seriosos entrenen almenys vuit hores cada setmana.,"neutral
+"
+"Un cop a casa, vaig saber que els Estats Units tallen els subministraments de dues maneres.",M'interessa la política.,"neutral
+"
+"Un cop a casa, vaig saber que els Estats Units tallen els subministraments de dues maneres.",Vaig aprendre sobre els Estats Units,"entailment 
+
+**explanation:**
+
+the premise states that the speaker learned something about how the us cuts off supplies. the hypothesis states the speaker learned about the us.  learning *about* a specific aspect of a country (like their supply practices) implies a broader learning *about* the country itself. therefore, the premise entails the hypothesis.
+"
+"Un cop a casa, vaig saber que els Estats Units tallen els subministraments de dues maneres.",Vaig aprendre que els Estats Units tallen els subministraments de dues maneres abans de tornar a casa.,"neutral
+"
+"L'editorial universitària més antiga i més gran del món, Oxford, acaba d'anunciar que cancel·la el seu catàleg de poesia.",La llista de poesia a Oxford ja no continua.,"entailment
+"
+"L'editorial universitària més antiga i més gran del món, Oxford, acaba d'anunciar que cancel·la el seu catàleg de poesia.",La universitat de prestigi no disposa de finançament per mantenir activa la llista de poesia.,"entailment
+"
+"L'editorial universitària més antiga i més gran del món, Oxford, acaba d'anunciar que cancel·la el seu catàleg de poesia.",La universitat es dedica a preservar la llista de poesia i es compromet a no cancel·lar-la mai.,"contradiction
+"
+"Tanmateix, hi ha un premi de consolació per a la humanitat.",El premi de consolació és una batedora gratuïta de dues velocitats per a cada persona.,"neutral
+"
+"Tanmateix, hi ha un premi de consolació per a la humanitat.",No hi ha cap avantatge per als humans en aquesta situació.,"contradiction
+
+**explanation:**
+
+* **premise:** ""tanmateix, hi ha un premi de consolació per a la humanitat."" (however, there is a consolation prize for humanity.) this implies *some* benefit or positive aspect, however small, for humanity.
+* **hypothesis:** ""no hi ha cap avantatge per als humans en aquesta situació."" (there is no advantage for humans in this situation.) this directly states that there are *no* benefits for humans.
+
+since the premise states there *is* a consolation prize (implying some benefit), and the hypothesis states there are *no* benefits, they directly contradict each other. therefore, the premise contradicts the hypothesis.
+"
+"Tanmateix, hi ha un premi de consolació per a la humanitat.",No tot són males notícies per als humans.,"entailment
+"
+Els esports no són els únics esdeveniments per apostar en aquests llocs.,En aquests llocs també s'accepten apostes sobre conteses polítiques i eleccions.,"entailment
+"
+Els esports no són els únics esdeveniments per apostar en aquests llocs.,Aquests llocs només accepten apostes sobre esdeveniments esportius.,"contradiction
+"
+Els esports no són els únics esdeveniments per apostar en aquests llocs.,Aquests llocs accepten apostes sobre diverses activitats.,"entailment
+"
+"El 25 d'agost, després que s'inaugurés la convenció demòcrata a Atlantic City, N.J., Johnson, que aleshores tenia 56 anys, va amenaçar en tres converses gravades amb retirar-se de la carrera presidencial.",Johnson va sentir una manca de suport.,"neutral
+"
+"El 25 d'agost, després que s'inaugurés la convenció demòcrata a Atlantic City, N.J., Johnson, que aleshores tenia 56 anys, va amenaçar en tres converses gravades amb retirar-se de la carrera presidencial.",Johnson mai no va pensar a retirar-se.,"contradiction
+"
+"El 25 d'agost, després que s'inaugurés la convenció demòcrata a Atlantic City, N.J., Johnson, que aleshores tenia 56 anys, va amenaçar en tres converses gravades amb retirar-se de la carrera presidencial.",Johnson va amenaçar de retirar-se.,"entailment
+"
+Lamar Alexander va abandonar la seva candidatura presidencial.,Almenys una persona va renunciar al seu intent de ser president.,"entailment
+"
+Lamar Alexander va abandonar la seva candidatura presidencial.,Lamar Alexander es va negar a renunciar a la seva campanya presidencial.,"contradiction
+"
+Lamar Alexander va abandonar la seva candidatura presidencial.,El senyor Alexander es va veure obligat a abandonar després que es publiquessin imatges vergonyoses d'ell.,"neutral
+"
+"A més d'aquest lamentable registre de llibertats civils, hi ha l'ús indegut de l'FBI en la investigació original de l'oficina de viatges de la Casa Blanca i el que s'ha conegut com Filegate.",La Casa Blanca té l'FBI com a espia dels candidats polítics.,"neutral
+
+**explanation:**
+
+the premise discusses abuses of power by the fbi (using the investigation of the white house travel office and filegate as examples) and lamentable civil liberties. it *doesn't* directly state or imply that the white house uses the fbi as a spy for political candidates. while the abuse of power *could* potentially lead to such a scenario, the premise doesn't provide enough information to conclude that the hypothesis is entailed, contradicted, or confirmed. it's simply a statement about fbi misconduct.
+"
+"A més d'aquest lamentable registre de llibertats civils, hi ha l'ús indegut de l'FBI en la investigació original de l'oficina de viatges de la Casa Blanca i el que s'ha conegut com Filegate.",La Casa Blanca fa un mal ús de l'FBI.,"entailment
+"
+"A més d'aquest lamentable registre de llibertats civils, hi ha l'ús indegut de l'FBI en la investigació original de l'oficina de viatges de la Casa Blanca i el que s'ha conegut com Filegate.",La Casa Blanca utilitza l'FBI correctament.,"contradiction
+"
+"Tung ha promès reprimir els especuladors immobiliaris, però molts pensen que borda molt però no mossega.",A Tung no li preocupen els especuladors immobiliaris.,"contradiction 
+
+**explanation:**
+
+* **premise:** tung *promesa* to repress real estate speculators, but many believe he talks a big game (""borda molt"") but doesn't follow through (""no mossega""). this implies he *will not* actually repress them.
+* **hypothesis:** tung *doesn't care* about real estate speculators.
+
+if tung doesn't care about the speculators, it's *more likely* he won't follow through on his promise, aligning with the ""no mossega"" part of the premise. however, the hypothesis states a lack of concern, which directly contradicts the implication within the premise that he is *not* acting on his promise (which would likely stem from *some* concern). therefore, the hypothesis contradicts the premise.
+
+
+
+"
+"Tung ha promès reprimir els especuladors immobiliaris, però molts pensen que borda molt però no mossega.",Tung creu que els especuladors immobiliaris estan actuant de manera poc ètica.,"neutral
+"
+"Tung ha promès reprimir els especuladors immobiliaris, però molts pensen que borda molt però no mossega.",Tung vol influir en els especuladors immobiliaris.,"entailment 
+
+**reasoning:**
+
+the premise states tung promised to repress real estate speculators, but people believe he talks a big game but doesn't follow through (""borda molt però no mossega"").  even if he doesn't fully follow through on his promise, the *fact that he made the promise* indicates a desire to influence speculators.  the hypothesis that he wants to influence them is a logical consequence of his actions (promising to repress them). therefore, the premise entails the hypothesis.
+"
+"Les queixes eren per problemes amb l'equipatge, assistents de vol malcarats, vols misteriosament cancel·lats, atrocitats de facturació.",10 persones havien perdut l'equipatge.,"neutral
+
+**explanation:**
+
+the premise lists several complaints about travel issues (luggage problems, poor flight attendants, canceled flights, check-in atrocities). while luggage problems are *included* in the premise, the premise doesn't specify *how many* people experienced luggage problems.  the hypothesis states that *exactly* 10 people lost their luggage.
+
+the premise doesn't confirm or deny that 10 people lost their luggage. it's possible 10 people lost their luggage, but also possible it was a different number. therefore, the premise is neutral towards the hypothesis.
+"
+"Les queixes eren per problemes amb l'equipatge, assistents de vol malcarats, vols misteriosament cancel·lats, atrocitats de facturació.",La gent es va queixar de l'equipatge.,"entailment
+"
+"Les queixes eren per problemes amb l'equipatge, assistents de vol malcarats, vols misteriosament cancel·lats, atrocitats de facturació.",No hi va haver cap queixa en absolut.,"contradiction
+"
+"Lawrence Singleton, un violador famós que va tallar els avantbraços de la seva víctima i després només va passar vuit anys a la presó, ha estat arrestat per matar a punyalades una altra dona a Florida.","Després de tallar els avantbraços de les seves víctimes, va intentar amagar-los en una paperera.","neutral
+"
+"Lawrence Singleton, un violador famós que va tallar els avantbraços de la seva víctima i després només va passar vuit anys a la presó, ha estat arrestat per matar a punyalades una altra dona a Florida.",Era obvi per a tothom que el seu temps a la presó l'havia rehabilitat completament.,"contradiction
+
+**explanation:**
+
+the premise states that lawrence singleton was only incarcerated for eight years after committing a horrific crime (violating and mutilating a victim). the hypothesis claims that his time in prison *completely rehabilitated* him. these two statements are directly contradictory. if he were completely rehabilitated, he wouldn't have committed another violent murder. therefore, the premise contradicts the hypothesis.
+"
+"Lawrence Singleton, un violador famós que va tallar els avantbraços de la seva víctima i després només va passar vuit anys a la presó, ha estat arrestat per matar a punyalades una altra dona a Florida.",El senyor Singleton és un violador condemnat a Florida.,"entailment
+"
+"Charles Lane, de The New Republic, diu que Noticia de un secuestro només amplia el registre del periodisme deshonest de Gabriel García Márquez.",Charles Lane és periodista.,"entailment
+"
+"Charles Lane, de The New Republic, diu que Noticia de un secuestro només amplia el registre del periodisme deshonest de Gabriel García Márquez.",Charles Lane venia cotxes.,"neutral
+"
+"Charles Lane, de The New Republic, diu que Noticia de un secuestro només amplia el registre del periodisme deshonest de Gabriel García Márquez.",Charles Lane va guanyar un Pulitzer.,"neutral
+"
+El jutjat no és l'únic circ polític a Washington aquest matí.,El palau de justícia no és l'únic lloc polític a Washington.,"entailment 
+
+**explanation:**
+
+the premise states that the court (jutjat) is *one* political circus in washington. the hypothesis states that the courthouse (palau de justícia) is *not* the only political place in washington.
+
+if the court is one political circus, it logically follows that there are other political places in washington besides the court.  therefore, the premise supports the hypothesis.
+"
+El jutjat no és l'únic circ polític a Washington aquest matí.,La jornada política probablement comença al matí.,"neutral
+"
+El jutjat no és l'únic circ polític a Washington aquest matí.,Al palau de justícia hi ha un circ amb pallassos.,"neutral
+
+**explanation:**
+
+the premise states that the court (jutjat) is *one* political circus in washington. the hypothesis claims there's a circus with clowns *at the palace of justice* (palau de justícia). 
+
+while the premise suggests a chaotic and theatrical political environment (a circus), it doesn't specify *what* kind of circus or *where*. the hypothesis is a more specific claim about the nature and location of a circus. 
+
+it's possible the palace of justice is part of the ""political circus"" mentioned in the premise, but it's also possible it's a separate, unrelated circus. the premise doesn't guarantee or forbid the hypothesis; therefore, the relationship is neutral.
+"
+"Un es pot imaginar un operador de buldòzer obrint un camí per a una nova urbanització a qui el promotor saluda: Ei, Loyd...",Us podeu imaginar un operador de buldòzer posant en marxa una excavadora.,"neutral
+"
+"Un es pot imaginar un operador de buldòzer obrint un camí per a una nova urbanització a qui el promotor saluda: Ei, Loyd...",Us podeu imaginar un operador de buldòzer.,"entailment
+"
+"Un es pot imaginar un operador de buldòzer obrint un camí per a una nova urbanització a qui el promotor saluda: Ei, Loyd...",No us podeu imaginar un operador de buldòzer.,"contradiction
+"
+Vaig informar d'això en una carta al Dr. Semblava divertir-lo i em va enviar un petit pastís de fruites aquell Nadal.,Estic segur que el metge va rebre la carta que li vaig enviar.,"entailment
+
+**explanation:**
+
+the premise states that the speaker *sent* a letter to dr. semblant. the hypothesis claims that dr. semblant *received* that letter. it's highly probable, and even implied, that if a letter is sent, it is received. while not definitively stated, the premise strongly suggests the hypothesis is true. therefore, the premise entails the hypothesis.
+"
+Vaig informar d'això en una carta al Dr. Semblava divertir-lo i em va enviar un petit pastís de fruites aquell Nadal.,No em vaig menjar el pastís que em va enviar el metge aquell Nadal.,"neutral
+"
+Vaig informar d'això en una carta al Dr. Semblava divertir-lo i em va enviar un petit pastís de fruites aquell Nadal.,El metge em va enviar una ampolla de vi aquell Nadal.,"neutral
+"
+"L'equip havia estat conegut anteriorment amb la memorable denominació de ""beaneaters"", que, curiosament, també es podria considerar un sobrenom indi.",L'equip va canviar el seu nom perquè no era popular.,"neutral
+"
+"L'equip havia estat conegut anteriorment amb la memorable denominació de ""beaneaters"", que, curiosament, també es podria considerar un sobrenom indi.",L'equip tenia un nom abans d'aquest que també es podria pensar que era un sobrenom indi.,"entailment
+"
+"L'equip havia estat conegut anteriorment amb la memorable denominació de ""beaneaters"", que, curiosament, també es podria considerar un sobrenom indi.",L'equip només ha tingut un nom.,"contradiction
+
+**explanation:**
+
+the premise states the team had a memorable name (""beaneaters"") and that it *could* also be considered an indian nickname. this implies the team had at least one name. the hypothesis claims the team *only* had one name. the premise directly contradicts this by suggesting the existence of at least one, and possibly two, names. therefore, the premise contradicts the hypothesis.
+"
+No he trobat aquesta definició al diccionari de sinònims.,Vaig trobar la definició al tesaurus.,"neutral
+"
+No he trobat aquesta definició al diccionari de sinònims.,He buscat al tesaurus i no he trobat cap definició.,"neutral
+
+**explanation:**
+
+the premise states the speaker didn't find a definition in a synonym dictionary. the hypothesis states the speaker searched a thesaurus and didn't find a definition. while both involve a lack of finding a definition, the premise specifies a synonym dictionary and the hypothesis a thesaurus.  the premise doesn't *necessarily* imply the hypothesis, and vice versa. they are independent actions. therefore, the premise is neutral towards the hypothesis.
+"
+No he trobat aquesta definició al diccionari de sinònims.,El tesaurus que vaig utilitzar era el tesaurus estàndard.,"neutral
+
+**explanation:**
+
+the premise states that the definition wasn't found in a dictionary of synonyms. the hypothesis states that the thesaurus used was the standard one.
+
+the premise doesn't *necessarily* mean the thesaurus *wasn't* the standard one. it could be that the standard thesaurus simply doesn't contain that specific definition.  it's possible the definition exists in a non-standard thesaurus, or is a very specialized term not covered by the standard one. therefore, the premise is neutral towards the hypothesis.
+"
+Com es pot fer això?,Com pot molta gent no fer res?,"neutral
+"
+Com es pot fer això?,Com es pot fer una cosa tan dolenta?,"neutral.
+
+**explanation:**
+
+the premise ""com es pot fer això?"" translates to ""how can this be done?"". it expresses surprise or disbelief at something.
+
+the hypothesis ""com es pot fer una cosa tan dolenta?"" translates to ""how can something so evil be done?"".  it expresses moral outrage or disbelief at something being evil.
+
+while the premise *could* be related to the hypothesis (perhaps ""this"" *is* something evil), it doesn't *necessarily* follow. ""this"" could be something surprising, strange, or even mundane. the premise is too general to definitively entail or contradict the hypothesis.  therefore, it is neutral.
+"
+Com es pot fer això?,Com és possible que un faci això?,"entailment 
+
+**explanation:**
+
+the premise ""com es pot fer això?"" translates to ""how can this be done?"". the hypothesis ""com és possible que un faci això?"" translates to ""how is it possible that someone does this?"". 
+
+the hypothesis is a more specific and elaborated version of the premise.  asking ""how can this be done?"" inherently implies a question about the possibility of it happening, which is precisely what the hypothesis asks. therefore, the premise entails the hypothesis.
+"
+"A més, només conté termes que se sap que es van originar al segle XX, segons es diu al prefaci, però omet l'argot militar de principis del segle XX.","Segons el prefaci, conté termes que van sorgir al segle XX, però deixa de banda l'argot que va sorgir abans.","entailment
+"
+"A més, només conté termes que se sap que es van originar al segle XX, segons es diu al prefaci, però omet l'argot militar de principis del segle XX.",Té tot l'argot contingut des del principi dels temps.,"contradiction
+"
+"A més, només conté termes que se sap que es van originar al segle XX, segons es diu al prefaci, però omet l'argot militar de principis del segle XX.",Hi ha molt argot diferent d'abans del segle XX.,"neutral
+"
+"Si algú tingués l'edició de 1984, potser li molestaria haver de comprar aquest llibre en lloc d'un suplement més breu (i menys costós).",L'edició de 1984 és la millor del lot.,"neutral
+"
+"Si algú tingués l'edició de 1984, potser li molestaria haver de comprar aquest llibre en lloc d'un suplement més breu (i menys costós).",El llibre no està a la venda.,"neutral
+"
+"Si algú tingués l'edició de 1984, potser li molestaria haver de comprar aquest llibre en lloc d'un suplement més breu (i menys costós).",El suplement és més barat que el llibre.,"entailment
+"
+Bernstein ho explica a la introducció,Bernstein no ho explica en profunditat.,"neutral
+"
+Bernstein ho explica a la introducció,Bernstein només ho va explicar a la conclusió.,"contradiction
+"
+Bernstein ho explica a la introducció,La introducció conté una explicació.,"entailment
+"
+"No se suggereix que aquests temes siguin prohibits, simplement que és difícil, fins i tot després d'uns vint anys d'aculturació, per a un foraster discernir gran part del que seria divertit en ells.",Fins i tot els parlants nadius de vegades tenen problemes amb l'humor.,"neutral
+"
+"No se suggereix que aquests temes siguin prohibits, simplement que és difícil, fins i tot després d'uns vint anys d'aculturació, per a un foraster discernir gran part del que seria divertit en ells.",L'humor és generalment una de les coses més fàcils d'entendre per als forasters.,"contradiction
+"
+"No se suggereix que aquests temes siguin prohibits, simplement que és difícil, fins i tot després d'uns vint anys d'aculturació, per a un foraster discernir gran part del que seria divertit en ells.",Aquests temes són difícils d'entendre per als estrangers.,"entailment
+"
+"Finalment, cal desconfiar de l'allargament que comporta un significat clarament diferent.",Els editors s'utilitzen normalment per detectar aquest tipus d'error.,"neutral
+"
+"Finalment, cal desconfiar de l'allargament que comporta un significat clarament diferent.",L'allargament és una bona manera d'assegurar que el significat d'una afirmació s'aclareix.,"contradiction
+"
+"Finalment, cal desconfiar de l'allargament que comporta un significat clarament diferent.",El significat pot canviar quan s'intenta fer una declaració més llarga.,"entailment 
+
+**explanation:**
+
+the premise states ""finally, it is necessary to distrust the lengthening that involves a clearly different meaning."" this implies that longer statements *can* lead to changes in meaning. 
+
+the hypothesis states ""the meaning can change when a longer statement is attempted.""
+
+since the premise explicitly warns about the potential for meaning to change with lengthening, the hypothesis is a direct consequence and therefore entailed by the premise.
+"
+Fan que el cap et doni voltes amb la calor.,Aplicar calor al cap d'una persona és una bona manera de millorar la seva atenció i concentració.,"neutral
+"
+Fan que el cap et doni voltes amb la calor.,L'excés de calor pot provocar mareigs en alguns casos.,"neutral
+"
+Fan que el cap et doni voltes amb la calor.,Avui ha estat cinc graus per sobre de la mitjana estacional.,"neutral
+
+**explanation:**
+
+* **premise:** ""fan que el cap et doni voltes amb la calor."" translates to ""the heat makes your head spin."" this describes the *effect* of heat.
+* **hypothesis:** ""avui ha estat cinc graus per sobre de la mitjana estacional."" translates to ""today it has been five degrees above the seasonal average."" this provides a *quantifiable measure* of the temperature.
+
+while high temperature *could* lead to the feeling described in the premise, the premise doesn't *require* the hypothesis to be true.  it's possible to have high temperatures without the specific degree difference mentioned in the hypothesis.  also, the premise is about a subjective feeling, while the hypothesis is a factual statement about temperature. therefore, the premise and hypothesis are neutral towards each other.
+"
+Cap altra professió té una tradició tan rica de menyspreu envers un mateix.,Moltes altres professions es tenen en molt alta estima.,"contradiction
+
+**explanation:**
+
+the premise states that no other profession has as rich a tradition of self-disdain. the hypothesis states that many other professions are held in very high esteem. these two statements are directly contradictory. if one profession is uniquely characterized by self-disdain, it logically follows that many others *cannot* be held in high esteem in the same way. therefore, the premise contradicts the hypothesis.
+"
+Cap altra professió té una tradició tan rica de menyspreu envers un mateix.,Moltes professions tenen tradicions d'autodesaprovació.,"contradiction.
+
+**explanation:**
+
+the premise states that *no other profession* has a tradition of self-deprecation as rich as *this* profession. the hypothesis claims that *many* professions have traditions of self-deprecation. these statements are contradictory. if one profession has the *most* rich tradition of self-deprecation, it logically follows that many other professions do *not* have such a rich tradition. therefore, the hypothesis contradicts the premise.
+"
+Cap altra professió té una tradició tan rica de menyspreu envers un mateix.,Cap altra feina té una tradició sòlida de crítica sobre si mateixa.,"entailment 
+
+**explanation:**
+
+the premise states that no other profession has a rich tradition of *disdain towards oneself*. the hypothesis states that no other job has a solid tradition of *criticism of itself*. 
+
+""disdain towards oneself"" and ""criticism of itself"" are very closely related.  self-disdain implies self-criticism. if a profession has a rich tradition of self-disdain, it logically follows that it also has a tradition of self-criticism. therefore, the premise *entails* the hypothesis.
+"
+"I amb notes d'orgull, els draps vells que s'han guanyat noms pejoratius en la tradició local utilitzen aquests sobrenoms en la correspondència privada, les converses de taverna i els currículums no oficials.",Els diaris no tenen cap reputació.,"neutral
+"
+"I amb notes d'orgull, els draps vells que s'han guanyat noms pejoratius en la tradició local utilitzen aquests sobrenoms en la correspondència privada, les converses de taverna i els currículums no oficials.",Aquests diaris no tenen bona reputació.,"entailment 
+
+**explanation:**
+
+the premise states that old sheets (drap vells), which are described as having earned ""pejorative names"" (noms pejoratius) in local tradition, are used with these names in private correspondence, tavern conversations, and unofficial resumes.  ""pejorative names"" inherently imply a negative reputation. therefore, the premise supports the conclusion that the sheets do not have a good reputation.
+"
+"I amb notes d'orgull, els draps vells que s'han guanyat noms pejoratius en la tradició local utilitzen aquests sobrenoms en la correspondència privada, les converses de taverna i els currículums no oficials.",Aquests diaris tenen moltes xafarderies de les mestresses de casa.,"neutral
+"
+"Si ""lite/light"" simplement descriu una característica de la cervesa (p. ex.",La cervesa pot tenir l'etiqueta lite o light.,"entailment
+"
+"Si ""lite/light"" simplement descriu una característica de la cervesa (p. ex.",Lite i light només s'utilitzen per descriure vins i whisky.,"contradiction
+"
+"Si ""lite/light"" simplement descriu una característica de la cervesa (p. ex.",La cervesa Lite no té un alt percentatge d'alcohol.,"entailment
+"
+Fins i tot s'usava el pobre substantiu sobrecarregat quan no calia ni aquest ni cap d'alternatiu.,La gent té dificultats per trobar un substantiu alternatiu.,"entailment 
+
+**explanation:**
+
+the premise states that people even used an overloaded noun when no other noun was needed. this implies a lack of readily available or easily accessible alternative nouns.  therefore, the difficulty in finding alternative nouns (hypothesis) is implied by the fact that people resorted to an inappropriate, overloaded noun. the premise supports the idea that finding alternatives is challenging.
+"
+Fins i tot s'usava el pobre substantiu sobrecarregat quan no calia ni aquest ni cap d'alternatiu.,El substantiu s'utilitza massa.,"entailment 
+
+**explanation:**
+
+the premise states that even an overloaded noun was used when there was no need for it or any alternative. this implies a general overuse of nouns. the hypothesis ""the noun is used too much"" directly reflects this idea of overuse, therefore the premise entails the hypothesis.
+"
+Fins i tot s'usava el pobre substantiu sobrecarregat quan no calia ni aquest ni cap d'alternatiu.,S'hauria d'utilitzar més el substantiu.,"neutral
+"
+"A més de tot això, tenim el fet lamentable que l'escriptura eloqüent és de vegades memorable, cosa que agreuja el problema.",És molt més probable que la gent recordi una escriptura deficient.,"neutral
+"
+"A més de tot això, tenim el fet lamentable que l'escriptura eloqüent és de vegades memorable, cosa que agreuja el problema.","Sovint, un text ben escrit és molt més fàcil de recordar que un text mal escrit.","entailment
+"
+"A més de tot això, tenim el fet lamentable que l'escriptura eloqüent és de vegades memorable, cosa que agreuja el problema.",El text ben escrit és massa car per produir-lo en grans quantitats.,"neutral
+"
+"Enfrontats a aquesta actitud i una mica admirats, els britànics van reconèixer el seu respecte posant la paraula en majúscula.",Els britànics no tenien cap respecte.,"contradiction
+"
+"Enfrontats a aquesta actitud i una mica admirats, els britànics van reconèixer el seu respecte posant la paraula en majúscula.",Els britànics es van fer càrrec de l'economia mundial.,"neutral
+"
+"Enfrontats a aquesta actitud i una mica admirats, els britànics van reconèixer el seu respecte posant la paraula en majúscula.",Els britànics van comerciar molt arreu del món.,"neutral
+"
+De vegades també és el més dissimulat.,De vegades pot ser molt difícil de detectar.,"entailment
+
+**explanation:**
+
+the premise ""de vegades també és el més dissimulat"" (sometimes it is the most discreet/deceptive) directly implies that it can be difficult to detect. if something is very discreet, it is inherently harder to notice or identify. therefore, the hypothesis ""de vegades pot ser molt difícil de detectar"" (sometimes it can be very difficult to detect) is a logical consequence of the premise.
+"
+De vegades també és el més dissimulat.,Fa molt poc soroll gràcies a un motor acuradament aïllat.,"neutral
+"
+De vegades també és el més dissimulat.,Sempre va ser molt fàcil de detectar des de qualsevol distància.,"contradiction
+
+**explanation:**
+
+* **premise:** ""de vegades també és el més dissimulat."" translates to ""sometimes he/she/it is the most discreet/stealthy."" this means there are times when the person/thing is good at hiding.
+* **hypothesis:** ""sempre va ser molt fàcil de detectar des de qualsevol distància."" translates to ""he/she/it was always very easy to detect from any distance."" this means the person/thing is *never* hard to spot.
+
+these statements are directly opposing each other.  if someone is sometimes discreet, it *contradicts* the idea that they are *always* easy to detect. therefore, the premise contradicts the hypothesis.
+"
+"Com és cert, per descomptat, que hi ha més dialectes distintius de l'anglès a Gran Bretanya que a Amèrica del Nord, i qualsevol que hagi passat una estona escoltant-los sap que alguns són mútuament inintel·ligibles.","Gran Bretanya té molts dialectes anglesos distintius, més nombrosos que els d'Amèrica del Nord.","entailment
+"
+"Com és cert, per descomptat, que hi ha més dialectes distintius de l'anglès a Gran Bretanya que a Amèrica del Nord, i qualsevol que hagi passat una estona escoltant-los sap que alguns són mútuament inintel·ligibles.","Els dialectes nord-americans i britànics són exactament els mateixos, i la gent no pot distingir cap diferència entre ells.","contradiction
+"
+"Com és cert, per descomptat, que hi ha més dialectes distintius de l'anglès a Gran Bretanya que a Amèrica del Nord, i qualsevol que hagi passat una estona escoltant-los sap que alguns són mútuament inintel·ligibles.",La gent d'Amèrica del Nord té dificultats per entendre la meitat dels dialectes britànics parlats.,"entailment 
+
+**explanation:**
+
+the premise states that british english has more distinct dialects than north american english and that some of these dialects are mutually unintelligible.  this implies a degree of difficulty in understanding british dialects *by* north americans. the hypothesis states that north americans have difficulty understanding *half* of british dialects.  since some british dialects are already mutually unintelligible, it's highly probable that north americans struggle with a significant portion of them.  while the premise doesn't *explicitly* state ""half,"" it strongly supports the hypothesis. therefore, the premise entails the hypothesis.
+"
+"Un informador de Tennessee va utilitzar l'expressió ""temps de gossos"" per al ""temps càlid i sense pluja"", que pot derivar de l'expressió ""dies de gossos"" referint-se al clima sec d'agost.","Segons l'informant, el temps de gossos es va utilitzar per descriure les pluges monsòniques estacionals.","contradiction
+"
+"Un informador de Tennessee va utilitzar l'expressió ""temps de gossos"" per al ""temps càlid i sense pluja"", que pot derivar de l'expressió ""dies de gossos"" referint-se al clima sec d'agost.",Juny i juliol també són molt calorosos a Tennessee.,"neutral
+"
+"Un informador de Tennessee va utilitzar l'expressió ""temps de gossos"" per al ""temps càlid i sense pluja"", que pot derivar de l'expressió ""dies de gossos"" referint-se al clima sec d'agost.",El clima és calorós i sense pluja la majoria dels dies d'agost.,"entailment
+"
