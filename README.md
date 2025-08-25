@@ -35,3 +35,9 @@ _results_reply_folder_ has per language model replies (useful for debugging)
 
 _results_csv_folder_ has the compiled results for the task
 
+## To evaluate a new model:
+
+Add your scripts to code/ directory. 
+Run a script for LID, GlobalNLI, SIB14, Belebele, and Flores. 
+To compile the results make a compilation similar to compiling_results/
+

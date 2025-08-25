@@ -1,0 +1,123 @@
+language_name,language_code,language_family,region,accuracy
+Mesopotamian Arabic,acm_Arab,Afro-Asiatic,Asia 1,71.3
+Afrikaans,afr_Latn,Indo-European,Africa,85.3
+Tosk Albanian,als_Latn,Indo-European,Europe 1,82.7
+Amharic,amh_Ethi,Afro-Asiatic,Africa,65.2
+North Levantine Arabic,apc_Arab,Afro-Asiatic,Asia 1,73.7
+Modern Standard Arabic,arb_Arab,Afro-Asiatic,Asia 1,87.0
+Modern Standard Arabic (Romanized),arb_Latn,Afro-Asiatic,Asia 1,58.0
+Najdi Arabic,ars_Arab,Afro-Asiatic,Asia 1,77.9
+Moroccan Arabic,ary_Arab,Afro-Asiatic,Africa,66.6
+Egyptian Arabic,arz_Arab,Afro-Asiatic,Africa,76.6
+Assamese,asm_Beng,Indo-European,Asia 2,72.1
+North Azerbaijani,azj_Latn,Turkic,Asia 1,69.9
+Bambara,bam_Latn,Mande,Africa,30.0
+Bengali,ben_Beng,Indo-European,Asia 2,76.8
+Bengali,ben_Latn,Indo-European,Asia 2,61.1
+Standard Tibetan,bod_Tibt,Sino-Tibetan,Asia 3,36.2
+Bulgarian,bul_Cyrl,Indo-European,Europe 2,85.3
+Catalan,cat_Latn,Indo-European,Europe 1,86.1
+Cebuano,ceb_Latn,Austronesian,Asia 3,76.2
+Czech,ces_Latn,Indo-European,Europe 2,86.8
+Central Kurdish,ckb_Arab,Indo-European,Asia 1,67.4
+Danish,dan_Latn,Indo-European,Europe 1,89.1
+German,deu_Latn,Indo-European,Europe 1,87.4
+Greek,ell_Grek,Indo-European,Europe 1,86.1
+English,eng_Latn,Indo-European,Europe 1,89.8
+Estonian,est_Latn,Uralic,Europe 1,82.8
+Basque,eus_Latn,Basque,Europe 1,76.1
+Finnish,fin_Latn,Uralic,Europe 1,86.6
+French,fra_Latn,Indo-European,Europe 1,88.7
+Nigerian Fulfulde,fuv_Latn,Atlantic-Congo,Africa,27.7
+West Central Oromo,gaz_Latn,Afro-Asiatic,Africa,35.4
+Guarani,grn_Latn,Tupian,Americas/Oceania,41.8
+Gujarati,guj_Gujr,Indo-European,Asia 2,77.0
+Haitian Creole,hat_Latn,Indo-European,Americas/Oceania,74.0
+Hausa,hau_Latn,Afro-Asiatic,Africa,61.8
+Hebrew,heb_Hebr,Afro-Asiatic,Asia 1,83.7
+Hindi,hin_Deva,Indo-European,Asia 2,76.6
+Hindi,hin_Latn,Indo-European,Asia 2,71.3
+Croatian,hrv_Latn,Indo-European,Europe 2,85.9
+Hungarian,hun_Latn,Uralic,Europe 2,51.9
+Armenian,hye_Armn,Indo-European,Asia 1,77.1
+Igbo,ibo_Latn,Atlantic-Congo,Africa,46.2
+Ilocano,ilo_Latn,Austronesian,Asia 3,54.9
+Indonesian,ind_Latn,Austronesian,Asia 3,85.4
+Icelandic,isl_Latn,Indo-European,Europe 1,79.6
+Italian,ita_Latn,Indo-European,Europe 1,86.1
+Javanese,jav_Latn,Austronesian,Asia 3,75.2
+Japanese,jpn_Jpan,Japonic,Asia 4,82.7
+Jingpho,kac_Latn,Sino-Tibetan,Asia 3,32.4
+Kannada,kan_Knda,Dravidian,Asia 2,75.4
+Georgian,kat_Geor,Kartvelian,Asia 1,76.2
+Kazakh,kaz_Cyrl,Turkic,Asia 1,70.8
+Kabuverdianu,kea_Latn,Indo-European,Africa,69.7
+Halh Mongolian,khk_Cyrl,Mongolic-Khitan,Asia 4,65.4
+Khmer,khm_Khmr,Austroasiatic,Asia 3,71.7
+Kinyarwanda,kin_Latn,Atlantic-Congo,Africa,57.2
+Kyrgyz,kir_Cyrl,Turkic,Asia 1,73.3
+Korean,kor_Hang,Koreanic,Asia 4,83.1
+Lao,lao_Laoo,Tai-Kadai,Asia 3,70.1
+Lingala,lin_Latn,Atlantic-Congo,Africa,36.8
+Lithuanian,lit_Latn,Indo-European,Europe 1,84.8
+Ganda,lug_Latn,Atlantic-Congo,Africa,36.9
+Luo,luo_Latn,Nilotic,Africa,33.0
+Standard Latvian,lvs_Latn,Indo-European,Europe 1,86.2
+Malayalam,mal_Mlym,Dravidian,Asia 2,77.1
+Marathi,mar_Deva,Indo-European,Asia 2,78.2
+Macedonian,mkd_Cyrl,Indo-European,Europe 2,83.8
+Maltese,mlt_Latn,Afro-Asiatic,Europe 1,79.0
+Maori,mri_Latn,Austronesian,Americas/Oceania,44.8
+Burmese,mya_Mymr,Sino-Tibetan,Asia 3,71.9
+Dutch,nld_Latn,Indo-European,Europe 1,86.1
+Norwegian Bokmål,nob_Latn,Indo-European,Europe 1,86.7
+Nepali,npi_Deva,Indo-European,Asia 2,75.8
+Nepali,npi_Latn,Indo-European,Asia 2,55.6
+Northern Sotho,nso_Latn,Atlantic-Congo,Africa,43.8
+Nyanja,nya_Latn,Atlantic-Congo,Africa,50.2
+Odia,ory_Orya,Indo-European,Asia 2,66.4
+Eastern Panjabi,pan_Guru,Indo-European,Asia 2,71.9
+Southern Pashto,pbt_Arab,Indo-European,Asia 1,64.6
+Western Persian,pes_Arab,Indo-European,Asia 1,82.6
+Plateau Malagasy,plt_Latn,Austronesian,Africa,66.7
+Polish,pol_Latn,Indo-European,Europe 2,85.8
+Portuguese,por_Latn,Indo-European,Europe 1,78.1
+Romanian,ron_Latn,Indo-European,Europe 2,86.9
+Russian,rus_Cyrl,Indo-European,Europe 2,88.2
+Shan,shn_Mymr,Tai-Kadai,Asia 3,33.2
+Sinhala,sin_Latn,Indo-European,Asia 2,33.6
+Sinhala,sin_Sinh,Indo-European,Asia 2,72.9
+Slovak,slk_Latn,Indo-European,Europe 2,85.7
+Slovenian,slv_Latn,Indo-European,Europe 1,85.0
+Shona,sna_Latn,Atlantic-Congo,Africa,56.7
+Sindhi,snd_Arab,Indo-European,Asia 2,66.9
+Somali,som_Latn,Afro-Asiatic,Africa,55.9
+Southern Sotho,sot_Latn,Atlantic-Congo,Africa,48.7
+Spanish,spa_Latn,Indo-European,Europe 1,87.6
+Serbian,srp_Cyrl,Indo-European,Europe 2,85.9
+Swati,ssw_Latn,Atlantic-Congo,Africa,43.1
+Sundanese,sun_Latn,Austronesian,Asia 3,71.6
+Swedish,swe_Latn,Indo-European,Europe 1,87.8
+Swahili,swh_Latn,Atlantic-Congo,Africa,79.1
+Tamil,tam_Taml,Dravidian,Asia 2,76.0
+Telugu,tel_Telu,Dravidian,Asia 2,74.1
+Tajik,tgk_Cyrl,Indo-European,Asia 1,74.0
+Tagalog,tgl_Latn,Austronesian,Asia 3,84.4
+Thai,tha_Thai,Tai-Kadai,Asia 3,80.9
+Tigrinya,tir_Ethi,Afro-Asiatic,Africa,43.8
+Tswana,tsn_Latn,Atlantic-Congo,Africa,43.3
+Tsonga,tso_Latn,Atlantic-Congo,Africa,39.9
+Turkish,tur_Latn,Turkic,Asia 1,81.7
+Ukrainian,ukr_Cyrl,Indo-European,Europe 2,87.4
+Urdu,urd_Arab,Indo-European,Asia 2,77.2
+Urdu,urd_Latn,Indo-European,Asia 2,60.0
+Northern Uzbek,uzn_Latn,Turkic,Asia 1,77.8
+Vietnamese,vie_Latn,Austroasiatic,Asia 3,86.3
+Waray,war_Latn,Austronesian,Asia 3,72.9
+Wolof,wol_Latn,Atlantic-Congo,Africa,31.3
+Xhosa,xho_Latn,Atlantic-Congo,Africa,54.3
+Yoruba,yor_Latn,Atlantic-Congo,Africa,42.2
+Chinese (Simplified),zho_Hans,Sino-Tibetan,Asia 4,87.1
+Chinese (Traditional),zho_Hant,Sino-Tibetan,Asia 4,85.1
+Standard Malay,zsm_Latn,Austronesian,Asia 3,85.2
+Zulu,zul_Latn,Atlantic-Congo,Africa,56.8

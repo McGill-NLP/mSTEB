@@ -1,0 +1,60 @@
+language_name,language_code,language_family,region,accuracy
+Amharic,amh,Afro-Asiatic,Africa,63.5
+Arabic,ara,Afro-Asiatic,Asia 1,66.3
+Assamese,asm,Indo-European,Asia 2,58.3
+Aymara,aym,Aymaran,Americas/Oceania,38.8
+Bengali,ben,Indo-European,Asia 2,69.3
+Bulgarian,bul,Indo-European,Europe 2,72.2
+Bribri,bzd,Chibchan,Americas/Oceania,36.8
+Catalan,cat,Indo-European,Europe 1,73.8
+Asháninka,cni,Arawak,Americas/Oceania,34.8
+German,deu,Indo-European,Europe 1,69.8
+Greek,ell,Indo-European,Europe 1,71.3
+English,eng,Indo-European,Europe 1,80.0
+Ewe,ewe,Atlantic-Congo,Africa,36.0
+French,fra,Indo-European,Europe 1,73.3
+Guarani,grn,Tupi-Guaraní,Americas/Oceania,42.3
+Gujarati,guj,Indo-European,Asia 2,63.2
+Hausa,hau,Afro-Asiatic,Africa,60.5
+Wixarika,hch,Uto-Aztecan,Americas/Oceania,31.8
+Hindi,hin,Indo-European,Asia 2,67.8
+Igbo,ibo,Atlantic-Congo,Africa,58.0
+Indonesian,ind,Austronesian,Asia 3,77.3
+Japanese,jpn,Japonic,Asia 4,65.8
+Kannada,kan,Dravidian,Asia 2,64.3
+Kinyarwanda,kin,Atlantic-Congo,Africa,54.5
+Korean,kor,Koreanic,Asia 4,78.3
+Lingala,lin,Atlantic-Congo,Africa,34.0
+Luganda,lug,Atlantic-Congo,Africa,51.8
+Malayalam,mal,Dravidian,Asia 2,64.5
+Marathi,mar,Indo-European,Asia 2,64.7
+Burmese,mya,Sino-Tibetan,Asia 3,64.3
+Nahuatl,nah,Uto-Aztecan,Americas/Oceania,37.7
+Odia (Oriya),ori,Indo-European,Asia 2,60.0
+Oromo,orm,Afro-Asiatic,Africa,47.7
+Otomi,oto,Oto-Manguean,Americas/Oceania,34.2
+Punjabi,pan,Indo-European,Asia 2,70.0
+Jamaican Patois,pat,English-Creole,Americas/Oceania,80.8
+Polish,pol,Indo-European,Europe 2,88.8
+Portuguese,por,Indo-European,Europe 1,92.7
+Quechua,quy,Quechuan,Americas/Oceania,43.5
+Romanian,ron,Indo-European,Europe 2,63.0
+Russian,rus,Indo-European,Europe 2,69.0
+Shipibo-Conibo,shp,Panoan,Americas/Oceania,38.3
+chiShona,sna,Atlantic-Congo,Africa,58.0
+Sesotho,sot,Atlantic-Congo,Africa,54.8
+Spanish,spa,Indo-European,Europe 1,75.3
+Swahili,swa,Atlantic-Congo,Africa,63.3
+Tamil,tam,Dravidian,Asia 2,62.7
+Rarámuri,tar,Uto-Aztecan,Americas/Oceania,35.8
+Telugu,tel,Dravidian,Asia 2,63.3
+Thai,tha,Tai-Kadai,Asia 3,65.2
+Turkish,tur,Turkic,Asia 1,68.0
+Twi,twi,Atlantic-Congo,Africa,43.5
+Urdu,urd,Indo-European,Asia 2,63.0
+Vietnamese,vie,Austroasiatic,Asia 3,70.2
+Wolof,wol,Atlantic-Congo,Africa,39.2
+isiXhosa,xho,Atlantic-Congo,Africa,57.8
+Yoruba,yor,Atlantic-Congo,Africa,51.0
+Chinese,zho,Sino-Tibetan,Asia 4,68.0
+isiZulu,zul,Atlantic-Congo,Africa,59.2
